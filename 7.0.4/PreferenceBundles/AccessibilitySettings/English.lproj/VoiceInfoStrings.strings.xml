@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUTTON_DELETE</key>
+	<string>Delete Premium Voice</string>
+	<key>BUTTON_DOWNLOAD</key>
+	<string>Download Premium Voice</string>
+	<key>BUTTON_DOWNLOADING</key>
+	<string>Stop Downloading</string>
+	<key>CANT_DOWNLOAD_VOICE</key>
+	<string>Connect to a Wi-Fi network in order to download the Enhanced Quality voice.</string>
+	<key>CANT_DOWNLOAD_VOICE_WLAN</key>
+	<string>Connect to a WLAN network in order to download the Enhanced Quality voice.</string>
+	<key>COMPACT</key>
+	<string>Compact</string>
+	<key>DELETING</key>
+	<string>Deleting</string>
+	<key>DOWNLOADING_PREMIUM</key>
+	<string>Downloading… (%@ of %@)</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>PREMIUM</key>
+	<string>Premium (%@)</string>
+	<key>PREMIUM_DOWNLOAD_ANOTHER_ASSET_IS_DOWNLOADING</key>
+	<string>Another download is in progress…</string>
+	<key>PREMIUM_DOWNLOAD_NOW</key>
+	<string>Downloading the Enhanced Quality voice…</string>
+	<key>PREMIUM_INFO_FOOTER_TEXT</key>
+	<string>Choosing the Enhanced Quality voice will use %@.</string>
+	<key>PREMIUM_INFO_SELECTED_FOOTER_TEXT</key>
+	<string>The Enhanced Quality voice is using %@.</string>
+	<key>PREPARE_PREMIUM_DOWNLOAD</key>
+	<string>Preparing to Download…</string>
+	<key>SPOKEN_PROGRESS_LABEL</key>
+	<string>Download progress</string>
+	<key>STOP_DOWNLOADING_BUTTON</key>
+	<string>Stop download</string>
+	<key>TABLE_CELL_DOWNLOADING</key>
+	<string>Downloading…</string>
+	<key>TABLE_CELL_PREMIUM</key>
+	<string>Enhanced Quality</string>
+	<key>VOICE_INFO_HEADER_TEXT</key>
+	<string>Voice Quality</string>
+</dict>
+</plist>

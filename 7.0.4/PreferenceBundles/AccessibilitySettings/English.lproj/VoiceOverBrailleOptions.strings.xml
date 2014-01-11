@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALWAYS_USE_NEMETH</key>
+	<string>Equations use Nemeth Code</string>
+	<key>BLUETOOTH_OFF</key>
+	<string>Turn on Bluetooth to use a braille device.</string>
+	<key>BLUETOOTH_POWER_PROMPT</key>
+	<string>Bluetooth is required to use a braille device. Would you like to turn on Bluetooth?</string>
+	<key>BRAILLE</key>
+	<string>Braille</string>
+	<key>BRAILLE_TABLES</key>
+	<string>Braille Translation</string>
+	<key>CONTRACTION_MODE</key>
+	<string>Contracted Braille</string>
+	<key>DEVICES</key>
+	<string>Choose a Braille Device…</string>
+	<key>EIGHTDOT_MODE</key>
+	<string>Eight-dot Braille</string>
+	<key>ENGLISH_UNIFIED_BRAILLE_TABLE</key>
+	<string>English (Unified)</string>
+	<key>ENGLISH_US_BRAILLE_TABLE</key>
+	<string>English (US)</string>
+	<key>GRADE2_AUTO_TRANSLATE</key>
+	<string>Automatic Braille Translation</string>
+	<key>SHOW_SW_KEYBOARD</key>
+	<string>Show Onscreen Keyboard</string>
+	<key>STATUS_CELL</key>
+	<string>Status Cell</string>
+</dict>
+</plist>

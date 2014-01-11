@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALL_GROUP</key>
+	<string>All Contacts</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>FORGET_ALERT_BODY</key>
+	<string>Pair with this device to use it again.</string>
+	<key>FORGET_ALERT_TITLE</key>
+	<string>Forget “%@”</string>
+	<key>FORGET_BUTTON</key>
+	<string>Forget this Device</string>
+	<key>FORGET_SHEET_TITLE</key>
+	<string>Forget Device</string>
+	<key>GROUPS</key>
+	<string>Groups</string>
+	<key>MAP_SWITCH</key>
+	<string>Show Notifications</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>SYNC_FAVORITES</key>
+	<string>Phone Favorites</string>
+	<key>SYNC_RECENTS</key>
+	<string>Phone Recents</string>
+	<key>SYNC_SWITCH</key>
+	<string>Sync Contacts</string>
+</dict>
+</plist>

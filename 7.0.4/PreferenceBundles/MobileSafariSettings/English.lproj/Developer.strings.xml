@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced Settings Title</key>
+	<string>Advanced</string>
+	<key>JavaScript</key>
+	<string>JavaScript</string>
+	<key>Remove Website Data Title</key>
+	<string>Remove Website Data</string>
+	<key>WEB_INSPECTOR_DETAIL_TEXT</key>
+	<string>To use the Web Inspector, connect to Safari on your computer using a cable and access your %@ from the Develop menu. You can enable the Develop menu in Safari’s Advanced Preferences on your computer.</string>
+	<key>WEB_INSPECTOR_SIMULATOR_DETAIL_TEXT</key>
+	<string>To use the Web Inspector, use Safari and access %@ from the Develop menu. You can enable the Develop menu in Safari’s Advanced Preferences on your computer.</string>
+	<key>Web Inspector</key>
+	<string>Web Inspector</string>
+	<key>Website Data Button Title</key>
+	<string>Website Data</string>
+</dict>
+</plist>

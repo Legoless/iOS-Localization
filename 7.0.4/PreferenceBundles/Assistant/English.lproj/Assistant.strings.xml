@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALWAYS</key>
+	<string>Always</string>
+	<key>ASSISTANT</key>
+	<string>Siri</string>
+	<key>ASSISTANT_DISABLE_CANCEL</key>
+	<string>Cancel</string>
+	<key>ASSISTANT_DISABLE_OK</key>
+	<string>Turn Off</string>
+	<key>ASSISTANT_DISABLE_TITLE</key>
+	<string>Disable Siri</string>
+	<key>ASSISTANT_DISABLE_WARNING</key>
+	<string>The information Siri uses to respond to your requests will be removed from Apple servers. If you want to use Siri later, it will take time to re-send this information.</string>
+	<key>ASSISTANT_ENABLE_CANCEL</key>
+	<string>Cancel</string>
+	<key>ASSISTANT_ENABLE_OK</key>
+	<string>Enable</string>
+	<key>ASSISTANT_ENABLE_TITLE</key>
+	<string>Enable Siri</string>
+	<key>ASSISTANT_ENABLE_WARNING</key>
+	<string>Siri sends information like your voice input, contacts, and location to Apple to process your requests.</string>
+	<key>ASSISTANT_FOOTER</key>
+	<string>Siri helps you get things done just by asking. You can make a phone call, send a message, dictate a note, or even find a restaurant. About Siri and Privacy…</string>
+	<key>ASSISTANT_FOOTER_FACETIME</key>
+	<string>Siri helps you get things done just by asking. You can make a FaceTime call, send a message, dictate a note, or even find a restaurant. About Siri and Privacy…</string>
+	<key>ASSISTANT_FOOTER_NONUS</key>
+	<string>Siri helps you get things done just by asking. You can make a phone call, send a message, dictate a note, or check the weather. About Siri and Privacy…</string>
+	<key>ASSISTANT_FOOTER_NONUS_FACETIME</key>
+	<string>Siri helps you get things done just by asking. You can make a FaceTime call, send a message, dictate a note, or check the weather. About Siri and Privacy…</string>
+	<key>ASSISTANT_FOOTER_NONUS_NOVOIP</key>
+	<string>Siri helps you get things done just by asking. You can send a message, dictate a note, or check the weather. About Siri and Privacy…</string>
+	<key>ASSISTANT_FOOTER_NOVOIP</key>
+	<string>Siri helps you get things done just by asking. You can send a message, dictate a note, or even find a restaurant. About Siri and Privacy…</string>
+	<key>ASSISTANT_USAGE_NORAISE</key>
+	<string>To talk to Siri, press and hold the home button and speak.</string>
+	<key>ASSISTANT_USAGE_RAISE</key>
+	<string>To talk to Siri, press and hold the home button or raise the phone to your ear and speak.</string>
+	<key>FEMALE</key>
+	<string>Female</string>
+	<key>HANDSFREE</key>
+	<string>Handsfree Only</string>
+	<key>LANGUAGE</key>
+	<string>Language</string>
+	<key>MALE</key>
+	<string>Male</string>
+	<key>MyInfo</key>
+	<string>My Info</string>
+	<key>None</key>
+	<string>None</string>
+	<key>RAISE_TO_SPEAK</key>
+	<string>Raise to Speak</string>
+	<key>VOICE_DIAL_ONLY</key>
+	<string>Voice Dial Only</string>
+	<key>VOICE_FEEDBACK</key>
+	<string>Voice Feedback</string>
+	<key>VOICE_GENDER</key>
+	<string>Voice Gender</string>
+</dict>
+</plist>

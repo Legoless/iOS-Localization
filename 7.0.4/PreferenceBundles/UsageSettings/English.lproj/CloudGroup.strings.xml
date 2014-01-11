@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AVAILABLE</key>
+	<string>Available</string>
+	<key>AVAILABLE_OF</key>
+	<string>%@ available of %@</string>
+	<key>AVAILABLE_OF_ON_CASTLE</key>
+	<string>%@ available of %@ on iCloud</string>
+	<key>BUY_MORE_STORAGE</key>
+	<string>Buy More Storage</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CASTLE</key>
+	<string>iCloud</string>
+	<key>CHANGE_STORAGE_PLAN</key>
+	<string>Change Storage Plan</string>
+	<key>DATA_MAIL</key>
+	<string>%@ data, %@ mail</string>
+	<key>DEFAULT_ERROR_GENERIC</key>
+	<string>Cannot connect to iCloud</string>
+	<key>DEFAULT_ERROR_TITLE</key>
+	<string>An unknown error occurred.  Please try again.</string>
+	<key>DELETE_ALL</key>
+	<string>Delete All</string>
+	<key>DELETE_ALL_EXPLAINATION</key>
+	<string>All %@ documents &amp; data will be immediately deleted from iCloud and all of your devices.</string>
+	<key>DELETE_ALL_PROMPT</key>
+	<string>Delete Documents &amp; Data</string>
+	<key>DELETE_ERROR</key>
+	<string>Deletion of an item has failed. Please try again later.</string>
+	<key>DELETE_ITEM</key>
+	<string>Delete</string>
+	<key>DELETE_ITEM_EXPLAINATION</key>
+	<string>"%@" will be immediately deleted from iCloud and all of your devices.</string>
+	<key>DELETE_ITEM_PROMPT</key>
+	<string>Delete Item</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>LOADING</key>
+	<string>Loading...</string>
+	<key>MAIL_LABEL</key>
+	<string>Mail:</string>
+	<key>MANAGE</key>
+	<string>Manage Storage</string>
+	<key>OK</key>
+	<string>Ok</string>
+	<key>QUOTA_FAILED</key>
+	<string>iCloud storage details are currently unavailable. Try again later.</string>
+	<key>STORAGE</key>
+	<string>Storage</string>
+	<key>STORAGE_LABEL</key>
+	<string>Storage:</string>
+	<key>TOTAL</key>
+	<string>Total Storage</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>FORGET_ALERT_BODY</key>
+	<string>Pair with this device to use it again.</string>
+	<key>FORGET_ALERT_TITLE</key>
+	<string>Forget “%@”</string>
+	<key>FORGET_BUTTON</key>
+	<string>Forget this Device</string>
+	<key>FORGET_SHEET_TITLE</key>
+	<string>Forget Device</string>
+	<key>OK</key>
+	<string>OK</string>
+</dict>
+</plist>

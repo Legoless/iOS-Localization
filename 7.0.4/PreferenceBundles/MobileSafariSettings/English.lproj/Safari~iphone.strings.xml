@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Advanced Button Title</key>
+	<string>Advanced</string>
+	<key>Always</key>
+	<string>Always</string>
+	<key>Baidu</key>
+	<string>Baidu</string>
+	<key>Bing</key>
+	<string>Bing</string>
+	<key>Block Cookies</key>
+	<string>Block Cookies</string>
+	<key>Block Pop-ups</key>
+	<string>Block Pop-ups</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Clear</key>
+	<string>Clear</string>
+	<key>Clear Cookies and Data Button Title</key>
+	<string>Clear Cookies and Data</string>
+	<key>Clear Cookies and Data Prompt</key>
+	<string>This will clear data that could be used for tracking, but is also used by websites to preserve login information and to speed up browsing. All open pages will be closed.</string>
+	<key>Clear History Button Title</key>
+	<string>Clear History</string>
+	<key>Clear History Prompt</key>
+	<string>Are you sure you want to clear history? This cannot be undone.</string>
+	<key>Cookie Policy</key>
+	<string>Cookie Policy</string>
+	<key>Cookies</key>
+	<string>Cookies</string>
+	<key>Display Images</key>
+	<string>Display Images</string>
+	<key>Do Not Track</key>
+	<string>Do Not Track</string>
+	<key>Favorites</key>
+	<string>Favorites</string>
+	<key>Favorites Explanation Header</key>
+	<string>Quickly access Favorite bookmarks when you enter an address, search, or create a new tab.</string>
+	<key>Fraudulent Website Warning</key>
+	<string>Fraudulent Website Warning</string>
+	<key>From third parties and advertisers</key>
+	<string>From third parties and advertisers</string>
+	<key>General</key>
+	<string>General</string>
+	<key>Google</key>
+	<string>Google</string>
+	<key>In Background</key>
+	<string>In Background</string>
+	<key>In New Page</key>
+	<string>In New Page</string>
+	<key>Manage Browsing Data Button Title</key>
+	<string>Manage Browsing Data</string>
+	<key>Never</key>
+	<string>Never</string>
+	<key>Open Links</key>
+	<string>Open Links</string>
+	<key>Open New Tabs in Background</key>
+	<string>Open New Pages in Background</string>
+	<key>Passwords &amp; AutoFill</key>
+	<string>Passwords &amp; AutoFill</string>
+	<key>Privacy</key>
+	<string>Privacy &amp; Security</string>
+	<key>Privacy Explanation Footer Link</key>
+	<string>More about Safari and privacy…</string>
+	<key>Privacy Explanation Sheet Title</key>
+	<string>Safari and Privacy</string>
+	<key>Reading List</key>
+	<string>Reading List</string>
+	<key>Reading List Cellular Footer Text</key>
+	<string>Use cellular network to save Reading List items from iCloud for offline reading.</string>
+	<key>Remove Website Data Button Title</key>
+	<string>Remove Website Data</string>
+	<key>Safari</key>
+	<string>Safari</string>
+	<key>Search Engine</key>
+	<string>Search Engine</string>
+	<key>Security</key>
+	<string>Security</string>
+	<key>SmartSearchField</key>
+	<string>Smart Search Field</string>
+	<key>Use Cellular Data</key>
+	<string>Use Cellular Data</string>
+	<key>Web</key>
+	<string>Web</string>
+	<key>Yahoo!</key>
+	<string>Yahoo!</string>
+</dict>
+</plist>

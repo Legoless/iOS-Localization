@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>15_MIN</key>
+	<string>15 min</string>
+	<key>30_MIN</key>
+	<string>30 min</string>
+	<key>ACCOUNTS</key>
+	<string>Accounts</string>
+	<key>ADD_ACCOUNT</key>
+	<string>Add Account</string>
+	<key>FETCH_NEW_DATA</key>
+	<string>Fetch New Data</string>
+	<key>HOURLY</key>
+	<string>Hourly</string>
+	<key>LOADING_CONTACTS_CALENDARS</key>
+	<string>Loading Contacts, Calendars …</string>
+	<key>MAIL_CONTACTS_CALENDARS_EXTRA_SHORT</key>
+	<string>Mail…</string>
+	<key>MAIL_CONTACTS_CALENDARS_SHORT</key>
+	<string>Mail, Contacts…</string>
+	<key>MIDDLE_SEPARATOR</key>
+	<string>, </string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>PUSH</key>
+	<string>Push</string>
+	<key>SUBSCRIBED_CALENDARS</key>
+	<string>Subscribed Calendars</string>
+	<key>UNAVAILABLE_WHILE_SYNCING</key>
+	<string>Accounts are currently syncing.</string>
+</dict>
+</plist>

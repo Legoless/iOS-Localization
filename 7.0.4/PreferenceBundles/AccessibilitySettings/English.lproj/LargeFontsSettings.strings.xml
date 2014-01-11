@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LARGE_FONTS_TITLE</key>
+	<string>Large Text</string>
+	<key>LARGE_FONT_SAMPLE</key>
+	<string>%@pt text</string>
+	<key>LARGE_FONT_SAMPLE__SPOKEN</key>
+	<string>%@ point text</string>
+	<key>LARGE_FONT_STATUS</key>
+	<string>%@pt</string>
+	<key>LARGE_FONT_STATUS__SPOKEN</key>
+	<string>%@ point</string>
+	<key>LARGE_FONT_TEXT_PAD</key>
+	<string>View larger text in Mail, Contacts, Calendars, Messages, and Notes.</string>
+	<key>LARGE_FONT_TEXT_PHONE</key>
+	<string>View larger text in Mail, Contacts, Calendars, Messages, and Notes.</string>
+	<key>LARGE_FONT_TEXT_POD</key>
+	<string>View larger text in Mail, Contacts, Calendars, Messages, and Notes.</string>
+	<key>large.font.sample.text</key>
+	<string>Abc</string>
+</dict>
+</plist>

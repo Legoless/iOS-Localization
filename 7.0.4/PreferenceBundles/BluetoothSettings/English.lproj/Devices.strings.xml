@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCESSORY</key>
+	<string>Accessory</string>
+	<key>BLUETOOTH</key>
+	<string>Bluetooth</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONNECTION_FAILED_TITLE</key>
+	<string>Connection Unsuccessful</string>
+	<key>DEVICES</key>
+	<string>DEVICES</string>
+	<key>DIAGNOSTIC_MODE_TITLE</key>
+	<string>Diagnostic Mode</string>
+	<key>DISCOVERABLE</key>
+	<string>Now Discoverable</string>
+	<key>ERROR_GEN_CONNECTION_FAILURE</key>
+	<string>Make sure “%@” is turned on and in range.</string>
+	<key>ERROR_GEN_PAIRING_FAILURE</key>
+	<string>Make sure “%@” is turned on, in range, and is ready to pair.</string>
+	<key>ERROR_INCORRECT_PIN</key>
+	<string>Make sure “%@” is ready to pair, the PIN code is correct, and try again.</string>
+	<key>ERROR_PAIRING_TIMEOUT</key>
+	<string>Pairing took too long.</string>
+	<key>ERROR_UNSUPPORTED_DEVICE</key>
+	<string>“%@” is not supported.</string>
+	<key>FORGET_DEVICE</key>
+	<string>Forget Device</string>
+	<key>HOTSPOT_CONNECTED_CLIENTS_MESSAGE</key>
+	<string>Joining the network “%@” will disconnect Personal Hotspot users.</string>
+	<key>HOTSPOT_CONNECTED_CLIENTS_TITLE</key>
+	<string>Personal Hotspot</string>
+	<key>JOIN</key>
+	<string>Join</string>
+	<key>NOT_PAIRED</key>
+	<string>Not Paired</string>
+	<key>NO_BLUETOOTH</key>
+	<string>Unavailable</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>PAIR</key>
+	<string>Pair</string>
+	<key>PAIRED</key>
+	<string>Not Connected</string>
+	<key>PAIRED_AND_CONNECTED</key>
+	<string>Connected</string>
+	<key>PAIRING_FAILED_TITLE</key>
+	<string>Pairing Unsuccessful</string>
+	<key>PAIRING_PROMPT</key>
+	<string>Enter PIN</string>
+	<key>PASSWORD</key>
+	<string>PIN</string>
+	<key>POWER_OFF_WARNING</key>
+	<string>Location accuracy and nearby services are improved when Bluetooth is turned on.</string>
+	<key>SEARCHING</key>
+	<string>Searching…</string>
+	<key>SUCCESS</key>
+	<string>Connected</string>
+	<key>VALIDATING</key>
+	<string>Connecting…</string>
+</dict>
+</plist>

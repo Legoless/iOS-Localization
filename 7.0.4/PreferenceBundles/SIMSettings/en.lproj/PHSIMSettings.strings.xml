@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATTEMPTS_REMAINING</key>
+	<string>%@ attempts remaining.</string>
+	<key>ATTEMPT_REMAINING</key>
+	<string>%@ attempt remaining.</string>
+	<key>CANNOT_REUSE_PASSCODE</key>
+	<string>You cannot reuse a PIN. Try again.</string>
+	<key>CHANGE_PIN</key>
+	<string>Change PIN</string>
+	<key>CONFIRMATION_FAILURE</key>
+	<string>PINs did not match. Try again.</string>
+	<key>FORMAT_POLICY</key>
+	<string>SIM PIN must contain 4 to 8 digits.</string>
+	<key>PMCHANGE</key>
+	<string>Change PIN</string>
+	<key>PMCHANGE_1_PROMPT</key>
+	<string>Enter PIN to change SIM lock.</string>
+	<key>PMCHANGE_2_PROMPT</key>
+	<string>Enter a new PIN.</string>
+	<key>PMCHANGE_3_PROMPT</key>
+	<string>Re-enter your new PIN.</string>
+	<key>PMENTER</key>
+	<string>Lock SIM</string>
+	<key>PMENTER_1_PROMPT</key>
+	<string>Enter PIN to lock SIM.</string>
+	<key>PMREMOVE</key>
+	<string>Unlock SIM</string>
+	<key>PMREMOVE_1_PROMPT</key>
+	<string>Enter PIN to unlock SIM.</string>
+	<key>PMSET</key>
+	<string>Lock SIM</string>
+	<key>PMSET_1_PROMPT</key>
+	<string>Enter PIN to lock SIM.</string>
+	<key>PMSET_2_PROMPT</key>
+	<string>Re-enter your PIN.</string>
+	<key>SIM_APPLICATIONS</key>
+	<string>SIM Applications</string>
+	<key>SIM_PIN</key>
+	<string>SIM PIN</string>
+</dict>
+</plist>

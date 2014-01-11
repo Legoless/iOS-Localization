@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADJUST_MAG_INSTRUCTIONS</key>
+	<string>•  Double-tap three fingers and drag to change zoom</string>
+	<key>CONFIRM_VOT_OFF</key>
+	<string>VoiceOver and Zoom cannot be used at the same time.</string>
+	<key>CONFIRM_ZOOMTOUCH_DISABLE</key>
+	<string>Are you sure you want to turn off Zoom?</string>
+	<key>PAN_INSTRUCTIONS</key>
+	<string>•  Drag three fingers to move around the screen</string>
+	<key>ZOOM_INSTRUCTIONS</key>
+	<string>•  Double-tap three fingers to zoom</string>
+	<key>ZOOM_INTRO</key>
+	<string>Zoom magnifies the entire screen:</string>
+	<key>ZOOM_TITLE</key>
+	<string>Zoom</string>
+</dict>
+</plist>

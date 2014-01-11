@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BLACKLIST_ADD_NEW</key>
+	<string>Add New…</string>
+	<key>BLACKLIST_ADD_PROMPT</key>
+	<string>Add Blocked Contact</string>
+	<key>BLACKLIST_CELL_TITLE</key>
+	<string>Blocked</string>
+	<key>BLACKLIST_DONE</key>
+	<string>Done</string>
+	<key>BLACKLIST_EDIT</key>
+	<string>Edit</string>
+	<key>BLACKLIST_HELP</key>
+	<string>You will not receive phone calls, messages, or FaceTime from people on the block list.</string>
+	<key>BLACKLIST_HELP_NO_VOICEMAIL</key>
+	<string>You will not receive phone calls, messages, or FaceTime from people on the block list.</string>
+	<key>BLACKLIST_NAV_TITLE</key>
+	<string>Blocked</string>
+	<key>BLACKLIST_REMOVE</key>
+	<string>Unblock</string>
+</dict>
+</plist>

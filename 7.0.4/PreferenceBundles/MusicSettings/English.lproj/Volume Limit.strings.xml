@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONFIRMATION_FAILURE</key>
+	<string>Codes did not match. Try again.</string>
+	<key>EU_LIMIT_EXPLANATION</key>
+	<string>Limit maximum headphone volume to the European Union recommended level.</string>
+	<key>EU_LIMIT_LABEL</key>
+	<string>EU Volume Limit</string>
+	<key>LOCK</key>
+	<string>Lock Volume Limit</string>
+	<key>MAX_VOLUME</key>
+	<string>Max Volume</string>
+	<key>PMENTER_1_PROMPT</key>
+	<string>Enter your Volume Limit Code</string>
+	<key>PMREMOVE</key>
+	<string>Enter Code</string>
+	<key>PMREMOVE_1_PROMPT</key>
+	<string>Enter your Volume Limit Code</string>
+	<key>PMSET</key>
+	<string>Set Code</string>
+	<key>PMSET_1_PROMPT</key>
+	<string>Enter a Volume Limit Code</string>
+	<key>PMSET_2_PROMPT</key>
+	<string>Re-enter your Volume Limit Code</string>
+	<key>UNLOCK</key>
+	<string>Unlock Volume Limit</string>
+	<key>Volume Limit</key>
+	<string>Volume Limit</string>
+	<key>WRONG_1</key>
+	<string>Wrong Volume Limit Code</string>
+	<key>WRONG_2</key>
+	<string>Try again</string>
+</dict>
+</plist>

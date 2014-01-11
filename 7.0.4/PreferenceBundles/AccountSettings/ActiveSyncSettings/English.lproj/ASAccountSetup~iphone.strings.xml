@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1_DAY</key>
+	<string>1 Day</string>
+	<key>1_MONTH</key>
+	<string>1 Month</string>
+	<key>1_WEEK</key>
+	<string>1 Week</string>
+	<key>2_WEEKS</key>
+	<string>2 Weeks</string>
+	<key>3_DAYS</key>
+	<string>3 Days</string>
+	<key>ACCOUNT</key>
+	<string>Account</string>
+	<key>ACCOUNT_SETUP_CANCEL</key>
+	<string>Cancel</string>
+	<key>ACCOUNT_SETUP_SAVE</key>
+	<string>Save</string>
+	<key>ACCOUNT_VERIFICATION_FAILED</key>
+	<string>Unable to verify account information.</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</key>
+	<string>This account may not be able to send or receive emails. Are you sure you want to continue?</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>DIAGS_VISIBLE</key>
+	<string>Diagnostics</string>
+	<key>DOMAIN</key>
+	<string>Domain</string>
+	<key>DONT_SYNC</key>
+	<string>Don't Sync</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>EXAMPLE_EMAIL</key>
+	<string>email@company.com</string>
+	<key>EXAMPLE_HOST</key>
+	<string>server.company.com</string>
+	<key>EXCHANGE</key>
+	<string>Exchange</string>
+	<key>EXCHANGE_ACCOUNT</key>
+	<string>Exchange Account</string>
+	<key>EXCHANGE_DESCRIPTION</key>
+	<string>My Exchange Account</string>
+	<key>EXCHANGE_HOST</key>
+	<string>Server</string>
+	<key>HOTMAIL</key>
+	<string>Outlook</string>
+	<key>HOTMAIL_ACCOUNT</key>
+	<string>Outlook Account</string>
+	<key>HOTMAIL_DESCRIPTION</key>
+	<string>My Outlook Account</string>
+	<key>MAIL_PAST_DAYS_STRING</key>
+	<string>Mail Days to Sync</string>
+	<key>NEW_ACCOUNT_SETTINGS</key>
+	<string>Exchange</string>
+	<key>NEW_HOTMAIL_ACCOUNT_SETTINGS</key>
+	<string>Outlook</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>NO_LIMIT</key>
+	<string>No Limit</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OPTIONAL</key>
+	<string>Optional</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PROFILE_ACCOUNT_DESCRIPTION</key>
+	<string>These settings are installed by the profile '%@'</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SYNC</key>
+	<string>Sync</string>
+	<key>USERNAME</key>
+	<string>Username</string>
+	<key>USE_SSL</key>
+	<string>Use SSL</string>
+</dict>
+</plist>

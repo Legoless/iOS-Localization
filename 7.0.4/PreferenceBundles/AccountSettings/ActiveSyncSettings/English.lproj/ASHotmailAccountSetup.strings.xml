@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>EXAMPLE_HOTMAIL_EMAIL</key>
+	<string>email@outlook.com</string>
+	<key>HOTMAIL_DESCRIPTION</key>
+	<string>My Outlook Account</string>
+	<key>NEW_ACCOUNT_SETTINGS</key>
+	<string>Outlook</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+</dict>
+</plist>

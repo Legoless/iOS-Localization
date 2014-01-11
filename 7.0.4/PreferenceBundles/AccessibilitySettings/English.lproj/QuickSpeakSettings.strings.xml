@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIGHLIGHT_WORD</key>
+	<string>Highlight Words</string>
+	<key>QUICKSPEAK_VOICES</key>
+	<string>Voices</string>
+	<key>QUICK_SPEAK_RATE</key>
+	<string>Speaking Rate</string>
+	<key>QUICK_SPEAK_TITLE</key>
+	<string>Speak Selection</string>
+	<key>QuickSpeakGeneralFooterText</key>
+	<string>A Speak button will appear when you select text.</string>
+	<key>QuickSpeakWordHighlightFooterText</key>
+	<string>Highlight words as they are spoken.</string>
+</dict>
+</plist>

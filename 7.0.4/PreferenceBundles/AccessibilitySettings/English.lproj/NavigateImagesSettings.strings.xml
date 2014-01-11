@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NAVIGATE_IMAGES_TITLE</key>
+	<string>Navigate Images</string>
+	<key>NAV_IMG_ALWAYS</key>
+	<string>Always</string>
+	<key>NAV_IMG_NEVER</key>
+	<string>Never</string>
+	<key>NAV_IMG_W_DESCRIPTIONS</key>
+	<string>With descriptions</string>
+	<key>NAV_IMG_W_DESCRIPTIONS_SHORT</key>
+	<string>Descriptions</string>
+</dict>
+</plist>

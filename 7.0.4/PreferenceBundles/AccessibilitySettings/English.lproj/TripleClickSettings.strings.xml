@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TRIPLE_CLICK_ASK</key>
+	<string>Ask</string>
+	<key>TRIPLE_CLICK_ASSISTIVETOUCH_LONG</key>
+	<string>AssistiveTouch</string>
+	<key>TRIPLE_CLICK_ASSISTIVETOUCH_SHORT</key>
+	<string>AssistiveTouch</string>
+	<key>TRIPLE_CLICK_GUIDEDACCESS_LONG</key>
+	<string>Guided Access</string>
+	<key>TRIPLE_CLICK_GUIDEDACCESS_SHORT</key>
+	<string>Guided Access</string>
+	<key>TRIPLE_CLICK_HEARING_AIDS_LONG</key>
+	<string>Hearing Aids</string>
+	<key>TRIPLE_CLICK_HEARING_AIDS_SHORT</key>
+	<string>Hearing Aids</string>
+	<key>TRIPLE_CLICK_INTRO_TEXT</key>
+	<string>Triple-click the Home Button for:</string>
+	<key>TRIPLE_CLICK_OFF</key>
+	<string>Off</string>
+	<key>TRIPLE_CLICK_SWITCHOVER_LONG</key>
+	<string>Switch Control</string>
+	<key>TRIPLE_CLICK_SWITCHOVER_SHORT</key>
+	<string>Switch Control</string>
+	<key>TRIPLE_CLICK_TITLE</key>
+	<string>Accessibility Shortcut</string>
+	<key>TRIPLE_CLICK_VOICEOVER_LONG</key>
+	<string>VoiceOver</string>
+	<key>TRIPLE_CLICK_VOICEOVER_SHORT</key>
+	<string>VoiceOver</string>
+	<key>TRIPLE_CLICK_WHITEONBLACK_LONG</key>
+	<string>Invert Colors</string>
+	<key>TRIPLE_CLICK_WHITEONBLACK_SHORT</key>
+	<string>Invert Colors</string>
+	<key>TRIPLE_CLICK_ZOOM_LONG</key>
+	<string>Zoom</string>
+	<key>TRIPLE_CLICK_ZOOM_SHORT</key>
+	<string>Zoom</string>
+</dict>
+</plist>

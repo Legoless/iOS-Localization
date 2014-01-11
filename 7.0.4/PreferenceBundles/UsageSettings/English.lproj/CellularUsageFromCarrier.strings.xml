@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BILLING_CYCLE_END</key>
+	<string>Billing cycle ends: </string>
+	<key>CARRIER_USAGE</key>
+	<string>Carrier Statistics</string>
+	<key>CELLULAR_USAGE</key>
+	<string>Cellular Usage</string>
+	<key>DATA_LEFT</key>
+	<string>Remaining</string>
+	<key>DATA_OVERAGE</key>
+	<string>Overage</string>
+	<key>DATA_USAGE</key>
+	<string>Cellular Network Data</string>
+	<key>DATA_USED</key>
+	<string>Used</string>
+	<key>MESSAGE_USAGE</key>
+	<string>Messages</string>
+	<key>MO_MMS</key>
+	<string>MMS Sent</string>
+	<key>MO_SMS</key>
+	<string>SMS Sent</string>
+	<key>MT_MMS</key>
+	<string>MMS Received</string>
+	<key>MT_SMS</key>
+	<string>SMS Received</string>
+	<key>UNLIMITED</key>
+	<string>Unlimited</string>
+	<key>USAGE_UPDATE_TIME</key>
+	<string>Accurate as of: </string>
+	<key>VOICE_LEFT</key>
+	<string>Remaining</string>
+	<key>VOICE_OVERAGE</key>
+	<string>Overage</string>
+	<key>VOICE_PEAK</key>
+	<string>Used</string>
+	<key>VOICE_USAGE</key>
+	<string>Voice (Peak)</string>
+</dict>
+</plist>

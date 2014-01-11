@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BASE</key>
+	<string>Base</string>
+	<key>BASE_PLACEHOLDER</key>
+	<string>ou=people,o=company</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DELETE_SEARCH_SETTINGS</key>
+	<string>Delete Search Settings</string>
+	<key>DELETE_SEARCH_SETTINGS_WARNING</key>
+	<string>Are you sure you want to delete this search base?</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>ONE_LEVEL</key>
+	<string>One Level</string>
+	<key>SCOPE</key>
+	<string>Scope</string>
+	<key>SCOPE_HEADER</key>
+	<string>Search Scope</string>
+	<key>SEARCH_BASE</key>
+	<string>Base</string>
+	<key>SEARCH_BASE_SETTINGS</key>
+	<string>Search Settings</string>
+	<key>SEARCH_DESCRIPTION_PLACEHOLDER</key>
+	<string>My LDAP Search</string>
+	<key>SUBTREE</key>
+	<string>Subtree</string>
+</dict>
+</plist>

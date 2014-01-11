@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APN</key>
+	<string>APN</string>
+	<key>APN_NAME</key>
+	<string>APN</string>
+	<key>Advanced</key>
+	<string>Advanced</string>
+	<key>Auto</key>
+	<string>Auto</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CELLULAR_DATA</key>
+	<string>Cellular Data</string>
+	<key>DNS</key>
+	<string>DNS</string>
+	<key>EDGE_TITLE</key>
+	<string>Cellular Data</string>
+	<key>HTTP Proxy</key>
+	<string>HTTP Proxy</string>
+	<key>LTE_ATTACH_APN</key>
+	<string>LTE Setup (optional)</string>
+	<key>MMSC_NAME</key>
+	<string>MMSC</string>
+	<key>MMS_MAX_MESSAGE_SIZE</key>
+	<string>MMS Max Message Size</string>
+	<key>MMS_NAME</key>
+	<string>MMS</string>
+	<key>MMS_PROXY</key>
+	<string>MMS Proxy</string>
+	<key>MMS_UA_PROF_URL</key>
+	<string>MMS UA Prof URL</string>
+	<key>Manual</key>
+	<string>Manual</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>Port</key>
+	<string>Port</string>
+	<key>RESET</key>
+	<string>Reset</string>
+	<key>RESET_SETTINGS</key>
+	<string>Reset Settings</string>
+	<key>RESET_SETTINGS_CONFIRMATION_STRING</key>
+	<string>Are you sure you wish to reset all network-related settings to their original values?</string>
+	<key>Server</key>
+	<string>Server</string>
+	<key>TETHERING_NAME</key>
+	<string>Personal Hotspot</string>
+	<key>USERNAME</key>
+	<string>Username</string>
+	<key>VISUAL_VOICEMAIL</key>
+	<string>Visual Voicemail</string>
+</dict>
+</plist>

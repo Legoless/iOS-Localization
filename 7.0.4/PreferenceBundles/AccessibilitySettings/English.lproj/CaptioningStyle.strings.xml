@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_FONT</key>
+	<string>Add Font…</string>
+	<key>CAPTIONING_STYLE</key>
+	<string>Caption Window Style</string>
+	<key>CAPTION_ADVANCED_HEADER</key>
+	<string>Advanced</string>
+	<key>CAPTION_BACKGROUND_HEADER</key>
+	<string>Background</string>
+	<key>CAPTION_COLOR</key>
+	<string>Color</string>
+	<key>CAPTION_TEXT_HIGHLIGHT</key>
+	<string>Text Highlight</string>
+	<key>CAPTION_TEXT_OPTIONS</key>
+	<string>Text</string>
+	<key>CAPTION_TRANSPARENCY</key>
+	<string>Opacity</string>
+	<key>CAPTION_WINDOW_COLOR</key>
+	<string>Window Color</string>
+	<key>CAPTION_WINDOW_TRANSPARENCY</key>
+	<string>Window Transparency</string>
+	<key>CASUAL_CATEGORY</key>
+	<string>Casual</string>
+	<key>COLOR_BLACK</key>
+	<string>Black</string>
+	<key>COLOR_BLUE</key>
+	<string>Blue</string>
+	<key>COLOR_CYAN</key>
+	<string>Cyan</string>
+	<key>COLOR_GREEN</key>
+	<string>Green</string>
+	<key>COLOR_MAGENTA</key>
+	<string>Magenta</string>
+	<key>COLOR_RED</key>
+	<string>Red</string>
+	<key>COLOR_WHITE</key>
+	<string>White</string>
+	<key>COLOR_YELLOW</key>
+	<string>Yellow</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>EDGE_STYLE_DEPRESSED</key>
+	<string>Depressed</string>
+	<key>EDGE_STYLE_DROP_SHADOW</key>
+	<string>Drop Shadow</string>
+	<key>EDGE_STYLE_NONE</key>
+	<string>None</string>
+	<key>EDGE_STYLE_RAISED</key>
+	<string>Raised</string>
+	<key>EDGE_STYLE_UNIFORM</key>
+	<string>Uniform</string>
+	<key>FONT_CATEGORY_FOOTER_TEXT</key>
+	<string>Select fonts to be used when content requests a specific style of font be displayed.</string>
+	<key>FONT_SIZE_EXTRA_LARGE</key>
+	<string>Extra Large</string>
+	<key>FONT_SIZE_LARGE</key>
+	<string>Large</string>
+	<key>FONT_SIZE_MEDIUM</key>
+	<string>Medium</string>
+	<key>FONT_SIZE_SMALL</key>
+	<string>Small</string>
+	<key>MONOSPACED_SANS_SERIF_CATEGORY</key>
+	<string>Monospaced Sans Serif</string>
+	<key>MONOSPACED_SERIF_CATEGORY</key>
+	<string>Monospaced Serif</string>
+	<key>SAMPLE_CELL_TEXT</key>
+	<string>Aa</string>
+	<key>SANS_SERIF_CATEGORY</key>
+	<string>Sans Serif</string>
+	<key>SCRIPT_CATEGORY</key>
+	<string>Script</string>
+	<key>SERIF_CATEGORY</key>
+	<string>Serif</string>
+	<key>SMALL_CAPS_CATEGORY</key>
+	<string>Small Caps</string>
+	<key>TEXT_EDGE_STYLE</key>
+	<string>Text Edge Style</string>
+	<key>TEXT_SIZE</key>
+	<string>Size</string>
+	<key>TEXT_STYLE</key>
+	<string>Font</string>
+	<key>TEXT_TRANSPARENCY</key>
+	<string>Text Opacity</string>
+	<key>TRANSPARENCY_OPAQUE</key>
+	<string>Opaque</string>
+	<key>TRANSPARENCY_SEMI</key>
+	<string>Semi-Transparent</string>
+	<key>TRANSPARENCY_TRANSPARENT</key>
+	<string>Transparent</string>
+	<key>VIDEO_OVERRIDE_COLOR</key>
+	<string>When a color is specified by a video, use that color settings.</string>
+	<key>VIDEO_OVERRIDE_EDGE_STYLE</key>
+	<string>When an edge style is specified by a video, use that edge style.</string>
+	<key>VIDEO_OVERRIDE_FONT_STYLE</key>
+	<string>When a font is specified by a video, use that font.</string>
+	<key>VIDEO_OVERRIDE_HIGHLIGHT_STYLE</key>
+	<string>When a highlight is specified by a video, use that highlight.</string>
+	<key>VIDEO_OVERRIDE_OPACITY</key>
+	<string>When an opacity is specified by a video, use that opacity.</string>
+	<key>VIDEO_OVERRIDE_SIZE</key>
+	<string>When a size is specified by a video, use that size.</string>
+	<key>advanced</key>
+	<string>Advanced…</string>
+	<key>default.choice</key>
+	<string>%@ (Default)</string>
+	<key>default.style.name</key>
+	<string>Style %@</string>
+</dict>
+</plist>

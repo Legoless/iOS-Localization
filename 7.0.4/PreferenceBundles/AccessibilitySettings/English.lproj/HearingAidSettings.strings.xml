@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AvailableAidsHeading</key>
+	<string>Devices</string>
+	<key>BluetoothDisabledDescription</key>
+	<string>Bluetooth is required to connect to hearing aids.</string>
+	<key>BluetoothDisabledTitle</key>
+	<string>Bluetooth</string>
+	<key>ConnectionCellHint</key>
+	<string>Double tap to connect</string>
+	<key>ConnectionCellHintConnected</key>
+	<string>Double tap for more info</string>
+	<key>HEARING_AID_COMPLIANCE</key>
+	<string>Hearing Aid Mode</string>
+	<key>HearingAidConnected</key>
+	<string>Connected</string>
+	<key>HearingAidFallbackName</key>
+	<string>Hearing Aid</string>
+	<key>HearingAidFooterText</key>
+	<string>Triple-click the home button at any time to bring up hearing aid options.</string>
+	<key>HearingAidTitle</key>
+	<string>Hearing Aids</string>
+	<key>HearingControlLockScreen</key>
+	<string>Control on Lock Screen</string>
+	<key>HearingControlLockScreenFooter</key>
+	<string>Allow access to Hearing Aid Control at any time including the lock screen.</string>
+	<key>SearchingPlaceholder</key>
+	<string>Searching…</string>
+</dict>
+</plist>

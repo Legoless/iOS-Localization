@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>HID_MESSAGE</key>
+	<string>Enter the code “%@” on “%@”, followed by the return or enter key.</string>
+	<key>JUST_WORKS_MESSAGE</key>
+	<string>“%@” would like to pair with your %@.</string>
+	<key>NUMERIC_MESSAGE</key>
+	<string>“%@” would like to pair with your %@. Confirm that the code “%@” is shown on “%@”.</string>
+	<key>PAIRING_TITLE</key>
+	<string>Bluetooth Pairing Request</string>
+	<key>PAIR_BUTTON</key>
+	<string>Pair</string>
+	<key>PASSKEY_MESSAGE</key>
+	<string>“%@” would like to pair with your %@. Enter the code “%@” on “%@”.</string>
+</dict>
+</plist>

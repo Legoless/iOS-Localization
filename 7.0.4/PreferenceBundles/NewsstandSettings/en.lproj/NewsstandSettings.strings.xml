@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONTENT_DOWNLOAD_EXPLANATION</key>
+	<string>Automatically download new content when on Wi‑Fi. Turning off auto downloads may help preserve battery life.</string>
+	<key>CONTENT_DOWNLOAD_HEADER</key>
+	<string>Automatic Content Download</string>
+</dict>
+</plist>

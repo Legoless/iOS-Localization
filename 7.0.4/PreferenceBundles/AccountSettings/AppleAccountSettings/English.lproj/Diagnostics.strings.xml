@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DIAG_CLEAR_ALL_LOGS_TITLE</key>
+	<string>Clear Logs</string>
+	<key>DIAG_CLEAR_LOGS_SHEET_CANCEL</key>
+	<string>Cancel</string>
+	<key>DIAG_CLEAR_LOGS_SHEET_OK</key>
+	<string>Clear</string>
+	<key>DIAG_CLEAR_LOGS_SHEET_PROMPT</key>
+	<string>Are you sure you want to clear the diagnostics logs?</string>
+	<key>DIAG_CLEAR_LOGS_SHEET_TITLE</key>
+	<string>Clear Logs?</string>
+	<key>DIAG_ENTER_NOTES_TITLE</key>
+	<string>Notes</string>
+	<key>DIAG_LINK_TITLE</key>
+	<string>Diagnostics</string>
+	<key>DIAG_LOG_SAVED_MESSAGE</key>
+	<string>Log files have been saved in the folder '%@'.  To view the log files, sync with iTunes.</string>
+	<key>DIAG_LOG_SAVED_TITLE</key>
+	<string>Save Completed</string>
+	<key>DIAG_NOTES_CANCEL</key>
+	<string>Cancel</string>
+	<key>DIAG_NOTES_DONE</key>
+	<string>Done</string>
+	<key>DIAG_NOTES_FINISHED_SAVING_PROMPT</key>
+	<string>Finished saving logs</string>
+	<key>DIAG_NOTES_PROMPT</key>
+	<string>Enter notes about your issue</string>
+	<key>DIAG_NOTES_SAVING_PROMPT</key>
+	<string>Saving logs</string>
+	<key>DIAG_NOTES_TITLE</key>
+	<string>Notes</string>
+	<key>DIAG_NO_LOGS_TO_SAVE_MESSAGE</key>
+	<string>There are currently no logs to save.</string>
+	<key>DIAG_NO_LOGS_TO_SAVE_TITLE</key>
+	<string>No Logs</string>
+	<key>DIAG_SAVE_ALL_LOGS_TITLE</key>
+	<string>Save Logs</string>
+	<key>DIAG_SIMPLE_ALERT_OK</key>
+	<string>OK</string>
+</dict>
+</plist>

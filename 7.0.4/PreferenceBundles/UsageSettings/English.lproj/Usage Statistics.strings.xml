@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALL_MUSIC</key>
+	<string>All Music</string>
+	<key>APP_SIZE</key>
+	<string>App Size:</string>
+	<key>AVAILABLE</key>
+	<string>%@ Available</string>
+	<key>BAD_VALUES_IPAD</key>
+	<string>Usage times will be shown
+after iPad is fully charged</string>
+	<key>BAD_VALUES_IPHONE</key>
+	<string>Usage times will be shown
+after iPhone is fully charged</string>
+	<key>BAD_VALUES_IPOD</key>
+	<string>Usage times will be shown
+after iPod is fully charged</string>
+	<key>BATTERY_USAGE</key>
+	<string>Battery Usage</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CELLULAR_USAGE</key>
+	<string>Cellular Usage</string>
+	<key>CHARGING_IPAD</key>
+	<string>iPad has been plugged in
+since the last full charge</string>
+	<key>CHARGING_IPHONE</key>
+	<string>iPhone has been plugged in
+since the last full charge</string>
+	<key>CHARGING_IPOD</key>
+	<string>iPod has been plugged in
+since the last full charge</string>
+	<key>DELETE</key>
+	<string>Delete App</string>
+	<key>DELETE_APP</key>
+	<string>Delete App</string>
+	<key>DELETE_APP_EXPLAINATION</key>
+	<string>Deleting "%@" will also delete all of its documents &amp; data.</string>
+	<key>DELETING</key>
+	<string>Deleting…</string>
+	<key>DOCUMENTS_AND_DATA</key>
+	<string>Documents &amp; Data</string>
+	<key>EPISODE</key>
+	<string>1 Episode</string>
+	<key>EPISODES</key>
+	<string>%@ Episodes</string>
+	<key>EPISODE_SUBLABEL</key>
+	<string>Episode %@ (%@)</string>
+	<key>INFO</key>
+	<string>Info</string>
+	<key>IPOD</key>
+	<string>iPod</string>
+	<key>MUSIC</key>
+	<string>Music</string>
+	<key>NO_DATA</key>
+	<string>No Data</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PHOTOS</key>
+	<string>Photos &amp; Camera</string>
+	<key>SHOW_ALL</key>
+	<string>Show All</string>
+	<key>SHOW_ALL_APPS</key>
+	<string>Show all Apps</string>
+	<key>SHOW_BATTERY_PERCENTAGE</key>
+	<string>Battery Percentage</string>
+	<key>SIZE_available_DEVICE</key>
+	<string>%@ available on %@</string>
+	<key>STANDBY_ELAPSED</key>
+	<string>Standby</string>
+	<key>STORAGE</key>
+	<string>STORAGE</string>
+	<key>USAGE</key>
+	<string>Usage</string>
+	<key>USAGE_ELAPSED</key>
+	<string>Usage</string>
+	<key>USAGE_HEADER</key>
+	<string>Time since last full charge</string>
+	<key>USED</key>
+	<string>%@ Used</string>
+	<key>VERSION</key>
+	<string>Version</string>
+	<key>VIDEO</key>
+	<string>Videos</string>
+	<key>audiobooks</key>
+	<string>Audiobooks</string>
+	<key>audiocourses</key>
+	<string>Audio Courses</string>
+	<key>audiopodcasts</key>
+	<string>Podcasts</string>
+	<key>cameraroll</key>
+	<string>Camera Roll</string>
+	<key>movierentals</key>
+	<string>Rented Movies</string>
+	<key>movies</key>
+	<string>Movies</string>
+	<key>music</key>
+	<string>Music</string>
+	<key>musicVideos</key>
+	<string>Music Videos</string>
+	<key>photolibrary</key>
+	<string>Photo Library</string>
+	<key>photostream</key>
+	<string>Photo Stream</string>
+	<key>shows</key>
+	<string>TV Shows</string>
+	<key>videocourses</key>
+	<string>Video Courses</string>
+	<key>videopodcasts</key>
+	<string>Video Podcasts</string>
+</dict>
+</plist>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_EXISTS_MESSAGE</key>
+	<string>An account already exists with that name and date of birth.</string>
+	<key>ACCOUNT_FULLNAME</key>
+	<string>Full Name</string>
+	<key>ACCOUNT_INFO</key>
+	<string>Account</string>
+	<key>AGREE</key>
+	<string>Agree</string>
+	<key>ALLOW</key>
+	<string>Allow These Apps to Use Your Account</string>
+	<key>ALREADY_INVITED_MESSAGE</key>
+	<string>You have already been invited to join Facebook.</string>
+	<key>BIRTHDAY</key>
+	<string>Birthday</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_UPDATE</key>
+	<string>Cancel Update</string>
+	<key>CREATED</key>
+	<string>Created Account</string>
+	<key>CREATE_NEW_ACCOUNT</key>
+	<string>Create New Account</string>
+	<key>CREATING</key>
+	<string>Creating Account</string>
+	<key>DELETE_ACCOUNT</key>
+	<string>Delete</string>
+	<key>DELETE_ACCOUNT_BUTTON_TITLE</key>
+	<string>Delete Account</string>
+	<key>DELETE_ACCOUNT_FAILED</key>
+	<string>Account Removal Failed.</string>
+	<key>DELETE_FACEBOOK_ACCOUNT_MESSAGE_IPAD</key>
+	<string>Do you want to delete this Facebook account from your iPad?</string>
+	<key>DELETE_FACEBOOK_ACCOUNT_MESSAGE_IPHONE</key>
+	<string>Do you want to delete this Facebook account from your iPhone?</string>
+	<key>DELETE_FACEBOOK_ACCOUNT_MESSAGE_IPOD</key>
+	<string>Do you want to delete this Facebook account from your iPod touch?</string>
+	<key>DELETE_LOCAL_DATA_BUTTON</key>
+	<string>Remove Local Data</string>
+	<key>DELETING</key>
+	<string>Deleting…</string>
+	<key>DISAGREE</key>
+	<string>Disagree</string>
+	<key>DONT_MERGE_CONTACTS</key>
+	<string>Remove Facebook Info</string>
+	<key>DOWNLOAD_FACEBOOK_MESSAGE</key>
+	<string>Would you like to install the free Facebook app?</string>
+	<key>DOWNLOAD_FACEBOOK_TITLE</key>
+	<string>Install Facebook</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>EMAIL_EXAMPLE</key>
+	<string>email@example.com</string>
+	<key>EMAIL_INVALID_MESSAGE</key>
+	<string>The email address you entered is invalid.</string>
+	<key>EMAIL_INVALID_RETRY_MESSAGE</key>
+	<string>The email you entered is invalid. Would you like to enter a different one?</string>
+	<key>EMAIL_INVALID_TITLE</key>
+	<string>Invalid Email</string>
+	<key>EMAIL_OR_PHONE_MESSAGE</key>
+	<string>You can sign up with an email address or a phone number.</string>
+	<key>EMAIL_TAKEN_MESSAGE</key>
+	<string>The email you entered is already taken. Would you like to enter a different one?</string>
+	<key>EMAIL_TAKEN_TITLE</key>
+	<string>Email Already Taken</string>
+	<key>FACEBOOK</key>
+	<string>Facebook</string>
+	<key>FACEBOOK_APP_NAME</key>
+	<string>Facebook</string>
+	<key>FACEBOOK_DESCRIPTION</key>
+	<string>Facebook helps you connect and share with people in your life.</string>
+	<key>FACEBOOK_INC</key>
+	<string>Facebook Inc.</string>
+	<key>FAILED</key>
+	<string>Creating Account</string>
+	<key>FEMALE</key>
+	<string>Female</string>
+	<key>FIRST_NAME</key>
+	<string>First Name</string>
+	<key>FIRST_NAME_EXAMPLE</key>
+	<string>John</string>
+	<key>GENDER</key>
+	<string>Gender</string>
+	<key>INSTALL</key>
+	<string>Install</string>
+	<key>KEEP_LOCAL_DATA_BUTTON</key>
+	<string>Keep Local Data</string>
+	<key>LAST_NAME</key>
+	<string>Last Name</string>
+	<key>LAST_NAME_EXAMPLE</key>
+	<string>Appleseed</string>
+	<key>LATER</key>
+	<string>Later</string>
+	<key>LEARN_MORE_LINK</key>
+	<string>Learn More about Facebook</string>
+	<key>LEGAL_BIRTHDAY_REQUIREMENT_INFO</key>
+	<string>Why do I need to provide my birthday?</string>
+	<key>LEGAL_SIGN_UP_DATA_POLICY_LINK_TITLE</key>
+	<string>Data Use Policy</string>
+	<key>LEGAL_SIGN_UP_TERMS_LINK_TITLE</key>
+	<string>Terms</string>
+	<key>LEGAL_SIGN_UP_TEXT_IPAD</key>
+	<string>By tapping Sign Up, you agree to Facebook’s %@ and that you have read and understand Facebook’s %@.</string>
+	<key>LEGAL_SIGN_UP_TEXT_IPHONE</key>
+	<string>By tapping Sign Up, you agree to Facebook’s %@ and that you have&lt;br /&gt;read and understand Facebook’s&lt;br /&gt;%@.</string>
+	<key>MALE</key>
+	<string>Male</string>
+	<key>MERGE_CONTACTS</key>
+	<string>Merge Facebook Info</string>
+	<key>MERGE_CONTACTS_FAILED</key>
+	<string>Error merging contacts.</string>
+	<key>MERGE_CONTACTS_MESSAGE_IPAD</key>
+	<string>What would you like to do with the previously linked Facebook info on your iPad?
+If you keep Facebook info, it will be merged with your existing contacts.</string>
+	<key>MERGE_CONTACTS_MESSAGE_IPHONE</key>
+	<string>What would you like to do with the previously linked Facebook info on your iPhone?
+If you keep Facebook info, it will be merged with your existing contacts.</string>
+	<key>MERGE_CONTACTS_MESSAGE_IPOD</key>
+	<string>What would you like to do with the previously linked Facebook info on your iPod touch?
+If you keep Facebook info, it will be merged with your existing contacts.</string>
+	<key>MERGE_CONTACTS_SHORT</key>
+	<string>Merge</string>
+	<key>MERGING_CONTACTS</key>
+	<string>Merging Contacts</string>
+	<key>NEW_ACCOUNT</key>
+	<string>New Account</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OR</key>
+	<string>Or</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PASSWORD_INSECURE_MESSAGE</key>
+	<string>Your password should be more secure. Would you like to enter a new one?</string>
+	<key>PASSWORD_INSECURE_TITLE</key>
+	<string>Weak Password</string>
+	<key>PASSWORD_INVALID_MESSAGE</key>
+	<string>Your password contains invalid characters. Would you like to enter a new one?</string>
+	<key>PASSWORD_INVALID_TITLE</key>
+	<string>Invalid Password</string>
+	<key>PASSWORD_MISMATCH_MESSAGE</key>
+	<string>Password verification does not match the password you entered.</string>
+	<key>PASSWORD_MISMATCH_TITLE</key>
+	<string>Password Mismatch</string>
+	<key>PASSWORD_SHORT_MESSAGE</key>
+	<string>Your password must be at least 6 characters.</string>
+	<key>PASSWORD_SHORT_RETRY_MESSAGE</key>
+	<string>Your password is too short. Would you like to enter a new one?</string>
+	<key>PASSWORD_SHORT_TITLE</key>
+	<string>Password Too Short</string>
+	<key>PHONE</key>
+	<string>Phone</string>
+	<key>PHONE_EXAMPLE</key>
+	<string>123-555-1212</string>
+	<key>PHONE_INVALID_MESSAGE</key>
+	<string>Your phone number is invalid. Would you like to enter a different one?</string>
+	<key>PHONE_INVALID_TITLE</key>
+	<string>Invalid Phone Number</string>
+	<key>PHONE_TAKEN_MESSAGE</key>
+	<string>Phone Number Taken</string>
+	<key>PHONE_TAKEN_TITLE</key>
+	<string>The phone number you entered is already taken. Would you like to enter a different one?</string>
+	<key>REALLY_MERGE_CONTACTS_MESSAGE</key>
+	<string>Are you sure you want to merge Facebook info?
+Existing contacts will be modified and new contacts will be created for Facebook friends.</string>
+	<key>REGISTRATION_CANCELED_MESSAGE</key>
+	<string>A new Facebook account has not been created.</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SIGN_IN_APPROVAL_REQUIRED_MESSAGE</key>
+	<string>You will receive a text message with a temporary code. Please use this code instead of your password to sign in.</string>
+	<key>SIGN_IN_APPROVAL_REQUIRED_TITLE</key>
+	<string>Login Approval Required</string>
+	<key>SIGN_IN_ERROR_BLOCKED</key>
+	<string>Your account has been blocked for suspicious activity. Please log in to facebook.com from your computer and follow the instructions given.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_GENERIC</key>
+	<string>Could not communicate with the server.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_INTERNAL</key>
+	<string>An internal error occurred. Please try again.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_NO_CONNECTION</key>
+	<string>There is no connection to the Internet.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_PASSWORD</key>
+	<string>The user name or password is incorrect.</string>
+	<key>SIGN_IN_ERROR_MUST_VERIFY</key>
+	<string>You need to verify your email address before you can start using your Facebook account.</string>
+	<key>SIGN_IN_ERROR_OK</key>
+	<string>OK</string>
+	<key>SIGN_IN_ERROR_OPTED_OUT</key>
+	<string>You cannot sign in from your iPhone since you have opted out of Facebook Platform.</string>
+	<key>SIGN_IN_ERROR_TITLE</key>
+	<string>Error Signing In</string>
+	<key>SIGN_UP</key>
+	<string>Sign Up</string>
+	<key>SIGN_UP_GENERIC_ERROR_MESSAGE</key>
+	<string>There was an error creating the account</string>
+	<key>SIGN_UP_GENERIC_ERROR_TITLE</key>
+	<string>Error Creating Account</string>
+	<key>TERMS_AND_CONDITIONS_MESSAGE</key>
+	<string>You have to agree to Facebook Terms to create a Facebook account. Are you sure you don't want the account?</string>
+	<key>TERMS_AND_CONDITIONS_TITLE</key>
+	<string>Terms and Conditions</string>
+	<key>TOO_OLD_MESSAGE</key>
+	<string>The age you entered was invalid.</string>
+	<key>UNDERAGE_MESSAGE</key>
+	<string>You need a parent or guardian's permission to join Facebook. Please visit facebook.com</string>
+	<key>UNDERAGE_TITLE</key>
+	<string>Error Creating Account</string>
+	<key>UPDATED_CONTACT</key>
+	<string>%@ Contact Updated</string>
+	<key>UPDATED_CONTACTS</key>
+	<string>%@ Contacts Updated</string>
+	<key>UPDATE_CONTACTS_BUTTON</key>
+	<string>Update All Contacts</string>
+	<key>UPDATE_CONTACTS_ERROR_MESSAGE_GENERIC</key>
+	<string>Couldn’t connect to Facebook. Try again later.</string>
+	<key>UPDATE_CONTACTS_ERROR_TITLE</key>
+	<string>Couldn’t Update Contacts</string>
+	<key>UPDATE_CONTACTS_EXPLANATION</key>
+	<string>Photos and user names are automatically updated for Facebook friends. Choose “Update All Contacts” to temporarily provide Facebook with email addresses and phone numbers from your contacts to update photos and user names for all matching contacts.</string>
+	<key>UPDATING_CONTACTS</key>
+	<string>Updating Contacts</string>
+	<key>USERNAME</key>
+	<string>User Name</string>
+	<key>USERNAME_INVALID_MESSAGE</key>
+	<string>The name you entered was rejected. Would you like to enter a different one?</string>
+	<key>USERNAME_INVALID_TITLE</key>
+	<string>Name Rejected</string>
+	<key>VERIFY</key>
+	<string>Verify</string>
+	<key>VERIFYING</key>
+	<string>Verifying</string>
+	<key>VERIFY_EXAMPLE</key>
+	<string>Retype password</string>
+	<key>VERIFY_PASSWORD_HEADER</key>
+	<string>There was a problem accessing your account. Please reenter the password for %@:</string>
+</dict>
+</plist>

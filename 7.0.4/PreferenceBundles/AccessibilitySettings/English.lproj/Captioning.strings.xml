@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CAPTIONING_SWITCH</key>
+	<string>Show Captions</string>
+	<key>CAPTIONING_TITLE</key>
+	<string>Subtitles &amp; Captioning</string>
+	<key>CAPTION_THEME</key>
+	<string>Style</string>
+	<key>CONTENT_PROVIDED_SWITCH</key>
+	<string>Video Override</string>
+	<key>CONTENT_PROVIDED_SWITCH_FOOTER</key>
+	<string>When a style is specified by a video,
+ use that style.</string>
+	<key>CONTENT_PROVIDED_SWITCH_STYLE</key>
+	<string>Video Overrides Style</string>
+	<key>PREFER_SDH</key>
+	<string>Closed Captions + SDH</string>
+	<key>SAMPLE_CAPTION_TEXT</key>
+	<string>Subtitles look like this.</string>
+	<key>SDH_FOOTER_TEXT</key>
+	<string>When available, prefer closed captioning or subtitles for the deaf and hard 
+of hearing.</string>
+	<key>create.new.theme</key>
+	<string>Create New Style…</string>
+	<key>enlarge.caption.button</key>
+	<string>Show full-screen subtitle preview</string>
+	<key>shrink.caption.button</key>
+	<string>Show minimized subtitle preview</string>
+	<key>subtitle.preview.label.spoken</key>
+	<string>Subtitle Preview</string>
+</dict>
+</plist>

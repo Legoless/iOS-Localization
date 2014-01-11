@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNTS</key>
+	<string>Accounts</string>
+	<key>ACCOUNT_ALREADY_EXISTS_IPAD</key>
+	<string>This Twitter account has already been added to your iPad.</string>
+	<key>ACCOUNT_ALREADY_EXISTS_IPHONE</key>
+	<string>This Twitter account has already been added to your iPhone.</string>
+	<key>ACCOUNT_ALREADY_EXISTS_IPOD</key>
+	<string>This Twitter account has already been added to your iPod touch.</string>
+	<key>ACCOUNT_ALREADY_EXISTS_TITLE</key>
+	<string>“%1$@” is Already Added</string>
+	<key>ACCOUNT_CREATION_ERROR_FORMAT_EMAIL</key>
+	<string>This email is invalid.</string>
+	<key>ACCOUNT_CREATION_ERROR_FORMAT_NAME</key>
+	<string>The full name contains invalid characters.</string>
+	<key>ACCOUNT_CREATION_ERROR_FORMAT_SCREEN_NAME</key>
+	<string>The user name contains invalid characters.</string>
+	<key>ACCOUNT_CREATION_ERROR_GENERIC</key>
+	<string>There was an error creating the account.</string>
+	<key>ACCOUNT_CREATION_ERROR_LENGTH_NAME</key>
+	<string>The full name is too long.</string>
+	<key>ACCOUNT_CREATION_ERROR_LENGTH_SCREEN_NAME</key>
+	<string>The user name is too long.</string>
+	<key>ACCOUNT_CREATION_ERROR_STOP_WORDS_SCREEN_NAME</key>
+	<string>The user name contains banned words.</string>
+	<key>ACCOUNT_CREATION_ERROR_UNIQUENESS_EMAIL</key>
+	<string>This email is already in use.</string>
+	<key>ACCOUNT_CREATION_ERROR_UNIQUENESS_SCREEN_NAME</key>
+	<string>The user name is already in use.</string>
+	<key>ACCOUNT_EMAIL</key>
+	<string>Email</string>
+	<key>ACCOUNT_FULLNAME</key>
+	<string>Full Name</string>
+	<key>ACCOUNT_INFO</key>
+	<string>Account</string>
+	<key>ADD_ACCOUNT</key>
+	<string>Add Account</string>
+	<key>ADD_EXISTING_ACCOUNT</key>
+	<string>Add Account…</string>
+	<key>ALLOW</key>
+	<string>Allow These Apps to Use Your Account</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_UPDATE</key>
+	<string>Cancel Update</string>
+	<key>CREATED</key>
+	<string>Created Account</string>
+	<key>CREATE_NEW_ACCOUNT</key>
+	<string>Create New Account</string>
+	<key>CREATING</key>
+	<string>Creating Account</string>
+	<key>DELETE_ACCOUNT</key>
+	<string>Delete Account</string>
+	<key>DELETE_ACCOUNT_BUTTON_IPAD</key>
+	<string>Delete</string>
+	<key>DELETE_ACCOUNT_BUTTON_IPHONE</key>
+	<string>Delete Account</string>
+	<key>DELETE_TWITTER_ACCOUNT_MESSAGE_IPAD</key>
+	<string>Do you want to delete this Twitter account from your iPad?</string>
+	<key>DELETE_TWITTER_ACCOUNT_MESSAGE_IPHONE</key>
+	<string>Do you want to delete this Twitter account from your iPhone?</string>
+	<key>DELETE_TWITTER_ACCOUNT_MESSAGE_IPOD</key>
+	<string>Do you want to delete this Twitter account from your iPod touch?</string>
+	<key>DISPLAYNAME</key>
+	<string>Description</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DOWNLOAD_TWITTER_MESSAGE</key>
+	<string>Would you like to install the free Twitter app?</string>
+	<key>DOWNLOAD_TWITTER_TITLE</key>
+	<string>Install Twitter</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>EMAIL_EXAMPLE</key>
+	<string>name@example.com</string>
+	<key>EXAMPLE_DISPLAYNAME</key>
+	<string>Twitter</string>
+	<key>FIND_BY_EMAIL</key>
+	<string>Find Me by Email</string>
+	<key>FIND_BY_EMAIL_DISCLAIMER</key>
+	<string>Other people can follow you by searching for your email.</string>
+	<key>FULLNAME</key>
+	<string>Full Name</string>
+	<key>FULLNAME_EXAMPLE</key>
+	<string>John Appleseed</string>
+	<key>FULL_NAME_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>GENERIC_ERROR</key>
+	<string>There was an error creating the account</string>
+	<key>INSTALL</key>
+	<string>Install</string>
+	<key>INVALID_EMAIL_MESSAGE</key>
+	<string>Please enter a valid email address.</string>
+	<key>INVALID_EMAIL_TITLE</key>
+	<string>Invalid Email Address</string>
+	<key>LATER</key>
+	<string>Later</string>
+	<key>LEARN_MORE_LINK</key>
+	<string>Learn More about Twitter</string>
+	<key>LEGAL_FOOTER_PRIVACY_POLICY_LINK</key>
+	<string>http://twitter.com/privacy</string>
+	<key>LEGAL_FOOTER_TERMS_OF_SERVICE_LINK</key>
+	<string>http://twitter.com/tos</string>
+	<key>LEGAL_FOOTER_TEXT</key>
+	<string>By tapping ’Sign Up’ above, you are agreeing to the Privacy Policy and Terms of Service.</string>
+	<key>LEGAL_FOOTER_VIEW_PRIVACY_POLICY</key>
+	<string>View Privacy Policy</string>
+	<key>LEGAL_FOOTER_VIEW_TERMS_OF_SERVICE</key>
+	<string>View Terms of Service</string>
+	<key>LOCATION_DISCLAIMER</key>
+	<string>You can include your approximate location on individual tweets.</string>
+	<key>LOCATION_TITLE</key>
+	<string>Tweet Location</string>
+	<key>NEW_ACCOUNT</key>
+	<string>New Account</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PASSWORD_MISMATCH_MESSAGE</key>
+	<string>Password verification does not match the password you entered.</string>
+	<key>PASSWORD_MISMATCH_TITLE</key>
+	<string>Password Mismatch</string>
+	<key>PASSWORD_SHORT_MESSAGE</key>
+	<string>Your password must be at least 6 characters.</string>
+	<key>PASSWORD_SHORT_TITLE</key>
+	<string>Password Too Short</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>SERVER_ERROR_TITLE</key>
+	<string>Error Creating Account</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SIGN_IN_BUTTON</key>
+	<string>Sign Up</string>
+	<key>SIGN_IN_ERROR_MESSAGE_ADDITIONAL_AUTHENTICATION_VERIFICATION_REQUIRED</key>
+	<string>You must generate a temporary password on twitter.com to continue.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_GENERIC</key>
+	<string>Could not communicate with the server.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_NO_CONNECTION</key>
+	<string>There is no connection to the internet.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_PASSWORD</key>
+	<string>The user name or password is incorrect.</string>
+	<key>SIGN_IN_ERROR_OK</key>
+	<string>OK</string>
+	<key>SIGN_IN_ERROR_TITLE</key>
+	<string>Error Signing In</string>
+	<key>SIGN_UP</key>
+	<string>Sign Up</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>TWITTERAPP</key>
+	<string>Twitter</string>
+	<key>TWITTERINCAPP</key>
+	<string>Twitter Inc.</string>
+	<key>TWITTER_ACCOUNT_INFO</key>
+	<string>Twitter Account Information</string>
+	<key>TWITTER_DESCRIPTION</key>
+	<string>Twitter is a simple communication service made up of 140-character messages called Tweets.</string>
+	<key>UPDATED_CONTACT</key>
+	<string>%@ Contact Updated</string>
+	<key>UPDATED_CONTACTS</key>
+	<string>%@ Contacts Updated</string>
+	<key>UPDATE_CONTACTS</key>
+	<string>Update Contacts</string>
+	<key>UPDATE_CONTACTS_ERROR_MESSAGE_GENERIC</key>
+	<string>Couldn’t connect to Twitter. Try again later.</string>
+	<key>UPDATE_CONTACTS_ERROR_TITLE</key>
+	<string>Couldn’t Update Contacts</string>
+	<key>UPDATE_CONTACTS_EXPLANATION</key>
+	<string>Twitter will use email addresses and phone numbers from your contacts to add Twitter user names and photos to your contact cards.</string>
+	<key>UPDATE_ERROR_TITLE</key>
+	<string>“%@”</string>
+	<key>UPDATING_CONTACTS</key>
+	<string>Updating Contacts</string>
+	<key>USERNAME</key>
+	<string>User Name</string>
+	<key>USERNAME_EXAMPLE</key>
+	<string>name</string>
+	<key>VERIFY</key>
+	<string>Verify</string>
+	<key>VERIFYING</key>
+	<string>Verifying</string>
+	<key>VERIFY_EXAMPLE</key>
+	<string>Retype password</string>
+</dict>
+</plist>

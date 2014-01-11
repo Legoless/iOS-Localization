@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BLUETOOTH_POWER_TITLE</key>
+	<string>Bluetooth is turned off</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONNECTION_FAILED_TITLE</key>
+	<string>Connection Unsuccessful</string>
+	<key>ERROR_GEN_CONNECTION_FAILURE</key>
+	<string>Make sure “%@” is turned on and in range.</string>
+	<key>ERROR_GEN_PAIRING_FAILURE</key>
+	<string>Make sure “%@” is turned on, in range, and is ready to pair.</string>
+	<key>ERROR_INCORRECT_PIN</key>
+	<string>Make sure “%@” is ready to pair, the PIN code is correct, and try again.</string>
+	<key>ERROR_PAIRING_TIMEOUT</key>
+	<string>Pairing took too long.</string>
+	<key>ERROR_UNSUPPORTED_DEVICE</key>
+	<string>“%@” is not supported.</string>
+	<key>FORGET_DEVICE</key>
+	<string>Forget Device</string>
+	<key>HID_MESSAGE</key>
+	<string>Enter the PIN code “%@” on “%@”, followed by the return or enter key.</string>
+	<key>JUST_WORKS_BUTTON</key>
+	<string>Pair</string>
+	<key>JUST_WORKS_MESSAGE</key>
+	<string>Would you like to allow it to pair?</string>
+	<key>JUST_WORKS_TITLE</key>
+	<string>“%@” would like to pair with your %@.</string>
+	<key>LOADING_FAILURE</key>
+	<string>Could not load driver for
+“%@”</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>NOT_PAIRED</key>
+	<string>Not Paired</string>
+	<key>NUMERIC_BUTTON</key>
+	<string>Pair</string>
+	<key>NUMERIC_MESSAGE</key>
+	<string>Confirm that the PIN code “%@” is shown on “%@”</string>
+	<key>NUMERIC_TITLE</key>
+	<string>“%@” would like to pair with your %@.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PAIR</key>
+	<string>Pair</string>
+	<key>PAIRED</key>
+	<string>Not Connected</string>
+	<key>PAIRED_AND_CONNECTED</key>
+	<string>Connected</string>
+	<key>PAIRING</key>
+	<string>Pairing…</string>
+	<key>PAIRING_FAILED_TITLE</key>
+	<string>Pairing Unsuccessful</string>
+	<key>PAIRING_PROMPT</key>
+	<string>Enter PIN</string>
+	<key>PASSKEY_MESSAGE</key>
+	<string>Enter the PIN code “%@” on “%@”</string>
+	<key>PASSKEY_TITLE</key>
+	<string>“%@” would like to pair with your %@.</string>
+	<key>PASSWORD</key>
+	<string>PIN</string>
+	<key>SEARCHING</key>
+	<string>Searching…</string>
+	<key>VALIDATING</key>
+	<string>Connecting…</string>
+	<key>YES</key>
+	<string>Yes</string>
+</dict>
+</plist>

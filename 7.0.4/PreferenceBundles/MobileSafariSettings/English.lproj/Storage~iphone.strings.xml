@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cancel Button Title</key>
+	<string>Cancel</string>
+	<key>Loading Spinner Label Title</key>
+	<string>Loading…</string>
+	<key>Max Size</key>
+	<string>Max Size</string>
+	<key>Remove All Website Data</key>
+	<string>Remove All Website Data</string>
+	<key>Remove All Website Data Destructive Button Title</key>
+	<string>Remove All Website Data</string>
+	<key>Remove Button Title</key>
+	<string>Remove</string>
+	<key>Remove Now Button Title</key>
+	<string>Remove Now</string>
+	<key>Remove Website Data</key>
+	<string>Remove Website Data</string>
+	<key>Remove Website Data Message</key>
+	<string>This will clear data that could be used for tracking, but is also used by websites to preserve login information and to speed up browsing.</string>
+	<key>Show All Sites Button Title</key>
+	<string>Show All Sites</string>
+	<key>Used</key>
+	<string>Used</string>
+	<key>Website Data</key>
+	<string>Website Data</string>
+	<key>Website Data Title</key>
+	<string>Website Data</string>
+</dict>
+</plist>

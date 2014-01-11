@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CUSTOM_REPLY_HELP</key>
+	<string>These quick responses will be available when you respond to an incoming call with a text. Change them to say anything you like.</string>
+	<key>REPLY_WITH_MESSAGE_CELL_TITLE</key>
+	<string>Respond with Text</string>
+	<key>REPLY_WITH_MESSAGE_NAV_TITLE</key>
+	<string>Respond with Text</string>
+</dict>
+</plist>

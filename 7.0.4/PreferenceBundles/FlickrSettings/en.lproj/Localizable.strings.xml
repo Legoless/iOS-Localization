@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_INFO</key>
+	<string>Account</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DELETE_ACCOUNT</key>
+	<string>Delete Account</string>
+	<key>DELETE_ACCOUNT_BUTTON_IPAD</key>
+	<string>Delete</string>
+	<key>DELETE_ACCOUNT_BUTTON_IPHONE</key>
+	<string>Delete Account</string>
+	<key>DELETE_FLICKR_ACCOUNT_MESSAGE_IPAD</key>
+	<string>Do you want to delete this Flickr account from your iPad?</string>
+	<key>DELETE_FLICKR_ACCOUNT_MESSAGE_IPHONE</key>
+	<string>Do you want to delete this Flickr account from your iPhone?</string>
+	<key>DELETE_FLICKR_ACCOUNT_MESSAGE_IPOD</key>
+	<string>Do you want to delete this Flickr account from your iPod touch?</string>
+	<key>DOWNLOAD_FLICKR_MESSAGE</key>
+	<string>Would you like to install the free Flickr app?</string>
+	<key>DOWNLOAD_FLICKR_TITLE</key>
+	<string>Install Flickr</string>
+	<key>FLICKR</key>
+	<string>Flickr</string>
+	<key>FLICKR_APP_NAME</key>
+	<string>Flickr</string>
+	<key>FLICKR_COMPANY_NAME</key>
+	<string>Yahoo! Inc.</string>
+	<key>FLICKR_DESCRIPTION</key>
+	<string>Flickr helps you store, search, and share your photos online.</string>
+	<key>INSTALL</key>
+	<string>Install</string>
+	<key>LATER</key>
+	<string>Later</string>
+	<key>LEARN_MORE_LINK</key>
+	<string>Learn more about Flickr or get help signing in…</string>
+	<key>LOGGED_IN_HEADER</key>
+	<string>Logged in as:</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PASSWORD_REQUIRED</key>
+	<string>Required</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SIGN_IN_ERROR_MESSAGE_ACCOUNT_LOCKED</key>
+	<string>Your account is locked. Please visit the Flickr website for more details.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_GENERIC</key>
+	<string>Could not communicate with the server.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_NO_CONNECTION</key>
+	<string>There is no connection to the internet.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_PASSWORD</key>
+	<string>The user name or password is incorrect.</string>
+	<key>SIGN_IN_ERROR_OK</key>
+	<string>OK</string>
+	<key>SIGN_IN_ERROR_TITLE</key>
+	<string>Error Signing In</string>
+	<key>USERNAME</key>
+	<string>User Name</string>
+	<key>USERNAME_REQUIRED</key>
+	<string>Required</string>
+	<key>VERIFYING</key>
+	<string>Verifying</string>
+</dict>
+</plist>

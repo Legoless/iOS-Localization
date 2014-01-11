@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTION_SHEET_BAN_BUTTON_TITLE</key>
+	<string>Never Play This Song</string>
+	<key>ACTION_SHEET_CANCEL_BUTTON_TITLE</key>
+	<string>Cancel</string>
+	<key>ACTION_SHEET_LIKE_BUTTON_TITLE</key>
+	<string>Play More Like This</string>
+	<key>ACTION_SHEET_WISH_LIST_BUTTON_TITLE</key>
+	<string>Add To Wish List</string>
+</dict>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_NEW_LANGUAGE</key>
+	<string>Add New Language…</string>
+	<key>BRAILLE_TITLE</key>
+	<string>Braille</string>
+	<key>COMPACT_VOICE</key>
+	<string>Use Compact Voice</string>
+	<key>CONFIRM_VOTTOUCH_DISABLE</key>
+	<string>Are you sure you want to turn off VoiceOver?</string>
+	<key>CURSOR_STYLE</key>
+	<string>Large Cursor</string>
+	<key>DEFAULT_DIALECT</key>
+	<string>Default Dialect</string>
+	<key>HINTS_TITLE</key>
+	<string>Speak Hints</string>
+	<key>INCLUDE_SPEAKING_RATE_IN_ROTOR</key>
+	<string>Include in Rotor</string>
+	<key>INCLUDE_UNLABELED_IMAGES_TITLE</key>
+	<string>Navigate Images</string>
+	<key>LANGUAGE_ROTOR</key>
+	<string>Languages &amp; Dialects</string>
+	<key>LANGUAGE_ROTOR_ITEMS</key>
+	<string>Rotor Languages</string>
+	<key>PHONETICS_OFF</key>
+	<string>Off</string>
+	<key>PHONETICS_SPEAK_AFTER_DELAY</key>
+	<string>Character and Phonetics</string>
+	<key>PHONETICS_SPEAK_EXCLUSIVELY</key>
+	<string>Phonetics Only</string>
+	<key>PHONETICS_TITLE</key>
+	<string>Phonetic Feedback</string>
+	<key>PITCH_CHANGES_TITLE</key>
+	<string>Use Pitch Change</string>
+	<key>PRESS_ITEM_INSTRUCTION</key>
+	<string>•  Double-Tap to activate the selected item</string>
+	<key>SCROLL_ITEM_INSTRUCTION</key>
+	<string>•  Swipe three fingers to scroll</string>
+	<key>SELECT_ITEM_INSTRUCTION</key>
+	<string>•  Tap once to select an item</string>
+	<key>SOUND_EFFECTS</key>
+	<string>Use Sound Effects</string>
+	<key>SPEAKING_RATE</key>
+	<string>Speaking Rate</string>
+	<key>SPEAKING_RATE_IN_ROTOR_HINT</key>
+	<string>Always include speaking rate in the rotor</string>
+	<key>SPEAK_NOTIFICATIONS_IN_LOCK_SCREEN</key>
+	<string>Speak Notifications</string>
+	<key>SPEAK_NOTIFICATIONS_IN_LOCK_SCREEN_SPOKEN</key>
+	<string>Speak Notifications in Lock Screen</string>
+	<key>SPEECH_OPTIONS</key>
+	<string>Speech</string>
+	<key>TYPING_FEEDBACK</key>
+	<string>Typing Feedback</string>
+	<key>TYPING_OPTIONS</key>
+	<string>Typing</string>
+	<key>VOICEOVER_ACTIVATION_DISABLED</key>
+	<string>Use iTunes on your personal computer to enable VoiceOver.</string>
+	<key>VOICEOVER_GESTURE_HELP_BUTTON_TITLE</key>
+	<string>VoiceOver Practice</string>
+	<key>VOICEOVER_GESTURE_HELP_HINT_PART1</key>
+	<string>Practice VoiceOver gestures, commands, and typing in this area.</string>
+	<key>VOICEOVER_GESTURE_HELP_HINT_PART2</key>
+	<string>Select the Done button in the top right corner and double tap to exit.</string>
+	<key>VOICEOVER_GESTURE_HELP_NAVBAR_TITLE</key>
+	<string>VoiceOver Practice</string>
+	<key>VOICEOVER_GESTURE_HELP_TYPE_GENERAL_BUTTON_TITLE</key>
+	<string>General Help</string>
+	<key>VOICEOVER_GESTURE_HELP_TYPE_HANDWRITING_BUTTON_TITLE</key>
+	<string>Handwriting Help</string>
+	<key>VOICEOVER_INTRO</key>
+	<string>VoiceOver speaks items on the screen:</string>
+	<key>VOICEOVER_TITLE</key>
+	<string>VoiceOver</string>
+	<key>WEB_ROTOR</key>
+	<string>Rotor</string>
+</dict>
+</plist>

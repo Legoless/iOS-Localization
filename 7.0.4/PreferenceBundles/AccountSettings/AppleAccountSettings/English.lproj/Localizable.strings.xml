@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_INFORMATION</key>
+	<string>%@ Account Information</string>
+	<key>ACCOUNT_NOT_VERIFIED</key>
+	<string>Account Not Verified</string>
+	<key>ACTIVATION_LOCK_DESCRIPTION_IPAD</key>
+	<string>Link this iPad to your Apple ID to prevent another person from activating it.</string>
+	<key>ACTIVATION_LOCK_DESCRIPTION_IPHONE</key>
+	<string>Link this iPhone to your Apple ID to prevent another person from activating it.</string>
+	<key>ACTIVATION_LOCK_DESCRIPTION_IPOD</key>
+	<string>Link this iPod touch to your Apple ID to prevent another person from activating it.</string>
+	<key>ACTIVATION_LOCK_LABEL</key>
+	<string>Activation Lock</string>
+	<key>ADDING_ACCOUNT</key>
+	<string>Adding Account</string>
+	<key>ADD_ANYWAY</key>
+	<string>Add Anyway</string>
+	<key>ADVANCED</key>
+	<string>Advanced</string>
+	<key>ALLOW_LOCATION_TITLE_IPAD</key>
+	<string>Allow %@ to Use the Location of Your iPad?</string>
+	<key>ALLOW_LOCATION_TITLE_IPHONE</key>
+	<string>Allow %@ to Use the Location of Your iPhone?</string>
+	<key>ALLOW_LOCATION_TITLE_IPOD</key>
+	<string>Allow %@ to Use the Location of Your iPod touch?</string>
+	<key>ALREADY_EXISTING_ACCOUNT_DESC_IPAD</key>
+	<string>This %@ account has already been added to your iPad.</string>
+	<key>ALREADY_EXISTING_ACCOUNT_DESC_IPHONE</key>
+	<string>This %@ account has already been added to your iPhone.</string>
+	<key>ALREADY_EXISTING_ACCOUNT_DESC_IPOD</key>
+	<string>This %@ account has already been added to your iPod.</string>
+	<key>ALREADY_EXISTING_ACCOUNT_TITLE</key>
+	<string>“%@” is Already Added</string>
+	<key>APPLEID_EXPLANATION</key>
+	<string>Forgot Apple ID or Password?</string>
+	<key>APPLE_ID</key>
+	<string>Apple ID</string>
+	<key>APPROVE_BUTTON_TITLE_IPAD</key>
+	<string>Approve with Security Code</string>
+	<key>APPROVE_BUTTON_TITLE_IPHONE</key>
+	<string>Approve with Security Code</string>
+	<key>APPROVE_BUTTON_TITLE_IPOD</key>
+	<string>Approve with Security Code</string>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>BACKUP_OFF_FOOTER_TEXT</key>
+	<string>iCloud Backup is off.</string>
+	<key>BATCH_MERGE_CANCEL_BUTTON</key>
+	<string>Don't Merge</string>
+	<key>BATCH_MERGE_FORMAT_IPAD</key>
+	<string>Your %1$@ on this iPad will be uploaded and merged with %2$@.</string>
+	<key>BATCH_MERGE_FORMAT_IPHONE</key>
+	<string>Your %1$@ on this iPhone will be uploaded and merged with %2$@.</string>
+	<key>BATCH_MERGE_FORMAT_IPOD</key>
+	<string>Your %1$@ on this iPod will be uploaded and merged with %2$@.</string>
+	<key>BATCH_MERGE_OK_BUTTON</key>
+	<string>Merge</string>
+	<key>BATCH_MERGE_TITLE</key>
+	<string>Merge with %@?</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANT_CREATE_APPLEID_TITLE</key>
+	<string>Can’t Create Apple ID</string>
+	<key>CHECK_EMAIL</key>
+	<string>Check Email</string>
+	<key>CONFIRM_CHANGE_DATACLASS_ACCOUNT_FORMAT</key>
+	<string>If you turn on %1$@ for this account, it will turn off %1$@ for “%2$@”. If you keep the %1$@ from “%2$@”, you will be asked to merge them with this account's %1$@.</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_FORMAT_TITLE</key>
+	<string>Turn On %@</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_FORMAT_IPAD</key>
+	<string>Enabling Find My iPad on this account will turn off sync for “%@”.</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_FORMAT_IPHONE</key>
+	<string>Enabling Find My iPhone on this account will turn off sync for “%@”.</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_FORMAT_IPOD</key>
+	<string>Enabling Find My iPod touch on this account will turn off sync for “%@”.</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_WITH_DATA_FORMAT_IPAD</key>
+	<string>Enabling Find My iPad on this account will turn off sync for “%@”.
+What would you like to do with the currently synced data on your iPad?</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_WITH_DATA_FORMAT_IPHONE</key>
+	<string>Enabling Find My iPhone on this account will turn off sync for “%@”.
+What would you like to do with the currently synced data on your iPhone?</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_WITH_DATA_FORMAT_IPOD</key>
+	<string>Enabling Find My iPod touch on this account will turn off sync for “%@”.
+What would you like to do with the currently synced data on your iPod touch?</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_FORMAT_IPAD</key>
+	<string>Enabling Find My iPad on this account will turn off sync and Find My iPad for “%@”.</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_FORMAT_IPHONE</key>
+	<string>Enabling Find My iPhone on this account will turn off sync and Find My iPhone for “%@”.</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_FORMAT_IPOD</key>
+	<string>Enabling Find My iPod touch on this account will turn off sync and Find My iPod touch for “%@”.</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_WITH_DATA_FORMAT_IPAD</key>
+	<string>Enabling Find My iPad on this account will turn off sync and Find My iPad for “%@”.
+What would you like to do with the currently synced data on your iPad?</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_WITH_DATA_FORMAT_IPHONE</key>
+	<string>Enabling Find My iPhone on this account will turn off sync and Find My iPhone for “%@”.
+What would you like to do with the currently synced data on your iPhone?</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_WITH_DATA_FORMAT_IPOD</key>
+	<string>Enabling Find My iPod touch on this account will turn off sync and Find My iPod touch for “%@”.
+What would you like to do with the currently synced data on your iPod touch?</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_FORMAT</key>
+	<string>Syncing with this account will turn off sync for “%@”.</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_FORMAT_TITLE</key>
+	<string>Turn On %@</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_WITH_DATA_FORMAT_IPAD</key>
+	<string>Syncing with this account will turn off sync for “%@” and remove its synced data.
+What would you like to do with the currently synced data on your iPad?</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_WITH_DATA_FORMAT_IPHONE</key>
+	<string>Syncing with this account will turn off sync for “%@” and remove its synced data.
+What would you like to do with the currently synced data on your iPhone?</string>
+	<key>CONFIRM_CHANGE_SYNC_ACCOUNT_WITH_DATA_FORMAT_IPOD</key>
+	<string>Syncing with this account will turn off sync for “%@” and remove its synced data.
+What would you like to do with the currently synced data on your iPod touch?</string>
+	<key>CONFIRM_SWITCH_DATACLASS</key>
+	<string>Enabling %1$@ will turn off %1$@ for “%2$@”.</string>
+	<key>CONFIRM_SWITCH_DATACLASS_TITLE</key>
+	<string>Turn On %@</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>COPYING</key>
+	<string>Copying…</string>
+	<key>COPY_EXISTING_MOBILEME_DATA_IPAD</key>
+	<string>Keep on My iPad</string>
+	<key>COPY_EXISTING_MOBILEME_DATA_IPHONE</key>
+	<string>Keep on My iPhone</string>
+	<key>COPY_EXISTING_MOBILEME_DATA_IPOD</key>
+	<string>Keep on My iPod touch</string>
+	<key>COULD_NOT_LAUNCH_MAIL</key>
+	<string>Could not launch Mail.</string>
+	<key>CREATE_ACCOUNT</key>
+	<string>Get a Free Apple ID</string>
+	<key>CREATE_EMAIL_BUTTON</key>
+	<string>Create</string>
+	<key>CREATE_NEW_ACCOUNT_TITLE</key>
+	<string>New Account</string>
+	<key>CREATING_ACCOUNTS</key>
+	<string>Creating Account</string>
+	<key>CURRENT_MEMBER</key>
+	<string>Current Member</string>
+	<key>DELETE_ACCOUNT</key>
+	<string>Delete</string>
+	<key>DELETE_ACCOUNT_ICLOUD_SPECIFIC_WARNING_FORMAT_IPAD</key>
+	<string>If you delete your account, all %1$@ stored in iCloud will be deleted from this iPad.</string>
+	<key>DELETE_ACCOUNT_ICLOUD_SPECIFIC_WARNING_FORMAT_IPHONE</key>
+	<string>If you delete your account, all %1$@ stored in iCloud will be deleted from this iPhone.</string>
+	<key>DELETE_ACCOUNT_ICLOUD_SPECIFIC_WARNING_FORMAT_IPOD</key>
+	<string>If you delete your account, all %1$@ stored in iCloud will be deleted from this iPod touch.</string>
+	<key>DELETE_ACCOUNT_RESTORE_WARNING_IPAD</key>
+	<string>You cannot delete your iCloud account because your iPad is being restored.</string>
+	<key>DELETE_ACCOUNT_RESTORE_WARNING_IPHONE</key>
+	<string>You cannot delete your iCloud account because your iPhone is being restored.</string>
+	<key>DELETE_ACCOUNT_RESTORE_WARNING_IPOD</key>
+	<string>You cannot delete your iCloud account because your iPod is being restored.</string>
+	<key>DELETE_ACCOUNT_TITLE</key>
+	<string>Delete Account</string>
+	<key>DELETE_EXISTING_MOBILEME_DATA_IPAD</key>
+	<string>Delete From My iPad</string>
+	<key>DELETE_EXISTING_MOBILEME_DATA_IPHONE</key>
+	<string>Delete From My iPhone</string>
+	<key>DELETE_EXISTING_MOBILEME_DATA_IPOD</key>
+	<string>Delete From My iPod touch</string>
+	<key>DELETING</key>
+	<string>Deleting…</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>DESCRIPTION_PLACEHOLDER</key>
+	<string>My iCloud Account</string>
+	<key>DEVICE_LOCATOR_DESCRIPTION_IPAD</key>
+	<string>Find My iPad helps you locate this iPad on a map and remotely lock or erase it.</string>
+	<key>DEVICE_LOCATOR_DESCRIPTION_IPHONE</key>
+	<string>Find My iPhone helps you locate this iPhone on a map and remotely lock or erase it.</string>
+	<key>DEVICE_LOCATOR_DESCRIPTION_IPOD</key>
+	<string>Find My iPod touch helps you locate this iPod touch on a map and remotely lock or erase it.</string>
+	<key>DEVICE_LOCATOR_FOOTER_IPAD</key>
+	<string>Find My iPad allows you to locate, lock, or erase your iPad and prevents it from being erased or reactivated without your password.</string>
+	<key>DEVICE_LOCATOR_FOOTER_IPHONE</key>
+	<string>Find My iPhone allows you to locate, lock, or erase your iPhone and prevents it from being erased or reactivated without your password.</string>
+	<key>DEVICE_LOCATOR_FOOTER_IPOD</key>
+	<string>Find My iPod touch allows you to locate, lock, or erase your iPod touch and prevents it from being erased or reactivated without your password.</string>
+	<key>DEVICE_LOCATOR_IPAD</key>
+	<string>Find My iPad</string>
+	<key>DEVICE_LOCATOR_IPHONE</key>
+	<string>Find My iPhone</string>
+	<key>DEVICE_LOCATOR_IPOD</key>
+	<string>Find My iPod touch</string>
+	<key>DISABLE_ACTIVATION_LOCK_MESSAGE</key>
+	<string>Enter the Apple ID password for “%@” to turn off Activation Lock.</string>
+	<key>DOCS_AND_DATA</key>
+	<string>Documents &amp; Data</string>
+	<key>DOCS_AND_DATA_CELLULAR</key>
+	<string>Use Cellular Data</string>
+	<key>DOCS_AND_DATA_CELLULAR_EXPLANATION_WIFI</key>
+	<string>When not connected to Wi-Fi, use cellular network to transfer documents and data.</string>
+	<key>DOCS_AND_DATA_CELLULAR_EXPLANATION_WLAN</key>
+	<string>When not connected to WLAN, use cellular network to transfer documents and data.</string>
+	<key>DOCS_AND_DATA_EXPLANATION</key>
+	<string>Allow apps to store documents and data in iCloud.</string>
+	<key>DONT_ADD</key>
+	<string>Don't Add</string>
+	<key>DONT_ALLOW</key>
+	<string>Don't Allow</string>
+	<key>DONT_KEEP</key>
+	<string>Don't Keep</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>ENABLE_MOBILEME_LOCATOR_IPAD</key>
+	<string>This enables Find My iPad features, including the ability to show the location of this iPad on a map.</string>
+	<key>ENABLE_MOBILEME_LOCATOR_IPHONE</key>
+	<string>This enables Find My iPhone features, including the ability to show the location of this iPhone on a map.</string>
+	<key>ENABLE_MOBILEME_LOCATOR_IPOD</key>
+	<string>This enables Find My iPod touch features, including the ability to show the location of this iPod touch on a map.</string>
+	<key>ENABLE_MOBILEME_LOCATOR_LOCSERVICES_DISABLED_IPAD</key>
+	<string>This enables Find My iPad features. Turn on Location Services to show the location of this iPad on a map.</string>
+	<key>ENABLE_MOBILEME_LOCATOR_LOCSERVICES_DISABLED_IPHONE</key>
+	<string>This enables Find My iPhone features. Turn on Location Services to show the location of this iPhone on a map.</string>
+	<key>ENABLE_MOBILEME_LOCATOR_LOCSERVICES_DISABLED_IPOD</key>
+	<string>This enables Find My iPod touch features. Turn on Location Services to show the location of this iPod on a map.</string>
+	<key>EXAMPLE_ID</key>
+	<string>example@icloud.com</string>
+	<key>ICLOUD_KEYCHAIN_LABEL</key>
+	<string>iCloud Keychain</string>
+	<key>ICLOUD_KEYCHAIN_SYNC_DESCRIPTION</key>
+	<string>Keep your passwords and credit card information up to date across the devices you approve. Your information is encrypted and cannot be read by Apple.</string>
+	<key>IGNORE</key>
+	<string>Ignore</string>
+	<key>INVALID_USERNAME_ICLOUD</key>
+	<string>iCloud requires an Apple ID that is an email address
+(including @icloud.com addresses).</string>
+	<key>INVALID_USERNAME_MOBILEME</key>
+	<string>MobileMe requires an Apple ID that is an email address
+(including @icloud.com addresses).</string>
+	<key>INVALID_USERNAME_TITLE</key>
+	<string>Unsupported Apple ID</string>
+	<key>KEEP_DATACLASS_FORMAT</key>
+	<string>Keep %@</string>
+	<key>KEYCHAIN_INFO</key>
+	<string>Keychain</string>
+	<key>KEYCHAIN_NOT_AVAILABLE_IN_DEMO_MODE</key>
+	<string>iCloud Keychain is not enabled for this demo.</string>
+	<key>KEYCHAIN_SYNC</key>
+	<string>Keychain</string>
+	<key>LEARN_MORE</key>
+	<string>Learn More</string>
+	<key>LEARN_MORE_LINK</key>
+	<string>Learn More about iCloud</string>
+	<key>LEARN_MORE_URL</key>
+	<string>http://www.apple.com/icloud</string>
+	<key>LOADING_LABEL</key>
+	<string>Loading…</string>
+	<key>LOCATION_SERVICES_NEEDED_IPAD</key>
+	<string>Locating your iPad on a map is disabled. Turn on Location Services to enable it.</string>
+	<key>LOCATION_SERVICES_NEEDED_IPHONE</key>
+	<string>Locating your iPhone on a map is disabled. Turn on Location Services to enable it.</string>
+	<key>LOCATION_SERVICES_NEEDED_IPOD</key>
+	<string>Locating your iPod touch on a map is disabled. Turn on Location Services to enable it.</string>
+	<key>MAIL_ACCOUNT_INFO</key>
+	<string>Mail</string>
+	<key>MAIL_NOT_AVAILABLE</key>
+	<string>This Apple ID cannot be used for MobileMe Mail, but you can use it for other MobileMe services.</string>
+	<key>MAIL_NOT_AVAILABLE_TITLE</key>
+	<string>Mail Not Available</string>
+	<key>MERGE</key>
+	<string>Merge</string>
+	<key>MERGE_DATA_TO_SERVER</key>
+	<string>Your %1$@ will be merged with %2$@.</string>
+	<key>MERGE_DATA_TO_SERVER_EAS_PRESENT_IPAD</key>
+	<string>The %1$@ on your iPad will be merged with %2$@. Exchange %1$@ will not be merged.</string>
+	<key>MERGE_DATA_TO_SERVER_EAS_PRESENT_IPHONE</key>
+	<string>The %1$@ on your iPhone will be merged with %2$@. Exchange %1$@ will not be merged.</string>
+	<key>MERGE_DATA_TO_SERVER_EAS_PRESENT_IPOD</key>
+	<string>The %1$@ on your iPod touch will be merged with %2$@. Exchange %1$@ will not be merged.</string>
+	<key>MERGE_DATA_TO_SERVER_OTHER_OTA_ENABLED</key>
+	<string>Your %1$@ will be merged with %2$@.</string>
+	<key>MERGE_DATA_TO_SERVER_TITLE</key>
+	<string>Merge %@</string>
+	<key>MERGE_TETHERED_DATA_TO_SERVER_MAC</key>
+	<string>The %1$@ you previously synced with your Mac will be merged with %2$@.</string>
+	<key>MERGE_TETHERED_DATA_TO_SERVER_PC</key>
+	<string>The %1$@ you previously synced with your PC will be merged with %2$@.</string>
+	<key>MOBILEME_ACCOUNT_DISABLED_TITLE</key>
+	<string>%@ Disabled</string>
+	<key>MOBILEME_ACCOUNT_MISSING_INFO_TITLE</key>
+	<string>Account Update Required</string>
+	<key>MOBILEME_APPLEID_EXPLANATION</key>
+	<string>Start using MobileMe with your MobileMe email address.</string>
+	<key>MOBILEME_AUTHENTICATION_FAILED_MESSAGE</key>
+	<string>Your Apple ID or password is incorrect.</string>
+	<key>MOBILEME_CREATE_APPLEID_UNAVAILABLE_TITLE</key>
+	<string>Cannot Create Apple ID</string>
+	<key>MOBILEME_CREATE_UNAVAILABLE_TITLE</key>
+	<string>Cannot Sign In</string>
+	<key>MOBILEME_DESCRIPTION_PLACEHOLDER</key>
+	<string>My MobileMe Account</string>
+	<key>MOBILEME_EXAMPLE_ID</key>
+	<string>example@icloud.com</string>
+	<key>MOBILEME_INVALID_SIGNATURE_TITLE</key>
+	<string>Validation Failed</string>
+	<key>MOBILEME_PAID_ACCOUNT_LAPSED_TITLE</key>
+	<string>Paid Account Expired</string>
+	<key>MOBILEME_REGION_DENIED_TITLE</key>
+	<string>Unavailable</string>
+	<key>MOBILEME_TERMS_OF_SERVICE_UPDATE_TITLE</key>
+	<string>Terms of Service</string>
+	<key>MOBILEME_UNSUPPORTED_DEVICE_TITLE</key>
+	<string>Device Not Supported</string>
+	<key>MOBILEME_VERIFICATION</key>
+	<string>MobileMe Account Verification</string>
+	<key>NAME</key>
+	<string>Name</string>
+	<key>NEW_ICLOUD_TOS_BUTTON_TITLE</key>
+	<string>Terms and Conditions</string>
+	<key>NEW_ICLOUD_TOS_MESSAGE_IPAD</key>
+	<string>To use iCloud on this iPad you must accept the new iCloud Terms and Conditions.</string>
+	<key>NEW_ICLOUD_TOS_MESSAGE_IPHONE</key>
+	<string>To use iCloud on this iPhone you must accept the new Terms and Conditions.</string>
+	<key>NEW_ICLOUD_TOS_MESSAGE_IPOD</key>
+	<string>To use iCloud on this iPod touch you must accept the new Terms and Conditions.</string>
+	<key>NEW_ICLOUD_TOS_TITLE</key>
+	<string>New iCloud Terms and Conditions</string>
+	<key>NEW_MEMBER</key>
+	<string>New Member</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>NON_MAIN_ACCOUNT_MESSAGE_IPAD</key>
+	<string>Only your main account can use Bookmarks, Photo Stream, Documents &amp; Data, Backup, and Find My iPad.</string>
+	<key>NON_MAIN_ACCOUNT_MESSAGE_IPHONE</key>
+	<string>Only your main account can use Bookmarks, Photo Stream, Documents &amp; Data, Backup, and Find My iPhone.</string>
+	<key>NON_MAIN_ACCOUNT_MESSAGE_IPOD</key>
+	<string>Only your main account can use Bookmarks, Photo Stream, Documents &amp; Data, Backup, and Find My iPod touch.</string>
+	<key>NON_MAIN_ACCOUNT_TITLE</key>
+	<string>Secondary iCloud Account</string>
+	<key>NOT_AN_ICLOUD_ACCOUNT_MESSAGE</key>
+	<string>Go to icloud.com on your computer to move your information to iCloud.</string>
+	<key>NOT_AN_ICLOUD_ACCOUNT_TITLE</key>
+	<string>Move Your MobileMe Account to iCloud</string>
+	<key>NOT_A_MOBILEME_ACCOUNT_MESSAGE</key>
+	<string>This account has already been migrated to iCloud.</string>
+	<key>NOT_A_MOBILEME_ACCOUNT_TITLE</key>
+	<string>Not a MobileMe Account</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PENDING</key>
+	<string>Pending</string>
+	<key>PHOTOSTREAM</key>
+	<string>Photo Stream</string>
+	<key>PHOTOSTREAM_DELETE_WARNING_TITLE_IPAD</key>
+	<string>This will delete all Photo Stream photos from your iPad</string>
+	<key>PHOTOSTREAM_DELETE_WARNING_TITLE_IPHONE</key>
+	<string>This will delete all Photo Stream photos from your iPhone</string>
+	<key>PHOTOSTREAM_DELETE_WARNING_TITLE_IPOD</key>
+	<string>This will delete all Photo Stream photos from your iPod touch</string>
+	<key>PHOTOS_DATACLASS</key>
+	<string>Photos</string>
+	<key>READ_ONLY_CALENDARS_WILL_BE_DELETED</key>
+	<string>(Server-based calendars %@ will be removed.)</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>RESET_KEYCHAIN_BUTTON_TITLE</key>
+	<string>Reset iCloud Keychain</string>
+	<key>RETRY</key>
+	<string>Retry</string>
+	<key>SAVE_FAILED_MESSAGE</key>
+	<string>An error occurred while trying to save the iCloud account.</string>
+	<key>SERVER_UNREACHABLE_MESSAGE</key>
+	<string>Unable to connect to server.</string>
+	<key>SHOEBOX</key>
+	<string>Passbook</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>STORAGE_AND_BACKUP</key>
+	<string>Storage &amp; Backup</string>
+	<key>STORAGE_PLAN</key>
+	<string>Storage Plan</string>
+	<key>TAGLINE_LABEL</key>
+	<string>Get the most out of iOS.</string>
+	<key>TURN_OFF</key>
+	<string>Turn Off</string>
+	<key>TURN_OFF_DEVICE_LOCATOR_IPAD</key>
+	<string>Turning Off Find My iPad…</string>
+	<key>TURN_OFF_DEVICE_LOCATOR_IPHONE</key>
+	<string>Turning Off Find My iPhone…</string>
+	<key>TURN_OFF_DEVICE_LOCATOR_IPOD</key>
+	<string>Turning Off Find My iPod touch…</string>
+	<key>TURN_OFF_DOCS_AND_DATA</key>
+	<string>Turn Off Documents &amp; Data</string>
+	<key>TURN_OFF_DOCS_AND_DATA_BUTTON</key>
+	<string>Turn Off Documents</string>
+	<key>TURN_OFF_DOCS_AND_DATA_MESSAGE_IPAD</key>
+	<string>All documents &amp; data stored in iCloud will be deleted from this iPad.</string>
+	<key>TURN_OFF_DOCS_AND_DATA_MESSAGE_IPHONE</key>
+	<string>All documents &amp; data stored in iCloud will be deleted from this iPhone.</string>
+	<key>TURN_OFF_DOCS_AND_DATA_MESSAGE_IPOD</key>
+	<string>All documents &amp; data stored in iCloud will be deleted from this iPod.</string>
+	<key>TURN_ON</key>
+	<string>Turn On</string>
+	<key>TURN_ON_MAIL_MESSAGE</key>
+	<string>Create a free @icloud.com email address to turn on iCloud Mail.</string>
+	<key>TURN_ON_MAIL_TITLE</key>
+	<string>Turn On Mail</string>
+	<key>TURN_ON_NOTES_MESSAGE</key>
+	<string>Create a free @icloud.com email address to turn on Notes.</string>
+	<key>TURN_ON_NOTES_TITLE</key>
+	<string>Turn On Notes</string>
+	<key>TURN_ON_SHOEBOX_BUTTON</key>
+	<string>Turn On</string>
+	<key>TURN_ON_SHOEBOX_MESSAGE</key>
+	<string>Do you want to turn on
+Documents &amp; Data?</string>
+	<key>TURN_ON_SHOEBOX_TITLE</key>
+	<string>Passbook Data in iCloud
+Requires Documents &amp; Data</string>
+	<key>UBIQUITY_DIAGNOSE</key>
+	<string>Collect iCloud Documents Logs</string>
+	<key>UBIQUITY_DIAGNOSE_COLLECT</key>
+	<string>Collecting iCloud Documents Logs</string>
+	<key>UBIQUITY_DIAGNOSE_COLLECT_TEXT</key>
+	<string>Please wait... This can take several minutes.</string>
+	<key>UBIQUITY_DIAGNOSE_EMAIL_ERROR</key>
+	<string>No email account configured</string>
+	<key>UBIQUITY_DIAGNOSE_EMAIL_ERROR_TEXT</key>
+	<string>Configure your email account before collecting iCloud Documents logs.</string>
+	<key>UBIQUITY_DIAGNOSE_ERROR</key>
+	<string>Unable to collect iCloud Documents Logs</string>
+	<key>UBIQUITY_DIAGNOSE_ERROR_TEXT</key>
+	<string>Please contact AppleCare.</string>
+	<key>UBIQUITY_DIAGNOSE_TEXT</key>
+	<string>Legal disclaimer</string>
+	<key>UNABLE_TO_VALIDATE</key>
+	<string>Unable to validate account</string>
+	<key>UPDATE_FAILED_TITLE</key>
+	<string>Update account failed</string>
+	<key>USERNAME</key>
+	<string>Username</string>
+	<key>VALIDATION_EMAIL_RESENT</key>
+	<string>A verification email has been sent to %@.</string>
+	<key>VALIDATION_EMAIL_RESENT_TITLE</key>
+	<string>Email Sent</string>
+	<key>VERIFICATION_EMAIL_SENT</key>
+	<string>Check your email at %@ for instructions to verify this account.</string>
+	<key>VERIFICATION_FAILED_TITLE</key>
+	<string>Verification Failed</string>
+	<key>VERIFIED</key>
+	<string>Verified</string>
+	<key>VERIFYING</key>
+	<string>Verifying</string>
+	<key>WAITING_FOR_APPROVAL_MESSAGE_IPAD</key>
+	<string>To use iCloud Keychain on this iPad, approve it from another device that uses iCloud Keychain or use your iCloud Security Code.</string>
+	<key>WAITING_FOR_APPROVAL_MESSAGE_IPHONE</key>
+	<string>To use iCloud Keychain on this iPhone, approve it from another device that uses iCloud Keychain or use your iCloud Security Code.</string>
+	<key>WAITING_FOR_APPROVAL_MESSAGE_IPOD</key>
+	<string>To use iCloud Keychain on this iPod touch, approve it from another device that uses iCloud Keychain or use your iCloud Security Code.</string>
+	<key>WAITING_FOR_APPROVAL_MESSAGE_NO_SECURITY_CODE_IPAD</key>
+	<string>To use iCloud Keychain on this iPad, approve it from another device that uses iCloud Keychain.
+
+If you are unable to access another device, you can reset your keychain.</string>
+	<key>WAITING_FOR_APPROVAL_MESSAGE_NO_SECURITY_CODE_IPHONE</key>
+	<string>To use iCloud Keychain on this iPhone, approve it from another device that uses iCloud Keychain.
+
+If you are unable to access another device, you can reset your keychain.</string>
+	<key>WAITING_FOR_APPROVAL_MESSAGE_NO_SECURITY_CODE_IPOD</key>
+	<string>To use iCloud Keychain on this iPod touch, approve it from another device that uses iCloud Keychain.
+
+If you are unable to access another device, you can reset your keychain.</string>
+	<key>WAITING_FOR_APPROVAL_TITLE</key>
+	<string>Waiting for Approval</string>
+</dict>
+</plist>

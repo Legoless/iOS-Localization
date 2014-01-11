@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CHARACTERS</key>
+	<string>Characters</string>
+	<key>FEEDBACK_HARDWARE</key>
+	<string>Hardware Keyboards</string>
+	<key>FEEDBACK_SOFTWARE</key>
+	<string>Software Keyboards</string>
+	<key>NONE</key>
+	<string>Nothing</string>
+	<key>TYPING_FEEDBACK</key>
+	<string>Typing Feedback</string>
+	<key>WORDS</key>
+	<string>Words</string>
+	<key>WORDS_AND_CHARACTERS</key>
+	<string>Characters and Words</string>
+</dict>
+</plist>

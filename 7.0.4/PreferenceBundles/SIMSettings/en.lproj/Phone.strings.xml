@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATTEMPTS_REMAINING</key>
+	<string>%@ attempts remaining.</string>
+	<key>ATTEMPT_REMAINING</key>
+	<string>%@ attempt remaining.</string>
+	<key>Automatic</key>
+	<string>Automatic</string>
+	<key>BUSY</key>
+	<string>Busy</string>
+	<key>CALLS_LABEL</key>
+	<string>Calls</string>
+	<key>CALL_FORWARDING</key>
+	<string>Call Forwarding</string>
+	<key>CALL_FORWARD_ERROR_MESSAGE</key>
+	<string>Some call forwarding settings could not be changed</string>
+	<key>CALL_FORWARD_ERROR_TITLE</key>
+	<string>Call Forwarding</string>
+	<key>CANCEL_MY_NUMBER</key>
+	<string>Cancel|Save</string>
+	<key>CARRIER</key>
+	<string>Carrier</string>
+	<key>CARRIER_SERVICES</key>
+	<string>%@ Services</string>
+	<key>CHANGE_PIN</key>
+	<string>Change PIN</string>
+	<key>CHANGING_PIN</key>
+	<string>Changing PIN...</string>
+	<key>CONFIRM_NEW_PIN</key>
+	<string>Confirm New PIN</string>
+	<key>COULD_NOT_LOCK</key>
+	<string>Could not lock SIM. %@</string>
+	<key>COULD_NOT_UNLOCK</key>
+	<string>Could not unlock SIM. %@</string>
+	<key>CURRENT_PIN</key>
+	<string>Current PIN</string>
+	<key>Call Forwarding</key>
+	<string>Call Forwarding</string>
+	<key>Call Waiting</key>
+	<string>Call Waiting</string>
+	<key>Calls</key>
+	<string>Calls</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Change Voicemail Password</key>
+	<string>Change Voicemail Password</string>
+	<key>Confirm New Password</key>
+	<string>Confirm New Password</string>
+	<key>Contact Photos in Favorites</key>
+	<string>Contact Photos in Favorites</string>
+	<key>Contacts</key>
+	<string>Contacts</string>
+	<key>Could not change PIN</key>
+	<string>Could not change PIN. %@</string>
+	<key>Current Password</key>
+	<string>Current Password</string>
+	<key>DIAL_ASSIST_HELP</key>
+	<string>Dial assist automatically determines
+the correct international or local
+prefix when dialing.</string>
+	<key>DISABLE_TTY</key>
+	<string>Would you like to disable TTY for the current call(s)?</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>Dial Assist</key>
+	<string>Dial Assist</string>
+	<key>Display Order</key>
+	<string>Display Order</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>ENABLE_TTY</key>
+	<string>Would you like to use TTY for the current call(s)?</string>
+	<key>ENTER_PASSWORD_FOR_LOCK</key>
+	<string>Enter PIN to lock SIM. %@</string>
+	<key>ENTER_PASSWORD_FOR_UNLOCK</key>
+	<string>Enter PIN to unlock SIM. %@</string>
+	<key>ERROR</key>
+	<string>Error</string>
+	<key>Error: Passwords do not match</key>
+	<string>Error: Passwords do not match</string>
+	<key>FAILED</key>
+	<string>Failed</string>
+	<key>FIRST</key>
+	<string>First, Last</string>
+	<key>FORWARDING_TO</key>
+	<string>Forwarding To</string>
+	<key>FORWARD_ALL</key>
+	<string>All</string>
+	<key>FORWARD_CUSTOM</key>
+	<string>Custom</string>
+	<key>FORWARD_TO</key>
+	<string>Forward to</string>
+	<key>HIDE</key>
+	<string>Hide</string>
+	<key>LAST</key>
+	<string>Last, First</string>
+	<key>LOCKING</key>
+	<string>Locking...</string>
+	<key>Loading</key>
+	<string>Loading…</string>
+	<key>MY_NUMBER</key>
+	<string>My Number</string>
+	<key>MY_NUMBER_PLACEHOLDER</key>
+	<string>Number</string>
+	<key>NETWORK</key>
+	<string>Default</string>
+	<key>NEW_PASSWORD_MISMATCH_PROMPT</key>
+	<string>Password mismatch.  Try again.</string>
+	<key>NEW_PASSWORD_PROMPT</key>
+	<string>Enter a new voicemail password</string>
+	<key>NEW_PASSWORD_REENTRY_PROMPT</key>
+	<string>Re-enter new voicemail password</string>
+	<key>NEW_PIN</key>
+	<string>New PIN</string>
+	<key>NO_ANSWER</key>
+	<string>No answer</string>
+	<key>Network</key>
+	<string>Network</string>
+	<key>Network Selection</key>
+	<string>Network Selection</string>
+	<key>New Password</key>
+	<string>New Password</string>
+	<key>No</key>
+	<string>No</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OLD_PASSWORD_PROMPT</key>
+	<string>Enter current voicemail password</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PHONE</key>
+	<string>My Number: %@</string>
+	<key>PHONE_TITLE</key>
+	<string>Phone</string>
+	<key>PIN</key>
+	<string>PIN</string>
+	<key>Phone</key>
+	<string>Phone</string>
+	<key>REPLY_WITH_MESSAGE</key>
+	<string>Reply with Message</string>
+	<key>Reverted</key>
+	<string>Reverted</string>
+	<key>SAVE_MY_NUMBER</key>
+	<string>Save|Cancel</string>
+	<key>SAVE_MY_NUMBER_ERROR_MESSAGE</key>
+	<string>Phone number could not be saved.</string>
+	<key>SAVING_PASSWORD_PROMPT</key>
+	<string>Saving Password…</string>
+	<key>SETTING_SAVE_ERROR</key>
+	<string>Could not save %@ setting.</string>
+	<key>SHOW</key>
+	<string>Show</string>
+	<key>SHOW_CALLER_ID</key>
+	<string>Show My Caller ID</string>
+	<key>SIM Applications</key>
+	<string>SIM Applications</string>
+	<key>SIM PIN</key>
+	<string>SIM PIN</string>
+	<key>SUCCESS</key>
+	<string>Success</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>Saving</key>
+	<string>Saving…</string>
+	<key>Show My Caller ID</key>
+	<string>Show My Caller ID</string>
+	<key>Sort Order</key>
+	<string>Sort Order</string>
+	<key>TTY</key>
+	<string>TTY</string>
+	<key>UNKNOWN_NUMBER</key>
+	<string>Unknown</string>
+	<key>UNLOCKING</key>
+	<string>Unlocking...</string>
+	<key>UNREACHABLE</key>
+	<string>Unreachable</string>
+	<key>VOICEMAIL_ERROR_CONTACTING_APPLICATION</key>
+	<string>Voicemail Unavailable
+Try again later.</string>
+	<key>VOICEMAIL_PASSWORD_SAVE_SUCCESS</key>
+	<string>Password Saved</string>
+	<key>VOICEMAIL_TASK_GENERIC_ERROR</key>
+	<string>Unable to change password at this time.</string>
+	<key>Yes</key>
+	<string>Yes</string>
+	<key>kCTSettingTypeCallForwarding</key>
+	<string>call forwarding</string>
+	<key>kCTSettingTypeCallWaiting</key>
+	<string>call waiting</string>
+	<key>kCTSettingTypeCallingLineIdRestriction</key>
+	<string>caller ID</string>
+	<key>kCTSettingTypePIN</key>
+	<string>PIN</string>
+	<key>kCTSettingTypeSIMLock</key>
+	<string>SIM PIN</string>
+</dict>
+</plist>

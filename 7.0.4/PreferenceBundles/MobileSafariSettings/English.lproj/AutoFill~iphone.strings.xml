@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0000 0000 0000 0000</key>
+	<string>0000 0000 0000 0000</string>
+	<key>Add Credit Card</key>
+	<string>Add Credit Card</string>
+	<key>Allow AutoFill even for websites that request passwords not be saved.</key>
+	<string>Allow AutoFill even for websites that request passwords not be saved.</string>
+	<key>Always Allow</key>
+	<string>Always Allow</string>
+	<key>Are you sure you want to delete the selected credit card?</key>
+	<string>Are you sure you want to delete the selected credit card?</string>
+	<key>Are you sure you want to delete the selected credit card? It will be deleted from iCloud Keychain on all your devices.</key>
+	<string>Are you sure you want to delete the selected credit card? It will be deleted from iCloud Keychain on all your devices.</string>
+	<key>Are you sure you want to delete the selected credit cards?</key>
+	<string>Are you sure you want to delete the selected credit cards?</string>
+	<key>Are you sure you want to delete the selected credit cards? They will be deleted from iCloud Keychain on all your devices.</key>
+	<string>Are you sure you want to delete the selected credit cards? They will be deleted from iCloud Keychain on all your devices.</string>
+	<key>Are you sure you want to delete the selected password?</key>
+	<string>Are you sure you want to delete the selected password?</string>
+	<key>Are you sure you want to delete the selected password? It will be deleted from iCloud Keychain on all your devices.</key>
+	<string>Are you sure you want to delete the selected password? It will be deleted from iCloud Keychain on all your devices.</string>
+	<key>Are you sure you want to delete the selected passwords?</key>
+	<string>Are you sure you want to delete the selected passwords?</string>
+	<key>Are you sure you want to delete the selected passwords? They will be deleted from iCloud Keychain on all your devices.</key>
+	<string>Are you sure you want to delete the selected passwords? They will be deleted from iCloud Keychain on all your devices.</string>
+	<key>Are you sure you want to delete this credit card?</key>
+	<string>Are you sure you want to delete this credit card?</string>
+	<key>Automatically fill out web forms using your contact info, previous names and passwords, or credit card info.</key>
+	<string>Automatically fill out web forms using your contact info, previous names and passwords, or credit card info.</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Cardholder</key>
+	<string>Cardholder</string>
+	<key>Clear</key>
+	<string>Clear</string>
+	<key>Clear All</key>
+	<string>Clear All</string>
+	<key>Credit Cards</key>
+	<string>Credit Cards</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete Credit Card</key>
+	<string>Delete Credit Card</string>
+	<key>Delete Credit Cards</key>
+	<string>Delete Credit Cards</string>
+	<key>Delete Password</key>
+	<string>Delete Password</string>
+	<key>Delete Passwords</key>
+	<string>Delete Passwords</string>
+	<key>Description</key>
+	<string>Description</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Ending in %@</key>
+	<string>Ending in %@</string>
+	<key>Ending in %@, expires %@</key>
+	<string>Ending in %@, expires %@</string>
+	<key>Expires</key>
+	<string>Expires</string>
+	<key>John Appleseed</key>
+	<string>John Appleseed</string>
+	<key>MM/YY</key>
+	<string>MM/YY</string>
+	<key>Month</key>
+	<string>Month</string>
+	<key>My Credit Card</key>
+	<string>My Credit Card</string>
+	<key>My Info</key>
+	<string>My Info</string>
+	<key>Names and Passwords</key>
+	<string>Names and Passwords</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Number</key>
+	<string>Number</string>
+	<key>Passcode Lock Required</key>
+	<string>Passcode Lock Required</string>
+	<key>Passcode Lock Suggested</key>
+	<string>Passcode Lock Suggested</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>Passwords</key>
+	<string>Passwords</string>
+	<key>Passwords &amp; AutoFill</key>
+	<string>Passwords &amp; AutoFill</string>
+	<key>Passwords &amp; AutoFill (back button)</key>
+	<string>AutoFill</string>
+	<key>Saved Credit Cards</key>
+	<string>Saved Credit Cards</string>
+	<key>Saved Passwords</key>
+	<string>Saved Passwords</string>
+	<key>Turn On Passcode Lock</key>
+	<string>Turn On Passcode Lock</string>
+	<key>Use Contact Info</key>
+	<string>Use Contact Info</string>
+	<key>Use Without Passcode</key>
+	<string>Use Without Passcode</string>
+	<key>User name</key>
+	<string>User name</string>
+	<key>User names and passwords will not be saved for this website.</key>
+	<string>User names and passwords will not be saved for this website.</string>
+	<key>View Credit Card</key>
+	<string>View Credit Card</string>
+	<key>View Password</key>
+	<string>View Password</string>
+	<key>Website</key>
+	<string>Website</string>
+	<key>When you turn on AutoFill, anyone who has access to your iPhone can view and use your saved credit cards. Using a passcode lock on your iPhone can protect your saved credit cards.</key>
+	<string>When you turn on AutoFill, anyone who has access to your iPhone can view and use your saved credit cards. Using a passcode lock on your iPhone can protect your saved credit cards.</string>
+	<key>When you turn on AutoFill, anyone who has access to your iPhone can view and use your saved passwords. Using a passcode lock on your iPhone can protect your saved passwords.</key>
+	<string>When you turn on AutoFill, anyone who has access to your iPhone can view and use your saved passwords. Using a passcode lock on your iPhone can protect your saved passwords.</string>
+	<key>When you turn on AutoFill, anyone who has access to your iPod touch can view and use your saved credit cards. Using a passcode lock on your iPod touch can protect your saved credit cards.</key>
+	<string>When you turn on AutoFill, anyone who has access to your iPod touch can view and use your saved credit cards. Using a passcode lock on your iPod touch can protect your saved credit cards.</string>
+	<key>When you turn on AutoFill, anyone who has access to your iPod touch can view and use your saved passwords. Using a passcode lock on your iPod touch can protect your saved passwords.</key>
+	<string>When you turn on AutoFill, anyone who has access to your iPod touch can view and use your saved passwords. Using a passcode lock on your iPod touch can protect your saved passwords.</string>
+	<key>Your iPhone must have a passcode lock to allow AutoFill for websites that request passwords not be saved.</key>
+	<string>Your iPhone must have a passcode lock to allow AutoFill for websites that request passwords not be saved.</string>
+	<key>Your iPod touch must have a passcode lock to allow AutoFill for websites that request passwords not be saved.</key>
+	<string>Your iPod touch must have a passcode lock to allow AutoFill for websites that request passwords not be saved.</string>
+	<key>not saved</key>
+	<string>not saved</string>
+</dict>
+</plist>

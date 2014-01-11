@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>15_MINUTES</key>
+	<string>Every 15 Minutes</string>
+	<key>30_MINUTES</key>
+	<string>Every 30 Minutes</string>
+	<key>60_MINUTES</key>
+	<string>Hourly</string>
+	<key>ADVANCED</key>
+	<string>Advanced</string>
+	<key>ENABLE_PUSH</key>
+	<string>Push</string>
+	<key>ENABLE_PUSH_TEXT_IPAD</key>
+	<string>New data will be pushed to your iPad from the server when possible.</string>
+	<key>ENABLE_PUSH_TEXT_IPHONE</key>
+	<string>New data will be pushed to your iPhone from the server when possible.</string>
+	<key>ENABLE_PUSH_TEXT_IPHONE_SIMULATOR</key>
+	<string>New data will be pushed to your
+iPhone Simulator from the server when possible.</string>
+	<key>ENABLE_PUSH_TEXT_IPOD</key>
+	<string>New data will be pushed to your iPod from the server when possible.</string>
+	<key>FETCH</key>
+	<string>Fetch</string>
+	<key>MANUAL</key>
+	<string>Manual</string>
+	<key>MANUALLY</key>
+	<string>Manually</string>
+	<key>PUSH</key>
+	<string>Push</string>
+	<key>PUSHED_MAILBOXES</key>
+	<string>Pushed Mailboxes</string>
+	<key>SELECT_SCHEDULE</key>
+	<string>Select Schedule</string>
+	<key>TITLE</key>
+	<string>Fetch New Data</string>
+	<key>WHEN_FETCH_NOT_AVAILABLE</key>
+	<string>If Manual is selected, this account will only check for updates when the application is in use.</string>
+	<key>WHEN_NOT_PUSHING</key>
+	<string>Fetch</string>
+	<key>WHEN_NOT_PUSHING_TEXT</key>
+	<string>The schedule below is used when push is off or for applications which do not support push. For better battery life, fetch less frequently.</string>
+	<key>WHEN_PUSH_NOT_AVAILABLE</key>
+	<string>If Push is not available, the Fetch schedule will be used.</string>
+</dict>
+</plist>

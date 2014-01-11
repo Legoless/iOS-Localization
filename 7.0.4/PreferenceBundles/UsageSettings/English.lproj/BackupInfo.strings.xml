@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADDITONAL_SPACE_NEEDED_IPAD</key>
+	<string>An additional %@ is required to back up this iPad</string>
+	<key>ADDITONAL_SPACE_NEEDED_IPHONE</key>
+	<string>An additional %@ is required to back up this iPhone</string>
+	<key>ADDITONAL_SPACE_NEEDED_IPOD</key>
+	<string>An additional %@ is required to back up this iPod touch</string>
+	<key>APPLE_ONLINE_MEDIA_BACKUP_NOTE</key>
+	<string>Choose the data you want to back up.</string>
+	<key>BACKUPS_TITLE</key>
+	<string>Info</string>
+	<key>BACKUP_NOT_SUPPORTED</key>
+	<string>Backup Not Supported</string>
+	<key>BACKUP_OPTIONS</key>
+	<string>Backup Options</string>
+	<key>BACKUP_SIZE</key>
+	<string>Backup Size</string>
+	<key>CAMERA_ROLL</key>
+	<string>Camera Roll</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANNOT_DELETE_BACKUP</key>
+	<string>Cannot Delete Backup</string>
+	<key>CANNOT_DELETE_BACKUP_DETAILS</key>
+	<string>This backup cannot be deleted at this time.</string>
+	<key>CANNOT_DELETE_BACKUP_LOCKED</key>
+	<string>This backup cannot be deleted because it is in use.</string>
+	<key>CANNOT_TURN_OFF_BACKUP</key>
+	<string>Cannot Turn Off Backup</string>
+	<key>CANNOT_TURN_OFF_BACKUP_DETAILS</key>
+	<string>Backups for %@ cannot be turned off at this time.</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_BACKUP</key>
+	<string>Delete Backup</string>
+	<key>DELETING</key>
+	<string>Deleting…</string>
+	<key>INCOMPLETE</key>
+	<string>Incomplete</string>
+	<key>LATEST_BACKUP</key>
+	<string>Latest Backup</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>NEVER</key>
+	<string>Never</string>
+	<key>NEXT_BACKUP_SIZE</key>
+	<string>Next Backup Size</string>
+	<key>NO_DATA</key>
+	<string>No Data</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>RESTORE_INCOMPLETE_IPAD</key>
+	<string>Backup options will be available when your iPad is restored from this backup.</string>
+	<key>RESTORE_INCOMPLETE_IPHONE</key>
+	<string>Backup options will be available when your iPhone is restored from this backup.</string>
+	<key>RESTORE_INCOMPLETE_IPOD</key>
+	<string>Backup options will be available when your iPod touch is restored from this backup.</string>
+	<key>SHOW_ALL_APPS</key>
+	<string>Show All Apps</string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+	<key>TURN_OFF_ALL_PROMPT_TEXT_IPAD</key>
+	<string>Do you want to turn off backup and delete all backup data for this iPad from iCloud?</string>
+	<key>TURN_OFF_ALL_PROMPT_TEXT_IPHONE</key>
+	<string>Do you want to turn off backup and delete all backup data for this iPhone from iCloud?</string>
+	<key>TURN_OFF_ALL_PROMPT_TEXT_IPOD</key>
+	<string>Do you want to turn off backup and delete all backup data for this iPod touch from iCloud?</string>
+	<key>TURN_OFF_AND_DELETE</key>
+	<string>Turn Off &amp; Delete</string>
+	<key>TURN_OFF_APP_PROMPT_TEXT</key>
+	<string>Do you want to turn off %@ backups and delete the backup data from iCloud?</string>
+	<key>TURN_OFF_REMOTE_PROMPT_TEXT</key>
+	<string>Do you want to turn off backup and delete all backup data for “%@” from iCloud?</string>
+</dict>
+</plist>

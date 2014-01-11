@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AZERTY</key>
+	<string>AZERTY</string>
+	<key>AZERTY-French</key>
+	<string>Accented AZERTY</string>
+	<key>AZERTY-Pinyin-Simplified</key>
+	<string>AZERTY</string>
+	<key>AZERTY-Pinyin-Traditional</key>
+	<string>AZERTY</string>
+	<key>Arabic</key>
+	<string>Arabic</string>
+	<key>Arabic-PC</key>
+	<string>Arabic (PC)</string>
+	<key>Bulgarian</key>
+	<string>Bulgarian</string>
+	<key>Bulgarian-Standard</key>
+	<string>Bulgarian (Standard)</string>
+	<key>Cangjie</key>
+	<string>Standard</string>
+	<key>Cangjie-QWERTY</key>
+	<string>QWERTY</string>
+	<key>Cherokee</key>
+	<string>Cherokee</string>
+	<key>Czech-Slovak</key>
+	<string>Czech (Slovak)</string>
+	<key>Devanagari-Hindi</key>
+	<string>Devanagari</string>
+	<key>Dvorak</key>
+	<string>Dvorak</string>
+	<key>Emoji</key>
+	<string>Emoji</string>
+	<key>Georgian-Phonetic</key>
+	<string>Georgian</string>
+	<key>Greek</key>
+	<string>Greek</string>
+	<key>HWR-Simplified</key>
+	<string>Handwriting</string>
+	<key>HWR-Traditional</key>
+	<string>Handwriting</string>
+	<key>Hebrew</key>
+	<string>Hebrew</string>
+	<key>Icelandic</key>
+	<string>Icelandic</string>
+	<key>Japanese-50On</key>
+	<string>Kana</string>
+	<key>Japanese-50On-Flick</key>
+	<string>Flick Only</string>
+	<key>Japanese3x3</key>
+	<string>Kana</string>
+	<key>Japanese3x3Flick</key>
+	<string>Flick Only</string>
+	<key>Kana</key>
+	<string>Kana</string>
+	<key>Kana-Flick</key>
+	<string>Flick Only</string>
+	<key>Korean</key>
+	<string>Standard</string>
+	<key>Korean10Key</key>
+	<string>10 Key</string>
+	<key>Macedonian</key>
+	<string>Macedonian</string>
+	<key>Pinyin-Simplified</key>
+	<string>QWERTY</string>
+	<key>Pinyin-Traditional</key>
+	<string>QWERTY</string>
+	<key>Pinyin10-Simplified</key>
+	<string>10 Key</string>
+	<key>Pinyin10-Traditional</key>
+	<string>10 Key</string>
+	<key>QWERTY</key>
+	<string>QWERTY</string>
+	<key>QWERTY-Accents</key>
+	<string>Accented QWERTY</string>
+	<key>QWERTY-Catalan</key>
+	<string>Catalan</string>
+	<key>QWERTY-Czech-Slovak</key>
+	<string>QWERTY</string>
+	<key>QWERTY-Danish</key>
+	<string>QWERTY</string>
+	<key>QWERTY-Hawaiian</key>
+	<string>Hawaiian</string>
+	<key>QWERTY-Japanese</key>
+	<string>Romaji</string>
+	<key>QWERTY-Norwegian</key>
+	<string>QWERTY</string>
+	<key>QWERTY-Spanish</key>
+	<string>Spanish</string>
+	<key>QWERTY-Swedish-Finnish</key>
+	<string>QWERTY</string>
+	<key>QWERTY-Tamil</key>
+	<string>Anjal</string>
+	<key>QWERTY-Turkish</key>
+	<string>QWERTY</string>
+	<key>QWERTZ</key>
+	<string>QWERTZ</string>
+	<key>QWERTZ-Accents</key>
+	<string>Accented QWERTZ</string>
+	<key>QWERTZ-German</key>
+	<string>German</string>
+	<key>Russian</key>
+	<string>Russian</string>
+	<key>Russian-Phonetic</key>
+	<string>Russian (Phonetic)</string>
+	<key>Serbian-Cyrillic</key>
+	<string>Serbian (Cyrillic)</string>
+	<key>Sucheng</key>
+	<string>Standard</string>
+	<key>Sucheng-QWERTY</key>
+	<string>QWERTY</string>
+	<key>Tamil</key>
+	<string>Tamil 99</string>
+	<key>Thai</key>
+	<string>5 Row</string>
+	<key>Thai-Four-Row</key>
+	<string>4 Row</string>
+	<key>Tibetan</key>
+	<string>Tibetan</string>
+	<key>Turkish-F</key>
+	<string>Turkish-F</string>
+	<key>Turkish-Q</key>
+	<string>Turkish-Q</string>
+	<key>Ukrainian</key>
+	<string>Ukrainian</string>
+	<key>Wubihua-Simplified</key>
+	<string>Stroke</string>
+	<key>Wubihua-Traditional</key>
+	<string>Stroke</string>
+	<key>Zhuyin</key>
+	<string>Zhuyin</string>
+	<key>ZhuyinDynamic</key>
+	<string>Dynamic</string>
+</dict>
+</plist>

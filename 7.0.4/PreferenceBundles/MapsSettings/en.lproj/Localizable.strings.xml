@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Distance Units Group Title</key>
+	<string>Distances</string>
+	<key>Distance Units Imperial</key>
+	<string>In Miles</string>
+	<key>Distance Units Metric</key>
+	<string>In Kilometers</string>
+	<key>Label Language Group Title</key>
+	<string>Map Labels</string>
+	<key>Label Language Switch Label</key>
+	<string>Always in English</string>
+	<key>Nav Volume Group Title</key>
+	<string>Navigation Voice Volume</string>
+	<key>Nav Volume Loud</key>
+	<string>Loud Volume</string>
+	<key>Nav Volume Low</key>
+	<string>Low Volume</string>
+	<key>Nav Volume Normal</key>
+	<string>Normal Volume</string>
+	<key>Nav Volume Off</key>
+	<string>No Voice</string>
+	<key>Preferred Transport Driving</key>
+	<string>Driving</string>
+	<key>Preferred Transport Group Title</key>
+	<string>Preferred Directions</string>
+	<key>Preferred Transport Walking</key>
+	<string>Walking</string>
+</dict>
+</plist>

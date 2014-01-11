@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1_MONTH</key>
+	<string>Events %@ Month Back</string>
+	<key>1_MONTH_OVERRIDE</key>
+	<string></string>
+	<key>2_WEEKS</key>
+	<string>Events %@ Weeks Back</string>
+	<key>3_MONTHS</key>
+	<string>Events %@ Months Back</string>
+	<key>6_MONTHS</key>
+	<string>Events %@ Months Back</string>
+	<key>INVITATION_ALERTS</key>
+	<string>New Invitation Alerts</string>
+	<key>NO_LIMIT</key>
+	<string>All Events</string>
+	<key>SHARED_CALENDAR_ALERTS</key>
+	<string>Shared Calendar Alerts</string>
+	<key>SYNC</key>
+	<string>Sync</string>
+</dict>
+</plist>

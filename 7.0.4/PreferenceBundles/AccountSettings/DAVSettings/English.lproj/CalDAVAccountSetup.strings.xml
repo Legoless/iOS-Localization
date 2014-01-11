@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</key>
+	<string>This account may not be able to sync calendars. Are you sure you want to save?</string>
+	<key>DAV_ACCOUNT</key>
+	<string>Calendar Account</string>
+	<key>DAV_INFO</key>
+	<string>CalDAV Account Information</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>DESCRIPTION_PLACEHOLDER</key>
+	<string>My CalDAV Account</string>
+	<key>ENABLED</key>
+	<string>Account</string>
+	<key>HOST</key>
+	<string>Server</string>
+	<key>NEW_ACCOUNT_SETTINGS</key>
+	<string>CalDAV</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>SERVER_PLACEHOLDER</key>
+	<string>cal.example.com</string>
+	<key>USERNAME</key>
+	<string>User Name</string>
+</dict>
+</plist>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Action Games</key>
+	<string>Action</string>
+	<key>Adventure Games</key>
+	<string>Adventure</string>
+	<key>Arcade Games</key>
+	<string>Arcade</string>
+	<key>Board Games</key>
+	<string>Board Games</string>
+	<key>Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>Books</key>
+	<string>Books</string>
+	<key>Business</key>
+	<string>Business</string>
+	<key>Card Games</key>
+	<string>Card Games</string>
+	<key>Casino Games</key>
+	<string>Casino</string>
+	<key>Dice Games</key>
+	<string>Dice Games</string>
+	<key>Education</key>
+	<string>Education</string>
+	<key>Educational Games</key>
+	<string>Educational</string>
+	<key>Entertainment</key>
+	<string>Entertainment</string>
+	<key>Extras</key>
+	<string>Extras</string>
+	<key>Family Games</key>
+	<string>Kids Games</string>
+	<key>Finance</key>
+	<string>Finance</string>
+	<key>Folder</key>
+	<string>Folder</string>
+	<key>Games</key>
+	<string>Games</string>
+	<key>Healthcare &amp; Fitness</key>
+	<string>Health</string>
+	<key>Kids Games</key>
+	<string>Kids Games</string>
+	<key>Lifestyle</key>
+	<string>Lifestyle</string>
+	<key>Medical</key>
+	<string>Medical</string>
+	<key>Music</key>
+	<string>Music</string>
+	<key>Music Games</key>
+	<string>Music Games</string>
+	<key>Navigation</key>
+	<string>Navigation</string>
+	<key>News</key>
+	<string>News</string>
+	<key>Photography</key>
+	<string>Photography</string>
+	<key>Productivity</key>
+	<string>Productivity</string>
+	<key>Puzzle Games</key>
+	<string>Puzzle</string>
+	<key>Racing Games</key>
+	<string>Racing</string>
+	<key>Reference</key>
+	<string>Reference</string>
+	<key>Role Playing Games</key>
+	<string>Role Playing</string>
+	<key>Simulation Games</key>
+	<string>Simulation</string>
+	<key>Social Networking</key>
+	<string>Social</string>
+	<key>Sports</key>
+	<string>Sports</string>
+	<key>Sports Games</key>
+	<string>Sports</string>
+	<key>Stores</key>
+	<string>Stores</string>
+	<key>Strategy Games</key>
+	<string>Strategy</string>
+	<key>Travel</key>
+	<string>Travel</string>
+	<key>Trivia Games</key>
+	<string>Trivia Games</string>
+	<key>Utilities</key>
+	<string>Utilities</string>
+	<key>Weather</key>
+	<string>Weather</string>
+	<key>Word Games</key>
+	<string>Word Games</string>
+</dict>
+</plist>

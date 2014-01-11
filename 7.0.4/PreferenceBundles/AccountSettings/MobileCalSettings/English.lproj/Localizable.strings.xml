@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALL_DAY_EVENTS</key>
+	<string>All-Day Events</string>
+	<key>AUTOMATIC_WEEK_START_FORMAT</key>
+	<string>%1$@ (%2$@ default)</string>
+	<key>BIRTHDAY_CALENDAR</key>
+	<string>Birthday Calendar</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>CALENDAR_GROUP</key>
+	<string>Calendars</string>
+	<key>CALENDAR_TEXT</key>
+	<string>Time Zone Support always shows event dates and times in the time zone selected for calendars.
+
+When off, events will display according to the time zone of your current location.</string>
+	<key>CALENDAR_TIME_ZONE</key>
+	<string>Time Zone</string>
+	<key>CALENDAR_TIME_ZONE_PAD</key>
+	<string>Time Zone</string>
+	<key>DEFAULT_ALERTS</key>
+	<string>Default Alert Times</string>
+	<key>DEFAULT_CALENDAR</key>
+	<string>Default Calendar</string>
+	<key>DEFAULT_CALENDAR_EXPLANATORY</key>
+	<string>New events created outside of a specific calendar will default to this calendar.</string>
+	<key>SHARED_EVENT_ALERTS_EXPLANATORY</key>
+	<string>When enabled, you will be notified about new, modified, or deleted shared events.</string>
+	<key>SHOW_DECLINED_EVENTS</key>
+	<string>Show Declined Events</string>
+	<key>TIMED_EVENTS</key>
+	<string>Events</string>
+	<key>TIMEZONE_REGION_OFF</key>
+	<string>Off</string>
+	<key>TIMEZONE_SUPPORT_OFF</key>
+	<string>Off</string>
+	<key>TIME_ZONE_SUPPORT</key>
+	<string>Time Zone Support</string>
+	<key>TIME_ZONE_SUPPORT_CELL_TITLE</key>
+	<string>Time Zone Support</string>
+	<key>TIME_ZONE_SUPPORT_CELL_TITLE_PAD</key>
+	<string>Time Zone Support</string>
+	<key>TIME_ZONE_SUPPORT_PAD</key>
+	<string>Time Zone Support</string>
+	<key>WEEK_NUMBERS</key>
+	<string>Week Numbers</string>
+	<key>WEEK_START</key>
+	<string>Start Week On</string>
+</dict>
+</plist>

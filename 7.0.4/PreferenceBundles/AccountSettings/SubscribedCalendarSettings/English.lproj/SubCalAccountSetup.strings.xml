@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_VERIFICATION_AUTH_CHALLENGE</key>
+	<string>Account requires a username and password</string>
+	<key>ACCOUNT_VERIFICATION_FAILED</key>
+	<string>Unable to verify account information.</string>
+	<key>ADD_SUBCAL_ACCOUNT</key>
+	<string>Add Subscribed Calendar</string>
+	<key>CALENDARS</key>
+	<string>Calendars</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</key>
+	<string>This account may not be able to reach a calendar. Are you sure you want to continue?</string>
+	<key>DAY</key>
+	<string>Daily</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>DESCRIPTION_PLACEHOLDER</key>
+	<string>Calendar Subscription</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>ENABLED</key>
+	<string>Account</string>
+	<key>HOST</key>
+	<string>Server</string>
+	<key>HOUR</key>
+	<string>Hourly</string>
+	<key>INACTIVE</key>
+	<string>Inactive</string>
+	<key>MANUALLY</key>
+	<string>Manually</string>
+	<key>NEW_ACCOUNT_SETTINGS</key>
+	<string>Subscription</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>OPTIONAL</key>
+	<string>Optional</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PROFILE_ACCOUNT_DESCRIPTION</key>
+	<string>These settings are installed by the profile '%@'</string>
+	<key>REFRESH_INTERVAL</key>
+	<string>Refresh Interval</string>
+	<key>REMOVE_ALARMS</key>
+	<string>Remove Alarms</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SERVER_PLACEHOLDER</key>
+	<string>myserver.com/cal.ics</string>
+	<key>SETUP_WITHOUT_SSL_BODY</key>
+	<string>Do you want to try setting up the account without SSL?</string>
+	<key>SETUP_WITHOUT_SSL_TITLE</key>
+	<string>Cannot Connect Using SSL</string>
+	<key>SUBCAL</key>
+	<string>Subscribed Calendar</string>
+	<key>SUBCAL_ACCOUNT</key>
+	<string>Calendar Subscription</string>
+	<key>SUBCAL_INFO</key>
+	<string>Subscribed Calendar Information</string>
+	<key>SUBCAL_SETTINGS</key>
+	<string>Subscribed Calendar Settings</string>
+	<key>SUBSCRIBED_CALENDARS</key>
+	<string>Subscribed Calendars</string>
+	<key>USERNAME</key>
+	<string>User Name</string>
+	<key>USE_SSL</key>
+	<string>Use SSL</string>
+	<key>WEEK</key>
+	<string>Weekly</string>
+	<key>YES</key>
+	<string>Yes</string>
+</dict>
+</plist>

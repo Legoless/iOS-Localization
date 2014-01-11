@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT</key>
+	<string>Accept</string>
+	<key>ARRAY</key>
+	<string>Array</string>
+	<key>BLOBS_DESIGNATION_DETAILS</key>
+	<string>%@ Installed</string>
+	<key>BLOB_DETAILS</key>
+	<string>More Details</string>
+	<key>BLOB_INSTALLING_TITLE</key>
+	<string>Installing Profile</string>
+	<key>BLOB_INSTALL_NOT_REMOVABLE</key>
+	<string>WARNING: Once installed, this profile can't be removed.</string>
+	<key>BLOB_INSTALL_NOT_REMOVABLE_AUTH</key>
+	<string>WARNING: Once installed, this profile can't be removed without authorization.</string>
+	<key>BLOB_INSTALL_TITLE</key>
+	<string>Install Profile</string>
+	<key>BLOB_JUST_INSTALLED_TITLE</key>
+	<string>Profile Installed</string>
+	<key>BLOB_REMOVE_FAILURE_PROTECTED</key>
+	<string>The profile can’t be removed because you entered an incorrect removal password.</string>
+	<key>BLOB_REMOVE_TITLE</key>
+	<string>Remove Profile</string>
+	<key>BLOB_REMOVE_TITLE_PROTECTED</key>
+	<string>Remove Protected Profile</string>
+	<key>BLOB_REMOVING_TITLE</key>
+	<string>Removing Profile</string>
+	<key>BLOB_TABLE_CONTAINS</key>
+	<string>Contains</string>
+	<key>BLOB_TABLE_DATE</key>
+	<string>Received</string>
+	<key>BLOB_TABLE_DESCRIPTION</key>
+	<string>Description</string>
+	<key>BLOB_TABLE_SIGNED</key>
+	<string>Signed</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CERTIFICATES</key>
+	<string>Certificates</string>
+	<key>CERT_DETAILS</key>
+	<string>Details</string>
+	<key>CERT_EXPIRES</key>
+	<string>Expires</string>
+	<key>CONFIGURATION_PROFILE_PLURAL</key>
+	<string>Configuration Profiles</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>DICTIONARY</key>
+	<string>Dictionary</string>
+	<key>DISABLE_BLOB</key>
+	<string>Disable</string>
+	<key>EXPIRATION_DATE</key>
+	<string>Expires</string>
+	<key>EXPIRED_DATE</key>
+	<string>%@ (Expired)</string>
+	<key>EXPIRED_INFO_DAYS_AGO_PLURAL</key>
+	<string>Expired %@ (%@ days ago)</string>
+	<key>EXPIRED_INFO_DAYS_AGO_SINGULAR</key>
+	<string>Expired %@ (one day ago)</string>
+	<key>EXPIRED_INFO_HOURS_AGO_PLURAL</key>
+	<string>Expired %@ (%@ hours ago)</string>
+	<key>EXPIRED_INFO_HOURS_AGO_SINGULAR</key>
+	<string>Expired %@ (one hour ago)</string>
+	<key>EXPIRES</key>
+	<string>Expires:</string>
+	<key>EXPIRES_DATE_DAYS_PLURAL</key>
+	<string>%@ (in %@ days)</string>
+	<key>EXPIRES_DATE_DAYS_SINGULAR</key>
+	<string>%@ (in one day)</string>
+	<key>EXPIRES_INFO_DAY_PLURAL</key>
+	<string>Expires %@ (in %@ days)</string>
+	<key>EXPIRES_INFO_DAY_SINGULAR</key>
+	<string>Expires %@ (in one day)</string>
+	<key>EXPIRES_INFO_HOURS_PLURAL</key>
+	<string>Expires %@ (in %@ hours)</string>
+	<key>EXPIRES_INFO_HOURS_SINGULAR</key>
+	<string>Expires %@ (in one hour)</string>
+	<key>EXPIRES_INFO_NO_TIMEFRAME</key>
+	<string>Expires on %@</string>
+	<key>IGNORE</key>
+	<string>Ignore</string>
+	<key>INSTALL</key>
+	<string>Install</string>
+	<key>INSTALL_BLOB</key>
+	<string>Install Now</string>
+	<key>INSTALL_WARNING_TITLE</key>
+	<string>Warning</string>
+	<key>ISSUED_BY</key>
+	<string>Issued by:</string>
+	<key>MDM_ACCESS_RIGHTS</key>
+	<string>Rights</string>
+	<key>MDM_DETAILS</key>
+	<string>Details</string>
+	<key>MDM_SERVER</key>
+	<string>Server</string>
+	<key>MDM_TOPIC</key>
+	<string>Topic</string>
+	<key>MULTIPLE_COLLECTION_ELEMENTS</key>
+	<string>%@ elements</string>
+	<key>NEW_CONFIG_TITLE</key>
+	<string>Install Profile</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>NOTNOW</key>
+	<string>Not Now</string>
+	<key>NOT_TRUSTED_PROFILE</key>
+	<string>Not Trusted</string>
+	<key>NOT_VERIFIED_PROFILE</key>
+	<string>Not Verified</string>
+	<key>NO_PROFILES_INSTALLED</key>
+	<string>No profiles are currently installed</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PLURAL_BLOBS_DESIGNATION</key>
+	<string>Profiles</string>
+	<key>PROFILE_INSTALL_NOT_TRUSTED_WARNING_IPAD</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your iPad.</string>
+	<key>PROFILE_INSTALL_NOT_TRUSTED_WARNING_IPHONE</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your iPhone.</string>
+	<key>PROFILE_INSTALL_NOT_TRUSTED_WARNING_IPHONE SIMULATOR</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your iPhone Simulator.</string>
+	<key>PROFILE_INSTALL_NOT_TRUSTED_WARNING_IPOD</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your iPod touch.</string>
+	<key>PROFILE_INSTALL_WARNING_IPAD</key>
+	<string>Installing this profile will change settings on your iPad.</string>
+	<key>PROFILE_INSTALL_WARNING_IPHONE</key>
+	<string>Installing this profile will change settings on your iPhone.</string>
+	<key>PROFILE_INSTALL_WARNING_IPHONE SIMULATOR</key>
+	<string>Installing this profile will change settings on your iPhone Simulator.</string>
+	<key>PROFILE_INSTALL_WARNING_IPOD</key>
+	<string>Installing this profile will change settings on your iPod touch.</string>
+	<key>PROFILE_REMOVAL_PASSWORD</key>
+	<string>Profile Removal Password</string>
+	<key>PROFILE_REMOVE_WARNING_IPAD</key>
+	<string>Removing this profile will change settings on your iPad.</string>
+	<key>PROFILE_REMOVE_WARNING_IPHONE</key>
+	<string>Removing this profile will change settings on your iPhone.</string>
+	<key>PROFILE_REMOVE_WARNING_IPHONE SIMULATOR</key>
+	<string>Removing this profile will change settings on your iPhone Simulator.</string>
+	<key>PROFILE_REMOVE_WARNING_IPOD</key>
+	<string>Removing this profile will change settings on your iPod touch.</string>
+	<key>PROFILE_REMOVE_WARNING_PROTECTED_IPAD</key>
+	<string>Removing this profile will change settings on your iPad.
+Enter the removal passcode:</string>
+	<key>PROFILE_REMOVE_WARNING_PROTECTED_IPHONE</key>
+	<string>Removing this profile will change settings on your iPhone.
+Enter the removal passcode:</string>
+	<key>PROFILE_REMOVE_WARNING_PROTECTED_IPHONE SIMULATOR</key>
+	<string>Removing this profile will change settings on your iPhone Simulator.
+Enter the removal passcode:</string>
+	<key>PROFILE_REMOVE_WARNING_PROTECTED_IPOD</key>
+	<string>Removing this profile will change settings on your iPod touch.
+Enter the removal passcode:</string>
+	<key>PROFILE_UPDATE_ERROR</key>
+	<string>Profile Update Error</string>
+	<key>PROFILE_UPDATE_PROFILE</key>
+	<string>Update Profile</string>
+	<key>PROTILE_REENROLL_ERROR</key>
+	<string>Profile could not be updated. Please contact your network administrator.</string>
+	<key>PROTILE_REENROLL_INFO</key>
+	<string>This profile has expired. Update this profile for a newer version.</string>
+	<key>PROVISIONING_PROFILE</key>
+	<string>Provisioning</string>
+	<key>PROVISIONING_PROFILE_INSTALL_FAILED</key>
+	<string>Provisioning profile install failed.</string>
+	<key>PROVISIONING_PROFILE_INSTALL_TITLE</key>
+	<string>Install Provisioning Profile</string>
+	<key>PROVISIONING_PROFILE_INSTALL_WARNING_IPAD</key>
+	<string>Installing this provisioning profile will change settings on your iPad.</string>
+	<key>PROVISIONING_PROFILE_INSTALL_WARNING_IPHONE</key>
+	<string>Installing this provisioning profile will change settings on your iPhone.</string>
+	<key>PROVISIONING_PROFILE_INSTALL_WARNING_IPHONE SIMULATOR</key>
+	<string>Installing this provisioning profile will change settings on your iPhone Simulator.</string>
+	<key>PROVISIONING_PROFILE_INSTALL_WARNING_IPOD</key>
+	<string>Installing this provisioning profile will change settings on your iPod touch.</string>
+	<key>PROVISIONING_PROFILE_PLURAL</key>
+	<string>Provisioning Profiles</string>
+	<key>PROVISIONING_PROFILE_REMOVE_FAILED</key>
+	<string>Provisioning profile removal failed.</string>
+	<key>PROVISIONING_PROFILE_REMOVE_TITLE</key>
+	<string>Remove Provisioning Profile</string>
+	<key>PROVISIONING_PROFILE_REMOVE_WARNING_IPAD</key>
+	<string>Removing this provisioning profile will change settings on your iPad.</string>
+	<key>PROVISIONING_PROFILE_REMOVE_WARNING_IPHONE</key>
+	<string>Removing this provisioning profile will change settings on your iPhone.</string>
+	<key>PROVISIONING_PROFILE_REMOVE_WARNING_IPHONE SIMULATOR</key>
+	<string>Removing this provisioning profile will change settings on your iPhone Simulator.</string>
+	<key>PROVISIONING_PROFILE_REMOVE_WARNING_IPOD</key>
+	<string>Removing this provisioning profile will change settings on your iPod touch.</string>
+	<key>REBOOT</key>
+	<string>Restart</string>
+	<key>REBOOT_SUGGESTED_TEXT_IPAD</key>
+	<string>Please restart your iPad to apply changes.</string>
+	<key>REBOOT_SUGGESTED_TEXT_IPHONE</key>
+	<string>Please restart your iPhone to apply changes.</string>
+	<key>REBOOT_SUGGESTED_TEXT_IPHONE SIMULATOR</key>
+	<string>Please restart your iPhone Simulator to apply changes.</string>
+	<key>REBOOT_SUGGESTED_TEXT_IPOD</key>
+	<string>Please restart your iPod touch to apply changes.</string>
+	<key>REBOOT_SUGGESTED_TITLE</key>
+	<string>Restart Required</string>
+	<key>REMOVAL_PASSCODE</key>
+	<string>Removal Passcode</string>
+	<key>REMOVE</key>
+	<string>Remove</string>
+	<key>REMOVE_BLOB</key>
+	<string>Remove</string>
+	<key>REMOVE_NOW</key>
+	<string>Remove Now</string>
+	<key>RETRY</key>
+	<string>Retry</string>
+	<key>SIGNING_CERTIFICATE</key>
+	<string>Signing Certificate</string>
+	<key>SIGNING_CERTIFICATES</key>
+	<string>Signing Certificates</string>
+	<key>SINGLE_COLLECTION_ELEMENT</key>
+	<string>1 element</string>
+	<key>SINGLE_DOMAIN_NAME</key>
+	<string>Domain: %@</string>
+	<key>SINGULAR_BLOBS_DESIGNATION</key>
+	<string>Profile</string>
+	<key>SKIP</key>
+	<string>Skip</string>
+	<key>TRUSTED_PROFILE</key>
+	<string>Trusted</string>
+	<key>UNSIGNED_PROFILE</key>
+	<string>Unsigned</string>
+	<key>VERIFIED_PROFILE</key>
+	<string>Verified</string>
+	<key>WHAT?</key>
+	<string>What?</string>
+	<key>YES</key>
+	<string>Yes</string>
+</dict>
+</plist>

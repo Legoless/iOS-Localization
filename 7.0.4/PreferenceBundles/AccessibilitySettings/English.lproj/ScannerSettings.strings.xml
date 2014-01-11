@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTO_SCANNING_DISABLED_FOOTER_TEXT</key>
+	<string>Add a 'Move To Next Item' switch to disable auto scanning.</string>
+	<key>AUTO_SCANNING_LABEL</key>
+	<string>Auto Scanning</string>
+	<key>AUTO_TAP_DELAY_FOOTER_TEXT</key>
+	<string>When Auto Tap is enabled, performing the Select action will automatically tap the screen unless Select is pressed twice to show the menu.</string>
+	<key>AUTO_TAP_DELAY_LABEL</key>
+	<string>Auto Tap</string>
+	<key>AXIS_PICKER_WANTS_RESCAN</key>
+	<string>Allow Refinement</string>
+	<key>AXIS_SELECTION_HEADING</key>
+	<string>Point Scanning</string>
+	<key>AXIS_SWEEP_SPEED</key>
+	<string>Gliding Cursor Speed</string>
+	<key>AXIS_SWEEP_SPEED_FOOTER</key>
+	<string>The speed at which the gliding cursor moves across the screen.</string>
+	<key>COMPACT_MENU_FOOTER_TEXT</key>
+	<string>Shows the menu as a single page.</string>
+	<key>COMPACT_MENU_LABEL</key>
+	<string>Compact Menu</string>
+	<key>CURSOR_COLOR</key>
+	<string>Cursor Color</string>
+	<key>CURSOR_COLOR_BLACK</key>
+	<string>Black</string>
+	<key>CURSOR_COLOR_BLUE</key>
+	<string>Blue</string>
+	<key>CURSOR_COLOR_GREEN</key>
+	<string>Green</string>
+	<key>CURSOR_COLOR_ORANGE</key>
+	<string>Orange</string>
+	<key>CURSOR_COLOR_RED</key>
+	<string>Red</string>
+	<key>CURSOR_COLOR_WHITE</key>
+	<string>White</string>
+	<key>CURSOR_COLOR_YELLOW</key>
+	<string>Yellow</string>
+	<key>CURSOR_VISIBILITY</key>
+	<string>Large Cursor</string>
+	<key>CUSTOM_GESTURES</key>
+	<string>Saved Gestures</string>
+	<key>CUSTOM_GESTURES_INSTRUCTIONAL_TEXT</key>
+	<string>Saved gestures allow you to record gestures that can be activated from the menu in Actions: Gestures: Saved.</string>
+	<key>DELAY_AFTER_INPUT</key>
+	<string>Pause on First Item</string>
+	<key>DELAY_AFTER_INPUT_FOOTER</key>
+	<string>The duration of time auto scanning will wait after input is pressed.</string>
+	<key>FEATURE_OFF</key>
+	<string>Off</string>
+	<key>HEAD_LEFT_SWITCH_NAME</key>
+	<string>Left Head Movement</string>
+	<key>HEAD_MOVEMENT_FOOTER_TEXT</key>
+	<string>The distance your head must move before a press is recognized.</string>
+	<key>HEAD_MOVEMENT_LABEL</key>
+	<string>Head Movement Sensitivity</string>
+	<key>HEAD_MOVEMENT_SENSITIVITY_HIGH</key>
+	<string>High</string>
+	<key>HEAD_MOVEMENT_SENSITIVITY_LOW</key>
+	<string>Low</string>
+	<key>HEAD_MOVEMENT_SENSITIVITY_UNKNOWN</key>
+	<string>Unknown</string>
+	<key>HEAD_RIGHT_SWITCH_NAME</key>
+	<string>Right Head Movement</string>
+	<key>IGNORE_REPEAT_FOOTER</key>
+	<string>The duration in which multiple presses of input are treated as a single input.
+
+This duration must be less than the Auto Tap time so that a double input press can be used.</string>
+	<key>IGNORE_REPEAT_LABEL</key>
+	<string>Ignore Repeat</string>
+	<key>INCLUDED_MENU_ITEMS_ALL</key>
+	<string>All</string>
+	<key>INCLUDED_MENU_ITEMS_CUSTOM</key>
+	<string>Custom</string>
+	<key>INCLUDED_MENU_ITEMS_HEADING</key>
+	<string>Included Menu Items</string>
+	<key>INCLUDED_MENU_ITEMS_NONE</key>
+	<string>None</string>
+	<key>INCLUDED_MENU_ITEM_DEVICE</key>
+	<string>Device</string>
+	<key>INCLUDED_MENU_ITEM_GESTURES</key>
+	<string>Gestures</string>
+	<key>INCLUDED_MENU_ITEM_HOME</key>
+	<string>Home</string>
+	<key>INCLUDED_MENU_ITEM_SCROLL</key>
+	<string>Scroll</string>
+	<key>INCLUDED_MENU_ITEM_SETTINGS</key>
+	<string>Settings</string>
+	<key>INPUT_DELAY_HEADING</key>
+	<string>Input Control</string>
+	<key>ITEM_GROUPING_FOOTER_TEXT</key>
+	<string>Groups items for faster navigation.</string>
+	<key>ITEM_GROUPING_LABEL</key>
+	<string>Group Items</string>
+	<key>NONE</key>
+	<string>None</string>
+	<key>OUTPUT_HEADING</key>
+	<string>Audio</string>
+	<key>REQUIRE_HOLD_FOOTER_TEXT</key>
+	<string>The duration your input device must be held before a press is recognized.
+
+This duration must be less than the Auto Tap time so that a double input press can be used.</string>
+	<key>REQUIRE_HOLD_LABEL</key>
+	<string>Hold Duration</string>
+	<key>SCANNING_MODE_ELEMENTS_LABEL</key>
+	<string>Items</string>
+	<key>SCANNING_MODE_FOOTER_TEXT</key>
+	<string>Scan through items or choose a point on screen.</string>
+	<key>SCANNING_MODE_GRID_LABEL</key>
+	<string>Points</string>
+	<key>SCANNING_MODE_LABEL</key>
+	<string>Scanning Mode</string>
+	<key>SCANNING_SPEED_LABEL</key>
+	<string>Auto Scanning Time</string>
+	<key>SCAN_CYCLES_FOOTER_TEXT</key>
+	<string>Hide the cursor after each item on screen has been visited a specific number of times.</string>
+	<key>SCAN_CYCLES_LABEL</key>
+	<string>Loops</string>
+	<key>SCAN_TIMEOUT_FOOTER</key>
+	<string>The time it takes for the scanner interface to disappear due to inactivity.</string>
+	<key>SCAN_TIMEOUT_LABEL</key>
+	<string>Auto Hide</string>
+	<key>SCAT_DELAY_SECONDS_PLURAL</key>
+	<string>%@ Seconds</string>
+	<key>SCAT_DELAY_SECONDS_PLURAL_NO_FORMAT</key>
+	<string>Seconds</string>
+	<key>SCAT_DELAY_SECONDS_SINGULAR</key>
+	<string>%@ Second</string>
+	<key>SCAT_DELAY_SECONDS_SINGULAR_NO_FORMAT</key>
+	<string>Second</string>
+	<key>SCREEN_SWITCH_NAME</key>
+	<string>Full Screen</string>
+	<key>SOUND_LABEL</key>
+	<string>Sound Effects</string>
+	<key>SPEECH_LABEL</key>
+	<string>Speech</string>
+	<key>SPEECH_RATE_LABEL</key>
+	<string>Speaking Rate</string>
+	<key>STEP_REPEAT_FOOTER</key>
+	<string>The delay before 'Move To Next/Previous Item' is repeated while a switch remains pressed.</string>
+	<key>STEP_REPEAT_LABEL</key>
+	<string>Move Repeat</string>
+	<key>SWITCHES_ADD_LABEL</key>
+	<string>Add New Switch…</string>
+	<key>SWITCHES_LABEL</key>
+	<string>Switches</string>
+	<key>SWITCH_ACTIONS_FOOTER_TEXT</key>
+	<string>Choose a switch action.</string>
+	<key>SWITCH_ACTIONS_LABEL</key>
+	<string>Actions</string>
+	<key>SWITCH_ACTION_ACTIVATE_LABEL</key>
+	<string>Tap</string>
+	<key>SWITCH_ACTION_APP_SWITCHER_LABEL</key>
+	<string>App Switcher</string>
+	<key>SWITCH_ACTION_HOME_LABEL</key>
+	<string>Home Button</string>
+	<key>SWITCH_ACTION_MENU_LABEL</key>
+	<string>Scanner Menu</string>
+	<key>SWITCH_ACTION_NOTIFICATION_CENTER_LABEL</key>
+	<string>Notification Center</string>
+	<key>SWITCH_ACTION_RUN_LABEL</key>
+	<string>Resume Auto Scanning</string>
+	<key>SWITCH_ACTION_SELECT_LABEL</key>
+	<string>Select Item</string>
+	<key>SWITCH_ACTION_SIRI_LABEL</key>
+	<string>Siri</string>
+	<key>SWITCH_ACTION_STEP_NEXT_LABEL</key>
+	<string>Move To Next Item</string>
+	<key>SWITCH_ACTION_STEP_PREVIOUS_LABEL</key>
+	<string>Move To Previous Item</string>
+	<key>SWITCH_ACTION_STOP_LABEL</key>
+	<string>Stop Scanning</string>
+	<key>SWITCH_ACTION_VOLUME_DOWN_LABEL</key>
+	<string>Decrease Volume</string>
+	<key>SWITCH_ACTION_VOLUME_UP_LABEL</key>
+	<string>Increase Volume</string>
+	<key>SWITCH_NAME_PREFIX</key>
+	<string>Switch %@</string>
+	<key>SWITCH_SAVE_DIALOG_CANCEL</key>
+	<string>Cancel</string>
+	<key>SWITCH_SAVE_DIALOG_NAME_IN_USE</key>
+	<string>Name in use. Choose another name.</string>
+	<key>SWITCH_SAVE_DIALOG_SAVE</key>
+	<string>Save</string>
+	<key>SWITCH_SAVE_DIALOG_TITLE</key>
+	<string>New Switch</string>
+	<key>SWITCH_SCANNER_ACTIONS_LABEL</key>
+	<string>Scanner</string>
+	<key>SWITCH_SCANNING_FOOTER_TEXT_IPAD</key>
+	<string>Switch Control allows you to use your iPad by sequentially highlighting items on the screen that can be activated through an adaptive accessory.</string>
+	<key>SWITCH_SCANNING_FOOTER_TEXT_IPHONE</key>
+	<string>Switch Control allows you to use your iPhone by sequentially highlighting items on the screen that can be activated through an adaptive accessory.</string>
+	<key>SWITCH_SCANNING_FOOTER_TEXT_IPOD</key>
+	<string>Switch Control allows you to use your iPod touch by sequentially highlighting items on the screen that can be activated through an adaptive accessory.</string>
+	<key>SWITCH_SCANNING_LABEL</key>
+	<string>Switch Control</string>
+	<key>SWITCH_SOURCE_CAMERA_HEAD_MOVEMENT_FOOTER_TEXT</key>
+	<string>Use Switch Control by moving your head to the left or the right.</string>
+	<key>SWITCH_SOURCE_CAMERA_LABEL</key>
+	<string>Camera</string>
+	<key>SWITCH_SOURCE_DIALOG_OK</key>
+	<string>Ok</string>
+	<key>SWITCH_SOURCE_DIALOG_SOURCE_IN_USE</key>
+	<string>Source in use. Choose another source.</string>
+	<key>SWITCH_SOURCE_DIALOG_TITLE</key>
+	<string>Switch Source</string>
+	<key>SWITCH_SOURCE_EXTERNAL_INSTRUCTIONAL_TEXT</key>
+	<string>Activate your external switch…</string>
+	<key>SWITCH_SOURCE_EXTERNAL_LABEL</key>
+	<string>External</string>
+	<key>SWITCH_SOURCE_FOOTER_TEXT</key>
+	<string>Choose a switch source.</string>
+	<key>SWITCH_SOURCE_LABEL</key>
+	<string>Source</string>
+	<key>SWITCH_SOURCE_SCREEN_FOOTER_TEXT</key>
+	<string>Use Switch Control by tapping anywhere on the screen.</string>
+	<key>SWITCH_SOURCE_SCREEN_LABEL</key>
+	<string>Screen</string>
+	<key>SWITCH_STABILITY_HEADING</key>
+	<string>Switch Stabilization</string>
+	<key>SWITCH_SYSTEM_ACTIONS_LABEL</key>
+	<string>System</string>
+	<key>TIMING_HEADING</key>
+	<string>Timing</string>
+	<key>VISUAL_HEADING</key>
+	<string>Visual</string>
+</dict>
+</plist>

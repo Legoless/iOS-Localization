@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BANNER_SUBACTION_DISMISS</key>
+	<string>Dismiss</string>
+	<key>BANNER_SUBACTION_SNOOZE</key>
+	<string>Snooze</string>
+	<key>LOCKOUT_PASSCODE_TTL1_IPAD</key>
+	<string>Unlock this iPad</string>
+	<key>LOCKOUT_PASSCODE_TTL1_IPHONE</key>
+	<string>Unlock this iPhone</string>
+	<key>LOCKOUT_PASSCODE_TTL2</key>
+	<string>to start 'Car Display'</string>
+	<key>LOCKOUT_SIRI_MSG1</key>
+	<string>To use Car Display, enable Siri in the Settings app</string>
+	<key>LOCKOUT_SIRI_MSG2_IPAD</key>
+	<string>on this iPad</string>
+	<key>LOCKOUT_SIRI_MSG2_IPHONE</key>
+	<string>on this iPhone.</string>
+	<key>LOCKOUT_SIRI_TTL</key>
+	<string>Car Display not available</string>
+	<key>LOCKOUT_THERMAL_MSG1_IPAD</key>
+	<string>iPad needs to cool down</string>
+	<key>LOCKOUT_THERMAL_MSG1_IPHONE</key>
+	<string>iPhone needs to cool down</string>
+	<key>LOCKOUT_THERMAL_MSG2</key>
+	<string>before you can use it.</string>
+	<key>LOCKOUT_THERMAL_TTL</key>
+	<string>Temperature</string>
+</dict>
+</plist>

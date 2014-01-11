@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_MINUTES_REMAINING</key>
+	<string>About %i minutes remaining</string>
+	<key>ABOUT_ONE_HOUR_REMAINING</key>
+	<string>About 1 hour remaining</string>
+	<key>BACKING_UP</key>
+	<string>Backing Up…</string>
+	<key>BACKUPS_INFO_TEXT_WIFI_IPAD</key>
+	<string>Automatically back up your camera roll, accounts, documents, and settings when this iPad is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>BACKUPS_INFO_TEXT_WIFI_IPHONE</key>
+	<string>Automatically back up your camera roll, accounts, documents, and settings when this iPhone is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>BACKUPS_INFO_TEXT_WIFI_IPOD</key>
+	<string>Automatically back up your camera roll, accounts, documents, and settings when this iPod touch is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>BACKUPS_INFO_TEXT_WLAN_IPAD</key>
+	<string>Automatically back up your camera roll, accounts, documents, and settings when this iPad is plugged in, locked, and connected to WLAN.</string>
+	<key>BACKUPS_INFO_TEXT_WLAN_IPHONE</key>
+	<string>Automatically back up your camera roll, accounts, documents, and settings when this iPhone is plugged in, locked, and connected to WLAN.</string>
+	<key>BACKUPS_INFO_TEXT_WLAN_IPOD</key>
+	<string>Automatically back up your camera roll, accounts, documents, and settings when this iPod touch is plugged in, locked, and connected to WLAN.</string>
+	<key>BACKUPS_NAV_TITLE_IPAD</key>
+	<string>Storage &amp; Backup</string>
+	<key>BACKUPS_NAV_TITLE_IPHONE</key>
+	<string>Storage &amp; Backup</string>
+	<key>BACKUPS_NAV_TITLE_IPOD</key>
+	<string>Storage &amp; Backup</string>
+	<key>BACKUPS_SECTION_HEADER</key>
+	<string>Backup</string>
+	<key>BACKUP_ENABLED_SWITCH_IPAD</key>
+	<string>iCloud Backup</string>
+	<key>BACKUP_ENABLED_SWITCH_IPHONE</key>
+	<string>iCloud Backup</string>
+	<key>BACKUP_ENABLED_SWITCH_IPOD</key>
+	<string>iCloud Backup</string>
+	<key>BACKUP_ERROR</key>
+	<string>The last backup could not be completed.</string>
+	<key>BACKUP_ERROR_INSUFFICIENT_QUOTA_IPAD</key>
+	<string>This iPad cannot be backed up because there is not enough iCloud storage available.</string>
+	<key>BACKUP_ERROR_INSUFFICIENT_QUOTA_IPHONE</key>
+	<string>This iPhone cannot be backed up because there is not enough iCloud storage available.</string>
+	<key>BACKUP_ERROR_INSUFFICIENT_QUOTA_IPOD</key>
+	<string>This iPod touch cannot be backed up because there is not enough iCloud storage available.</string>
+	<key>BACKUP_ERROR_LOCKED</key>
+	<string>iCloud Backup cannot begin because another device is currently restoring from this backup. Try again later.</string>
+	<key>BACKUP_NOW</key>
+	<string>Back Up Now</string>
+	<key>BACKUP_WIFI_REQUIRED</key>
+	<string>You must be connected to a Wi-Fi network to start a backup.</string>
+	<key>BACKUP_WLAN_REQUIRED</key>
+	<string>You must be connected to a WLAN network to start a backup.</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_BACKUP</key>
+	<string>Cancel Backup</string>
+	<key>CANCEL_RESTORE_WARNING</key>
+	<string>Any data that has not been downloaded will not be restored or backed up in the future.</string>
+	<key>DATE_AT_TIME</key>
+	<string>%@ at %@</string>
+	<key>DETERMINING_LAST_BACKUP</key>
+	<string>Loading…</string>
+	<key>DEVICE_IS_BEING_RESTORED_IPAD</key>
+	<string>This iPad is currently being restored and will automatically back up when it is done.</string>
+	<key>DEVICE_IS_BEING_RESTORED_IPHONE</key>
+	<string>This iPhone is currently being restored and will automatically back up when it is done.</string>
+	<key>DEVICE_IS_BEING_RESTORED_IPOD</key>
+	<string>This iPod touch is currently being restored and will automatically back up when it is done.</string>
+	<key>DEVICE_RESTORE_PAUSED_WIFI_IPAD</key>
+	<string>The restore in progress has been paused. It will resume when this iPad is connected to Wi-Fi.</string>
+	<key>DEVICE_RESTORE_PAUSED_WIFI_IPHONE</key>
+	<string>The restore in progress has been paused. It will resume when this iPhone is connected to Wi-Fi.</string>
+	<key>DEVICE_RESTORE_PAUSED_WIFI_IPOD</key>
+	<string>The restore in progress has been paused. It will resume when this iPod touch is connected to Wi-Fi.</string>
+	<key>DEVICE_RESTORE_PAUSED_WLAN_IPAD</key>
+	<string>The restore in progress has been paused. It will resume when this iPad is connected to WLAN.</string>
+	<key>DEVICE_RESTORE_PAUSED_WLAN_IPHONE</key>
+	<string>The restore in progress has been paused. It will resume when this iPhone is connected to WLAN.</string>
+	<key>DEVICE_RESTORE_PAUSED_WLAN_IPOD</key>
+	<string>The restore in progress has been paused. It will resume when this iPod touch is connected to WLAN.</string>
+	<key>DISABLE_CLOUD_BACKUP</key>
+	<string>Stop iCloud Backup</string>
+	<key>DISABLE_CLOUD_BACKUP_PROMPT_IPAD</key>
+	<string>Your iPad will back up to your computer automatically when you sync with iTunes.</string>
+	<key>DISABLE_CLOUD_BACKUP_PROMPT_IPHONE</key>
+	<string>Your iPhone will back up to your computer automatically when you sync with iTunes.</string>
+	<key>DISABLE_CLOUD_BACKUP_PROMPT_IPOD</key>
+	<string>Your iPod touch will back up to your computer automatically when you sync with iTunes.</string>
+	<key>DONT_STOP</key>
+	<string>Don’t Stop</string>
+	<key>ENABLE_CLOUD_BACKUP</key>
+	<string>Start iCloud Backup</string>
+	<key>ENABLE_CLOUD_BACKUP_PROMPT_IPAD</key>
+	<string>Your iPad will no longer back up to your computer automatically when you sync with iTunes.</string>
+	<key>ENABLE_CLOUD_BACKUP_PROMPT_IPHONE</key>
+	<string>Your iPhone will no longer back up to your computer automatically when you sync with iTunes.</string>
+	<key>ENABLE_CLOUD_BACKUP_PROMPT_IPOD</key>
+	<string>Your iPod touch will no longer back up to your computer automatically when you sync with iTunes.</string>
+	<key>ERROR_ENABLING_BACKUP</key>
+	<string>iCloud Backup Failed</string>
+	<key>ERROR_ENABLING_BACKUP_AIRPLANE_MODE_WIFI</key>
+	<string>Turn off Airplane Mode or use Wi-Fi to enable iCloud Backup.</string>
+	<key>ERROR_ENABLING_BACKUP_AIRPLANE_MODE_WLAN</key>
+	<string>Turn off Airplane Mode or use WLAN to enable iCloud Backup.</string>
+	<key>ERROR_ENABLING_BACKUP_DETAILS</key>
+	<string>There was a problem enabling iCloud Backup.</string>
+	<key>ERROR_ENABLING_BACKUP_NETWORK</key>
+	<string>Connect to the Internet to enable iCloud Backup.</string>
+	<key>ESTIMATING_TIME_REMAINING</key>
+	<string>Estimating time remaining…</string>
+	<key>LAST_BACKUP</key>
+	<string>Last Backup: </string>
+	<key>LESS_THAN_ONE_MINUTE_REMAINING</key>
+	<string>Less than 1 minute remaining</string>
+	<key>NEVER_BACKED_UP</key>
+	<string>Never</string>
+	<key>N_HOURS_REMAINING</key>
+	<string>About %@ hours remaining</string>
+	<key>N_MINUTES_REMAINING</key>
+	<string>About %@ minutes remaining</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>STOP</key>
+	<string>Stop</string>
+	<key>STOP_RESTORING_IPAD</key>
+	<string>Stop Restoring iPad</string>
+	<key>STOP_RESTORING_IPHONE</key>
+	<string>Stop Restoring iPhone</string>
+	<key>STOP_RESTORING_IPOD</key>
+	<string>Stop Restoring iPod touch</string>
+	<key>STOP_RESTORING_QUESTION_IPAD</key>
+	<string>Stop Restoring iPad?</string>
+	<key>STOP_RESTORING_QUESTION_IPHONE</key>
+	<string>Stop Restoring iPhone?</string>
+	<key>STOP_RESTORING_QUESTION_IPOD</key>
+	<string>Stop Restoring iPod touch?</string>
+	<key>THIS_DEVICE_IPAD</key>
+	<string>This iPad</string>
+	<key>THIS_DEVICE_IPHONE</key>
+	<string>This iPhone</string>
+	<key>THIS_DEVICE_IPOD</key>
+	<string>This iPod touch</string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+	<key>TURNING_ON_BACKUP</key>
+	<string>Turning on Backup…</string>
+	<key>UNKNOWN_LAST_BACKUP</key>
+	<string>Unknown</string>
+</dict>
+</plist>

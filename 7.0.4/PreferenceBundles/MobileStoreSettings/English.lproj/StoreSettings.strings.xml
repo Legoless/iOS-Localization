@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_FORMAT</key>
+	<string>Apple ID: %@</string>
+	<key>APPLEID_INFO_HEADER</key>
+	<string>An Apple ID is the login you use for just about everything you do with Apple.</string>
+	<key>APPLEID_PLACEHOLDER</key>
+	<string>example@icloud.com</string>
+	<key>AUTO_DOWNLOADS_EXPLANATION</key>
+	<string>Automatically download new purchases (including free) made on other devices.</string>
+	<key>AUTO_DOWNLOADS_HEADER</key>
+	<string>Automatic Downloads</string>
+	<key>AUTO_DOWNLOAD_APPS</key>
+	<string>Apps</string>
+	<key>AUTO_DOWNLOAD_BOOKS</key>
+	<string>Books</string>
+	<key>AUTO_DOWNLOAD_MUSIC</key>
+	<string>Music</string>
+	<key>AUTO_DOWNLOAD_ON_CELL</key>
+	<string>Use Cellular Data</string>
+	<key>AUTO_DOWNLOAD_ON_CELL_EXPLANATION_NO_MATCH</key>
+	<string>Use cellular network for automatic downloads.</string>
+	<key>AUTO_DOWNLOAD_ON_CELL_EXPLANATION_NO_MATCH_WITH_RADIO</key>
+	<string>Use cellular network for automatic downloads and iTunes Radio.</string>
+	<key>AUTO_DOWNLOAD_ON_CELL_EXPLANATION_WITH_MATCH</key>
+	<string>Use cellular network for automatic downloads and iTunes Match.</string>
+	<key>AUTO_DOWNLOAD_ON_CELL_EXPLANATION_WITH_MATCH_WITH_RADIO</key>
+	<string>Use cellular network for automatic downloads, iTunes Match, and iTunes Radio.</string>
+	<key>AUTO_DOWNLOAD_UPDATES</key>
+	<string>Updates</string>
+	<key>AUTO_UPDATE_APPS</key>
+	<string>App Updates</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CREATE_NEW_ACCOUNT</key>
+	<string>Create New Apple ID</string>
+	<key>ENABLE_SYNC_BUTTON</key>
+	<string>Enable</string>
+	<key>ENABLE_SYNC_MESSAGE</key>
+	<string>iTunes Match will replace the music library on this device.</string>
+	<key>FORGOT_PASSWORD_BUTTON</key>
+	<string>iForgot</string>
+	<key>FORGOT_PASSWORD_LINK</key>
+	<string>Forgot Apple ID or Password?</string>
+	<key>ITUNES_ACCOUNT</key>
+	<string>Apple ID</string>
+	<key>ITUNES_MATCH</key>
+	<string>iTunes Match</string>
+	<key>ITUNES_MATCH_EXPIRED_BODY</key>
+	<string>You can renew your subscription using iTunes on a computer.</string>
+	<key>ITUNES_MATCH_EXPIRED_TITLE</key>
+	<string>iTunes Match Has Expired</string>
+	<key>ITUNES_MATCH_FOOTER</key>
+	<string>Store all your music in the cloud with iTunes Match.</string>
+	<key>ITUNES_MATCH_LEARN_MORE</key>
+	<string>Learn more…</string>
+	<key>ITUNES_MATCH_LEARN_MORE_LINK</key>
+	<string>http://www.apple.com/itunes/itunes-match</string>
+	<key>ITUNES_MATCH_NOT_AVAILABLE_BODY</key>
+	<string>You are not currently subscribed to iTunes Match. Use iTunes on your computer to subscribe.</string>
+	<key>ITUNES_MATCH_NOT_AVAILABLE_TITLE</key>
+	<string>iTunes Match</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PASSWORD_PLACEHOLDER</key>
+	<string>Required</string>
+	<key>SHOW_ALL_FOOTER_IPAD</key>
+	<string>Show all store purchases and iTunes Match uploads in your music and video libraries, even if they have not been downloaded to this iPad.</string>
+	<key>SHOW_ALL_FOOTER_IPHONE</key>
+	<string>Show all store purchases and iTunes Match uploads in your music and video libraries, even if they have not been downloaded to this iPhone.</string>
+	<key>SHOW_ALL_FOOTER_IPOD</key>
+	<string>Show all store purchases and iTunes Match uploads in your music and video libraries, even if they have not been downloaded to this iPod.</string>
+	<key>SHOW_ALL_HEADER</key>
+	<string>Show All</string>
+	<key>SHOW_ALL_MUSIC</key>
+	<string>Music</string>
+	<key>SHOW_ALL_VIDEOS</key>
+	<string>Videos</string>
+	<key>SHOW_ICONS_ON_HOME_SCREEN</key>
+	<string>Home Screen Icons</string>
+	<key>SIGN_IN_ALERT_TITLE</key>
+	<string>Sign In</string>
+	<key>SIGN_IN_BUTTON</key>
+	<string>Sign In</string>
+	<key>SIGN_OUT</key>
+	<string>Sign Out</string>
+	<key>STORE_SETTINGS_TITLE</key>
+	<string>iTunes &amp; App Stores</string>
+	<key>USE_EXISTING_ACCOUNT</key>
+	<string>Use Existing Apple ID</string>
+	<key>VIEW_ACCOUNT</key>
+	<string>View Apple ID</string>
+</dict>
+</plist>

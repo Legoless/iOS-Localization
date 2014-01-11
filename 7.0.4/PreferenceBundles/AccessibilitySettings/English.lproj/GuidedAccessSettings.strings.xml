@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANNOT_REUSE_PASSCODE</key>
+	<string>Cannot Reuse Passcode</string>
+	<key>CONFIRMATION_FAILURE</key>
+	<string>Passcodes did not match. Try again.</string>
+	<key>GUIDED_ACCESS_AX_FEATURES_TITLE</key>
+	<string>Accessibility Shortcut</string>
+	<key>GUIDED_ACCESS_AX_FEATURES_TITLE_FOOTER</key>
+	<string>When you Triple-Click the Home when Guided Access is enabled, the Accessibility Shortcut settings you have enabled will be displayed.</string>
+	<key>GUIDED_ACCESS_DESCRIPTION_FORMAT</key>
+	<string>Guided Access keeps the %@ in a single app, and allows you to control which features are available. To start Guided Access, Triple-Click the Home button in the app you want to use.</string>
+	<key>GUIDED_ACCESS_PIN_DESCRIPTION</key>
+	<string>Set the passcode used when Guided Access is enabled.</string>
+	<key>GUIDED_ACCESS_SET_PIN_TITLE</key>
+	<string>Set Passcode</string>
+	<key>GUIDED_ACCESS_TITLE</key>
+	<string>Guided Access</string>
+	<key>PMCHANGE</key>
+	<string>Change Passcode</string>
+	<key>PMENTER</key>
+	<string>Enter Passcode</string>
+	<key>PMENTER_1_PROMPT</key>
+	<string>Enter your passcode</string>
+	<key>PMREMOVE</key>
+	<string>Turn off Passcode</string>
+	<key>PMREMOVE_1_PROMPT</key>
+	<string>Enter your passcode</string>
+	<key>PMSET</key>
+	<string>Set Passcode</string>
+	<key>PMSET_1_PROMPT</key>
+	<string>Enter a passcode</string>
+	<key>PMSET_2_PROMPT</key>
+	<string>Re-enter your passcode</string>
+</dict>
+</plist>

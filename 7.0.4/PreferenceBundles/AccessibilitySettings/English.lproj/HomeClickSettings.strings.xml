@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOME_CLICK_INSTRUCTIONS</key>
+	<string>Adjust the speed required to activate Double and Triple-click Home.</string>
+	<key>HOME_CLICK_SPEED_DEFAULT</key>
+	<string>Default</string>
+	<key>HOME_CLICK_SPEED_SLOW</key>
+	<string>Slow</string>
+	<key>HOME_CLICK_SPEED_SLOWEST</key>
+	<string>Slowest</string>
+	<key>HOME_CLICK_TITLE</key>
+	<string>Home-click Speed</string>
+</dict>
+</plist>

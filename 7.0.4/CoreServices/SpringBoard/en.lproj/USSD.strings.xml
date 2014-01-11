@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ Call Barring
+%@
+%@</key>
+	<string>%@ Call Barring
+%@
+%@</string>
+	<key>%@ Call Forwarding
+%@
+%@%@</key>
+	<string>%@ Call Forwarding
+%@
+%@%@</string>
+	<key>%@ Call Waiting
+%@</key>
+	<string>%@ Call Waiting
+%@</string>
+	<key>%@ Fixed Dialing
+%@</key>
+	<string>%@ Fixed Dialing
+%@</string>
+	<key>Activation</key>
+	<string>Activation</string>
+	<key>All Calls</key>
+	<string>All Calls</string>
+	<key>All Conditional Calls</key>
+	<string>All Conditional Calls</string>
+	<key>All Incoming</key>
+	<string>All Incoming</string>
+	<key>All Incoming Services</key>
+	<string>All Incoming Services</string>
+	<key>All Outgoing</key>
+	<string>All Outgoing</string>
+	<key>All Outgoing Services</key>
+	<string>All Outgoing Services</string>
+	<key>All Services</key>
+	<string>All Services</string>
+	<key>Async Data Circuit</key>
+	<string>Async Data Circuit</string>
+	<key>CALL_FAILED</key>
+	<string>Call Failed</string>
+	<key>Calling Line ID Restriction
+%@</key>
+	<string>Calling Line ID Restriction
+%@</string>
+	<key>Calling Line Presentation
+%@</key>
+	<string>Calling Line Presentation
+%@</string>
+	<key>Calling Name Presentation
+%@</key>
+	<string>Calling Name Presentation
+%@</string>
+	<key>Connected Line ID Restriction
+%@</key>
+	<string>Connected Line ID Restriction
+%@</string>
+	<key>Connected Line Presentation
+%@</key>
+	<string>Connected Line Presentation
+%@</string>
+	<key>Data</key>
+	<string>Data</string>
+	<key>Deactivation</key>
+	<string>Deactivation</string>
+	<key>Disabled</key>
+	<string>Disabled</string>
+	<key>Enabled</key>
+	<string>Enabled</string>
+	<key>Erasure</key>
+	<string>Erasure</string>
+	<key>Fax</key>
+	<string>Fax</string>
+	<key>Forwards to %@
+</key>
+	<string>Forwards to %@
+</string>
+	<key>Incoming While Roaming Outside Home Country</key>
+	<string>Incoming While Roaming Outside Home Country</string>
+	<key>Incoming, Not On SIM</key>
+	<string>Incoming, Not On SIM</string>
+	<key>Interrogation</key>
+	<string>Interrogation</string>
+	<key>Network Controlled</key>
+	<string>Network Controlled</string>
+	<key>No Address</key>
+	<string>No Address</string>
+	<key>No Service Specified</key>
+	<string>No Service Specified</string>
+	<key>Not Available</key>
+	<string>Not Available</string>
+	<key>On All Calls</key>
+	<string>On All Calls</string>
+	<key>Outgoing International</key>
+	<string>Outgoing International</string>
+	<key>Outgoing International, Except Home Country</key>
+	<string>Outgoing International, Except Home Country</string>
+	<key>Packet Access</key>
+	<string>Packet Access</string>
+	<key>Pad Access</key>
+	<string>Pad Access</string>
+	<key>Registration</key>
+	<string>Registration</string>
+	<key>SIM Lock
+%@</key>
+	<string>SIM Lock
+%@</string>
+	<key>SMS</key>
+	<string>SMS</string>
+	<key>Service Center Address
+%@</key>
+	<string>Service Center Address
+%@</string>
+	<key>Setting %@ Failed</key>
+	<string>Setting %@ Failed
+</string>
+	<key>Setting %@ Succeeded</key>
+	<string>Setting %@ Succeeded
+</string>
+	<key>Setting Interrogation Failed</key>
+	<string>Setting Interrogation Failed
+</string>
+	<key>Setting Interrogation Succeeded</key>
+	<string>Setting Interrogation Succeeded
+</string>
+	<key>Supplementary Service Password
+%@</key>
+	<string>Supplementary Service Password
+%@</string>
+	<key>Sync Data Circuit</key>
+	<string>Sync Data Circuit</string>
+	<key>Temporarily Disabled</key>
+	<string>Temporarily Disabled</string>
+	<key>Temporarily Enabled</key>
+	<string>Temporarily Enabled</string>
+	<key>Type %d</key>
+	<string>Type %d</string>
+	<key>USSD_ERROR</key>
+	<string>Error performing request</string>
+	<key>USSD_TERMINATED</key>
+	<string>Session Terminated</string>
+	<key>Unknown</key>
+	<string>Unknown</string>
+	<key>Voice</key>
+	<string>Voice</string>
+	<key>When Busy</key>
+	<string>When Busy</string>
+	<key>When Unanswered</key>
+	<string>When Unanswered</string>
+	<key>When Unreachable</key>
+	<string>When Unreachable</string>
+	<key>kCTBadPinFormatError</key>
+	<string>Bad PIN Format</string>
+	<key>kCTErrorCallBarred</key>
+	<string>Call Barred</string>
+	<key>kCTErrorCallRejected</key>
+	<string>Call Rejected</string>
+	<key>kCTErrorCannotReplaceSm</key>
+	<string>Cannot Replace SIM</string>
+	<key>kCTErrorClass0NotSupported</key>
+	<string>Class 0 Not Supported</string>
+	<key>kCTErrorCommandCannotBeActioned</key>
+	<string>Command Cannot Be Actioned</string>
+	<key>kCTErrorCommandUnsupported</key>
+	<string>Command Unsupported</string>
+	<key>kCTErrorCongestion</key>
+	<string>Network Congested</string>
+	<key>kCTErrorDataCodingSchemeNotSupported</key>
+	<string>Data Coding Scheme Not Supported</string>
+	<key>kCTErrorDestinationOutOfOrder</key>
+	<string>Destination Out-of-Order</string>
+	<key>kCTErrorFacilityRejected</key>
+	<string>Facility Rejected</string>
+	<key>kCTErrorGprsIllegalMe</key>
+	<string>GPRS Illegal ME</string>
+	<key>kCTErrorGprsIllegalMs</key>
+	<string>GPRS Illegal MS</string>
+	<key>kCTErrorGprsInvalidMobileClass</key>
+	<string>GPRS Invalid Mobile Class</string>
+	<key>kCTErrorGprsLocationAreaNotAllowed</key>
+	<string>GPRS Location Area Not Allowed</string>
+	<key>kCTErrorGprsMissingorUnknownAPN</key>
+	<string>GPRS Missing or Unknown APN</string>
+	<key>kCTErrorGprsPDPAuthenticationInfoRejectedByBaseband</key>
+	<string>GPRS PDP Authentication Info Rejected by Baseband</string>
+	<key>kCTErrorGprsPdpAuthenticationFailure</key>
+	<string>GPRS PDP Authentication Failure</string>
+	<key>kCTErrorGprsPlmnNotAllowed</key>
+	<string>GPRS PLMN Not Allowed</string>
+	<key>kCTErrorGprsRoamingNotAllowedInLocationArea</key>
+	<string>GPRS Roaming Not Allowed In Location Area</string>
+	<key>kCTErrorGprsServiceOptionNotSubscribed</key>
+	<string>GPRS Service Option Not Subscribed</string>
+	<key>kCTErrorGprsServiceOptionNotSupported</key>
+	<string>GPRS Service Option Not Supported</string>
+	<key>kCTErrorGprsServiceOptionTemporarilyOutOfOrder</key>
+	<string>GPRS Service Option Temporarily Out-of-Order</string>
+	<key>kCTErrorGprsServicesNotAllowed</key>
+	<string>GPRS Services Not Allowed</string>
+	<key>kCTErrorGprsUnspecified</key>
+	<string>GPRS Unspecified</string>
+	<key>kCTErrorIncorrectPassword</key>
+	<string>Incorrect Password</string>
+	<key>kCTErrorInformationElementNonExistant</key>
+	<string>Information Element Nonexistent</string>
+	<key>kCTErrorInterworkingError</key>
+	<string>Interworking Error</string>
+	<key>kCTErrorInterworkingNotSupported</key>
+	<string>Interworking Not Supported</string>
+	<key>kCTErrorInvalidMandatoryInformation</key>
+	<string>Invalid Mandatory Information</string>
+	<key>kCTErrorInvalidNumberFormat</key>
+	<string>Invalid Number Format</string>
+	<key>kCTErrorInvalidTransactionIdentifier</key>
+	<string>Invalid Transaction Identifier</string>
+	<key>kCTErrorMessageNotCompatibleWithProtocolState</key>
+	<string>Message Not Compatible With Protocol State</string>
+	<key>kCTErrorMessageTypeNonExistant</key>
+	<string>Message Type Nonexistent</string>
+	<key>kCTErrorNetworkFailure</key>
+	<string>Network Failure</string>
+	<key>kCTErrorNetworkOutOfOrder</key>
+	<string>Network Out-of-Order</string>
+	<key>kCTErrorNoNetworkService</key>
+	<string>No Network Service</string>
+	<key>kCTErrorNoUserResponding</key>
+	<string>No User Responding</string>
+	<key>kCTErrorNumberChanged</key>
+	<string>Number Changed</string>
+	<key>kCTErrorNumberNotAllowed</key>
+	<string>Number not Allowed</string>
+	<key>kCTErrorOperatorDeterminedBarring</key>
+	<string>Operator Determined Barring</string>
+	<key>kCTErrorProtocolErrorUnspecified</key>
+	<string>Protocol Error Unspecified</string>
+	<key>kCTErrorRadioFailure</key>
+	<string>Radio Failure</string>
+	<key>kCTErrorRejectedBySimSmsControl</key>
+	<string>Rejected by SIM SMS Control</string>
+	<key>kCTErrorRequestedFacilityNotImplemented</key>
+	<string>Requested Facility Not Implemented</string>
+	<key>kCTErrorRequestedFacilityNotSubscribed</key>
+	<string>Requested Facility Not Subscribed</string>
+	<key>kCTErrorResourcesUnavailable</key>
+	<string>Resources Unavailable</string>
+	<key>kCTErrorScBusy</key>
+	<string>SC Busy</string>
+	<key>kCTErrorSemanticallyIncorrectMessage</key>
+	<string>Semantically Incorrect Message</string>
+	<key>kCTErrorShortMessageTransferRejected</key>
+	<string>Short Message Transfer Rejected</string>
+	<key>kCTErrorSimFailure</key>
+	<string>SIM Failure</string>
+	<key>kCTErrorSimMemoryFailure</key>
+	<string>SIM Memory Failure</string>
+	<key>kCTErrorSimNotInserted</key>
+	<string>SIM Not Inserted</string>
+	<key>kCTErrorSimPinRequired</key>
+	<string>SIM PIN Required</string>
+	<key>kCTErrorSimPukRequired</key>
+	<string>SIM PUK Required</string>
+	<key>kCTErrorTemporaryFailure</key>
+	<string>Temporary Failure</string>
+	<key>kCTErrorTpduNotSupported</key>
+	<string>TPDU Not Supported</string>
+	<key>kCTErrorUnassignedNumber</key>
+	<string>Unassigned Number</string>
+	<key>kCTErrorUnidentifiedSubscriber</key>
+	<string>Unidentified Subscriber</string>
+	<key>kCTErrorUnknownSubscriber</key>
+	<string>Unknown Subscriber</string>
+	<key>kCTErrorUnspecifiedDcs</key>
+	<string>Unspecified DCS Error</string>
+	<key>kCTErrorUnspecifiedPid</key>
+	<string>Unspecified PID</string>
+	<key>kCTErrorUnspecifiedTpCommand</key>
+	<string>Unspecified TP Command Error</string>
+	<key>kCTErrorUserBusy</key>
+	<string>User Busy</string>
+	<key>kCTNoError</key>
+	<string>No Error</string>
+	<key>kCTUnknownError</key>
+	<string>Unknown Error</string>
+</dict>
+</plist>

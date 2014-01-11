@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1_ATTACHMENT</key>
+	<string>%@ Attachment</string>
+	<key>1_MORE_ATTACHMENT</key>
+	<string>%@ More Attachment</string>
+	<key>AWAY_ITEM_PENDED_DEFAULT_FORMAT</key>
+	<string>You have %@ new %@ notifications</string>
+	<key>AWAY_ITEM_TYPE_COUNT_FORMAT</key>
+	<string>%@ (%@)</string>
+	<key>AWAY_ITEM_TYPE_END_FORMAT</key>
+	<string>%@ &amp; %@</string>
+	<key>AWAY_ITEM_TYPE_MIDDLE_FORMAT</key>
+	<string>%@, %@</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>LAUNCH</key>
+	<string>Launch</string>
+	<key>N_ATTACHMENTS</key>
+	<string>%@ Attachments</string>
+	<key>N_MORE_ATTACHMENTS</key>
+	<string>%@ More Attachments</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>VIEW</key>
+	<string>View</string>
+</dict>
+</plist>

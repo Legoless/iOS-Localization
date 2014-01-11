@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADVANCED</key>
+	<string>Advanced</string>
+	<key>ADVANCED_SETTINGS</key>
+	<string>Advanced Settings</string>
+	<key>ARCHIVE_MAILBOX</key>
+	<string>Archive Mailbox</string>
+	<key>DELETED_MAILBOX</key>
+	<string>Deleted Mailbox</string>
+	<key>ENABLE_SMIME</key>
+	<string>S/MIME</string>
+	<key>ENABLE_SMIME_ENCRYPTION</key>
+	<string>Encrypt</string>
+	<key>ENABLE_SMIME_SIGNING</key>
+	<string>Sign</string>
+	<key>MAILBOX_BEHAVIORS</key>
+	<string>Mailbox Behaviors</string>
+	<key>MOVE_DISCARDED_MESSAGES_INTO</key>
+	<string>Move Discarded Messages Into:</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>PROFILE_EXPLANATION_FORMAT</key>
+	<string>These settings are installed by the profile '%@'</string>
+	<key>SMIME</key>
+	<string>S/MIME</string>
+	<key>SMIME_CERT_GROUP_NAME</key>
+	<string>Certificates</string>
+	<key>USE_SSL</key>
+	<string>Use SSL</string>
+	<key>YES</key>
+	<string>Yes</string>
+</dict>
+</plist>

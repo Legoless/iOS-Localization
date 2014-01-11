@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AIR_TOUCH_TITLE</key>
+	<string>AssistiveTouch</string>
+	<key>AssistiveTouchAllowSwaggleToOpen</key>
+	<string>Open menu with gesture</string>
+	<key>AssistiveTouchAllowSwaggleToOpenDescription</key>
+	<string>Use a horizontal zig-zag motion to open the menu.</string>
+	<key>AssistiveTouchInstructionalTextFormat_IPAD</key>
+	<string>AssistiveTouch allows you to use your iPad if you have difficulty touching the screen or if you require an adaptive accessory.</string>
+	<key>AssistiveTouchInstructionalTextFormat_IPHONE</key>
+	<string>AssistiveTouch allows you to use your iPhone if you have difficulty touching the screen or if you require an adaptive accessory.</string>
+	<key>AssistiveTouchInstructionalTextFormat_IPOD</key>
+	<string>AssistiveTouch allows you to use your iPod touch if you have difficulty touching the screen or if you require an adaptive accessory.</string>
+	<key>CreateCustomGesture</key>
+	<string>Create New Gesture…</string>
+	<key>CreateCustomGestureTitle</key>
+	<string>New Gesture</string>
+	<key>CustomGestureHeading</key>
+	<string>Custom Gestures</string>
+	<key>CustomGestureInstructionalText</key>
+	<string>Custom gestures allow you to record gestures that can be activated from Favorites in the Menu.</string>
+	<key>CustomGestureVoiceOverLabel</key>
+	<string>Custom gesture drawing area</string>
+	<key>CustomGestures</key>
+	<string>Saved Gestures</string>
+	<key>CustomGesturesNavControllerTitle</key>
+	<string>New Gesture</string>
+	<key>CustomInstructions</key>
+	<string>Tap or swipe to create a custom gesture.
+
+A sequence of gestures will be combined into one multiple-touch gesture.</string>
+	<key>GestureNamePlaceholder</key>
+	<string>Gesture name</string>
+	<key>Play</key>
+	<string>Play</string>
+	<key>Record</key>
+	<string>Record</string>
+	<key>Recording</key>
+	<string>Recording</string>
+	<key>Reset</key>
+	<string>Reset</string>
+	<key>SaveAlertTitle</key>
+	<string>New Gesture</string>
+	<key>Scanner</key>
+	<string>Switch Control</string>
+	<key>SoftwareOnlyOption</key>
+	<string>Always Show Menu</string>
+	<key>Stop</key>
+	<string>Stop</string>
+	<key>TouchSpeed</key>
+	<string>Tracking Speed</string>
+	<key>name.in.use</key>
+	<string>Name in use. Choose another name.</string>
+</dict>
+</plist>

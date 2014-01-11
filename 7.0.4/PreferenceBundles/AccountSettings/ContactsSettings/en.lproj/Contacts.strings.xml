@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONTACTS</key>
+	<string>Contacts</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>DEFAULT_CONTACTS</key>
+	<string>Default Account</string>
+	<key>DEFAULT_CONTACTS_EXPLANATORY</key>
+	<string>New contacts created outside of a specific account will be added to this account.</string>
+	<key>Display Order</key>
+	<string>Display Order</string>
+	<key>FIRST</key>
+	<string>First, Last</string>
+	<key>IMPORT_CONTACTS_PROMPT</key>
+	<string>Import SIM Contacts to Account</string>
+	<key>Import SIM Contacts</key>
+	<string>Import SIM Contacts</string>
+	<key>Importing contacts</key>
+	<string>Importing SIM Contacts…</string>
+	<key>LAST</key>
+	<string>Last, First</string>
+	<key>My Info</key>
+	<string>My Info</string>
+	<key>NONE</key>
+	<string>None</string>
+	<key>PHOTOS_EVERYWHERE</key>
+	<string>Show Photos</string>
+	<key>PREFER_NICKNAMES_EXPLANTORY</key>
+	<string>Always use nicknames when available.</string>
+	<key>Prefer Nicknames</key>
+	<string>Prefer Nicknames</string>
+	<key>SHORT_NAME_FORMAT_EXPLANATORY</key>
+	<string>Short names are sometimes used to fit more names on screen. Only names using Roman characters are affected.</string>
+	<key>SHORT_NAME_FORMAT_FIRST_ONLY</key>
+	<string>First Name Only</string>
+	<key>SHORT_NAME_FORMAT_INITIAL_FIRST</key>
+	<string>First Initial &amp; Last Name</string>
+	<key>SHORT_NAME_FORMAT_INITIAL_LAST</key>
+	<string>First Name &amp; Last Initial</string>
+	<key>SHORT_NAME_FORMAT_LAST_ONLY</key>
+	<string>Last Name Only</string>
+	<key>Short Name</key>
+	<string>Short Name</string>
+	<key>Sort Order</key>
+	<string>Sort Order</string>
+</dict>
+</plist>

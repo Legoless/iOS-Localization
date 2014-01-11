@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_NEW_KEYBOARD</key>
+	<string>Add New Keyboard...</string>
+	<key>ADD_NEW_KEYBOARD_SHORT</key>
+	<string>Add New Keyboard</string>
+	<key>ADD_NEW_SHORTCUT</key>
+	<string>Add New Shortcut...</string>
+	<key>AUTOCORRECTION</key>
+	<string>Auto-Correction</string>
+	<key>Auto-Capitalization</key>
+	<string>Auto-Capitalization</string>
+	<key>Auto-Correction</key>
+	<string>Auto-Correction</string>
+	<key>CHOOSE_A_HARDWARE_KEYBOARD_LAYOUT</key>
+	<string>Choose a Hardware Keyboard Layout:</string>
+	<key>CHOOSE_A_SOFTWARE_KEYBOARD_LAYOUT</key>
+	<string>Choose Software Keyboard Layouts:</string>
+	<key>Check Spelling</key>
+	<string>Check Spelling</string>
+	<key>DESCRIPTION_SEPARATOR</key>
+	<string>: </string>
+	<key>Enable Caps Lock</key>
+	<string>Enable Caps Lock</string>
+	<key>FUZZY_PINYIN</key>
+	<string>Fuzzy</string>
+	<key>FUZZY_PINYIN_OPTION</key>
+	<string>Fuzzy Pinyin</string>
+	<key>FUZZY_PINYIN_PAIR_FORMAT</key>
+	<string>%@ ⇔ %@</string>
+	<key>HARDWARE_KEYBOARD_LAYOUT</key>
+	<string>Hardware Keyboard Layout</string>
+	<key>INTERNATIONAL</key>
+	<string>International</string>
+	<key>INTERNATIONAL_KEYBOARDS</key>
+	<string>International Keyboards</string>
+	<key>KANA_FLICK_ONLY</key>
+	<string>Flick Only</string>
+	<key>KANA_OPTIONS</key>
+	<string>Kana Options</string>
+	<key>KEYBOARDS</key>
+	<string>Keyboards</string>
+	<key>KEYBOARDS_SHORT</key>
+	<string>Keyboards</string>
+	<key>KEYBOARD_COUNT</key>
+	<string>%@</string>
+	<key>KEYBOARD_LAYOUT_SEPARATOR</key>
+	<string>/</string>
+	<key>Keyboard</key>
+	<string>Keyboard</string>
+	<key>LIST_SEPARATOR</key>
+	<string>, </string>
+	<key>NO_RESULTS</key>
+	<string>No Results</string>
+	<key>OPTIONAL</key>
+	<string>Optional</string>
+	<key>PERIOD_SHORTCUT</key>
+	<string>“.” Shortcut</string>
+	<key>PERIOD_SHORTCUT_DESCRIPTION</key>
+	<string>Double tapping the space bar will
+insert a period followed by a space.</string>
+	<key>PINYIN_OPTIONS</key>
+	<string>Pinyin Options</string>
+	<key>SEARCH_LOCAL_PLACEHOLDER</key>
+	<string>Search</string>
+	<key>SHORTCUTS</key>
+	<string>Shortcuts</string>
+	<key>SHORTCUT_FIELD_TITLE</key>
+	<string>Shortcut</string>
+	<key>SHORTCUT_VIEW_TITLE</key>
+	<string>Shortcut</string>
+	<key>SOFTWARE_KEYBOARD_LAYOUT</key>
+	<string>Software Keyboard Layout</string>
+	<key>SPACE_CONFIRMATION_EXPLANATION</key>
+	<string>Tap the space bar to confirm the first suggestion.</string>
+	<key>SPACE_CONFIRMATION_OPTION</key>
+	<string>Space Confirmation</string>
+	<key>Split Keyboard</key>
+	<string>Split Keyboard</string>
+	<key>USER_DICTIONARY</key>
+	<string>Shortcuts</string>
+	<key>USER_WORD_EXPLANATORY_TEXT</key>
+	<string>Create a shortcut that will automatically
+ expand into the word or phrase
+ as you type.</string>
+	<key>USER_WORD_VALIDATION_PHRASE_DUPLICATE</key>
+	<string>The phrase cannot be the same as an existing shortcut or phrase.</string>
+	<key>USER_WORD_VALIDATION_PHRASE_LENGTH</key>
+	<string>The phrase must contain at least two characters.</string>
+	<key>USER_WORD_VALIDATION_PHRASE_NOT_ALL_WHITESPACE</key>
+	<string>The phrase cannot be all spaces.</string>
+	<key>USER_WORD_VALIDATION_PHRASE_NOT_EMPTY</key>
+	<string>The phrase must contain at least one character.</string>
+	<key>USER_WORD_VALIDATION_SHORTCUT_CJKV_LENGTH</key>
+	<string>The shortcut cannot be empty.</string>
+	<key>USER_WORD_VALIDATION_SHORTCUT_CONTAINS_CJKV</key>
+	<string>The shortcut cannot contain any Chinese characters.</string>
+	<key>USER_WORD_VALIDATION_SHORTCUT_CONTAINS_CJK_PUNCTUATION</key>
+	<string>The shortcut cannot contain any Chinese or Japanese punctuation characters.</string>
+	<key>USER_WORD_VALIDATION_SHORTCUT_CONTAINS_EMOJI</key>
+	<string>The shortcut cannot contain any Emoji.</string>
+	<key>USER_WORD_VALIDATION_SHORTCUT_DUPLICATE</key>
+	<string>The shortcut cannot be the same as an existing shortcut.</string>
+	<key>USER_WORD_VALIDATION_SHORTCUT_LENGTH</key>
+	<string>The shortcut must contain at least two characters.</string>
+	<key>USER_WORD_VALIDATION_SHORTCUT_NO_WHITESPACE</key>
+	<string>The shortcut cannot contain spaces.</string>
+	<key>WORD</key>
+	<string>Phrase</string>
+</dict>
+</plist>

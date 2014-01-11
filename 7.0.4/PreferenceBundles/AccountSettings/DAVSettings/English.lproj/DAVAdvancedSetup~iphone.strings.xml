@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_URL</key>
+	<string>Account URL</string>
+	<key>ADVANCED_SETTINGS</key>
+	<string>Advanced Settings</string>
+	<key>PORT</key>
+	<string>Port</string>
+	<key>USE_SSL</key>
+	<string>Use SSL</string>
+</dict>
+</plist>

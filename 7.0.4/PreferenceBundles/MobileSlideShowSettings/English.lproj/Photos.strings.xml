@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10 Seconds</key>
+	<string>10 Seconds</string>
+	<key>10_SECONDS_SHORT</key>
+	<string>10 Seconds</string>
+	<key>2 Seconds</key>
+	<string>2 Seconds</string>
+	<key>20 Seconds</key>
+	<string>20 Seconds</string>
+	<key>20_SECONDS_SHORT</key>
+	<string>20 Seconds</string>
+	<key>2_SECONDS_SHORT</key>
+	<string>2 Seconds</string>
+	<key>3 Seconds</key>
+	<string>3 Seconds</string>
+	<key>3_SECONDS_SHORT</key>
+	<string>3 Seconds</string>
+	<key>5 Seconds</key>
+	<string>5 Seconds</string>
+	<key>5_SECONDS_SHORT</key>
+	<string>5 Seconds</string>
+	<key>Ask</key>
+	<string>Ask</string>
+	<key>CAMERA</key>
+	<string>Camera</string>
+	<key>Grid</key>
+	<string>Grid</string>
+	<key>HDR_FOOTER_TEXT</key>
+	<string>Save the normally exposed photo in addition to the HDR version.</string>
+	<key>HDR_KEEP_ORIGINAL_PHOTO</key>
+	<string>Keep Normal Photo</string>
+	<key>HDR_TITLE</key>
+	<string>HDR (High Dynamic Range)</string>
+	<key>HDR_TITLE_FOOTER_TEXT</key>
+	<string>HDR blends the best parts of three separate exposures into a single photo.</string>
+	<key>HD_VIDEO_UPLOAD</key>
+	<string>HD Video Upload</string>
+	<key>Manual</key>
+	<string>Manual</string>
+	<key>Music</key>
+	<string>Music</string>
+	<key>NONE</key>
+	<string>None</string>
+	<key>NTSC</key>
+	<string>NTSC</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>On</key>
+	<string>On</string>
+	<key>PAL</key>
+	<string>PAL</string>
+	<key>PHOTOSTREAM</key>
+	<string>Photos</string>
+	<key>PHOTOSTREAM_ACCOUNT</key>
+	<string>(%@)</string>
+	<key>PHOTOSTREAM_CANCEL</key>
+	<string>Cancel</string>
+	<key>PHOTOSTREAM_DELETE_DATA</key>
+	<string>Delete</string>
+	<key>PHOTOSTREAM_DELETE_SHARE_BUTTON</key>
+	<string>Remove Photo Stream</string>
+	<key>PHOTOSTREAM_GROUP_FOOTER_DESCRIPTION_WIFI</key>
+	<string>Automatically upload new photos and send them to all of your iCloud devices when connected to Wi-Fi.</string>
+	<key>PHOTOSTREAM_GROUP_FOOTER_DESCRIPTION_WLAN</key>
+	<string>Automatically upload new photos and send them to all of your iCloud devices when connected to WLAN.</string>
+	<key>PHOTOSTREAM_MAIN_SWITCH</key>
+	<string>My Photo Stream</string>
+	<key>PHOTOSTREAM_NO_NETWORK_AIRPLANE_MODE</key>
+	<string>You cannot change Photo Stream settings because Airplane Mode is on.</string>
+	<key>PHOTOSTREAM_NO_NETWORK_OK_BUTTON</key>
+	<string>OK</string>
+	<key>PHOTOSTREAM_NO_NETWORK_TITLE</key>
+	<string>Cannot Change Settings</string>
+	<key>PHOTOSTREAM_NO_NETWORK_WIFI</key>
+	<string>You cannot change Photo Stream settings because you are not connected to the Internet.</string>
+	<key>PHOTOSTREAM_TURN_OFF_CONFIRMATION_TITLE_IPAD</key>
+	<string>Turning off Photo Stream will delete all Photo Stream photos from your iPad.</string>
+	<key>PHOTOSTREAM_TURN_OFF_CONFIRMATION_TITLE_IPHONE</key>
+	<string>Turning off Photo Stream will delete all Photo Stream photos from your iPhone.</string>
+	<key>PHOTOSTREAM_TURN_OFF_CONFIRMATION_TITLE_IPOD</key>
+	<string>Turning off Photo Stream will delete all Photo Stream photos from your iPod touch.</string>
+	<key>PHOTOSTREAM_TURN_OFF_SPINNER_TEXT</key>
+	<string>Turning off Photo Stream</string>
+	<key>PHOTOS_TAB</key>
+	<string>Photos Tab</string>
+	<key>PHOTOS_TAB_GROUP_FOOTER_DESCRIPTION</key>
+	<string>The Photos tab shows every photo in your library in all views. You can choose compact, summarized views for Collections and Years.</string>
+	<key>PLAYLIST_NOTE</key>
+	<string>Music from iPod will automatically stop playing
+if a playlist is selected</string>
+	<key>PLAY_EACH</key>
+	<string>Play Each Slide For</string>
+	<key>PLAY_MUSIC</key>
+	<string>Play Music</string>
+	<key>Photos</key>
+	<string>Photos &amp; Camera</string>
+	<key>Random</key>
+	<string>Random</string>
+	<key>Repeat</key>
+	<string>Repeat</string>
+	<key>SHAREDSTREAMS_CANCEL</key>
+	<string>Cancel</string>
+	<key>SHAREDSTREAMS_DELETE_DATA</key>
+	<string>Delete Photos</string>
+	<key>SHAREDSTREAMS_GROUP_FOOTER_DESCRIPTION</key>
+	<string>Create photo streams to share with other people, or subscribe to other people's shared photo streams.</string>
+	<key>SHAREDSTREAMS_MAIN_SWITCH</key>
+	<string>Photo Sharing</string>
+	<key>SHAREDSTREAMS_TURN_OFF_CONFIRMATION_TITLE_IPAD</key>
+	<string>Turning off Shared Photo Streams will delete all shared photos from your iPad.</string>
+	<key>SHAREDSTREAMS_TURN_OFF_CONFIRMATION_TITLE_IPHONE</key>
+	<string>Turning off Shared Photo Streams will delete all shared photos from your iPhone.</string>
+	<key>SHAREDSTREAMS_TURN_OFF_CONFIRMATION_TITLE_IPOD</key>
+	<string>Turning off Shared Photo Streams will delete all shared photos from your iPod touch.</string>
+	<key>SHAREDSTREAMS_TURN_OFF_SPINNER_TEXT</key>
+	<string>Turning off Shared Photo Streams</string>
+	<key>SLIDESHOW</key>
+	<string>Slideshow</string>
+	<key>SUMMARIZE_SWITCH</key>
+	<string>Summarize Photos</string>
+	<key>Shuffle</key>
+	<string>Shuffle</string>
+	<key>TV Out</key>
+	<string>TV Out</string>
+	<key>TV Signal</key>
+	<string>TV Signal</string>
+</dict>
+</plist>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADHOC_JOIN_BODY</key>
+	<string>Are you sure you want to use this network?</string>
+	<key>ADHOC_JOIN_CANCEL</key>
+	<string>Cancel</string>
+	<key>ADHOC_JOIN_CONFIRMATION</key>
+	<string>Join Anyway</string>
+	<key>ADHOC_JOIN_PROMPT</key>
+	<string>"%@" Is Not Connected to the Internet</string>
+	<key>AIRPLANE_SHEET_CANCEL</key>
+	<string>Cancel</string>
+	<key>AIRPLANE_SHEET_OK</key>
+	<string>Enable Wi-Fi</string>
+	<key>AIRPLANE_SHEET_OK_CH</key>
+	<string>Enable WLAN</string>
+	<key>AIRPLANE_SHEET_TITLE</key>
+	<string>Enabling Wi-Fi will turn Airplane Mode off. Are you sure you want to enable Wi-Fi?</string>
+	<key>AIRPLANE_SHEET_TITLE_CH</key>
+	<string>Enabling WLAN will turn Airplane Mode off. Are you sure you want to enable WLAN?</string>
+	<key>ASK_TO_JOIN</key>
+	<string>Ask to Join Networks</string>
+	<key>AUTOJOIN_OFF</key>
+	<string>Known networks will be joined automatically. If no known networks are available, you will have to manually select a network.</string>
+	<key>AUTOJOIN_ON</key>
+	<string>Known networks will be joined automatically. If no known networks are available, you will be asked before joining a new network.</string>
+	<key>Any</key>
+	<string>Any</string>
+	<key>Available Networks</key>
+	<string>Available Networks</string>
+	<key>CHOOSE</key>
+	<string>Choose a Network…</string>
+	<key>CHOOSE_SETUP_HEADER</key>
+	<string>Choose a Wi-Fi
+Network</string>
+	<key>CHOOSE_SETUP_HEADER_CH</key>
+	<string>Choose a WLAN
+Network</string>
+	<key>CONNECT_TO_ITUNES</key>
+	<string>Connect to iTunes</string>
+	<key>DIAGNOSTIC_MODE_TITLE</key>
+	<string>Diagnostic Mode</string>
+	<key>ENTERPRISE_PROMPT</key>
+	<string>Enter information for “%@”</string>
+	<key>Favorites</key>
+	<string>Favorites</string>
+	<key>KNOWN_NETWORKS</key>
+	<string>Known Networks</string>
+	<key>KNOWN_NETWORKS_TITLE</key>
+	<string>Known</string>
+	<key>LOCATION_WARNING</key>
+	<string>Using Location services requires 
+turning on Wi-Fi.</string>
+	<key>LOCATION_WARNING_CELLULAR</key>
+	<string>Location accuracy is improved when 
+Wi-Fi is turned on.</string>
+	<key>LOCATION_WARNING_CELLULAR_CH</key>
+	<string>Location accuracy is improved when 
+WLAN is turned on.</string>
+	<key>LOCATION_WARNING_CH</key>
+	<string>Using Location services requires 
+turning on WLAN.</string>
+	<key>MACAddress</key>
+	<string>Hardware ID</string>
+	<key>Networks</key>
+	<string>Networks</string>
+	<key>OTHER</key>
+	<string>Other…</string>
+	<key>OTHER_CANCEL</key>
+	<string>Cancel</string>
+	<key>OTHER_OK</key>
+	<string>Join</string>
+	<key>OTHER_PROMPT</key>
+	<string>Enter network information</string>
+	<key>OTHER_SETUP_FOOTER</key>
+	<string>Choose another network</string>
+	<key>OTHER_SETUP_PROMPT</key>
+	<string>Enter network information</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>PH_DISABLE_CONFIRMATION_BODY</key>
+	<string>Joining the network “%@” will disconnect Personal Hotspot users.</string>
+	<key>PH_DISABLE_CONFIRMATION_TITLE</key>
+	<string>Personal Hotspot</string>
+	<key>SCANNING</key>
+	<string>Scanning…</string>
+	<key>SECURITY_CANCEL</key>
+	<string>Cancel</string>
+	<key>SECURITY_OK</key>
+	<string>Join</string>
+	<key>SECURITY_PROMPT</key>
+	<string>Enter the password for “%@”</string>
+	<key>Setup_AirPlay</key>
+	<string>Set up new AirPlay Speaker…</string>
+	<key>Setup_AirPort</key>
+	<string>Set up new AirPort Base Station…</string>
+	<key>Setup_AirPortOrAirPlay</key>
+	<string>Set up new AirPort or AirPlay Speaker…</string>
+	<key>Setup_Device</key>
+	<string>Set up new device…</string>
+	<key>USE_CELLULAR_CONNECTION</key>
+	<string>Use Cellular Connection</string>
+	<key>WI-FI</key>
+	<string>Wi-Fi</string>
+	<key>WI-FI_CH</key>
+	<string>WLAN</string>
+	<key>WIFI</key>
+	<string>Wi-Fi</string>
+	<key>WIFI_CH</key>
+	<string>WLAN</string>
+	<key>WIFI_CONNECT_TO_ITUNES_INFO_IPAD</key>
+	<string>Set up your iPad using iTunes if your Wi‑Fi network is not available.</string>
+	<key>WIFI_CONNECT_TO_ITUNES_INFO_IPHONE</key>
+	<string>Set up your iPhone using iTunes if your Wi‑Fi network is not available.</string>
+	<key>WIFI_CONNECT_TO_ITUNES_INFO_IPOD</key>
+	<string>Set up your iPod using iTunes if your Wi‑Fi network is not available.</string>
+	<key>WIFI_USE_CELLULAR_CONNECTION_INFO_IPAD</key>
+	<string>Set up your iPad using cellular data if your Wi‑Fi network is not available.</string>
+	<key>WIFI_USE_CELLULAR_CONNECTION_INFO_IPHONE</key>
+	<string>Set up your iPhone using cellular data if your Wi‑Fi network is not available.</string>
+	<key>WIFI_USE_CELLULAR_CONNECTION_INFO_IPOD</key>
+	<string>Set up your iPod using cellular data if your Wi‑Fi network is not available.</string>
+	<key>WLAN_CONNECT_TO_ITUNES_INFO_IPAD</key>
+	<string>Set up your iPad using iTunes if your WLAN network is not available.</string>
+	<key>WLAN_CONNECT_TO_ITUNES_INFO_IPHONE</key>
+	<string>Set up your iPhone using iTunes if your WLAN network is not available.</string>
+	<key>WLAN_CONNECT_TO_ITUNES_INFO_IPOD</key>
+	<string>Set up your iPod using iTunes if your WLAN network is not available.</string>
+	<key>WLAN_USE_CELLULAR_CONNECTION_INFO_IPAD</key>
+	<string>Set up your iPad using cellular data if your WLAN network is not available.</string>
+	<key>WLAN_USE_CELLULAR_CONNECTION_INFO_IPHONE</key>
+	<string>Set up your iPhone using cellular data if your WLAN network is not available.</string>
+	<key>WLAN_USE_CELLULAR_CONNECTION_INFO_IPOD</key>
+	<string>Set up your iPod using cellular data if your WLAN network is not available.</string>
+</dict>
+</plist>

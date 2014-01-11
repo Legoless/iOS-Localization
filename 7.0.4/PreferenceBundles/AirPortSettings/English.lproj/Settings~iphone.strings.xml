@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTO_JOIN</key>
+	<string>Auto-Join</string>
+	<key>AUTO_LOGIN</key>
+	<string>Auto-Login</string>
+	<key>Auto</key>
+	<string>Auto</string>
+	<key>BootP</key>
+	<string>BootP</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Client ID</key>
+	<string>Client ID</string>
+	<key>DHCP</key>
+	<string>DHCP</string>
+	<key>DNS</key>
+	<string>DNS</string>
+	<key>FORGET_BUTTON</key>
+	<string>Forget this Network</string>
+	<key>FORGET_NETWORK_ALERT_BUTTON_CANCEL</key>
+	<string>Cancel</string>
+	<key>FORGET_NETWORK_ALERT_BUTTON_FORGET</key>
+	<string>Forget</string>
+	<key>FORGET_NETWORK_ALERT_MESSAGE_generic</key>
+	<string>Your device will no longer join this Wi-Fi network.</string>
+	<key>FORGET_NETWORK_ALERT_MESSAGE_generic_CH</key>
+	<string>Your device will no longer join this WLAN network.</string>
+	<key>FORGET_NETWORK_ALERT_MESSAGE_iPhone</key>
+	<string>Your iPhone will no longer join this Wi-Fi network.</string>
+	<key>FORGET_NETWORK_ALERT_MESSAGE_iPhone_CH</key>
+	<string>Your iPhone will no longer join this WLAN network.</string>
+	<key>FORGET_NETWORK_ALERT_MESSAGE_iPod</key>
+	<string>Your iPod will no longer join this Wi-Fi network.</string>
+	<key>FORGET_NETWORK_ALERT_MESSAGE_iPod_CH</key>
+	<string>Your iPod will no longer join this WLAN network.</string>
+	<key>FORGET_NETWORK_ALERT_TITLE</key>
+	<string>Forget Wi-Fi Network</string>
+	<key>FORGET_NETWORK_ALERT_TITLE_CH</key>
+	<string>Forget WLAN Network</string>
+	<key>FORGET_SHEET_CANCEL</key>
+	<string>Cancel</string>
+	<key>FORGET_SHEET_OK</key>
+	<string>Forget</string>
+	<key>FORGET_iCLOUD_NETWORK_ALERT_MESSAGE_generic</key>
+	<string>Your device and other devices using iCloud Keychain will no longer join this Wi-Fi network.</string>
+	<key>FORGET_iCLOUD_NETWORK_ALERT_MESSAGE_generic_CH</key>
+	<string>Your device and other devices using iCloud Keychain will no longer join this WLAN network.</string>
+	<key>FORGET_iCLOUD_NETWORK_ALERT_MESSAGE_iPhone</key>
+	<string>Your iPhone and other devices using iCloud Keychain will no longer join this Wi-Fi network.</string>
+	<key>FORGET_iCLOUD_NETWORK_ALERT_MESSAGE_iPhone_CH</key>
+	<string>Your iPhone and other devices using iCloud Keychain will no longer join this WLAN network.</string>
+	<key>FORGET_iCLOUD_NETWORK_ALERT_MESSAGE_iPod</key>
+	<string>Your iPod and other devices using iCloud Keychain will no longer join this Wi-Fi network.</string>
+	<key>FORGET_iCLOUD_NETWORK_ALERT_MESSAGE_iPod_CH</key>
+	<string>Your iPod and other devices using iCloud Keychain will no longer join this WLAN network.</string>
+	<key>HTTP Proxy</key>
+	<string>HTTP Proxy</string>
+	<key>IP Address</key>
+	<string>IP Address</string>
+	<key>IPV6</key>
+	<string>IPv6</string>
+	<key>IPV6_AUTOMATIC</key>
+	<string>Automatic</string>
+	<key>JOIN_BUTTON</key>
+	<string>Join Network</string>
+	<key>MANAGE_BUTTON</key>
+	<string>Manage this Network</string>
+	<key>Manual</key>
+	<string>Manual</string>
+	<key>Network Settings</key>
+	<string>Network Settings</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>PROXY_AUTHENTICATION</key>
+	<string>Authentication</string>
+	<key>PROXY_LABEL</key>
+	<string>Proxy</string>
+	<key>PROXY_PASSWORD</key>
+	<string>Password</string>
+	<key>PROXY_PORT</key>
+	<string>Port</string>
+	<key>PROXY_SERVER</key>
+	<string>Server</string>
+	<key>PROXY_TYPE</key>
+	<string>Type</string>
+	<key>PROXY_URL</key>
+	<string>URL</string>
+	<key>PROXY_USERNAME</key>
+	<string>Username</string>
+	<key>Renew Lease</key>
+	<string>Renew Lease</string>
+	<key>Renew Lease Confirmation</key>
+	<string>Renew</string>
+	<key>Renew Lease?</key>
+	<string>Renew Lease?</string>
+	<key>Router</key>
+	<string>Router</string>
+	<key>Search Domains</key>
+	<string>Search Domains</string>
+	<key>Show in Favorites</key>
+	<string>Show in Favorites</string>
+	<key>Static</key>
+	<string>Static</string>
+	<key>Subnet Mask</key>
+	<string>Subnet Mask</string>
+</dict>
+</plist>

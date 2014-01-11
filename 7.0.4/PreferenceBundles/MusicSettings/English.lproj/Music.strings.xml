@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUDIOBOOK_FASTER</key>
+	<string>Faster</string>
+	<key>AUDIOBOOK_NORMAL</key>
+	<string>Normal</string>
+	<key>AUDIOBOOK_SLOWER</key>
+	<string>Slower</string>
+	<key>AUDIOBOOK_SPEED</key>
+	<string>Audiobook Speed</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>ENABLE_SYNC_BUTTON</key>
+	<string>Enable</string>
+	<key>ENABLE_SYNC_MESSAGE</key>
+	<string>iTunes Match will replace the music library on this device.</string>
+	<key>EQ_IPAD</key>
+	<string>EQ</string>
+	<key>EQ_IPHONE</key>
+	<string>EQ</string>
+	<key>EQ_OFF</key>
+	<string>Off</string>
+	<key>GROUP_BY_ALBUM_ARTIST_IPAD</key>
+	<string>Group By Album Artist</string>
+	<key>GROUP_BY_ALBUM_ARTIST_IPHONE</key>
+	<string>Group By Album Artist</string>
+	<key>HOME_SHARING</key>
+	<string>Home Sharing</string>
+	<key>HOME_SHARING_APPLE_ID</key>
+	<string>Apple ID</string>
+	<key>HOME_SHARING_APPLE_ID_BUTTON</key>
+	<string>Apple ID:</string>
+	<key>HOME_SHARING_APPLE_ID_PLACEHOLDER</key>
+	<string>example@icloud.com</string>
+	<key>HOME_SHARING_CANCEL</key>
+	<string>Cancel</string>
+	<key>HOME_SHARING_ERROR_TITLE</key>
+	<string>Unable to turn on Home Sharing</string>
+	<key>HOME_SHARING_FOOTER</key>
+	<string>An Apple ID is required to use Home Sharing.</string>
+	<key>HOME_SHARING_PASSWORD</key>
+	<string>Password</string>
+	<key>HOME_SHARING_PASSWORD_PLACEHOLDER</key>
+	<string>Required</string>
+	<key>HOME_SHARING_SIGN_OUT</key>
+	<string>Sign Out</string>
+	<key>ITUNES_MATCH</key>
+	<string>iTunes Match</string>
+	<key>ITUNES_MATCH_EXPIRED_BODY</key>
+	<string>You can renew your subscription using iTunes on a computer.</string>
+	<key>ITUNES_MATCH_EXPIRED_TITLE</key>
+	<string>iTunes Match Has Expired</string>
+	<key>ITUNES_MATCH_FOOTER</key>
+	<string>Store all your music in the cloud with iTunes Match.</string>
+	<key>ITUNES_MATCH_LEARN_MORE</key>
+	<string>Learn more…</string>
+	<key>ITUNES_MATCH_LEARN_MORE_LINK</key>
+	<string>http://www.apple.com/itunes/itunes-match</string>
+	<key>ITUNES_MATCH_NOT_AVAILABLE_BODY</key>
+	<string>You are not currently subscribed to iTunes Match. Use iTunes on your computer to subscribe.</string>
+	<key>ITUNES_MATCH_NOT_AVAILABLE_TITLE</key>
+	<string>iTunes Match</string>
+	<key>LYRICS</key>
+	<string>Lyrics</string>
+	<key>LYRICS_AND_PODCAST_INFO_IPHONE</key>
+	<string>Lyrics &amp; Podcast Info</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>RESET</key>
+	<string>Reset</string>
+	<key>RESET_MEDIA_LIBRARY</key>
+	<string>Reset Media Library</string>
+	<key>RESET_MEDIA_LIBRARY_FAILED</key>
+	<string>Failed to reset media library. Please try again.</string>
+	<key>RESET_MEDIA_LIBRARY_SUCCESSFUL</key>
+	<string>Successfully reset media library.</string>
+	<key>SHAKE_TO_SHUFFLE</key>
+	<string>Shake to Shuffle</string>
+	<key>SHOW_ALL_MUSIC</key>
+	<string>Show All Music</string>
+	<key>SHOW_ALL_MUSIC_OFF_FOOTER</key>
+	<string>Only music that has been downloaded to this device will be shown.</string>
+	<key>SHOW_ALL_MUSIC_ON_FOOTER_IPAD</key>
+	<string>All music that has been downloaded or that is stored in iCloud will be shown.</string>
+	<key>SHOW_ALL_MUSIC_ON_FOOTER_IPHONE</key>
+	<string>All music that has been downloaded or that is stored in iCloud will be shown.</string>
+	<key>SHOW_PURCHASES</key>
+	<string>Show Purchases</string>
+	<key>SOUND_CHECK_IPAD</key>
+	<string>Sound Check</string>
+	<key>SOUND_CHECK_IPHONE</key>
+	<string>Sound Check</string>
+	<key>USE_CELLULAR_DATA</key>
+	<string>Use Cellular Data</string>
+	<key>VOLUME_LIMIT_IPAD</key>
+	<string>Volume Limit</string>
+	<key>VOLUME_LIMIT_IPHONE</key>
+	<string>Volume Limit</string>
+</dict>
+</plist>

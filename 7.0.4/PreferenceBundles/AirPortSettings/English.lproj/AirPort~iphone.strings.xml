@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NETWORK</key>
+	<string>Wi-Fi Network</string>
+	<key>NETWORK_CH</key>
+	<string>WLAN Network</string>
+	<key>NOT_CONNECTED</key>
+	<string>Not Connected</string>
+	<key>NO_WIFI</key>
+	<string>No Wi-Fi</string>
+	<key>NO_WIFI_CH</key>
+	<string>No WLAN</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>WIFI_CANCEL</key>
+	<string>Cancel</string>
+	<key>WIFI_ENTERPRISE_AUTH_FAILURE</key>
+	<string>Incorrect username or password for “%@”</string>
+	<key>WIFI_ERROR_25</key>
+	<string>Incorrect password for
+“%@”</string>
+	<key>WIFI_ERROR_3</key>
+	<string>Failed to join “%@” due to an unknown error.</string>
+	<key>WIFI_ERROR_3_6</key>
+	<string>Unable to join the network
+“%@”</string>
+	<key>WIFI_ERROR_6</key>
+	<string>Failed to join “%@” due to a driver timeout.</string>
+	<key>WIFI_ERROR_CLOSED_SCAN</key>
+	<string>Could not find the network
+“%@”</string>
+	<key>WIFI_ERROR_OK</key>
+	<string>Dismiss</string>
+	<key>WIFI_JOIN</key>
+	<string>Join</string>
+	<key>WIFI_PASSWORD_MESSAGE</key>
+	<string>Enter the password for “%@”.</string>
+	<key>WIFI_SCAN_ERROR</key>
+	<string>Could not scan for wireless networks.</string>
+	<key>Wi-Fi</key>
+	<string>Wi-Fi</string>
+	<key>Wi-Fi_CH</key>
+	<string>WLAN</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APN_SETTINGS</key>
+	<string>APN Settings</string>
+	<key>EDGE</key>
+	<string>Cellular Data Network</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>TELEPHONY_LOGS</key>
+	<string>Telephony Logging</string>
+</dict>
+</plist>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdvancedSettingsConnectionStatusConnected</key>
+	<string>Connected</string>
+	<key>AdvancedSettingsConnectionStatusNotConnected</key>
+	<string>Not Connected</string>
+	<key>AdvancedSettingsConnectionTitle</key>
+	<string>Status</string>
+	<key>AdvancedSettingsFirmwareTitle</key>
+	<string>Firmware version</string>
+	<key>AdvancedSettingsGroupLeftTitle</key>
+	<string>Left Hearing Aid</string>
+	<key>AdvancedSettingsGroupRightTitle</key>
+	<string>Right Hearing Aid</string>
+	<key>AdvancedSettingsHIIDTitle</key>
+	<string>Hearing Aid ID</string>
+	<key>AdvancedSettingsHardwareTitle</key>
+	<string>Hardware version</string>
+	<key>AdvancedSettingsTitle</key>
+	<string>Diagnostics</string>
+	<key>AdvancedSettingsValueUnknown</key>
+	<string>Unknown</string>
+	<key>ForgetHearingAidCancel</key>
+	<string>Cancel</string>
+	<key>ForgetHearingAidOK</key>
+	<string>Disconnect</string>
+	<key>ForgetHearingAidPrompt</key>
+	<string>Are you sure you want to disconnect from this hearing aid?</string>
+	<key>ForgetHearingAidTitle</key>
+	<string>Disconnect this device</string>
+	<key>HearingAidIndependenceTitle</key>
+	<string>Adjust Independently</string>
+	<key>HearingAidMicrophoneVolume</key>
+	<string>Hearing Aid Volume</string>
+	<key>HearingAidModes</key>
+	<string>Presets</string>
+	<key>HearingAidModesLeft</key>
+	<string>Left Presets</string>
+	<key>HearingAidModesRight</key>
+	<string>Right Presets</string>
+	<key>HearingAidStreamToggleLeft</key>
+	<string>Stream to left hearing aid</string>
+	<key>HearingAidStreamToggleRight</key>
+	<string>Stream to right hearing aid</string>
+	<key>HearingAidStreamVolume</key>
+	<string>%@ Volume</string>
+</dict>
+</plist>

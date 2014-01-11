@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCESSIBILITY_DEFAULT_HEADSET</key>
+	<string>Incoming Calls</string>
+	<key>ACCESSIBILITY_SPEAK_AUTOCORRECTIONS</key>
+	<string>Speak Auto-text</string>
+	<key>AIR_TOUCH_TITLE</key>
+	<string>AssistiveTouch</string>
+	<key>AUTO_CORRECT_TEXT</key>
+	<string>Automatically speak auto-corrections
+and auto-capitalizations.</string>
+	<key>BoldTextRestartTitle_IPAD</key>
+	<string>Applying this setting will restart your iPad.</string>
+	<key>BoldTextRestartTitle_IPHONE</key>
+	<string>Applying this setting will restart your iPhone.</string>
+	<key>BoldTextRestartTitle_IPOD</key>
+	<string>Applying this setting will restart your iPod touch.</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>COGNITIVE_HEADING</key>
+	<string>Learning</string>
+	<key>CONFIRM_INVERT_COLORS_REMOVAL</key>
+	<string>Are you sure you want to disable inverted colors?</string>
+	<key>CONFIRM_VOT_REMOVAL</key>
+	<string>Are you sure you want to disable VoiceOver?</string>
+	<key>CONFIRM_ZOT_REMOVAL</key>
+	<string>Are you sure you want to disable Zoom?</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>CONTRAST</key>
+	<string>Contrast</string>
+	<key>CUSTOM_VIBES_INSTRUCTIONS</key>
+	<string>Assign unique vibration patterns to people in Contacts. Change the default pattern for everyone in Sounds settings.</string>
+	<key>CUSTOM_VIBRATIONS</key>
+	<string>Custom Vibrations</string>
+	<key>DEFAULT</key>
+	<string>Default</string>
+	<key>DEFAULT_HEADSET</key>
+	<string>Default to headset</string>
+	<key>DEFAULT_HEADSET_FOOTER</key>
+	<string>Choose route for incoming calls.</string>
+	<key>EARPIECE_NOISE_CANCELLATION_FOOTER</key>
+	<string>Noise cancelation reduces ambient noise on phone calls when you are holding the receiver to your ear.</string>
+	<key>EARPIECE_NOISE_TITLE</key>
+	<string>Phone Noise Cancelation</string>
+	<key>ENHANCE_BACKGROUND_CONTRAST</key>
+	<string>Increase Contrast</string>
+	<key>ENHANCE_TEXT_LEGIBILITY</key>
+	<string>Bold Text</string>
+	<key>FLASH_LED</key>
+	<string>LED Flash for Alerts</string>
+	<key>GUIDED_ACCESS_TITLE</key>
+	<string>Guided Access</string>
+	<key>HAC_MODE_EQUALIZATION_N94</key>
+	<string>Hearing Aid Mode improves audio quality with some hearing aids.</string>
+	<key>HAC_MODE_POWER_REDUCTION_N90</key>
+	<string>Hearing Aid Mode improves performance with some hearing aids, but may reduce cellular reception.</string>
+	<key>HEADSET</key>
+	<string>Headset</string>
+	<key>HEARING</key>
+	<string>Hearing</string>
+	<key>HEARING_AID_COMPLIANCE</key>
+	<string>Hearing Aid Mode</string>
+	<key>HEARING_AID_COMPLIANCE_INSTRUCTIONS</key>
+	<string>Improves compatibility with hearing aids in some circumstances. May reduce 2G cellular coverage.</string>
+	<key>HEARING_AID_TITLE</key>
+	<string>Hearing Aids</string>
+	<key>HOME_CLICK_TITLE</key>
+	<string>Home-click Speed</string>
+	<key>HOME_CLICK_TITLE_SPOKEN</key>
+	<string>Home-click Speed</string>
+	<key>IMPORTANT</key>
+	<string>Important</string>
+	<key>INVERT_COLORS</key>
+	<string>Invert Colors</string>
+	<key>IncreaseContrastFooterText</key>
+	<string>Improve contrast on some backgrounds to increase legibility.</string>
+	<key>LARGER_TEXT</key>
+	<string>Larger Type</string>
+	<key>LARGE_FONT</key>
+	<string>Large Text</string>
+	<key>LEFT_RIGHT_BALANCE_DETAILS</key>
+	<string>Adjust the audio volume balance between left and right channels.</string>
+	<key>LEFT_RIGHT_BALANCE_SPOKEN</key>
+	<string>Left-Right Stereo Balance</string>
+	<key>LeftStereoBalanceIdentifier</key>
+	<string>L</string>
+	<key>MOBILITY_HEADING</key>
+	<string>Physical &amp; Motor</string>
+	<key>MONO_AUDIO</key>
+	<string>Mono Audio</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>ON_OFF_LABELS</key>
+	<string>On/Off Labels</string>
+	<key>QUICKSPEAK_TITLE</key>
+	<string>Speak Selection</string>
+	<key>REDUCE_MOTION</key>
+	<string>Reduce Motion</string>
+	<key>ROOT_LEVEL_TITLE</key>
+	<string>Accessibility</string>
+	<key>ReduceMotionFooterText</key>
+	<string>Reduce the motion of the user interface, including the parallax effect of icons and alerts.</string>
+	<key>RightStereoBalanceIdentifier</key>
+	<string>R</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SPEAKER</key>
+	<string>Speaker</string>
+	<key>SPEAK_AUTOCORRECTIONS</key>
+	<string>Speak Auto-text</string>
+	<key>SUBTITLES_CAPTIONING</key>
+	<string>Subtitles &amp; Captioning</string>
+	<key>ScannerSwitchTitle</key>
+	<string>Switch Control</string>
+	<key>TRIPLE_CLICK_TITLE</key>
+	<string>Accessibility Shortcut</string>
+	<key>VISION</key>
+	<string>Vision</string>
+	<key>VOICEOVERTOUCH_TEXT</key>
+	<string>VoiceOver is for users with
+blindness or vision disabilities.</string>
+	<key>VOICEOVER_TITLE</key>
+	<string>VoiceOver</string>
+	<key>ZOOMTOUCH_TEXT</key>
+	<string>Zoom is for users with low-vision acuity.</string>
+	<key>ZOOM_TITLE</key>
+	<string>Zoom</string>
+</dict>
+</plist>

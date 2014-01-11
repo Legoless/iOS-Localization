@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTOMATIC</key>
+	<string>Automatic</string>
+	<key>CERTIFICATE</key>
+	<string>Certificate</string>
+	<key>EAP_TLS</key>
+	<string>EAP-TLS</string>
+	<key>FAILURE</key>
+	<string>Failed to join “%@”</string>
+	<key>NAME</key>
+	<string>Name</string>
+	<key>Network Name</key>
+	<string>Network Name</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Other</key>
+	<string>Other</string>
+	<key>Other Network</key>
+	<string>Other Network</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PEAP</key>
+	<string>PEAP</string>
+	<key>PROFILE</key>
+	<string>Mode</string>
+	<key>SECURITY</key>
+	<string>Security</string>
+	<key>SECURITY_TITLE</key>
+	<string>Enter Password</string>
+	<key>SECURITY_WAPI</key>
+	<string>Security</string>
+	<key>SUCCESS</key>
+	<string>Joined network “%@”</string>
+	<key>TLS_IDENTITY</key>
+	<string>Identity</string>
+	<key>USERNAME</key>
+	<string>Username</string>
+	<key>VALIDATING</key>
+	<string>Joining “%@”…</string>
+	<key>WAPI</key>
+	<string>WAPI</string>
+	<key>WAPI_ENTERPRISE</key>
+	<string>WAPI Enterprise</string>
+	<key>WAPI_IDENTITY</key>
+	<string>WAPI Identity</string>
+	<key>WAPI_ROOT</key>
+	<string>Root Certificate</string>
+	<key>WEP</key>
+	<string>WEP</string>
+	<key>WPA</key>
+	<string>WPA</string>
+	<key>WPA2</key>
+	<string>WPA2</string>
+	<key>WPA2_ENTERPRISE</key>
+	<string>WPA2 Enterprise</string>
+	<key>WPA_ENTERPRISE</key>
+	<string>WPA Enterprise</string>
+</dict>
+</plist>

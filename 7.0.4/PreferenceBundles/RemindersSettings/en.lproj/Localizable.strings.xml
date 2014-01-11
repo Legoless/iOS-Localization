@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1_MONTH</key>
+	<string>Reminders 1 Month Back</string>
+	<key>1_MONTH_OVERRIDE</key>
+	<string></string>
+	<key>2_WEEKS</key>
+	<string>Reminders %@ Weeks Back</string>
+	<key>3_MONTHS</key>
+	<string>Reminders %@ Months Back</string>
+	<key>6_MONTHS</key>
+	<string>Reminders %@ Months Back</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>DEFAULT_REMINDERS_EXPLANATORY</key>
+	<string>New reminders created outside of a specific list will default to this list.</string>
+	<key>DEFAULT_REMINDERS_LIST</key>
+	<string>Default List</string>
+	<key>NO_LIMIT</key>
+	<string>All Reminders</string>
+	<key>SYNC</key>
+	<string>Sync</string>
+</dict>
+</plist>
