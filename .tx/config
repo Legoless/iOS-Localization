@@ -1,0 +1,553 @@
+[main]
+host = https://www.transifex.com
+
+[apple-ios.SpringBoard-BulletinBoard]
+source_file = 7.0.4/CoreServices/SpringBoard/en.lproj/BulletinBoard.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SpringBoard-CarDisplay]
+source_file = 7.0.4/CoreServices/SpringBoard/en.lproj/CarDisplay.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SpringBoard-FolderNaming]
+source_file = 7.0.4/CoreServices/SpringBoard/en.lproj/FolderNaming.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SpringBoard-Jibbler]
+source_file = 7.0.4/CoreServices/SpringBoard/en.lproj/Jibbler.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SpringBoard-PushDataProvider]
+source_file = 7.0.4/CoreServices/SpringBoard/en.lproj/PushDataProvider.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SpringBoard-Radio]
+source_file = 7.0.4/CoreServices/SpringBoard/en.lproj/Radio.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SpringBoard-SpringBoard]
+source_file = 7.0.4/CoreServices/SpringBoard/en.lproj/SpringBoard.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SpringBoard-USSD]
+source_file = 7.0.4/CoreServices/SpringBoard/en.lproj/USSD.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-Accessibility]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/Accessibility.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-BluetoothDeviceConfig]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/BluetoothDeviceConfig.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-BrailleStatusCellSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/BrailleStatusCellSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-Captioning]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/Captioning.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-CaptioningStyle]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/CaptioningStyle.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-GuidedAccessSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/GuidedAccessSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-HandSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/HandSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-HearingAidDetailSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/HearingAidDetailSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-HearingAidSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/HearingAidSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-HomeClickSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/HomeClickSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-LargeFontsSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/LargeFontsSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-NavigateImagesSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/NavigateImagesSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-QuickSpeakSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/QuickSpeakSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-ScannerSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/ScannerSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-TripleClickSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/TripleClickSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-VoiceInfoStrings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/VoiceInfoStrings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-VoiceOverBluetoothDevices]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/VoiceOverBluetoothDevices.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-VoiceOverBrailleOptions]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/VoiceOverBrailleOptions.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-VoiceOverSettingsiphone]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/VoiceOverSettings~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-VoiceOverTypingFeedback]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/VoiceOverTypingFeedback.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccessibilitySettings-ZoomSettings]
+source_file = 7.0.4/PreferenceBundles/AccessibilitySettings/English.lproj/ZoomSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.ActiveSyncSettings-ASAccountSetupiphone]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/ActiveSyncSettings/English.lproj/ASAccountSetup~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.ActiveSyncSettings-ASAdvancedAccountSetup]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/ActiveSyncSettings/English.lproj/ASAdvancedAccountSetup.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.ActiveSyncSettings-ASHotmailAccountSetup]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/ActiveSyncSettings/English.lproj/ASHotmailAccountSetup.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AppleAccountSettings-Diagnostics]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/AppleAccountSettings/English.lproj/Diagnostics.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AppleAccountSettings-Localizable]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/AppleAccountSettings/English.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.ContactsSettings-Contacts]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/ContactsSettings/en.lproj/Contacts.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.DAVSettings-BookmarkDAVAccountSetup]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/DAVSettings/English.lproj/BookmarkDAVAccountSetup.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.DAVSettings-CalDAVAccountSetup]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/DAVSettings/English.lproj/CalDAVAccountSetup.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.DAVSettings-CardDAVAccountSetup]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/DAVSettings/English.lproj/CardDAVAccountSetup.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.DAVSettings-DAVAdvancedSetupiphone]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/DAVSettings/English.lproj/DAVAdvancedSetup~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.DAVSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/DAVSettings/English.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.LDAPSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/LDAPSettings/English.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.LDAPSettings-LDAPAccountSetupiphone]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/LDAPSettings/English.lproj/LDAPAccountSetup~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.LDAPSettings-LDAPSearchBase]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/LDAPSettings/English.lproj/LDAPSearchBase.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileCalSettings-Localizable]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/MobileCalSettings/English.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileCalSettings-LocalizableDeviceSpecificiphone]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/MobileCalSettings/English.lproj/LocalizableDeviceSpecific~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileMailSettings-Preferences]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/MobileMailSettings/English.lproj/Preferences.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SubscribedCalendarSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/SubscribedCalendarSettings/English.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SubscribedCalendarSettings-SubCalAccountSetup]
+source_file = 7.0.4/PreferenceBundles/AccountSettings/SubscribedCalendarSettings/English.lproj/SubCalAccountSetup.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AccountSettingsUI-Localizable]
+source_file = 7.0.4/PreferenceBundles/AccountSettingsUI/en.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AirPortSettings-AirPortiphone]
+source_file = 7.0.4/PreferenceBundles/AirPortSettings/English.lproj/AirPort~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AirPortSettings-Networksiphone]
+source_file = 7.0.4/PreferenceBundles/AirPortSettings/English.lproj/Networks~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AirPortSettings-OtherNetworkiphone]
+source_file = 7.0.4/PreferenceBundles/AirPortSettings/English.lproj/Other Network~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.AirPortSettings-Settingsiphone]
+source_file = 7.0.4/PreferenceBundles/AirPortSettings/English.lproj/Settings~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.Assistant-Assistant]
+source_file = 7.0.4/PreferenceBundles/Assistant/English.lproj/Assistant.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.Assistant-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/Assistant/English.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.BlacklistSettingsBundle-BlacklistSettings]
+source_file = 7.0.4/PreferenceBundles/BlacklistSettingsBundle/en.lproj/BlacklistSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.BluetoothSettings-DeviceConfig]
+source_file = 7.0.4/PreferenceBundles/BluetoothSettings/English.lproj/DeviceConfig.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.BluetoothSettings-Devices]
+source_file = 7.0.4/PreferenceBundles/BluetoothSettings/English.lproj/Devices.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.BluetoothSettings-SSPAlert]
+source_file = 7.0.4/PreferenceBundles/BluetoothSettings/English.lproj/SSPAlert.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.CarrierSettings-Carrieriphone]
+source_file = 7.0.4/PreferenceBundles/CarrierSettings/English.lproj/Carrier~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.CompassSettings-CompassSettings]
+source_file = 7.0.4/PreferenceBundles/CompassSettings/English.lproj/CompassSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.CoreRoutineSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/CoreRoutineSettings/en.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.EDGESettings-EDGESettings]
+source_file = 7.0.4/PreferenceBundles/EDGESettings/English.lproj/EDGE Settings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.EDGESettings-Edge]
+source_file = 7.0.4/PreferenceBundles/EDGESettings/English.lproj/Edge.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.EDGESettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/EDGESettings/English.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.FacebookSettings-Localizable]
+source_file = 7.0.4/PreferenceBundles/FacebookSettings/en.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.FlickrSettings-Localizable]
+source_file = 7.0.4/PreferenceBundles/FlickrSettings/en.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.GameCenterSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/GameCenterSettings/en.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.KeyboardSettings-KeyboardLayouts]
+source_file = 7.0.4/PreferenceBundles/KeyboardSettings/English.lproj/KeyboardLayouts.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.KeyboardSettings-KeyboardTitles]
+source_file = 7.0.4/PreferenceBundles/KeyboardSettings/English.lproj/KeyboardTitles.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.KeyboardSettings-Keyboardiphone]
+source_file = 7.0.4/PreferenceBundles/KeyboardSettings/English.lproj/Keyboard~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.ManagedConfigurationUI-ManagedConfigurationUI]
+source_file = 7.0.4/PreferenceBundles/ManagedConfigurationUI/English.lproj/ManagedConfigurationUI.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MapsSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/MapsSettings/en.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MapsSettings-Localizable]
+source_file = 7.0.4/PreferenceBundles/MapsSettings/en.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobilePhoneSettings-CallForwarding]
+source_file = 7.0.4/PreferenceBundles/MobilePhoneSettings/en.lproj/Call Forwarding.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobilePhoneSettings-CallWaiting]
+source_file = 7.0.4/PreferenceBundles/MobilePhoneSettings/en.lproj/Call Waiting.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobilePhoneSettings-Contacts]
+source_file = 7.0.4/PreferenceBundles/MobilePhoneSettings/en.lproj/Contacts.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobilePhoneSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/MobilePhoneSettings/en.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobilePhoneSettings-Phone]
+source_file = 7.0.4/PreferenceBundles/MobilePhoneSettings/en.lproj/Phone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobilePhoneSettings-Services]
+source_file = 7.0.4/PreferenceBundles/MobilePhoneSettings/en.lproj/Services.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobilePhoneSettings-ShowMyCallerID]
+source_file = 7.0.4/PreferenceBundles/MobilePhoneSettings/en.lproj/Show My Caller ID.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobilePhoneSettings-SIMPIN]
+source_file = 7.0.4/PreferenceBundles/MobilePhoneSettings/en.lproj/SIM PIN.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileSafariSettings-AutoFilliphone]
+source_file = 7.0.4/PreferenceBundles/MobileSafariSettings/English.lproj/AutoFill~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileSafariSettings-Developer]
+source_file = 7.0.4/PreferenceBundles/MobileSafariSettings/English.lproj/Developer.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileSafariSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/MobileSafariSettings/English.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileSafariSettings-Safariiphone]
+source_file = 7.0.4/PreferenceBundles/MobileSafariSettings/English.lproj/Safari~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileSafariSettings-SmartSearchFieldiphone]
+source_file = 7.0.4/PreferenceBundles/MobileSafariSettings/English.lproj/SmartSearchField~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileSafariSettings-Storageiphone]
+source_file = 7.0.4/PreferenceBundles/MobileSafariSettings/English.lproj/Storage~iphone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileSlideShowSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/MobileSlideShowSettings/English.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileSlideShowSettings-Photos]
+source_file = 7.0.4/PreferenceBundles/MobileSlideShowSettings/English.lproj/Photos.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MobileStoreSettings-StoreSettings]
+source_file = 7.0.4/PreferenceBundles/MobileStoreSettings/English.lproj/StoreSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MusicSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/MusicSettings/English.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MusicSettings-Music]
+source_file = 7.0.4/PreferenceBundles/MusicSettings/English.lproj/Music.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.MusicSettings-VolumeLimit]
+source_file = 7.0.4/PreferenceBundles/MusicSettings/English.lproj/Volume Limit.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.NewsstandSettings-NewsstandSettings]
+source_file = 7.0.4/PreferenceBundles/NewsstandSettings/en.lproj/NewsstandSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.NotesSettings-Settings]
+source_file = 7.0.4/PreferenceBundles/NotesSettings/English.lproj/Settings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.RemindersSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/RemindersSettings/en.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.RemindersSettings-Localizable]
+source_file = 7.0.4/PreferenceBundles/RemindersSettings/en.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.ReplyWithMessageSettings-ReplyWithMessage]
+source_file = 7.0.4/PreferenceBundles/ReplyWithMessageSettings/English.lproj/Reply With Message.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.ScheduleSettings-ScheduleSettings]
+source_file = 7.0.4/PreferenceBundles/ScheduleSettings/English.lproj/ScheduleSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SIMSettings-Phone]
+source_file = 7.0.4/PreferenceBundles/SIMSettings/en.lproj/Phone.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.SIMSettings-PHSIMSettings]
+source_file = 7.0.4/PreferenceBundles/SIMSettings/en.lproj/PHSIMSettings.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.TencentWeiboSettings-InfoPlist]
+source_file = 7.0.4/PreferenceBundles/TencentWeiboSettings/en.lproj/InfoPlist.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.TencentWeiboSettings-Localizable]
+source_file = 7.0.4/PreferenceBundles/TencentWeiboSettings/en.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.TwitterSettings-Localizable]
+source_file = 7.0.4/PreferenceBundles/TwitterSettings/en.lproj/Localizable.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.UsageSettings-Backup]
+source_file = 7.0.4/PreferenceBundles/UsageSettings/English.lproj/Backup.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.UsageSettings-BackupInfo]
+source_file = 7.0.4/PreferenceBundles/UsageSettings/English.lproj/BackupInfo.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.UsageSettings-CellularUsageFromCarrier]
+source_file = 7.0.4/PreferenceBundles/UsageSettings/English.lproj/CellularUsageFromCarrier.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.UsageSettings-CloudGroup]
+source_file = 7.0.4/PreferenceBundles/UsageSettings/English.lproj/CloudGroup.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
+[apple-ios.UsageSettings-UsageStatistics]
+source_file = 7.0.4/PreferenceBundles/UsageSettings/English.lproj/Usage Statistics.strings.json
+source_lang = en
+type = KEYVALUEJSON
+
