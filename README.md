@@ -8,7 +8,7 @@ Under documentation you must look at the instructions for translating, which con
 Languages currently in progress:
 ----------------
 
-**7.0.4** / *iPhone, iPad, iPod Touch* / **Slovenščina**
+**7.0.4** / *iPhone, iPad, iPod Touch* / **Slovenščina** (sl_SI)
 
 License
 ================
