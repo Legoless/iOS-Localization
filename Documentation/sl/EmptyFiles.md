@@ -1,1 +1,2 @@
 * CoreRoutineSettings-InfoPlist
+* GameCenterSettings-InfoPlist
