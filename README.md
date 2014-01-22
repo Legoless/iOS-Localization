@@ -8,7 +8,10 @@ The documentation will help you with translating and creating packages from fini
 Languages currently in progress:
 ----------------
 
-**7.0.4** / *iPhone, iPad, iPod Touch* / **Slovenščina** (sl_SI)
+**7.0.4** / *iPhone, iPad, iPod Touch* / **Slovenščina** (sl_SI) / **100%**
+
+Installation
+================
 
 License
 ================
