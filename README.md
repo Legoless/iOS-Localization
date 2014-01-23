@@ -13,6 +13,12 @@ Languages currently in progress:
 Installation
 ================
 
+Manual
+----------------
+
+Cydia Releases
+----------------
+
 License
 ================
 This is free and unencumbered software released into the public domain.
