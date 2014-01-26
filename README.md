@@ -5,10 +5,12 @@ This project is a community project to translate iOS operating system into the l
 
 The documentation will help you with translating and creating packages from finished translations. This project also contains scripts that will help you with automating those procedures.
 
+The project includes multiple tools and scripts to create packages and upload new string versions to **Transifex** database.
+
 Languages currently in progress:
 ----------------
 
-**7.0.4** / *iPhone, iPad, iPod Touch* / **Slovenščina** (sl_SI) / **100%**
+**7.0.4** / *iPhone, iPad, iPod Touch* / **Slovenščina** (sl_SI) / **100%** - Core OS
 
 Installation
 ================
