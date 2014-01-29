@@ -17,6 +17,7 @@ Installation
 
 Manual
 ----------------
+Search for correct .deb file in Trunk directory for your device and version.
 
 Cydia Releases
 ----------------
