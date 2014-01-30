@@ -7,10 +7,38 @@ The documentation will help you with translating and creating packages from fini
 
 The project includes multiple tools and scripts to create packages and upload new string versions to **Transifex** database.
 
-Languages currently in progress:
+Progress:
 ----------------
 
-**7.0.4** / *iPhone, iPad, iPod Touch* / **Slovenščina** (sl_SI) / **100%** - Core OS
+| Component     |  Version      |  Devices      |  Language     |  Status       |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Core OS       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
+| Settings      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
+| App Store     | /             | /             | /             | /             |
+| Calendar      | /             | /             | /             | /             |
+| Calculator    | /             | /             | /             | /             |
+| Camera        | /             | /             | /             | /             |
+| Clock         | /             | /             | /             | /             |
+| Compass       | /             | /             | /             | /             |
+| Contacts      | /             | /             | /             | /             |
+| Cydia         | /             | /             | /             | /             |
+| Facetime      | /             | /             | /             | /             |
+| Game Center   | /             | /             | /             | /             |
+| iTunes        | /             | /             | /             | /             |
+| Mail          | /             | /             | /             | /             |
+| Music         | /             | /             | /             | /             |
+| Maps          | /             | /             | /             | /             |
+| Newsstand     | /             | /             | /             | /             |
+| Notes         | /             | /             | /             | /             |
+| Passbook      | /             | /             | /             | /             |
+| Photos        | /             | /             | /             | /             |
+| Reminders     | /             | /             | /             | /             |
+| Safari        | /             | /             | /             | /             |
+| Stocks        | /             | /             | /             | /             |
+| Videos        | /             | /             | /             | /             |
+| Voice Memos   | /             | /             | /             | /             |
+| Weather       | /             | /             | /             | /             |
+
 
 Installation
 ================
