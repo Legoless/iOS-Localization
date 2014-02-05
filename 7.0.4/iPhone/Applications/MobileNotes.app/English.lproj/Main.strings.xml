@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNTS</key>
+	<string>Accounts</string>
+	<key>ALL_NOTES</key>
+	<string>All Notes</string>
+	<key>ALL_NOTES_IN_ACCOUNT</key>
+	<string>All %@</string>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DAYS_AGO_FORMAT</key>
+	<string>%@ days ago</string>
+	<key>DELETE_NOTE</key>
+	<string>Delete Note</string>
+	<key>DELIVERY_FAILED_MESSAGE</key>
+	<string>Delivery of your note failed.</string>
+	<key>DELIVERY_FAILED_TITLE</key>
+	<string>Delivery Failed</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>FIND_ON_PAGE_MATCHES</key>
+	<string>%@ of %@ Matches</string>
+	<key>FOLDERS</key>
+	<string>Folders</string>
+	<key>INDEX_TITLE_FORMAT</key>
+	<string>Notes (%@)</string>
+	<key>INDEX_TITLE_FORMAT_ALT</key>
+	<string>%@ Notes</string>
+	<key>INDEX_TITLE_FORMAT_ALT_SINGULAR</key>
+	<string>1 Note</string>
+	<key>LOCAL_NOTES_STORE</key>
+	<string>Notes</string>
+	<key>MORE_THAN_100_MATCHES</key>
+	<string>More than 100 matches</string>
+	<key>NEW_NOTE</key>
+	<string>New Note</string>
+	<key>NEW_NOTE_BUTTON</key>
+	<string>New</string>
+	<key>NOTES</key>
+	<string>Notes</string>
+	<key>NO_FIND_ON_PAGE_MATCHES</key>
+	<string>No Matches</string>
+	<key>NO_NOTES_CONTENT</key>
+	<string>No Notes</string>
+	<key>NO_SEARCH_RESULTS</key>
+	<string>No results found.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PRINT</key>
+	<string>Print</string>
+	<key>SEARCH_CANCEL</key>
+	<string>Cancel</string>
+	<key>SEARCH_PLACEHOLDER</key>
+	<string>Search</string>
+	<key>SHARING</key>
+	<string>Sharing</string>
+	<key>TODAY</key>
+	<string>Today</string>
+	<key>YESTERDAY</key>
+	<string>Yesterday</string>
+</dict>
+</plist>

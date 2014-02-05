@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_A_WEBSITE</key>
+	<string>Add a Website…</string>
+	<key>ALLOWED_WEBSITES</key>
+	<string>ALWAYS ALLOW</string>
+	<key>ALLOW_WEBSITES_RATED</key>
+	<string>Allowed Websites</string>
+	<key>ALL_CONTENT</key>
+	<string>All Websites</string>
+	<key>AUTO_FILTER</key>
+	<string>Limit Adult Content</string>
+	<key>AUTO_FILTER_FOOTER</key>
+	<string>Limit access to many adult websites automatically. Specific allowed and restricted websites can be added below.</string>
+	<key>EXPLICIT_WEB</key>
+	<string>Explicit Sexual Content</string>
+	<key>NAME</key>
+	<string>Title</string>
+	<key>ONLY_ALLOWED_WEBSITES</key>
+	<string>Only allow these websites:</string>
+	<key>PLACEHOLDER_NAME</key>
+	<string>Title</string>
+	<key>PLACEHOLDER_URL</key>
+	<string>http://www.example.com</string>
+	<key>PLACEHOLDER_WEBSITE</key>
+	<string>www.example.com</string>
+	<key>PROFILE_RESTRICTED</key>
+	<string>Additional restrictions may be applied by installed profile</string>
+	<key>RESTRICTED_WEBSITES</key>
+	<string>NEVER ALLOW</string>
+	<key>URL</key>
+	<string>URL</string>
+	<key>USER_DEFINED</key>
+	<string>Specific Websites Only</string>
+	<key>USER_DEFINED_FOOTER</key>
+	<string>Allow access only to the websites below.</string>
+	<key>WEBSITE</key>
+	<string>Website</string>
+	<key>WEB_CONTENT</key>
+	<string>Websites</string>
+</dict>
+</plist>

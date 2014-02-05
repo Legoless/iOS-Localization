@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.new.reminder</key>
+	<string>New reminder</string>
+	<key>add.new.reminder.hint</key>
+	<string>Double tap to create new reminder</string>
+	<key>add.reminder</key>
+	<string>Add Reminder</string>
+	<key>calendar.icon</key>
+	<string>Show Calendar</string>
+	<key>checkbox.checked</key>
+	<string>Checked</string>
+	<key>checkbox.unchecked</key>
+	<string>Unchecked</string>
+	<key>checkbox.without.item</key>
+	<string>Checkbox</string>
+	<key>color.blue</key>
+	<string>blue</string>
+	<key>color.custom</key>
+	<string>custom color</string>
+	<key>color.green</key>
+	<string>green</string>
+	<key>color.hint</key>
+	<string>Double tap to change list color to %@</string>
+	<key>color.orange</key>
+	<string>orange</string>
+	<key>color.purple</key>
+	<string>purple</string>
+	<key>color.red</key>
+	<string>red</string>
+	<key>color.yellow</key>
+	<string>yellow</string>
+	<key>custom.repeat</key>
+	<string>Custom Repeat</string>
+	<key>delete.list</key>
+	<string>Delete list</string>
+	<key>details.button</key>
+	<string>Edit details</string>
+	<key>edit.reminder.title.hint</key>
+	<string>Edit the title of the reminder</string>
+	<key>edit.reminders</key>
+	<string>Edit reminders</string>
+	<key>lists.icon</key>
+	<string>Show Reminder Lists</string>
+	<key>lists.scroll.status</key>
+	<string>Lists %@ to %@</string>
+	<key>location.based</key>
+	<string>Location based</string>
+	<key>new.list</key>
+	<string>New list</string>
+	<key>new.list.hint</key>
+	<string>Double tap to create new list</string>
+	<key>next.month</key>
+	<string>Next month</string>
+	<key>other.cards.piled.together</key>
+	<string>Stack of other lists</string>
+	<key>previous.month</key>
+	<string>Previous month</string>
+	<key>priority.high</key>
+	<string>High</string>
+	<key>priority.label.high</key>
+	<string>High priority</string>
+	<key>priority.label.low</key>
+	<string>Low priority</string>
+	<key>priority.label.medium</key>
+	<string>Medium priority</string>
+	<key>priority.low</key>
+	<string>Low</string>
+	<key>priority.medium</key>
+	<string>Medium</string>
+	<key>reminder.groups.cell.hint</key>
+	<string>Double tap to show reminders</string>
+	<key>reminder.item.hint</key>
+	<string>Double tap to edit details</string>
+	<key>reminder.overdue</key>
+	<string>Overdue</string>
+	<key>scheduled.list</key>
+	<string>Scheduled</string>
+	<key>search.result.hint</key>
+	<string>Double tap to view reminder</string>
+	<key>show.lists.hint</key>
+	<string>Double tap to show all lists</string>
+	<key>show.single.list.hint</key>
+	<string>Double tap to view list</string>
+</dict>
+</plist>

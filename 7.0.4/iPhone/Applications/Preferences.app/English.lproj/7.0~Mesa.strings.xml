@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_ENROLLMENT</key>
+	<string>Add a Fingerprint…</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>COMPLETE</key>
+	<string>Complete</string>
+	<key>ENROLLMENTS</key>
+	<string>FINGERPRINTS</string>
+	<key>ENROLLMENT_FAILED</key>
+	<string>Enrollment Failed</string>
+	<key>IDENTITY_NAME_FORMAT</key>
+	<string>Finger %@</string>
+	<key>MESA</key>
+	<string>Touch ID</string>
+	<key>MESA_PURCHASES</key>
+	<string>iTunes &amp; App Store</string>
+	<key>MESA_PURCHASES_FOOTER</key>
+	<string>Use your fingerprint instead of your Apple ID password when buying from the iTunes &amp; App Store.</string>
+	<key>MESA_UNLOCK_IPHONE</key>
+	<string>iPhone Unlock</string>
+	<key>PASSCODE_MESA</key>
+	<string>Touch ID &amp; Passcode</string>
+	<key>TAP_TO_ADD_ENROLLMENT</key>
+	<string>Tap to add a fingerprint</string>
+	<key>USE_MESA_FOR</key>
+	<string>Use Touch ID For:</string>
+</dict>
+</plist>

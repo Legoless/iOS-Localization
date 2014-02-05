@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AVFoundationErrorDomain_AVErrorApplicationIsNotAuthorizedToUseDevice_Description</key>
+	<string>Cannot use %@</string>
+	<key>AVFoundationErrorDomain_AVErrorApplicationIsNotAuthorizedToUseDevice_FailureReason</key>
+	<string>This app is not authorized to use %@.</string>
+	<key>AVFoundationErrorDomain_AVErrorApplicationIsNotAuthorized_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorApplicationIsNotAuthorized_FailureReason</key>
+	<string>This app is not authorized to play this file.</string>
+	<key>AVFoundationErrorDomain_AVErrorCompositionTrackSegmentsNotContiguous_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorCompositionTrackSegmentsNotContiguous_FailureReason</key>
+	<string>This media cannot be used.</string>
+	<key>AVFoundationErrorDomain_AVErrorContentIsNotAuthorized_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorContentIsNotAuthorized_FailureReason</key>
+	<string>This content is not authorized.</string>
+	<key>AVFoundationErrorDomain_AVErrorContentIsProtected_Description</key>
+	<string>Operation Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorContentIsProtected_FailureReason</key>
+	<string>The operation is not supported for protected content.</string>
+	<key>AVFoundationErrorDomain_AVErrorDecodeFailed_Description</key>
+	<string>Cannot Decode</string>
+	<key>AVFoundationErrorDomain_AVErrorDecodeFailed_FailureReason</key>
+	<string>The media data could not be decoded. It may be damaged.</string>
+	<key>AVFoundationErrorDomain_AVErrorDecoderNotFound_Description</key>
+	<string>Cannot Decode</string>
+	<key>AVFoundationErrorDomain_AVErrorDecoderNotFound_FailureReason</key>
+	<string>The decoder required for this media cannot be found.</string>
+	<key>AVFoundationErrorDomain_AVErrorDecoderTemporarilyUnavailable_Description</key>
+	<string>Cannot Decode</string>
+	<key>AVFoundationErrorDomain_AVErrorDecoderTemporarilyUnavailable_FailureReason</key>
+	<string>The decoder required for this media is busy.</string>
+	<key>AVFoundationErrorDomain_AVErrorDecoderTemporarilyUnavailable_RecoverySuggestion</key>
+	<string>Stop any other actions that decode media and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceAlreadyUsedByAnotherSession_Description</key>
+	<string>Cannot Record</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceAlreadyUsedByAnotherSession_RecoverySuggestion</key>
+	<string>Stop any other actions using the %@ and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceInUseByAnotherApplication_Description</key>
+	<string>Cannot Use %@</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceInUseByAnotherApplication_RecoverySuggestion</key>
+	<string>Stop any other actions using the %@ and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceIsNotAvailableInBackground_Description</key>
+	<string>Cannot Use %@</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceIsNotAvailableInBackground_FailureReason</key>
+	<string>%@ may not be used by an app running in the background.</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceLockedForConfigurationByAnotherProcess_Description</key>
+	<string>Cannot Use %@</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceLockedForConfigurationByAnotherProcess_RecoverySuggestion</key>
+	<string>Stop any other actions using the %@ and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceNotConnected_Description</key>
+	<string>Cannot Record</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceNotConnected_RecoverySuggestion</key>
+	<string>Try recording again.</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceWasDisconnected_Description</key>
+	<string>Recording Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorDeviceWasDisconnected_RecoverySuggestion</key>
+	<string>Try recording again.</string>
+	<key>AVFoundationErrorDomain_AVErrorDiskFull_Description</key>
+	<string>Operation Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorDiskFull_RecoverySuggestion</key>
+	<string>There is not enough available space to continue the file writing. Make room by deleting existing videos or photos.</string>
+	<key>AVFoundationErrorDomain_AVErrorEncoderNotFound_Description</key>
+	<string>Cannot Encode</string>
+	<key>AVFoundationErrorDomain_AVErrorEncoderNotFound_FailureReason</key>
+	<string>The encoder required for this media cannot be found.</string>
+	<key>AVFoundationErrorDomain_AVErrorEncoderTemporarilyUnavailable_Description</key>
+	<string>Cannot Encode</string>
+	<key>AVFoundationErrorDomain_AVErrorEncoderTemporarilyUnavailable_FailureReason</key>
+	<string>The encoder required for this media is busy.</string>
+	<key>AVFoundationErrorDomain_AVErrorEncoderTemporarilyUnavailable_RecoverySuggestion</key>
+	<string>Stop any other actions that encode media and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorExportFailed_Description</key>
+	<string>Cannot Complete Export</string>
+	<key>AVFoundationErrorDomain_AVErrorExportFailed_RecoverySuggestion</key>
+	<string>Try exporting again.</string>
+	<key>AVFoundationErrorDomain_AVErrorFailedToLoadMediaData_Description</key>
+	<string>Operation Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorFailedToLoadMediaData_FailureReason</key>
+	<string>This media may be damaged.</string>
+	<key>AVFoundationErrorDomain_AVErrorFileAlreadyExists_Description</key>
+	<string>Cannot Save</string>
+	<key>AVFoundationErrorDomain_AVErrorFileAlreadyExists_RecoverySuggestion</key>
+	<string>Try saving again.</string>
+	<key>AVFoundationErrorDomain_AVErrorFileChecksumFailed_Description</key>
+	<string>Operation Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorFileChecksumFailed_FailureReason</key>
+	<string>The file has an invalid checksum.</string>
+	<key>AVFoundationErrorDomain_AVErrorFileFailedToParse_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorFileFailedToParse_FailureReason</key>
+	<string>This media may be damaged.</string>
+	<key>AVFoundationErrorDomain_AVErrorFileFormatNotRecognized_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorFileFormatNotRecognized_FailureReason</key>
+	<string>This media format is not supported.</string>
+	<key>AVFoundationErrorDomain_AVErrorIncompatibleAsset_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorIncompatibleAsset_FailureReason</key>
+	<string>The media cannot be used on this device.</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentDuration_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentDuration_FailureReason</key>
+	<string>This media cannot be used.</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentSourceDuration_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentSourceDuration_FailureReason</key>
+	<string>This media cannot be used.</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentSourceStartTime_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentSourceStartTime_FailureReason</key>
+	<string>This media cannot be used.</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidFileAtDownloadDestinationURL_Description</key>
+	<string>Operation Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidFileAtDownloadDestinationURL_FailureReason</key>
+	<string>The cache file at the download destination URL cannot be used.</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidOutputURLPathExtension_Description</key>
+	<string>Cannot write output file</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidOutputURLPathExtension_RecoverySuggestion</key>
+	<string>Change the output extension and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidSourceMedia_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidSourceMedia_FailureReason</key>
+	<string>This media format is not supported.</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidVideoComposition_Description</key>
+	<string>Operation Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorInvalidVideoComposition_FailureReason</key>
+	<string>The video could not be composed.</string>
+	<key>AVFoundationErrorDomain_AVErrorMaximumDurationReached_Description</key>
+	<string>Recording Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorMaximumDurationReached_FailureReason</key>
+	<string>The recording reached the maximum allowable length.</string>
+	<key>AVFoundationErrorDomain_AVErrorMaximumFileSizeReached_Description</key>
+	<string>Recording Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorMaximumFileSizeReached_FailureReason</key>
+	<string>The recording reached the maximum allowable file size.</string>
+	<key>AVFoundationErrorDomain_AVErrorMaximumNumberOfSamplesForFileFormatReached_Description</key>
+	<string>Recording Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorMaximumNumberOfSamplesForFileFormatReached_FailureReason</key>
+	<string>The recording reached the maximum allowable length.</string>
+	<key>AVFoundationErrorDomain_AVErrorMaximumStillImageCaptureRequestsExceeded_Description</key>
+	<string>Cannot Take Photo</string>
+	<key>AVFoundationErrorDomain_AVErrorMaximumStillImageCaptureRequestsExceeded_RecoverySuggestion</key>
+	<string>Try taking a photo again.</string>
+	<key>AVFoundationErrorDomain_AVErrorMediaChanged_Description</key>
+	<string>Recording Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorMediaChanged_RecoverySuggestion</key>
+	<string>Try recording again.</string>
+	<key>AVFoundationErrorDomain_AVErrorMediaDiscontinuity_Description</key>
+	<string>Recording Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorMediaDiscontinuity_RecoverySuggestion</key>
+	<string>Stop any other actions using the recording device and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorMediaServicesWereReset_Description</key>
+	<string>Cannot Complete Action</string>
+	<key>AVFoundationErrorDomain_AVErrorMediaServicesWereReset_RecoverySuggestion</key>
+	<string>Try again later.</string>
+	<key>AVFoundationErrorDomain_AVErrorNoDataCaptured_Description</key>
+	<string>Cannot Record</string>
+	<key>AVFoundationErrorDomain_AVErrorNoDataCaptured_RecoverySuggestion</key>
+	<string>Try recording again.</string>
+	<key>AVFoundationErrorDomain_AVErrorNoImageAtTime_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorNoImageAtTime_FailureReason</key>
+	<string>This media cannot be used.</string>
+	<key>AVFoundationErrorDomain_AVErrorOperationInterrupted_Description</key>
+	<string>Operation Interrupted</string>
+	<key>AVFoundationErrorDomain_AVErrorOperationInterrupted_RecoverySuggestion</key>
+	<string>Stop other operations and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorOperationNotSupportedForAsset_Description</key>
+	<string>Operation Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorOperationNotSupportedForAsset_FailureReason</key>
+	<string>The operation is not supported for this media.</string>
+	<key>AVFoundationErrorDomain_AVErrorOutOfMemory_Description</key>
+	<string>Cannot Complete Action</string>
+	<key>AVFoundationErrorDomain_AVErrorOutOfMemory_RecoverySuggestion</key>
+	<string>Try again later.</string>
+	<key>AVFoundationErrorDomain_AVErrorReferenceForbiddenByReferencePolicy_Description</key>
+	<string>Cannot Open</string>
+	<key>AVFoundationErrorDomain_AVErrorReferenceForbiddenByReferencePolicy_FailureReason</key>
+	<string>This media cannot be used.</string>
+	<key>AVFoundationErrorDomain_AVErrorServerIncorrectlyConfigured_Description</key>
+	<string>Operation Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorServerIncorrectlyConfigured_FailureReason</key>
+	<string>The server is not correctly configured.</string>
+	<key>AVFoundationErrorDomain_AVErrorSessionConfigurationChanged_Description</key>
+	<string>Recording Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorSessionConfigurationChanged_RecoverySuggestion</key>
+	<string>Try recording again.</string>
+	<key>AVFoundationErrorDomain_AVErrorSessionNotRunning_Description</key>
+	<string>Cannot Record</string>
+	<key>AVFoundationErrorDomain_AVErrorSessionNotRunning_RecoverySuggestion</key>
+	<string>Try recording again.</string>
+	<key>AVFoundationErrorDomain_AVErrorSessionWasInterrupted_Description</key>
+	<string>Recording Stopped</string>
+	<key>AVFoundationErrorDomain_AVErrorSessionWasInterrupted_RecoverySuggestion</key>
+	<string>Stop any other actions using the recording device and try again.</string>
+	<key>AVFoundationErrorDomain_AVErrorTorchLevelUnavailable_Description</key>
+	<string>The torch could not be turned on.</string>
+	<key>AVFoundationErrorDomain_AVErrorTorchLevelUnavailable_RecoverySuggestion</key>
+	<string>Try turning the torch on at a lower level.</string>
+	<key>AVFoundationErrorDomain_AVErrorUnknown_Description</key>
+	<string>The operation could not be completed</string>
+	<key>AVFoundationErrorDomain_AVErrorUnknown_FailureReason</key>
+	<string>An unknown error occurred (%d)</string>
+</dict>
+</plist>

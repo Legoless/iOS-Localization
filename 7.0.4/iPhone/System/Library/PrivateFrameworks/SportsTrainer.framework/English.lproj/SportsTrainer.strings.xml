@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BASIC_WORKOUT_BAR</key>
+	<string>Basic Workout</string>
+	<key>BASIC_WORKOUT_TITLE</key>
+	<string>Basic</string>
+	<key>CALIBRATION_WORKOUT_BAR</key>
+	<string>Calibration</string>
+	<key>CALORIES_WORKOUT_BAR</key>
+	<string>Calorie Workout</string>
+	<key>CALORIES_WORKOUT_CUSTOM</key>
+	<string>Custom</string>
+	<key>CALORIES_WORKOUT_FORMAT</key>
+	<string>%@ calories</string>
+	<key>CANCEL_WORKOUT</key>
+	<string>Cancel</string>
+	<key>CHANGE_MUSIC</key>
+	<string>Change Music</string>
+	<key>CONTACTING_NIKE</key>
+	<string>Contacting Nike+ server...</string>
+	<key>CUSTOM_WORKOUT_TITLE</key>
+	<string>Custom Workout</string>
+	<key>DISTANCE_10K</key>
+	<string>10K</string>
+	<key>DISTANCE_10M</key>
+	<string>10 mile</string>
+	<key>DISTANCE_2M</key>
+	<string>2 mile</string>
+	<key>DISTANCE_3K</key>
+	<string>3K</string>
+	<key>DISTANCE_5K</key>
+	<string>5K</string>
+	<key>DISTANCE_5M</key>
+	<string>5 mile</string>
+	<key>DISTANCE_FM</key>
+	<string>Full marathon</string>
+	<key>DISTANCE_HM</key>
+	<string>Half marathon</string>
+	<key>DISTANCE_WORKOUT_BAR</key>
+	<string>Distance Workout</string>
+	<key>DISTANCE_WORKOUT_CUSTOM</key>
+	<string>Custom</string>
+	<key>DISTANCE_WORKOUT_FORMAT</key>
+	<string>%@ workout</string>
+	<key>END_WORKOUT</key>
+	<string>End Workout</string>
+	<key>ENTER_YOUR_WEIGHT_PROMPT</key>
+	<string>Enter your current weight, for calculating calories burned</string>
+	<key>GO_TO_NIKE_SITE</key>
+	<string>Go to Nike+ website</string>
+	<key>KG_UNIT</key>
+	<string>kg</string>
+	<key>LBS_UNIT</key>
+	<string>lbs</string>
+	<key>LINKED_TO_EMPED</key>
+	<string>Linked to sensor</string>
+	<key>LINKED_TO_REMOTE</key>
+	<string>Linked to remote</string>
+	<key>LINKING_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>LINKING_DONE_BUTTON</key>
+	<string>Done</string>
+	<key>LINKING_EMPED_ALREADY_LINKED</key>
+	<string>Sensor is already linked.</string>
+	<key>LINKING_EMPED_MESSAGE</key>
+	<string>Walk around to activate your sensor</string>
+	<key>LINKING_EMPED_MULTIPLE_FOUND</key>
+	<string>Multiple Sensors Found</string>
+	<key>LINKING_EMPED_TIMEOUT</key>
+	<string>No Sensor Found</string>
+	<key>LINKING_EMPED_TITLE</key>
+	<string>Sensor</string>
+	<key>LINKING_NEW_EMPED_BUTTON</key>
+	<string>Link New</string>
+	<key>LINKING_NO_RECEIVER_INSTRUCTION</key>
+	<string>Waiting for Receiver...</string>
+	<key>LINKING_NO_RECEIVER_SECONDARY_INSTRUCTION</key>
+	<string>Attach a receiver to continue.</string>
+	<key>LINKING_RECEIVER_TITLE</key>
+	<string>Receiver</string>
+	<key>LINKING_REMOTE_ALREADY_LINKED</key>
+	<string>Remote is already linked.</string>
+	<key>LINKING_REMOTE_MESSAGE</key>
+	<string>Press a button on the remote to activate it</string>
+	<key>LINKING_REMOTE_TIMEOUT</key>
+	<string>No Remote Found</string>
+	<key>LINKING_RESCAN_BUTTON</key>
+	<string>Rescan</string>
+	<key>LINKING_UNLINK_BUTTON</key>
+	<string>Unlink</string>
+	<key>LINKING_UNNECESSARY_RECEIVER_INSTRUCTION</key>
+	<string>Receiver Unnecessary</string>
+	<key>LINKING_UNNECESSARY_RECEIVER_SECONDARY_INSTRUCTION</key>
+	<string>Detach receiver to continue.</string>
+	<key>NO_POWERSONG</key>
+	<string>(None selected)</string>
+	<key>PAUSE_WORKOUT</key>
+	<string>Pause
+Workout</string>
+	<key>RESUME_WORKOUT</key>
+	<string>Resume
+Workout</string>
+	<key>SEARCHING</key>
+	<string>Searching</string>
+	<key>SENDING_TO_NIKE</key>
+	<string>Sending to Nike+ server...</string>
+	<key>START_WORKOUT</key>
+	<string>Start
+Workout</string>
+	<key>STATUS_WORKOUT</key>
+	<string>Status</string>
+	<key>SUMMARY_CALORIES_TITLE</key>
+	<string>Calories</string>
+	<key>SUMMARY_DISTANCE_TITLE</key>
+	<string>Distance</string>
+	<key>SUMMARY_DISTANCE_VALUE_KILOMETERS</key>
+	<string>km</string>
+	<key>SUMMARY_DISTANCE_VALUE_MILES</key>
+	<string>mi</string>
+	<key>SUMMARY_DURATION_TITLE</key>
+	<string>Time</string>
+	<key>SUMMARY_PACE_TITLE</key>
+	<string>Pace</string>
+	<key>SUMMARY_PACE_VALUES_KILOMETERS</key>
+	<string> per kilometer</string>
+	<key>SUMMARY_PACE_VALUES_MILES</key>
+	<string> per mile</string>
+	<key>SUMMARY_TITLE</key>
+	<string>Summary</string>
+	<key>SYNCED</key>
+	<string>SYNCED</string>
+	<key>SYNC_FAILED</key>
+	<string>Cannot Sync to Nike+ website</string>
+	<key>SYNC_WORKOUTS</key>
+	<string>Send to Nike+ website</string>
+	<key>TIME_WORKOUT_BAR</key>
+	<string>Time Workout</string>
+	<key>TIME_WORKOUT_CUSTOM</key>
+	<string>Custom</string>
+	<key>TIME_WORKOUT_FORMAT</key>
+	<string>%@ minutes</string>
+	<key>UNABLE_TO_CONTACT_NIKE</key>
+	<string>Nike + iPod cannot sync workouts because Nike+ service is unavailable.</string>
+	<key>UNSYNCED</key>
+	<string>UNSYNCED</string>
+	<key>WORKOUT_CALORIES_LABEL</key>
+	<string>cal</string>
+	<key>WORKOUT_KILOMETERS_LABEL</key>
+	<string>km</string>
+	<key>WORKOUT_MILES_LABEL</key>
+	<string>mi</string>
+	<key>WORKOUT_PACE_LABEL_FORMAT</key>
+	<string>%@ pace</string>
+	<key>WORKOUT_POWERSONG</key>
+	<string>PowerSong</string>
+	<key>WORKOUT_TITLE_FORMAT</key>
+	<string>%@ Workout</string>
+</dict>
+</plist>

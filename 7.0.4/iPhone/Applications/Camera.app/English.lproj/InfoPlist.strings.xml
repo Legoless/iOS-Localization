@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Camera</string>
+	<key>CFBundleName</key>
+	<string>Camera</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2010 Apple Inc.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Photos and videos will be tagged with the location where they were taken.</string>
+	<key>UISettingsDisplayName</key>
+	<string>Camera</string>
+</dict>
+</plist>

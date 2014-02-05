@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT_SECTION_TITLE</key>
+	<string>Completed Uploads</string>
+	<key>FACEBOOK_UPLOAD_BULLETIN_MESSAGE_VIDEO</key>
+	<string>Your video will be available soon on Facebook.</string>
+	<key>FB_UPLOAD_BULLETIN_TITLE</key>
+	<string>Upload Complete</string>
+	<key>FLICKR_UPLOAD_BULLTIN_MESSAGE_PHOTO</key>
+	<string>Your photo is available on Flickr.</string>
+	<key>FLICKR_UPLOAD_BULLTIN_MESSAGE_PHOTOS</key>
+	<string>Your photos are available on Flickr.</string>
+	<key>VIMEO_UPLOAD_BULLETIN_MESSAGE_VIDEO</key>
+	<string>Your video will be available soon on Vimeo</string>
+</dict>
+</plist>

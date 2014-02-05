@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTION_SHEET_BAN_BUTTON_TITLE</key>
+	<string>Never Play This Song</string>
+	<key>ACTION_SHEET_LIKE_BUTTON_TITLE</key>
+	<string>Play More Like This</string>
+	<key>ACTION_SHEET_WISH_LIST_BUTTON_TITLE</key>
+	<string>Add to iTunes Wish List</string>
+	<key>ADD_BUTTON</key>
+	<string>new</string>
+	<key>ADD_LIKE_OR_BAN_INSTRUCTIONS</key>
+	<string>Add Artist, Song, or Genre</string>
+	<key>ADD_SEEDED_STATION_FAILED_ALERT_MESSAGE</key>
+	<string>There was a problem creating this station. Try again later.</string>
+	<key>ADD_SEEDED_STATION_FAILED_ALERT_TITLE</key>
+	<string>Unable to Create Station</string>
+	<key>ADD_SHARED_STATION_FAILED_ALERT_MESSAGE</key>
+	<string>There was a problem adding this station. Try adding later.</string>
+	<key>ADD_SHARED_STATION_FAILED_ALERT_TITLE</key>
+	<string>Unable to Add Station</string>
+	<key>ADD_SHARED_STATION_FAILED_DUE_TO_DELETE_ALERT_MESSAGE</key>
+	<string>This station has been deleted.</string>
+	<key>ADD_SHARED_STATION_FAILED_DUE_TO_DELETE_ALERT_TITLE</key>
+	<string>Unable to Add Station</string>
+	<key>ADD_STATION_FAILED_ALERT_MESSAGE</key>
+	<string>A station cannot be created with this song.</string>
+	<key>ADD_STATION_FAILED_ALERT_TITLE</key>
+	<string>Unable to Create Station</string>
+	<key>ADD_STATION_FAILED_ARTIST_ALERT_MESSAGE</key>
+	<string>A station cannot be created with this artist.</string>
+	<key>ADD_TO_MY_STATIONS_ACTION</key>
+	<string>Add to My Stations</string>
+	<key>ADD_TO_MY_STATIONS_FAILED_ALERT_MESSAGE</key>
+	<string>There was a problem adding this station. Try adding later.</string>
+	<key>ADD_TO_MY_STATIONS_FAILED_ALERT_TITLE</key>
+	<string>Unable to Add Station</string>
+	<key>ADD_TO_WISH_LIST_TRACK_ACTION</key>
+	<string>Add to iTunes Wish List</string>
+	<key>ADD_TO_WISH_LIST_TRACK_ACTION_PAD</key>
+	<string>Add to iTunes Wish List</string>
+	<key>ALLOW_EXPLICIT_TRACKS_ACTION</key>
+	<string>Allow Explicit Tracks</string>
+	<key>APPLE_ID_ENTRY_PLACEHOLDER</key>
+	<string>name@example.com</string>
+	<key>APPLE_ID_ENTRY_TITLE</key>
+	<string>Apple ID</string>
+	<key>BANS_SECTION_HEADER</key>
+	<string>Never Play This</string>
+	<key>BROWSE_GENRES_LOADING_TITLE</key>
+	<string>Loading…</string>
+	<key>BROWSE_SECTION_HEADER</key>
+	<string>Browse Stations</string>
+	<key>BUY_SONG</key>
+	<string>BUY SONG</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CLEAR_HISTORY_BUTTON</key>
+	<string>Clear</string>
+	<key>CLEAR_HISTORY_CONFIRMATION</key>
+	<string>Clear History</string>
+	<key>CLEAR_WISH_LIST_CONFIRMATION</key>
+	<string>Clear Wish List</string>
+	<key>CONTINUE_BUTTON_TITLE</key>
+	<string>Continue</string>
+	<key>CREATE_NEW_APPLE_ID_TITLE</key>
+	<string>Create a new Apple ID</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_STATION_ALERT_BODY</key>
+	<string>Deleting this station will also delete it for all its listeners.</string>
+	<key>DELETE_STATION_ALERT_TITLE_CONFIRM_FORMAT</key>
+	<string>Delete “%@”?</string>
+	<key>DELETE_STATION_ALERT_TITLE_FORMAT</key>
+	<string>“%@” Has %i Listeners</string>
+	<key>DELETE_STATION_ALERT_TITLE_SINGULAR_FORMAT</key>
+	<string>“%@” Has 1 Listener</string>
+	<key>DELETE_STATION_BUTTON</key>
+	<string>Delete Station</string>
+	<key>DISCOVERY_SEGMENT_TITLE</key>
+	<string>Discovery</string>
+	<key>EDIT_BUTTON</key>
+	<string>edit</string>
+	<key>FEATURED_STATIONS_TITLE</key>
+	<string>Featured Stations</string>
+	<key>FEATURED_TITLE</key>
+	<string>iTunes Radio : Featured Stations</string>
+	<key>FEATURED_TITLE_SHORT</key>
+	<string>Featured Stations</string>
+	<key>FORGOT_APPLE_ID_PASSWORD_TITLE</key>
+	<string>Forgot your Apple ID or password?</string>
+	<key>FREELOADER_ACCOUNT_SETTINGS_BUTTON_TITLE</key>
+	<string>Settings</string>
+	<key>FREELOADER_ALERT_MESSAGE</key>
+	<string>You need to have an active payment method on your account to continue using iTunes Radio.</string>
+	<key>FREELOADER_ALERT_TITLE</key>
+	<string>iTunes Radio Disabled</string>
+	<key>HISTORY_BAR_BUTTON</key>
+	<string>History</string>
+	<key>HITS_SEGMENT_TITLE</key>
+	<string>Hits</string>
+	<key>LIKES_SECTION_HEADER</key>
+	<string>Play More Like This</string>
+	<key>LISTEN_BUTTON</key>
+	<string>listen</string>
+	<key>LOADING_TITLE</key>
+	<string>Loading…</string>
+	<key>MY_STATIONS_TITLE</key>
+	<string>My Stations</string>
+	<key>NAVIGATION_TITLE_ADD</key>
+	<string>New Station</string>
+	<key>NAVIGATION_TITLE_EDIT</key>
+	<string>My Stations</string>
+	<key>NAVIGATION_TITLE_HISTORY</key>
+	<string>History</string>
+	<key>NEVER_PLAY_TRACK_ACTION</key>
+	<string>Never Play This Song</string>
+	<key>NEW_STATION_FROM_ARTIST</key>
+	<string>New Station from Artist</string>
+	<key>NEW_STATION_FROM_ARTIST_STATION_ACTION</key>
+	<string>New Station from Artist</string>
+	<key>NEW_STATION_FROM_SONG</key>
+	<string>New Station from Song</string>
+	<key>NEW_STATION_FROM_SONG_STATION_ACTION</key>
+	<string>New Station from Song</string>
+	<key>NEW_STATION_TITLE</key>
+	<string>New Station</string>
+	<key>NO_CONTEXT_NAVTITLE_RADIO</key>
+	<string>Radio</string>
+	<key>NO_HISTORY_LABEL</key>
+	<string>There are no items in your iTunes Radio history.</string>
+	<key>NO_RESULTS_TITLE</key>
+	<string>No Results</string>
+	<key>NO_WISH_LIST_LABEL</key>
+	<string>There are no items on your Wish List.</string>
+	<key>OFFLINE_ALERT_USE_CELLULAR_MESSAGE</key>
+	<string>Additional fees may apply when using cellular data for iTunes Radio, iTunes Match, and Automatic Downloads.</string>
+	<key>OFFLINE_ALERT_USE_CELLULAR_TITLE</key>
+	<string>Use Cellular Data?</string>
+	<key>OFFLINE_SUBTITLE_CELLULAR</key>
+	<string>Connect to a Wi-Fi or cellular data network to use iTunes Radio.</string>
+	<key>OFFLINE_SUBTITLE_CELLULAR_DISABLED</key>
+	<string>Connect to a Wi-Fi network or use cellular data for iTunes Radio.</string>
+	<key>OFFLINE_SUBTITLE_CELLULAR_DISABLED_WLAN</key>
+	<string>Connect to a WLAN network or use cellular data for iTunes Radio.</string>
+	<key>OFFLINE_SUBTITLE_CELLULAR_WLAN</key>
+	<string>Connect to a WLAN or cellular data network to use iTunes Radio.</string>
+	<key>OFFLINE_SUBTITLE_WIFI</key>
+	<string>Connect to a Wi-Fi network to use iTunes Radio.</string>
+	<key>OFFLINE_SUBTITLE_WLAN</key>
+	<string>Connect to a WLAN network to use iTunes Radio.</string>
+	<key>OFFLINE_TITLE</key>
+	<string>Network Unavailable</string>
+	<key>OFFLINE_USE_CELLULAR_BUTTON</key>
+	<string>Use Cellular Data</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OPT_IN_BUTTON_TITLE</key>
+	<string>Sign In</string>
+	<key>OPT_IN_LOADING_TITLE</key>
+	<string>Loading…</string>
+	<key>OPT_IN_SUBTITLE</key>
+	<string>Listen to free music you love, wherever you go.
+Tune in and share it with the world.</string>
+	<key>OPT_IN_TITLE</key>
+	<string>Turn On iTunes Radio</string>
+	<key>PASSWORD_ENTRY_PLACEHOLDER</key>
+	<string>required</string>
+	<key>PASSWORD_ENTRY_TITLE</key>
+	<string>Password</string>
+	<key>PLAYED_SEGMENT_TITLE</key>
+	<string>Played</string>
+	<key>PLAY_MORE_TRACK_ACTION</key>
+	<string>Play More Like This</string>
+	<key>REMOVE_FROM_WISH_LIST_TRACK_ACTION</key>
+	<string>Remove from iTunes Wish List</string>
+	<key>REMOVE_FROM_WISH_LIST_TRACK_ACTION_PAD</key>
+	<string>Remove from iTunes Wish List</string>
+	<key>RESULTS_COUNT_FORMAT</key>
+	<string>#%@# (%li)</string>
+	<key>SEARCH_BAR_PLACEHOLDER</key>
+	<string>Enter an Artist, Genre, or Song</string>
+	<key>SEARCH_LOADING_TITLE</key>
+	<string>Searching…</string>
+	<key>SEARCH_SECTION_HEADER</key>
+	<string>Create Station</string>
+	<key>SHARED_LISTENERS</key>
+	<string>Listeners</string>
+	<key>SHARED_LISTENERS_SEPARATOR</key>
+	<string> </string>
+	<key>SHARED_REVERSED</key>
+	<string>false</string>
+	<key>SHARED_SUBSCRIBERS</key>
+	<string>Shared</string>
+	<key>SHARED_SUBSCRIBERS_SEPARATOR</key>
+	<string> </string>
+	<key>SHARE_COPY_LINK</key>
+	<string>Copy Link</string>
+	<key>SHARE_STATION_LABEL</key>
+	<string>Share Station</string>
+	<key>SIGN_IN_BUTTON_TITLE</key>
+	<string>Start Listening</string>
+	<key>SIGN_IN_LOADING_TITLE</key>
+	<string>Loading…</string>
+	<key>SIGN_IN_TITLE_PAD</key>
+	<string>Sign in with your Apple ID</string>
+	<key>SIGN_IN_TITLE_PHONE</key>
+	<string>Sign in with
+your Apple ID</string>
+	<key>SONG_COUNT_HEADER_MULTIPLE</key>
+	<string>#%li# Songs</string>
+	<key>SONG_COUNT_HEADER_ONE</key>
+	<string>#1# Song</string>
+	<key>SONG_COUNT_HEADER_ZERO</key>
+	<string>#0# Songs</string>
+	<key>STATION_FOLLOWER_FORMAT_1</key>
+	<string>%li follower</string>
+	<key>STATION_FOLLOWER_FORMAT_N</key>
+	<string>%li followers</string>
+	<key>STATION_FOLLOWING_FORMAT_1</key>
+	<string>%li following</string>
+	<key>STATION_FOLLOWING_FORMAT_N</key>
+	<string>%li following</string>
+	<key>STATION_NAME_SECTION_HEADER</key>
+	<string>Station Name</string>
+	<key>STATION_TITLE_RADIO_IS_SUFFIX</key>
+	<string>1</string>
+	<key>STATION_TITLE_RADIO_SUBSTRING</key>
+	<string> Radio</string>
+	<key>STATION_UNAVAILABLE_ALERT_BODY_FORMAT</key>
+	<string>%@ is temporarily unavailable. Try again later.</string>
+	<key>STATION_UNAVAILABLE_ALERT_TITLE</key>
+	<string>Station Unavailable</string>
+	<key>TERMS_ACCEPT_BUTTON</key>
+	<string>Agree</string>
+	<key>TERMS_NAVIGATION_TITLE</key>
+	<string>iTunes Radio</string>
+	<key>TUNE_DISCOVERY_LABEL</key>
+	<string>Discovery</string>
+	<key>TUNE_HITS_LABEL</key>
+	<string>Hits</string>
+	<key>TUNE_IN_BUTTON_TITLE</key>
+	<string>Start Listening</string>
+	<key>TUNE_STATION_LABEL</key>
+	<string>Tune This Station</string>
+	<key>TUNE_VARIETY_LABEL</key>
+	<string>Variety</string>
+	<key>TUNING_SECTION_HEADER</key>
+	<string>Tune This Station</string>
+	<key>UNAVAILABLE_SUBTITLE</key>
+	<string>iTunes Radio is temporarily unavailable.
+Try again later.</string>
+	<key>UNAVAILABLE_TITLE</key>
+	<string>iTunes Radio Unavailable</string>
+	<key>UNKNOWN_RESULTS_TYPE_HEADER</key>
+	<string>Results</string>
+	<key>VARIETY_SEGMENT_TITLE</key>
+	<string>Variety</string>
+	<key>WELCOME_LEARN_MORE_LABEL</key>
+	<string>Learn More</string>
+	<key>WELCOME_TITLE_LABEL_PAD</key>
+	<string>Welcome to iTunes Radio</string>
+	<key>WELCOME_TITLE_LABEL_PHONE</key>
+	<string>Welcome to
+iTunes Radio</string>
+	<key>WISH_LIST_SEGMENT_TITLE</key>
+	<string>Wish List</string>
+</dict>
+</plist>

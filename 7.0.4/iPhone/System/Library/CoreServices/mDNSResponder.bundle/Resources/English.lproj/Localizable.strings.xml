@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> is already in use on this network. </key>
+	<string> is already in use on this network. </string>
+	<key>.</key>
+	<string>.</string>
+	<key>All attempts to find an available name by adding a number to the name were also unsuccessful.</key>
+	<string>All attempts to find an available name by adding a number to the name were also unsuccessful.</string>
+	<key>The name has been changed to </key>
+	<string>The name has been changed to </string>
+	<key>The name of your computer </key>
+	<string>The name of your computer </string>
+	<key>This computer’s local hostname </key>
+	<string>This computer’s local hostname </string>
+	<key>This may indicate a problem with the local network. Please inform your network administrator.</key>
+	<string>This may indicate a problem with the local network. Please inform your network administrator.</string>
+	<key>To change the local hostname, open System Preferences and click Sharing, then click “Edit” and type the name in the Local Hostname field.</key>
+	<string>To change the local hostname, open System Preferences and click Sharing, then click “Edit” and type the name in the Local Hostname field.</string>
+	<key>To change the name of your computer, open System Preferences and click Sharing, then type the name in the Computer Name field.</key>
+	<string>To change the name of your computer, open System Preferences and click Sharing, then type the name in the Computer Name field.</string>
+	<key>“</key>
+	<string>“</string>
+	<key>”</key>
+	<string>”</string>
+</dict>
+</plist>

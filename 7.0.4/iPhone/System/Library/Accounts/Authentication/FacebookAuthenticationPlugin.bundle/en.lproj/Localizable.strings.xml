@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FB_AUTH_ALERT_CANCEL</key>
+	<string>Cancel</string>
+	<key>FB_AUTH_ALERT_MESSAGE_OSX</key>
+	<string>Enter the password for “%@” in System Preferences.</string>
+	<key>FB_AUTH_ALERT_PREFERENCES</key>
+	<string>Preferences…</string>
+	<key>FB_AUTH_ALERT_SETTINGS</key>
+	<string>Settings</string>
+	<key>FB_AUTH_ALERT_TITLE</key>
+	<string>Enter the Facebook password for “%@” in Settings.</string>
+	<key>FB_AUTH_ALERT_TITLE_OSX</key>
+	<string>Facebook Password</string>
+	<key>SIGN_IN_APPROVAL_REQUIRED_MESSAGE</key>
+	<string>You will receive a text message containing a temporary code. Please use this code instead of your password to sign in.</string>
+	<key>SIGN_IN_APPROVAL_REQUIRED_TITLE</key>
+	<string>Login Approval Required</string>
+	<key>SIGN_IN_ERROR_BLOCKED</key>
+	<string>Your account has been blocked for suspicious activity. Please log in to facebook.com from your computer and follow the instructions given.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_GENERIC</key>
+	<string>Could not communicate with the server.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_NO_CONNECTION</key>
+	<string>There is no connection to the Internet.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_PASSWORD</key>
+	<string>The user name or password is incorrect.</string>
+	<key>SIGN_IN_ERROR_MUST_VERIFY</key>
+	<string>You need to verify your email address before you can start using your Facebook account.</string>
+	<key>SIGN_IN_ERROR_OK</key>
+	<string>OK</string>
+	<key>SIGN_IN_ERROR_OPTED_OUT</key>
+	<string>You cannot sign in from your iPhone since you have opted out of Facebook Platform.</string>
+	<key>SIGN_IN_ERROR_TITLE</key>
+	<string>Error Signing In</string>
+</dict>
+</plist>

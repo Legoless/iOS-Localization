@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clean.content</key>
+	<string>Clean</string>
+	<key>download.progress.title</key>
+	<string>Download progress</string>
+	<key>explicit.content</key>
+	<string>Explicit</string>
+	<key>featured.album</key>
+	<string>Featured album</string>
+	<key>featured.app</key>
+	<string>Featured app</string>
+	<key>history.button</key>
+	<string>History</string>
+	<key>iTunesPlus</key>
+	<string>iTunes Plus</string>
+	<key>pause.download.button</key>
+	<string>Pause download</string>
+	<key>press.buy</key>
+	<string>Purchase the item.</string>
+	<key>press.listen</key>
+	<string>Plays a preview of the track.</string>
+	<key>resume.download.button</key>
+	<string>Resume download</string>
+	<key>ringtone</key>
+	<string>ringtone</string>
+	<key>scroll.popup.summary</key>
+	<string>popup %1$@ of %2$@</string>
+	<key>share.button</key>
+	<string>Share</string>
+	<key>textContent.with.label.format</key>
+	<string>%1$@: %2$@</string>
+	<key>video</key>
+	<string>video</string>
+</dict>
+</plist>

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%1$@ of %2$@</key>
+	<string>%1$@ of %2$@</string>
+	<key>%@ Copies</key>
+	<string>%@ Copies</string>
+	<key>%@ Failed PIN Attempt</key>
+	<string>%@ Failed PIN Attempt</string>
+	<key>%@ Failed PIN Attempts</key>
+	<string>%@ Failed PIN Attempts</string>
+	<key>%@ Photos</key>
+	<string>%@ Photos</string>
+	<key>%@ Videos</key>
+	<string>%@ Videos</string>
+	<key>%@ and %@</key>
+	<string>%1$@ and %2$@</string>
+	<key>1 Copy</key>
+	<string>1 Copy</string>
+	<key>1 Photo</key>
+	<string>1 Photo</string>
+	<key>1 Video</key>
+	<string>1 Video</string>
+	<key>1x[compatibilityModeZoom]</key>
+	<string>1X</string>
+	<key>1x[statusBarDataNetwork]</key>
+	<string>1x</string>
+	<key>2X</key>
+	<string>2X</string>
+	<key>3G</key>
+	<string>3G</string>
+	<key>4G</key>
+	<string>4G</string>
+	<key>Actions</key>
+	<string>Actions</string>
+	<key>Add to Network</key>
+	<string>Add to Network</string>
+	<key>Add to Reading List</key>
+	<string>Add to Reading List</string>
+	<key>AddToReadingList[Activity]</key>
+	<string>Add to Reading List</string>
+	<key>AirPrint Direct</key>
+	<string>AirPrint Direct</string>
+	<key>AirPrint over Wi-Fi</key>
+	<string>AirPrint over Wi-Fi</string>
+	<key>All Pages</key>
+	<string>All Pages</string>
+	<key>Alternate Keyboards</key>
+	<string>Alternate Keyboards</string>
+	<key>American English</key>
+	<string>American English</string>
+	<key>Assign to Contact[Activity]</key>
+	<string>Assign to Contact</string>
+	<key>Back</key>
+	<string>Back</string>
+	<key>Bold</key>
+	<string>Bold</string>
+	<key>Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>CLEAR_UNDO_ACTION_NAME</key>
+	<string>Delete</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Cancel Printing</key>
+	<string>Cancel Printing</string>
+	<key>Cancel java script dialog</key>
+	<string>Cancel</string>
+	<key>Cancelled</key>
+	<string>Cancelled</string>
+	<key>Cancelling page %@...</key>
+	<string>Cancelling page %@...</string>
+	<key>Check the front panel of the printer "%@" to see the PIN.</key>
+	<string>Check the front panel of the printer "%@" to see the PIN.</string>
+	<key>Choose Existing</key>
+	<string>Choose Existing</string>
+	<key>Choose the connection settings for "%@"</key>
+	<string>Choose the connection settings for "%@"</string>
+	<key>Clear</key>
+	<string>Clear</string>
+	<key>Clear[Search]</key>
+	<string>Clear</string>
+	<key>Configure</key>
+	<string>Configure</string>
+	<key>Connected to printer "%@"...</key>
+	<string>Connected to printer "%@"...</string>
+	<key>Connecting to printer "%@"...</key>
+	<string>Connecting to printer "%@"...</string>
+	<key>Contacting Printer...</key>
+	<string>Contacting Printer...</string>
+	<key>Contacting printer "%@" to display PIN</key>
+	<string>Contacting printer "%@" to display PIN</string>
+	<key>Contacts</key>
+	<string>Contacts</string>
+	<key>Copies</key>
+	<string>Copies</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Copy Image</key>
+	<string>Copy Image</string>
+	<key>Copy Link</key>
+	<string>Copy</string>
+	<key>Copy[Activity]</key>
+	<string>Copy</string>
+	<key>Copy[Menu]</key>
+	<string>Copy</string>
+	<key>Could not display PIN for printer "%@".</key>
+	<string>Could not display PIN for printer "%@".</string>
+	<key>Cut</key>
+	<string>Cut</string>
+	<key>Define</key>
+	<string>Define</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete[Menu]</key>
+	<string>Delete</string>
+	<key>Dictation</key>
+	<string>Dictation</string>
+	<key>Dictation Soon Body</key>
+	<string>New users are being added for Dictation every day. You will receive an alert when you can start
+using Dictation.</string>
+	<key>Dictation Soon OK</key>
+	<string>OK</string>
+	<key>Dictation Soon Title</key>
+	<string>You Can Start Using
+Dictation Soon</string>
+	<key>Dictionary</key>
+	<string>Dictionary</string>
+	<key>Direct Printing</key>
+	<string>Direct Printing</string>
+	<key>Disable</key>
+	<string>Disable</string>
+	<key>Display on TV?</key>
+	<string>Display on TV?</string>
+	<key>Dock</key>
+	<string>Dock</string>
+	<key>Dock and Merge</key>
+	<string>Dock and Merge</string>
+	<key>Document</key>
+	<string>Document</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Done-dictation</key>
+	<string>Done</string>
+	<key>Double-sided</key>
+	<string>Double-sided</string>
+	<key>Downloads</key>
+	<string>Downloads</string>
+	<key>Drag the icons to organize tabs.</key>
+	<string>Drag the icons to organize tabs.</string>
+	<key>E</key>
+	<string>E</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Enter PIN</key>
+	<string>Enter PIN</string>
+	<key>Enter the setup PIN displayed on the printer to view setup options.</key>
+	<string>Enter the setup PIN displayed on the printer to view setup options.</string>
+	<key>Failed</key>
+	<string>Failed</string>
+	<key>Failed to Contact Printer</key>
+	<string>Failed to Contact Printer</string>
+	<key>Failed to connect to printer "%@"...</key>
+	<string>Failed to connect to printer "%@"...</string>
+	<key>Failed to set up printer "%@"...</key>
+	<string>Failed to set up printer "%@"...</string>
+	<key>Favorites</key>
+	<string>Favorites</string>
+	<key>Featured</key>
+	<string>Featured</string>
+	<key>Finish</key>
+	<string>Finish</string>
+	<key>Finished</key>
+	<string>Finished</string>
+	<key>History</key>
+	<string>History</string>
+	<key>Hold</key>
+	<string>Hold</string>
+	<key>Interactable Image Attachment</key>
+	<string>Image</string>
+	<key>Italics</key>
+	<string>Italics</string>
+	<key>JavaScript Action Sheet Title</key>
+	<string>JavaScript</string>
+	<key>Learn...</key>
+	<string>Learn...</string>
+	<key>Loading</key>
+	<string>Loading</string>
+	<key>Login</key>
+	<string>Login</string>
+	<key>Looking for Printers...</key>
+	<string>Looking for Printers...</string>
+	<key>Mail[Activity]</key>
+	<string>Mail</string>
+	<key>Make Simplified</key>
+	<string>Make Simplified</string>
+	<key>Make Traditional</key>
+	<string>Make Traditional</string>
+	<key>Manage</key>
+	<string>Manage</string>
+	<key>Merge</key>
+	<string>Merge</string>
+	<key>Message[Activity]</key>
+	<string>Message</string>
+	<key>More</key>
+	<string>More</string>
+	<key>Most Recent</key>
+	<string>Most Recent</string>
+	<key>Most Viewed</key>
+	<string>Most Viewed</string>
+	<key>Next</key>
+	<string>Next</string>
+	<key>No</key>
+	<string>No</string>
+	<key>No AirPrint Printers Found</key>
+	<string>No AirPrint Printers Found</string>
+	<key>No Documents Waiting</key>
+	<string>No Documents Waiting</string>
+	<key>No Options</key>
+	<string>No Options</string>
+	<key>No Replacements Found</key>
+	<string>No Replacements Found</string>
+	<key>No Results</key>
+	<string>No Results</string>
+	<key>No definition found.</key>
+	<string>No definition found.</string>
+	<key>Not Charging</key>
+	<string>Not Charging</string>
+	<key>Nothing to Undo</key>
+	<string>Nothing to Undo</string>
+	<key>OFF</key>
+	<string>OFF</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OK java script dialog</key>
+	<string>OK</string>
+	<key>ON</key>
+	<string>ON</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>On</key>
+	<string>On</string>
+	<key>Open In...</key>
+	<string>Open In...</string>
+	<key>Open Link</key>
+	<string>Open</string>
+	<key>Open in %@</key>
+	<string>Open in %@</string>
+	<key>Other Printers</key>
+	<string>Other Printers</string>
+	<key>Page %@</key>
+	<string>Page %@</string>
+	<key>Page Range</key>
+	<string>Page Range</string>
+	<key>Pages %@-%@</key>
+	<string>Pages %1$@-%2$@</string>
+	<key>Paper</key>
+	<string>Paper</string>
+	<key>Passcode</key>
+	<string>Passcode</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>Paste</key>
+	<string>Paste</string>
+	<key>Pause</key>
+	<string>Pause</string>
+	<key>Preparing page %@ of %@...</key>
+	<string>Preparing page %1$@ of %2$@...</string>
+	<key>Preparing page %@...</key>
+	<string>Preparing page %@...</string>
+	<key>Preparing...</key>
+	<string>Preparing...</string>
+	<key>Press + Hold ‘Back’</key>
+	<string>Press + Hold ‘Back’</string>
+	<key>Previous</key>
+	<string>Previous</string>
+	<key>Print</key>
+	<string>Print</string>
+	<key>Print Order</key>
+	<string>Print Order</string>
+	<key>Print Summary</key>
+	<string>Print Summary</string>
+	<key>Print[Activity]</key>
+	<string>Print</string>
+	<key>Print[Button]</key>
+	<string>Print</string>
+	<key>Printer</key>
+	<string>Printer</string>
+	<key>Printer Available</key>
+	<string>Printer Available</string>
+	<key>Printer Options</key>
+	<string>Printer Options</string>
+	<key>Printing %@ of %@...</key>
+	<string>Printing %1$@ of %2$@...</string>
+	<key>Printing page %@...</key>
+	<string>Printing page %@...</string>
+	<key>Printing to "%@"</key>
+	<string>Printing to "%@"</string>
+	<key>Quick Look</key>
+	<string>Quick Look</string>
+	<key>Range</key>
+	<string>Range</string>
+	<key>Recent Printers</key>
+	<string>Recent Printers</string>
+	<key>Recents</key>
+	<string>Recents</string>
+	<key>Recording</key>
+	<string>Recording</string>
+	<key>Redo</key>
+	<string>Redo</string>
+	<key>Replace</key>
+	<string>Replace</string>
+	<key>Replace...</key>
+	<string>Replace...</string>
+	<key>Results</key>
+	<string>Results</string>
+	<key>Return to Call</key>
+	<string>Return to Call</string>
+	<key>Return to Navigation</key>
+	<string>Return to Navigation</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>Save %@ Images[Activity]</key>
+	<string>Save %@ Images</string>
+	<key>Save %@ Items[Activity]</key>
+	<string>Save %@ Items</string>
+	<key>Save %@ Videos[Activity]</key>
+	<string>Save %@ Videos</string>
+	<key>Save %d Images</key>
+	<string>Save %d Images</string>
+	<key>Save Image</key>
+	<string>Save Image</string>
+	<key>Save Image[Activity]</key>
+	<string>Save Image</string>
+	<key>Save Video[Activity]</key>
+	<string>Save Video</string>
+	<key>Save to Camera Roll</key>
+	<string>Save to Camera Roll</string>
+	<key>Save to Camera Roll[Activity]</key>
+	<string>Save to Camera Roll</string>
+	<key>Search</key>
+	<string>Search</string>
+	<key>Search Web</key>
+	<string>Search Web</string>
+	<key>Search Wikipedia</key>
+	<string>Search Wikipedia</string>
+	<key>Select</key>
+	<string>Select</string>
+	<key>Select All</key>
+	<string>Select All</string>
+	<key>Select Printer</key>
+	<string>Select Printer</string>
+	<key>Sending to Printer...</key>
+	<string>Sending to Printer...</string>
+	<key>Sent</key>
+	<string>Sent</string>
+	<key>Set Up Printer</key>
+	<string>Set Up Printer</string>
+	<key>Set up printer "%@"...</key>
+	<string>Set up printer "%@"...</string>
+	<key>Setting up printer "%@"...</key>
+	<string>Setting up printer "%@"...</string>
+	<key>Settings</key>
+	<string>Settings</string>
+	<key>Setup Printer</key>
+	<string>Setup Printer</string>
+	<key>Share</key>
+	<string>Share</string>
+	<key>Speak</key>
+	<string>Speak</string>
+	<key>Speak...</key>
+	<string>Speak...</string>
+	<key>Split</key>
+	<string>Split</string>
+	<key>Started</key>
+	<string>Started</string>
+	<key>Status</key>
+	<string>Status</string>
+	<key>Stopped</key>
+	<string>Stopped</string>
+	<key>Take Photo</key>
+	<string>Take Photo</string>
+	<key>Take Photo or Video</key>
+	<string>Take Photo or Video</string>
+	<key>Take Video</key>
+	<string>Take Video</string>
+	<key>Tap the globe key once to switch to the last used keyboard. Continue tapping to access other enabled keyboards. Tap and hold to show all enabled keyboards.</key>
+	<string>Tap the globe key once to switch to the last used keyboard. Continue tapping to access other enabled keyboards. Tap and hold to show all enabled keyboards.</string>
+	<key>The PIN for printer "%@" has been printed.</key>
+	<string>The PIN for printer "%@" has been printed.</string>
+	<key>The document "%@" is password protected.</key>
+	<string>The document "%@" is password protected.</string>
+	<key>The document could not be opened with that password.</key>
+	<string>The document could not be opened with that password.</string>
+	<key>The file "%@" has not been modified in a while.</key>
+	<string>The file "%@" has not been modified in a while.</string>
+	<key>The file has not been modified in a while.</key>
+	<string>The file has not been modified in a while.</string>
+	<key>The passcode cannot be left blank if Direct Printing is enabled</key>
+	<string>The passcode cannot be left blank if Direct Printing is enabled</string>
+	<key>The printer "%@" has not been set up.</key>
+	<string>The printer "%@" has not been set up.</string>
+	<key>The printer will join your current Wi-Fi network.</key>
+	<string>The printer will join your current Wi-Fi network.</string>
+	<key>This app does not have access to your photos or videos.</key>
+	<string>This app does not have access to your photos or videos.</string>
+	<key>This document is password protected.</key>
+	<string>This document is password protected.</string>
+	<key>Today</key>
+	<string>Today</string>
+	<key>Top Rated</key>
+	<string>Top Rated</string>
+	<key>Type...</key>
+	<string>Type...</string>
+	<key>Typing</key>
+	<string>Typing</string>
+	<key>Underline</key>
+	<string>Underline</string>
+	<key>Undo</key>
+	<string>Undo</string>
+	<key>Undock</key>
+	<string>Undock</string>
+	<key>Unknown</key>
+	<string>Unknown</string>
+	<key>Unlock</key>
+	<string>Unlock</string>
+	<key>Waiting</key>
+	<string>Waiting</string>
+	<key>Wireless Printing</key>
+	<string>Wireless Printing</string>
+	<key>You can enable access in Privacy Settings.</key>
+	<string>You can enable access in Privacy Settings.</string>
+	<key>You must disable airplane mode to access data.</key>
+	<string>You must disable airplane mode to access data.</string>
+	<key>Your changes will be automatically saved if you unlock.</key>
+	<string>Your changes will be automatically saved if you unlock.</string>
+	<key>Your document cannot be saved.</key>
+	<string>Your document cannot be saved.</string>
+	<key>emoji</key>
+	<string>Emoji</string>
+	<key>hour[plural]</key>
+	<string>hours</string>
+	<key>hour[singular]</key>
+	<string>hour</string>
+	<key>hour[zero]</key>
+	<string>hours</string>
+	<key>min[plural]</key>
+	<string>min</string>
+	<key>min[singular]</key>
+	<string>min</string>
+	<key>min[zero]</key>
+	<string>min</string>
+	<key>passcode</key>
+	<string>passcode</string>
+	<key>to</key>
+	<string>to</string>
+</dict>
+</plist>

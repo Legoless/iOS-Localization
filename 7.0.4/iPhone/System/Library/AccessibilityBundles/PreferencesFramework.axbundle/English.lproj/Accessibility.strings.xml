@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancel.button.title</key>
+	<string>Cancel</string>
+	<key>chinese.126.mail.account</key>
+	<string>126网易免费邮</string>
+	<key>chinese.163.mail.account</key>
+	<string>163网易免费邮</string>
+	<key>chinese.qq.mail.account</key>
+	<string>QQ邮箱</string>
+	<key>important.title</key>
+	<string>VoiceOver Language</string>
+	<key>keyboard.period.shortcut</key>
+	<string>Period shortcut</string>
+	<key>language.unsupported.message</key>
+	<string>The selected language does not work with VoiceOver. Are you sure you want to change the language?</string>
+	<key>mail.aol.text</key>
+	<string>AOL account</string>
+	<key>mail.appleid.text</key>
+	<string>iCloud account</string>
+	<key>mail.exchange.text</key>
+	<string>Microsoft Exchange account</string>
+	<key>mail.gmail.text</key>
+	<string>Google account</string>
+	<key>mail.mobileme.text</key>
+	<string>MobileMe account</string>
+	<key>mail.outlook.text</key>
+	<string>Microsoft Outlook account</string>
+	<key>mail.yahoo.text</key>
+	<string>Yahoo account</string>
+	<key>ok.button.title</key>
+	<string>Continue</string>
+	<key>shake.to.shuffle</key>
+	<string>Shake to Shuffle</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>barcode.image</key>
+	<string>Barcode</string>
+	<key>card.dismissed</key>
+	<string>All passes visible</string>
+	<key>card.logo.hint</key>
+	<string>Double-tap or scroll with three fingers to view other passes.</string>
+	<key>other.cards.pile.hint</key>
+	<string>Double-tap to show all passes</string>
+	<key>other.cards.piled.together</key>
+	<string>Stack of other passes</string>
+	<key>passbook.app.hint.open</key>
+	<string>Double tap to open</string>
+	<key>passbook.app.hint.view</key>
+	<string>Double tap to view in the App Store</string>
+	<key>passbook.camera.button</key>
+	<string>Capture code with camera</string>
+	<key>passbook.camera.codefound</key>
+	<string>Downloading pass</string>
+	<key>share.button</key>
+	<string>Share</string>
+	<key>stacked.card.hint</key>
+	<string>Passes are stacked. Activate the pass to view the full pass.</string>
+	<key>trash.button</key>
+	<string>Delete</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>KERBEROS_ALERT_MESSAGE_WITH_USERNAME</key>
+	<string>Enter the password for “%@”.</string>
+	<key>KERBEROS_ALERT_TEXTFIELD</key>
+	<string>password</string>
+	<key>KERBEROS_ALERT_TITLE_WITH_ACCOUNT_DESCRIPTION</key>
+	<string>%@</string>
+	<key>OKAY</key>
+	<string>OK</string>
+</dict>
+</plist>

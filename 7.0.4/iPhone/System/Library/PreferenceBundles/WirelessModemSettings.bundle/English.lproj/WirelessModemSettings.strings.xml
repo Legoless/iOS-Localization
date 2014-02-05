@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONNECT_OVER_BLUETOOTH_LABEL</key>
+	<string>TO CONNECT USING BLUETOOTH</string>
+	<key>CONNECT_OVER_BLUETOOTH_STEP_1_IPAD</key>
+	<string>Pair iPad with your computer.</string>
+	<key>CONNECT_OVER_BLUETOOTH_STEP_1_IPHONE</key>
+	<string>Pair iPhone with your computer.</string>
+	<key>CONNECT_OVER_BLUETOOTH_STEP_2_IPAD</key>
+	<string>On iPad, tap Pair or enter the code displayed on your computer.</string>
+	<key>CONNECT_OVER_BLUETOOTH_STEP_2_IPHONE</key>
+	<string>On iPhone, tap Pair or enter the code displayed on your computer.</string>
+	<key>CONNECT_OVER_BLUETOOTH_STEP_3_IPAD</key>
+	<string>Connect to iPad from computer.</string>
+	<key>CONNECT_OVER_BLUETOOTH_STEP_3_IPHONE</key>
+	<string>Connect to iPhone from computer.</string>
+	<key>CONNECT_OVER_USB_LABEL</key>
+	<string>TO CONNECT USING USB</string>
+	<key>CONNECT_OVER_USB_STEP_1_IPAD</key>
+	<string>Plug iPad into your computer.</string>
+	<key>CONNECT_OVER_USB_STEP_1_IPHONE</key>
+	<string>Plug iPhone into your computer.</string>
+	<key>CONNECT_OVER_USB_STEP_2_IPAD</key>
+	<string>Choose iPad from the list of network services in your settings.</string>
+	<key>CONNECT_OVER_USB_STEP_2_IPHONE</key>
+	<string>Choose iPhone from the list of network services in your settings.</string>
+	<key>CONNECT_OVER_WIFI_LABEL</key>
+	<string>TO CONNECT USING %@</string>
+	<key>CONNECT_OVER_WIFI_STEP_1</key>
+	<string>Choose “%@” from the %@ settings on your computer or other device.</string>
+	<key>CONNECT_OVER_WIFI_STEP_2</key>
+	<string>Enter the password when prompted.</string>
+	<key>MAIN_SPEC_DETAIL_IPAD</key>
+	<string>Share your iPad's Internet connection with your computer and iOS devices via %@, Bluetooth, or USB.</string>
+	<key>MAIN_SPEC_DETAIL_IPHONE</key>
+	<string>Share your iPhone's Internet connection with your computer and iOS devices via %@, Bluetooth, or USB.</string>
+	<key>MAIN_SPEC_DETAIL_NO_WIFI_IPAD</key>
+	<string>Share your iPad's Internet connection with your computer and iOS devices via Bluetooth, or USB.</string>
+	<key>MAIN_SPEC_DETAIL_NO_WIFI_IPHONE</key>
+	<string>Share your iPhone's Internet connection with your computer and iOS devices via Bluetooth, or USB.</string>
+	<key>MAIN_SPEC_PROVISIONED</key>
+	<string>Personal Hotspot</string>
+	<key>MAIN_SPEC_UNPROVISIONED</key>
+	<string>Set Up Personal Hotspot</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>POWER_ALERT_BOTH_OFF_CANCEL_BUTTON</key>
+	<string>USB Only</string>
+	<key>POWER_ALERT_BOTH_OFF_MESSAGE</key>
+	<string>Personal Hotspot will only be available over USB. Do you also want to enable it over %@ and Bluetooth?</string>
+	<key>POWER_ALERT_BOTH_OFF_OK_BUTTON</key>
+	<string>Turn on %@ and Bluetooth</string>
+	<key>POWER_ALERT_BOTH_OFF_TITLE</key>
+	<string>%@ and Bluetooth are Off</string>
+	<key>POWER_ALERT_BT_OFF_CANCEL_BUTTON</key>
+	<string>%@ and USB Only</string>
+	<key>POWER_ALERT_BT_OFF_MESSAGE</key>
+	<string>Personal Hotspot will only be available over %@ and USB. Do you also want to enable it over Bluetooth?</string>
+	<key>POWER_ALERT_BT_OFF_OK_BUTTON</key>
+	<string>Turn on Bluetooth</string>
+	<key>POWER_ALERT_BT_OFF_TITLE</key>
+	<string>Bluetooth is Off</string>
+	<key>POWER_ALERT_BT_ONLY_OFF_CANCEL_BUTTON</key>
+	<string>USB Only</string>
+	<key>POWER_ALERT_BT_ONLY_OFF_MESSAGE</key>
+	<string>Personal Hotspot will only be available over USB. Turn on Bluetooth to enable it over both Bluetooth
+and USB.</string>
+	<key>POWER_ALERT_BT_ONLY_OFF_OK_BUTTON</key>
+	<string>Turn on Bluetooth</string>
+	<key>POWER_ALERT_BT_ONLY_OFF_TITLE</key>
+	<string>Bluetooth is Off</string>
+	<key>POWER_ALERT_WF_OFF_CANCEL_BUTTON</key>
+	<string>Bluetooth and USB Only</string>
+	<key>POWER_ALERT_WF_OFF_MESSAGE</key>
+	<string>Personal Hotspot will only be available over Bluetooth and USB. Do you also want to enable it over %@?</string>
+	<key>POWER_ALERT_WF_OFF_OK_BUTTON</key>
+	<string>Turn on %@</string>
+	<key>POWER_ALERT_WF_OFF_TITLE</key>
+	<string>%@ is Off</string>
+	<key>SETUP_ALERT_CALL_BUTTON</key>
+	<string>Call</string>
+	<key>SETUP_ALERT_MESSAGE_ALL_INFO</key>
+	<string>To enable Personal Hotspot on this account, contact %@ at %@ or visit %@</string>
+	<key>SETUP_ALERT_MESSAGE_NO_INFO</key>
+	<string>To enable Personal Hotspot on this account, contact %@</string>
+	<key>SETUP_ALERT_MESSAGE_NO_NUMBER</key>
+	<string>To enable Personal Hotspot on this account, visit %@</string>
+	<key>SETUP_ALERT_MESSAGE_NO_URL</key>
+	<string>To enable Personal Hotspot on this account, contact %@ at %@</string>
+	<key>SETUP_ALERT_TITLE</key>
+	<string>Set Up Personal Hotspot</string>
+	<key>SETUP_ALERT_WEB_BUTTON</key>
+	<string>Go to Website</string>
+	<key>STEP_1</key>
+	<string>1</string>
+	<key>STEP_2</key>
+	<string>2</string>
+	<key>STEP_3</key>
+	<string>3</string>
+	<key>TETHERING_SWITCH</key>
+	<string>Personal Hotspot</string>
+	<key>TETHERING_TEXT_OFF_IPAD</key>
+	<string>Turn on Personal Hotspot to share your iPad's Internet connection. Additional usage charges may apply.</string>
+	<key>TETHERING_TEXT_OFF_IPHONE</key>
+	<string>Turn on Personal Hotspot to share your iPhone's Internet connection. Additional usage charges may apply.</string>
+	<key>TETHERING_TEXT_ON_BOTH</key>
+	<string>Now Discoverable.
+Other users can look for your shared network using %@ and Bluetooth under the name “%@”.</string>
+	<key>TETHERING_TEXT_ON_BT</key>
+	<string>Now Discoverable.
+Other users can look for your shared network using Bluetooth under the name “%@”.</string>
+	<key>TETHERING_TEXT_ON_IPAD</key>
+	<string>Your iPad's Internet connection is being shared over USB.</string>
+	<key>TETHERING_TEXT_ON_IPHONE</key>
+	<string>Your iPhone's Internet connection is being shared over USB.</string>
+	<key>TETHERING_TEXT_ON_WIFI</key>
+	<string>Now Discoverable.
+Other users can look for your shared network using %@ under the name “%@”.</string>
+	<key>TETHERING_TITLE</key>
+	<string>Personal Hotspot</string>
+	<key>WIFI</key>
+	<string>Wi-Fi</string>
+	<key>WIFI_CH</key>
+	<string>WLAN</string>
+	<key>WIFI_PASSWORD</key>
+	<string>%@ Password</string>
+	<key>WIFI_PASSWORD_FOOTER</key>
+	<string>Other users will join your shared %@ network using this password.
+
+The password must contain at least 8 characters. Changing the password will disconnect any currently connected users.</string>
+	<key>WIFI_PASSWORD_TITLE</key>
+	<string>%@ Password</string>
+	<key>WIFI_UPPERCASE</key>
+	<string>WI-FI</string>
+</dict>
+</plist>

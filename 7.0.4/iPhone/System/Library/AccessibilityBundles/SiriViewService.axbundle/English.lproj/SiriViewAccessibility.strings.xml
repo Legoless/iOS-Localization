@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assistant.bluetooth.label</key>
+	<string>AirPlay</string>
+	<key>assistant.canceled.email.cell</key>
+	<string>Canceled Email</string>
+	<key>assistant.confirm.hint</key>
+	<string>Reply with %@ or %@, or double tap one of the buttons</string>
+	<key>assistant.confirm.no</key>
+	<string>No</string>
+	<key>assistant.confirm.yes</key>
+	<string>Yes</string>
+	<key>assistant.contact.cell</key>
+	<string>Contact</string>
+	<key>assistant.disambig.join</key>
+	<string> or </string>
+	<key>assistant.email.cell</key>
+	<string>Email</string>
+	<key>assistant.help.label</key>
+	<string>Help</string>
+	<key>assistant.location.friend.label</key>
+	<string>%@ is in %@</string>
+	<key>assistant.notes.cell</key>
+	<string>Note</string>
+	<key>assistant.sent.email.cell</key>
+	<string>Sent Email</string>
+	<key>assistant.stocks.cell</key>
+	<string>Stocks</string>
+	<key>assistant.utter.user</key>
+	<string>You said: %@</string>
+	<key>assistant.weather.cell</key>
+	<string>Weather</string>
+</dict>
+</plist>

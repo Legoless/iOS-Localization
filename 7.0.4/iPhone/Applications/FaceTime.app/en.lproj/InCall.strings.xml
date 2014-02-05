@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTIVATING</key>
+	<string>activating...</string>
+	<key>ADD_CALL</key>
+	<string>add call</string>
+	<key>AMBIGUOUS_CALL_LABEL</key>
+	<string>Multiple Calls</string>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>BROWSE_CONTACTS</key>
+	<string>Browse Contacts</string>
+	<key>CALLING</key>
+	<string>calling…</string>
+	<key>CALLING_LABEL_FORMAT</key>
+	<string>calling %@…</string>
+	<key>CALL_ENDED</key>
+	<string>call ended</string>
+	<key>CALL_ENDING</key>
+	<string>call ending…</string>
+	<key>CONFERENCE</key>
+	<string>Conference</string>
+	<key>CONFERENCE_NAME_SEPARATOR</key>
+	<string>, </string>
+	<key>CONTACTS</key>
+	<string>contacts</string>
+	<key>CREATE_NEW_CALL</key>
+	<string>Add Call</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DIAL_ASSIST</key>
+	<string>dial assist</string>
+	<key>DIAL_LONG</key>
+	<string>Dial “%@…”</string>
+	<key>DIAL_SHORT</key>
+	<string>Dial “%@”</string>
+	<key>EMERGENCY_CALL</key>
+	<string>Emergency call</string>
+	<key>EMERGENCY_CALLS_ONLY</key>
+	<string>Emergency calls only</string>
+	<key>EMERGENCY_CALL_MODE</key>
+	<string>Emergency call mode</string>
+	<key>EMERGENCY_CALL_STATUS_FORMAT</key>
+	<string>Emergency Call — %@</string>
+	<key>END_ALL_CONFIRMATION</key>
+	<string>End All</string>
+	<key>END_CALL</key>
+	<string>End</string>
+	<key>END_CALL_CONFIRM</key>
+	<string>END</string>
+	<key>FACETIME_AUDIO_CALLING</key>
+	<string>FaceTime Audio…</string>
+	<key>FACETIME_AUDIO_CALL_CONNECTING</key>
+	<string>connecting…</string>
+	<key>FACETIME_AUDIO_CALL_ENDED</key>
+	<string>FaceTime Audio ended</string>
+	<key>FACETIME_AUDIO_CALL_ENDING</key>
+	<string>FaceTime Audio ending…</string>
+	<key>FACETIME_AUDIO_STATUS_FORMAT</key>
+	<string>FaceTime Audio %@</string>
+	<key>FACETIME_DISABLED</key>
+	<string>FaceTime Disabled</string>
+	<key>FACETIME_DISABLED_MSG</key>
+	<string>FaceTime is currently disabled.  Would you like to enable it?</string>
+	<key>FAKE_UNLOCK</key>
+	<string>slide to unlock</string>
+	<key>HIDE_KEYPAD</key>
+	<string>Hide</string>
+	<key>HIDE_ROUTES</key>
+	<string>Hide Sources</string>
+	<key>HOLD</key>
+	<string>hold</string>
+	<key>HOLD_LABEL</key>
+	<string>HOLD</string>
+	<key>KEYPAD</key>
+	<string>keypad</string>
+	<key>MERGE_CALLS</key>
+	<string>merge calls</string>
+	<key>MUTE</key>
+	<string>mute</string>
+	<key>PRIVATE</key>
+	<string>Private</string>
+	<key>ROUTE</key>
+	<string>audio source</string>
+	<key>SEND</key>
+	<string>Send</string>
+	<key>SPEAKER</key>
+	<string>speaker</string>
+	<key>SWAP_CALLS</key>
+	<string>swap</string>
+	<key>TURN_ON</key>
+	<string>Turn On</string>
+	<key>TWO_CONFERENCE_NAMES_FORMAT</key>
+	<string>%@ &amp; %@</string>
+</dict>
+</plist>

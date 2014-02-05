@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@%%</key>
+	<string>%@%%</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Private</key>
+	<string>Private</string>
+	<key>Public</key>
+	<string>Public</string>
+	<key>Sign In</key>
+	<string>Sign In</string>
+	<key>Unlisted</key>
+	<string>Unlisted</string>
+	<key>Untitled</key>
+	<string>Untitled</string>
+	<key>Untitled video</key>
+	<string>Untitled video</string>
+	<key>YouTube Password</key>
+	<string>YouTube Password</string>
+</dict>
+</plist>

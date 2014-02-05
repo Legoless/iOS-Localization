@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IMAGE_SNIPPET_TITLE</key>
+	<string>Photo</string>
+	<key>MAP_BUTTON_TITLE</key>
+	<string>Show Map</string>
+	<key>MAP_POD_NAVIGATION_TITLE</key>
+	<string>Map</string>
+</dict>
+</plist>

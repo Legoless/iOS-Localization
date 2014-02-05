@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A-Law 2:1</key>
+	<string>A-Law 2:1</string>
+	<key>AAC</key>
+	<string>AAC</string>
+	<key>AC3</key>
+	<string>AC3</string>
+	<key>ANTEX ADPCME</key>
+	<string>ANTEX ADPCME</string>
+	<key>APTX</key>
+	<string>APTX</string>
+	<key>AUDIOFILE AF10</key>
+	<string>AUDIOFILE AF10</string>
+	<key>AUDIOFILE AF36</key>
+	<string>AUDIOFILE AF36</string>
+	<key>BTV DIGITAL</key>
+	<string>BTV DIGITAL</string>
+	<key>CANOPUS ATRAC</key>
+	<string>CANOPUS ATRAC</string>
+	<key>CELP</key>
+	<string>CELP</string>
+	<key>CIRRUS</key>
+	<string>CIRRUS</string>
+	<key>CONTROL RES CR10</key>
+	<string>CONTROL RES CR10</string>
+	<key>CREATIVE ADPCM</key>
+	<string>CREATIVE ADPCM</string>
+	<key>CREATIVE FASTSPEECH10</key>
+	<string>CREATIVE FASTSPEECH10</string>
+	<key>CREATIVE FASTSPEECH8</key>
+	<string>CREATIVE FASTSPEECH8</string>
+	<key>CS IMAADPCM</key>
+	<string>CS IMAADPCM</string>
+	<key>DIALOGIC OKI ADPCM</key>
+	<string>DIALOGIC OKI ADPCM</string>
+	<key>DIGIADPCM</key>
+	<string>DIGIADPCM</string>
+	<key>DIGIFIX</key>
+	<string>DIGIFIX</string>
+	<key>DIGIREAL</key>
+	<string>DIGIREAL</string>
+	<key>DIGISTD</key>
+	<string>DIGISTD</string>
+	<key>DOLBY AC2</key>
+	<string>DOLBY AC2</string>
+	<key>DSAT</key>
+	<string>DSAT</string>
+	<key>DSAT DISPLAY</key>
+	<string>DSAT DISPLAY</string>
+	<key>DSPGROUP TRUESPEECH</key>
+	<string>DSP Group TrueSpeech</string>
+	<key>DVI ADPCM</key>
+	<string>DVI ADPCM</string>
+	<key>ECHOSC1</key>
+	<string>ECHOSC1</string>
+	<key>ECHOSC3</key>
+	<string>ECHOSC3</string>
+	<key>ESPCM</key>
+	<string>ESPCM</string>
+	<key>FM TOWNS SND</key>
+	<string>FM TOWNS SND</string>
+	<key>G721 ADPCM</key>
+	<string>G721 ADPCM</string>
+	<key>G722 ADPCM</key>
+	<string>G722 ADPCM</string>
+	<key>G723 ADPCM</key>
+	<string>G723 ADPCM</string>
+	<key>G726 ADPCM</key>
+	<string>G726 ADPCM</string>
+	<key>G728 CELP</key>
+	<string>G728 CELP</string>
+	<key>GSM610</key>
+	<string>MS-GSM 6.10</string>
+	<key>HVXC</key>
+	<string>HVXC</string>
+	<key>Hz</key>
+	<string>Hz</string>
+	<key>IBM CVSD</key>
+	<string>IBM CVSD</string>
+	<key>IMA 4:1</key>
+	<string>IMA 4:1</string>
+	<key>IMA4</key>
+	<string>IMA4</string>
+	<key>Lernout &amp; Hauspie</key>
+	<string>Lernout &amp; Hauspie</string>
+	<key>Linear PCM</key>
+	<string>Linear PCM</string>
+	<key>MACE 3:1</key>
+	<string>MACE 3:1</string>
+	<key>MACE 6:1</key>
+	<string>MACE 6:1</string>
+	<key>MEDIASPACE ADPCM</key>
+	<string>MEDIASPACE ADPCM</string>
+	<key>MEDIAVISION ADPCM</key>
+	<string>MEDIAVISION ADPCM</string>
+	<key>MPEG</key>
+	<string>MPEG</string>
+	<key>MPEG Layer 3</key>
+	<string>MPEG Layer 3</string>
+	<key>MPEG-1 or MPEG-2</key>
+	<string>MPEG-1 or MPEG-2</string>
+	<key>MPEGLAYER3</key>
+	<string>MPEG Layer 3</string>
+	<key>MSNAUDIO</key>
+	<string>MSNAUDIO</string>
+	<key>Microsoft ADPCM</key>
+	<string>Microsoft ADPCM</string>
+	<key>NMS VBXADPCM</key>
+	<string>NMS VBXADPCM</string>
+	<key>NORRIS</key>
+	<string>NORRIS</string>
+	<key>OKI ADPCM</key>
+	<string>OKI ADPCM</string>
+	<key>OLIADPCM</key>
+	<string>OLIADPCM</string>
+	<key>OLICELP</key>
+	<string>OLICELP</string>
+	<key>OLIGSM</key>
+	<string>OLIGSM</string>
+	<key>OLIOPR</key>
+	<string>OLIOPR</string>
+	<key>OLISBC</key>
+	<string>OLISBC</string>
+	<key>QDesign</key>
+	<string>QDesign</string>
+	<key>QDesign Music 2</key>
+	<string>QDesign Music 2</string>
+	<key>QUARTERDECK</key>
+	<string>QUARTERDECK</string>
+	<key>Qualcomm PureVoice\U2122</key>
+	<string>Qualcomm PureVoice™</string>
+	<key>RHETOREX ADPCM</key>
+	<string>RHETOREX ADPCM</string>
+	<key>ROCKWELL ADPCM</key>
+	<string>ROCKWELL ADPCM</string>
+	<key>ROCKWELL DIGITALK</key>
+	<string>ROCKWELL DIGITALK</string>
+	<key>SIERRA ADPCM</key>
+	<string>SIERRA ADPCM</string>
+	<key>SOFTSOUND</key>
+	<string>SOFTSOUND</string>
+	<key>SONARC</key>
+	<string>SONARC</string>
+	<key>TwinVQ</key>
+	<string>TwinVQ</string>
+	<key>VOXWARE</key>
+	<string>VOXWARE</string>
+	<key>XEBEC</key>
+	<string>XEBEC</string>
+	<key>YAMAHA ADPCM</key>
+	<string>YAMAHA ADPCM</string>
+	<key>\U03BC-Law 2:1</key>
+	<string>μ-Law 2:1</string>
+	<key>big-endian</key>
+	<string>big-endian</string>
+	<key>bit</key>
+	<string>bit</string>
+	<key>channels</key>
+	<string>channels</string>
+	<key>floating point</key>
+	<string>floating point</string>
+	<key>little-endian</key>
+	<string>little-endian</string>
+	<key>signed integer</key>
+	<string>signed integer</string>
+	<key>unsigned integer</key>
+	<string>unsigned integer</string>
+</dict>
+</plist>

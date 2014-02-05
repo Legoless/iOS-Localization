@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add Digit</key>
+	<string>Add Digit</string>
+	<key>An error occurred while reading</key>
+	<string>An error occurred while reading</string>
+	<key>An error occurred while reading: %s</key>
+	<string>An error occurred while reading: %s</string>
+	<key>An error occurred while writing</key>
+	<string>An error occurred while writing</string>
+	<key>An error occurred while writing: %s</key>
+	<string>An error occurred while writing: %s</string>
+	<key>Automatic</key>
+	<string>Automatic</string>
+	<key>Billions</key>
+	<string>Billions</string>
+	<key>Checkbox</key>
+	<string>Checkbox</string>
+	<key>Conflicting</key>
+	<string>Conflicting</string>
+	<key>Currency</key>
+	<string>Currency</string>
+	<key>Custom</key>
+	<string>Custom</string>
+	<key>Date &amp; Time</key>
+	<string>Date &amp; Time</string>
+	<key>Decimals</key>
+	<string>Decimals</string>
+	<key>Duration</key>
+	<string>Duration</string>
+	<key>Eighths</key>
+	<string>Eighths</string>
+	<key>Flexible</key>
+	<string>Flexible</string>
+	<key>Fraction</key>
+	<string>Fraction</string>
+	<key>Fractions</key>
+	<string>Fractions</string>
+	<key>Halves</key>
+	<string>Halves</string>
+	<key>Hide Separator</key>
+	<string>Hide Separator</string>
+	<key>Hundreds</key>
+	<string>Hundreds</string>
+	<key>Hundredths</key>
+	<string>Hundredths</string>
+	<key>Invalid</key>
+	<string>Invalid</string>
+	<key>Millions</key>
+	<string>Millions</string>
+	<key>Narrow</key>
+	<string>Narrow</string>
+	<key>Normal</key>
+	<string>Normal</string>
+	<key>Not Set</key>
+	<string>Not Set</string>
+	<key>Number</key>
+	<string>Number</string>
+	<key>Number of Digits</key>
+	<string>Number of Digits</string>
+	<key>Numeral System</key>
+	<string>Numeral System</string>
+	<key>Percent</key>
+	<string>Percent</string>
+	<key>Percentage</key>
+	<string>Percentage</string>
+	<key>Pop-Up Menu</key>
+	<string>Pop-Up Menu</string>
+	<key>Quarters</key>
+	<string>Quarters</string>
+	<key>Remove Digit</key>
+	<string>Remove Digit</string>
+	<key>Scientific</key>
+	<string>Scientific</string>
+	<key>Show Separator</key>
+	<string>Show Separator</string>
+	<key>Show Trailing Zeros</key>
+	<string>Show Trailing Zeros</string>
+	<key>Show Zeros for Unused Digits</key>
+	<string>Show Zeros for Unused Digits</string>
+	<key>Sixteenths</key>
+	<string>Sixteenths</string>
+	<key>Slider</key>
+	<string>Slider</string>
+	<key>Star Rating</key>
+	<string>Star Rating</string>
+	<key>Stepper</key>
+	<string>Stepper</string>
+	<key>Tenths</key>
+	<string>Tenths</string>
+	<key>Text</key>
+	<string>Text</string>
+	<key>The time is invalid.</key>
+	<string>The time is invalid.</string>
+	<key>Thousands</key>
+	<string>Thousands</string>
+	<key>Trillions</key>
+	<string>Trillions</string>
+	<key>Unknown</key>
+	<string>Unknown</string>
+	<key>Unsupported</key>
+	<string>Unsupported</string>
+	<key>Up to 1 digit (7/8)</key>
+	<string>Up to 1 digit (7/8)</string>
+	<key>Up to 2 digits (23/24)</key>
+	<string>Up to 2 digits (23/24)</string>
+	<key>Up to 3 digits (445/553)</key>
+	<string>Up to 3 digits (445/553)</string>
+	<key>Up to one digit (7/8)</key>
+	<string>Up to one digit (7/8)</string>
+	<key>Up to three digits (445/553)</key>
+	<string>Up to three digits (445/553)</string>
+	<key>Up to two digits (23/24)</key>
+	<string>Up to two digits (23/24)</string>
+	<key>Use Spaces for Trailing Zeros</key>
+	<string>Use Spaces for Trailing Zeros</string>
+	<key>Use Spaces for Unused Digits</key>
+	<string>Use Spaces for Unused Digits</string>
+	<key>Wide</key>
+	<string>Wide</string>
+	<key>d</key>
+	<string>d</string>
+	<key>day</key>
+	<string>day</string>
+	<key>days</key>
+	<string>days</string>
+	<key>h</key>
+	<string>h</string>
+	<key>hour</key>
+	<string>hour</string>
+	<key>hours</key>
+	<string>hours</string>
+	<key>hr</key>
+	<string>hr</string>
+	<key>hrs</key>
+	<string>hrs</string>
+	<key>m</key>
+	<string>m</string>
+	<key>millisecond</key>
+	<string>millisecond</string>
+	<key>milliseconds</key>
+	<string>milliseconds</string>
+	<key>min</key>
+	<string>min</string>
+	<key>mins</key>
+	<string>mins</string>
+	<key>minute</key>
+	<string>minute</string>
+	<key>minutes</key>
+	<string>minutes</string>
+	<key>ms</key>
+	<string>ms</string>
+	<key>s</key>
+	<string>s</string>
+	<key>sec</key>
+	<string>sec</string>
+	<key>second</key>
+	<string>second</string>
+	<key>seconds</key>
+	<string>seconds</string>
+	<key>secs</key>
+	<string>secs</string>
+	<key>w</key>
+	<string>w</string>
+	<key>week</key>
+	<string>week</string>
+	<key>weeks</key>
+	<string>weeks</string>
+	<key>wk</key>
+	<string>wk</string>
+	<key>wks</key>
+	<string>wks</string>
+</dict>
+</plist>

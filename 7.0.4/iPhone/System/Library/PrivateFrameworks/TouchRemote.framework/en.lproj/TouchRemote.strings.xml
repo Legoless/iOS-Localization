@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPLE_ID</key>
+	<string>example@icloud.com</string>
+	<key>AUTH_FAILED_DEFAULT_MESSAGE</key>
+	<string>Cannot connect to iTunes Store</string>
+	<key>AUTH_FAILED_RETRY_BUTTON</key>
+	<string>Retry</string>
+	<key>AUTH_FAILED_TITLE</key>
+	<string>Cannot Sign In</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONNECT_TO_WIFI_MESSAGE</key>
+	<string>You must connect to a Wi-Fi network to set up Apple TV.</string>
+	<key>CONNECT_TO_WIFI_MESSAGE_DHCP</key>
+	<string>You must connect to a Wi-Fi network using DHCP to set up Apple TV.</string>
+	<key>CONNECT_TO_WIFI_TITLE</key>
+	<string>Cannot Set Up Apple TV</string>
+	<key>DIAGNOSTIC_MESSAGE</key>
+	<string>You can help Apple improve its products and user support by having your Apple TV automatically send Apple information from time to time about how it's working and how you use it.
+
+To learn more about Apple's Privacy Policy, see http://www.apple.com/privacy/.</string>
+	<key>DIAGNOSTIC_TITLE</key>
+	<string>Send Data To Apple</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>NO_THANKS_BUTTON</key>
+	<string>No Thanks</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>password</string>
+	<key>REMEMBER_PASSWORD_MESSAGE</key>
+	<string>Would you like Apple TV to 
+remember the password for 
+%@
+ to rent or purchase items from 
+the iTunes Store?</string>
+	<key>REMEMBER_PASSWORD_TITLE</key>
+	<string>Remember Password</string>
+	<key>SIGN_IN_MESSAGE</key>
+	<string>Enter your Apple ID password to
+sign into your iTunes Store
+account on Apple TV.</string>
+	<key>SIGN_IN_TITLE</key>
+	<string>Set Up Apple TV</string>
+	<key>YES</key>
+	<string>Yes</string>
+</dict>
+</plist>

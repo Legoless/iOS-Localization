@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.button.text</key>
+	<string>Add from address book</string>
+	<key>add.contact.button</key>
+	<string>Add contact</string>
+	<key>address.atom.hint</key>
+	<string>Double-tap to show more info, Double-tap and hold, then drag up or down to move to other address fields.</string>
+	<key>address.atom.type</key>
+	<string>Address</string>
+	<key>address.failure.style</key>
+	<string>Invalid address</string>
+	<key>address.madrid.failure</key>
+	<string>Not registered</string>
+	<key>address.madrid.loading</key>
+	<string>Searching</string>
+	<key>bcc.text</key>
+	<string>Bcc: </string>
+	<key>body.label</key>
+	<string>Message body</string>
+	<key>body.message.text</key>
+	<string>Compose message area</string>
+	<key>cc.text</key>
+	<string>Cc: </string>
+	<key>combined.header.hint</key>
+	<string>Double tap to show more info</string>
+	<key>decrease.quote.level</key>
+	<string>Decrease quote level</string>
+	<key>dragged.address.to</key>
+	<string>On %@ field</string>
+	<key>from.text</key>
+	<string>From: </string>
+	<key>increase.quote.level</key>
+	<string>Increase quote level</string>
+	<key>insert.photo.video</key>
+	<string>Insert photo or video</string>
+	<key>message.area</key>
+	<string>Message</string>
+	<key>moved.address.after</key>
+	<string>Moved after %@</string>
+	<key>moved.address.before</key>
+	<string>Moved before %@</string>
+	<key>moving.address</key>
+	<string>Moving %@</string>
+	<key>quote.level.change</key>
+	<string>Quote level %@</string>
+	<key>quote.level.removed</key>
+	<string>Removed quote</string>
+	<key>remove.item.announce</key>
+	<string>Removed %@</string>
+	<key>subject.text</key>
+	<string>Subject: </string>
+	<key>to.text</key>
+	<string>To: </string>
+	<key>vip.sender</key>
+	<string>VIP</string>
+</dict>
+</plist>

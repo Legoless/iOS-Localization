@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@%@</key>
+	<string>%@%@</string>
+	<key>C</key>
+	<string>C</string>
+	<key>F</key>
+	<string>F</string>
+	<key>NOT_PERMANENTE</key>
+	<string>Cupertino</string>
+	<key>WEATHER_TITLE</key>
+	<string>Weather</string>
+	<key>WEEKLY_FORECAST</key>
+	<string>Weekly Forecast</string>
+</dict>
+</plist>

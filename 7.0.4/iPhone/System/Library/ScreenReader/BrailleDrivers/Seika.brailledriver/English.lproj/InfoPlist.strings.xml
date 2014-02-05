@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2010-2012 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.40</key>
+	<string>Nippon Telesoft Seika</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.65537</key>
+	<string>K1</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.65793</key>
+	<string>K2</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.66049</key>
+	<string>K3</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.66305</key>
+	<string>K4</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.66561</key>
+	<string>K5</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.66817</key>
+	<string>K6</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.67073</key>
+	<string>K7</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.67329</key>
+	<string>K8</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.68353</key>
+	<string>K11</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.68609</key>
+	<string>K12</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.68865</key>
+	<string>K13</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.69121</key>
+	<string>K14</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.69377</key>
+	<string>K15</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.69633</key>
+	<string>K16</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.69889</key>
+	<string>K17</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.70145</key>
+	<string>K18</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.70401</key>
+	<string>K19</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.70657</key>
+	<string>K20</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.70913</key>
+	<string>K21</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.71169</key>
+	<string>K22</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.notetaker.16</key>
+	<string>Nippon Telesoft Mini Seika 16</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.notetaker.40</key>
+	<string>Nippon Telesoft Mini Seika 40</string>
+	<key>com.apple.scrod.braille.driver.nippon.telesoft.seika.notetaker.8</key>
+	<string>Nippon Telesoft Mini Seika 8</string>
+</dict>
+</plist>

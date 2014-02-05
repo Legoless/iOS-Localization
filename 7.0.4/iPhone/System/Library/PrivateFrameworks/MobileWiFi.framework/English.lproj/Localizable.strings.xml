@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WIFI_CANCEL</key>
+	<string>Cancel</string>
+	<key>WIFI_FAILURE_MESSAGE_PREFIX</key>
+	<string>There was an error joining
+“</string>
+	<key>WIFI_FAILURE_MESSAGE_SUFFIX</key>
+	<string>”.</string>
+	<key>WIFI_FAILURE_OK</key>
+	<string>OK</string>
+	<key>WIFI_FAILURE_TITLE</key>
+	<string>WiFi Network Error</string>
+	<key>WIFI_FAILURE_TITLE_CH</key>
+	<string>WLAN Network Error</string>
+	<key>WIFI_JOIN</key>
+	<string>Join</string>
+	<key>WIFI_OTP_PASSWORD_TITLE</key>
+	<string>Wi-Fi Password</string>
+	<key>WIFI_OTP_PASSWORD_TITLE_CH</key>
+	<string>WLAN Password</string>
+	<key>WIFI_PASSWORD_MESSAGE_PREFIX</key>
+	<string>Enter the password for
+“</string>
+	<key>WIFI_PASSWORD_MESSAGE_SUFFIX</key>
+	<string>”.</string>
+	<key>WIFI_PASSWORD_TEXT_TITLE</key>
+	<string>Password</string>
+	<key>WIFI_PASSWORD_TITLE</key>
+	<string>Incorrect Wi-Fi Password</string>
+	<key>WIFI_PASSWORD_TITLE_CH</key>
+	<string>Incorrect WLAN Password</string>
+	<key>WIFI_USERNAME_TEXT_TITLE</key>
+	<string>Username</string>
+</dict>
+</plist>

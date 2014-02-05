@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_LOCATION_AND_PRIVACY</key>
+	<string>About Location Services &amp; Privacy…</string>
+	<key>ACTIVE_EXPLANATION_ITEM</key>
+	<string>A purple location services icon will appear next to an item that has recently used your location. </string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONFIRM_LOCATION_TITLE_IPAD</key>
+	<string>Location Services will be disabled for all apps, but your personalized Location Services settings for apps will be temporarily restored if you use Find My iPad to enable Lost Mode.</string>
+	<key>CONFIRM_LOCATION_TITLE_IPHONE</key>
+	<string>Location Services will be disabled for all apps, but your personalized Location Services settings for apps will be temporarily restored if you use Find My iPhone to enable Lost Mode.</string>
+	<key>CONFIRM_LOCATION_TITLE_IPOD</key>
+	<string>Location Services will be disabled for all apps, but your personalized Location Services settings for apps will be temporarily restored if you use Find My iPod to enable Lost Mode.</string>
+	<key>CONFIRM_LOCATION_TURN_OFF</key>
+	<string>Turn Off</string>
+	<key>CORE_ROUTINE_EXPLANATION_IPAD</key>
+	<string>Allow your iPad to learn places you frequently visit in order to provide useful location-related information.</string>
+	<key>CORE_ROUTINE_EXPLANATION_IPHONE</key>
+	<string>Allow your iPhone to learn places you frequently visit in order to provide useful location-related information.</string>
+	<key>CORE_ROUTINE_EXPLANATION_IPOD</key>
+	<string>Allow your iPod to learn places you frequently visit in order to provide useful location-related information.</string>
+	<key>CORE_ROUTINE_IPAD</key>
+	<string>Frequent Locations</string>
+	<key>CORE_ROUTINE_IPHONE</key>
+	<string>Frequent Locations</string>
+	<key>CORE_ROUTINE_IPOD</key>
+	<string>Frequent Locations</string>
+	<key>DESCRIPTION_NO_GPS_OR_CELL_WIFI</key>
+	<string>Location Services uses crowd-sourced Wi-Fi hotspot locations to determine your approximate location.</string>
+	<key>DESCRIPTION_NO_GPS_OR_CELL_WLAN</key>
+	<string>Location Services uses crowd-sourced WLAN hotspot locations to determine your approximate location.</string>
+	<key>DESCRIPTION_NO_LOCAL_NETWORKING</key>
+	<string>Location Services uses GPS along with crowd-sourced cell tower locations to determine your approximate location.</string>
+	<key>DESCRIPTION_WIFI</key>
+	<string>Location Services uses GPS along with crowd-sourced Wi-Fi hotspot and cell tower locations to determine your approximate location.</string>
+	<key>DESCRIPTION_WLAN</key>
+	<string>Location Services uses GPS along with crowd-sourced WLAN hotspot and cell tower locations to determine your approximate location.</string>
+	<key>DISABLED_WARNING_WIFI</key>
+	<string>Using Location Services requires turning on Wi-Fi.</string>
+	<key>DISABLED_WARNING_WLAN</key>
+	<string>Using Location Services requires turning on WLAN.</string>
+	<key>FIND_MY_DEVICE_EXPLANATION_IPAD</key>
+	<string>Find My iPad allows you to locate this iPad on a map, send it messages, and remotely lock or erase it.</string>
+	<key>FIND_MY_DEVICE_EXPLANATION_IPHONE</key>
+	<string>Find My iPhone allows you to locate this iPhone on a map, send it messages, and remotely lock or erase it.</string>
+	<key>FIND_MY_DEVICE_EXPLANATION_IPOD</key>
+	<string>Find My iPod allows you to locate this iPod on a map, send it messages, and remotely lock or erase it.</string>
+	<key>FIND_MY_DEVICE_IPAD</key>
+	<string>Find My iPad</string>
+	<key>FIND_MY_DEVICE_IPHONE</key>
+	<string>Find My iPhone</string>
+	<key>FIND_MY_DEVICE_IPOD</key>
+	<string>Find My iPod</string>
+	<key>FIND_MY_DEVICE_STATUS_BAR_ICON_EXPLANATION_IPAD</key>
+	<string>Show the Location Services icon in the status bar when you are tracking this iPad from another device.</string>
+	<key>FIND_MY_DEVICE_STATUS_BAR_ICON_EXPLANATION_IPHONE</key>
+	<string>Show the Location Services icon in the status bar when you are tracking this iPhone from another device.</string>
+	<key>FIND_MY_DEVICE_STATUS_BAR_ICON_EXPLANATION_IPOD</key>
+	<string>Show the Location Services icon in the status bar when you are tracking this iPod from another device.</string>
+	<key>GEOFENCE_EXPLANATION_ITEM</key>
+	<string>An outlined location services icon will appear next to an item that is using a geofence.
+
+A geofence is a virtual perimeter around a location. Apps like Reminders use geofencing to notify you when you arrive at, or leave, these locations.</string>
+	<key>LOCATION_AND_PRIVACY_TITLE</key>
+	<string>Location Services &amp; Privacy</string>
+	<key>LOCATION_SERVICES_ABV</key>
+	<string>Location Services</string>
+	<key>LOCATION_SERVICES_FULL</key>
+	<string>Location Services</string>
+	<key>RECENT_EXPLANATION_ITEM</key>
+	<string>A gray location services icon will appear next to an item that has used your location within the last 24 hours.</string>
+	<key>REMOVE_ACCOUNT_IPAD</key>
+	<string>Enter your Apple ID password to turn off Find My iPad and remove this iPad from your account.
+
+%@</string>
+	<key>REMOVE_ACCOUNT_IPHONE</key>
+	<string>Enter your Apple ID password to turn off Find My iPhone and remove this iPhone from your account.
+
+%@</string>
+	<key>REMOVE_ACCOUNT_IPOD</key>
+	<string>Enter your Apple ID password to turn off Find My iPod and remove this iPod from your account.
+
+%@</string>
+	<key>STATUS_BAR_ICON</key>
+	<string>Status Bar Icon</string>
+	<key>SYSTEM_SERVICES</key>
+	<string>System Services</string>
+	<key>SYSTEM_SERVICES_STATUS_BAR_ICON_EXPLANATION</key>
+	<string>Show the Location Services icon in the status bar when the services above request your location.</string>
+	<key>TURN_OFF</key>
+	<string>Turn Off</string>
+	<key>TURN_OFF_IPAD</key>
+	<string>Turn Off Find My iPad</string>
+	<key>TURN_OFF_IPHONE</key>
+	<string>Turn Off Find My iPhone</string>
+	<key>TURN_OFF_IPOD</key>
+	<string>Turn Off Find My iPod</string>
+	<key>WLAN_NETWORKING</key>
+	<string>WLAN Networking</string>
+</dict>
+</plist>

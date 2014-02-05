@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.photo.button</key>
+	<string>Add photo</string>
+	<key>addContact.button</key>
+	<string>Add Contact</string>
+	<key>badge.source.facebook</key>
+	<string>From Facebook</string>
+	<key>contact.card.label.chooser.hint</key>
+	<string>Activate to choose type</string>
+	<key>contactIndex.label</key>
+	<string>Contact Index</string>
+	<key>grid.mode</key>
+	<string>Grid mode</string>
+	<key>list.mode</key>
+	<string>List mode</string>
+	<key>missing.photo.for.text</key>
+	<string>Missing photo for %@</string>
+	<key>missing.photo.for.text.no.name</key>
+	<string>Missing photo</string>
+	<key>no.name.cell</key>
+	<string>No Name</string>
+	<key>notes</key>
+	<string>notes</string>
+	<key>photo.for.text</key>
+	<string>Photo of %@</string>
+	<key>return.to.contacts</key>
+	<string>Return to contacts</string>
+	<key>share.button</key>
+	<string>Share</string>
+	<key>showGroups.button</key>
+	<string>Show Groups</string>
+	<key>transport.button.email</key>
+	<string>Email</string>
+	<key>transport.button.phone</key>
+	<string>Call</string>
+	<key>transport.button.phone.facetime</key>
+	<string>FaceTime audio call</string>
+	<key>transport.button.text</key>
+	<string>Text</string>
+	<key>transport.button.video</key>
+	<string>FaceTime</string>
+</dict>
+</plist>

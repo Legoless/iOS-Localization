@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ at %@</key>
+	<string>%@ at %@</string>
+	<key>CHANGE</key>
+	<string>%@ (%@)</string>
+	<key>LongMarketCap</key>
+	<string>Market Cap</string>
+	<key>MAGNITUDE_POSTFIX_10</key>
+	<string>B</string>
+	<key>MAGNITUDE_POSTFIX_11</key>
+	<string>B</string>
+	<key>MAGNITUDE_POSTFIX_12</key>
+	<string>B</string>
+	<key>MAGNITUDE_POSTFIX_13</key>
+	<string>T</string>
+	<key>MAGNITUDE_POSTFIX_4</key>
+	<string></string>
+	<key>MAGNITUDE_POSTFIX_5</key>
+	<string></string>
+	<key>MAGNITUDE_POSTFIX_6</key>
+	<string></string>
+	<key>MAGNITUDE_POSTFIX_7</key>
+	<string>M</string>
+	<key>MAGNITUDE_POSTFIX_8</key>
+	<string>M</string>
+	<key>MAGNITUDE_POSTFIX_9</key>
+	<string>M</string>
+	<key>MARKETS</key>
+	<string>Markets</string>
+	<key>STOCKS</key>
+	<string>Stocks</string>
+	<key>averageVolumeTitleLabel</key>
+	<string>Avg Vol</string>
+	<key>high52WeekTitleLabel</key>
+	<string>52w High</string>
+	<key>highTitleLabel</key>
+	<string>High</string>
+	<key>low52WeekTitleLabel</key>
+	<string>52w Low</string>
+	<key>lowTitleLabel</key>
+	<string>Low</string>
+	<key>marketCapTitleLabel</key>
+	<string>Mkt Cap</string>
+	<key>openTitleLabel</key>
+	<string>Open</string>
+	<key>priceEarningsTitleLabel</key>
+	<string>P/E</string>
+	<key>volumeTitleLabel</key>
+	<string>Vol</string>
+	<key>yieldTitleLabel</key>
+	<string>Yield</string>
+</dict>
+</plist>

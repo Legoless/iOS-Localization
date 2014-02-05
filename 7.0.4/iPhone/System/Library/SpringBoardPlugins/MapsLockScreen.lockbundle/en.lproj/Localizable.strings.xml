@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ needs to cool down.</key>
+	<string>%@ needs to cool down.</string>
+	<key>Temperature</key>
+	<string>Temperature</string>
+	<key>iPad needs to cool down.</key>
+	<string>iPad needs to cool down.</string>
+	<key>iPhone needs to cool down.</key>
+	<string>iPhone needs to cool down.</string>
+	<key>iPod touch needs to cool down.</key>
+	<string>iPod touch needs to cool down.</string>
+</dict>
+</plist>

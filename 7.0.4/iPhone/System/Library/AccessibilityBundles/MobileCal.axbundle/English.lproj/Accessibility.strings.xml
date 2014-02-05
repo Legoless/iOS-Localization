@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application.name</key>
+	<string>Calendar</string>
+	<key>current.month.indicator</key>
+	<string>Current month</string>
+	<key>day.scrubber.hint</key>
+	<string>Swipe up or down to move to the next or previous day</string>
+	<key>day.scrubber.label</key>
+	<string>Selected day</string>
+	<key>day.scrubber.next.week</key>
+	<string>Next week</string>
+	<key>day.scrubber.previous.week</key>
+	<string>Previous week</string>
+	<key>event.birthday</key>
+	<string>Birthday</string>
+	<key>event.count.none</key>
+	<string>No events</string>
+	<key>event.count.plural</key>
+	<string>%@ events</string>
+	<key>event.count.singular</key>
+	<string>%@ event</string>
+	<key>event.declined</key>
+	<string>Event declined</string>
+	<key>event.facebook</key>
+	<string>Facebook event</string>
+	<key>event.needsreply</key>
+	<string>Event needs reply</string>
+	<key>event.tentative</key>
+	<string>Tentative event</string>
+	<key>month.day.hint</key>
+	<string>Double tap to view events on this day</string>
+	<key>month.day.scroll.hint</key>
+	<string>Swipe left or right with three fingers to view events on a different week</string>
+	<key>next.button</key>
+	<string>Next</string>
+	<key>next.day.arrow.button</key>
+	<string>Next day</string>
+	<key>next.month.arrow.button</key>
+	<string>Next month</string>
+	<key>previous.button</key>
+	<string>Previous</string>
+	<key>previous.day.arrow.button</key>
+	<string>Previous day</string>
+	<key>previous.month.arrow.button</key>
+	<string>Previous month</string>
+	<key>search.button</key>
+	<string>Search</string>
+	<key>today.indicator</key>
+	<string>Today</string>
+	<key>week.scroll.status</key>
+	<string>Week of %@</string>
+	<key>year.month.hint</key>
+	<string>Double tap to view days</string>
+</dict>
+</plist>

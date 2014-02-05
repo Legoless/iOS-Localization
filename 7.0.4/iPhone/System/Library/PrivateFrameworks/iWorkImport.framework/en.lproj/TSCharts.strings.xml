@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%d of %d</key>
+	<string>%1$d of %2$d</string>
+	<key>(100)</key>
+	<string>(100)</string>
+	<key>-100</key>
+	<string>-100</string>
+	<key>2-Axis</key>
+	<string>2-Axis</string>
+	<key>2D</key>
+	<string>2D</string>
+	<key>2D 2-Axis</key>
+	<string>2D 2-Axis</string>
+	<key>2D Area</key>
+	<string>2D Area</string>
+	<key>2D Bar</key>
+	<string>2D Bar</string>
+	<key>2D Bubble</key>
+	<string>2D Bubble</string>
+	<key>2D Charts</key>
+	<string>2D Charts</string>
+	<key>2D Column</key>
+	<string>2D Column</string>
+	<key>2D Line</key>
+	<string>2D Line</string>
+	<key>2D Mixed</key>
+	<string>2D Mixed</string>
+	<key>2D Pie</key>
+	<string>2D Pie</string>
+	<key>2D Scatter</key>
+	<string>2D Scatter</string>
+	<key>2D Stacked Area</key>
+	<string>2D Stacked Area</string>
+	<key>2D Stacked Bar</key>
+	<string>2D Stacked Bar</string>
+	<key>2D Stacked Column</key>
+	<string>2D Stacked Column</string>
+	<key>3D</key>
+	<string>3D</string>
+	<key>3D Area</key>
+	<string>3D Area</string>
+	<key>3D Bar</key>
+	<string>3D Bar</string>
+	<key>3D Charts</key>
+	<string>3D Charts</string>
+	<key>3D Charts Printed as 2D</key>
+	<string>3D Charts Printed as 2D</string>
+	<key>3D Column</key>
+	<string>3D Column</string>
+	<key>3D Line</key>
+	<string>3D Line</string>
+	<key>3D Pie</key>
+	<string>3D Pie</string>
+	<key>3D Stacked Area</key>
+	<string>3D Stacked Area</string>
+	<key>3D Stacked Bar</key>
+	<string>3D Stacked Bar</string>
+	<key>3D Stacked Column</key>
+	<string>3D Stacked Column</string>
+	<key>Above</key>
+	<string>Above</string>
+	<key>Above Left</key>
+	<string>Above Left</string>
+	<key>Above Right</key>
+	<string>Above Right</string>
+	<key>Add Chart Data</key>
+	<string>Add Chart Data</string>
+	<key>Add Chart Data…</key>
+	<string>Add Chart Data…</string>
+	<key>All at Once</key>
+	<string>All at Once</string>
+	<key>All series styles (%@)</key>
+	<string>All series styles (%@)</string>
+	<key>Area</key>
+	<string>Area</string>
+	<key>Auto</key>
+	<string>Auto</string>
+	<key>Automatic</key>
+	<string>Automatic</string>
+	<key>Axis Line</key>
+	<string>Axis Line</string>
+	<key>Axis Name</key>
+	<string>Axis Name</string>
+	<key>Background First</key>
+	<string>Background First</string>
+	<key>Bar</key>
+	<string>Bar</string>
+	<key>Bar Shape</key>
+	<string>Bar Shape</string>
+	<key>Below</key>
+	<string>Below</string>
+	<key>Below Left</key>
+	<string>Below Left</string>
+	<key>Below Right</key>
+	<string>Below Right</string>
+	<key>Bevels</key>
+	<string>Bevels</string>
+	<key>Border</key>
+	<string>Border</string>
+	<key>Bottom</key>
+	<string>Bottom</string>
+	<key>Bubble Area</key>
+	<string>Bubble Area</string>
+	<key>Bubble Diameter</key>
+	<string>Bubble Diameter</string>
+	<key>Bubble Label Values</key>
+	<string>Bubble Label Values</string>
+	<key>Bubble Labels</key>
+	<string>Bubble Labels</string>
+	<key>Bubble Options</key>
+	<string>Bubble Options</string>
+	<key>Buttons Only</key>
+	<string>Buttons Only</string>
+	<key>By Element in Series</key>
+	<string>By Element in Series</string>
+	<key>By Element in Set</key>
+	<string>By Element in Set</string>
+	<key>By Series</key>
+	<string>By Series</string>
+	<key>By Set</key>
+	<string>By Set</string>
+	<key>By Wedge</key>
+	<string>By Wedge</string>
+	<key>Cascade</key>
+	<string>Cascade</string>
+	<key>Category Axis</key>
+	<string>Category Axis</string>
+	<key>Category Labels</key>
+	<string>Category Labels</string>
+	<key>Center</key>
+	<string>Center</string>
+	<key>Chart Data</key>
+	<string>Chart Data</string>
+	<key>Chart Font</key>
+	<string>Chart Font</string>
+	<key>Chart Options</key>
+	<string>Chart Options</string>
+	<key>Chart Title</key>
+	<string>Chart Title</string>
+	<key>Chart Type</key>
+	<string>Chart Type</string>
+	<key>Choose whether to share x values.</key>
+	<string>Choose whether to share x values.</string>
+	<key>Circle</key>
+	<string>Circle</string>
+	<key>Column</key>
+	<string>Column</string>
+	<key>Column Shape</key>
+	<string>Column Shape</string>
+	<key>Connection Lines</key>
+	<string>Connection Lines</string>
+	<key>Continuous</key>
+	<string>Continuous</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Cross</key>
+	<string>Cross</string>
+	<key>Curved</key>
+	<string>Curved</string>
+	<key>Cut</key>
+	<string>Cut</string>
+	<key>Cylinder</key>
+	<string>Cylinder</string>
+	<key>Data Set Name</key>
+	<string>Data Set Name</string>
+	<key>Decades</key>
+	<string>Decades</string>
+	<key>Decimals</key>
+	<string>Decimals</string>
+	<key>Default</key>
+	<string>Default</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete Column</key>
+	<string>Delete Column</string>
+	<key>Delete Columns</key>
+	<string>Delete Columns</string>
+	<key>Delete Row</key>
+	<string>Delete Row</string>
+	<key>Delete Rows</key>
+	<string>Delete Rows</string>
+	<key>Depth</key>
+	<string>Depth</string>
+	<key>Diamond</key>
+	<string>Diamond</string>
+	<key>Don't Share X Values</key>
+	<string>Don't Share X Values</string>
+	<key>Edit Chart Data</key>
+	<string>Edit Chart Data</string>
+	<key>Edit Chart Data…</key>
+	<string>Edit Chart Data…</string>
+	<key>Edit Data</key>
+	<string>Edit Data</string>
+	<key>Edit Data References</key>
+	<string>Edit Data References</string>
+	<key>Edit References</key>
+	<string>Edit References</string>
+	<key>Glossy</key>
+	<string>Glossy</string>
+	<key>Gridlines</key>
+	<string>Gridlines</string>
+	<key>Hide Borders</key>
+	<string>Hide Borders</string>
+	<key>Hide Chart Data Editor</key>
+	<string>Hide Chart Data Editor</string>
+	<key>Hide Legend</key>
+	<string>Hide Legend</string>
+	<key>Hide Series Names</key>
+	<string>Hide Series Names</string>
+	<key>Hide Series Value Labels</key>
+	<string>Hide Series Value Labels</string>
+	<key>Hide Title</key>
+	<string>Hide Title</string>
+	<key>Hide X Axis Labels</key>
+	<string>Hide X Axis Labels</string>
+	<key>Hide X Axis Name</key>
+	<string>Hide X Axis Name</string>
+	<key>Hide Y Axis 2 Labels</key>
+	<string>Hide Y Axis 2 Labels</string>
+	<key>Hide Y Axis 2 Name</key>
+	<string>Hide Y Axis 2 Name</string>
+	<key>Hide Y Axis Labels</key>
+	<string>Hide Y Axis Labels</string>
+	<key>Hide Y Axis Name</key>
+	<string>Hide Y Axis Name</string>
+	<key>Horizontal</key>
+	<string>Horizontal</string>
+	<key>IPad Chart</key>
+	<string>Chart</string>
+	<key>IPhone Chart</key>
+	<string>Chart</string>
+	<key>Insert</key>
+	<string>Insert</string>
+	<key>Insert Column After</key>
+	<string>Insert Column After</string>
+	<key>Insert Column Before</key>
+	<string>Insert Column Before</string>
+	<key>Insert Columns After</key>
+	<string>Insert Columns After</string>
+	<key>Insert Columns Before</key>
+	<string>Insert Columns Before</string>
+	<key>Insert Row Above</key>
+	<string>Insert Row Above</string>
+	<key>Insert Row Below</key>
+	<string>Insert Row Below</string>
+	<key>Insert Rows Above</key>
+	<string>Insert Rows Above</string>
+	<key>Insert Rows Below</key>
+	<string>Insert Rows Below</string>
+	<key>Inside</key>
+	<string>Inside</string>
+	<key>Interactive Bar</key>
+	<string>Interactive Bar</string>
+	<key>Interactive Bubble</key>
+	<string>Interactive Bubble</string>
+	<key>Interactive Chart</key>
+	<string>Interactive Chart</string>
+	<key>Interactive Charts</key>
+	<string>Interactive Charts</string>
+	<key>Interactive Column</key>
+	<string>Interactive Column</string>
+	<key>Interactive Scatter</key>
+	<string>Interactive Scatter</string>
+	<key>Inverted Triangle</key>
+	<string>Inverted Triangle</string>
+	<key>Label Angle</key>
+	<string>Label Angle</string>
+	<key>Label Location</key>
+	<string>Label Location</string>
+	<key>Label Types</key>
+	<string>Label Types</string>
+	<key>Labels</key>
+	<string>Labels</string>
+	<key>Larger</key>
+	<string>Larger</string>
+	<key>Left</key>
+	<string>Left</string>
+	<key>Left Diagonal</key>
+	<string>Left Diagonal</string>
+	<key>Left Vertical</key>
+	<string>Left Vertical</string>
+	<key>Left Y Axis</key>
+	<string>Left Y Axis</string>
+	<key>Legend</key>
+	<string>Legend</string>
+	<key>Legend: %@</key>
+	<string>Legend: %@</string>
+	<key>Line</key>
+	<string>Line</string>
+	<key>Line Type</key>
+	<string>Line Type</string>
+	<key>Linear</key>
+	<string>Linear</string>
+	<key>Location</key>
+	<string>Location</string>
+	<key>Log</key>
+	<string>Log</string>
+	<key>Major Gridlines</key>
+	<string>Major Gridlines</string>
+	<key>Major Steps</key>
+	<string>Major Steps</string>
+	<key>Major Tick Marks</key>
+	<string>Major Tick Marks</string>
+	<key>Maximum Value</key>
+	<string>Maximum Value</string>
+	<key>Medium Center</key>
+	<string>Medium Center</string>
+	<key>Medium Left</key>
+	<string>Medium Left</string>
+	<key>Medium Right</key>
+	<string>Medium Right</string>
+	<key>Middle</key>
+	<string>Middle</string>
+	<key>Minimum Value</key>
+	<string>Minimum Value</string>
+	<key>Minor Gridlines</key>
+	<string>Minor Gridlines</string>
+	<key>Minor Steps</key>
+	<string>Minor Steps</string>
+	<key>Minor Tick Marks</key>
+	<string>Minor Tick Marks</string>
+	<key>Mixed</key>
+	<string>Mixed</string>
+	<key>Negative Bubbles</key>
+	<string>Negative Bubbles</string>
+	<key>Negative Format</key>
+	<string>Negative Format</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Number Format</key>
+	<string>Number Format</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>On</key>
+	<string>On</string>
+	<key>Only visible series styles (%@)</key>
+	<string>Only visible series styles (%@)</string>
+	<key>Outside</key>
+	<string>Outside</string>
+	<key>Paste</key>
+	<string>Paste</string>
+	<key>Percent</key>
+	<string>Percent</string>
+	<key>Pie</key>
+	<string>Pie</string>
+	<key>Plot Columns as Series</key>
+	<string>Plot Columns as Series</string>
+	<key>Plot Rows as Series</key>
+	<string>Plot Rows as Series</string>
+	<key>Plot columns as series.</key>
+	<string>Plot columns as series.</string>
+	<key>Plot rows as series.</key>
+	<string>Plot rows as series.</string>
+	<key>Plus</key>
+	<string>Plus</string>
+	<key>Prefix:</key>
+	<string>Prefix:</string>
+	<key>Rectangle</key>
+	<string>Rectangle</string>
+	<key>Represent Size Values Using</key>
+	<string>Represent Size Values Using</string>
+	<key>Right</key>
+	<string>Right</string>
+	<key>Right Diagonal</key>
+	<string>Right Diagonal</string>
+	<key>Right Vertical</key>
+	<string>Right Vertical</string>
+	<key>Right Y Axis</key>
+	<string>Right Y Axis</string>
+	<key>R² is undefined.</key>
+	<string>R² is undefined.</string>
+	<key>Same as Source</key>
+	<string>Same as Source</string>
+	<key>Scatter</key>
+	<string>Scatter</string>
+	<key>Select All</key>
+	<string>Select All</string>
+	<key>Select cells in any table to add data to this chart.</key>
+	<string>Select cells in any table to add data to this chart.</string>
+	<key>Separator</key>
+	<string>Separator</string>
+	<key>Series</key>
+	<string>Series</string>
+	<key>Series Names</key>
+	<string>Series Names</string>
+	<key>Series Options</key>
+	<string>Series Options</string>
+	<key>Series Type</key>
+	<string>Series Type</string>
+	<key>Share X Values</key>
+	<string>Share X Values</string>
+	<key>Show Borders</key>
+	<string>Show Borders</string>
+	<key>Show Chart Data Editor</key>
+	<string>Show Chart Data Editor</string>
+	<key>Show Hidden Data</key>
+	<string>Show Hidden Data</string>
+	<key>Show Legend</key>
+	<string>Show Legend</string>
+	<key>Show Series Names</key>
+	<string>Show Series Names</string>
+	<key>Show Series Value Labels</key>
+	<string>Show Series Value Labels</string>
+	<key>Show Title</key>
+	<string>Show Title</string>
+	<key>Show X Axis Labels</key>
+	<string>Show X Axis Labels</string>
+	<key>Show X Axis Name</key>
+	<string>Show X Axis Name</string>
+	<key>Show Y Axis 2 Labels</key>
+	<string>Show Y Axis 2 Labels</string>
+	<key>Show Y Axis 2 Name</key>
+	<string>Show Y Axis 2 Name</string>
+	<key>Show Y Axis Labels</key>
+	<string>Show Y Axis Labels</string>
+	<key>Show Y Axis Name</key>
+	<string>Show Y Axis Name</string>
+	<key>Show as Percent</key>
+	<string>Show as Percent</string>
+	<key>Show data sets as builds</key>
+	<string>Show data sets as builds</string>
+	<key>Size</key>
+	<string>Size</string>
+	<key>Slider and Buttons</key>
+	<string>Slider and Buttons</string>
+	<key>Smaller</key>
+	<string>Smaller</string>
+	<key>Soft Fill</key>
+	<string>Soft Fill</string>
+	<key>Soft Light</key>
+	<string>Soft Light</string>
+	<key>Square</key>
+	<string>Square</string>
+	<key>Stacked Area</key>
+	<string>Stacked Area</string>
+	<key>Stacked Bar</key>
+	<string>Stacked Bar</string>
+	<key>Stacked Column</key>
+	<string>Stacked Column</string>
+	<key>Steps</key>
+	<string>Steps</string>
+	<key>Straight</key>
+	<string>Straight</string>
+	<key>Suffix:</key>
+	<string>Suffix:</string>
+	<key>Symbol Type</key>
+	<string>Symbol Type</string>
+	<key>TSCHChartAxis%dInfoPanel</key>
+	<string>TSCHChartAxis%dInfoPanel</string>
+	<key>Tap to add data to this chart.</key>
+	<string>Tap to add data to this chart.</string>
+	<key>The %@ app was closed while printing. To print 3D charts, the app must be open.</key>
+	<string>The %@ app was closed while printing. To print 3D charts, the app must be open.</string>
+	<key>Title</key>
+	<string>Title</string>
+	<key>Top</key>
+	<string>Top</string>
+	<key>Trend %lu</key>
+	<string>Trend %lu</string>
+	<key>Triangle</key>
+	<string>Triangle</string>
+	<key>Untitled %ld</key>
+	<string>Untitled %ld</string>
+	<key>Value Axis</key>
+	<string>Value Axis</string>
+	<key>Value Labels</key>
+	<string>Value Labels</string>
+	<key>Value Scale</key>
+	<string>Value Scale</string>
+	<key>Value Scale Settings</key>
+	<string>Value Scale Settings</string>
+	<key>Values</key>
+	<string>Values</string>
+	<key>Wedge Labels</key>
+	<string>Wedge Labels</string>
+	<key>Wedge Position: %lu%%</key>
+	<string>Wedge Position: %lu%%</string>
+	<key>X</key>
+	<string>X</string>
+	<key>X Axis</key>
+	<string>X Axis</string>
+	<key>X Value</key>
+	<string>X Value</string>
+	<key>X and Y Values</key>
+	<string>X and Y Values</string>
+	<key>Y</key>
+	<string>Y</string>
+	<key>Y Axis</key>
+	<string>Y Axis</string>
+	<key>Y Value</key>
+	<string>Y Value</string>
+	<key>\U00B0</key>
+	<string>°</string>
+</dict>
+</plist>

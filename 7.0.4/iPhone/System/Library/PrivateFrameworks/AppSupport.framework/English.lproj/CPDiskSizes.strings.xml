@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%.0fEB</key>
+	<string>%@EB</string>
+	<key>%.0fGB</key>
+	<string>%@GB</string>
+	<key>%.0fKB</key>
+	<string>%@KB</string>
+	<key>%.0fMB</key>
+	<string>%@MB</string>
+	<key>%.0fPB</key>
+	<string>%@PB</string>
+	<key>%.0fTB</key>
+	<string>%@TB</string>
+	<key>%.1fEB</key>
+	<string>%@ EB</string>
+	<key>%.1fGB</key>
+	<string>%@ GB</string>
+	<key>%.1fKB</key>
+	<string>%@ KB</string>
+	<key>%.1fMB</key>
+	<string>%@ MB</string>
+	<key>%.1fPB</key>
+	<string>%@ PB</string>
+	<key>%.1fTB</key>
+	<string>%@ TB</string>
+	<key>%@ of %@</key>
+	<string>%@ of %@</string>
+	<key>%d bytes</key>
+	<string>%@ bytes</string>
+	<key>%dEB</key>
+	<string>%@EB</string>
+	<key>%dGB</key>
+	<string>%@ GB</string>
+	<key>%dKB</key>
+	<string>%@ KB</string>
+	<key>%dMB</key>
+	<string>%@ MB</string>
+	<key>%dPB</key>
+	<string>%@PB</string>
+	<key>%dTB</key>
+	<string>%@TB</string>
+	<key>0 bytes</key>
+	<string>0 bytes</string>
+	<key>1 byte</key>
+	<string>1 byte</string>
+</dict>
+</plist>

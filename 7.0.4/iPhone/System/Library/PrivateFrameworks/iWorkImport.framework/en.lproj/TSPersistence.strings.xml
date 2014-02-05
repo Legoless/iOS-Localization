@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>An error occurred while reading the document.</key>
+	<string>An error occurred while reading the document.</string>
+	<key>Can't open document without password.</key>
+	<string>Can't open document without password.</string>
+	<key>Couldn't auto-save document.</key>
+	<string>Couldn't auto-save document.</string>
+	<key>Encountered a critical error.</key>
+	<string>Encountered a critical error.</string>
+	<key>The disk is full. Free up some space, then return to your presentation. Your most recent changes might be lost.</key>
+	<string>The disk is full. Free up some space, then return to your presentation. Your most recent changes might be lost.</string>
+	<key>The document was created with an unsupported old application version</key>
+	<string>The document was created with an unsupported old application version</string>
+	<key>This document is corrupt.</key>
+	<string>This document is corrupt.</string>
+	<key>To open this document, download the latest version of the app from the App Store.</key>
+	<string>To open this document, download the latest version of the app from the App Store.</string>
+	<key>Your most recent changes might be lost.</key>
+	<string>Your most recent changes might be lost.</string>
+</dict>
+</plist>

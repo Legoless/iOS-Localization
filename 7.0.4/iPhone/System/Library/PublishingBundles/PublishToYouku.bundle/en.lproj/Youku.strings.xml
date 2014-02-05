@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>INVALID_TAG_FORMAT</key>
+	<string>%@ is Not a Valid Tag</string>
+	<key>PASSWORD_PROTECTED</key>
+	<string>Password Protected</string>
+	<key>PASSWORD_PROTECTED_DESCRIPTION</key>
+	<string>Only users with a password can view</string>
+	<key>PROTECTED</key>
+	<string>Protected</string>
+	<key>PROTECTED_DESCRIPTION</key>
+	<string>Only friends can view</string>
+	<key>PUBLIC</key>
+	<string>Public</string>
+	<key>PUBLIC_DESCRIPTION</key>
+	<string>Anyone can search for and view</string>
+	<key>TAGS_REQUIRED</key>
+	<string>Tags are required to publish to Youku.</string>
+	<key>TAG_TOO_LONG</key>
+	<string>Tags must not be longer than 12 letters.</string>
+	<key>TAG_TOO_LONG_CHINESE</key>
+	<string>Tags must not be longer than six Chinese characters.</string>
+	<key>TAG_TOO_SHORT</key>
+	<string>Tags must be more than one character in length.</string>
+	<key>TERMS_OF_USE_BLURB</key>
+	<string>By tapping “Publish”, you represent that you own all copyright in this content, have authorization or are otherwise legally permitted to upload it and that it does not violate Youku's Terms of Use.</string>
+	<key>TITLE_REQUIRED</key>
+	<string>A title is required to publish to Youku.</string>
+	<key>YOUKU</key>
+	<string>Youku</string>
+	<key>YOUKU_PASSWORD</key>
+	<string>Youku Password</string>
+</dict>
+</plist>

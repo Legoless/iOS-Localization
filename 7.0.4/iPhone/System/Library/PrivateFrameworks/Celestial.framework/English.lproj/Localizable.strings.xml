@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ErrorCode:-12660</key>
+	<string>You are not authorized to open this file.</string>
+	<key>ErrorCode:-12661</key>
+	<string>The file is not available.</string>
+	<key>ErrorCode:-12714</key>
+	<string>This movie is damaged and cannot be played.</string>
+	<key>ErrorCode:-12792</key>
+	<string>Server is not responding.</string>
+	<key>ErrorCode:-12845</key>
+	<string>This movie format is not supported.</string>
+	<key>ErrorCode:-12846</key>
+	<string>Movie could not be played. Try again.</string>
+	<key>ErrorCode:-12847</key>
+	<string>This movie format is not supported.</string>
+	<key>ErrorCode:-12848</key>
+	<string>Movie could not be played.</string>
+	<key>ErrorCode:-12849</key>
+	<string>Movie could not be played.</string>
+	<key>ErrorCode:-12873</key>
+	<string>Error during playback.</string>
+	<key>ErrorCode:-12875</key>
+	<string>Server is not responding.</string>
+	<key>ErrorCode:-12906</key>
+	<string>This movie format is not supported.</string>
+	<key>ErrorCode:-12909</key>
+	<string>This movie is damaged and cannot be played.</string>
+	<key>ErrorCode:-12910</key>
+	<string>This movie format is not supported.</string>
+	<key>ErrorCode:-12911</key>
+	<string>This movie cannot be played.</string>
+	<key>ErrorCode:-12937</key>
+	<string>You are not authorized to open this file.</string>
+	<key>ErrorCode:-12938</key>
+	<string>The file could not be found.</string>
+	<key>ErrorCode:-12939</key>
+	<string>The server is not correctly configured.</string>
+	<key>ErrorCode:-12950</key>
+	<string>Movie could not be played.</string>
+	<key>ErrorCode:-12951</key>
+	<string>Movie could not be played. Try again.</string>
+	<key>ErrorCode:-12952</key>
+	<string>Movie could not be played.</string>
+	<key>ErrorCode:-12953</key>
+	<string>Movie could not be played. Try again.</string>
+	<key>ErrorCode:-12954</key>
+	<string>Movie could not be played. Try again.</string>
+	<key>ErrorCode:-12955</key>
+	<string>Video profile is not supported.</string>
+	<key>ErrorCode:-12957</key>
+	<string>Video codec is not supported.</string>
+	<key>ErrorCode:-12960</key>
+	<string>Audio codec is not supported.</string>
+	<key>ErrorCode:-12961</key>
+	<string>Audio sample rate is not supported.</string>
+	<key>ErrorCode:-12962</key>
+	<string>Number of audio channels is not supported.</string>
+	<key>Movie could not be played. %d</key>
+	<string>This movie could not be played.</string>
+</dict>
+</plist>

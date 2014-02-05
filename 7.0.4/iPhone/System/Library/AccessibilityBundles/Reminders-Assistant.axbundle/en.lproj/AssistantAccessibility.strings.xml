@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reminder.count.plural</key>
+	<string>%@ reminders</string>
+	<key>reminder.count.singular</key>
+	<string>%@ reminder</string>
+	<key>reminder.status.complete</key>
+	<string>completed</string>
+	<key>reminder.status.notcomplete</key>
+	<string>not completed</string>
+</dict>
+</plist>

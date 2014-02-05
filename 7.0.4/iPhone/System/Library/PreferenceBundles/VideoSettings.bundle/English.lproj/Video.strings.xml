@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOME_SHARING</key>
+	<string>Home Sharing</string>
+	<key>HOME_SHARING_APPLE_ID</key>
+	<string>Apple ID</string>
+	<key>HOME_SHARING_APPLE_ID_BUTTON</key>
+	<string>Apple ID:</string>
+	<key>HOME_SHARING_APPLE_ID_PLACEHOLDER</key>
+	<string>example@icloud.com</string>
+	<key>HOME_SHARING_CANCEL</key>
+	<string>Cancel</string>
+	<key>HOME_SHARING_ERROR_TITLE</key>
+	<string>Unable to turn on Home Sharing</string>
+	<key>HOME_SHARING_FOOTER</key>
+	<string>An Apple ID is required to use Home Sharing.</string>
+	<key>HOME_SHARING_PASSWORD</key>
+	<string>Password</string>
+	<key>HOME_SHARING_PASSWORD_PLACEHOLDER</key>
+	<string>Required</string>
+	<key>HOME_SHARING_SIGN_OUT</key>
+	<string>Sign Out</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>SHOW_ALL_VIDEOS</key>
+	<string>Show All Videos</string>
+	<key>SHOW_ALL_VIDEOS_OFF_FOOTER</key>
+	<string>Only videos that have been downloaded to this device will be shown.</string>
+	<key>SHOW_ALL_VIDEOS_ON_FOOTER_IPAD</key>
+	<string>All videos that have been downloaded or that are stored in iCloud will be shown.</string>
+	<key>SHOW_ALL_VIDEOS_ON_FOOTER_IPHONE</key>
+	<string>All videos that have been downloaded or that are stored in iCloud will be shown.</string>
+	<key>SHOW_PURCHASES</key>
+	<string>Show Purchases</string>
+	<key>START_BEGINNING</key>
+	<string>From Beginning</string>
+	<key>START_LAST_PLAYED</key>
+	<string>Where Left Off</string>
+	<key>START_PLAYING</key>
+	<string>Start Playing</string>
+</dict>
+</plist>

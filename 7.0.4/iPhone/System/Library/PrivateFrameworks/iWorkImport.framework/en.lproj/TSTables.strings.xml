@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> </key>
+	<string> </string>
+	<key>"</key>
+	<string>"</string>
+	<key>%d other filters applied</key>
+	<string>%d other filters applied</string>
+	<key>+</key>
+	<string>+</string>
+	<key>-</key>
+	<string>-</string>
+	<key>1 other filter applied</key>
+	<string>1 other filter applied</string>
+	<key>1st Quarter</key>
+	<string>1st Quarter</string>
+	<key>2nd Quarter</key>
+	<string>2nd Quarter</string>
+	<key>3rd Quarter</key>
+	<string>3rd Quarter</string>
+	<key>4th Quarter</key>
+	<string>4th Quarter</string>
+	<key>Above average</key>
+	<string>Above average</string>
+	<key>Accounting Style</key>
+	<string>Accounting Style</string>
+	<key>Add Column After</key>
+	<string>Add Column After</string>
+	<key>Add Column Before</key>
+	<string>Add Column Before</string>
+	<key>Add Columns After</key>
+	<string>Add Columns After</string>
+	<key>Add Columns Before</key>
+	<string>Add Columns Before</string>
+	<key>Add Filter Rule</key>
+	<string>Add Filter Rule</string>
+	<key>Add Footer Row Above</key>
+	<string>Add Footer Row Above</string>
+	<key>Add Footer Row Below</key>
+	<string>Add Footer Row Below</string>
+	<key>Add Footer Rows Above</key>
+	<string>Add Footer Rows Above</string>
+	<key>Add Footer Rows Below</key>
+	<string>Add Footer Rows Below</string>
+	<key>Add Header Column After</key>
+	<string>Add Header Column After</string>
+	<key>Add Header Column Before</key>
+	<string>Add Header Column Before</string>
+	<key>Add Header Columns After</key>
+	<string>Add Header Columns After</string>
+	<key>Add Header Columns Before</key>
+	<string>Add Header Columns Before</string>
+	<key>Add Header Row Above</key>
+	<string>Add Header Row Above</string>
+	<key>Add Header Row Below</key>
+	<string>Add Header Row Below</string>
+	<key>Add Header Rows Above</key>
+	<string>Add Header Rows Above</string>
+	<key>Add Header Rows Below</key>
+	<string>Add Header Rows Below</string>
+	<key>Add Row Above</key>
+	<string>Add Row Above</string>
+	<key>Add Row Below</key>
+	<string>Add Row Below</string>
+	<key>Add Rows Above</key>
+	<string>Add Rows Above</string>
+	<key>Add Rows Below</key>
+	<string>Add Rows Below</string>
+	<key>Address Settings</key>
+	<string>Address Settings</string>
+	<key>Align Objects</key>
+	<string>Align Objects</string>
+	<key>All</key>
+	<string>All</string>
+	<key>All at Once</key>
+	<string>All at Once</string>
+	<key>Alternating Rows</key>
+	<string>Alternating Rows</string>
+	<key>Apply Cell Comment</key>
+	<string>Apply Cell Comment</string>
+	<key>Apply Conditional Styles</key>
+	<string>Apply Conditional Styles</string>
+	<key>Apply Theme to Table</key>
+	<string>Apply Theme to Table</string>
+	<key>Auto</key>
+	<string>Auto</string>
+	<key>Automatic</key>
+	<string>Automatic</string>
+	<key>Automatic Units</key>
+	<string>Automatic Units</string>
+	<key>Below average</key>
+	<string>Below average</string>
+	<key>Between</key>
+	<string>Between</string>
+	<key>Between %@ and %@</key>
+	<string>Between %1$@ and %2$@</string>
+	<key>Blank</key>
+	<string>Blank</string>
+	<key>Body</key>
+	<string>Body</string>
+	<key>Border</key>
+	<string>Border</string>
+	<key>Border Style</key>
+	<string>Border Style</string>
+	<key>Bottom</key>
+	<string>Bottom</string>
+	<key>Bring to Front</key>
+	<string>Bring to Front</string>
+	<key>By Cell</key>
+	<string>By Cell</string>
+	<key>By Cell Content</key>
+	<string>By Cell Content</string>
+	<key>By Cell Content Reverse</key>
+	<string>By Cell Content Reverse</string>
+	<key>By Cell Reverse</key>
+	<string>By Cell Reverse</string>
+	<key>By Column</key>
+	<string>By Column</string>
+	<key>By Column Content</key>
+	<string>By Column Content</string>
+	<key>By Column Content Reverse</key>
+	<string>By Column Content Reverse</string>
+	<key>By Column Reverse</key>
+	<string>By Column Reverse</string>
+	<key>By Row</key>
+	<string>By Row</string>
+	<key>By Row Content</key>
+	<string>By Row Content</string>
+	<key>By Row Content Reverse</key>
+	<string>By Row Content Reverse</string>
+	<key>By Row Reverse</key>
+	<string>By Row Reverse</string>
+	<key>Categories</key>
+	<string>Categories</string>
+	<key>Cell</key>
+	<string>Cell</string>
+	<key>Cell is blank</key>
+	<string>Cell is blank</string>
+	<key>Cell is not blank</key>
+	<string>Cell is not blank</string>
+	<key>Center</key>
+	<string>Center</string>
+	<key>Change Freeze Header State</key>
+	<string>Change Freeze Header State</string>
+	<key>Change Table Style Network</key>
+	<string>Change Table Style Network</string>
+	<key>Chart</key>
+	<string>Chart</string>
+	<key>Checkbox</key>
+	<string>Checkbox</string>
+	<key>Clear All</key>
+	<string>Clear All</string>
+	<key>Coerce Multiple Cells</key>
+	<string>Coerce Multiple Cells</string>
+	<key>Color</key>
+	<string>Color</string>
+	<key>Comment</key>
+	<string>Comment</string>
+	<key>Contains</key>
+	<string>Contains</string>
+	<key>Contains "%@"</key>
+	<string>Contains "%@"</string>
+	<key>Convert Formula to Text</key>
+	<string>Convert Formula to Text</string>
+	<key>Convert Function to Text</key>
+	<string>Convert Function to Text</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Create Chart</key>
+	<string>Create Chart</string>
+	<key>Currency</key>
+	<string>Currency</string>
+	<key>Currency Symbol</key>
+	<string>Currency Symbol</string>
+	<key>Custom</key>
+	<string>Custom</string>
+	<key>Custom Format</key>
+	<string>Custom Format</string>
+	<key>Cut</key>
+	<string>Cut</string>
+	<key>Date</key>
+	<string>Date</string>
+	<key>Date &amp; Time</key>
+	<string>Date &amp; Time</string>
+	<key>Date &amp; Time Options</key>
+	<string>Date &amp; Time Options</string>
+	<key>Date is %@</key>
+	<string>Date is %@</string>
+	<key>Date is after %@ days ago</key>
+	<string>Date is after %@ days ago</string>
+	<key>Date is after %@ days from now</key>
+	<string>Date is after %@ days from now</string>
+	<key>Date is after %@ months ago</key>
+	<string>Date is after %@ months ago</string>
+	<key>Date is after %@ months from now</key>
+	<string>Date is after %@ months from now</string>
+	<key>Date is after %@ quarters ago</key>
+	<string>Date is after %@ quarters ago</string>
+	<key>Date is after %@ quarters from now</key>
+	<string>Date is after %@ quarters from now</string>
+	<key>Date is after %@ weeks ago</key>
+	<string>Date is after %@ weeks ago</string>
+	<key>Date is after %@ weeks from now</key>
+	<string>Date is after %@ weeks from now</string>
+	<key>Date is after %@ years ago</key>
+	<string>Date is after %@ years ago</string>
+	<key>Date is after %@ years from now</key>
+	<string>Date is after %@ years from now</string>
+	<key>Date is after one day ago</key>
+	<string>Date is after one day ago</string>
+	<key>Date is after one day from now</key>
+	<string>Date is after one day from now</string>
+	<key>Date is after one month ago</key>
+	<string>Date is after one month ago</string>
+	<key>Date is after one month from now</key>
+	<string>Date is after one month from now</string>
+	<key>Date is after one quarter ago</key>
+	<string>Date is after one quarter ago</string>
+	<key>Date is after one quarter from now</key>
+	<string>Date is after one quarter from now</string>
+	<key>Date is after one week ago</key>
+	<string>Date is after one week ago</string>
+	<key>Date is after one week from now</key>
+	<string>Date is after one week from now</string>
+	<key>Date is after one year ago</key>
+	<string>Date is after one year ago</string>
+	<key>Date is after one year from now</key>
+	<string>Date is after one year from now</string>
+	<key>Date is before %@ days ago</key>
+	<string>Date is before %@ days ago</string>
+	<key>Date is before %@ days from now</key>
+	<string>Date is before %@ days from now</string>
+	<key>Date is before %@ months ago</key>
+	<string>Date is before %@ months ago</string>
+	<key>Date is before %@ months from now</key>
+	<string>Date is before %@ months from now</string>
+	<key>Date is before %@ quarters ago</key>
+	<string>Date is before %@ quarters ago</string>
+	<key>Date is before %@ quarters from now</key>
+	<string>Date is before %@ quarters from now</string>
+	<key>Date is before %@ weeks ago</key>
+	<string>Date is before %@ weeks ago</string>
+	<key>Date is before %@ weeks from now</key>
+	<string>Date is before %@ weeks from now</string>
+	<key>Date is before %@ years ago</key>
+	<string>Date is before %@ years ago</string>
+	<key>Date is before %@ years from now</key>
+	<string>Date is before %@ years from now</string>
+	<key>Date is before one day ago</key>
+	<string>Date is before one day ago</string>
+	<key>Date is before one day from now</key>
+	<string>Date is before one day from now</string>
+	<key>Date is before one month ago</key>
+	<string>Date is before one month ago</string>
+	<key>Date is before one month from now</key>
+	<string>Date is before one month from now</string>
+	<key>Date is before one quarter ago</key>
+	<string>Date is before one quarter ago</string>
+	<key>Date is before one quarter from now</key>
+	<string>Date is before one quarter from now</string>
+	<key>Date is before one week ago</key>
+	<string>Date is before one week ago</string>
+	<key>Date is before one week from now</key>
+	<string>Date is before one week from now</string>
+	<key>Date is before one year ago</key>
+	<string>Date is before one year ago</string>
+	<key>Date is before one year from now</key>
+	<string>Date is before one year from now</string>
+	<key>Date is between %@ and %@ days ago</key>
+	<string>Date is between %1$@ and %2$@ days ago</string>
+	<key>Date is between %@ and %@ days from now</key>
+	<string>Date is between %1$@ and %2$@ days from now</string>
+	<key>Date is between %@ and %@ months ago</key>
+	<string>Date is between %1$@ and %2$@ months ago</string>
+	<key>Date is between %@ and %@ months from now</key>
+	<string>Date is between %1$@ and %2$@ months from now</string>
+	<key>Date is between %@ and %@ quarters ago</key>
+	<string>Date is between %1$@ and %2$@ quarters ago</string>
+	<key>Date is between %@ and %@ quarters from now</key>
+	<string>Date is between %1$@ and %2$@ quarters from now</string>
+	<key>Date is between %@ and %@ weeks ago</key>
+	<string>Date is between %1$@ and %2$@ weeks ago</string>
+	<key>Date is between %@ and %@ weeks from now</key>
+	<string>Date is between %1$@ and %2$@ weeks from now</string>
+	<key>Date is between %@ and %@ years ago</key>
+	<string>Date is between %1$@ and %2$@ years ago</string>
+	<key>Date is between %@ and %@ years from now</key>
+	<string>Date is between %1$@ and %2$@ years from now</string>
+	<key>Date is exactly %@ days ago</key>
+	<string>Date is exactly %@ days ago</string>
+	<key>Date is exactly %@ days from now</key>
+	<string>Date is exactly %@ days from now</string>
+	<key>Date is exactly %@ months ago</key>
+	<string>Date is exactly %@ months ago</string>
+	<key>Date is exactly %@ months from now</key>
+	<string>Date is exactly %@ months from now</string>
+	<key>Date is exactly %@ quarters ago</key>
+	<string>Date is exactly %@ quarters ago</string>
+	<key>Date is exactly %@ quarters from now</key>
+	<string>Date is exactly %@ quarters from now</string>
+	<key>Date is exactly %@ weeks ago</key>
+	<string>Date is exactly %@ weeks ago</string>
+	<key>Date is exactly %@ weeks from now</key>
+	<string>Date is exactly %@ weeks from now</string>
+	<key>Date is exactly %@ years ago</key>
+	<string>Date is exactly %@ years ago</string>
+	<key>Date is exactly %@ years from now</key>
+	<string>Date is exactly %@ years from now</string>
+	<key>Date is exactly one day ago</key>
+	<string>Date is exactly one day ago</string>
+	<key>Date is exactly one day from now</key>
+	<string>Date is exactly one day from now</string>
+	<key>Date is exactly one month ago</key>
+	<string>Date is exactly one month ago</string>
+	<key>Date is exactly one month from now</key>
+	<string>Date is exactly one month from now</string>
+	<key>Date is exactly one quarter ago</key>
+	<string>Date is exactly one quarter ago</string>
+	<key>Date is exactly one quarter from now</key>
+	<string>Date is exactly one quarter from now</string>
+	<key>Date is exactly one week ago</key>
+	<string>Date is exactly one week ago</string>
+	<key>Date is exactly one week from now</key>
+	<string>Date is exactly one week from now</string>
+	<key>Date is exactly one year ago</key>
+	<string>Date is exactly one year ago</string>
+	<key>Date is exactly one year from now</key>
+	<string>Date is exactly one year from now</string>
+	<key>Date is in the last %@ days</key>
+	<string>Date is in the last %@ days</string>
+	<key>Date is in the last %@ months</key>
+	<string>Date is in the last %@ months</string>
+	<key>Date is in the last %@ quarters</key>
+	<string>Date is in the last %@ quarters</string>
+	<key>Date is in the last %@ weeks</key>
+	<string>Date is in the last %@ weeks</string>
+	<key>Date is in the last %@ years</key>
+	<string>Date is in the last %@ years</string>
+	<key>Date is in the last day</key>
+	<string>Date is in the last day</string>
+	<key>Date is in the last month</key>
+	<string>Date is in the last month</string>
+	<key>Date is in the last quarter</key>
+	<string>Date is in the last quarter</string>
+	<key>Date is in the last week</key>
+	<string>Date is in the last week</string>
+	<key>Date is in the last year</key>
+	<string>Date is in the last year</string>
+	<key>Date is in the next %@ days</key>
+	<string>Date is in the next %@ days</string>
+	<key>Date is in the next %@ months</key>
+	<string>Date is in the next %@ months</string>
+	<key>Date is in the next %@ quarters</key>
+	<string>Date is in the next %@ quarters</string>
+	<key>Date is in the next %@ weeks</key>
+	<string>Date is in the next %@ weeks</string>
+	<key>Date is in the next %@ years</key>
+	<string>Date is in the next %@ years</string>
+	<key>Date is in the next day</key>
+	<string>Date is in the next day</string>
+	<key>Date is in the next month</key>
+	<string>Date is in the next month</string>
+	<key>Date is in the next quarter</key>
+	<string>Date is in the next quarter</string>
+	<key>Date is in the next week</key>
+	<string>Date is in the next week</string>
+	<key>Date is in the next year</key>
+	<string>Date is in the next year</string>
+	<key>Date is in the range %@ to %@</key>
+	<string>Date is in the range %1$@ to %2$@</string>
+	<key>Date is in this day</key>
+	<string>Date is in this day</string>
+	<key>Date is in this month</key>
+	<string>Date is in this month</string>
+	<key>Date is in this quarter</key>
+	<string>Date is in this quarter</string>
+	<key>Date is in this week</key>
+	<string>Date is in this week</string>
+	<key>Date is in this year</key>
+	<string>Date is in this year</string>
+	<key>Date is today</key>
+	<string>Date is today</string>
+	<key>Date is tomorrow</key>
+	<string>Date is tomorrow</string>
+	<key>Date is yesterday</key>
+	<string>Date is yesterday</string>
+	<key>Day</key>
+	<string>Day</string>
+	<key>Decimals</key>
+	<string>Decimals</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete Cells</key>
+	<string>Delete Cells</string>
+	<key>Delete Column</key>
+	<string>Delete Column</string>
+	<key>Delete Columns</key>
+	<string>Delete Columns</string>
+	<key>Delete Row</key>
+	<string>Delete Row</string>
+	<key>Delete Rows</key>
+	<string>Delete Rows</string>
+	<key>Delete Selected Columns</key>
+	<string>Delete Selected Columns</string>
+	<key>Delete Selected Rows</key>
+	<string>Delete Selected Rows</string>
+	<key>Details</key>
+	<string>Details</string>
+	<key>Disabled because the table contains merged cells</key>
+	<string>Disabled because the table contains merged cells</string>
+	<key>Distribute Objects</key>
+	<string>Distribute Objects</string>
+	<key>Does not contain</key>
+	<string>Does not contain</string>
+	<key>Does not contain "%@"</key>
+	<string>Does not contain "%@"</string>
+	<key>Don't Filter Table by "%@"</key>
+	<string>Don't Filter Table by "%@"</string>
+	<key>Don't Filter Table by Selected Cells</key>
+	<string>Don't Filter Table by Selected Cells</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Drag Fill Ellipsis</key>
+	<string>…</string>
+	<key>Duration</key>
+	<string>Duration</string>
+	<key>Duration between %@ and %@</key>
+	<string>Duration between %1$@ and %2$@</string>
+	<key>Duration greater than %@</key>
+	<string>Duration greater than %@</string>
+	<key>Duration greater than or equal to %@</key>
+	<string>Duration greater than or equal to %@</string>
+	<key>Duration is %@</key>
+	<string>Duration is %@</string>
+	<key>Duration is above average</key>
+	<string>Duration is above average</string>
+	<key>Duration is below average</key>
+	<string>Duration is below average</string>
+	<key>Duration is in the bottom %@ %@</key>
+	<string>Duration is in the bottom %1$@ %2$@</string>
+	<key>Duration is in the top %@ %@</key>
+	<string>Duration is in the top %1$@ %2$@</string>
+	<key>Duration is not %@</key>
+	<string>Duration is not %@</string>
+	<key>Duration less than %@</key>
+	<string>Duration less than %@</string>
+	<key>Duration less than or equal to %@</key>
+	<string>Duration less than or equal to %@</string>
+	<key>Duration not between %@ and %@</key>
+	<string>Duration not between %1$@ and %2$@</string>
+	<key>Edit Formula\U2026</key>
+	<string>Edit Formula…</string>
+	<key>Edit Table Filters…</key>
+	<string>Edit Table Filters…</string>
+	<key>Eighths</key>
+	<string>Eighths</string>
+	<key>End</key>
+	<string>End</string>
+	<key>Ends with</key>
+	<string>Ends with</string>
+	<key>Ends with "%@"</key>
+	<string>Ends with "%@"</string>
+	<key>Enter Text:</key>
+	<string>Enter Text:</string>
+	<key>Enter a Date:</key>
+	<string>Enter a Date:</string>
+	<key>Enter a Duration:</key>
+	<string>Enter a Duration:</string>
+	<key>Equal to %@</key>
+	<string>Equal to %@</string>
+	<key>Equals</key>
+	<string>Equals</string>
+	<key>Evenly</key>
+	<string>Evenly</string>
+	<key>FALSE</key>
+	<string>FALSE</string>
+	<key>Fill</key>
+	<string>Fill</string>
+	<key>Fill Cells</key>
+	<string>Fill Cells</string>
+	<key>Fill Color</key>
+	<string>Fill Color</string>
+	<key>Filter Table</key>
+	<string>Filter Table</string>
+	<key>Filter Table by "%@"</key>
+	<string>Filter Table by "%@"</string>
+	<key>Filter Table by Selected Cells</key>
+	<string>Filter Table by Selected Cells</string>
+	<key>Filters</key>
+	<string>Filters</string>
+	<key>First Item</key>
+	<string>First Item</string>
+	<key>First Quarter</key>
+	<string>First Quarter</string>
+	<key>Fit</key>
+	<string>Fit</string>
+	<key>Font</key>
+	<string>Font</string>
+	<key>Footer</key>
+	<string>Footer</string>
+	<key>Footer Row Lines</key>
+	<string>Footer Row Lines</string>
+	<key>Footer Rows</key>
+	<string>Footer Rows</string>
+	<key>Format</key>
+	<string>Format</string>
+	<key>Format Cells</key>
+	<string>Format Cells</string>
+	<key>Formula Ellipsis</key>
+	<string>…</string>
+	<key>Fourth Quarter</key>
+	<string>Fourth Quarter</string>
+	<key>Fraction</key>
+	<string>Fraction</string>
+	<key>Freeze Columns</key>
+	<string>Freeze Columns</string>
+	<key>Freeze Header Columns</key>
+	<string>Freeze Header Columns</string>
+	<key>Freeze Header Rows</key>
+	<string>Freeze Header Rows</string>
+	<key>Freeze Rows</key>
+	<string>Freeze Rows</string>
+	<key>Functions</key>
+	<string>Functions</string>
+	<key>Greater than</key>
+	<string>Greater than</string>
+	<key>Greater than %@</key>
+	<string>Greater than %@</string>
+	<key>Greater than or equal to %@</key>
+	<string>Greater than or equal to %@</string>
+	<key>Greater than or equals</key>
+	<string>Greater than or equals</string>
+	<key>Grid Options</key>
+	<string>Grid Options</string>
+	<key>Halves</key>
+	<string>Halves</string>
+	<key>Header</key>
+	<string>Header</string>
+	<key>Header Column Lines</key>
+	<string>Header Column Lines</string>
+	<key>Header Columns</key>
+	<string>Header Columns</string>
+	<key>Header Row Lines</key>
+	<string>Header Row Lines</string>
+	<key>Header Rows</key>
+	<string>Header Rows</string>
+	<key>Headers</key>
+	<string>Headers</string>
+	<key>Hide</key>
+	<string>Hide</string>
+	<key>Hide %d Columns</key>
+	<string>Hide %d Columns</string>
+	<key>Hide %d Rows</key>
+	<string>Hide %d Rows</string>
+	<key>Hide Column</key>
+	<string>Hide Column</string>
+	<key>Hide Row</key>
+	<string>Hide Row</string>
+	<key>Hide Selected Columns</key>
+	<string>Hide Selected Columns</string>
+	<key>Hide Selected Rows</key>
+	<string>Hide Selected Rows</string>
+	<key>Hide Table Name</key>
+	<string>Hide Table Name</string>
+	<key>Horizontal Lines</key>
+	<string>Horizontal Lines</string>
+	<key>Horizontally</key>
+	<string>Horizontally</string>
+	<key>Hr</key>
+	<string>Hr</string>
+	<key>Hundredths</key>
+	<string>Hundredths</string>
+	<key>IPadCurrency Options</key>
+	<string>Currency Options</string>
+	<key>IPadDuration Options</key>
+	<string>Duration Options</string>
+	<key>IPadNumber Options</key>
+	<string>Number Options</string>
+	<key>IPadPercentage Options</key>
+	<string>Percentage Options</string>
+	<key>IPhoneCurrency Options</key>
+	<string>Currency Options</string>
+	<key>IPhoneDuration Options</key>
+	<string>Duration Options</string>
+	<key>IPhoneNumber Options</key>
+	<string>Number Options</string>
+	<key>IPhonePercentage Options</key>
+	<string>Percentage Options</string>
+	<key>In the bottom %@ %@</key>
+	<string>In the bottom %1$@ %2$@</string>
+	<key>In the top %@ %@</key>
+	<string>In the top %1$@ %2$@</string>
+	<key>Increment</key>
+	<string>Increment</string>
+	<key>Initial Value</key>
+	<string>Initial Value</string>
+	<key>Insert</key>
+	<string>Insert</string>
+	<key>Insert Column</key>
+	<string>Insert Column</string>
+	<key>Insert Columns</key>
+	<string>Insert Columns</string>
+	<key>Insert Row</key>
+	<string>Insert Row</string>
+	<key>Insert Rows</key>
+	<string>Insert Rows</string>
+	<key>Insert…</key>
+	<string>Insert…</string>
+	<key>Is not equal</key>
+	<string>Is not equal</string>
+	<key>Item 1</key>
+	<string>Item 1</string>
+	<key>Item 2</key>
+	<string>Item 2</string>
+	<key>Item 3</key>
+	<string>Item 3</string>
+	<key>Larger</key>
+	<string>Larger</string>
+	<key>Left</key>
+	<string>Left</string>
+	<key>Less than</key>
+	<string>Less than</string>
+	<key>Less than %@</key>
+	<string>Less than %@</string>
+	<key>Less than or equal to %@</key>
+	<string>Less than or equal to %@</string>
+	<key>Less than or equals</key>
+	<string>Less than or equals</string>
+	<key>Long</key>
+	<string>Long</string>
+	<key>Maximum Value</key>
+	<string>Maximum Value</string>
+	<key>Merge</key>
+	<string>Merge</string>
+	<key>Merge All</key>
+	<string>Merge All</string>
+	<key>Merge All Cells</key>
+	<string>Merge All Cells</string>
+	<key>Merge Cells</key>
+	<string>Merge Cells</string>
+	<key>Merge…</key>
+	<string>Merge…</string>
+	<key>Middle</key>
+	<string>Middle</string>
+	<key>Min</key>
+	<string>Min</string>
+	<key>Minimum Value</key>
+	<string>Minimum Value</string>
+	<key>Modify Filter Rule</key>
+	<string>Modify Filter Rule</string>
+	<key>Move Column</key>
+	<string>Move Column</string>
+	<key>Move Columns</key>
+	<string>Move Columns</string>
+	<key>Move Row</key>
+	<string>Move Row</string>
+	<key>Move Rows</key>
+	<string>Move Rows</string>
+	<key>Ms</key>
+	<string>Ms</string>
+	<key>New Body Column</key>
+	<string>New Body Column</string>
+	<key>New Body Row</key>
+	<string>New Body Row</string>
+	<key>New Footer Row</key>
+	<string>New Footer Row</string>
+	<key>New Header Column</key>
+	<string>New Header Column</string>
+	<key>New Header Row</key>
+	<string>New Header Row</string>
+	<key>No rows match the filter conditions.</key>
+	<string>No rows match the filter conditions.</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Not between %@ and %@</key>
+	<string>Not between %1$@ and %2$@</string>
+	<key>Not equal to %@</key>
+	<string>Not equal to %@</string>
+	<key>Number</key>
+	<string>Number</string>
+	<key>Numeral System</key>
+	<string>Numeral System</string>
+	<key>Open Formula Editor</key>
+	<string>Open Formula Editor</string>
+	<key>Outline</key>
+	<string>Outline</string>
+	<key>Outline and Center</key>
+	<string>Outline and Center</string>
+	<key>Outline and Middle</key>
+	<string>Outline and Middle</string>
+	<key>Paste</key>
+	<string>Paste</string>
+	<key>Paste Formulas</key>
+	<string>Paste Formulas</string>
+	<key>Paste Values</key>
+	<string>Paste Values</string>
+	<key>Percentage</key>
+	<string>Percentage</string>
+	<key>Pop-Up Menu</key>
+	<string>Pop-Up Menu</string>
+	<key>Pop-Up Options</key>
+	<string>Pop-Up Options</string>
+	<key>Preserve Column</key>
+	<string>Preserve Column</string>
+	<key>Preserve Row</key>
+	<string>Preserve Row</string>
+	<key>Preserve the original row or column address when pasting or filling cells.</key>
+	<string>Preserve the original row or column address when pasting or filling cells.</string>
+	<key>Q1</key>
+	<string>Q1</string>
+	<key>Q2</key>
+	<string>Q2</string>
+	<key>Q3</key>
+	<string>Q3</string>
+	<key>Q4</key>
+	<string>Q4</string>
+	<key>Quarters</key>
+	<string>Quarters</string>
+	<key>Recent</key>
+	<string>Recent</string>
+	<key>Recent Functions</key>
+	<string>Recent Functions</string>
+	<key>Remove Column</key>
+	<string>Remove Column</string>
+	<key>Remove Columns</key>
+	<string>Remove Columns</string>
+	<key>Remove Filter Rules</key>
+	<string>Remove Filter Rules</string>
+	<key>Remove Row</key>
+	<string>Remove Row</string>
+	<key>Remove Rows</key>
+	<string>Remove Rows</string>
+	<key>Repeat Header Rows on Each Page</key>
+	<string>Repeat Header Rows on Each Page</string>
+	<key>Replace All</key>
+	<string>Replace All</string>
+	<key>Replace Text</key>
+	<string>Replace Text</string>
+	<key>Reset
+to Style</key>
+	<string>Reset
+to Style</string>
+	<key>Resize Column</key>
+	<string>Resize Column</string>
+	<key>Resize Column to Fit Content</key>
+	<string>Resize Column to Fit Content</string>
+	<key>Resize Columns</key>
+	<string>Resize Columns</string>
+	<key>Resize Columns to Fit Content</key>
+	<string>Resize Columns to Fit Content</string>
+	<key>Resize Row</key>
+	<string>Resize Row</string>
+	<key>Resize Row to Fit Content</key>
+	<string>Resize Row to Fit Content</string>
+	<key>Resize Rows</key>
+	<string>Resize Rows</string>
+	<key>Resize Rows to Fit Content</key>
+	<string>Resize Rows to Fit Content</string>
+	<key>Resize Table Name Height</key>
+	<string>Resize Table Name Height</string>
+	<key>Rewrite Filter Formulas For Sort</key>
+	<string>Rewrite Filter Formulas For Sort</string>
+	<key>Rewrite Filter Formulas For Table Resize</key>
+	<string>Rewrite Filter Formulas For Table Resize</string>
+	<key>Rewrite Filter Formulas For Tectonic Shift</key>
+	<string>Rewrite Filter Formulas For Tectonic Shift</string>
+	<key>Rewrite Formulas</key>
+	<string>Rewrite Formulas</string>
+	<key>Rewrite Formulas for cell merge</key>
+	<string>Rewrite Formulas for cell merge</string>
+	<key>Rewrite Formulas for move</key>
+	<string>Rewrite Formulas for move</string>
+	<key>Right</key>
+	<string>Right</string>
+	<key>Row: %u  Column: %u</key>
+	<string>Row: %1$u  Column: %2$u</string>
+	<key>Rows can\U2019t be added when filters are on.</key>
+	<string>Rows can’t be added when filters are on.</string>
+	<key>Scientific</key>
+	<string>Scientific</string>
+	<key>Sec</key>
+	<string>Sec</string>
+	<key>Second Quarter</key>
+	<string>Second Quarter</string>
+	<key>Select</key>
+	<string>Select</string>
+	<key>Select All</key>
+	<string>Select All</string>
+	<key>Send to Back</key>
+	<string>Send to Back</string>
+	<key>Separator</key>
+	<string>Separator</string>
+	<key>Set Automatic Duration Units</key>
+	<string>Set Automatic Duration Units</string>
+	<key>Set Automatic Format</key>
+	<string>Set Automatic Format</string>
+	<key>Set Base</key>
+	<string>Set Base</string>
+	<key>Set Base Places</key>
+	<string>Set Base Places</string>
+	<key>Set Base Use Minus Sign</key>
+	<string>Set Base Use Minus Sign</string>
+	<key>Set Cell</key>
+	<string>Set Cell</string>
+	<key>Set Cell Borders</key>
+	<string>Set Cell Borders</string>
+	<key>Set Control Cell Display Number Format</key>
+	<string>Set Control Cell Display Number Format</string>
+	<key>Set Control Increment</key>
+	<string>Set Control Increment</string>
+	<key>Set Control Maximum</key>
+	<string>Set Control Maximum</string>
+	<key>Set Control Minimum</key>
+	<string>Set Control Minimum</string>
+	<key>Set Currency Code</key>
+	<string>Set Currency Code</string>
+	<key>Set Date or Time Format</key>
+	<string>Set Date or Time Format</string>
+	<key>Set Default Border</key>
+	<string>Set Default Border</string>
+	<key>Set Explicit Format</key>
+	<string>Set Explicit Format</string>
+	<key>Set Filter Set Type</key>
+	<string>Set Filter Set Type</string>
+	<key>Set Filters Enabled</key>
+	<string>Set Filters Enabled</string>
+	<key>Set Fraction Accuracy</key>
+	<string>Set Fraction Accuracy</string>
+	<key>Set Multiple Cells</key>
+	<string>Set Multiple Cells</string>
+	<key>Set Multiple Cells Multiple Choice List</key>
+	<string>Set Multiple Cells Multiple Choice List</string>
+	<key>Set Multiple Choice List Format</key>
+	<string>Set Multiple Choice List Format</string>
+	<key>Set Multiple Choice List Format For Delete Item</key>
+	<string>Set Multiple Choice List Format For Delete Item</string>
+	<key>Set Multiple Choice List Format For Initial Value</key>
+	<string>Set Multiple Choice List Format For Initial Value</string>
+	<key>Set Multiple Choice List Format For Reorder Item</key>
+	<string>Set Multiple Choice List Format For Reorder Item</string>
+	<key>Set Negative Number Style</key>
+	<string>Set Negative Number Style</string>
+	<key>Set Number Of Headers Or Footers</key>
+	<string>Set Number Of Headers Or Footers</string>
+	<key>Set Number of Decimal Places</key>
+	<string>Set Number of Decimal Places</string>
+	<key>Set Repeating Header Mode</key>
+	<string>Set Repeating Header Mode</string>
+	<key>Set Show Thousands Separator</key>
+	<string>Set Show Thousands Separator</string>
+	<key>Set Style Apply Clears All Flag</key>
+	<string>Set Style Apply Clears All Flag</string>
+	<key>Set Table Font</key>
+	<string>Set Table Font</string>
+	<key>Set Table Name</key>
+	<string>Set Table Name</string>
+	<key>Set Table Name Enabled</key>
+	<string>Set Table Name Enabled</string>
+	<key>Set Use Accounting Style</key>
+	<string>Set Use Accounting Style</string>
+	<key>Short</key>
+	<string>Short</string>
+	<key>Show in Function Browser</key>
+	<string>Show in Function Browser</string>
+	<key>Show rows containing:</key>
+	<string>Show rows containing:</string>
+	<key>Sixteenths</key>
+	<string>Sixteenths</string>
+	<key>Slider</key>
+	<string>Slider</string>
+	<key>Slider Options</key>
+	<string>Slider Options</string>
+	<key>Smaller</key>
+	<string>Smaller</string>
+	<key>Sort</key>
+	<string>Sort</string>
+	<key>Sort Ascending</key>
+	<string>Sort Ascending</string>
+	<key>Sort Descending</key>
+	<string>Sort Descending</string>
+	<key>Sort…</key>
+	<string>Sort…</string>
+	<key>Square: %@</key>
+	<string>Square: %@</string>
+	<key>Star Rating</key>
+	<string>Star Rating</string>
+	<key>Start</key>
+	<string>Start</string>
+	<key>Starts with</key>
+	<string>Starts with</string>
+	<key>Starts with "%@"</key>
+	<string>Starts with "%@"</string>
+	<key>Stepper</key>
+	<string>Stepper</string>
+	<key>Stepper Options</key>
+	<string>Stepper Options</string>
+	<key>Style Cells</key>
+	<string>Style Cells</string>
+	<key>Style Table</key>
+	<string>Style Table</string>
+	<key>TRUE</key>
+	<string>TRUE</string>
+	<key>TSTCommandFixStylesInHeadersOrFooters</key>
+	<string>TSTCommandFixStylesInHeadersOrFooters</string>
+	<key>Table</key>
+	<string>Table</string>
+	<key>Table %@</key>
+	<string>Table %@</string>
+	<key>Table Border</key>
+	<string>Table Border</string>
+	<key>Table Font</key>
+	<string>Table Font</string>
+	<key>Table Name</key>
+	<string>Table Name</string>
+	<key>Table Options</key>
+	<string>Table Options</string>
+	<key>Tenths</key>
+	<string>Tenths</string>
+	<key>Text</key>
+	<string>Text</string>
+	<key>Text Is</key>
+	<string>Text Is</string>
+	<key>Text Is Not</key>
+	<string>Text Is Not</string>
+	<key>Text Options</key>
+	<string>Text Options</string>
+	<key>Text Postflight Set Cell</key>
+	<string>Text Postflight Set Cell</string>
+	<key>Text Preflight Insert Cell</key>
+	<string>Text Preflight Insert Cell</string>
+	<key>Text Size</key>
+	<string>Text Size</string>
+	<key>Text is "%@"</key>
+	<string>Text is "%@"</string>
+	<key>Text is not "%@"</key>
+	<string>Text is not "%@"</string>
+	<key>The formula contains a syntax error.</key>
+	<string>The formula contains a syntax error.</string>
+	<key>Third Quarter</key>
+	<string>Third Quarter</string>
+	<key>Time</key>
+	<string>Time</string>
+	<key>To format cells as Pop-Up Menus, select a range with 250 or fewer unique values.</key>
+	<string>To format cells as Pop-Up Menus, select a range with 250 or fewer unique values.</string>
+	<key>Too Many Unique Values</key>
+	<string>Too Many Unique Values</string>
+	<key>Top</key>
+	<string>Top</string>
+	<key>Turn Filters Off</key>
+	<string>Turn Filters Off</string>
+	<key>Turn Filters On</key>
+	<string>Turn Filters On</string>
+	<key>Unhide All</key>
+	<string>Unhide All</string>
+	<key>Unhide All Columns</key>
+	<string>Unhide All Columns</string>
+	<key>Unhide All Rows</key>
+	<string>Unhide All Rows</string>
+	<key>Unhide Column %@</key>
+	<string>Unhide Column %@</string>
+	<key>Unhide Columns</key>
+	<string>Unhide Columns</string>
+	<key>Unhide Columns %@ \U2013 %@</key>
+	<string>Unhide Columns %1$@ – %2$@</string>
+	<key>Unhide Row %@</key>
+	<string>Unhide Row %@</string>
+	<key>Unhide Rows</key>
+	<string>Unhide Rows</string>
+	<key>Unhide Rows %@ \U2013 %@</key>
+	<string>Unhide Rows %1$@ – %2$@</string>
+	<key>Unmerge</key>
+	<string>Unmerge</string>
+	<key>Unmerge All</key>
+	<string>Unmerge All</string>
+	<key>Unmerge All Cells</key>
+	<string>Unmerge All Cells</string>
+	<key>Unmerge Cells</key>
+	<string>Unmerge Cells</string>
+	<key>Up to 1 Digit (7/8)</key>
+	<string>Up to 1 Digit (7/8)</string>
+	<key>Up to 2 Digits (23/24)</key>
+	<string>Up to 2 Digits (23/24)</string>
+	<key>Up to 3 Digits (445/553)</key>
+	<string>Up to 3 Digits (445/553)</string>
+	<key>Vertical Lines</key>
+	<string>Vertical Lines</string>
+	<key>Vertically</key>
+	<string>Vertically</string>
+	<key>Wk</key>
+	<string>Wk</string>
+	<key>Wrap Text</key>
+	<string>Wrap Text</string>
+	<key>Wrap Text in Cell</key>
+	<string>Wrap Text in Cell</string>
+	<key>\U201C%@\U201D</key>
+	<string>“%@”</string>
+	<key>\U201C\U2006\U201D</key>
+	<string>“ ”</string>
+	<key>\U2202</key>
+	<string>∂</string>
+	<key>`</key>
+	<string>`</string>
+	<key>add new item</key>
+	<string>add new item</string>
+	<key>false</key>
+	<string>false</string>
+	<key>month</key>
+	<string>month</string>
+	<key>nf0</key>
+	<string>nf0</string>
+	<key>percent</key>
+	<string>percent</string>
+	<key>true</key>
+	<string>true</string>
+	<key>values</key>
+	<string>values</string>
+	<key>year</key>
+	<string>year</string>
+	<key>yt1</key>
+	<string>yt1</string>
+</dict>
+</plist>

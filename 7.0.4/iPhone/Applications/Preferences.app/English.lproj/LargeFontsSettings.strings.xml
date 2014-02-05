@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DYNAMIC_TYPE_DESCRIPTION</key>
+	<string>Apps that support Dynamic Type will adjust to your preferred reading size below.</string>
+	<key>DYNAMIC_TYPE_INSTRUCTIONS</key>
+	<string>Drag the slider below</string>
+	<key>DYNAMIC_TYPE_SLIDER_INDICATOR</key>
+	<string>A</string>
+	<key>LARGER_DYNAMIC_TYPE</key>
+	<string>Larger Dynamic Type</string>
+</dict>
+</plist>

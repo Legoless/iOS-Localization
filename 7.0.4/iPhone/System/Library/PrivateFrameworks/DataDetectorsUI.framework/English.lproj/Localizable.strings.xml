@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add to Contacts</key>
+	<string>Add to Contacts</string>
+	<key>CALL_NUMBER</key>
+	<string>Call %@</string>
+	<key>CALL_PERSON</key>
+	<string>Call %@</string>
+	<key>Call %@ (%@)</key>
+	<string>Call %1$@ (%2$@)</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Create Event</key>
+	<string>Create Event</string>
+	<key>New Message</key>
+	<string>New Message</string>
+	<key>Open in Maps</key>
+	<string>Open in Maps</string>
+	<key>Send Message</key>
+	<string>Send Message</string>
+	<key>Show Item</key>
+	<string>Show Item</string>
+	<key>Show in Calendar</key>
+	<string>Show in Calendar</string>
+	<key>Track Shipment</key>
+	<string>Track Shipment</string>
+</dict>
+</plist>

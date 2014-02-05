@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PURCHASED_APP</key>
+	<string>Purchased application</string>
+	<key>SEARCH_SEPARATOR</key>
+	<string> — </string>
+	<key>TODAY</key>
+	<string>Today</string>
+	<key>TODAY_TOMORROW_YESTERDAY_DATE_FORMAT</key>
+	<string>%@ %@</string>
+	<key>TOMORROW</key>
+	<string>Tomorrow</string>
+	<key>YESTERDAY</key>
+	<string>Yesterday</string>
+</dict>
+</plist>

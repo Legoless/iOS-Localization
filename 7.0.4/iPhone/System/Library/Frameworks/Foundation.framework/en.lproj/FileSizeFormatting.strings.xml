@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ %@</key>
+	<string>%1$@ %2$@</string>
+	<key>%@ %@ (%@ bytes)</key>
+	<string>%1$@ %2$@ (%3$@ bytes)</string>
+	<key>EB</key>
+	<string>EB</string>
+	<key>EB Singular</key>
+	<string>EB</string>
+	<key>GB</key>
+	<string>GB</string>
+	<key>GB Singular</key>
+	<string>GB</string>
+	<key>KB</key>
+	<string>KB</string>
+	<key>KB Singular</key>
+	<string>KB</string>
+	<key>MB</key>
+	<string>MB</string>
+	<key>MB Singular</key>
+	<string>MB</string>
+	<key>PB</key>
+	<string>PB</string>
+	<key>PB Singular</key>
+	<string>PB</string>
+	<key>TB</key>
+	<string>TB</string>
+	<key>TB Singular</key>
+	<string>TB</string>
+	<key>YB</key>
+	<string>YB</string>
+	<key>YB Singular</key>
+	<string>YB</string>
+	<key>ZB</key>
+	<string>ZB</string>
+	<key>ZB Singular</key>
+	<string>ZB</string>
+	<key>Zero KB</key>
+	<string>Zero KB</string>
+	<key>Zero bytes</key>
+	<string>Zero bytes</string>
+	<key>bytes</key>
+	<string>bytes</string>
+	<key>bytes Singular</key>
+	<string>byte</string>
+</dict>
+</plist>

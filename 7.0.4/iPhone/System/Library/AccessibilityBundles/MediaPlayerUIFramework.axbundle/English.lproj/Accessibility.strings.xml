@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>airplay.on</key>
+	<string>On</string>
+	<key>album.artwork.cover.zoom.hint</key>
+	<string>Double tap to view album</string>
+	<key>album.artwork.text</key>
+	<string>Album art</string>
+	<key>album.artwork.text.full</key>
+	<string>Album art for %1$@, %2$@</string>
+	<key>audio.route.selected</key>
+	<string>Currently selected</string>
+	<key>button.alternate.track.text</key>
+	<string>Alternate track</string>
+	<key>button.bookmark.text</key>
+	<string>Bookmark</string>
+	<key>button.chapters.text</key>
+	<string>Chapters</string>
+	<key>button.email.text</key>
+	<string>Share</string>
+	<key>button.next.hint</key>
+	<string>Double-tap and hold to fast forward</string>
+	<key>button.next.text</key>
+	<string>Next track</string>
+	<key>button.pause.text</key>
+	<string>Pause</string>
+	<key>button.play.text</key>
+	<string>Play</string>
+	<key>button.prev.hint</key>
+	<string>Double-tap and hold to rewind</string>
+	<key>button.prev.text</key>
+	<string>Previous track</string>
+	<key>chapter.is.playing</key>
+	<string>is playing</string>
+	<key>chapter.track.text</key>
+	<string>Chapter %@</string>
+	<key>controls.hidden</key>
+	<string>controls hidden</string>
+	<key>controls.shown</key>
+	<string>controls shown</string>
+	<key>download.button</key>
+	<string>Download</string>
+	<key>download.progress</key>
+	<string>Download progress</string>
+	<key>download.progress.button.hint</key>
+	<string>Double tap to pause or resume downloading.</string>
+	<key>exit.fullScreen.scale.text</key>
+	<string>Exit full screen</string>
+	<key>explicit</key>
+	<string>Explicit</string>
+	<key>fastForwardButton.text</key>
+	<string>%@ second fast-forward</string>
+	<key>fullScreen.scale.text</key>
+	<string>Full screen</string>
+	<key>geniusButton.text</key>
+	<string>Genius</string>
+	<key>like.song.or.not.button</key>
+	<string>Like or dislike song</string>
+	<key>mail.button.text</key>
+	<string>Email Podcast</string>
+	<key>more.item.info</key>
+	<string>More information</string>
+	<key>movie.slider</key>
+	<string>Movie position</string>
+	<key>playbackSpeed.double</key>
+	<string>Double</string>
+	<key>playbackSpeed.half</key>
+	<string>Half</string>
+	<key>playbackSpeed.hint</key>
+	<string>Toggles playback speed</string>
+	<key>playbackSpeed.normal</key>
+	<string>Normal</string>
+	<key>playbackSpeed.text</key>
+	<string>Playback speed</string>
+	<key>repeat.off</key>
+	<string>Off</string>
+	<key>repeat.one</key>
+	<string>All Tracks</string>
+	<key>repeatButton.hint</key>
+	<string>Changes repeat settings.</string>
+	<key>repeatButton.text</key>
+	<string>Repeat</string>
+	<key>rewindButton.text</key>
+	<string>%@ second rewind</string>
+	<key>scaleButton.text</key>
+	<string>Scale video</string>
+	<key>shuffle.albums</key>
+	<string>Albums</string>
+	<key>shuffle.off</key>
+	<string>Off</string>
+	<key>shuffle.songs</key>
+	<string>Songs</string>
+	<key>shuffleButton.text</key>
+	<string>Shuffle</string>
+	<key>shuffleButton.text.off</key>
+	<string>Shuffle Off</string>
+	<key>sizeToFit.scale.text</key>
+	<string>Letter box</string>
+	<key>slider.time.position</key>
+	<string>%1$@ of %2$@</string>
+	<key>social.like.button.text</key>
+	<string>Like</string>
+	<key>social.post.button.text</key>
+	<string>Post Comment</string>
+	<key>starRating.label</key>
+	<string>Rating</string>
+	<key>track.slider</key>
+	<string>Track position</string>
+	<key>trackInfoButton</key>
+	<string>Track info</string>
+	<key>video</key>
+	<string>Video</string>
+	<key>video.hint</key>
+	<string>Double tap to show or hide video controls.</string>
+	<key>volume.eulimit.approach</key>
+	<string>Approaching high volume</string>
+	<key>volume.eulimit.warning</key>
+	<string>High volume</string>
+	<key>volumeslider</key>
+	<string>Volume</string>
+</dict>
+</plist>

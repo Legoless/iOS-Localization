@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_BUTTON_CREDIT_FORMAT</key>
+	<string>%@ Credit</string>
+	<key>ACCOUNT_CREDITS_BALANCE_FORMAT</key>
+	<string>Current Balance: %@</string>
+	<key>ACCOUNT_CREDITS_NAME_FORMAT</key>
+	<string>Account: %@</string>
+	<key>ACCOUNT_FORMAT</key>
+	<string>Apple ID: %@</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CHOOSE_EXISTING</key>
+	<string>Choose Existing</string>
+	<key>COMMENTS_PLACEHOLDER</key>
+	<string>Comments?</string>
+	<key>CONCERN_POST_FAILED_ERROR</key>
+	<string>Unable to report problem.  Please try again later.</string>
+	<key>DATA_PROGRESS</key>
+	<string>%@ of %@</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_NUMBER</key>
+	<string>Delete (%@)</string>
+	<key>DOUBLE_TAP_GENERIC_HINT</key>
+	<string>Tap to Preview, Double-Tap to View Info</string>
+	<key>DOUBLE_TAP_HINT</key>
+	<string>Tap to Preview, Double-Tap to View Album</string>
+	<key>DOWNLOADS_SECTION_ALL_CAPS</key>
+	<string>DOWNLOADS</string>
+	<key>DOWNLOAD_ERROR</key>
+	<string>Download error. Tap to retry.</string>
+	<key>DOWNLOAD_PAUSED</key>
+	<string>Download paused.</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EMPTY_DOWNLOAD_QUEUE</key>
+	<string>No active downloads</string>
+	<key>FORGOT_PASSWORD</key>
+	<string>iForgot</string>
+	<key>FULL_WIDTH_HOURS_MINUTES_SECONDS</key>
+	<string>%02d:%02d:%02d</string>
+	<key>FULL_WIDTH_MINUTES_SECONDS</key>
+	<string>%02d:%02d</string>
+	<key>HOURS_MINUTES_SECONDS</key>
+	<string>%d:%02d:%02d</string>
+	<key>ITUNES_ACCOUNT</key>
+	<string>Apple ID</string>
+	<key>LAST_REVIEW_DATE_FORMAT</key>
+	<string>as of %@</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>MINUTES_SECONDS</key>
+	<string>%d:%02d</string>
+	<key>NEGATIVE_FULL_WIDTH_HOURS_MINUTES_SECONDS</key>
+	<string>-%02d:%02d:%02d</string>
+	<key>NEGATIVE_FULL_WIDTH_MINUTES_SECONDS</key>
+	<string>-%02d:%02d</string>
+	<key>NEGATIVE_HOURS_MINUTES_SECONDS</key>
+	<string>-%d:%02d:%02d</string>
+	<key>NEGATIVE_MINUTES_SECONDS</key>
+	<string>-%d:%02d</string>
+	<key>NICKNAME_LABEL</key>
+	<string>From:</string>
+	<key>NICKNAME_LABEL_ALT</key>
+	<string>Nickname:</string>
+	<key>NICKNAME_PLACEHOLDER</key>
+	<string>Create Nickname</string>
+	<key>NO_MATCHES</key>
+	<string>No Matches</string>
+	<key>NO_REVIEWS</key>
+	<string>No reviews</string>
+	<key>NO_REVIEWS_IN_LISTING</key>
+	<string>No reviews</string>
+	<key>NO_REVIEWS_IN_LISTING_CAPS</key>
+	<string>No Reviews</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ONE_REVIEW</key>
+	<string>1 review</string>
+	<key>ONE_REVIEW_CAPS</key>
+	<string>1 Review</string>
+	<key>PARTNER_NOW_PLAYING</key>
+	<string>Now Playing:</string>
+	<key>PREORDERS_SECTION</key>
+	<string>Pre-Orders</string>
+	<key>PREORDERS_SECTION_ALL_CAPS</key>
+	<string>PRE-ORDERS</string>
+	<key>PREORDERS_SWIPE_TO_CANCEL</key>
+	<string>Swipe to Cancel</string>
+	<key>PREORDER_CANCEL_FAILED</key>
+	<string>Could not cancel pre-order.  Please try again later.</string>
+	<key>PRE_ORDER_DATE_FORMAT</key>
+	<string>Expected Release Date %@</string>
+	<key>PROCESSING_DOWNLOAD</key>
+	<string>Processing…</string>
+	<key>PURCHASED</key>
+	<string>Purchased</string>
+	<key>RATING_ALERT_TITLE</key>
+	<string>Please Rate</string>
+	<key>RATING_EXPLANATION</key>
+	<string>Tap a Star to Rate</string>
+	<key>RATING_LABEL</key>
+	<string>Rate this:</string>
+	<key>REPORT</key>
+	<string>Report</string>
+	<key>REPORT_A_PROBLEM</key>
+	<string>Report a Problem</string>
+	<key>REPORT_A_PROBLEM_PAGE_TITLE</key>
+	<string>Report a Problem</string>
+	<key>RESTRICTED</key>
+	<string>Restricted</string>
+	<key>REVIEW_COUNT</key>
+	<string>%d reviews</string>
+	<key>REVIEW_COUNT_FORMAT</key>
+	<string>%u reviews</string>
+	<key>REVIEW_COUNT_FORMAT_CAPS</key>
+	<string>%u Reviews</string>
+	<key>REVIEW_LABEL_CHARACTERS_REMAINING</key>
+	<string>Review: %d characters remaining</string>
+	<key>REVIEW_LABEL_OPTIONAL</key>
+	<string>Review: Optional</string>
+	<key>REVIEW_PLACEHOLDER</key>
+	<string>Review (Optional)</string>
+	<key>REVIEW_PLACEHOLDER_NOT_OPTIONAL</key>
+	<string>Review</string>
+	<key>SEARCH</key>
+	<string>Search</string>
+	<key>SEARCH_TOTAL</key>
+	<string>%d results found</string>
+	<key>SEGMENTED_CONTROL_MORE_CANCEL</key>
+	<string>Cancel</string>
+	<key>SEGMENTED_CONTROL_MORE_MORE</key>
+	<string>More</string>
+	<key>SEND</key>
+	<string>Send</string>
+	<key>SEND_MESSAGE</key>
+	<string>Send</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SIGN_OUT</key>
+	<string>Sign Out</string>
+	<key>SUBJECT_LABEL</key>
+	<string>Title:</string>
+	<key>SUBJECT_PLACEHOLDER</key>
+	<string>Title</string>
+	<key>SUBMIT</key>
+	<string>Submit</string>
+	<key>SUBMIT_REVIEW</key>
+	<string>Submit Review</string>
+	<key>TAKE_PHOTO</key>
+	<string>Take Photo</string>
+	<key>TAKE_PHOTO_OR_VIDEO</key>
+	<string>Take Photo or Video</string>
+	<key>TAKE_VIDEO</key>
+	<string>Take Video</string>
+	<key>TAP_TO_RESUME</key>
+	<string>Tap to resume download</string>
+	<key>TAP_TO_START_DOWNLOAD</key>
+	<string>Tap to start download</string>
+	<key>TERMS_AND_CONDITIONS</key>
+	<string>iTunes Store Terms and Conditions…</string>
+	<key>TIME_FORMAT</key>
+	<string>%d:%02d</string>
+	<key>TIME_PROGRESS</key>
+	<string>%@ of %@, %@ remaining</string>
+	<key>TIME_PROGRESS_LONG</key>
+	<string>%@ of %@, %@ remaining</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+	<key>UNKNOWN_PROGRESS</key>
+	<string>Preparing to download…</string>
+	<key>USER_NAME_FORMAT</key>
+	<string>by %@</string>
+	<key>VIEW_ACCOUNT</key>
+	<string>View Apple ID</string>
+	<key>WAITING</key>
+	<string>waiting…</string>
+	<key>WRITE_A_REVIEW</key>
+	<string>Write a Review</string>
+</dict>
+</plist>

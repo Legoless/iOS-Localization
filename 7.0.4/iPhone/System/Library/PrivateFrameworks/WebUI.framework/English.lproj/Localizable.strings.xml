@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ Will Not Fill Your Password Because “%@” Requested Passwords Not Be Saved</key>
+	<string>%@ Will Not Fill Your Password Because “%@” Requested Passwords Not Be Saved</string>
+	<key>%@ Will Not Save Your Password Because “%@” Requested Passwords Not Be Saved</key>
+	<string>%@ Will Not Save Your Password Because “%@” Requested Passwords Not Be Saved</string>
+	<key>%@ Will Not Suggest a Password Because “%@” Requested Passwords Not Be Saved</key>
+	<string>%@ Will Not Suggest a Password Because “%@” Requested Passwords Not Be Saved</string>
+	<key>ALLOW_APPLICATION_CACHE_ORIGIN_QUOTA_INCREASE</key>
+	<string>Increase</string>
+	<key>ALLOW_DATABASE_QUOTA_INCREASE</key>
+	<string>Increase</string>
+	<key>Accept</key>
+	<string>Accept</string>
+	<key>Authentication Required</key>
+	<string>Authentication Required</string>
+	<key>AutoFill</key>
+	<string>AutoFill</string>
+	<key>AutoFill Credit Card</key>
+	<string>AutoFill Credit Card</string>
+	<key>AutoFill Password</key>
+	<string>AutoFill Password</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Cancel (AutoFill credentials from similar domain sheet)</key>
+	<string>Cancel</string>
+	<key>Cancel (alert sheet)</key>
+	<string>Cancel</string>
+	<key>Cancel (password suggestion assistance sheet)</key>
+	<string>Cancel</string>
+	<key>Close</key>
+	<string>Close</string>
+	<key>Continue</key>
+	<string>Continue</string>
+	<key>DISALLOW_APPLICATION_CACHE_ORIGIN_QUOTA_INCREASE</key>
+	<string>Cancel</string>
+	<key>DISALLOW_DATABASE_QUOTA_INCREASE</key>
+	<string>Cancel</string>
+	<key>Dismiss</key>
+	<string>Dismiss</string>
+	<key>Do you want to allow the website “%@” to use up to %u MB of storage on your %@?</key>
+	<string>Do you want to allow the website “%@” to use up to %u MB of storage on your %@?</string>
+	<key>Do you want to allow “%@” to use up to %u MB of storage on your %@?</key>
+	<string>Do you want to allow “%@” to use up to %u MB of storage on your %@?</string>
+	<key>Do you want to update the password in your iCloud Keychain for “%@” on other “%@” websites?</key>
+	<string>Do you want to update the password in your iCloud Keychain for “%@” on other “%@” websites?</string>
+	<key>Do you want to update the password saved in your iCloud Keychain for “%@” on “%@”?</key>
+	<string>Do you want to update the password saved in your iCloud Keychain for “%@” on “%@”?</string>
+	<key>Do you want to update the saved password for “%@” on other “%@” websites?</key>
+	<string>Do you want to update the saved password for “%@” on other “%@” websites?</string>
+	<key>Don’t Allow</key>
+	<string>Don’t Allow</string>
+	<key>Entering a JavaScript URL is not allowed</key>
+	<string>Entering a JavaScript URL is not allowed</string>
+	<key>Fill Password (AutoFill credentials from similar domain sheet)</key>
+	<string>Fill Password</string>
+	<key>Fill Saved Password for “%@” from “%@”?</key>
+	<string>Fill Saved Password for “%@” from “%@”?</string>
+	<key>Increase Database Size?</key>
+	<string>Increase Database Size?</string>
+	<key>Increase Local Storage?</key>
+	<string>Increase Local Storage?</string>
+	<key>Log In</key>
+	<string>Log In</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>Never for This Card (save credit card data sheet)</key>
+	<string>Never for This Card</string>
+	<key>Never for This Website (save login information sheet)</key>
+	<string>Never for This Website</string>
+	<key>Not Now (save credit card data sheet)</key>
+	<string>Not Now</string>
+	<key>Not Now (save login information sheet)</key>
+	<string>Not Now</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OK (Geolocation)</key>
+	<string>OK</string>
+	<key>Open</key>
+	<string>Open</string>
+	<key>Page %@ of %@</key>
+	<string>Page %@ of %@</string>
+	<key>Password will be sent in the clear.</key>
+	<string>Password will be sent in the clear.</string>
+	<key>Password will be sent securely.</key>
+	<string>Password will be sent securely.</string>
+	<key>Remember this Card (save credit card data sheet)</key>
+	<string>Remember this Card</string>
+	<key>Retry</key>
+	<string>Retry</string>
+	<key>Safari Suggested Password:</key>
+	<string>Safari Suggested Password:</string>
+	<key>Save Password (save login information sheet)</key>
+	<string>Save Password</string>
+	<key>Save This Password?</key>
+	<string>Save This Password?</string>
+	<key>Save this password in your iCloud Keychain for AutoFill on all your devices?</key>
+	<string>Save this password in your iCloud Keychain for AutoFill on all your devices?</string>
+	<key>Search</key>
+	<string>Search</string>
+	<key>Select a certificate</key>
+	<string>Select a certificate</string>
+	<key>Submit</key>
+	<string>Submit</string>
+	<key>Suggest Password</key>
+	<string>Suggest Password</string>
+	<key>Tap Continue to select your certificate.</key>
+	<string>Tap Continue to select your certificate.</string>
+	<key>The certificate for this website has expired. Tap Accept to connect to this website anyway.</key>
+	<string>The certificate for this website has expired. Tap Accept to connect to this website anyway.</string>
+	<key>The certificate for this website is invalid. Tap Accept to connect to this website anyway.</key>
+	<string>The certificate for this website is invalid. Tap Accept to connect to this website anyway.</string>
+	<key>The certificate for this website is not yet valid. Tap Accept to connect to this website anyway.</key>
+	<string>The certificate for this website is not yet valid. Tap Accept to connect to this website anyway.</string>
+	<key>The certificate for this website was signed by an unknown certifying authority. Tap Accept to connect to this website anyway.</key>
+	<string>The certificate for this website was signed by an unknown certifying authority. Tap Accept to connect to this website anyway.</string>
+	<key>The password in your iCloud Keychain for “%@” on “%@” is different. Do you want to update it?</key>
+	<string>The password in your iCloud Keychain for “%@” on “%@” is different. Do you want to update it?</string>
+	<key>The password in your iCloud Keychain for “%@” on “%@” websites is different. Do you want to update it?</key>
+	<string>The password in your iCloud Keychain for “%@” on “%@” websites is different. Do you want to update it?</string>
+	<key>The required certificate is not installed.</key>
+	<string>The required certificate is not installed.</string>
+	<key>The saved password for “%@” on “%@” is different. Do you want to update it?</key>
+	<string>The saved password for “%@” on “%@” is different. Do you want to update it?</string>
+	<key>The saved password for “%@” on “%@” websites is different. Do you want to update it?</key>
+	<string>The saved password for “%@” on “%@” websites is different. Do you want to update it?</string>
+	<key>This password will be saved in your iCloud Keychain so it is available for AutoFill on all your devices.</key>
+	<string>This password will be saved in your iCloud Keychain so it is available for AutoFill on all your devices.</string>
+	<key>This website requires a certificate</key>
+	<string>This website requires a certificate</string>
+	<key>Update All (save login information sheet)</key>
+	<string>Update All</string>
+	<key>Update Only This Website (save login information sheet)</key>
+	<string>Update Only This Website</string>
+	<key>Update Other Passwords (save login information sheet)</key>
+	<string>Update Other Passwords</string>
+	<key>Update Password (save login information sheet)</key>
+	<string>Update Password</string>
+	<key>Use Suggested Password (password suggestion assistance sheet)</key>
+	<string>Use Suggested Password</string>
+	<key>Would you like Safari to remember this credit card?</key>
+	<string>Would you like Safari to remember this credit card?</string>
+	<key>Would you like to fill the saved password for “%@” from “%@”?</key>
+	<string>Would you like to fill the saved password for “%@” from “%@”?</string>
+	<key>Would you like to save this password in your iCloud Keychain for AutoFill on all your devices?</key>
+	<string>Would you like to save this password in your iCloud Keychain for AutoFill on all your devices?</string>
+	<key>Would you like to save this password?</key>
+	<string>Would you like to save this password?</string>
+	<key>You can update the saved password only for “%@” or update saved passwords for all “%@” websites.</key>
+	<string>You can update the saved password only for “%@” or update saved passwords for all “%@” websites.</string>
+	<key>You can view and remove saved passwords in the Passwords &amp; AutoFill section of Safari settings.</key>
+	<string>You can view and remove saved passwords in the Passwords &amp; AutoFill section of Safari settings.</string>
+	<key>Your name, card number, and expiration date will be saved. When using card AutoFill you will still need to type in your security code.</key>
+	<string>Your name, card number, and expiration date will be saved. When using card AutoFill you will still need to type in your security code.</string>
+	<key>Your new password for “%@” has already been saved.</key>
+	<string>Your new password for “%@” has already been saved.</string>
+	<key>password</key>
+	<string>password</string>
+	<key>user name</key>
+	<string>user name</string>
+	<key>“%@” Would Like To Use Your Current Location</key>
+	<string>“%@” Would Like To Use Your Current Location</string>
+</dict>
+</plist>

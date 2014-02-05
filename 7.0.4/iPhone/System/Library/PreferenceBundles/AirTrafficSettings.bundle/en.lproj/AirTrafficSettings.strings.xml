@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASSET_SYNC</key>
+	<string>Syncing %@ to “%@”</string>
+	<key>ASSET_TYPE_APPLICATIONS</key>
+	<string>Apps</string>
+	<key>ASSET_TYPE_AUDIOBOOKS</key>
+	<string>Audiobooks</string>
+	<key>ASSET_TYPE_BOOKS</key>
+	<string>Books</string>
+	<key>ASSET_TYPE_DATA</key>
+	<string>Data</string>
+	<key>ASSET_TYPE_ITUNESU</key>
+	<string>iTunes U</string>
+	<key>ASSET_TYPE_ITUNESUVIDEOS</key>
+	<string>iTunes U Videos</string>
+	<key>ASSET_TYPE_MEDIA</key>
+	<string>Media</string>
+	<key>ASSET_TYPE_MOVIES</key>
+	<string>Movies</string>
+	<key>ASSET_TYPE_MUSIC</key>
+	<string>Music</string>
+	<key>ASSET_TYPE_MUSICVIDEOS</key>
+	<string>Music Videos</string>
+	<key>ASSET_TYPE_PHOTOS</key>
+	<string>Photos</string>
+	<key>ASSET_TYPE_PODCASTS</key>
+	<string>Podcasts</string>
+	<key>ASSET_TYPE_TONES</key>
+	<string>Tones</string>
+	<key>ASSET_TYPE_TVSHOWS</key>
+	<string>TV Shows</string>
+	<key>ASSET_TYPE_VIDEOPODCASTS</key>
+	<string>Video Podcasts</string>
+	<key>ASSET_TYPE_VOICEMEMOS</key>
+	<string>Voice Memos</string>
+	<key>CANCEL_SYNC</key>
+	<string>Cancel Sync</string>
+	<key>COPYING</key>
+	<string>Copying %d of %d: “%@”</string>
+	<key>HEADER_TEXT_WIFI_IPAD</key>
+	<string>Automatically sync with iTunes on your computer when your iPad is plugged in to power and connected to Wi‑Fi.</string>
+	<key>HEADER_TEXT_WIFI_IPHONE</key>
+	<string>Automatically sync with iTunes on your computer when your iPhone is plugged in to power and connected to Wi‑Fi.</string>
+	<key>HEADER_TEXT_WIFI_IPOD_TOUCH</key>
+	<string>Automatically sync with iTunes on your computer when your iPod touch is plugged in to power and connected to Wi‑Fi.</string>
+	<key>HEADER_TEXT_WLAN_IPAD</key>
+	<string>Automatically sync with iTunes on your computer when your iPad is plugged in to power and connected to WLAN.</string>
+	<key>HEADER_TEXT_WLAN_IPHONE</key>
+	<string>Automatically sync with iTunes on your computer when your iPhone is plugged in to power and connected to WLAN.</string>
+	<key>HEADER_TEXT_WLAN_IPOD_TOUCH</key>
+	<string>Automatically sync with iTunes on your computer when your iPod touch is plugged in to power and connected to WLAN.</string>
+	<key>INSTALLING</key>
+	<string>Installing %d of %d: “%@”</string>
+	<key>ITUNES_WIFI_CONNECT_IPAD</key>
+	<string>To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPad over Wi‑Fi”.</string>
+	<key>ITUNES_WIFI_CONNECT_IPHONE</key>
+	<string>To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPhone over Wi‑Fi”.</string>
+	<key>ITUNES_WIFI_CONNECT_IPOD_TOUCH</key>
+	<string>To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPod over Wi‑Fi”.</string>
+	<key>ITUNES_WIFI_SYNC</key>
+	<string>iTunes Wi-Fi Sync</string>
+	<key>ITUNES_WIFI_SYNC_SHORT</key>
+	<string>iTunes Wi-Fi Sync</string>
+	<key>ITUNES_WIFI_SYNC_SHORT_IPAD</key>
+	<string>iTunes Wi-Fi Sync</string>
+	<key>ITUNES_WLAN_CONNECT_IPAD</key>
+	<string>To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPad over WLAN”.</string>
+	<key>ITUNES_WLAN_CONNECT_IPHONE</key>
+	<string>To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPhone over WLAN”.</string>
+	<key>ITUNES_WLAN_CONNECT_IPOD_TOUCH</key>
+	<string>To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPod over WLAN”.</string>
+	<key>ITUNES_WLAN_SYNC</key>
+	<string>iTunes WLAN Sync</string>
+	<key>ITUNES_WLAN_SYNC_SHORT</key>
+	<string>iTunes WLAN Sync</string>
+	<key>ITUNES_WLAN_SYNC_SHORT_IPAD</key>
+	<string>iTunes WLAN Sync</string>
+	<key>LAST_SYNC</key>
+	<string>Last Sync:</string>
+	<key>LAST_SYNC_AT</key>
+	<string>at</string>
+	<key>LOOKING_FOR_HOST</key>
+	<string>Looking for %@…</string>
+	<key>LOOKING_FOR_HOST_NO_NAME</key>
+	<string>Looking for host…</string>
+	<key>NOT_CONNECTED_TEXT</key>
+	<string>Sync will resume when “%@” is available.</string>
+	<key>STEP_N_OF_N</key>
+	<string>Step %d of %d</string>
+	<key>STEP_N_OF_N_WITH_STATUS</key>
+	<string>Step %d of %d: %@</string>
+	<key>SYNCED_ASSET_CONJUCTION</key>
+	<string>, and </string>
+	<key>SYNCED_ASSET_SEPARATOR</key>
+	<string>, </string>
+	<key>SYNCED_ASSET_TWO_ITEMS_CONJUCTION</key>
+	<string> and </string>
+	<key>SYNCING</key>
+	<string>Syncing...</string>
+	<key>SYNC_NOW</key>
+	<string>Sync Now</string>
+	<key>SYNC_STAGE_ASSETS</key>
+	<string>Syncing %@</string>
+	<key>SYNC_STAGE_METADATA</key>
+	<string>Metadata</string>
+	<key>SYNC_STAGE_PREP</key>
+	<string>Preparing</string>
+	<key>SYNC_STAGE_RECONCILE</key>
+	<string>Reconciling</string>
+	<key>WAITING_FOR_HOST</key>
+	<string>Waiting for %@…</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enroll.tutor.image.label.left.hand</key>
+	<string>Photo of a person holding an iPhone with their left hand while touching the home button with their thumb</string>
+	<key>enroll.tutor.image.label.right.hand</key>
+	<string>Photo of a person holding an iPhone with their right hand while touching the home button with their thumb</string>
+	<key>fingerprint.image</key>
+	<string>A fingerprint that changes color during the setup process.</string>
+	<key>fingerprint.status</key>
+	<string>Recognition is %@ complete</string>
+</dict>
+</plist>

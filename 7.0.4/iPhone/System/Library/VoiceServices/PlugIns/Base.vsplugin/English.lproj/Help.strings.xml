@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HELP_STRING</key>
+	<string>Using iPhone voice control, you can tell iPhone to call contacts, play albums, or play playlists.</string>
+	<key>HELP_STRING_NO_TELEPHONY</key>
+	<string>Using iPod voice control, you can tell iPod to play albums, play playlists, or create Genius playlists.</string>
+</dict>
+</plist>

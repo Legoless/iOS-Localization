@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustable.instructions</key>
+	<string>Swipe up or down with one finger to adjust the value.</string>
+	<key>custom.actions.hint</key>
+	<string>Swipe up or down to select a custom action</string>
+	<key>custom.rotor.items.hint</key>
+	<string>Use the rotor to access %@</string>
+	<key>draggable.instructions</key>
+	<string>Double tap and hold, wait for the sound, then drag to re-arrange</string>
+	<key>mathequation.instructions</key>
+	<string>Double tap to view math in full screen</string>
+	<key>popupbutton.instructions</key>
+	<string>Double tap to activate the picker</string>
+	<key>switch.instructions</key>
+	<string>Double tap to toggle setting.</string>
+	<key>table.index.instructions</key>
+	<string>Double tap and hold, then move up and down to select index</string>
+	<key>textview.instructions</key>
+	<string>Double tap to edit.</string>
+</dict>
+</plist>

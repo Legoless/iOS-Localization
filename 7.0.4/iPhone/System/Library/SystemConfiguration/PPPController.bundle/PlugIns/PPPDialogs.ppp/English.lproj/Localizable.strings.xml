@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Account Name:</key>
+	<string>Enter your name:</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Confirm new password:</key>
+	<string>Reenter your new password:</string>
+	<key>Confirm new token:</key>
+	<string>Reenter your new PIN:</string>
+	<key>Disconnect</key>
+	<string>Disconnect</string>
+	<key>Enter password</key>
+	<string>Enter your password.</string>
+	<key>Expired password</key>
+	<string>Your password has expired.</string>
+	<key>Expired token</key>
+	<string>Your PIN has expired.</string>
+	<key>Incorrect password</key>
+	<string>Your name or password may be incorrect.</string>
+	<key>Incorrect token</key>
+	<string>Your name or token may be incorrect.</string>
+	<key>Incorrectly entered password</key>
+	<string>You may have entered your password incorrectly.</string>
+	<key>Incorrectly entered token</key>
+	<string>You may have entered your token incorrectly.</string>
+	<key>Network Connection</key>
+	<string>Network Connection</string>
+	<key>New password:</key>
+	<string>Enter your new password:</string>
+	<key>New token:</key>
+	<string>Enter your new PIN:</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Password:</key>
+	<string>Enter your password:</string>
+	<key>Reminder timeout</key>
+	<string>This is a reminder that you're still connected. Do you wish to remain connected?</string>
+	<key>Retry name:</key>
+	<string>Enter your name:</string>
+	<key>Retry password:</key>
+	<string>Enter your password:</string>
+	<key>Retry token:</key>
+	<string>Enter your token:</string>
+	<key>Stay connected</key>
+	<string>Stay connected</string>
+	<key>Token:</key>
+	<string>Enter your token:</string>
+	<key>VPN Connection</key>
+	<string>VPN Connection</string>
+</dict>
+</plist>

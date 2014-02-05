@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> and &lt;date&gt;</key>
+	<string> and %@</string>
+	<key>%1$@   %2$@</key>
+	<string>%1$@   %2$@</string>
+	<key>%1$@°%2$@'%3$@'' %4$@</key>
+	<string>%1$@°%2$@'%3$@'' %4$@</string>
+	<key>%@ %@ combine maneuver and signposts [SPOKEN]</key>
+	<string>%@ %@</string>
+	<key>%@ Routes</key>
+	<string>%@ Routes</string>
+	<key>%@ Toward %@ [CHANGING FREEWAY - take exit toward place name]</key>
+	<string>%@ Toward %@</string>
+	<key>%@ Toward %@ [keep left/right toward placename]</key>
+	<string>%@ Toward %@</string>
+	<key>%@ Toward %@ [take exit toward place name]</key>
+	<string>%@ Toward %@</string>
+	<key>%@ Toward %@ [turn toward placename]</key>
+	<string>%@ Toward %@</string>
+	<key>%@ [SPOKEN - keep left/right no roadname]</key>
+	<string>%@</string>
+	<key>%@ [SPOKEN - turn no roadname]</key>
+	<string>%@</string>
+	<key>%@ [SPOKEN CHANGING FREEWAY - no roadname]</key>
+	<string>%@</string>
+	<key>%@ [SPOKEN take exit no roadname]</key>
+	<string>%@</string>
+	<key>%@ at %@</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [CHANGING FREEWAY - take exit at junction]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [SPOKEN - keep left/right at intersection]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [SPOKEN - turn at intersection]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [SPOKEN CHANGING FREEWAY - take exit at junction]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [SPOKEN take exit at junction]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [keep left/right at intersection]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [take exit at junction]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [turn at intersection]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ on %@ [SPOKEN - keep left/right at intersection onto roadname]</key>
+	<string>%@ at %@ on %@</string>
+	<key>%@ at %@ onto %@ [SPOKEN - turn at intersection onto roadname]</key>
+	<string>%@ at %@ onto %@</string>
+	<key>%@ at %@ onto %@ [SPOKEN CHANGING FREEWAY - take exit at junction onto freeway]</key>
+	<string>%@ at %@ onto %@</string>
+	<key>%@ at %@ onto %@ [SPOKEN take exit at junction onto roadname]</key>
+	<string>%@ at %@ onto %@</string>
+	<key>%@ at %@ to merge onto %@ [SPOKEN - keep left/right at intersection onto freeway]</key>
+	<string>%@ at %@ to merge onto %@</string>
+	<key>%@ at %@ to merge onto %@ [SPOKEN - turn at intersection onto freeway]</key>
+	<string>%@ at %@ to merge onto %@</string>
+	<key>%@ at %@ to merge onto %@ [SPOKEN take exit at junction onto freeway]</key>
+	<string>%@ at %@ to merge onto %@</string>
+	<key>%@ day trip</key>
+	<string>%@ day trip</string>
+	<key>%@ days</key>
+	<string>%@ days</string>
+	<key>%@ days %@ hours</key>
+	<string>%@ days %@ hours</string>
+	<key>%@ days %@ hours with traffic</key>
+	<string>%@ days %@ hours with traffic</string>
+	<key>%@ days %@ hr</key>
+	<string>%@ days %@ hr</string>
+	<key>%@ days %@ hr with traffic</key>
+	<string>%@ days %@ hr with traffic</string>
+	<key>%@ days 1 hour</key>
+	<string>%@ days 1 hour</string>
+	<key>%@ days 1 hour with traffic</key>
+	<string>%@ days 1 hour with traffic</string>
+	<key>%@ days 1 hr</key>
+	<string>%@ days 1 hr</string>
+	<key>%@ days 1 hr with traffic</key>
+	<string>%@ days 1 hr with traffic</string>
+	<key>%@ days with traffic</key>
+	<string>%@ days with traffic</string>
+	<key>%@ feet</key>
+	<string>%@ feet</string>
+	<key>%@ feet trip</key>
+	<string>%@ feet trip</string>
+	<key>%@ ft</key>
+	<string>%@ ft</string>
+	<key>%@ hour trip</key>
+	<string>%@ hour trip</string>
+	<key>%@ hours</key>
+	<string>%@ hours</string>
+	<key>%@ hours %@ minutes</key>
+	<string>%@ hours %@ minutes</string>
+	<key>%@ hours %@ minutes with traffic</key>
+	<string>%@ hours %@ minutes with traffic</string>
+	<key>%@ hours 1 minute</key>
+	<string>%@ hours 1 minute</string>
+	<key>%@ hours 1 minute with traffic</key>
+	<string>%@ hours 1 minute with traffic</string>
+	<key>%@ hours with traffic</key>
+	<string>%@ hours with traffic</string>
+	<key>%@ hr</key>
+	<string>%@ hr</string>
+	<key>%@ hr %@ min</key>
+	<string>%@ hr %@ min</string>
+	<key>%@ hr %@ min with traffic</key>
+	<string>%@ hr %@ min with traffic</string>
+	<key>%@ hr 1 min</key>
+	<string>%@ hr 1 min</string>
+	<key>%@ hr 1 min with traffic</key>
+	<string>%@ hr 1 min with traffic</string>
+	<key>%@ hr with traffic</key>
+	<string>%@ hr with traffic</string>
+	<key>%@ in %@</key>
+	<string>%@ in %@</string>
+	<key>%@ kilometers</key>
+	<string>%@ kilometers</string>
+	<key>%@ kilometers [SPOKEN]</key>
+	<string>%@ kilometers</string>
+	<key>%@ kilometers trip</key>
+	<string>%@ kilometers trip</string>
+	<key>%@ km</key>
+	<string>%@ km</string>
+	<key>%@ km trip</key>
+	<string>%@ km trip</string>
+	<key>%@ m</key>
+	<string>%@ m</string>
+	<key>%@ m trip</key>
+	<string>%@ m trip</string>
+	<key>%@ meters</key>
+	<string>%@ meters</string>
+	<key>%@ meters trip</key>
+	<string>%@ meters trip</string>
+	<key>%@ mi</key>
+	<string>%@ mi</string>
+	<key>%@ mile</key>
+	<string>%@ mile</string>
+	<key>%@ mile trip</key>
+	<string>%@ mile trip</string>
+	<key>%@ miles</key>
+	<string>%@ miles</string>
+	<key>%@ miles [SPOKEN]</key>
+	<string>%@ miles</string>
+	<key>%@ miles trip</key>
+	<string>%@ miles trip</string>
+	<key>%@ min</key>
+	<string>%@ min</string>
+	<key>%@ min with traffic</key>
+	<string>%@ min with traffic</string>
+	<key>%@ minute trip</key>
+	<string>%@ minute trip</string>
+	<key>%@ minutes</key>
+	<string>%@ minutes</string>
+	<key>%@ minutes with traffic</key>
+	<string>%@ minutes with traffic</string>
+	<key>%@ near %@</key>
+	<string>%@ near %@</string>
+	<key>%@ of %@</key>
+	<string>%@ of %@</string>
+	<key>%@ on %@ [SPOKEN - keep left/right on roadname]</key>
+	<string>%@ on %@</string>
+	<key>%@ on %@ [keep left/right on roadname]</key>
+	<string>%@ on %@</string>
+	<key>%@ onto %@ [CHANGING FREEWAY - take exit onto freeway name]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@ [SPOKEN - turn onto roadname]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@ [SPOKEN CHANGING FREEWAY - take exit onto freeway]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@ [SPOKEN take exit onto roadname]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@ [take exit onto roadname]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@ [turn onto roadname]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@ and %@ [SPOKEN take exit onto roadnames]</key>
+	<string>%@ onto %@ and %@</string>
+	<key>%@ sec</key>
+	<string>%@ sec</string>
+	<key>%@ second trip</key>
+	<string>%@ second trip</string>
+	<key>%@ seconds</key>
+	<string>%@ seconds</string>
+	<key>%@ to Merge onto %@ [keep left/right on freeway]</key>
+	<string>%@ for %@</string>
+	<key>%@ to Merge onto %@ [take exit onto roadname]</key>
+	<string>%@ for %@</string>
+	<key>%@ to Merge onto %@ [turn onto freeway]</key>
+	<string>%@ for %@</string>
+	<key>%@ to merge onto %@ [SPOKEN - keep left/right on freeway]</key>
+	<string>%@ to merge onto %@</string>
+	<key>%@ to merge onto %@ [SPOKEN - turn onto freeway]</key>
+	<string>%@ to merge onto %@</string>
+	<key>%@ to merge onto %@ [SPOKEN take exit onto freeway]</key>
+	<string>%@ to merge onto %@</string>
+	<key>%@ yards</key>
+	<string>%@ yards</string>
+	<key>%@ yards trip</key>
+	<string>%@ yards trip</string>
+	<key>%@ yds</key>
+	<string>%@ yds</string>
+	<key>%@'s Location</key>
+	<string>%@'s Location</string>
+	<key>%@, %@</key>
+	<string>%@, %@</string>
+	<key>%@, then %@</key>
+	<string>%@, then %@</string>
+	<key>%d 1/2 [Stark screen hours value]</key>
+	<string>%d½</string>
+	<key>%d feet [SPOKEN]</key>
+	<string>%d feet</string>
+	<key>%d kilometers [SPOKEN]</key>
+	<string>%d kilometers</string>
+	<key>%d m [SPOKEN]</key>
+	<string>%d meters</string>
+	<key>%d miles [SPOKEN]</key>
+	<string>%d miles</string>
+	<key>%d of %d</key>
+	<string>%d of %d</string>
+	<key>%d reviews</key>
+	<string>%d reviews</string>
+	<key>%d yards [SPOKEN]</key>
+	<string>%d yards</string>
+	<key>'%@' [Quoted spelling suggestion on the Stark screen - primary quotes from current locale]</key>
+	<string>%@%@%@</string>
+	<key>'%@' [Stark search results title in quotes]</key>
+	<string>“%@”</string>
+	<key>'San Francisco'</key>
+	<string>“San Francisco”</string>
+	<key>'ice cream'</key>
+	<string>“ice cream”</string>
+	<key>(%@)</key>
+	<string>(%@)</string>
+	<key>, %@</key>
+	<string>, %@</string>
+	<key>, &lt;date&gt;</key>
+	<string>, %@</string>
+	<key>1 day</key>
+	<string>1 day</string>
+	<key>1 day %@ hours</key>
+	<string>1 day %@ hours</string>
+	<key>1 day %@ hours with traffic</key>
+	<string>1 day %@ hours with traffic</string>
+	<key>1 day %@ hr</key>
+	<string>1 day %@ hr</string>
+	<key>1 day %@ hr with traffic</key>
+	<string>1 day %@ hr with traffic</string>
+	<key>1 day 1 hour</key>
+	<string>1 day 1 hour</string>
+	<key>1 day 1 hour with traffic</key>
+	<string>1 day 1 hour with traffic</string>
+	<key>1 day 1 hr with traffic</key>
+	<string>1 day 1 hr with traffic</string>
+	<key>1 day trip</key>
+	<string>1 day trip</string>
+	<key>1 day with traffic</key>
+	<string>1 day with traffic</string>
+	<key>1 hour</key>
+	<string>1 hour</string>
+	<key>1 hour %@ minutes</key>
+	<string>1 hour %@ minutes</string>
+	<key>1 hour %@ minutes with traffic</key>
+	<string>1 hour %@ minutes with traffic</string>
+	<key>1 hour 1 minute</key>
+	<string>1 hour 1 minute</string>
+	<key>1 hour 1 minute with traffic</key>
+	<string>1 hour 1 minute with traffic</string>
+	<key>1 hour trip</key>
+	<string>1 hour trip</string>
+	<key>1 hour with traffic</key>
+	<string>1 hour with traffic</string>
+	<key>1 hr</key>
+	<string>1 hr</string>
+	<key>1 hr %@ min</key>
+	<string>1 hr %@ min</string>
+	<key>1 hr %@ min with traffic</key>
+	<string>1 hr %@ min with traffic</string>
+	<key>1 hr 1 min</key>
+	<string>1 hr 1 min</string>
+	<key>1 hr 1 min with traffic</key>
+	<string>1 hr 1 min with traffic</string>
+	<key>1 hr with traffic</key>
+	<string>1 hr with traffic</string>
+	<key>1 kilometer [SPOKEN]</key>
+	<string>1 kilometer</string>
+	<key>1 meter [SPOKEN]</key>
+	<string>1 meter</string>
+	<key>1 min</key>
+	<string>1 min</string>
+	<key>1 min with traffic</key>
+	<string>1 min with traffic</string>
+	<key>1 minute</key>
+	<string>1 minute</string>
+	<key>1 minute trip</key>
+	<string>1 minute trip</string>
+	<key>1 minute with traffic</key>
+	<string>1 minute with traffic</string>
+	<key>1 of %@</key>
+	<string>1 of %@</string>
+	<key>1 review</key>
+	<string>1 review</string>
+	<key>1 second trip</key>
+	<string>1 second trip</string>
+	<key>1/2 [Stark screen fractional miles value]</key>
+	<string>½</string>
+	<key>1/4 [Stark screen fractional miles value]</key>
+	<string>¼</string>
+	<key>10th Exit</key>
+	<string>10th Exit</string>
+	<key>11th Exit</key>
+	<string>11th Exit</string>
+	<key>12th Exit</key>
+	<string>12th Exit</string>
+	<key>13th Exit</key>
+	<string>13th Exit</string>
+	<key>14th Exit</key>
+	<string>14th Exit</string>
+	<key>15th Exit</key>
+	<string>15th Exit</string>
+	<key>16th Exit</key>
+	<string>16th Exit</string>
+	<key>17th Exit</key>
+	<string>17th Exit</string>
+	<key>18th Exit</key>
+	<string>18th Exit</string>
+	<key>19th Exit</key>
+	<string>19th Exit</string>
+	<key>1st Exit</key>
+	<string>1st Exit</string>
+	<key>2 of %@</key>
+	<string>2 of %@</string>
+	<key>2D</key>
+	<string>2D</string>
+	<key>2nd Exit</key>
+	<string>2nd Exit</string>
+	<key>3 of %@</key>
+	<string>3 of %@</string>
+	<key>3/4 [Stark screen fractional miles value]</key>
+	<string>¾</string>
+	<key>3D</key>
+	<string>3D</string>
+	<key>3rd Exit</key>
+	<string>3rd Exit</string>
+	<key>4th Exit</key>
+	<string>4th Exit</string>
+	<key>5th Exit</key>
+	<string>5th Exit</string>
+	<key>6th Exit</key>
+	<string>6th Exit</string>
+	<key>7th Exit</key>
+	<string>7th Exit</string>
+	<key>8th Exit</key>
+	<string>8th Exit</string>
+	<key>9th Exit</key>
+	<string>9th Exit</string>
+	<key>&lt;distance info&gt;, &lt;locality&gt;</key>
+	<string>%@, %@</string>
+	<key>Accept Route</key>
+	<string>Accept Route</string>
+	<key>Add Bookmark</key>
+	<string>Add Bookmark</string>
+	<key>Add New Category</key>
+	<string>Add New Category</string>
+	<key>Add Photo</key>
+	<string>Add Photo</string>
+	<key>Add Photo on %@</key>
+	<string>Add Photo on %@</string>
+	<key>AddBookmarkActivityTitle</key>
+	<string>Add Bookmark</string>
+	<key>AddBookmark_Title</key>
+	<string>Add Bookmark</string>
+	<key>Address</key>
+	<string>Address</string>
+	<key>AddressCorrection_Permission_Allow</key>
+	<string>Allow</string>
+	<key>AddressCorrection_Permission_DontAllow</key>
+	<string>Don't Allow</string>
+	<key>AddressCorrection_Permission_LearnMore</key>
+	<string>Learn More…</string>
+	<key>AddressCorrection_Permission_LearnMore_Title</key>
+	<string>Improve Maps</string>
+	<key>AddressCorrection_Permission_Message</key>
+	<string>Allow Apple to use your frequent locations to improve Maps? You can change this later in Settings.</string>
+	<key>AddressCorrection_Permission_Title</key>
+	<string>Help Improve Maps?</string>
+	<key>Always observe posted road signs and current road conditions.Road conditions and directions may change or be inaccurate.Walking directions may be missing sidewalks or pedestrian paths.</key>
+	<string>Always observe posted road signs and current road conditions.Road conditions and directions may change or be inaccurate.Walking directions may be missing sidewalks or pedestrian paths.</string>
+	<key>Approximate Location</key>
+	<string>Approximate Location</string>
+	<key>Are you a business owner?</key>
+	<string>Are you a business owner?</string>
+	<key>Are you sure you want to end navigation?</key>
+	<string>Are you sure you want to end navigation?</string>
+	<key>Arrival Time</key>
+	<string>Arrival Time</string>
+	<key>Arrive</key>
+	<string>Arrive</string>
+	<key>Arrive Near %@</key>
+	<string>Arrive Near %@</string>
+	<key>Arrive Near the Destination</key>
+	<string>Arrive Near the Destination</string>
+	<key>Arrive at %@</key>
+	<string>Arrive at %@</string>
+	<key>Arrive at %@ [SPOKEN]</key>
+	<string>Arrive at %@</string>
+	<key>Arrive at 'Destination'</key>
+	<string>Arrive at %@</string>
+	<key>Arrive at the Destination</key>
+	<string>Arrive at the Destination</string>
+	<key>Arrive at your destination [SPOKEN]</key>
+	<string>Arrive at your destination</string>
+	<key>Arrive near %@ [SPOKEN]</key>
+	<string>Arrive near %@</string>
+	<key>Arrive near your destination [SPOKEN]</key>
+	<string>Arrive near your destination</string>
+	<key>Arrived [SPOKEN]</key>
+	<string>Arrived</string>
+	<key>Arrived [Stark]</key>
+	<string>Arrived</string>
+	<key>Arrived at %@</key>
+	<string>Arrived at %@</string>
+	<key>Arrived at %@ [SPOKEN]</key>
+	<string>Arrived at %@</string>
+	<key>Arrived at end of Navigation instructions [SPOKEN]</key>
+	<string>You have reached closest navigable point to your destination</string>
+	<key>Arrived on %@ at %@</key>
+	<string>Arrived on %@ at %@</string>
+	<key>Arrived yesterday at %@</key>
+	<string>Arrived yesterday at %@</string>
+	<key>Arrives at %@</key>
+	<string>Arrives at %@</string>
+	<key>Arrives in %@ minutes</key>
+	<string>Arrives in %@ minutes</string>
+	<key>Arrives in 1 minute</key>
+	<string>Arrives in 1 minute</string>
+	<key>Arrives now</key>
+	<string>Arrives now</string>
+	<key>Arrives on %@ at %@</key>
+	<string>Arrives on %@ at %@</string>
+	<key>Arrives tomorrow at %@</key>
+	<string>Arrives tomorrow at %@</string>
+	<key>At the Roundabout, Take the %@</key>
+	<string>At the Roundabout, Take the %@</string>
+	<key>At the Roundabout, Take the %@ Toward %@</key>
+	<string>At the Roundabout, Take the %@ Toward %@</string>
+	<key>At the Roundabout, Take the %@ at %@</key>
+	<string>At the Roundabout, Take the %@ at %@</string>
+	<key>At the Roundabout, Take the %@ onto %@</key>
+	<string>At the Roundabout, Take the %@ onto %@</string>
+	<key>At the roundabout, continue ahead [SPOKEN WALKING]</key>
+	<string>At the roundabout, continue ahead</string>
+	<key>At the roundabout, continue onto %@ [SPOKEN WALKING]</key>
+	<string>At the roundabout, continue onto %@</string>
+	<key>At the roundabout, take a left [SPOKEN WALKING]</key>
+	<string>At the roundabout, take a left</string>
+	<key>At the roundabout, take a left on %@ [SPOKEN WALKING]</key>
+	<string>At the roundabout, take a left on %@</string>
+	<key>At the roundabout, take a right [SPOKEN WALKING]</key>
+	<string>At the roundabout, take a right</string>
+	<key>At the roundabout, take a right on %@ [SPOKEN WALKING]</key>
+	<string>At the roundabout, take a right on %@</string>
+	<key>At the roundabout, take the %@ [SPOKEN - roundabout exit]</key>
+	<string>At the roundabout, take the %@</string>
+	<key>At the roundabout, take the %@ at %@ [SPOKEN - roundabout exit at intersection]</key>
+	<string>At the roundabout, take the %@ at %@</string>
+	<key>At the roundabout, take the %@ at %@ onto %@ [SPOKEN - roundabout exit at intersection and roadname]</key>
+	<string>At the roundabout, take the %@ at %@ onto %@</string>
+	<key>At the roundabout, take the %@ at %@ to merge onto %@ [SPOKEN - roundabout exit at intersection and freeway]</key>
+	<string>At the roundabout, take the %@ at %@ to merge onto %@</string>
+	<key>At the roundabout, take the %@ onto %@ [SPOKEN - roundabout exit at roadname]</key>
+	<string>At the roundabout, take the %@ onto %@</string>
+	<key>At the roundabout, take the %@ to merge onto %@ [SPOKEN - roundabout exit at freeway]</key>
+	<string>At the roundabout, take the %@ to merge onto %@</string>
+	<key>Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>BookmarksView_Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>Bookmarks_Name</key>
+	<string>Name</string>
+	<key>BusinessHourProvider_Separator</key>
+	<string>, </string>
+	<key>CANCEL_SHARING_ACTION_SHEET_TITLE</key>
+	<string>Cancel</string>
+	<key>CNG Stations</key>
+	<string>CNG Stations</string>
+	<key>COMMENTS</key>
+	<string>COMMENTS</string>
+	<key>Callout_ETA_Hours</key>
+	<string>%d:%02d hrs</string>
+	<key>Callout_ETA_Minutes</key>
+	<string>%d min</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Cancel [TOP BAR]</key>
+	<string>Cancel</string>
+	<key>Cannot Determine Location</key>
+	<string>Cannot Determine Location</string>
+	<key>Cannot Provide Directions</key>
+	<string>Cannot Provide Directions</string>
+	<key>Cannot get directions to and from the same location.</key>
+	<string>Cannot get directions to and from the same location.</string>
+	<key>Category</key>
+	<string>Category</string>
+	<key>Change Ferries</key>
+	<string>Change Ferries</string>
+	<key>Change Ferries Toward %@</key>
+	<string>Change Ferries Toward %@</string>
+	<key>Change ferries [SPOKEN]</key>
+	<string>Change ferries</string>
+	<key>Change to the "%@" Ferry</key>
+	<string>Change to the “%@” Ferry</string>
+	<key>Change to the "%@" ferry [SPOKEN]</key>
+	<string>Change to the "%@" ferry</string>
+	<key>Check In</key>
+	<string>Check In</string>
+	<key>Check In on %@</key>
+	<string>Check In on %@</string>
+	<key>Choose a contact to view on the map</key>
+	<string>Choose a contact to view on the map</string>
+	<key>City, Country</key>
+	<string>City, Country</string>
+	<key>Clear</key>
+	<string>Clear</string>
+	<key>Clear All Recents</key>
+	<string>Clear All Recents</string>
+	<key>Comments</key>
+	<string>Comments</string>
+	<key>Confirm Business Information</key>
+	<string>Confirm Business Information</string>
+	<key>Contacts</key>
+	<string>Contacts</string>
+	<key>Continue</key>
+	<string>Continue</string>
+	<key>Continue Ahead [WALKING]</key>
+	<string>Continue Ahead</string>
+	<key>Continue Along This Road</key>
+	<string>Continue Along This Road</string>
+	<key>Continue Forward</key>
+	<string>Continue Forward</string>
+	<key>Continue Toward %@</key>
+	<string>Continue Toward %@</string>
+	<key>Continue Toward %@ [CHANGING FREEWAY]</key>
+	<string>Continue Toward %@</string>
+	<key>Continue [CHANGING FREEWAY]</key>
+	<string>Continue</string>
+	<key>Continue [SPOKEN CHANGING FREEWAY]</key>
+	<string>Continue</string>
+	<key>Continue [SPOKEN]</key>
+	<string>Continue</string>
+	<key>Continue ahead [SPOKEN WALKING]</key>
+	<string>Continue ahead</string>
+	<key>Continue ahead onto %@</key>
+	<string>Continue onto %@</string>
+	<key>Continue along on %@</key>
+	<string>Continue on %@</string>
+	<key>Continue along this road [SPOKEN]</key>
+	<string>Continue along this road</string>
+	<key>Continue along this road for %@ [SPOKEN]</key>
+	<string>Continue along this road for %@</string>
+	<key>Continue at %@</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ [CHANGING FREEWAY]</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ [SPOKEN WALKING]</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ [SPOKEN]</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ [WALKING]</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ on %@ [SPOKEN]</key>
+	<string>Continue at %@ on %@</string>
+	<key>Continue at %@ onto %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Continue at %@ onto %@</string>
+	<key>Continue at %@ onto %@ [SPOKEN WALKING]</key>
+	<string>Continue at %@ onto %@</string>
+	<key>Continue at %@ onto %@ [WALKING]</key>
+	<string>Continue at %@ onto %@</string>
+	<key>Continue at %@ to merge onto %@ [SPOKEN]</key>
+	<string>Continue at %@ to merge onto %@</string>
+	<key>Continue on %@ [SPOKEN WALKING]</key>
+	<string>Continue on %@</string>
+	<key>Continue on %@ [SPOKEN]</key>
+	<string>Continue on %@</string>
+	<key>Continue onto %@ [CHANGING FREEWAY]</key>
+	<string>Continue onto %@</string>
+	<key>Continue onto %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Continue onto %@</string>
+	<key>Continue onto %@ [WALKING]</key>
+	<string>Continue onto %@</string>
+	<key>Copy and Dismiss</key>
+	<string>Copy and Dismiss</string>
+	<key>Cross the street and turn around [SPOKEN WALKING]</key>
+	<string>Cross the street and turn around</string>
+	<key>Cross the street and turn around at %@ [SPOKEN WALKING]</key>
+	<string>Cross the street and turn around at %@</string>
+	<key>Cross the street and turn around at the roundabout [SPOKEN WALKING]</key>
+	<string>Cross the street and turn around at the roundabout</string>
+	<key>Current Location</key>
+	<string>Current Location</string>
+	<key>Data connection required</key>
+	<string>Data connection required</string>
+	<key>Delete Category</key>
+	<string>Delete Category</string>
+	<key>Delivery</key>
+	<string>Delivery</string>
+	<key>Departed at %@</key>
+	<string>Departed at %@</string>
+	<key>Departed on %@ at %@</key>
+	<string>Departed on %@ at %@</string>
+	<key>Departed yesterday at %@</key>
+	<string>Departed yesterday at %@</string>
+	<key>Departs at %@</key>
+	<string>Departs at %@</string>
+	<key>Departs every %@ days</key>
+	<string>Departs every %@ days</string>
+	<key>Departs every %@ hours</key>
+	<string>Departs every %@ hours</string>
+	<key>Departs every %@ minutes</key>
+	<string>Departs every %@ minutes</string>
+	<key>Departs every %@ seconds</key>
+	<string>Departs every %@ seconds</string>
+	<key>Departs every day</key>
+	<string>Departs every day</string>
+	<key>Departs every hour</key>
+	<string>Departs every hour</string>
+	<key>Departs every minute</key>
+	<string>Departs every minute</string>
+	<key>Departs every second</key>
+	<string>Departs every second</string>
+	<key>Departs in %@ minutes</key>
+	<string>Departs in %@ minutes</string>
+	<key>Departs in 1 minute</key>
+	<string>Departs in 1 minute</string>
+	<key>Departs now</key>
+	<string>Departs now</string>
+	<key>Departs on %@ at %@</key>
+	<string>Departs on %@ at %@</string>
+	<key>Departs tomorrow at %@</key>
+	<string>Departs tomorrow at %@</string>
+	<key>Destination</key>
+	<string>Destination</string>
+	<key>Destination on Your Left</key>
+	<string>Destination on Your Left</string>
+	<key>Destination on Your Right</key>
+	<string>Destination on Your Right</string>
+	<key>Did not move the map</key>
+	<string>Did not move the map</string>
+	<key>Did you mean “%@” ?</key>
+	<string>Did you mean “%@” ?</string>
+	<key>Did you mean...</key>
+	<string>Did you mean…</string>
+	<key>Did you mean... [Stark alert title]</key>
+	<string>Did you mean…</string>
+	<key>Did you mean... [Stark title]</key>
+	<string>Did you mean…</string>
+	<key>Diesel CNG Stations</key>
+	<string>Diesel CNG Stations</string>
+	<key>Diesel Electric CNG Stations</key>
+	<string>Diesel Electric CNG Stations</string>
+	<key>Diesel Electric Stations</key>
+	<string>Diesel Electric Stations</string>
+	<key>Diesel Stations</key>
+	<string>Diesel Stations</string>
+	<key>Directions</key>
+	<string>Directions</string>
+	<key>Directions Home</key>
+	<string>Directions Home</string>
+	<key>Directions Not Available</key>
+	<string>Directions Not Available</string>
+	<key>Directions could not be found between these locations</key>
+	<string>Directions could not be found between these locations</string>
+	<key>Directions from &lt;place&gt; to &lt;place&gt; [push-notification]</key>
+	<string>Directions from “%@” to “%@”</string>
+	<key>Directions from Here</key>
+	<string>Directions from Here</string>
+	<key>Directions from current location [push-notification]</key>
+	<string>Directions to “%@”</string>
+	<key>Directions to "%@"</key>
+	<string>Directions to "%@"</string>
+	<key>Directions to %@</key>
+	<string>Directions to %@</string>
+	<key>Directions to Here</key>
+	<string>Directions to Here</string>
+	<key>Directions to current location [push-notification]</key>
+	<string>Directions from “%@”</string>
+	<key>DirectionsInfoBar_End</key>
+	<string>End</string>
+	<key>DirectionsInfoBar_Resume</key>
+	<string>Resume</string>
+	<key>DirectionsInfoBar_Start</key>
+	<string>Start</string>
+	<key>Directions_Clear</key>
+	<string>Clear</string>
+	<key>Directions_Driving_DistanceTime</key>
+	<string>In %1$@%2$@,</string>
+	<key>Directions_Title</key>
+	<string>Directions</string>
+	<key>Directions_Walking_DistanceTime</key>
+	<string>In %1$@%2$@,</string>
+	<key>Dismiss [push-notification-alert]</key>
+	<string>Dismiss</string>
+	<key>Do Not Notify</key>
+	<string>Do Not Notify</string>
+	<key>Don't Correct [Stark spelling suggestion button]</key>
+	<string>Don't Correct</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Drag the pin to the correct location</key>
+	<string>Drag the pin to the correct location</string>
+	<key>Driving directions could not be found between these locations</key>
+	<string>Driving directions could not be found between these locations</string>
+	<key>Drop a Pin</key>
+	<string>Drop a Pin</string>
+	<key>Drop a pin where a traffic incident has occurred</key>
+	<string>Drop a pin where a traffic incident has occurred</string>
+	<key>E</key>
+	<string>E</string>
+	<key>East</key>
+	<string>East</string>
+	<key>Edit Bookmark</key>
+	<string>Edit Bookmark</string>
+	<key>Eighteenth Exit</key>
+	<string>Eighteenth Exit</string>
+	<key>Eighth Exit</key>
+	<string>Eighth Exit</string>
+	<key>Electric CNG Stations</key>
+	<string>Electric CNG Stations</string>
+	<key>Electric Stations</key>
+	<string>Electric Stations</string>
+	<key>Eleventh Exit</key>
+	<string>Eleventh Exit</string>
+	<key>End Navigation</key>
+	<string>End Navigation</string>
+	<key>End:</key>
+	<string>End:</string>
+	<key>Ending [incidents]</key>
+	<string>Ending %@</string>
+	<key>Enter the Roundabout</key>
+	<string>Enter the Roundabout</string>
+	<key>Enter the Roundabout [WALKING]</key>
+	<string>Enter the Roundabout</string>
+	<key>Enter the Roundabout at %@</key>
+	<string>Enter the Roundabout at %@</string>
+	<key>Enter the Roundabout at %@ [WALKING]</key>
+	<string>Enter the Roundabout at %@</string>
+	<key>Enter the Roundabout, %@</key>
+	<string>Enter the Roundabout, %@</string>
+	<key>Enter the Roundabout, %@ [WALKING]</key>
+	<string>Enter the Roundabout, %@</string>
+	<key>Enter the roundabout [SPOKEN WALKING]</key>
+	<string>Enter the roundabout</string>
+	<key>Enter the roundabout [SPOKEN]</key>
+	<string>Enter the roundabout</string>
+	<key>Enter the roundabout at %@ [SPOKEN WALKING]</key>
+	<string>Enter the roundabout at %@</string>
+	<key>Enter the roundabout at %@ [SPOKEN]</key>
+	<string>Enter the roundabout at %@</string>
+	<key>Enter the roundabout, %@ [SPOKEN WALKING]</key>
+	<string>Enter the roundabout, %@</string>
+	<key>Enter the roundabout, %@ [SPOKEN]</key>
+	<string>Enter the roundabout, %@</string>
+	<key>Exit 'Exitnumber' [CHANGING FREEWAY - part of sentence]</key>
+	<string>Exit %@</string>
+	<key>Exit 'Exitnumber' [CHANGING FREEWAY]</key>
+	<string>Exit %@</string>
+	<key>Exit 'Exitnumber' [LEAVING FREEWAY - part of sentence]</key>
+	<string>Exit %@</string>
+	<key>Exit 'Exitnumber' [LEAVING FREEWAY]</key>
+	<string>Exit %@</string>
+	<key>Exit Left [LEAVING FREEWAY - part of sentence]</key>
+	<string>Exit Left</string>
+	<key>Exit Left [LEAVING FREEWAY]</key>
+	<string>Exit Left</string>
+	<key>Exit Right [LEAVING FREEWAY - part of sentence]</key>
+	<string>Exit Right</string>
+	<key>Exit Right [LEAVING FREEWAY]</key>
+	<string>Exit Right</string>
+	<key>Exit Roundabout at %@</key>
+	<string>Exit Roundabout at %@</string>
+	<key>Exit Roundabout for %@</key>
+	<string>Exit Roundabout for %@</string>
+	<key>Exit Roundabout onto %@</key>
+	<string>Exit Roundabout onto %@</string>
+	<key>Exit [LEAVING FREEWAY - part of sentence]</key>
+	<string>Exit</string>
+	<key>Exit [LEAVING FREEWAY]</key>
+	<string>Exit</string>
+	<key>Exit at %@ [WALKING]</key>
+	<string>Exit at %@</string>
+	<key>Exit left [SPOKEN LEAVING FREEWAY]</key>
+	<string>Exit left</string>
+	<key>Exit onto %@ [WALKING]</key>
+	<string>Exit onto %@</string>
+	<key>Exit right [SPOKEN LEAVING FREEWAY]</key>
+	<string>Exit right</string>
+	<key>Exit roundabout at %@ [SPOKEN]</key>
+	<string>Exit roundabout at %@</string>
+	<key>Exit roundabout at %@ onto %@ [SPOKEN]</key>
+	<string>Exit roundabout at %@ onto %@</string>
+	<key>Exit roundabout at %@ to merge onto %@ [SPOKEN]</key>
+	<string>Exit roundabout at %@ to merge onto %@</string>
+	<key>Exit roundabout onto %@ [SPOKEN]</key>
+	<string>Exit roundabout onto %@</string>
+	<key>Exit roundabout to merge onto %@ [SPOKEN]</key>
+	<string>Exit roundabout to merge onto %@</string>
+	<key>Exit the Roundabout</key>
+	<string>Exit the Roundabout</string>
+	<key>Exit the Roundabout Toward %@</key>
+	<string>Exit the Roundabout Toward %@</string>
+	<key>Exit the Roundabout [WALKING]</key>
+	<string>Exit the Roundabout</string>
+	<key>Exit the Roundabout at %@ [WALKING]</key>
+	<string>Exit the Roundabout at %@</string>
+	<key>Exit the Roundabout at %@ onto %@ [WALKING]</key>
+	<string>Exit the Roundabout at %@ onto %@</string>
+	<key>Exit the Roundabout onto %@ [WALKING]</key>
+	<string>Exit the Roundabout onto %@</string>
+	<key>Exit the roundabout [SPOKEN WALKING]</key>
+	<string>Exit the roundabout</string>
+	<key>Exit the roundabout [SPOKEN]</key>
+	<string>Exit the roundabout</string>
+	<key>Exit the roundabout at %@ [SPOKEN WALKING]</key>
+	<string>Exit the roundabout at %@</string>
+	<key>Exit the roundabout at %@ onto %@ [SPOKEN WALKING]</key>
+	<string>Exit the roundabout at %@ onto %@</string>
+	<key>Exit the roundabout onto %@ [SPOKEN WALKING]</key>
+	<string>Exit the roundabout onto %@</string>
+	<key>Failed to receive a route to this location.</key>
+	<string>Failed to receive a route to this location.</string>
+	<key>Fifteenth Exit</key>
+	<string>Fifteenth Exit</string>
+	<key>Fifth Exit</key>
+	<string>Fifth Exit</string>
+	<key>First Exit</key>
+	<string>First Exit</string>
+	<key>Flag: Is 'N 1/2 hours' plural? [Stark screen - 0 = singular, 1 = plural]</key>
+	<string>1</string>
+	<key>Flag: Is 1/2 plural? [Stark screen - 0 = singular, 1 = plural]</key>
+	<string>0</string>
+	<key>Flag: Is 1/4 plural? [Stark screen - 0 = singular, 1 = plural]</key>
+	<string>0</string>
+	<key>Flag: Is 3/4 plural? [Stark screen - 0 = singular, 1 = plural]</key>
+	<string>0</string>
+	<key>For %@, continue on %@ [SPOKEN]</key>
+	<string>For %@, continue on %@</string>
+	<key>Fourteenth Exit</key>
+	<string>Fourteenth Exit</string>
+	<key>Fourth Exit</key>
+	<string>Fourth Exit</string>
+	<key>Free</key>
+	<string>Free</string>
+	<key>Freeway Off Ramp</key>
+	<string>Ramp</string>
+	<key>Freeway On Ramp</key>
+	<string>Ramp</string>
+	<key>Freeway Ramp</key>
+	<string>Ramp</string>
+	<key>Frequent Destination</key>
+	<string>Frequent Destination</string>
+	<key>From %@</key>
+	<string>From %@</string>
+	<key>From the App Store</key>
+	<string>From the App Store</string>
+	<key>Gasoline CNG Stations</key>
+	<string>Gasoline CNG Stations</string>
+	<key>Gasoline Diesel CNG Stations</key>
+	<string>Gasoline Diesel CNG Stations</string>
+	<key>Gasoline Diesel Electric CNG Stations</key>
+	<string>Gasoline Diesel Electric CNG Stations</string>
+	<key>Gasoline Diesel Electric Stations</key>
+	<string>Gasoline Diesel Electric Stations</string>
+	<key>Gasoline Diesel Stations</key>
+	<string>Gasoline Diesel Stations</string>
+	<key>Gasoline Electric CNG Stations</key>
+	<string>Gasoline Electric CNG Stations</string>
+	<key>Gasoline Electric Stations</key>
+	<string>Gasoline Electric Stations</string>
+	<key>Gasoline Stations</key>
+	<string>Gasoline Stations</string>
+	<key>Go [Stark navigation start button]</key>
+	<string>Go</string>
+	<key>GuidanceSign_Arrived</key>
+	<string>Arrived</string>
+	<key>Had an incorrect result</key>
+	<string>Had an incorrect result</string>
+	<key>Head east on %@ [SPOKEN]</key>
+	<string>Head east on %@</string>
+	<key>Head north on %@ [SPOKEN]</key>
+	<string>Head north on %@</string>
+	<key>Head northeast on %@ [SPOKEN]</key>
+	<string>Head northeast on %@</string>
+	<key>Head northwest on %@ [SPOKEN]</key>
+	<string>Head northwest on %@</string>
+	<key>Head south on %@ [SPOKEN]</key>
+	<string>Head south on %@</string>
+	<key>Head southeast on %@ [SPOKEN]</key>
+	<string>Head southeast on %@</string>
+	<key>Head southwest on %@ [SPOKEN]</key>
+	<string>Head southwest on %@</string>
+	<key>Head west on %@ [SPOKEN]</key>
+	<string>Head west on %@</string>
+	<key>Hide Traffic</key>
+	<string>Hide Traffic</string>
+	<key>Home</key>
+	<string>Home</string>
+	<key>Hours</key>
+	<string>Hours</string>
+	<key>Hybrid</key>
+	<string>Hybrid</string>
+	<key>IPC_Arrived</key>
+	<string>Arrived</string>
+	<key>Ignore</key>
+	<string>Ignore</string>
+	<key>In %@, %@ [SPOKEN]</key>
+	<string>In %@, %@</string>
+	<key>Included an incorrect step</key>
+	<string>Included an incorrect step</string>
+	<key>Included an unexpected result</key>
+	<string>Included an unexpected result</string>
+	<key>Incorrectly moved the map</key>
+	<string>Incorrectly moved the map</string>
+	<key>Info</key>
+	<string>Info</string>
+	<key>Info from %@</key>
+	<string>Info from %@</string>
+	<key>InfoCard_Hours</key>
+	<string>Hours</string>
+	<key>InfoCard_Location</key>
+	<string>Location</string>
+	<key>Information is incorrect</key>
+	<string>Information is incorrect</string>
+	<key>Installed</key>
+	<string>Installed</string>
+	<key>Installed Apps</key>
+	<string>Installed Apps</string>
+	<key>InstructionContents_Start</key>
+	<string>Start</string>
+	<key>InstructionContents_StartOnRoute</key>
+	<string>Start on Route</string>
+	<key>Instructions_StartOnRoute</key>
+	<string>Start on Route</string>
+	<key>It is not possible to route to this location.</key>
+	<string>It is not possible to route to this location.</string>
+	<key>Keep Left</key>
+	<string>Keep Left</string>
+	<key>Keep Left Toward %@ [CHANGING FREEWAY]</key>
+	<string>Keep Left Toward %@</string>
+	<key>Keep Left [CHANGING FREEWAY]</key>
+	<string>Keep Left</string>
+	<key>Keep Left [part of sentence]</key>
+	<string>Keep Left</string>
+	<key>Keep Left at %@ [CHANGING FREEWAY]</key>
+	<string>Keep Left at %@</string>
+	<key>Keep Left on %@ [CHANGING FREEWAY]</key>
+	<string>Keep Left on %@</string>
+	<key>Keep Right</key>
+	<string>Keep Right</string>
+	<key>Keep Right Toward %@ [CHANGING FREEWAY]</key>
+	<string>Keep Right Toward %@</string>
+	<key>Keep Right [CHANGING FREEWAY]</key>
+	<string>Keep Right</string>
+	<key>Keep Right [part of sentence]</key>
+	<string>Keep Right</string>
+	<key>Keep Right at %@ [CHANGING FREEWAY]</key>
+	<string>Keep Right at %@</string>
+	<key>Keep Right on %@ [CHANGING FREEWAY]</key>
+	<string>Keep Right on %@</string>
+	<key>Keep left [SPOKEN CHANGING FREEWAY]</key>
+	<string>Keep left</string>
+	<key>Keep left [SPOKEN]</key>
+	<string>Keep left</string>
+	<key>Keep left at %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Keep left at %@</string>
+	<key>Keep left at %@ on %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Keep left at %@ on %@</string>
+	<key>Keep left on %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Keep left on %@</string>
+	<key>Keep right [SPOKEN CHANGING FREEWAY]</key>
+	<string>Keep right</string>
+	<key>Keep right [SPOKEN]</key>
+	<string>Keep right</string>
+	<key>Keep right at %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Keep right at %@</string>
+	<key>Keep right at %@ on %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Keep right at %@ on %@</string>
+	<key>Keep right on %@ [SPOKEN CHANGING FREEWAY]</key>
+	<string>Keep right on %@</string>
+	<key>Kids</key>
+	<string>Kids</string>
+	<key>Last updated %@</key>
+	<string>Last updated %@</string>
+	<key>Led the wrong way</key>
+	<string>Led the wrong way</string>
+	<key>Led to the wrong place</key>
+	<string>Led to the wrong place</string>
+	<key>Left [part of sentence]</key>
+	<string>Left</string>
+	<key>Left at %@ [WALKING - turn at intersection]</key>
+	<string>Left at %@</string>
+	<key>Left at %@ onto %@ [WALKING - turn at intersection onto roadname]</key>
+	<string>Left at %@ onto %@</string>
+	<key>Left on %@ [WALKING - turn onto roadname]</key>
+	<string>Left on %@</string>
+	<key>Loading Categories...</key>
+	<string>Loading Categories...</string>
+	<key>Loading Text for Routing Apps</key>
+	<string>Loading…</string>
+	<key>Loading...</key>
+	<string>Loading…</string>
+	<key>Locating...</key>
+	<string>Locating…</string>
+	<key>Location does not exist because:</key>
+	<string>Location does not exist because:</string>
+	<key>Location has closed</key>
+	<string>Location has closed</string>
+	<key>Location is missing</key>
+	<string>Location is missing</string>
+	<key>Location of &lt;place&gt; [push]</key>
+	<string>Location of “%@”</string>
+	<key>LocationServiceAlert_Cancel</key>
+	<string>Cancel</string>
+	<key>LocationServiceAlert_Settings</key>
+	<string>Settings</string>
+	<key>Loud Volume</key>
+	<string>Loud Volume</string>
+	<key>Low Volume</key>
+	<string>Low Volume</string>
+	<key>MAPS_CARD_ADD_BOOKMARK</key>
+	<string>Add Bookmark</string>
+	<key>MAPS_CARD_ADD_TO_BOOKMARKS</key>
+	<string>Add to Bookmarks</string>
+	<key>MAPS_CARD_ADD_TO_CONTACTS</key>
+	<string>Add to Contacts</string>
+	<key>MAPS_CARD_DIRECTIONS_FROM</key>
+	<string>Directions from Here</string>
+	<key>MAPS_CARD_DIRECTIONS_TO</key>
+	<string>Directions to Here</string>
+	<key>MAPS_CARD_REMOVE_PIN</key>
+	<string>Remove Pin</string>
+	<key>MAPS_CARD_SHARE_LOCATION</key>
+	<string>Share Location</string>
+	<key>MAPS_FLYOVER_BUTTON_TEXT</key>
+	<string>Flyover</string>
+	<key>MAPS_PARKING_CARD_REMOVE_PIN</key>
+	<string>Remove Parking Location</string>
+	<key>Make a U-Turn</key>
+	<string>Make a U-Turn</string>
+	<key>Make a U-Turn When Possible</key>
+	<string>Make a U-Turn When Possible</string>
+	<key>Make a U-Turn and Proceed to the Route</key>
+	<string>Make a U-Turn and Proceed to the Route</string>
+	<key>Make a U-Turn at %@</key>
+	<string>Make a U-Turn at %@</string>
+	<key>Make a U-turn and Proceed to %@</key>
+	<string>Make a U-turn and Proceed to %@</string>
+	<key>Make a U-turn and proceed to %@ [SPOKEN]</key>
+	<string>Make a U-turn and proceed to %@</string>
+	<key>Make a U-turn and proceed to the route [SPOKEN]</key>
+	<string>Make a U-turn and proceed to the route</string>
+	<key>Make a U-turn at %@ [SPOKEN]</key>
+	<string>Make a U-turn at %@</string>
+	<key>Make a u-turn [SPOKEN]</key>
+	<string>Make a U-turn</string>
+	<key>Make a u-turn when possible [SPOKEN]</key>
+	<string>Make a U-turn when possible</string>
+	<key>Map</key>
+	<string>Map</string>
+	<key>Map Server Not Available</key>
+	<string>Map Server Not Available</string>
+	<key>Map information and location may be included in problem reports. This allows Apple and partners to investigate the problem.</key>
+	<string>Map information and location may be included in problem reports. This allows Apple and partners to investigate the problem.</string>
+	<key>Maps Location [push]</key>
+	<string>Maps Location</string>
+	<key>Maps Route [push]</key>
+	<string>Maps Route</string>
+	<key>Maps cannot connect to the internet.</key>
+	<string>Maps cannot connect to the internet.</string>
+	<key>Merge onto %@</key>
+	<string>Merge onto %@</string>
+	<key>Merge onto %@ [SPOKEN]</key>
+	<string>Merge onto %@</string>
+	<key>More Photos on %@</key>
+	<string>More Photos on %@</string>
+	<key>More Reviews on %@</key>
+	<string>More Reviews on %@</string>
+	<key>More info on %@</key>
+	<string>More info on %@</string>
+	<key>More information can be added after pressing Next.</key>
+	<string>More information can be added after pressing Next.</string>
+	<key>N</key>
+	<string>N</string>
+	<key>NE</key>
+	<string>NE</string>
+	<key>NOTIFICATION</key>
+	<string>NOTIFICATION</string>
+	<key>NW</key>
+	<string>NW</string>
+	<key>Name[RAP]</key>
+	<string>Name</string>
+	<key>Navigation</key>
+	<string>Navigation</string>
+	<key>Navigation Voice</key>
+	<string>Navigation Voice</string>
+	<key>Navigation_CompactETA</key>
+	<string>%@ arrival</string>
+	<key>Navigation_CompactETA_Multiline</key>
+	<string>%@
+arrival</string>
+	<key>Navigation_Directions</key>
+	<string>Directions</string>
+	<key>Navigation_DirectionsForUnknownTransport</key>
+	<string>Proceed to the destination</string>
+	<key>Navigation_SwitchToDrivingNotification</key>
+	<string>Continuing with driving directions</string>
+	<key>Navigation_SwitchToWalkingNotification</key>
+	<string>Continuing with walking directions</string>
+	<key>New Route Available</key>
+	<string>New Route Available</string>
+	<key>Nineteenth Exit</key>
+	<string>Nineteenth Exit</string>
+	<key>Ninth Exit</key>
+	<string>Ninth Exit</string>
+	<key>No</key>
+	<string>No</string>
+	<key>No Bookmarks [Stark bookmarks list title for no content]</key>
+	<string>No Bookmarks</string>
+	<key>No Matches for Routing Apps</key>
+	<string>No Matches</string>
+	<key>No Ratings</key>
+	<string>No Ratings</string>
+	<key>No Recents [Stark recent list title for no content]</key>
+	<string>No Recents</string>
+	<key>No Results</key>
+	<string>No Results</string>
+	<key>No Results Found</key>
+	<string>No Results Found</string>
+	<key>No Voice</key>
+	<string>No Voice</string>
+	<key>No reviews</key>
+	<string>No reviews</string>
+	<key>Normal Volume</key>
+	<string>Normal Volume</string>
+	<key>North</key>
+	<string>North</string>
+	<key>North East</key>
+	<string>North East</string>
+	<key>North West</key>
+	<string>North West</string>
+	<key>Notes</key>
+	<string>Notes</string>
+	<key>Notify me when this problem is resolved.</key>
+	<string>Notify me when this problem is resolved.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Off Ramp</key>
+	<string>Ramp</string>
+	<key>Official App</key>
+	<string>Official App</string>
+	<key>On Ramp</key>
+	<string>Ramp</string>
+	<key>On Your Left, %@</key>
+	<string>On Your Left, %@</string>
+	<key>On Your Right, %@</key>
+	<string>On Your Right, %@</string>
+	<key>Organize bookmarks</key>
+	<string>Organize bookmarks</string>
+	<key>Other</key>
+	<string>Other</string>
+	<key>Output</key>
+	<string>Output</string>
+	<key>OverviewBar_End</key>
+	<string>End</string>
+	<key>OverviewBar_Overview</key>
+	<string>Overview</string>
+	<key>Overview_TimeDistance</key>
+	<string>%1$@ - %2$@</string>
+	<key>Overview_TimeDistanceRouteName</key>
+	<string>%1$@ - %2$@</string>
+	<key>PREVIOUS SEARCHES</key>
+	<string>PREVIOUS SEARCHES</string>
+	<key>Page %1$d of %2$d</key>
+	<string>Page %1$d of %2$d</string>
+	<key>Park Your Car</key>
+	<string>Park Your Car</string>
+	<key>Park Your Car Near %@</key>
+	<string>Park Your Car Near %@</string>
+	<key>Parking Location</key>
+	<string>Parking Location</string>
+	<key>Passed through a closed road</key>
+	<string>Passed through a closed road</string>
+	<key>Passed through traffic</key>
+	<string>Passed through traffic</string>
+	<key>Permanently Closed</key>
+	<string>Permanently Closed</string>
+	<key>Phone</key>
+	<string>Phone</string>
+	<key>Photos</key>
+	<string>Photos</string>
+	<key>Photos from %@</key>
+	<string>Photos from %@</string>
+	<key>Pin is at incorrect location</key>
+	<string>Pin is at incorrect location</string>
+	<key>Place does not exist</key>
+	<string>Place does not exist</string>
+	<key>PlaceCard_Location</key>
+	<string>Location</string>
+	<key>PlaceView_Hours</key>
+	<string>Hours</string>
+	<key>Please be safe and always pay attention to the road.Road conditions and directions may change or be inaccurate.Always observe posted road signs and current road conditions.</key>
+	<string>Please be safe and always pay attention to the road.Road conditions and directions may change or be inaccurate.Always observe posted road signs and current road conditions.</string>
+	<key>Please be safe and always pay attention to the road. Road conditions and directions may change or be inaccurate. Always observe posted road signs and current road conditions.</key>
+	<string>Please be safe and always pay attention to the road. Road conditions and directions may change or be inaccurate. Always observe posted road signs and current road conditions.</string>
+	<key>Please be safe and always pay attention to your surroundings.	Walking directions may be inaccurate and may be missing sidewalks or pedestrian paths.</key>
+	<string>Please be safe and always pay attention to your surroundings.	Walking directions may be inaccurate and may be missing sidewalks or pedestrian paths.</string>
+	<key>Please be safe and always pay attention to your surroundings.Walking directions may be inaccurate and may be missing sidewalks or pedestrian paths.</key>
+	<string>Please be safe and always pay attention to your surroundings.Walking directions may be inaccurate and may be missing sidewalks or pedestrian paths.</string>
+	<key>Please say your destination</key>
+	<string>Please say your destination</string>
+	<key>Popular Apps Nearby</key>
+	<string>Popular Apps Nearby</string>
+	<key>Position the map to show the problem</key>
+	<string>Position the map to show the problem</string>
+	<key>Prepare to Park Your Car</key>
+	<string>Prepare to Park Your Car</string>
+	<key>Prepare to Park Your Car Near %@</key>
+	<string>Prepare to Park Your Car Near %@</string>
+	<key>Prepare to park your car near %@. You will need to walk to your destination from there. [SPOKEN]</key>
+	<string>Prepare to park your car near %@. You will need to walk to your destination from there.</string>
+	<key>Prepare to park your car. You will need to walk to your destination. [SPOKEN]</key>
+	<string>Prepare to park your car. You will need to walk to your destination.</string>
+	<key>Previous Directions</key>
+	<string>Previous Directions</string>
+	<key>Print Map</key>
+	<string>Print Map</string>
+	<key>PrintController_Directions</key>
+	<string>Directions</string>
+	<key>PrintController_SearchResults</key>
+	<string>Search Results</string>
+	<key>Printed from my iPad</key>
+	<string>Printed from my iPad</string>
+	<key>Printed from my iPhone</key>
+	<string>Printed from my iPhone</string>
+	<key>Printed from my iPod touch</key>
+	<string>Printed from my iPod touch</string>
+	<key>Problem</key>
+	<string>Problem</string>
+	<key>Problem fixed [fixed-problem-notification-title]</key>
+	<string>Problem fixed</string>
+	<key>Problem with directions</key>
+	<string>Problem with directions</string>
+	<key>Problem with satellite image</key>
+	<string>Problem with satellite image</string>
+	<key>Problem with traffic</key>
+	<string>Problem with traffic</string>
+	<key>Proceed to %@</key>
+	<string>Proceed to %@</string>
+	<key>Proceed to %@ [SPOKEN WALKING]</key>
+	<string>Proceed to %@</string>
+	<key>Proceed to %@ [SPOKEN]</key>
+	<string>Proceed to %@</string>
+	<key>Proceed to %@ [WALKING]</key>
+	<string>Proceed to %@</string>
+	<key>Proceed to route</key>
+	<string>Proceed to route</string>
+	<key>Proceed to the Route</key>
+	<string>Proceed to the Route</string>
+	<key>Proceed to the route [SPOKEN]</key>
+	<string>Proceed to the route</string>
+	<key>RAPAddress_Next</key>
+	<string>Next</string>
+	<key>RAPAddress_Send</key>
+	<string>Send</string>
+	<key>RAPCategory_Cancel</key>
+	<string>Cancel</string>
+	<key>RAPCategory_Done</key>
+	<string>Done</string>
+	<key>RAPComments_Next</key>
+	<string>Next</string>
+	<key>RAPComments_Send</key>
+	<string>Send</string>
+	<key>RAPDirectionsDetails_Next</key>
+	<string>Next</string>
+	<key>RAPDirectionsDetails_ProblemNotListed</key>
+	<string>My problem isn't listed</string>
+	<key>RAPDirectionsDetails_Send</key>
+	<string>Send</string>
+	<key>RAPDirectionsStep_Next</key>
+	<string>Next</string>
+	<key>RAPDirectionsStep_ProblemNotListed</key>
+	<string>My problem isn't listed</string>
+	<key>RAPDirectionsStep_Send</key>
+	<string>Send</string>
+	<key>RAPDirections_Next</key>
+	<string>Next</string>
+	<key>RAPLocationPicker_Next</key>
+	<string>Next</string>
+	<key>RAPLocationPicker_Send</key>
+	<string>Send</string>
+	<key>RAPProblemDoesNotExist_Next</key>
+	<string>Next</string>
+	<key>RAPProblemDoesNotExist_Send</key>
+	<string>Send</string>
+	<key>RAPSatellite_Next</key>
+	<string>Next</string>
+	<key>RAPSatellite_ProblemNotListed</key>
+	<string>My problem isn't listed</string>
+	<key>RAPSatellite_Send</key>
+	<string>Send</string>
+	<key>RAPSearchClassic_Next</key>
+	<string>Next</string>
+	<key>RAPSearchIncorrect_Next</key>
+	<string>Next</string>
+	<key>RAPSearchIncorrect_Send</key>
+	<string>Send</string>
+	<key>RAPSearchResult_Next</key>
+	<string>Next</string>
+	<key>RAPSearchResult_Send</key>
+	<string>Send</string>
+	<key>RAPSearchResults_Next</key>
+	<string>Next</string>
+	<key>RAPSearchResults_PreviousSearches</key>
+	<string>Previous Searches</string>
+	<key>RAPSearchResults_PreviousSearchesHeader</key>
+	<string>Previous Searches</string>
+	<key>RAPSearchResults_ProblemNotListed</key>
+	<string>My problem isn't listed</string>
+	<key>RAPSearchResults_Title</key>
+	<string>Report a Problem</string>
+	<key>RAPTable_Next</key>
+	<string>Next</string>
+	<key>RAPTable_ProblemNotListed</key>
+	<string>My problem isn't listed</string>
+	<key>RAPTopBar_Next</key>
+	<string>Next</string>
+	<key>RAPTopBar_ProblemNotListed</key>
+	<string>My problem isn't listed</string>
+	<key>RAPTraffic_Next</key>
+	<string>Next</string>
+	<key>RAPTraffic_ProblemNotListed</key>
+	<string>My problem isn't listed</string>
+	<key>RAP_Cancel</key>
+	<string>Cancel</string>
+	<key>RAP_CancelCategory</key>
+	<string>Cancel</string>
+	<key>RAP_Done</key>
+	<string>Done</string>
+	<key>RAP_Name</key>
+	<string>Name</string>
+	<key>RAPiCloudNotify_Send</key>
+	<string>Send</string>
+	<key>Ramp</key>
+	<string>Ramp</string>
+	<key>Recent Route</key>
+	<string>Recent Route</string>
+	<key>Recent Search</key>
+	<string>Recent Search</string>
+	<key>Recents</key>
+	<string>Recents</string>
+	<key>Recents_Clear</key>
+	<string>Clear</string>
+	<key>Recents_Title</key>
+	<string>Recents</string>
+	<key>RemainingTime_1min</key>
+	<string>1 min</string>
+	<key>RemainingTime_HoursMinutes</key>
+	<string>%d hr %d min</string>
+	<key>RemainingTime_HoursMinutesShort</key>
+	<string>%d hr %d min</string>
+	<key>RemainingTime_MinutesOnly</key>
+	<string>%d min</string>
+	<key>Report a Problem</key>
+	<string>Report a Problem</string>
+	<key>Report a Problem [Button Title]</key>
+	<string>Report a Problem</string>
+	<key>Report a Problem [Nav Title]</key>
+	<string>Report a Problem</string>
+	<key>Reported Problem</key>
+	<string>Reported Problem</string>
+	<key>Requesting...</key>
+	<string>Requesting…</string>
+	<key>Required</key>
+	<string>Required</string>
+	<key>Rerouted</key>
+	<string>Rerouted</string>
+	<key>Rerouting...</key>
+	<string>Rerouting…</string>
+	<key>Reservations</key>
+	<string>Reservations</string>
+	<key>Reviews</key>
+	<string>Reviews</string>
+	<key>Reviews by %@</key>
+	<string>Reviews by %@</string>
+	<key>Reviews from %@</key>
+	<string>Reviews from %@</string>
+	<key>Right [part of sentence]</key>
+	<string>Right</string>
+	<key>Right at %@ [WALKING - turn at intersection]</key>
+	<string>Right at %@</string>
+	<key>Right at %@ onto %@ [WALKING - turn at intersection onto roadname]</key>
+	<string>Right at %@ onto %@</string>
+	<key>Right on %@ [WALKING - turn onto roadname]</key>
+	<string>Right on %@</string>
+	<key>Route</key>
+	<string>Route</string>
+	<key>Route Overview</key>
+	<string>Route Overview</string>
+	<key>Route in Progress</key>
+	<string>Route in Progress</string>
+	<key>Route information is not available at this moment.</key>
+	<string>Route information is not available at this moment.</string>
+	<key>Routing Apps</key>
+	<string>Routing Apps</string>
+	<key>S</key>
+	<string>S</string>
+	<key>SE</key>
+	<string>SE</string>
+	<key>SHARE_CURRENT_LOCATION_ACTION_SHEET_TITLE</key>
+	<string>Current Location</string>
+	<key>SHARE_DIRECTIONS_ACTION_SHEET_TITLE</key>
+	<string>Directions</string>
+	<key>SHARE_SELECTED_LOCATION_ACTION_SHEET_TITLE</key>
+	<string>Selected Location</string>
+	<key>SW</key>
+	<string>SW</string>
+	<key>Safety Warning</key>
+	<string>Safety Warning</string>
+	<key>Satellite</key>
+	<string>Satellite</string>
+	<key>Satellite image has poor quality</key>
+	<string>Satellite image has poor quality</string>
+	<key>Satellite image is outdated</key>
+	<string>Satellite image is outdated</string>
+	<key>Search Again</key>
+	<string>Search Again</string>
+	<key>Search Results</key>
+	<string>Search Results</string>
+	<key>Search Results Not Available</key>
+	<string>Search Results Not Available</string>
+	<key>Search Results for "%@"</key>
+	<string>Search Results for "%@"</string>
+	<key>Search or enter an address</key>
+	<string>Search or enter an address</string>
+	<key>Search result was unexpected</key>
+	<string>Search result was unexpected</string>
+	<key>Search results are incorrect</key>
+	<string>Search results are incorrect</string>
+	<key>SearchBar_Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>SearchBar_Directions</key>
+	<string>Directions</string>
+	<key>SearchFieldItem_UnknownLocation</key>
+	<string>Unknown Location</string>
+	<key>SearchResult_Separator</key>
+	<string>, </string>
+	<key>SearchResult_UnknownLocation</key>
+	<string>Unknown Location</string>
+	<key>SearchResults_Clear</key>
+	<string>Clear</string>
+	<key>Searched for "%@"</key>
+	<string>Searched for “%@”</string>
+	<key>Searches</key>
+	<string>Searches</string>
+	<key>Second Exit</key>
+	<string>Second Exit</string>
+	<key>Select a Category</key>
+	<string>Select a Category</string>
+	<key>Select satellite image problem</key>
+	<string>Select satellite image problem</string>
+	<key>Select the area where traffic flow is incorrect</key>
+	<string>Select the area where traffic flow is incorrect</string>
+	<key>Select the area where traffic is slower</key>
+	<string>Select the area where traffic is slower</string>
+	<key>Select the incorrect step.</key>
+	<string>Select the incorrect step.</string>
+	<key>Selected Search</key>
+	<string>Selected Search</string>
+	<key>Selected step</key>
+	<string>Selected step</string>
+	<key>Selected the wrong pin</key>
+	<string>Selected the wrong pin</string>
+	<key>Service Stations</key>
+	<string>Service Stations</string>
+	<key>Seventeenth Exit</key>
+	<string>Seventeenth Exit</string>
+	<key>Seventh Exit</key>
+	<string>Seventh Exit</string>
+	<key>Share</key>
+	<string>Share</string>
+	<key>Shared Location</key>
+	<string>Shared Location</string>
+	<key>Sharp Left [part of sentence]</key>
+	<string>Sharp Left</string>
+	<key>Sharp Right [part of sentence]</key>
+	<string>Sharp Right</string>
+	<key>Should have moved</key>
+	<string>Should have moved</string>
+	<key>Should have moved to:</key>
+	<string>Should have moved to:</string>
+	<key>Should not have moved</key>
+	<string>Should not have moved</string>
+	<key>Show Traffic</key>
+	<string>Show Traffic</string>
+	<key>Show [fixed-problem-notification-action]</key>
+	<string>Show</string>
+	<key>Show [push-notification-action]</key>
+	<string>Show</string>
+	<key>Show [push-notification-alert]</key>
+	<string>Show</string>
+	<key>Sixteenth Exit</key>
+	<string>Sixteenth Exit</string>
+	<key>Sixth Exit</key>
+	<string>Sixth Exit</string>
+	<key>Slight Left [part of sentence]</key>
+	<string>Slight Left</string>
+	<key>Slight Right [part of sentence]</key>
+	<string>Slight Right</string>
+	<key>South</key>
+	<string>South</string>
+	<key>South East</key>
+	<string>South East</string>
+	<key>South West</key>
+	<string>South West</string>
+	<key>Speak your search term</key>
+	<string>Speak your search term</string>
+	<key>Standard</key>
+	<string>Standard</string>
+	<key>StarkAlerts_OK</key>
+	<string>OK</string>
+	<key>StarkBookmarksView_Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>StarkControlMenu_Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>StarkControlMenu_CurrentLocation</key>
+	<string>Current Location</string>
+	<key>StarkControlMenu_Recents</key>
+	<string>Recents</string>
+	<key>StarkControlMenu_RouteGenius</key>
+	<string>Likely Routes</string>
+	<key>StarkControlMenu_Search</key>
+	<string>Search</string>
+	<key>StarkDirections_Title</key>
+	<string>Directions</string>
+	<key>StarkGuidanceBar_End</key>
+	<string>End</string>
+	<key>StarkGuidanceBar_Overview</key>
+	<string>Overview</string>
+	<key>StarkGuidanceBar_Resume</key>
+	<string>Resume</string>
+	<key>StarkNavMenu_Directions</key>
+	<string>Directions</string>
+	<key>StarkNavMenu_End</key>
+	<string>End</string>
+	<key>StarkNavMenu_Overview</key>
+	<string>Overview</string>
+	<key>StarkNavMenu_View</key>
+	<string>View</string>
+	<key>StarkNavigation_Maps</key>
+	<string>Maps</string>
+	<key>StarkSearchBar_Cancel</key>
+	<string>Cancel</string>
+	<key>StarkTopBar_Cancel</key>
+	<string>Cancel</string>
+	<key>Stark_ArrivalTitle</key>
+	<string>arrival</string>
+	<key>Stark_DirectionsTo</key>
+	<string>Directions to %@</string>
+	<key>Stark_Done</key>
+	<string>Done</string>
+	<key>Stark_Maps</key>
+	<string>Maps</string>
+	<key>Stark_Recents</key>
+	<string>Recents</string>
+	<key>Start on %@</key>
+	<string>Start on %@</string>
+	<key>Start on the Route</key>
+	<string>Start on the Route</string>
+	<key>Start on the Route [WALKING]</key>
+	<string>Start on the Route</string>
+	<key>Start on the route [SPOKEN WALKING]</key>
+	<string>Start on the route</string>
+	<key>Start:</key>
+	<string>Start:</string>
+	<key>Started [incidents]</key>
+	<string>Started %@</string>
+	<key>Starting route [SPOKEN]</key>
+	<string>Starting route</string>
+	<key>Starting route to %@ [SPOKEN]</key>
+	<string>Starting route to %@</string>
+	<key>Street or other label is incorrect</key>
+	<string>Street or other label is incorrect</string>
+	<key>Suggest corrections below.</key>
+	<string>Suggest corrections below.</string>
+	<key>Suggested a closed road</key>
+	<string>Suggested a closed road</string>
+	<key>Suggested a prohibited turn</key>
+	<string>Suggested a prohibited turn</string>
+	<key>Suggestions</key>
+	<string>Suggestions</string>
+	<key>THE MAP...</key>
+	<string>THE MAP…</string>
+	<key>Take Exit 'Exitnumber' [CHANGING FREEWAY - part of sentence]</key>
+	<string>Take Exit %@</string>
+	<key>Take Exit 'Exitnumber' [CHANGING FREEWAY]</key>
+	<string>Take Exit %@</string>
+	<key>Take Exit 'Exitnumber' [LEAVING FREEWAY - part of sentence]</key>
+	<string>Take Exit %@</string>
+	<key>Take Exit 'Exitnumber' [LEAVING FREEWAY]</key>
+	<string>Take Exit %@</string>
+	<key>Take Exit 'Exitnumber' on the Left [CHANGING FREEWAY - part of sentence]</key>
+	<string>Take Exit %@ on the Left</string>
+	<key>Take Exit 'Exitnumber' on the Left [CHANGING FREEWAY]</key>
+	<string>Take Exit %@ on the Left</string>
+	<key>Take Exit 'Exitnumber' on the Left [LEAVING FREEWAY - part of sentence]</key>
+	<string>Take Exit %@ on the Left</string>
+	<key>Take Exit 'Exitnumber' on the Left [LEAVING FREEWAY]</key>
+	<string>Take Exit %@ on the Left</string>
+	<key>Take Exit 'Exitnumber' on the Right [CHANGING FREEWAY - part of sentence]</key>
+	<string>Take Exit %@ on the Right</string>
+	<key>Take Exit 'Exitnumber' on the Right [CHANGING FREEWAY]</key>
+	<string>Take Exit %@ on the Right</string>
+	<key>Take Exit 'Exitnumber' on the Right [LEAVING FREEWAY - part of sentence]</key>
+	<string>Take Exit %@ on the Right</string>
+	<key>Take Exit 'Exitnumber' on the Right [LEAVING FREEWAY]</key>
+	<string>Take Exit %@ on the Right</string>
+	<key>Take Exit [LEAVING FREEWAY - part of sentence]</key>
+	<string>Take Exit</string>
+	<key>Take Exit [LEAVING FREEWAY]</key>
+	<string>Take Exit</string>
+	<key>Take a Left [WALKING - turn no roadname]</key>
+	<string>Take a Left</string>
+	<key>Take a Left at %@ [WALKING - turn at intersection]</key>
+	<string>Take a Left at %@</string>
+	<key>Take a Left at %@ onto %@ [WALKING - turn at intersection onto roadname]</key>
+	<string>Take a Left at %@ onto %@</string>
+	<key>Take a Left on %@ [WALKING - turn onto roadname]</key>
+	<string>Take a Left on %@</string>
+	<key>Take a Right [WALKING - turn no roadname]</key>
+	<string>Take a Right</string>
+	<key>Take a Right at %@ [WALKING - turn at intersection]</key>
+	<string>Take a Right at %@</string>
+	<key>Take a Right at %@ onto %@ [WALKING - turn at intersection onto roadname]</key>
+	<string>Take a Right at %@ onto %@</string>
+	<key>Take a Right on %@ [WALKING - turn onto roadname]</key>
+	<string>Take a Right on %@</string>
+	<key>Take a Sharp Left Turn</key>
+	<string>Take a Sharp Left Turn</string>
+	<key>Take a Sharp Left Turn [part of sentence]</key>
+	<string>Take a Sharp Left Turn</string>
+	<key>Take a Sharp Right Turn</key>
+	<string>Take a Sharp Right Turn</string>
+	<key>Take a Sharp Right Turn [part of sentence]</key>
+	<string>Take a Sharp Right Turn</string>
+	<key>Take a Slight Left Turn</key>
+	<string>Take a Slight Left Turn</string>
+	<key>Take a Slight Left Turn [part of sentence]</key>
+	<string>Take a Slight Left Turn</string>
+	<key>Take a Slight Right Turn</key>
+	<string>Take a Slight Right Turn</string>
+	<key>Take a Slight Right Turn [part of sentence]</key>
+	<string>Take a Slight Right Turn</string>
+	<key>Take a left [SPOKEN WALKING - turn no roadname]</key>
+	<string>Take a left</string>
+	<key>Take a left at %@ [SPOKEN WALKING - turn at intersection]</key>
+	<string>Take a left at %@</string>
+	<key>Take a left at %@ onto %@ [SPOKEN WALKING - turn at intersection onto roadname]</key>
+	<string>Take a left at %@ onto %@</string>
+	<key>Take a left on %@ [SPOKEN WALKING - turn onto roadname]</key>
+	<string>Take a left on %@</string>
+	<key>Take a right [SPOKEN WALKING - turn no roadname]</key>
+	<string>Take a right</string>
+	<key>Take a right at %@ [SPOKEN WALKING - turn at intersection]</key>
+	<string>Take a right at %@</string>
+	<key>Take a right at %@ onto %@ [SPOKEN WALKING - turn at intersection onto roadname]</key>
+	<string>Take a right at %@ onto %@</string>
+	<key>Take a right on %@ [SPOKEN WALKING - turn onto roadname]</key>
+	<string>Take a right on %@</string>
+	<key>Take a sharp left turn [SPOKEN]</key>
+	<string>Take a sharp left turn</string>
+	<key>Take a sharp right turn [SPOKEN]</key>
+	<string>Take a sharp right turn</string>
+	<key>Take a slight left turn [SPOKEN]</key>
+	<string>Take a slight left turn</string>
+	<key>Take a slight right turn [SPOKEN]</key>
+	<string>Take a slight right turn</string>
+	<key>Take exit 'exitnumber' [SPOKEN CHANGING FREEWAY]</key>
+	<string>Take exit %@</string>
+	<key>Take exit 'exitnumber' [SPOKEN LEAVING FREEWAY]</key>
+	<string>Take exit %@</string>
+	<key>Take exit 'exitnumber' on the left [SPOKEN CHANGING FREEWAY]</key>
+	<string>Take exit %@ on the left</string>
+	<key>Take exit 'exitnumber' on the left [SPOKEN LEAVING FREEWAY]</key>
+	<string>Take exit %@ on the left</string>
+	<key>Take exit 'exitnumber' on the right [SPOKEN CHANGING FREEWAY]</key>
+	<string>Take exit %@ on the right</string>
+	<key>Take exit 'exitnumber' on the right [SPOKEN LEAVING FREEWAY]</key>
+	<string>Take exit %@ on the right</string>
+	<key>Take exit [SPOKEN LEAVING FREEWAY]</key>
+	<string>Take exit</string>
+	<key>Take the "%@" Ferry</key>
+	<string>Take the “%@” Ferry</string>
+	<key>Take the "%@" ferry [SPOKEN]</key>
+	<string>Take the "%@" ferry</string>
+	<key>Take the %@</key>
+	<string>Take the %@</string>
+	<key>Take the %@ Toward %@</key>
+	<string>Take the %@ Toward %@</string>
+	<key>Take the %@ at %@</key>
+	<string>Take the %@ at %@</string>
+	<key>Take the %@ for %@</key>
+	<string>Take the %@ for %@</string>
+	<key>Take the %@ onto %@</key>
+	<string>Take the %@ onto %@</string>
+	<key>Take the Ferry</key>
+	<string>Take the Ferry</string>
+	<key>Take the Ferry Toward %@</key>
+	<string>Take the Ferry Toward %@</string>
+	<key>Take the ferry [SPOKEN]</key>
+	<string>Take the ferry</string>
+	<key>Tap the correct top result</key>
+	<string>Tap the correct top result</string>
+	<key>Tap the incorrect traffic incident</key>
+	<string>Tap the incorrect traffic incident</string>
+	<key>Tap the incorrectly labeled street or feature</key>
+	<string>Tap the incorrectly labeled street or feature</string>
+	<key>Tap the unexpected result</key>
+	<string>Tap the unexpected result</string>
+	<key>Tenth Exit</key>
+	<string>Tenth Exit</string>
+	<key>Thank you for reporting this problem.</key>
+	<string>Thank you for reporting this problem.</string>
+	<key>The Destination Is on Your Left</key>
+	<string>The Destination Is on Your Left</string>
+	<key>The Destination Is on Your Left: %@</key>
+	<string>The Destination Is on Your Left: %@</string>
+	<key>The Destination Is on Your Right</key>
+	<string>The Destination Is on Your Right</string>
+	<key>The Destination Is on Your Right: %@</key>
+	<string>The Destination Is on Your Right: %@</string>
+	<key>The destination is on your left [SPOKEN]</key>
+	<string>The destination is on your left</string>
+	<key>The destination is on your left: %@ [SPOKEN]</key>
+	<string>The destination is on your left: %@</string>
+	<key>The destination is on your right [SPOKEN]</key>
+	<string>The destination is on your right</string>
+	<key>The destination is on your right: %@ [SPOKEN]</key>
+	<string>The destination is on your right: %@</string>
+	<key>The problem report related to &lt;place&gt; has been addressed. [push]</key>
+	<string>The problem report related to “%@” has been addressed.</string>
+	<key>The problem reported has been addressed. [push]</key>
+	<string>The problem reported has been addressed.</string>
+	<key>The problem reported on &lt;date&gt; has been addressed. [push]</key>
+	<string>The problem reported on %@ has been addressed.</string>
+	<key>The problem reports related to &lt;place1&gt; and &lt;place2&gt; have been addressed. [push]</key>
+	<string>The problem reports related to “%@” and “%@” have been addressed.</string>
+	<key>The problem reports related to &lt;place1&gt;, &lt;place2&gt; and 1 other location have been addressed. [push]</key>
+	<string>The problem reports related to “%@”, “%@” and 1 other location have been addressed.</string>
+	<key>The problem reports related to &lt;place1&gt;, &lt;place2&gt; and &lt;count&gt; other locations have been addressed. [push]</key>
+	<string>The problem reports related to “%@”, “%@” and %d other locations have been addressed.</string>
+	<key>The problem you reported on %@ has been addressed in the following way:</key>
+	<string>The problem you reported on %@ has been addressed in the following way:</string>
+	<key>The problem you reported on %@ has now been addressed. Thank you for reporting this problem.</key>
+	<string>The problem you reported on %@ has now been addressed. Thank you for reporting this problem.</string>
+	<key>The problems reported have been addressed. [push]</key>
+	<string>The problems reported have been addressed.</string>
+	<key>The problems reported on &lt;date&gt; have been addressed. [push]</key>
+	<string>The problems reported on %@ have been addressed.</string>
+	<key>The problems you reported on %@ have been addressed in the following way:</key>
+	<string>The problems you reported on %@ have been addressed in the following way:</string>
+	<key>The problems you reported on %@ have now been addressed. Thank you for reporting these problems.</key>
+	<string>The problems you reported on %@ have now been addressed. Thank you for reporting these problems.</string>
+	<key>Third Exit</key>
+	<string>Third Exit</string>
+	<key>Thirteenth Exit</key>
+	<string>Thirteenth Exit</string>
+	<key>This route...</key>
+	<string>This route…</string>
+	<key>This search...</key>
+	<string>This search…</string>
+	<key>This step...</key>
+	<string>This step…</string>
+	<key>Tile Loading Failed</key>
+	<string>Tile Loading Failed</string>
+	<key>Took longer than estimated</key>
+	<string>Took longer than estimated</string>
+	<key>TopBar_ArrivalTitle</key>
+	<string>arrival</string>
+	<key>TopBar_Maps</key>
+	<string>Maps</string>
+	<key>Touch to return to Navigation</key>
+	<string>Touch to return to Navigation</string>
+	<key>Traffic Incident</key>
+	<string>Traffic Incident</string>
+	<key>Traffic Overview</key>
+	<string>Traffic Overview</string>
+	<key>Traffic conditions have changed and an alternate route would save you %.1f minutes.
+You have %d seconds to accept.</key>
+	<string>Traffic conditions have changed and an alternate route would save you %.1f minutes.
+You have %d seconds to accept.</string>
+	<key>Traffic flow is incorrect</key>
+	<string>Traffic flow is incorrect</string>
+	<key>Traffic flow is missing</key>
+	<string>Traffic flow is missing</string>
+	<key>Traffic incident is incorrect</key>
+	<string>Traffic incident is incorrect</string>
+	<key>Traffic incident is missing</key>
+	<string>Traffic incident is missing</string>
+	<key>Transit Directions</key>
+	<string>Transit Directions</string>
+	<key>Transit directions could not be found between these locations</key>
+	<string>Transit directions could not be found between these locations</string>
+	<key>TransitAppCell.Route</key>
+	<string>Route</string>
+	<key>TransitContinuationEllipsis</key>
+	<string>…</string>
+	<key>TransitMode.Bike</key>
+	<string>Bike</string>
+	<key>TransitMode.Bus</key>
+	<string>Bus</string>
+	<key>TransitMode.Car</key>
+	<string>Car</string>
+	<key>TransitMode.Ferry</key>
+	<string>Ferry</string>
+	<key>TransitMode.Other</key>
+	<string>Other</string>
+	<key>TransitMode.Pedestrian</key>
+	<string>Pedestrian</string>
+	<key>TransitMode.Plane</key>
+	<string>Plane</string>
+	<key>TransitMode.StreetCar</key>
+	<string>Street Car</string>
+	<key>TransitMode.Subway</key>
+	<string>Subway</string>
+	<key>TransitMode.Taxi</key>
+	<string>Taxi</string>
+	<key>TransitMode.Train</key>
+	<string>Train</string>
+	<key>TransitModeCommaJoin</key>
+	<string>, </string>
+	<key>Try Again</key>
+	<string>Try Again</string>
+	<key>Turn Around [WALKING]</key>
+	<string>Turn Around</string>
+	<key>Turn Around and Proceed to %@ [WALKING]</key>
+	<string>Turn Around and Proceed to %@</string>
+	<key>Turn Around and Proceed to the Route [WALKING]</key>
+	<string>Turn Around and Proceed to the Route</string>
+	<key>Turn Around at %@ [WALKING]</key>
+	<string>Turn Around at %@</string>
+	<key>Turn Around at the Roundabout [WALKING]</key>
+	<string>Turn Around at the Roundabout</string>
+	<key>Turn Left</key>
+	<string>Turn Left</string>
+	<key>Turn Left [part of sentence]</key>
+	<string>Turn Left</string>
+	<key>Turn Right</key>
+	<string>Turn Right</string>
+	<key>Turn Right [part of sentence]</key>
+	<string>Turn Right</string>
+	<key>Turn around and proceed to %@ [SPOKEN WALKING]</key>
+	<string>Turn around and proceed to %@</string>
+	<key>Turn around and proceed to the route [SPOKEN WALKING]</key>
+	<string>Turn around and proceed to the route</string>
+	<key>Turn around when possible [SPOKEN WALKING]</key>
+	<string>Turn around when possible</string>
+	<key>Turn left [SPOKEN]</key>
+	<string>Turn left</string>
+	<key>Turn right [SPOKEN]</key>
+	<string>Turn right</string>
+	<key>Turn-by-turn directions are not available for this destination.</key>
+	<string>Turn-by-turn directions are not available for this destination.</string>
+	<key>Twelfth Exit</key>
+	<string>Twelfth Exit</string>
+	<key>Two-part top bar label: [MAIN TEXT] [LABEL]</key>
+	<string>%@ %@</string>
+	<key>U-Turn</key>
+	<string>U-Turn</string>
+	<key>U-Turn and Proceed</key>
+	<string>U-Turn and Proceed</string>
+	<key>U-Turn and Proceed to %@</key>
+	<string>U-Turn and Proceed to %@</string>
+	<key>U-Turn and Proceed to Route</key>
+	<string>U-Turn and Proceed to Route</string>
+	<key>U-Turn at %@</key>
+	<string>U-Turn at %@</string>
+	<key>U-Turn to %@</key>
+	<string>U-Turn to %@</string>
+	<key>URL</key>
+	<string>URL</string>
+	<key>Unverified</key>
+	<string>Unverified</string>
+	<key>Use correction [Stark spelling suggestion button]</key>
+	<string>Use Correction</string>
+	<key>Use the Roundabout to Make a U-Turn</key>
+	<string>Use the Roundabout to Make a U-Turn</string>
+	<key>Use the roundabout to make a u-turn [SPOKEN]</key>
+	<string>Use the roundabout to make a U-turn</string>
+	<key>Volume</key>
+	<string>Volume</string>
+	<key>W</key>
+	<string>W</string>
+	<key>Walk %@ then</key>
+	<string>Walk %@ then</string>
+	<key>Walking directions could not be found between these locations</key>
+	<string>Walking directions could not be found between these locations</string>
+	<key>West</key>
+	<string>West</string>
+	<key>What is your destination?</key>
+	<string>What is your destination?</string>
+	<key>Where would you like to go?</key>
+	<string>Where would you like to go?</string>
+	<key>Work</key>
+	<string>“1 Infinite Loop”</string>
+	<key>Write a Review</key>
+	<string>Write a Review</string>
+	<key>Yes</key>
+	<string>Yes</string>
+	<key>Your Reported Problems [push]</key>
+	<string>Your Reported Problems</string>
+	<key>a quarter mile [SPOKEN]</key>
+	<string>a quarter mile</string>
+	<key>add photo</key>
+	<string>add
+photo</string>
+	<key>arrive at %@</key>
+	<string>arrive at %@</string>
+	<key>by %@</key>
+	<string>by %@</string>
+	<key>cE</key>
+	<string>E</string>
+	<key>cN</key>
+	<string>N</string>
+	<key>cS</key>
+	<string>S</string>
+	<key>cW</key>
+	<string>W</string>
+	<key>day [Stark screen time label]</key>
+	<string>day</string>
+	<key>days [Stark screen time label]</key>
+	<string>days</string>
+	<key>east</key>
+	<string>east</string>
+	<key>eighteenth exit [SPOKEN]</key>
+	<string>eighteenth exit</string>
+	<key>eighth exit [SPOKEN]</key>
+	<string>eighth exit</string>
+	<key>eleventh exit [SPOKEN]</key>
+	<string>eleventh exit</string>
+	<key>feet [Stark screen label]</key>
+	<string>feet</string>
+	<key>fifteenth exit [SPOKEN]</key>
+	<string>fifteenth exit</string>
+	<key>fifth exit [SPOKEN]</key>
+	<string>fifth exit</string>
+	<key>first exit [SPOKEN]</key>
+	<string>first exit</string>
+	<key>foot [Stark screen label]</key>
+	<string>foot</string>
+	<key>fourteenth exit [SPOKEN]</key>
+	<string>fourteenth exit</string>
+	<key>fourth exit [SPOKEN]</key>
+	<string>fourth exit</string>
+	<key>from</key>
+	<string>from</string>
+	<key>from %@</key>
+	<string>from %@</string>
+	<key>half a mile [SPOKEN]</key>
+	<string>half a mile</string>
+	<key>hour [Stark screen time label]</key>
+	<string>hour</string>
+	<key>hours [Stark screen time label]</key>
+	<string>hours</string>
+	<key>km [Stark screen kilometers label]</key>
+	<string>km</string>
+	<key>m [Stark screen meters label]</key>
+	<string>m</string>
+	<key>map url</key>
+	<string>map url</string>
+	<key>mile [Stark screen label for fractional values]</key>
+	<string>mile</string>
+	<key>mile [Stark screen label]</key>
+	<string>mile</string>
+	<key>miles [Stark screen label for fractional values]</key>
+	<string>miles</string>
+	<key>miles [Stark screen label]</key>
+	<string>miles</string>
+	<key>min [PLURAL][Stark screen time label]</key>
+	<string>min</string>
+	<key>min [SINGULAR][Stark screen time label]</key>
+	<string>min</string>
+	<key>near %@</key>
+	<string>near %@</string>
+	<key>nineteenth exit [SPOKEN]</key>
+	<string>nineteenth exit</string>
+	<key>ninth exit [SPOKEN]</key>
+	<string>ninth exit</string>
+	<key>north</key>
+	<string>north</string>
+	<key>northeast</key>
+	<string>northeast</string>
+	<key>northwest</key>
+	<string>northwest</string>
+	<key>one mile [SPOKEN]</key>
+	<string>one mile</string>
+	<key>remaining</key>
+	<string>remaining</string>
+	<key>second exit [SPOKEN]</key>
+	<string>second exit</string>
+	<key>seventeenth exit [SPOKEN]</key>
+	<string>seventeenth exit</string>
+	<key>seventh exit [SPOKEN]</key>
+	<string>seventh exit</string>
+	<key>sixteenth exit [SPOKEN]</key>
+	<string>sixteenth exit</string>
+	<key>sixth exit [SPOKEN]</key>
+	<string>sixth exit</string>
+	<key>south</key>
+	<string>south</string>
+	<key>southeast</key>
+	<string>southeast</string>
+	<key>southwest</key>
+	<string>southwest</string>
+	<key>tenth exit [SPOKEN]</key>
+	<string>tenth exit</string>
+	<key>third exit [SPOKEN]</key>
+	<string>third exit</string>
+	<key>thirteenth exit [SPOKEN]</key>
+	<string>thirteenth exit</string>
+	<key>three quarters of a mile [SPOKEN]</key>
+	<string>three quarters of a mile</string>
+	<key>toward %@ [SPOKEN]</key>
+	<string>toward %@</string>
+	<key>toward %@ and %@ [SPOKEN]</key>
+	<string>toward %@ and %@</string>
+	<key>twelfth exit [SPOKEN]</key>
+	<string>twelfth exit</string>
+	<key>west</key>
+	<string>west</string>
+	<key>yard [Stark screen label]</key>
+	<string>yard</string>
+	<key>yards [Stark screen label]</key>
+	<string>yards</string>
+</dict>
+</plist>

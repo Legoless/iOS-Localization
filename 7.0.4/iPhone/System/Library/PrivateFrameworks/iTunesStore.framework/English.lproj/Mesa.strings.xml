@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BIO_CANCEL</key>
+	<string>Cancel</string>
+	<key>BIO_OPT_IN_EXPLANATION</key>
+	<string>Would you like to use Touch ID for purchases?</string>
+	<key>BIO_OPT_IN_NOT_NOW</key>
+	<string>Not Now</string>
+	<key>BIO_OPT_IN_OK</key>
+	<string>OK</string>
+	<key>BIO_PROMPT_TITLE</key>
+	<string>Touch ID</string>
+	<key>BIO_RETRY</key>
+	<string>Try Again</string>
+	<key>BIO_USE_PASSWORD</key>
+	<string>Enter Password</string>
+	<key>PASSCODE_CANCEL</key>
+	<string>Not Now</string>
+	<key>PASSCODE_INCORRECT</key>
+	<string>Incorrect Passcode</string>
+	<key>PASSCODE_OK</key>
+	<string>OK</string>
+	<key>PASSCODE_TITLE</key>
+	<string>Enter Passcode to Enable Touch ID Purchases</string>
+	<key>PROMPT_REASON_GENERIC</key>
+	<string>Confirm Apple ID Password for “%@” to Renew Touch ID Purchases</string>
+</dict>
+</plist>

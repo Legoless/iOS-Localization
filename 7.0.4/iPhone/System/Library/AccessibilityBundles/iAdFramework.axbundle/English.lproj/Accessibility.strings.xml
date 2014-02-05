@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advertisement</key>
+	<string>Advertisement</string>
+	<key>close.button</key>
+	<string>Close</string>
+	<key>open.call</key>
+	<string>Calls a phone number</string>
+	<key>open.call.format</key>
+	<string>Calls %@</string>
+	<key>open.expandable</key>
+	<string>Expandable</string>
+	<key>open.iTunes.store</key>
+	<string>Opens iTunes store</string>
+	<key>open.movie</key>
+	<string>Opens a movie</string>
+	<key>open.movie.format</key>
+	<string>Opens a movie from %@</string>
+	<key>open.storyboard</key>
+	<string>Opens a storyboard</string>
+	<key>open.web</key>
+	<string>Opens a webpage</string>
+	<key>open.web.format</key>
+	<string>Opens a webpage from %@</string>
+</dict>
+</plist>

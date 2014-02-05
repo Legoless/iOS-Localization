@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_CLOCK</key>
+	<string>Add</string>
+	<key>ALARMS_LIST</key>
+	<string>Alarms</string>
+	<key>ALARM_CLOCK</key>
+	<string>Alarm</string>
+	<key>ALARM_DEFAULT_TITLE</key>
+	<string>Alarm</string>
+	<key>ALARM_EDIT</key>
+	<string>Edit Alarm</string>
+	<key>ALARM_LOCK_LABEL</key>
+	<string>slide to stop alarm</string>
+	<key>ALARM_MIDNIGHT</key>
+	<string>Midnight</string>
+	<key>ALARM_NOON</key>
+	<string>Noon</string>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_TIMER</key>
+	<string>Cancel</string>
+	<key>CLOCK_DAY_AND_RELATIVE</key>
+	<string>%@, %@</string>
+	<key>COUNT_DOWN_TIME_REACHED</key>
+	<string>Timer Done</string>
+	<key>CREATE_NEW_ALARM</key>
+	<string>Add Alarm</string>
+	<key>DONE_TIMER_IPAD</key>
+	<string>Done</string>
+	<key>EDIT_DELETE</key>
+	<string>Delete Alarm</string>
+	<key>EDIT_LABEL</key>
+	<string>Label</string>
+	<key>EDIT_REPEAT</key>
+	<string>Repeat</string>
+	<key>EDIT_SNOOZE</key>
+	<string>Snooze</string>
+	<key>EDIT_SOUND</key>
+	<string>Sound</string>
+	<key>LAP_NUMBER_STOPWATCH</key>
+	<string>Lap %@</string>
+	<key>MARK_LAP_STOPWATCH</key>
+	<string>Lap</string>
+	<key>NONE</key>
+	<string>None</string>
+	<key>NO_ALARMS</key>
+	<string>No Alarms</string>
+	<key>NO_RESULTS_FOUND</key>
+	<string>No Results Found</string>
+	<key>NO_WORLD_CLOCKS</key>
+	<string>No World Clocks</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PAUSE_STOPWATCH</key>
+	<string>Stop</string>
+	<key>PAUSE_TIMER</key>
+	<string>Pause</string>
+	<key>RESET_STOPWATCH</key>
+	<string>Reset</string>
+	<key>RESUME_STOPWATCH</key>
+	<string>Start</string>
+	<key>RESUME_TIMER</key>
+	<string>Resume</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SEARCH_FOR_CITY</key>
+	<string>Choose a City.</string>
+	<key>SET</key>
+	<string>Set</string>
+	<key>SOUNDS_TIMER_IPAD</key>
+	<string>Sounds</string>
+	<key>START_STOPWATCH</key>
+	<string>Start</string>
+	<key>START_TIMER</key>
+	<string>Start</string>
+	<key>STOPWATCH_LAP_HEADER</key>
+	<string>Lap Number</string>
+	<key>STOPWATCH_SPLIT_HEADER</key>
+	<string>Split</string>
+	<key>STOPWATCH_TOTAL_HEADER</key>
+	<string>Total</string>
+	<key>STOP_PLAYING</key>
+	<string>Stop Playing</string>
+	<key>STOP_WATCH</key>
+	<string>Stopwatch</string>
+	<key>TIMER</key>
+	<string>Timer</string>
+	<key>TIMER_LOCK_LABEL</key>
+	<string>slide to stop timer</string>
+	<key>TODAY</key>
+	<string>Today</string>
+	<key>TOMORROW</key>
+	<string>Tomorrow</string>
+	<key>TOO_MANY_WORLD_CLOCKS_BODY</key>
+	<string>Please delete a world clock before adding a new one.</string>
+	<key>TOO_MANY_WORLD_CLOCKS_TITLE</key>
+	<string>Too many world clocks</string>
+	<key>WHEN_TIMER_ENDS</key>
+	<string>When Timer Ends</string>
+	<key>WORLD_CLOCK</key>
+	<string>World Clock</string>
+	<key>YESTERDAY</key>
+	<string>Yesterday</string>
+</dict>
+</plist>

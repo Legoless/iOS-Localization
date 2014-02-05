@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCESSORY_DEVELOPER</key>
+	<string>Accessory Developer</string>
+	<key>ACCOUNT_SETTINGS</key>
+	<string>Mail, Contacts, Calendars</string>
+	<key>AIRPLANE_ON_CALL_CANCEL</key>
+	<string>Cancel</string>
+	<key>AIRPLANE_ON_CALL_OK</key>
+	<string>Enable</string>
+	<key>AIRPLANE_ON_CALL_TITLE</key>
+	<string>Enable Airplane Mode</string>
+	<key>AIRPLANE_ON_CALL_WARNING</key>
+	<string>%@%@. Are you sure you want to enable Airplane Mode?</string>
+	<key>Airplane Mode</key>
+	<string>Airplane Mode</string>
+	<key>BASS_BOOST</key>
+	<string>Bass Boost</string>
+	<key>BLUETOOTH</key>
+	<string>Bluetooth</string>
+	<key>BRIGHTNESS_AND_WALLPAPER</key>
+	<string>Wallpapers &amp; Brightness</string>
+	<key>Brightness</key>
+	<string>Brightness</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>CALL_TYPE_DEFAULT</key>
+	<string>Enabling Airplane Mode will end your phone call</string>
+	<key>CALL_TYPE_FACETIME</key>
+	<string>Enabling Airplane Mode will end FaceTime</string>
+	<key>CALL_TYPE_HOTSPOT</key>
+	<string>Enabling Airplane Mode will turn off your Personal Hotspot</string>
+	<key>CALL_TYPE_HOTSPOT_TOO</key>
+	<string> and turn off your Personal Hotspot</string>
+	<key>CARRIER</key>
+	<string>Carrier</string>
+	<key>CASTLE</key>
+	<string>iCloud</string>
+	<key>CELLULAR</key>
+	<string>Cellular</string>
+	<key>COMPASS</key>
+	<string>Compass</string>
+	<key>CONTACTS</key>
+	<string>Contacts</string>
+	<key>CONTROLCENTER</key>
+	<string>Control Center</string>
+	<key>DO_NOT_DISTURB</key>
+	<string>Do Not Disturb</string>
+	<key>Developer Settings</key>
+	<string>Developer</string>
+	<key>FACEBOOK</key>
+	<string>Facebook</string>
+	<key>FACETIME</key>
+	<string>FaceTime</string>
+	<key>FACETIME_DEBUGGING</key>
+	<string>FaceTime Debugging</string>
+	<key>FLICKR</key>
+	<string>Flickr</string>
+	<key>GAMECENTER</key>
+	<string>Game Center</string>
+	<key>General</key>
+	<string>General</string>
+	<key>HIFI</key>
+	<string>iPod Hi-Fi</string>
+	<key>MAPS</key>
+	<string>Maps</string>
+	<key>MESSAGES</key>
+	<string>Messages</string>
+	<key>MUSIC</key>
+	<string>Music</string>
+	<key>Messages</key>
+	<string>Messages</string>
+	<key>NIKE_PLUS_IPOD</key>
+	<string>Nike + iPod</string>
+	<key>NORMAL</key>
+	<string>Normal</string>
+	<key>NOTES</key>
+	<string>Notes</string>
+	<key>NOTIFICATIONS</key>
+	<string>Notification Center</string>
+	<key>NOT_CONNECTED</key>
+	<string>Not Connected</string>
+	<key>NO_BLUETOOTH</key>
+	<string>Unavailable</string>
+	<key>NO_WIFI</key>
+	<string>No Wi-Fi</string>
+	<key>NO_WIFI_CH</key>
+	<string>No WLAN</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>PERSONAL_HOTSPOT</key>
+	<string>Personal Hotspot</string>
+	<key>Phone</key>
+	<string>Phone</string>
+	<key>Photos</key>
+	<string>Photos &amp; Camera</string>
+	<key>Privacy</key>
+	<string>Privacy</string>
+	<key>REMINDERS</key>
+	<string>Reminders</string>
+	<key>SCHEDULE</key>
+	<string>Fetch New Data</string>
+	<key>SOUND_EFFECTS</key>
+	<string>Sound Effects</string>
+	<key>STORE</key>
+	<string>iTunes &amp; App Store</string>
+	<key>Safari</key>
+	<string>Safari</string>
+	<key>Settings</key>
+	<string>Settings</string>
+	<key>Sounds</key>
+	<string>Sounds</string>
+	<key>Speakers</key>
+	<string>Speakers</string>
+	<key>TENCENT_WEIBO</key>
+	<string>Tencent Weibo</string>
+	<key>TONE_CONTROL</key>
+	<string>Tone Control</string>
+	<key>TREBLE_BOOST</key>
+	<string>Treble Boost</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>VIDEO</key>
+	<string>Videos</string>
+	<key>VIMEO</key>
+	<string>Vimeo</string>
+	<key>WEIBO</key>
+	<string>Sina Weibo</string>
+	<key>WIFI</key>
+	<string>Wi-Fi</string>
+	<key>WIFI_CH</key>
+	<string>WLAN</string>
+	<key>Wallpaper</key>
+	<string>Wallpaper</string>
+</dict>
+</plist>

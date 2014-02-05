@@ -1,0 +1,1 @@
+{"ACCEPT":"Accept","CONTINUE":"Continue","UNTRUSTED_CERT_TITLE":"Cannot Verify Server Identity","UNTRUSTED_CERT_MESSAGE":"%@ cannot verify the identity of “%@”. Would you like to continue anyway?","CANCEL":"Cancel","CERT_INFO_TITLE":"Certificate for “%@”","CERTIFICATE":"Certificate","DETAILS":"Details","UNTRUSTED_CERT_MESSAGE_NO_ACCEPT":"%@ cannot verify the identity of “%@”."}

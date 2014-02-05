@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubed.root</key>
+	<string>cubed root of %@</string>
+	<key>formatted.sub.superscript</key>
+	<string>%1$@, from %2$@ to %3$@</string>
+	<key>formatted.sub.superscript.with.next.child</key>
+	<string>%1$@, of %2$@</string>
+	<key>generic.over.formula</key>
+	<string>%1$@ over %2$@</string>
+	<key>generic.over.under.formula</key>
+	<string>%1$@ over %2$@, with %3$@ underneath, </string>
+	<key>generic.subscript</key>
+	<string>subscript %@</string>
+	<key>generic.superscript</key>
+	<string>superscript %@</string>
+	<key>generic.under.formula</key>
+	<string>%1$@, with %2$@ underneath, </string>
+	<key>math.fraction</key>
+	<string>fraction start, %1$@ over %2$@, end of fraction, </string>
+	<key>math.long.division</key>
+	<string>divisor %1$@, remainder %2$@</string>
+	<key>math.row</key>
+	<string>Row %@</string>
+	<key>math.row.and.column</key>
+	<string>Row %1$@, Column %2$@</string>
+	<key>math.row.column.with.content</key>
+	<string>%1$@, %2$@</string>
+	<key>math.table</key>
+	<string>Table start, %@, table end</string>
+	<key>nth.root</key>
+	<string>%1$@ root of %2$@</string>
+	<key>raised.to.power</key>
+	<string>%1$@ to the %2$@</string>
+	<key>square.root</key>
+	<string>square root of %@</string>
+</dict>
+</plist>

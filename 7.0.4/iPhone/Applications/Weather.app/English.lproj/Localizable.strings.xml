@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ %@%C %@ %@%C</key>
+	<string>%@ %@%C %@ %@%C</string>
+	<key>%@%C</key>
+	<string>%@%C</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Current_Location</key>
+	<string>Current Location</string>
+	<key>Delete_City</key>
+	<string>Delete</string>
+	<key>Enter city, zip code, or airport location</key>
+	<string>Enter city, zip code, or airport location</string>
+	<key>FAILED_LAST_UPDATED_DAYS_FORMAT</key>
+	<string>failed, last updated %d days ago</string>
+	<key>FAILED_LAST_UPDATED_FORMAT</key>
+	<string>failed, last updated %@</string>
+	<key>FAILED_LAST_UPDATED_HOURS_FORMAT</key>
+	<string>failed, last updated %d hours ago</string>
+	<key>FAILED_LAST_UPDATED_HOUR_FORMAT</key>
+	<string>failed, last updated 1 hour ago</string>
+	<key>FAILED_LAST_UPDATED_MINUTES_FORMAT</key>
+	<string>failed, last updated %d minutes ago</string>
+	<key>FAILED_LAST_UPDATED_YESTERDAY</key>
+	<string>failed, last updated yesterday</string>
+	<key>HIGH_%@</key>
+	<string>H: %@</string>
+	<key>Hourly</key>
+	<string>Hourly</string>
+	<key>LAST_UPDATED_DAYS_FORMAT</key>
+	<string>updated %d days ago</string>
+	<key>LAST_UPDATED_FORMAT</key>
+	<string>updated %@</string>
+	<key>LAST_UPDATED_HOURS_FORMAT</key>
+	<string>updated %d hours ago</string>
+	<key>LAST_UPDATED_HOUR_FORMAT</key>
+	<string>updated 1 hour ago</string>
+	<key>LAST_UPDATED_JUST_UPDATED</key>
+	<string>just updated</string>
+	<key>LAST_UPDATED_MINUTES_FORMAT</key>
+	<string>updated %d minutes ago</string>
+	<key>LAST_UPDATED_NEVER</key>
+	<string>never updated</string>
+	<key>LAST_UPDATED_YESTERDAY</key>
+	<string>updated yesterday</string>
+	<key>LOW_%@</key>
+	<string>L: %@</string>
+	<key>Local_Weather</key>
+	<string>Local Weather</string>
+	<key>Network unavailable.</key>
+	<string>Network unavailable.</string>
+	<key>No results found.</key>
+	<string>No results found.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OVERVIEW_INSTRUCTIONS</key>
+	<string>Tap and hold to rearrange cities.
+Swipe left to delete.</string>
+	<key>To add a new city, remove one first.</key>
+	<string>To add a new city, remove one first.</string>
+	<key>Type the City, State or ZIP code:</key>
+	<string>Type the City, State or ZIP code:</string>
+	<key>UNITS</key>
+	<string>Units</string>
+	<key>UNKNOWN_LOCATION</key>
+	<string>Unknown Location</string>
+	<key>Update failed</key>
+	<string>update failed</string>
+	<key>Update failed, last</key>
+	<string>update failed, last</string>
+	<key>Updating...</key>
+	<string>updating...</string>
+	<key>Validating city...</key>
+	<string>Validating city...</string>
+	<key>WEATHER_UNAVAILABLE</key>
+	<string>weather unavailable</string>
+	<key>Weather</key>
+	<string>Weather</string>
+</dict>
+</plist>

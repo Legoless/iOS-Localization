@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3D_BUTTON</key>
+	<string>3D view</string>
+	<key>ACTIVE_ROUTE_LABEL</key>
+	<string>Active route</string>
+	<key>ADDRESSBOOK_BUTTON</key>
+	<string>Address Book</string>
+	<key>ALTERNATE_ROUTE_LABEL</key>
+	<string>Alternate route</string>
+	<key>APPLICATION_NAME</key>
+	<string>Maps</string>
+	<key>AUDIO_BUTTON</key>
+	<string>Navigation Voice</string>
+	<key>BACK_DIRECTION</key>
+	<string>Back</string>
+	<key>BOOKMARKS_BUTTON</key>
+	<string>Bookmarks</string>
+	<key>BUS_DIRECTIONS</key>
+	<string>Public transit directions</string>
+	<key>CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>CAR_DIRECTIONS</key>
+	<string>Driving directions</string>
+	<key>DIRECTIONS_BUTTON</key>
+	<string>Directions</string>
+	<key>DIRECTIONS_SUMMARY</key>
+	<string>Direction %1$@ of %2$@</string>
+	<key>DISTANCE_TIME_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DROPPED_PINS_ANNOUNCEMENT_PLURAL</key>
+	<string>%@ results found</string>
+	<key>DROPPED_PINS_ANNOUNCEMENT_SINGULAR</key>
+	<string>%@ result found</string>
+	<key>END_LOCATION</key>
+	<string>End location</string>
+	<key>FORWARD_DIRECTION</key>
+	<string>Forward</string>
+	<key>LIST_BUTTON</key>
+	<string>View as list</string>
+	<key>MAPS_PIN</key>
+	<string>Pin</string>
+	<key>MAPS_SEARCH</key>
+	<string>Search</string>
+	<key>MINIMIZE_BUTTON</key>
+	<string>Minimize list</string>
+	<key>ROUTE_ORIGIN</key>
+	<string>Route origin</string>
+	<key>SETTINGS_BUTTON</key>
+	<string>Settings</string>
+	<key>SHARE_BUTTON</key>
+	<string>Share</string>
+	<key>START_LOCATION</key>
+	<string>Start location</string>
+	<key>SWAP_DIRECTIONS</key>
+	<string>Swap directions</string>
+	<key>TRANSPORT_TYPE_AUTO</key>
+	<string>Automobile route</string>
+	<key>TRANSPORT_TYPE_BICYCLE</key>
+	<string>Bicycle route</string>
+	<key>TRANSPORT_TYPE_FERRY</key>
+	<string>Ferry route</string>
+	<key>TRANSPORT_TYPE_TRANSIT</key>
+	<string>Public transit route</string>
+	<key>TRANSPORT_TYPE_WALKING</key>
+	<string>Walking route</string>
+	<key>UNSELECTED_ROUTE_HINT</key>
+	<string>Double tap to select the alternative route</string>
+	<key>WALKING_DIRECTIONS</key>
+	<string>Walking directions</string>
+	<key>more.info.button</key>
+	<string>More Info</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALLOW</key>
+	<string>Allow</string>
+	<key>CONVERSATIONS</key>
+	<string>Conversations</string>
+	<key>NOT_NOW</key>
+	<string>Not Now</string>
+	<key>NO_EMAIL_ACCOUNT</key>
+	<string>Please set up a Mail account in order to send email.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>READ_RECEIPTS_SETTINGS_CONFIRM_MESSAGE</key>
+	<string>Allow others to be notified when you have read their iMessages?</string>
+	<key>READ_RECEIPTS_SETTINGS_CONFIRM_TITLE</key>
+	<string>Send Read Receipts</string>
+	<key>SMSSearch</key>
+	<string>Messages</string>
+</dict>
+</plist>

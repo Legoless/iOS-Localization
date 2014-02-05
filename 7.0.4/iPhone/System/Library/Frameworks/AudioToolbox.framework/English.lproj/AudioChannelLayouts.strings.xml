@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.1 (C LFE)</key>
+	<string>1.1 (C LFE)</string>
+	<key>2.1 (L R LFE)</key>
+	<string>2.1 (L R LFE)</string>
+	<key>3.0 (C L R)</key>
+	<string>3.0 (C L R)</string>
+	<key>3.0 (L C R)</key>
+	<string>3.0 (L C R)</string>
+	<key>3.0 (L R C)</key>
+	<string>3.0 (L R C)</string>
+	<key>3.0 (L R Cs)</key>
+	<string>3.0 (L R Cs)</string>
+	<key>3.1 (C L R LFE)</key>
+	<string>3.1 (C L R LFE)</string>
+	<key>3.1 (L C R LFE)</key>
+	<string>3.1 (L C R LFE)</string>
+	<key>3.1 (L R C LFE)</key>
+	<string>3.1 (L R C LFE)</string>
+	<key>3.1 (L R Cs LFE)</key>
+	<string>3.1 (L R Cs LFE)</string>
+	<key>3.1 (L R LFE Cs)</key>
+	<string>3.1 (L R LFE Cs)</string>
+	<key>4.0 (C L R Cs)</key>
+	<string>4.0 (C L R Cs)</string>
+	<key>4.0 (L C R Cs)</key>
+	<string>4.0 (L C R Cs)</string>
+	<key>4.0 (L R C Cs)</key>
+	<string>4.0 (L R C Cs)</string>
+	<key>4.0 (L R Ls Rs)</key>
+	<string>4.0 (L R Ls Rs)</string>
+	<key>4.1 (C L R Cs LFE)</key>
+	<string>4.1 (C L R Cs LFE)</string>
+	<key>4.1 (L C R Cs LFE)</key>
+	<string>4.1 (L C R Cs LFE)</string>
+	<key>4.1 (L R C LFE Cs)</key>
+	<string>4.1 (L R C LFE Cs)</string>
+	<key>4.1 (L R LFE Ls Rs)</key>
+	<string>4.1 (L R LFE Ls Rs)</string>
+	<key>4.1 (L R Ls Rs LFE)</key>
+	<string>4.1 (L R Ls Rs LFE)</string>
+	<key>5.0 (C L R Ls Rs)</key>
+	<string>5.0 (C L R Ls Rs)</string>
+	<key>5.0 (L C R Ls Rs)</key>
+	<string>5.0 (L C R Ls Rs)</string>
+	<key>5.0 (L R C Ls Rs)</key>
+	<string>5.0 (L R C Ls Rs)</string>
+	<key>5.0 (L R Ls Rs C)</key>
+	<string>5.0 (L R Ls Rs C)</string>
+	<key>5.1 (C L R Ls Rs LFE)</key>
+	<string>5.1 (C L R Ls Rs LFE)</string>
+	<key>5.1 (L C R Ls Rs LFE)</key>
+	<string>5.1 (L C R Ls Rs LFE)</string>
+	<key>5.1 (L R C LFE Ls Rs)</key>
+	<string>5.1 (L R C LFE Ls Rs)</string>
+	<key>5.1 (L R Ls Rs C LFE)</key>
+	<string>5.1 (L R Ls Rs C LFE)</string>
+	<key>6.0 (C Cs L R Rls Rrs)</key>
+	<string>6.0 (C Cs L R Rls Rrs)</string>
+	<key>6.0 (C L R Ls Rs Cs)</key>
+	<string>6.0 (C L R Ls Rs Cs)</string>
+	<key>6.0 (C L R Rls Rrs Ts)</key>
+	<string>6.0 (C L R Rls Rrs Ts)</string>
+	<key>6.0 (L C R Ls Rs Cs)</key>
+	<string>6.0 (L C R Ls Rs Cs)</string>
+	<key>6.0 (L R Ls Rs C Cs)</key>
+	<string>6.0 (L R Ls Rs C Cs)</string>
+	<key>6.0 (Lc Rc L R Ls Rs)</key>
+	<string>6.0 (Lc Rc L R Ls Rs)</string>
+	<key>6.1 (C Cs L R Rls Rrs LFE)</key>
+	<string>6.1 (C Cs L R Rls Rrs LFE)</string>
+	<key>6.1 (C L R Ls Rs Cs LFE)</key>
+	<string>6.1 (C L R Ls Rs Cs LFE)</string>
+	<key>6.1 (C L R Ls Rs LFE Cs)</key>
+	<string>6.1 (C L R Ls Rs LFE Cs)</string>
+	<key>6.1 (C L R Rls Rrs Ts LFE)</key>
+	<string>6.1 (C L R Rls Rrs Ts LFE)</string>
+	<key>6.1 (L C R Ls Rs LFE Cs)</key>
+	<string>6.1 (L C R Ls Rs LFE Cs)</string>
+	<key>6.1 (L C R Ls Rs LFE Ts)</key>
+	<string>6.1 (L C R Ls Rs LFE Ts)</string>
+	<key>6.1 (L C R Ls Rs LFE Vhc)</key>
+	<string>6.1 (L C R Ls Rs LFE Vhc)</string>
+	<key>6.1 (L R C LFE Ls Rs Cs)</key>
+	<string>6.1 (L R C LFE Ls Rs Cs)</string>
+	<key>6.1 (Lc Rc L R Ls Rs LFE)</key>
+	<string>6.1 (Lc Rc L R Ls Rs LFE)</string>
+	<key>7.0 (C L R Ls Rs Rls Rrs)</key>
+	<string>7.0 (C L R Ls Rs Rls Rrs)</string>
+	<key>7.0 (L C R Ls Rs Rls Rrs)</key>
+	<string>7.0 (L C R Ls Rs Rls Rrs)</string>
+	<key>7.0 (L R Ls Rs C Lc Rc)</key>
+	<string>7.0 (L R Ls Rs C Lc Rc)</string>
+	<key>7.0 (L R Ls Rs C Rls Rrs)</key>
+	<string>7.0 (L R Ls Rs C Rls Rrs)</string>
+	<key>7.1 (C Lc Rc L R Ls Rs LFE)</key>
+	<string>7.1 (C Lc Rc L R Ls Rs LFE)</string>
+	<key>7.1 (L C R Ls Rs LFE Cs Ts)</key>
+	<string>7.1 (L C R Ls Rs LFE Cs Ts)</string>
+	<key>7.1 (L C R Ls Rs LFE Cs Vhc)</key>
+	<string>7.1 (L C R Ls Rs LFE Cs Vhc)</string>
+	<key>7.1 (L C R Ls Rs LFE Lc Rc)</key>
+	<string>7.1 (L C R Ls Rs LFE Lc Rc)</string>
+	<key>7.1 (L C R Ls Rs LFE Lsd Rsd)</key>
+	<string>7.1 (L C R Ls Rs LFE Lsd Rsd)</string>
+	<key>7.1 (L C R Ls Rs LFE Lw Rw)</key>
+	<string>7.1 (L C R Ls Rs LFE Lw Rw)</string>
+	<key>7.1 (L C R Ls Rs LFE Rls Rrs)</key>
+	<string>7.1 (L C R Ls Rs LFE Rls Rrs)</string>
+	<key>7.1 (L C R Ls Rs LFE Ts Vhc)</key>
+	<string>7.1 (L C R Ls Rs LFE Ts Vhc)</string>
+	<key>7.1 (L C R Ls Rs LFE Vhl Vhr)</key>
+	<string>7.1 (L C R Ls Rs LFE Vhl Vhr)</string>
+	<key>7.1 (L R C LFE Ls Rs Lc Rc)</key>
+	<string>7.1 (L R C LFE Ls Rs Lc Rc)</string>
+	<key>7.1 (L R C LFE Ls Rs Rls Rrs)</key>
+	<string>7.1 (L R C LFE Ls Rs Rls Rrs)</string>
+	<key>7.1 (L R Ls Rs C LFE Lc Rc)</key>
+	<string>7.1 (L R Ls Rs C LFE Lc Rc)</string>
+	<key>7.1 (Lc C Rc L R Ls Rs LFE)</key>
+	<string>7.1 (Lc C Rc L R Ls Rs LFE)</string>
+	<key>7.1 (Lc C Rc L R Ls Rs)</key>
+	<string>7.1 (Lc C Rc L R Ls Rs)</string>
+	<key>8.0 (C L R Ls Rs Rls Rrs Cs)</key>
+	<string>8.0 (C L R Ls Rs Rls Rrs Cs)</string>
+	<key>8.0 (Lc C Rc L R Ls Cs Rs)</key>
+	<string>8.0 (Lc C Rc L R Ls Cs Rs)</string>
+	<key>8.0 (Lc Rc L R Ls Rs Rls Rrs)</key>
+	<string>8.0 (Lc Rc L R Ls Rs Rls Rrs)</string>
+	<key>8.1 (Lc C Rc L R Ls Cs Rs LFE)</key>
+	<string>8.1 (Lc C Rc L R Ls Cs Rs LFE)</string>
+	<key>8.1 (Lc Rc L R Ls Rs Rls Rrs LFE)</key>
+	<string>8.1 (Lc Rc L R Ls Rs Rls Rrs LFE)</string>
+	<key>Ambisonic B Format</key>
+	<string>Ambisonic B Format</string>
+	<key>Ambisonic B Format (W X Y Z)</key>
+	<string>Ambisonic B Format (W X Y Z)</string>
+	<key>Binaural</key>
+	<string>Binaural</string>
+	<key>Cube</key>
+	<string>Cube</string>
+	<key>Discrete Channel</key>
+	<string>Discrete Channel</string>
+	<key>Discrete Channels</key>
+	<string>Discrete Channels</string>
+	<key>Hexagonal</key>
+	<string>Hexagonal</string>
+	<key>Matrix Stereo</key>
+	<string>Matrix Stereo</string>
+	<key>Matrix Stereo (Lt Rt)</key>
+	<string>Matrix Stereo (Lt Rt)</string>
+	<key>Mid-Side</key>
+	<string>Mid-Side</string>
+	<key>Mono</key>
+	<string>Mono</string>
+	<key>Octagonal</key>
+	<string>Octagonal</string>
+	<key>Pentagonal</key>
+	<string>Pentagonal</string>
+	<key>Quadraphonic</key>
+	<string>Quadraphonic</string>
+	<key>SMPTE DTV</key>
+	<string>SMPTE DTV</string>
+	<key>SMPTE DTV (L R C LFE Ls Rs Lt Rt)</key>
+	<string>SMPTE DTV (L R C LFE Ls Rs Lt Rt)</string>
+	<key>Stereo</key>
+	<string>Stereo</string>
+	<key>Stereo (L R)</key>
+	<string>Stereo (L R)</string>
+	<key>Stereo Headphones</key>
+	<string>Stereo Headphones</string>
+	<key>TMH 10.2 (16 channel)</key>
+	<string>TMH 10.2 (16 channel)</string>
+	<key>TMH 10.2 (21 channel)</key>
+	<string>TMH 10.2 (21 channel)</string>
+	<key>X-Y</key>
+	<string>X-Y</string>
+</dict>
+</plist>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@</key>
+	<string>%@</string>
+	<key>%@ Help</key>
+	<string>%@ Help</string>
+	<key>%@ cm</key>
+	<string>%@ cm</string>
+	<key>%@ in</key>
+	<string>%@ in</string>
+	<key>%@ pt</key>
+	<string>%@ pt</string>
+	<key>%@ px</key>
+	<string>%@ px</string>
+	<key>%d Photo, %d Videos</key>
+	<string>%1$d Photo, %2$d Videos</string>
+	<key>%d Photos</key>
+	<string>%d Photos</string>
+	<key>%d Photos, %d Video</key>
+	<string>%1$d Photos, %2$d Video</string>
+	<key>%d Photos, %d Videos</key>
+	<string>%1$d Photos, %2$d Videos</string>
+	<key>%d Videos</key>
+	<string>%d Videos</string>
+	<key>0 cm</key>
+	<string>0 cm</string>
+	<key>0 in</key>
+	<string>0 in</string>
+	<key>0 pt</key>
+	<string>0 pt</string>
+	<key>0 px</key>
+	<string>0 px</string>
+	<key>Author</key>
+	<string>Author</string>
+	<key>Blue</key>
+	<string>Blue</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Can’t Access Photos or Videos</key>
+	<string>Can’t Access Photos or Videos</string>
+	<key>Centimeters</key>
+	<string>Centimeters</string>
+	<key>Choose</key>
+	<string>Choose</string>
+	<key>Choose Video</key>
+	<string>Choose Video</string>
+	<key>Close</key>
+	<string>Close</string>
+	<key>Compressing Video…</key>
+	<string>Compressing Video…</string>
+	<key>Couldn\U2019t convert to picas</key>
+	<string>Couldn’t convert to picas</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Fell short of minimum</key>
+	<string>Fell short of minimum</string>
+	<key>Gray</key>
+	<string>Gray</string>
+	<key>Green</key>
+	<string>Green</string>
+	<key>Inches</key>
+	<string>Inches</string>
+	<key>Make sure you're connected to the internet.
+
+1. For help connecting, choose Apple menu &gt; System Preferences
+
+2. In the System Preferences window, choose Network, and then choose "Assist Me." 
+
+If you're connected to the internet and the content still doesn't appear, try again later.</key>
+	<string>Make sure you're connected to the internet.
+
+1. For help connecting, choose Apple menu &gt; System Preferences
+
+2. In the System Preferences window, choose Network, and then choose "Assist Me." 
+
+If you're connected to the internet and the content still doesn't appear, try again later.</string>
+	<key>Maximum exceeded</key>
+	<string>Maximum exceeded</string>
+	<key>No Photos</key>
+	<string>No Photos</string>
+	<key>No Photos or Videos</key>
+	<string>No Photos or Videos</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Orange</key>
+	<string>Orange</string>
+	<key>Photos</key>
+	<string>Photos</string>
+	<key>Picas</key>
+	<string>Picas</string>
+	<key>Pink</key>
+	<string>Pink</string>
+	<key>Pixels</key>
+	<string>Pixels</string>
+	<key>Points</key>
+	<string>Points</string>
+	<key>Purple</key>
+	<string>Purple</string>
+	<key>Teal</key>
+	<string>Teal</string>
+	<key>The movie couldn\U2019t be inserted.</key>
+	<string>The movie couldn’t be inserted.</string>
+	<key>The selected topic is currently unavailable
+
+</key>
+	<string>The selected topic is currently unavailable
+
+</string>
+	<key>To access your media, go to Settings &gt; Privacy &gt; Photos, and set the %@ switch to On.</key>
+	<string>To access your media, go to Settings &gt; Privacy &gt; Photos, and set the %@ switch to On.</string>
+	<key>Use</key>
+	<string>Use</string>
+	<key>Yellow</key>
+	<string>Yellow</string>
+	<key>You can sync photos and videos onto your %@ using iTunes.</key>
+	<string>You can sync photos and videos onto your %@ using iTunes.</string>
+	<key>You can take photos and videos using the camera, or sync photos and videos onto your %@ using iTunes.</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your %@ using iTunes.</string>
+	<key>iPad</key>
+	<string>iPad</string>
+	<key>iPhone</key>
+	<string>iPhone</string>
+	<key>iPod</key>
+	<string>iPod</string>
+	<key>p</key>
+	<string>p</string>
+</dict>
+</plist>

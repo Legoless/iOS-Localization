@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AGREE_TO_TERMS_BUTTON</key>
+	<string>Agree</string>
+	<key>AGREE_TO_TERMS_TITLE</key>
+	<string>App Store</string>
+	<key>APPLE_PACK_CLOSE_BUTTON</key>
+	<string>Not Now</string>
+	<key>APPLE_PACK_DOWNLOAD_MESSAGE_ONE</key>
+	<string>You can continue browsing while you wait for “%@” to finish.</string>
+	<key>APPLE_PACK_DOWNLOAD_MESSAGE_PLURAL</key>
+	<string>You can continue browsing while you wait for them to finish.</string>
+	<key>APPLE_PACK_DOWNLOAD_TITLE_ONE</key>
+	<string>Your App is Downloading</string>
+	<key>APPLE_PACK_DOWNLOAD_TITLE_PLURAL</key>
+	<string>Your Apps Are Downloading</string>
+	<key>APPLE_PACK_OK_BUTTON</key>
+	<string>OK</string>
+	<key>APPLE_PACK_TITLE</key>
+	<string>Apple Apps</string>
+	<key>AUTO_UPDATE_OPT_IN_CANCEL_BUTTON</key>
+	<string>Not Now</string>
+	<key>AUTO_UPDATE_OPT_IN_MESSAGE</key>
+	<string>Updates can be installed automatically when they are ready.</string>
+	<key>AUTO_UPDATE_OPT_IN_OK_BUTTON</key>
+	<string>Turn On</string>
+	<key>AUTO_UPDATE_OPT_IN_TITLE</key>
+	<string>Update Apps Automatically?</string>
+	<key>ERROR_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>FEATURED_TAB_TITLE</key>
+	<string>Featured</string>
+	<key>GENERIC_ERROR</key>
+	<string>Cannot Connect to App Store</string>
+	<key>LOADING_APP_STORE_STATUS</key>
+	<string>Loading App Store…</string>
+	<key>LOADING_APP_STORE_TITLE</key>
+	<string>App Store</string>
+	<key>LOCATION_GENIUS_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>LOCATION_GENIUS_DISCLAIMER</key>
+	<string>Using Near Me will send information to
+Apple about your location.</string>
+	<key>LOCATION_GENIUS_EMPTY_IPAD</key>
+	<string>There are no apps for your current location.</string>
+	<key>LOCATION_GENIUS_EMPTY_IPHONE</key>
+	<string>There are no apps for your
+current location.</string>
+	<key>LOCATION_GENIUS_EMPTY_TITLE</key>
+	<string>Near Me</string>
+	<key>LOCATION_GENIUS_FEATURE_DESCRIPTION_IPAD</key>
+	<string>Near Me shows apps that are popular near your current location.</string>
+	<key>LOCATION_GENIUS_FEATURE_DESCRIPTION_IPHONE</key>
+	<string>Near Me shows apps that are
+popular near your current location.</string>
+	<key>LOCATION_GENIUS_LOCATING_TEXT</key>
+	<string>Locating…</string>
+	<key>LOCATION_GENIUS_NAVIGATION_TITLE</key>
+	<string>Popular Near Me</string>
+	<key>LOCATION_GENIUS_SETTINGS_BUTTON</key>
+	<string>Settings</string>
+	<key>LOCATION_GENIUS_TAB_TITLE</key>
+	<string>Near Me</string>
+	<key>LOCATION_GENIUS_TURN_ON_BUTTON</key>
+	<string>Show Popular Apps Near Me</string>
+	<key>LOCATION_GENIUS_TURN_ON_LOCATION_SERVICES</key>
+	<string>Turn on Location Services to see apps that are popular near your location.</string>
+	<key>NEWSSTAND_TITLE</key>
+	<string>Newsstand</string>
+	<key>PURCHASED_EMPTY</key>
+	<string>You have no purchases.</string>
+	<key>PURCHASED_IPAD_STORE_SEARCH_PLACEHOLDER</key>
+	<string>Search Store</string>
+	<key>PURCHASED_LOADING</key>
+	<string>Loading…</string>
+	<key>PURCHASED_SCOPE_ALL</key>
+	<string>All</string>
+	<key>PURCHASED_SCOPE_NOT_ON_THIS_IPAD</key>
+	<string>Not on This iPad</string>
+	<key>PURCHASED_SCOPE_NOT_ON_THIS_IPHONE</key>
+	<string>Not on This iPhone</string>
+	<key>PURCHASED_SCOPE_NOT_ON_THIS_IPOD</key>
+	<string>Not on This iPod</string>
+	<key>PURCHASED_SEARCH_PLACEHOLDER_IPAD</key>
+	<string>Search Purchased Apps</string>
+	<key>PURCHASED_SEARCH_PLACEHOLDER_IPHONE</key>
+	<string>Search</string>
+	<key>PURCHASED_SEGMENT_IPAD_APPS</key>
+	<string>iPad Apps</string>
+	<key>PURCHASED_SEGMENT_IPHONE_APPS</key>
+	<string>iPhone Apps</string>
+	<key>PURCHASED_SIGN_IN_BUTTON</key>
+	<string>Sign In</string>
+	<key>PURCHASED_SIGN_IN_TO_VIEW</key>
+	<string>Sign in to view your purchases.</string>
+	<key>PURCHASED_SIGN_IN_TO_VIEW_TITLE</key>
+	<string>Purchased</string>
+	<key>PURCHASED_SORT_BY</key>
+	<string>sort by</string>
+	<key>PURCHASED_SORT_MOST_RECENT</key>
+	<string>Most Recent</string>
+	<key>PURCHASED_SORT_NAME</key>
+	<string>Name</string>
+	<key>PURCHASED_TAB_TITLE</key>
+	<string>Purchased</string>
+	<key>PURCHASED_VERSION_STRING</key>
+	<string>Version %@</string>
+	<key>SEARCH_TAB_TITLE</key>
+	<string>Search</string>
+	<key>UPDATES_ALL_APPS_UP_TO_DATE</key>
+	<string>All apps are up to date.</string>
+	<key>UPDATES_ALL_APPS_UP_TO_DATE_TITLE</key>
+	<string>Updates</string>
+	<key>UPDATES_AVAILABLE_UPDATES</key>
+	<string>Available Updates</string>
+	<key>UPDATES_PENDING_UPDATES</key>
+	<string>Pending Updates</string>
+	<key>UPDATES_PURCHASED_LINK</key>
+	<string>Purchased</string>
+	<key>UPDATES_SHOW_PREVIOUS_UPDATES</key>
+	<string>Show Previous Updates</string>
+	<key>UPDATES_TAB_TITLE</key>
+	<string>Updates</string>
+	<key>UPDATES_UPDATED_ON_DATE</key>
+	<string>Updated %@</string>
+	<key>UPDATES_UPDATE_ALL</key>
+	<string>Update All</string>
+	<key>UPDATES_VERSION</key>
+	<string>Version %@</string>
+	<key>UPDATES_VERSION_AND_SIZE</key>
+	<string>Version %@, %@</string>
+	<key>UPDATE_CELL_WHATS_NEW</key>
+	<string>What’s New ▾</string>
+</dict>
+</plist>

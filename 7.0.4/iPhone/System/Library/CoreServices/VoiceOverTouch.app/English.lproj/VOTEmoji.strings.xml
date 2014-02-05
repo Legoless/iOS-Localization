@@ -1,0 +1,1838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UnicodeHex.2139</key>
+	<string>Information source</string>
+	<key>UnicodeHex.2194</key>
+	<string>Left right arrow</string>
+	<key>UnicodeHex.2195</key>
+	<string>Up down arrow</string>
+	<key>UnicodeHex.2196</key>
+	<string>North west arrow</string>
+	<key>UnicodeHex.2197</key>
+	<string>North east arrow</string>
+	<key>UnicodeHex.2198</key>
+	<string>South east arrow</string>
+	<key>UnicodeHex.2199</key>
+	<string>South west arrow</string>
+	<key>UnicodeHex.21aa</key>
+	<string>Right arrow with hook</string>
+	<key>UnicodeHex.231a</key>
+	<string>Watch</string>
+	<key>UnicodeHex.231b</key>
+	<string>Hourglass</string>
+	<key>UnicodeHex.23e9</key>
+	<string>Right pointing double triangle</string>
+	<key>UnicodeHex.23ea</key>
+	<string>Left pointing double triangle</string>
+	<key>UnicodeHex.23eb</key>
+	<string>Up pointing double triangle</string>
+	<key>UnicodeHex.23ec</key>
+	<string>Down pointing double triangle</string>
+	<key>UnicodeHex.23f0</key>
+	<string>Alarm clock</string>
+	<key>UnicodeHex.23f3</key>
+	<string>Hourglass with flowing sand</string>
+	<key>UnicodeHex.24c2</key>
+	<string>Circled M</string>
+	<key>UnicodeHex.25aa</key>
+	<string>Black small square</string>
+	<key>UnicodeHex.25ab</key>
+	<string>White small square</string>
+	<key>UnicodeHex.25b6</key>
+	<string>Right pointing triangle</string>
+	<key>UnicodeHex.25bc</key>
+	<string>Down pointing triangle</string>
+	<key>UnicodeHex.25c0</key>
+	<string>Left pointing triangle</string>
+	<key>UnicodeHex.25c2</key>
+	<string>Up pointing triangle</string>
+	<key>UnicodeHex.25fb</key>
+	<string>White medium square</string>
+	<key>UnicodeHex.25fc</key>
+	<string>Black medium square</string>
+	<key>UnicodeHex.25fd</key>
+	<string>White medium small square</string>
+	<key>UnicodeHex.25fe</key>
+	<string>Black medium small square</string>
+	<key>UnicodeHex.2600</key>
+	<string>Shining sun with rays</string>
+	<key>UnicodeHex.2601</key>
+	<string>Cloud</string>
+	<key>UnicodeHex.260e</key>
+	<string>Telephone</string>
+	<key>UnicodeHex.2611</key>
+	<string>Checked check box</string>
+	<key>UnicodeHex.2614</key>
+	<string>Umbrella with rain drops</string>
+	<key>UnicodeHex.2615</key>
+	<string>Hot beverage</string>
+	<key>UnicodeHex.261d</key>
+	<string>Hand with index finger pointing up</string>
+	<key>UnicodeHex.263a</key>
+	<string>Smiling face</string>
+	<key>UnicodeHex.2648</key>
+	<string>Aries</string>
+	<key>UnicodeHex.2649</key>
+	<string>Taurus</string>
+	<key>UnicodeHex.264a</key>
+	<string>Gemini</string>
+	<key>UnicodeHex.264b</key>
+	<string>Cancer</string>
+	<key>UnicodeHex.264c</key>
+	<string>Leo</string>
+	<key>UnicodeHex.264d</key>
+	<string>Virgo</string>
+	<key>UnicodeHex.264e</key>
+	<string>Libra</string>
+	<key>UnicodeHex.264f</key>
+	<string>Scorpius</string>
+	<key>UnicodeHex.2650</key>
+	<string>Sagittarius</string>
+	<key>UnicodeHex.2651</key>
+	<string>Capricorn</string>
+	<key>UnicodeHex.2652</key>
+	<string>Aquarius</string>
+	<key>UnicodeHex.2653</key>
+	<string>Pisces</string>
+	<key>UnicodeHex.2660</key>
+	<string>Spade suit</string>
+	<key>UnicodeHex.2663</key>
+	<string>Club suit</string>
+	<key>UnicodeHex.2665</key>
+	<string>Heart suit</string>
+	<key>UnicodeHex.2666</key>
+	<string>Diamond suit</string>
+	<key>UnicodeHex.2668</key>
+	<string>Hot springs</string>
+	<key>UnicodeHex.267b</key>
+	<string>Recycling symbol</string>
+	<key>UnicodeHex.267f</key>
+	<string>Wheelchair symbol</string>
+	<key>UnicodeHex.2693</key>
+	<string>Anchor</string>
+	<key>UnicodeHex.26a0</key>
+	<string>Hazard sign</string>
+	<key>UnicodeHex.26a1</key>
+	<string>High voltage sign</string>
+	<key>UnicodeHex.26aa</key>
+	<string>Medium white circle</string>
+	<key>UnicodeHex.26ab</key>
+	<string>Medium black circle</string>
+	<key>UnicodeHex.26bd</key>
+	<string>Soccer ball</string>
+	<key>UnicodeHex.26be</key>
+	<string>Baseball</string>
+	<key>UnicodeHex.26c4</key>
+	<string>Snowman</string>
+	<key>UnicodeHex.26c5</key>
+	<string>Sun behind cloud</string>
+	<key>UnicodeHex.26ce</key>
+	<string>Ophiuchus</string>
+	<key>UnicodeHex.26d4</key>
+	<string>No entry sign</string>
+	<key>UnicodeHex.26ea</key>
+	<string>Church</string>
+	<key>UnicodeHex.26f2</key>
+	<string>Fountain</string>
+	<key>UnicodeHex.26f3</key>
+	<string>Golf hole</string>
+	<key>UnicodeHex.26f5</key>
+	<string>Sailboat</string>
+	<key>UnicodeHex.26fa</key>
+	<string>Tent at night</string>
+	<key>UnicodeHex.26fd</key>
+	<string>Fuel pump</string>
+	<key>UnicodeHex.2702</key>
+	<string>scissors</string>
+	<key>UnicodeHex.2705</key>
+	<string>Check mark</string>
+	<key>UnicodeHex.2708</key>
+	<string>Airplane</string>
+	<key>UnicodeHex.2709</key>
+	<string>Envelope</string>
+	<key>UnicodeHex.270a</key>
+	<string>Closed fist</string>
+	<key>UnicodeHex.270b</key>
+	<string>Open hand</string>
+	<key>UnicodeHex.270c</key>
+	<string>Hand making peace sign</string>
+	<key>UnicodeHex.270f</key>
+	<string>pencil</string>
+	<key>UnicodeHex.2712</key>
+	<string>Tip of old-style ink pen</string>
+	<key>UnicodeHex.2714</key>
+	<string>Checkmark</string>
+	<key>UnicodeHex.2716</key>
+	<string>Multiplication symbol</string>
+	<key>UnicodeHex.2728</key>
+	<string>Three shining stars</string>
+	<key>UnicodeHex.2733</key>
+	<string>Eight spoked asterisk</string>
+	<key>UnicodeHex.2734</key>
+	<string>Four pointed star</string>
+	<key>UnicodeHex.2744</key>
+	<string>Snowflake</string>
+	<key>UnicodeHex.2747</key>
+	<string>Sparkle</string>
+	<key>UnicodeHex.274c</key>
+	<string>Red colored cross mark</string>
+	<key>UnicodeHex.274e</key>
+	<string>X mark</string>
+	<key>UnicodeHex.2753</key>
+	<string>Red colored question mark</string>
+	<key>UnicodeHex.2754</key>
+	<string>White colored question mark</string>
+	<key>UnicodeHex.2755</key>
+	<string>White colored exclamation mark</string>
+	<key>UnicodeHex.2757</key>
+	<string>Red colored exclamation mark</string>
+	<key>UnicodeHex.2764</key>
+	<string>Red heart</string>
+	<key>UnicodeHex.2795</key>
+	<string>Plus symbol</string>
+	<key>UnicodeHex.2796</key>
+	<string>Minus symbol</string>
+	<key>UnicodeHex.2797</key>
+	<string>Division symbol</string>
+	<key>UnicodeHex.27a1</key>
+	<string>Right arrow</string>
+	<key>UnicodeHex.27b0</key>
+	<string>Curly loop</string>
+	<key>UnicodeHex.27bf</key>
+	<string>Double curly loop</string>
+	<key>UnicodeHex.2934</key>
+	<string>Arrow pointing rightwards then curving upwards</string>
+	<key>UnicodeHex.2935</key>
+	<string>Arrow pointing rightwards then curving down</string>
+	<key>UnicodeHex.2b05</key>
+	<string>Left arrow</string>
+	<key>UnicodeHex.2b06</key>
+	<string>Up arrow</string>
+	<key>UnicodeHex.2b07</key>
+	<string>Down arrow</string>
+	<key>UnicodeHex.2b1b</key>
+	<string>Black large square</string>
+	<key>UnicodeHex.2b1c</key>
+	<string>White large square</string>
+	<key>UnicodeHex.2b50</key>
+	<string>Star</string>
+	<key>UnicodeHex.2b55</key>
+	<string>Red colored circle</string>
+	<key>UnicodeHex.3030</key>
+	<string>Wavy dash</string>
+	<key>UnicodeHex.303d</key>
+	<string>Part alternation mark</string>
+	<key>UnicodeHex.3297</key>
+	<string>Asian ideograph meaning congratulations</string>
+	<key>UnicodeHex.3299</key>
+	<string>Asian ideograph meaning secret</string>
+	<key>UnicodeHex.d83cdccf</key>
+	<string>Joker playing card</string>
+	<key>UnicodeHex.d83cdd91</key>
+	<string>CL sign</string>
+	<key>UnicodeHex.d83cdd93</key>
+	<string>Free sign</string>
+	<key>UnicodeHex.d83cdd96</key>
+	<string>Ng sign</string>
+	<key>UnicodeHex.d83cdd98</key>
+	<string>SOS sign</string>
+	<key>UnicodeHex.d83cdde8</key>
+	<string>Chinese Flag</string>
+	<key>UnicodeHex.d83cdde9</key>
+	<string>German Flag</string>
+	<key>UnicodeHex.d83cddea</key>
+	<string>Spanish Flag</string>
+	<key>UnicodeHex.d83cddeb</key>
+	<string>French Flag</string>
+	<key>UnicodeHex.d83cddec</key>
+	<string>UK Flag</string>
+	<key>UnicodeHex.d83cddee</key>
+	<string>Italian Flag</string>
+	<key>UnicodeHex.d83cddf0</key>
+	<string>South Korean Flag</string>
+	<key>UnicodeHex.d83cddf5</key>
+	<string>Japanese flag</string>
+	<key>UnicodeHex.d83cddf7</key>
+	<string>Russian Flag</string>
+	<key>UnicodeHex.d83cddfa</key>
+	<string>USA Flag</string>
+	<key>UnicodeHex.d83cde32</key>
+	<string>Asian ideograph meaning prohibited</string>
+	<key>UnicodeHex.d83cde34</key>
+	<string>Asian ideograph meaning passed</string>
+	<key>UnicodeHex.d83cde51</key>
+	<string>Asian ideograph meaning accepted</string>
+	<key>UnicodeHex.d83cdf01</key>
+	<string>Bridge behind fog pictorial card</string>
+	<key>UnicodeHex.d83cdf09</key>
+	<string>Bridge at night</string>
+	<key>UnicodeHex.d83cdf0b</key>
+	<string>Volcano erupting pictorial card</string>
+	<key>UnicodeHex.d83cdf0c</key>
+	<string>Milky way pictorial card</string>
+	<key>UnicodeHex.d83cdf0d</key>
+	<string>Globe featuring Europe and Africa</string>
+	<key>UnicodeHex.d83cdf0e</key>
+	<string>Globe featuring North and South America</string>
+	<key>UnicodeHex.d83cdf0f</key>
+	<string>Globe featuring Asia</string>
+	<key>UnicodeHex.d83cdf10</key>
+	<string>Globe symbol with meridians</string>
+	<key>UnicodeHex.d83cdf11</key>
+	<string>New moon</string>
+	<key>UnicodeHex.d83cdf12</key>
+	<string>Waxing crescent moon</string>
+	<key>UnicodeHex.d83cdf13</key>
+	<string>First quarter moon</string>
+	<key>UnicodeHex.d83cdf14</key>
+	<string>Waxing gibbous moon</string>
+	<key>UnicodeHex.d83cdf15</key>
+	<string>Full moon</string>
+	<key>UnicodeHex.d83cdf16</key>
+	<string>Waning gibbous moon</string>
+	<key>UnicodeHex.d83cdf17</key>
+	<string>Last quarter moon</string>
+	<key>UnicodeHex.d83cdf18</key>
+	<string>Waning crescent moon</string>
+	<key>UnicodeHex.d83cdf1a</key>
+	<string>New moon with face</string>
+	<key>UnicodeHex.d83cdf1b</key>
+	<string>First quarter moon with face</string>
+	<key>UnicodeHex.d83cdf1c</key>
+	<string>Last quarter moon with face</string>
+	<key>UnicodeHex.d83cdf1d</key>
+	<string>Full moon with face</string>
+	<key>UnicodeHex.d83cdf1e</key>
+	<string>Sun with face</string>
+	<key>UnicodeHex.d83cdf20</key>
+	<string>Shooting star pictorial card</string>
+	<key>UnicodeHex.d83cdf30</key>
+	<string>Chestnut</string>
+	<key>UnicodeHex.d83cdf31</key>
+	<string>Sapling plant</string>
+	<key>UnicodeHex.d83cdf32</key>
+	<string>Pine tree</string>
+	<key>UnicodeHex.d83cdf33</key>
+	<string>Leafy tree</string>
+	<key>UnicodeHex.d83cdf3c</key>
+	<string>Flower</string>
+	<key>UnicodeHex.d83cdf3d</key>
+	<string>Ear of corn</string>
+	<key>UnicodeHex.d83cdf3f</key>
+	<string>Branch with leaves</string>
+	<key>UnicodeHex.d83cdf44</key>
+	<string>Mushroom</string>
+	<key>UnicodeHex.d83cdf47</key>
+	<string>Grapes</string>
+	<key>UnicodeHex.d83cdf48</key>
+	<string>Melon</string>
+	<key>UnicodeHex.d83cdf4b</key>
+	<string>Lemon</string>
+	<key>UnicodeHex.d83cdf4c</key>
+	<string>Banana</string>
+	<key>UnicodeHex.d83cdf4d</key>
+	<string>Pineapple</string>
+	<key>UnicodeHex.d83cdf4f</key>
+	<string>Green apple</string>
+	<key>UnicodeHex.d83cdf50</key>
+	<string>Pear</string>
+	<key>UnicodeHex.d83cdf51</key>
+	<string>Peach</string>
+	<key>UnicodeHex.d83cdf52</key>
+	<string>Cherries</string>
+	<key>UnicodeHex.d83cdf55</key>
+	<string>Slice of pizza</string>
+	<key>UnicodeHex.d83cdf56</key>
+	<string>Meat on bone</string>
+	<key>UnicodeHex.d83cdf57</key>
+	<string>Poultry leg</string>
+	<key>UnicodeHex.d83cdf60</key>
+	<string>Roasted sweet potato</string>
+	<key>UnicodeHex.d83cdf64</key>
+	<string>Fried shrimp</string>
+	<key>UnicodeHex.d83cdf65</key>
+	<string>Fish cake with swirl design</string>
+	<key>UnicodeHex.d83cdf68</key>
+	<string>Ice cream</string>
+	<key>UnicodeHex.d83cdf69</key>
+	<string>Doughnut</string>
+	<key>UnicodeHex.d83cdf6a</key>
+	<string>Cookie</string>
+	<key>UnicodeHex.d83cdf6b</key>
+	<string>Chocolate bar</string>
+	<key>UnicodeHex.d83cdf6c</key>
+	<string>Wrapped candy</string>
+	<key>UnicodeHex.d83cdf6d</key>
+	<string>Lollipop</string>
+	<key>UnicodeHex.d83cdf6e</key>
+	<string>Custard</string>
+	<key>UnicodeHex.d83cdf6f</key>
+	<string>Honey pot</string>
+	<key>UnicodeHex.d83cdf77</key>
+	<string>Wine glass</string>
+	<key>UnicodeHex.d83cdf79</key>
+	<string>Tropical drink</string>
+	<key>UnicodeHex.d83cdf7c</key>
+	<string>Baby bottle</string>
+	<key>UnicodeHex.d83cdf8a</key>
+	<string>Confetti ball</string>
+	<key>UnicodeHex.d83cdf8b</key>
+	<string>Tanabata tree</string>
+	<key>UnicodeHex.d83cdfa0</key>
+	<string>Carousel horse</string>
+	<key>UnicodeHex.d83cdfa3</key>
+	<string>Fishing pole and fish</string>
+	<key>UnicodeHex.d83cdfaa</key>
+	<string>Circus tent</string>
+	<key>UnicodeHex.d83cdfad</key>
+	<string>Theatre masks representing the performance arts</string>
+	<key>UnicodeHex.d83cdfae</key>
+	<string>Video game controller</string>
+	<key>UnicodeHex.d83cdfb2</key>
+	<string>Game die</string>
+	<key>UnicodeHex.d83cdfb3</key>
+	<string>Bowling ball and pins</string>
+	<key>UnicodeHex.d83cdfb4</key>
+	<string>Flower playing cards</string>
+	<key>UnicodeHex.d83cdfb9</key>
+	<string>Musical keyboard</string>
+	<key>UnicodeHex.d83cdfbb</key>
+	<string>Violin</string>
+	<key>UnicodeHex.d83cdfbc</key>
+	<string>Musical score</string>
+	<key>UnicodeHex.d83cdfbd</key>
+	<string>Woman's tank-top with a sash</string>
+	<key>UnicodeHex.d83cdfc2</key>
+	<string>Snowboarder</string>
+	<key>UnicodeHex.d83cdfc7</key>
+	<string>Horse racing</string>
+	<key>UnicodeHex.d83cdfc9</key>
+	<string>Rugby football</string>
+	<key>UnicodeHex.d83cdfe1</key>
+	<string>House with garden</string>
+	<key>UnicodeHex.d83cdfe4</key>
+	<string>European post office</string>
+	<key>UnicodeHex.d83cdfee</key>
+	<string>Izakaya lantern</string>
+	<key>UnicodeHex.d83ddc00</key>
+	<string>Rat</string>
+	<key>UnicodeHex.d83ddc01</key>
+	<string>Mouse</string>
+	<key>UnicodeHex.d83ddc02</key>
+	<string>Ox</string>
+	<key>UnicodeHex.d83ddc03</key>
+	<string>Water Buffalo</string>
+	<key>UnicodeHex.d83ddc04</key>
+	<string>Cow</string>
+	<key>UnicodeHex.d83ddc05</key>
+	<string>Tiger</string>
+	<key>UnicodeHex.d83ddc06</key>
+	<string>Leopard</string>
+	<key>UnicodeHex.d83ddc07</key>
+	<string>Rabbit</string>
+	<key>UnicodeHex.d83ddc08</key>
+	<string>House cat</string>
+	<key>UnicodeHex.d83ddc09</key>
+	<string>Dragon</string>
+	<key>UnicodeHex.d83ddc0a</key>
+	<string>Crocodile</string>
+	<key>UnicodeHex.d83ddc0b</key>
+	<string>Sperm whale</string>
+	<key>UnicodeHex.d83ddc0c</key>
+	<string>Snail</string>
+	<key>UnicodeHex.d83ddc0f</key>
+	<string>Ram</string>
+	<key>UnicodeHex.d83ddc10</key>
+	<string>Goat</string>
+	<key>UnicodeHex.d83ddc11</key>
+	<string>Sheep</string>
+	<key>UnicodeHex.d83ddc13</key>
+	<string>Rooster</string>
+	<key>UnicodeHex.d83ddc14</key>
+	<string>Chicken head</string>
+	<key>UnicodeHex.d83ddc15</key>
+	<string>Dog</string>
+	<key>UnicodeHex.d83ddc16</key>
+	<string>Pig</string>
+	<key>UnicodeHex.d83ddc1c</key>
+	<string>Ant</string>
+	<key>UnicodeHex.d83ddc1d</key>
+	<string>Bee</string>
+	<key>UnicodeHex.d83ddc1e</key>
+	<string>Ladybug</string>
+	<key>UnicodeHex.d83ddc21</key>
+	<string>Blowfish</string>
+	<key>UnicodeHex.d83ddc22</key>
+	<string>Turtle</string>
+	<key>UnicodeHex.d83ddc23</key>
+	<string>Recently hatched chick still in shell</string>
+	<key>UnicodeHex.d83ddc25</key>
+	<string>Standing chick</string>
+	<key>UnicodeHex.d83ddc29</key>
+	<string>Poodle</string>
+	<key>UnicodeHex.d83ddc2a</key>
+	<string>One humped camel</string>
+	<key>UnicodeHex.d83ddc32</key>
+	<string>Dragon head</string>
+	<key>UnicodeHex.d83ddc3c</key>
+	<string>Panda</string>
+	<key>UnicodeHex.d83ddc3d</key>
+	<string>Pig nose</string>
+	<key>UnicodeHex.d83ddc3e</key>
+	<string>Paw prints</string>
+	<key>UnicodeHex.d83ddc45</key>
+	<string>Tongue</string>
+	<key>UnicodeHex.d83ddc53</key>
+	<string>Sunglasses</string>
+	<key>UnicodeHex.d83ddc56</key>
+	<string>Woman's jeans</string>
+	<key>UnicodeHex.d83ddc5a</key>
+	<string>Woman's shirt</string>
+	<key>UnicodeHex.d83ddc5b</key>
+	<string>Pink purse</string>
+	<key>UnicodeHex.d83ddc5d</key>
+	<string>Tan purse</string>
+	<key>UnicodeHex.d83ddc5e</key>
+	<string>Brown sneaker</string>
+	<key>UnicodeHex.d83ddc64</key>
+	<string>Silhouette of person</string>
+	<key>UnicodeHex.d83ddc65</key>
+	<string>Silhouette of two people</string>
+	<key>UnicodeHex.d83ddc6a</key>
+	<string>Family of three</string>
+	<key>UnicodeHex.d83ddc6c</key>
+	<string>Two men holding hands</string>
+	<key>UnicodeHex.d83ddc6d</key>
+	<string>Two women holding hands</string>
+	<key>UnicodeHex.d83ddc70</key>
+	<string>Woman wearing a bridal veil</string>
+	<key>UnicodeHex.d83ddc79</key>
+	<string>Japanese ogre mask</string>
+	<key>UnicodeHex.d83ddc7a</key>
+	<string>Japanese goblin mask</string>
+	<key>UnicodeHex.d83ddc8c</key>
+	<string>Envelope sealed with kiss</string>
+	<key>UnicodeHex.d83ddc95</key>
+	<string>Two hearts</string>
+	<key>UnicodeHex.d83ddc96</key>
+	<string>Heart with stars</string>
+	<key>UnicodeHex.d83ddc9e</key>
+	<string>Two circling hearts</string>
+	<key>UnicodeHex.d83ddca0</key>
+	<string>Diamond shape with a dot inside</string>
+	<key>UnicodeHex.d83ddca5</key>
+	<string>Explosion</string>
+	<key>UnicodeHex.d83ddca7</key>
+	<string>Water droplet</string>
+	<key>UnicodeHex.d83ddcab</key>
+	<string>Shooting star</string>
+	<key>UnicodeHex.d83ddcac</key>
+	<string>Speech bubble</string>
+	<key>UnicodeHex.d83ddcad</key>
+	<string>Thinking bubble</string>
+	<key>UnicodeHex.d83ddcae</key>
+	<string>White flower with Asian ideographs meaning brilliant homework</string>
+	<key>UnicodeHex.d83ddcaf</key>
+	<string>Hundred points symbol</string>
+	<key>UnicodeHex.d83ddcb2</key>
+	<string>Dollar sign</string>
+	<key>UnicodeHex.d83ddcb3</key>
+	<string>Back of a credit card</string>
+	<key>UnicodeHex.d83ddcb4</key>
+	<string>Banded wad of Yen</string>
+	<key>UnicodeHex.d83ddcb5</key>
+	<string>Banded wad of American dollars</string>
+	<key>UnicodeHex.d83ddcb6</key>
+	<string>Banded wad of Euros</string>
+	<key>UnicodeHex.d83ddcb7</key>
+	<string>Banded wad of British pounds</string>
+	<key>UnicodeHex.d83ddcb8</key>
+	<string>Wad of bills with wings</string>
+	<key>UnicodeHex.d83ddcbe</key>
+	<string>Floppy disk</string>
+	<key>UnicodeHex.d83ddcc1</key>
+	<string>Closed file folder</string>
+	<key>UnicodeHex.d83ddcc2</key>
+	<string>Open file folder</string>
+	<key>UnicodeHex.d83ddcc3</key>
+	<string>Page with curl</string>
+	<key>UnicodeHex.d83ddcc4</key>
+	<string>Page facing up</string>
+	<key>UnicodeHex.d83ddcc5</key>
+	<string>Calendar</string>
+	<key>UnicodeHex.d83ddcc6</key>
+	<string>Tear-off calendar</string>
+	<key>UnicodeHex.d83ddcc7</key>
+	<string>Business card index</string>
+	<key>UnicodeHex.d83ddcc8</key>
+	<string>Chart with upwards trend</string>
+	<key>UnicodeHex.d83ddcc9</key>
+	<string>Chart with downwards trend</string>
+	<key>UnicodeHex.d83ddcca</key>
+	<string>Bar chart</string>
+	<key>UnicodeHex.d83ddccb</key>
+	<string>Clipboard</string>
+	<key>UnicodeHex.d83ddccc</key>
+	<string>Pushpin</string>
+	<key>UnicodeHex.d83ddccd</key>
+	<string>Round pushpin</string>
+	<key>UnicodeHex.d83ddcce</key>
+	<string>Paper clip</string>
+	<key>UnicodeHex.d83ddccf</key>
+	<string>Straight ruler</string>
+	<key>UnicodeHex.d83ddcd0</key>
+	<string>Triangular ruler</string>
+	<key>UnicodeHex.d83ddcd1</key>
+	<string>Pages with bookmark tabs</string>
+	<key>UnicodeHex.d83ddcd2</key>
+	<string>Ledger</string>
+	<key>UnicodeHex.d83ddcd3</key>
+	<string>Composition notebook</string>
+	<key>UnicodeHex.d83ddcd4</key>
+	<string>Notebook with decorative cover</string>
+	<key>UnicodeHex.d83ddcd5</key>
+	<string>Red textbook</string>
+	<key>UnicodeHex.d83ddcd7</key>
+	<string>Green textbook</string>
+	<key>UnicodeHex.d83ddcd8</key>
+	<string>Blue textbook</string>
+	<key>UnicodeHex.d83ddcd9</key>
+	<string>Orange textbook</string>
+	<key>UnicodeHex.d83ddcda</key>
+	<string>Stack of books</string>
+	<key>UnicodeHex.d83ddcdb</key>
+	<string>Name badge</string>
+	<key>UnicodeHex.d83ddcdc</key>
+	<string>Parchment scroll</string>
+	<key>UnicodeHex.d83ddcde</key>
+	<string>Telephone receiver</string>
+	<key>UnicodeHex.d83ddcdf</key>
+	<string>Pager</string>
+	<key>UnicodeHex.d83ddce4</key>
+	<string>Outbox tray</string>
+	<key>UnicodeHex.d83ddce5</key>
+	<string>Inbox tray</string>
+	<key>UnicodeHex.d83ddce6</key>
+	<string>Package box</string>
+	<key>UnicodeHex.d83ddce7</key>
+	<string>Email symbol</string>
+	<key>UnicodeHex.d83ddce8</key>
+	<string>Incoming envelope</string>
+	<key>UnicodeHex.d83ddcea</key>
+	<string>Closed mailbox with lowered flag</string>
+	<key>UnicodeHex.d83ddcec</key>
+	<string>Open mailbox with raised flag</string>
+	<key>UnicodeHex.d83ddced</key>
+	<string>Open mailbox with lowered flag</string>
+	<key>UnicodeHex.d83ddcef</key>
+	<string>Postal horn</string>
+	<key>UnicodeHex.d83ddcf0</key>
+	<string>Newspaper</string>
+	<key>UnicodeHex.d83ddcf5</key>
+	<string>No mobile phones symbol</string>
+	<key>UnicodeHex.d83ddcf9</key>
+	<string>video camera</string>
+	<key>UnicodeHex.d83ddd00</key>
+	<string>Twisted rightwards arrows representing media shuffle playback</string>
+	<key>UnicodeHex.d83ddd01</key>
+	<string>Clockwise circle arrows representing media playback repeat</string>
+	<key>UnicodeHex.d83ddd02</key>
+	<string>Clockwise circle arrows with circled one representing media playback repeat of single track</string>
+	<key>UnicodeHex.d83ddd03</key>
+	<string>Clockwise downwards and upwards open circle arrows</string>
+	<key>UnicodeHex.d83ddd04</key>
+	<string>Revolving arrows</string>
+	<key>UnicodeHex.d83ddd05</key>
+	<string>Low brightness symbol</string>
+	<key>UnicodeHex.d83ddd06</key>
+	<string>High brightness symbol</string>
+	<key>UnicodeHex.d83ddd07</key>
+	<string>Muted speaker</string>
+	<key>UnicodeHex.d83ddd08</key>
+	<string>Speaker outputting low volume</string>
+	<key>UnicodeHex.d83ddd09</key>
+	<string>Speaker outputting medium volume</string>
+	<key>UnicodeHex.d83ddd0b</key>
+	<string>Battery</string>
+	<key>UnicodeHex.d83ddd0c</key>
+	<string>Electric plug</string>
+	<key>UnicodeHex.d83ddd0e</key>
+	<string>Right pointing magnifying glass</string>
+	<key>UnicodeHex.d83ddd0f</key>
+	<string>Lock with ink pen</string>
+	<key>UnicodeHex.d83ddd10</key>
+	<string>Locked lock with key</string>
+	<key>UnicodeHex.d83ddd15</key>
+	<string>Muted bell</string>
+	<key>UnicodeHex.d83ddd16</key>
+	<string>Bookmark</string>
+	<key>UnicodeHex.d83ddd17</key>
+	<string>Link symbol</string>
+	<key>UnicodeHex.d83ddd18</key>
+	<string>Radio button</string>
+	<key>UnicodeHex.d83ddd19</key>
+	<string>Back with leftwards arrow above</string>
+	<key>UnicodeHex.d83ddd1a</key>
+	<string>End with leftwards arrow above</string>
+	<key>UnicodeHex.d83ddd1b</key>
+	<string>On! with left right arrow above</string>
+	<key>UnicodeHex.d83ddd1c</key>
+	<string>Soon with rightwards arrow above</string>
+	<key>UnicodeHex.d83ddd1f</key>
+	<string>Keycap ten</string>
+	<key>UnicodeHex.d83ddd20</key>
+	<string>Input symbol for uppercase letters</string>
+	<key>UnicodeHex.d83ddd21</key>
+	<string>Input symbol for lowercase letters</string>
+	<key>UnicodeHex.d83ddd22</key>
+	<string>Input symbol for numbers</string>
+	<key>UnicodeHex.d83ddd23</key>
+	<string>Input symbol for symbols</string>
+	<key>UnicodeHex.d83ddd24</key>
+	<string>Input symbol for letters</string>
+	<key>UnicodeHex.d83ddd26</key>
+	<string>Flashlight</string>
+	<key>UnicodeHex.d83ddd27</key>
+	<string>Wrench</string>
+	<key>UnicodeHex.d83ddd29</key>
+	<string>Nut and bolt</string>
+	<key>UnicodeHex.d83ddd2a</key>
+	<string>Butcher knife</string>
+	<key>UnicodeHex.d83ddd2c</key>
+	<string>Microscope</string>
+	<key>UnicodeHex.d83ddd2d</key>
+	<string>Telescope</string>
+	<key>UnicodeHex.d83ddd2e</key>
+	<string>Crystal ball</string>
+	<key>UnicodeHex.d83ddd35</key>
+	<string>Blue circle</string>
+	<key>UnicodeHex.d83ddd36</key>
+	<string>Large orange diamond</string>
+	<key>UnicodeHex.d83ddd37</key>
+	<string>Large blue diamond</string>
+	<key>UnicodeHex.d83ddd38</key>
+	<string>Small orange diamond</string>
+	<key>UnicodeHex.d83ddd39</key>
+	<string>Small blue diamond</string>
+	<key>UnicodeHex.d83ddd3a</key>
+	<string>Up pointing triangle</string>
+	<key>UnicodeHex.d83ddd3b</key>
+	<string>Down pointing triangle</string>
+	<key>UnicodeHex.d83ddd3c</key>
+	<string>Up pointing triangle</string>
+	<key>UnicodeHex.d83ddd3d</key>
+	<string>Down pointing triangle</string>
+	<key>UnicodeHex.d83ddd5c</key>
+	<string>Clock face half past one</string>
+	<key>UnicodeHex.d83ddd5d</key>
+	<string>Clock face half past two</string>
+	<key>UnicodeHex.d83ddd5e</key>
+	<string>Clock face half past three</string>
+	<key>UnicodeHex.d83ddd5f</key>
+	<string>Clock face half past four</string>
+	<key>UnicodeHex.d83ddd60</key>
+	<string>Clock face half past five</string>
+	<key>UnicodeHex.d83ddd61</key>
+	<string>Clock face half past six</string>
+	<key>UnicodeHex.d83ddd62</key>
+	<string>Clock face half past seven</string>
+	<key>UnicodeHex.d83ddd63</key>
+	<string>Clock face half past eight</string>
+	<key>UnicodeHex.d83ddd64</key>
+	<string>Clock face half past nine</string>
+	<key>UnicodeHex.d83ddd65</key>
+	<string>Clock face half past ten</string>
+	<key>UnicodeHex.d83ddd66</key>
+	<string>Clock face half past eleven</string>
+	<key>UnicodeHex.d83ddd67</key>
+	<string>Clock face six o'clock</string>
+	<key>UnicodeHex.d83dddfe</key>
+	<string>Silhouette of Japan</string>
+	<key>UnicodeHex.d83dddff</key>
+	<string>Moyai statue</string>
+	<key>UnicodeHex.d83dde00</key>
+	<string>Happy face with normal eyes</string>
+	<key>UnicodeHex.d83dde05</key>
+	<string>Happy face with tear drop</string>
+	<key>UnicodeHex.d83dde06</key>
+	<string>Oddly evil and smiling face</string>
+	<key>UnicodeHex.d83dde07</key>
+	<string>Happy face with halo</string>
+	<key>UnicodeHex.d83dde08</key>
+	<string>Devil with evil smile</string>
+	<key>UnicodeHex.d83dde0b</key>
+	<string>Happy face licking lips</string>
+	<key>UnicodeHex.d83dde0e</key>
+	<string>Happy face with sunglasses</string>
+	<key>UnicodeHex.d83dde10</key>
+	<string>Neutral face</string>
+	<key>UnicodeHex.d83dde11</key>
+	<string>Face with straight-lined eyes and mouth</string>
+	<key>UnicodeHex.d83dde15</key>
+	<string>Sort-of unhappy face</string>
+	<key>UnicodeHex.d83dde17</key>
+	<string>Kissing face with open eyes</string>
+	<key>UnicodeHex.d83dde19</key>
+	<string>Kissing face with arched eyes</string>
+	<key>UnicodeHex.d83dde1b</key>
+	<string>Face with stuck out tongue with eyes open</string>
+	<key>UnicodeHex.d83dde1f</key>
+	<string>Vaguely unhappy face</string>
+	<key>UnicodeHex.d83dde24</key>
+	<string>Huffing with anger face</string>
+	<key>UnicodeHex.d83dde26</key>
+	<string>Surprised and dismayed face</string>
+	<key>UnicodeHex.d83dde27</key>
+	<string>Surprised and dismayed face with eyebrows</string>
+	<key>UnicodeHex.d83dde29</key>
+	<string>Wailing face</string>
+	<key>UnicodeHex.d83dde2b</key>
+	<string>Wailing face with squinting eyes</string>
+	<key>UnicodeHex.d83dde2c</key>
+	<string>Grimacing face</string>
+	<key>UnicodeHex.d83dde2e</key>
+	<string>Open mouthed and surprised face</string>
+	<key>UnicodeHex.d83dde2f</key>
+	<string>Surprised face</string>
+	<key>UnicodeHex.d83dde34</key>
+	<string>Sleeping face</string>
+	<key>UnicodeHex.d83dde35</key>
+	<string>Very astonished face</string>
+	<key>UnicodeHex.d83dde36</key>
+	<string>Face with no mouth</string>
+	<key>UnicodeHex.d83dde38</key>
+	<string>Grinning cat face</string>
+	<key>UnicodeHex.d83dde39</key>
+	<string>Laughing with tears cat face</string>
+	<key>UnicodeHex.d83dde3a</key>
+	<string>Happy cat face</string>
+	<key>UnicodeHex.d83dde3b</key>
+	<string>Love-struck cat face</string>
+	<key>UnicodeHex.d83dde3c</key>
+	<string>Smirking cat face</string>
+	<key>UnicodeHex.d83dde3d</key>
+	<string>Kissing cat face</string>
+	<key>UnicodeHex.d83dde3e</key>
+	<string>Unhappy, turned side-ways cat face</string>
+	<key>UnicodeHex.d83dde3f</key>
+	<string>Crying cat face</string>
+	<key>UnicodeHex.d83dde40</key>
+	<string>Screaming in fear cat face</string>
+	<key>UnicodeHex.d83dde48</key>
+	<string>A monkey that can see no evil</string>
+	<key>UnicodeHex.d83dde49</key>
+	<string>A monkey that can hear no evil</string>
+	<key>UnicodeHex.d83dde4a</key>
+	<string>A monkey that can speak no evil</string>
+	<key>UnicodeHex.d83dde4b</key>
+	<string>Woman raising a hand</string>
+	<key>UnicodeHex.d83dde4d</key>
+	<string>Woman with downcast face</string>
+	<key>UnicodeHex.d83dde4e</key>
+	<string>Woman staring straight ahead</string>
+	<key>UnicodeHex.d83dde81</key>
+	<string>Helicopter</string>
+	<key>UnicodeHex.d83dde82</key>
+	<string>Steam locomotive</string>
+	<key>UnicodeHex.d83dde86</key>
+	<string>Front facing train</string>
+	<key>UnicodeHex.d83dde88</key>
+	<string>Light rail</string>
+	<key>UnicodeHex.d83dde8a</key>
+	<string>Train</string>
+	<key>UnicodeHex.d83dde8b</key>
+	<string>Tram car</string>
+	<key>UnicodeHex.d83dde8d</key>
+	<string>Oncoming bus</string>
+	<key>UnicodeHex.d83dde8e</key>
+	<string>Trolleybus</string>
+	<key>UnicodeHex.d83dde90</key>
+	<string>Minibus</string>
+	<key>UnicodeHex.d83dde94</key>
+	<string>Oncoming police car</string>
+	<key>UnicodeHex.d83dde96</key>
+	<string>Oncoming taxi</string>
+	<key>UnicodeHex.d83dde98</key>
+	<string>Oncoming car</string>
+	<key>UnicodeHex.d83dde9b</key>
+	<string>Articulated lorry</string>
+	<key>UnicodeHex.d83dde9c</key>
+	<string>Tractor</string>
+	<key>UnicodeHex.d83dde9d</key>
+	<string>Monorail</string>
+	<key>UnicodeHex.d83dde9e</key>
+	<string>Mountain railway</string>
+	<key>UnicodeHex.d83dde9f</key>
+	<string>Suspension railway</string>
+	<key>UnicodeHex.d83ddea0</key>
+	<string>Mountain cableway</string>
+	<key>UnicodeHex.d83ddea1</key>
+	<string>Aerial tramway</string>
+	<key>UnicodeHex.d83ddea3</key>
+	<string>Row boat</string>
+	<key>UnicodeHex.d83ddea6</key>
+	<string>Vertical traffic light</string>
+	<key>UnicodeHex.d83ddea8</key>
+	<string>Police car revolving light</string>
+	<key>UnicodeHex.d83ddea9</key>
+	<string>Triangular flag on post</string>
+	<key>UnicodeHex.d83ddeaa</key>
+	<string>Door</string>
+	<key>UnicodeHex.d83ddeab</key>
+	<string>Restricted symbol</string>
+	<key>UnicodeHex.d83ddeae</key>
+	<string>Put litter in its place symbol</string>
+	<key>UnicodeHex.d83ddeaf</key>
+	<string>Do not litter symbol</string>
+	<key>UnicodeHex.d83ddeb0</key>
+	<string>Potable water symbol</string>
+	<key>UnicodeHex.d83ddeb1</key>
+	<string>Non-potable water symbol</string>
+	<key>UnicodeHex.d83ddeb3</key>
+	<string>No bicycles symbol</string>
+	<key>UnicodeHex.d83ddeb4</key>
+	<string>Bicyclist</string>
+	<key>UnicodeHex.d83ddeb5</key>
+	<string>Mountain Bicyclist</string>
+	<key>UnicodeHex.d83ddeb7</key>
+	<string>No pedestrians symbol</string>
+	<key>UnicodeHex.d83ddeb8</key>
+	<string>Children crossing symbol</string>
+	<key>UnicodeHex.d83ddebf</key>
+	<string>Shower head with water flowing</string>
+	<key>UnicodeHex.d83ddec1</key>
+	<string>Bathtub with shower head</string>
+	<key>UnicodeHex.d83ddec2</key>
+	<string>Passport control</string>
+	<key>UnicodeHex.d83ddec3</key>
+	<string>Customs</string>
+	<key>UnicodeHex.d83ddec4</key>
+	<string>Baggage claim</string>
+	<key>UnicodeHex.d83ddec5</key>
+	<string>Left luggage</string>
+	<key>UnicodeHex.e001</key>
+	<string>boys head</string>
+	<key>UnicodeHex.e002</key>
+	<string>girls head</string>
+	<key>UnicodeHex.e003</key>
+	<string>kiss mark</string>
+	<key>UnicodeHex.e004</key>
+	<string>mans head</string>
+	<key>UnicodeHex.e005</key>
+	<string>womans head</string>
+	<key>UnicodeHex.e006</key>
+	<string>womans clothes</string>
+	<key>UnicodeHex.e007</key>
+	<string>sneaker</string>
+	<key>UnicodeHex.e008</key>
+	<string>camera</string>
+	<key>UnicodeHex.e009</key>
+	<string>telephone</string>
+	<key>UnicodeHex.e00a</key>
+	<string>mobile phone</string>
+	<key>UnicodeHex.e00b</key>
+	<string>fax</string>
+	<key>UnicodeHex.e00c</key>
+	<string>computer</string>
+	<key>UnicodeHex.e00d</key>
+	<string>fisted hand</string>
+	<key>UnicodeHex.e00e</key>
+	<string>thumbs up sign</string>
+	<key>UnicodeHex.e00f</key>
+	<string>up pointing index</string>
+	<key>UnicodeHex.e010</key>
+	<string>raised fist</string>
+	<key>UnicodeHex.e011</key>
+	<string>victory hand</string>
+	<key>UnicodeHex.e012</key>
+	<string>raised hand</string>
+	<key>UnicodeHex.e013</key>
+	<string>skiing</string>
+	<key>UnicodeHex.e014</key>
+	<string>golf hole with flag in cup</string>
+	<key>UnicodeHex.e015</key>
+	<string>tennis ball</string>
+	<key>UnicodeHex.e016</key>
+	<string>baseball</string>
+	<key>UnicodeHex.e017</key>
+	<string>surfer</string>
+	<key>UnicodeHex.e018</key>
+	<string>soccer ball</string>
+	<key>UnicodeHex.e019</key>
+	<string>fish</string>
+	<key>UnicodeHex.e01a</key>
+	<string>horse</string>
+	<key>UnicodeHex.e01b</key>
+	<string>car</string>
+	<key>UnicodeHex.e01c</key>
+	<string>sailboat</string>
+	<key>UnicodeHex.e01d</key>
+	<string>airplane</string>
+	<key>UnicodeHex.e01e</key>
+	<string>train</string>
+	<key>UnicodeHex.e01f</key>
+	<string>high-speed train with bullet nose</string>
+	<key>UnicodeHex.e020</key>
+	<string>black question mark ornament</string>
+	<key>UnicodeHex.e021</key>
+	<string>heavy exclamation mark ornament</string>
+	<key>UnicodeHex.e022</key>
+	<string>red heart</string>
+	<key>UnicodeHex.e023</key>
+	<string>broken heart</string>
+	<key>UnicodeHex.e024</key>
+	<string>clock face one o clock</string>
+	<key>UnicodeHex.e025</key>
+	<string>clock face two o clock</string>
+	<key>UnicodeHex.e026</key>
+	<string>clock face three o clock</string>
+	<key>UnicodeHex.e027</key>
+	<string>clock face four o clock</string>
+	<key>UnicodeHex.e028</key>
+	<string>clock face five o clock</string>
+	<key>UnicodeHex.e029</key>
+	<string>clock face six o clock</string>
+	<key>UnicodeHex.e02a</key>
+	<string>clock face seven o clock</string>
+	<key>UnicodeHex.e02b</key>
+	<string>clock face eight o clock</string>
+	<key>UnicodeHex.e02c</key>
+	<string>clock face nine o clock</string>
+	<key>UnicodeHex.e02d</key>
+	<string>clock face ten o clock</string>
+	<key>UnicodeHex.e02e</key>
+	<string>clock face eleven o clock</string>
+	<key>UnicodeHex.e02f</key>
+	<string>clock face twelve o clock</string>
+	<key>UnicodeHex.e030</key>
+	<string>cherry blossom</string>
+	<key>UnicodeHex.e031</key>
+	<string>trident emblem</string>
+	<key>UnicodeHex.e032</key>
+	<string>rose</string>
+	<key>UnicodeHex.e033</key>
+	<string>christmas tree</string>
+	<key>UnicodeHex.e034</key>
+	<string>ring</string>
+	<key>UnicodeHex.e035</key>
+	<string>gem stone</string>
+	<key>UnicodeHex.e036</key>
+	<string>house with yard</string>
+	<key>UnicodeHex.e037</key>
+	<string>church</string>
+	<key>UnicodeHex.e038</key>
+	<string>office building</string>
+	<key>UnicodeHex.e039</key>
+	<string>subway station</string>
+	<key>UnicodeHex.e03a</key>
+	<string>fuel pump</string>
+	<key>UnicodeHex.e03b</key>
+	<string>mount fuji</string>
+	<key>UnicodeHex.e03c</key>
+	<string>microphone</string>
+	<key>UnicodeHex.e03d</key>
+	<string>Movie Camera</string>
+	<key>UnicodeHex.e03e</key>
+	<string>musical note</string>
+	<key>UnicodeHex.e03f</key>
+	<string>key</string>
+	<key>UnicodeHex.e040</key>
+	<string>saxophone</string>
+	<key>UnicodeHex.e041</key>
+	<string>guitar</string>
+	<key>UnicodeHex.e042</key>
+	<string>trumpet</string>
+	<key>UnicodeHex.e043</key>
+	<string>fork and knife</string>
+	<key>UnicodeHex.e044</key>
+	<string>martini glass</string>
+	<key>UnicodeHex.e045</key>
+	<string>hot beverage</string>
+	<key>UnicodeHex.e046</key>
+	<string>shortcake</string>
+	<key>UnicodeHex.e047</key>
+	<string>beer mug</string>
+	<key>UnicodeHex.e048</key>
+	<string>snowman</string>
+	<key>UnicodeHex.e049</key>
+	<string>cloud</string>
+	<key>UnicodeHex.e04a</key>
+	<string>sun</string>
+	<key>UnicodeHex.e04b</key>
+	<string>umbrella with rain drops</string>
+	<key>UnicodeHex.e04c</key>
+	<string>crescent shape moon</string>
+	<key>UnicodeHex.e04d</key>
+	<string>sunrise over mountains</string>
+	<key>UnicodeHex.e04e</key>
+	<string>angel</string>
+	<key>UnicodeHex.e04f</key>
+	<string>cat</string>
+	<key>UnicodeHex.e050</key>
+	<string>tiger</string>
+	<key>UnicodeHex.e051</key>
+	<string>bear</string>
+	<key>UnicodeHex.e052</key>
+	<string>dog</string>
+	<key>UnicodeHex.e053</key>
+	<string>mouse</string>
+	<key>UnicodeHex.e054</key>
+	<string>whale</string>
+	<key>UnicodeHex.e055</key>
+	<string>penguin</string>
+	<key>UnicodeHex.e056</key>
+	<string>happy face with wide mouth and squinting eyes</string>
+	<key>UnicodeHex.e057</key>
+	<string>happy face with open mouth</string>
+	<key>UnicodeHex.e058</key>
+	<string>disappointed face</string>
+	<key>UnicodeHex.e059</key>
+	<string>angry face</string>
+	<key>UnicodeHex.e05a</key>
+	<string>Smiling pile of poo</string>
+	<key>UnicodeHex.e101</key>
+	<string>mailbox with raised flag</string>
+	<key>UnicodeHex.e102</key>
+	<string>postbox</string>
+	<key>UnicodeHex.e103</key>
+	<string>email</string>
+	<key>UnicodeHex.e104</key>
+	<string>phone call</string>
+	<key>UnicodeHex.e105</key>
+	<string>winking face with stuck out tongue</string>
+	<key>UnicodeHex.e106</key>
+	<string>face with heart shaped eyes</string>
+	<key>UnicodeHex.e107</key>
+	<string>face screaming in fear</string>
+	<key>UnicodeHex.e108</key>
+	<string>face with cold sweat</string>
+	<key>UnicodeHex.e109</key>
+	<string>monkey face</string>
+	<key>UnicodeHex.e10a</key>
+	<string>octopus</string>
+	<key>UnicodeHex.e10b</key>
+	<string>pig</string>
+	<key>UnicodeHex.e10c</key>
+	<string>extraterrestrial alien</string>
+	<key>UnicodeHex.e10d</key>
+	<string>rocket</string>
+	<key>UnicodeHex.e10e</key>
+	<string>crown</string>
+	<key>UnicodeHex.e10f</key>
+	<string>electric light bulb</string>
+	<key>UnicodeHex.e110</key>
+	<string>clover</string>
+	<key>UnicodeHex.e111</key>
+	<string>kissing couple</string>
+	<key>UnicodeHex.e112</key>
+	<string>present</string>
+	<key>UnicodeHex.e113</key>
+	<string>pistol</string>
+	<key>UnicodeHex.e114</key>
+	<string>magnifying glass</string>
+	<key>UnicodeHex.e115</key>
+	<string>runner</string>
+	<key>UnicodeHex.e116</key>
+	<string>gavel hitting sound block</string>
+	<key>UnicodeHex.e117</key>
+	<string>fireworks</string>
+	<key>UnicodeHex.e118</key>
+	<string>maple leaf</string>
+	<key>UnicodeHex.e119</key>
+	<string>fallen leaves</string>
+	<key>UnicodeHex.e11a</key>
+	<string>devil</string>
+	<key>UnicodeHex.e11b</key>
+	<string>ghost</string>
+	<key>UnicodeHex.e11c</key>
+	<string>skull</string>
+	<key>UnicodeHex.e11d</key>
+	<string>fire</string>
+	<key>UnicodeHex.e11e</key>
+	<string>briefcase</string>
+	<key>UnicodeHex.e11f</key>
+	<string>airplane seat</string>
+	<key>UnicodeHex.e120</key>
+	<string>hamburger</string>
+	<key>UnicodeHex.e121</key>
+	<string>fountain</string>
+	<key>UnicodeHex.e122</key>
+	<string>tent</string>
+	<key>UnicodeHex.e123</key>
+	<string>hot springs</string>
+	<key>UnicodeHex.e124</key>
+	<string>ferris wheel</string>
+	<key>UnicodeHex.e125</key>
+	<string>ticket</string>
+	<key>UnicodeHex.e126</key>
+	<string>cd</string>
+	<key>UnicodeHex.e127</key>
+	<string>dvd</string>
+	<key>UnicodeHex.e128</key>
+	<string>radio</string>
+	<key>UnicodeHex.e129</key>
+	<string>video tape</string>
+	<key>UnicodeHex.e12a</key>
+	<string>tv</string>
+	<key>UnicodeHex.e12b</key>
+	<string>alien monster</string>
+	<key>UnicodeHex.e12c</key>
+	<string>part alternation mark</string>
+	<key>UnicodeHex.e12d</key>
+	<string>mahjong tile red dragon</string>
+	<key>UnicodeHex.e12e</key>
+	<string>vs sign</string>
+	<key>UnicodeHex.e12f</key>
+	<string>money bag</string>
+	<key>UnicodeHex.e130</key>
+	<string>bulls eye</string>
+	<key>UnicodeHex.e131</key>
+	<string>trophy</string>
+	<key>UnicodeHex.e132</key>
+	<string>checkered flag</string>
+	<key>UnicodeHex.e133</key>
+	<string>slot machine</string>
+	<key>UnicodeHex.e134</key>
+	<string>horse racing</string>
+	<key>UnicodeHex.e135</key>
+	<string>speedboat</string>
+	<key>UnicodeHex.e136</key>
+	<string>bicycle</string>
+	<key>UnicodeHex.e137</key>
+	<string>no entry</string>
+	<key>UnicodeHex.e138</key>
+	<string>mens symbol</string>
+	<key>UnicodeHex.e139</key>
+	<string>womens symbol</string>
+	<key>UnicodeHex.e13a</key>
+	<string>baby symbol</string>
+	<key>UnicodeHex.e13b</key>
+	<string>syringe</string>
+	<key>UnicodeHex.e13c</key>
+	<string>sleeping sign</string>
+	<key>UnicodeHex.e13d</key>
+	<string>high voltage sign</string>
+	<key>UnicodeHex.e13e</key>
+	<string>high-heeled shoe</string>
+	<key>UnicodeHex.e13f</key>
+	<string>bath</string>
+	<key>UnicodeHex.e140</key>
+	<string>toilet</string>
+	<key>UnicodeHex.e141</key>
+	<string>speaker outputting high volume</string>
+	<key>UnicodeHex.e142</key>
+	<string>public address loudspeaker</string>
+	<key>UnicodeHex.e143</key>
+	<string>crossed flags</string>
+	<key>UnicodeHex.e144</key>
+	<string>closed lock</string>
+	<key>UnicodeHex.e145</key>
+	<string>open lock</string>
+	<key>UnicodeHex.e146</key>
+	<string>cityscape at dusk</string>
+	<key>UnicodeHex.e147</key>
+	<string>fried egg</string>
+	<key>UnicodeHex.e148</key>
+	<string>book</string>
+	<key>UnicodeHex.e149</key>
+	<string>currency exchange</string>
+	<key>UnicodeHex.e14a</key>
+	<string>chart with upwards trend</string>
+	<key>UnicodeHex.e14b</key>
+	<string>satellite antenna</string>
+	<key>UnicodeHex.e14c</key>
+	<string>flexed bicep</string>
+	<key>UnicodeHex.e14d</key>
+	<string>bank</string>
+	<key>UnicodeHex.e14e</key>
+	<string>traffic light</string>
+	<key>UnicodeHex.e14f</key>
+	<string>parking sign</string>
+	<key>UnicodeHex.e150</key>
+	<string>bus stop</string>
+	<key>UnicodeHex.e151</key>
+	<string>restroom</string>
+	<key>UnicodeHex.e152</key>
+	<string>police officer</string>
+	<key>UnicodeHex.e153</key>
+	<string>post office</string>
+	<key>UnicodeHex.e154</key>
+	<string>atm</string>
+	<key>UnicodeHex.e155</key>
+	<string>hospital</string>
+	<key>UnicodeHex.e156</key>
+	<string>convenience store</string>
+	<key>UnicodeHex.e157</key>
+	<string>school</string>
+	<key>UnicodeHex.e158</key>
+	<string>hotel</string>
+	<key>UnicodeHex.e159</key>
+	<string>bus</string>
+	<key>UnicodeHex.e15a</key>
+	<string>taxi</string>
+	<key>UnicodeHex.e201</key>
+	<string>walker</string>
+	<key>UnicodeHex.e202</key>
+	<string>ship</string>
+	<key>UnicodeHex.e203</key>
+	<string>squared katakana koko</string>
+	<key>UnicodeHex.e204</key>
+	<string>heart decoration</string>
+	<key>UnicodeHex.e205</key>
+	<string>four pointed X pattern</string>
+	<key>UnicodeHex.e206</key>
+	<string>eight spoked asterisk</string>
+	<key>UnicodeHex.e207</key>
+	<string>no one under eighteen sign</string>
+	<key>UnicodeHex.e208</key>
+	<string>no smoking sign</string>
+	<key>UnicodeHex.e209</key>
+	<string>japanese symbol for beginner</string>
+	<key>UnicodeHex.e20a</key>
+	<string>handicap symbol</string>
+	<key>UnicodeHex.e20b</key>
+	<string>antenna mark</string>
+	<key>UnicodeHex.e20c</key>
+	<string>red heart suit</string>
+	<key>UnicodeHex.e20d</key>
+	<string>red diamond suit</string>
+	<key>UnicodeHex.e20e</key>
+	<string>black spade suit</string>
+	<key>UnicodeHex.e20f</key>
+	<string>black club suit</string>
+	<key>UnicodeHex.e210</key>
+	<string>hash key</string>
+	<key>UnicodeHex.e211</key>
+	<string>toll-free</string>
+	<key>UnicodeHex.e212</key>
+	<string>new sign</string>
+	<key>UnicodeHex.e213</key>
+	<string>up sign</string>
+	<key>UnicodeHex.e214</key>
+	<string>cool sign</string>
+	<key>UnicodeHex.e215</key>
+	<string>asian ideograph meaning charged</string>
+	<key>UnicodeHex.e216</key>
+	<string>asian ideograph meaning free</string>
+	<key>UnicodeHex.e217</key>
+	<string>asian ideograph meaning monthly fee</string>
+	<key>UnicodeHex.e218</key>
+	<string>asian ideograph meaning application</string>
+	<key>UnicodeHex.e219</key>
+	<string>red circle</string>
+	<key>UnicodeHex.e21a</key>
+	<string>black square</string>
+	<key>UnicodeHex.e21b</key>
+	<string>white square</string>
+	<key>UnicodeHex.e21c</key>
+	<string>keycap 1</string>
+	<key>UnicodeHex.e21d</key>
+	<string>keycap 2</string>
+	<key>UnicodeHex.e21e</key>
+	<string>keycap 3</string>
+	<key>UnicodeHex.e21f</key>
+	<string>keycap 4</string>
+	<key>UnicodeHex.e220</key>
+	<string>keycap 5</string>
+	<key>UnicodeHex.e221</key>
+	<string>keycap 6</string>
+	<key>UnicodeHex.e222</key>
+	<string>keycap 7</string>
+	<key>UnicodeHex.e223</key>
+	<string>keycap 8</string>
+	<key>UnicodeHex.e224</key>
+	<string>keycap 9</string>
+	<key>UnicodeHex.e225</key>
+	<string>keycap 0</string>
+	<key>UnicodeHex.e226</key>
+	<string>asian ideograph meaning special price</string>
+	<key>UnicodeHex.e227</key>
+	<string>asian ideograph meaning discount</string>
+	<key>UnicodeHex.e228</key>
+	<string>asian ideograph meaning service fee</string>
+	<key>UnicodeHex.e229</key>
+	<string>identification sign</string>
+	<key>UnicodeHex.e22a</key>
+	<string>asian ideograph meaning occupancy</string>
+	<key>UnicodeHex.e22b</key>
+	<string>asian ideograph meaning vacancy</string>
+	<key>UnicodeHex.e22c</key>
+	<string>asian ideograph meaning reserved</string>
+	<key>UnicodeHex.e22d</key>
+	<string>asian ideograph meaning opening hour</string>
+	<key>UnicodeHex.e22e</key>
+	<string>up pointing backhand index</string>
+	<key>UnicodeHex.e22f</key>
+	<string>down pointing backhand index</string>
+	<key>UnicodeHex.e230</key>
+	<string>left pointing backhand index</string>
+	<key>UnicodeHex.e231</key>
+	<string>right pointing backhand index</string>
+	<key>UnicodeHex.e232</key>
+	<string>upwards pointing arrow</string>
+	<key>UnicodeHex.e233</key>
+	<string>downwards pointing arrow</string>
+	<key>UnicodeHex.e234</key>
+	<string>rightwards pointing arrow</string>
+	<key>UnicodeHex.e235</key>
+	<string>leftwards pointing arrow</string>
+	<key>UnicodeHex.e236</key>
+	<string>north east arrow</string>
+	<key>UnicodeHex.e237</key>
+	<string>north west arrow</string>
+	<key>UnicodeHex.e238</key>
+	<string>south east arrow</string>
+	<key>UnicodeHex.e239</key>
+	<string>south west arrow</string>
+	<key>UnicodeHex.e23a</key>
+	<string>right-pointing triangle</string>
+	<key>UnicodeHex.e23b</key>
+	<string>left-pointing triangle</string>
+	<key>UnicodeHex.e23c</key>
+	<string>right-pointing double triangle</string>
+	<key>UnicodeHex.e23d</key>
+	<string>left-pointing double triangle</string>
+	<key>UnicodeHex.e23e</key>
+	<string>six pointed star with middle dot</string>
+	<key>UnicodeHex.e23f</key>
+	<string>aries</string>
+	<key>UnicodeHex.e240</key>
+	<string>taurus</string>
+	<key>UnicodeHex.e241</key>
+	<string>gemini</string>
+	<key>UnicodeHex.e242</key>
+	<string>cancer</string>
+	<key>UnicodeHex.e243</key>
+	<string>leo</string>
+	<key>UnicodeHex.e244</key>
+	<string>virgo</string>
+	<key>UnicodeHex.e245</key>
+	<string>libra</string>
+	<key>UnicodeHex.e246</key>
+	<string>scorpius</string>
+	<key>UnicodeHex.e247</key>
+	<string>sagittarius</string>
+	<key>UnicodeHex.e248</key>
+	<string>capricorn</string>
+	<key>UnicodeHex.e249</key>
+	<string>aquarius</string>
+	<key>UnicodeHex.e24a</key>
+	<string>pisces</string>
+	<key>UnicodeHex.e24b</key>
+	<string>ophiuchus</string>
+	<key>UnicodeHex.e24c</key>
+	<string>top sign</string>
+	<key>UnicodeHex.e24d</key>
+	<string>ok sign</string>
+	<key>UnicodeHex.e24e</key>
+	<string>copyright sign</string>
+	<key>UnicodeHex.e24f</key>
+	<string>registered sign</string>
+	<key>UnicodeHex.e250</key>
+	<string>vibration mode</string>
+	<key>UnicodeHex.e251</key>
+	<string>phone off</string>
+	<key>UnicodeHex.e252</key>
+	<string>warning sign</string>
+	<key>UnicodeHex.e253</key>
+	<string>customer service person</string>
+	<key>UnicodeHex.e301</key>
+	<string>memo</string>
+	<key>UnicodeHex.e302</key>
+	<string>necktie</string>
+	<key>UnicodeHex.e303</key>
+	<string>hibiscus</string>
+	<key>UnicodeHex.e304</key>
+	<string>tulip</string>
+	<key>UnicodeHex.e305</key>
+	<string>sunflower</string>
+	<key>UnicodeHex.e306</key>
+	<string>flower bouquet</string>
+	<key>UnicodeHex.e307</key>
+	<string>palm tree</string>
+	<key>UnicodeHex.e308</key>
+	<string>cactus</string>
+	<key>UnicodeHex.e309</key>
+	<string>water closet</string>
+	<key>UnicodeHex.e30a</key>
+	<string>headphone</string>
+	<key>UnicodeHex.e30b</key>
+	<string>sake bottle and cup</string>
+	<key>UnicodeHex.e30c</key>
+	<string>clinking beer mugs</string>
+	<key>UnicodeHex.e30d</key>
+	<string>circled ideograph congratulation</string>
+	<key>UnicodeHex.e30e</key>
+	<string>smoking sign</string>
+	<key>UnicodeHex.e30f</key>
+	<string>pill</string>
+	<key>UnicodeHex.e310</key>
+	<string>balloon</string>
+	<key>UnicodeHex.e311</key>
+	<string>bomb</string>
+	<key>UnicodeHex.e312</key>
+	<string>party popper</string>
+	<key>UnicodeHex.e313</key>
+	<string>scissors</string>
+	<key>UnicodeHex.e314</key>
+	<string>ribbon</string>
+	<key>UnicodeHex.e315</key>
+	<string>circled ideograph secret</string>
+	<key>UnicodeHex.e316</key>
+	<string>CD in a case</string>
+	<key>UnicodeHex.e317</key>
+	<string>cheering megaphone</string>
+	<key>UnicodeHex.e318</key>
+	<string>womans hat</string>
+	<key>UnicodeHex.e319</key>
+	<string>dress</string>
+	<key>UnicodeHex.e31a</key>
+	<string>womans sandal</string>
+	<key>UnicodeHex.e31b</key>
+	<string>womans boots</string>
+	<key>UnicodeHex.e31c</key>
+	<string>lipstick</string>
+	<key>UnicodeHex.e31d</key>
+	<string>manicure</string>
+	<key>UnicodeHex.e31e</key>
+	<string>head massage</string>
+	<key>UnicodeHex.e31f</key>
+	<string>haircut</string>
+	<key>UnicodeHex.e320</key>
+	<string>barber pole</string>
+	<key>UnicodeHex.e321</key>
+	<string>kimono</string>
+	<key>UnicodeHex.e322</key>
+	<string>bikini</string>
+	<key>UnicodeHex.e323</key>
+	<string>handbag</string>
+	<key>UnicodeHex.e324</key>
+	<string>movie clapboard</string>
+	<key>UnicodeHex.e325</key>
+	<string>bell</string>
+	<key>UnicodeHex.e326</key>
+	<string>musical score</string>
+	<key>UnicodeHex.e327</key>
+	<string>beating heart</string>
+	<key>UnicodeHex.e328</key>
+	<string>pulsating heart</string>
+	<key>UnicodeHex.e329</key>
+	<string>heart with arrow</string>
+	<key>UnicodeHex.e32a</key>
+	<string>Blue heart</string>
+	<key>UnicodeHex.e32b</key>
+	<string>Green heart</string>
+	<key>UnicodeHex.e32c</key>
+	<string>Yellow heart</string>
+	<key>UnicodeHex.e32d</key>
+	<string>Purple heart</string>
+	<key>UnicodeHex.e32e</key>
+	<string>sparkle</string>
+	<key>UnicodeHex.e32f</key>
+	<string>white medium star</string>
+	<key>UnicodeHex.e330</key>
+	<string>gust of wind</string>
+	<key>UnicodeHex.e331</key>
+	<string>drip</string>
+	<key>UnicodeHex.e332</key>
+	<string>circle mark</string>
+	<key>UnicodeHex.e333</key>
+	<string>cross mark</string>
+	<key>UnicodeHex.e334</key>
+	<string>anger sign</string>
+	<key>UnicodeHex.e335</key>
+	<string>glowing star</string>
+	<key>UnicodeHex.e336</key>
+	<string>question mark ornament</string>
+	<key>UnicodeHex.e337</key>
+	<string>exclamation mark ornament</string>
+	<key>UnicodeHex.e338</key>
+	<string>teacup without handle</string>
+	<key>UnicodeHex.e339</key>
+	<string>bread</string>
+	<key>UnicodeHex.e33a</key>
+	<string>soft ice cream</string>
+	<key>UnicodeHex.e33b</key>
+	<string>french fries</string>
+	<key>UnicodeHex.e33c</key>
+	<string>mochi balls on skewer</string>
+	<key>UnicodeHex.e33d</key>
+	<string>rice cracker</string>
+	<key>UnicodeHex.e33e</key>
+	<string>cooked rice</string>
+	<key>UnicodeHex.e33f</key>
+	<string>spaghetti</string>
+	<key>UnicodeHex.e340</key>
+	<string>bowl of noodles</string>
+	<key>UnicodeHex.e341</key>
+	<string>curry and rice</string>
+	<key>UnicodeHex.e342</key>
+	<string>rice ball</string>
+	<key>UnicodeHex.e343</key>
+	<string>Oden on skewer</string>
+	<key>UnicodeHex.e344</key>
+	<string>sushi</string>
+	<key>UnicodeHex.e345</key>
+	<string>apple</string>
+	<key>UnicodeHex.e346</key>
+	<string>tangerine</string>
+	<key>UnicodeHex.e347</key>
+	<string>strawberry</string>
+	<key>UnicodeHex.e348</key>
+	<string>watermelon</string>
+	<key>UnicodeHex.e349</key>
+	<string>tomato</string>
+	<key>UnicodeHex.e34a</key>
+	<string>eggplant</string>
+	<key>UnicodeHex.e34b</key>
+	<string>birthday cake</string>
+	<key>UnicodeHex.e34c</key>
+	<string>lunchbox</string>
+	<key>UnicodeHex.e34d</key>
+	<string>pot of food</string>
+	<key>UnicodeHex.e401</key>
+	<string>disappointed but relieved face</string>
+	<key>UnicodeHex.e402</key>
+	<string>smirking face</string>
+	<key>UnicodeHex.e403</key>
+	<string>person frowning</string>
+	<key>UnicodeHex.e404</key>
+	<string>face with clenching teeth</string>
+	<key>UnicodeHex.e405</key>
+	<string>winking face</string>
+	<key>UnicodeHex.e406</key>
+	<string>tired face</string>
+	<key>UnicodeHex.e407</key>
+	<string>confounded face</string>
+	<key>UnicodeHex.e408</key>
+	<string>sleepy face</string>
+	<key>UnicodeHex.e409</key>
+	<string>face with stuck out tongue and eyes closed</string>
+	<key>UnicodeHex.e40a</key>
+	<string>relieved face</string>
+	<key>UnicodeHex.e40b</key>
+	<string>fearful face</string>
+	<key>UnicodeHex.e40c</key>
+	<string>face with mask</string>
+	<key>UnicodeHex.e40d</key>
+	<string>flushed face</string>
+	<key>UnicodeHex.e40e</key>
+	<string>expressionless face</string>
+	<key>UnicodeHex.e40f</key>
+	<string>exasperated face</string>
+	<key>UnicodeHex.e410</key>
+	<string>astonished face</string>
+	<key>UnicodeHex.e411</key>
+	<string>loudly crying face</string>
+	<key>UnicodeHex.e412</key>
+	<string>happy and crying face</string>
+	<key>UnicodeHex.e413</key>
+	<string>crying face</string>
+	<key>UnicodeHex.e414</key>
+	<string>happy face</string>
+	<key>UnicodeHex.e415</key>
+	<string>happy face with open mouth and squinting eyes</string>
+	<key>UnicodeHex.e416</key>
+	<string>pouting face</string>
+	<key>UnicodeHex.e417</key>
+	<string>kissing face with closed eyes</string>
+	<key>UnicodeHex.e418</key>
+	<string>face throwing a kiss</string>
+	<key>UnicodeHex.e419</key>
+	<string>eyes</string>
+	<key>UnicodeHex.e41a</key>
+	<string>nose</string>
+	<key>UnicodeHex.e41b</key>
+	<string>ear</string>
+	<key>UnicodeHex.e41c</key>
+	<string>lips</string>
+	<key>UnicodeHex.e41d</key>
+	<string>hands folded in prayer</string>
+	<key>UnicodeHex.e41e</key>
+	<string>waving hand</string>
+	<key>UnicodeHex.e41f</key>
+	<string>clapping hands</string>
+	<key>UnicodeHex.e420</key>
+	<string>ok hand sign</string>
+	<key>UnicodeHex.e421</key>
+	<string>thumbs down sign</string>
+	<key>UnicodeHex.e422</key>
+	<string>open hands</string>
+	<key>UnicodeHex.e423</key>
+	<string>person making no good gesture</string>
+	<key>UnicodeHex.e424</key>
+	<string>person making ok gesture</string>
+	<key>UnicodeHex.e425</key>
+	<string>couple with heart</string>
+	<key>UnicodeHex.e426</key>
+	<string>person bowing deeply</string>
+	<key>UnicodeHex.e427</key>
+	<string>person raising both hands in cheers</string>
+	<key>UnicodeHex.e428</key>
+	<string>man and woman holding hands</string>
+	<key>UnicodeHex.e429</key>
+	<string>dancing showgirls</string>
+	<key>UnicodeHex.e42a</key>
+	<string>basketball</string>
+	<key>UnicodeHex.e42b</key>
+	<string>american football</string>
+	<key>UnicodeHex.e42c</key>
+	<string>billiards</string>
+	<key>UnicodeHex.e42d</key>
+	<string>swimmer</string>
+	<key>UnicodeHex.e42e</key>
+	<string>sport utility vehicle</string>
+	<key>UnicodeHex.e42f</key>
+	<string>truck</string>
+	<key>UnicodeHex.e430</key>
+	<string>fire engine</string>
+	<key>UnicodeHex.e431</key>
+	<string>ambulance</string>
+	<key>UnicodeHex.e432</key>
+	<string>police car</string>
+	<key>UnicodeHex.e433</key>
+	<string>roller coaster</string>
+	<key>UnicodeHex.e434</key>
+	<string>subway sign</string>
+	<key>UnicodeHex.e435</key>
+	<string>high-speed train</string>
+	<key>UnicodeHex.e436</key>
+	<string>bamboo decoration</string>
+	<key>UnicodeHex.e437</key>
+	<string>heart with ribbon</string>
+	<key>UnicodeHex.e438</key>
+	<string>girls doll festival</string>
+	<key>UnicodeHex.e439</key>
+	<string>graduation cap</string>
+	<key>UnicodeHex.e43a</key>
+	<string>school satchel</string>
+	<key>UnicodeHex.e43b</key>
+	<string>carp streamer</string>
+	<key>UnicodeHex.e43c</key>
+	<string>closed umbrella</string>
+	<key>UnicodeHex.e43d</key>
+	<string>church with heart above it</string>
+	<key>UnicodeHex.e43e</key>
+	<string>tidal wave</string>
+	<key>UnicodeHex.e43f</key>
+	<string>shaved ice</string>
+	<key>UnicodeHex.e440</key>
+	<string>firework sparkler</string>
+	<key>UnicodeHex.e441</key>
+	<string>sea shell</string>
+	<key>UnicodeHex.e442</key>
+	<string>wind chime</string>
+	<key>UnicodeHex.e443</key>
+	<string>typhoon</string>
+	<key>UnicodeHex.e444</key>
+	<string>ear of rice</string>
+	<key>UnicodeHex.e445</key>
+	<string>jack o lantern</string>
+	<key>UnicodeHex.e446</key>
+	<string>moon viewing ceremony</string>
+	<key>UnicodeHex.e447</key>
+	<string>leaves fluttering in wind</string>
+	<key>UnicodeHex.e448</key>
+	<string>santa claus</string>
+	<key>UnicodeHex.e449</key>
+	<string>sunrise</string>
+	<key>UnicodeHex.e44a</key>
+	<string>sunset over buildings</string>
+	<key>UnicodeHex.e44b</key>
+	<string>cityscape at night</string>
+	<key>UnicodeHex.e44c</key>
+	<string>rainbow</string>
+	<key>UnicodeHex.e501</key>
+	<string>love hotel</string>
+	<key>UnicodeHex.e502</key>
+	<string>painter's pallet</string>
+	<key>UnicodeHex.e503</key>
+	<string>top hat</string>
+	<key>UnicodeHex.e504</key>
+	<string>department store</string>
+	<key>UnicodeHex.e505</key>
+	<string>japanese castle</string>
+	<key>UnicodeHex.e506</key>
+	<string>western castle</string>
+	<key>UnicodeHex.e507</key>
+	<string>movie theater</string>
+	<key>UnicodeHex.e508</key>
+	<string>factory</string>
+	<key>UnicodeHex.e509</key>
+	<string>tower</string>
+	<key>UnicodeHex.e50a</key>
+	<string>Shibuya</string>
+	<key>UnicodeHex.e515</key>
+	<string>western person</string>
+	<key>UnicodeHex.e516</key>
+	<string>Chinese man with gua pi mao</string>
+	<key>UnicodeHex.e517</key>
+	<string>Asian Indian man with turban</string>
+	<key>UnicodeHex.e518</key>
+	<string>older man</string>
+	<key>UnicodeHex.e519</key>
+	<string>older woman</string>
+	<key>UnicodeHex.e51a</key>
+	<string>baby</string>
+	<key>UnicodeHex.e51b</key>
+	<string>construction worker</string>
+	<key>UnicodeHex.e51c</key>
+	<string>princess</string>
+	<key>UnicodeHex.e51d</key>
+	<string>statue of liberty</string>
+	<key>UnicodeHex.e51e</key>
+	<string>guardsman</string>
+	<key>UnicodeHex.e51f</key>
+	<string>dancer</string>
+	<key>UnicodeHex.e520</key>
+	<string>dolphin</string>
+	<key>UnicodeHex.e521</key>
+	<string>bird</string>
+	<key>UnicodeHex.e522</key>
+	<string>tropical fish</string>
+	<key>UnicodeHex.e523</key>
+	<string>chick</string>
+	<key>UnicodeHex.e524</key>
+	<string>hamster</string>
+	<key>UnicodeHex.e525</key>
+	<string>caterpillar</string>
+	<key>UnicodeHex.e526</key>
+	<string>elephant</string>
+	<key>UnicodeHex.e527</key>
+	<string>koala</string>
+	<key>UnicodeHex.e528</key>
+	<string>monkey</string>
+	<key>UnicodeHex.e529</key>
+	<string>sheep</string>
+	<key>UnicodeHex.e52a</key>
+	<string>wolf</string>
+	<key>UnicodeHex.e52b</key>
+	<string>cow</string>
+	<key>UnicodeHex.e52c</key>
+	<string>rabbit</string>
+	<key>UnicodeHex.e52d</key>
+	<string>snake</string>
+	<key>UnicodeHex.e52e</key>
+	<string>chicken</string>
+	<key>UnicodeHex.e52f</key>
+	<string>boar</string>
+	<key>UnicodeHex.e530</key>
+	<string>camel</string>
+	<key>UnicodeHex.e531</key>
+	<string>frog</string>
+	<key>UnicodeHex.e532</key>
+	<string>blood type A</string>
+	<key>UnicodeHex.e533</key>
+	<string>blood type B</string>
+	<key>UnicodeHex.e534</key>
+	<string>blood type A B</string>
+	<key>UnicodeHex.e535</key>
+	<string>blood type O</string>
+	<key>UnicodeHex.e536</key>
+	<string>footprints</string>
+	<key>UnicodeHex.e537</key>
+	<string>trade mark sign</string>
+</dict>
+</plist>

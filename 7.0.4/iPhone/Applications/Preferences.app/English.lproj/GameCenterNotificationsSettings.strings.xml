@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SENDER_ALERT_CONTACTS_ONLY</key>
+	<string>Show Alerts from My Contacts</string>
+	<key>SENDER_ALERT_EVERYONE</key>
+	<string>Show Alerts from Everyone</string>
+</dict>
+</plist>

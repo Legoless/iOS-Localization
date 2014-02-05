@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Account</key>
+	<string>Account</string>
+	<key>Answer</key>
+	<string>Answer</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Disconnect</key>
+	<string>Disconnect</string>
+	<key>Enter Username and Password.</key>
+	<string>Enter your user authentication</string>
+	<key>Enter your user authentication</key>
+	<string>Enter your user authentication</string>
+	<key>IPSec Error 1</key>
+	<string>An unexpected error occurred.</string>
+	<key>IPSec Error 10</key>
+	<string>Negotiation with the VPN server failed.</string>
+	<key>IPSec Error 11</key>
+	<string>The VPN Shared Secret is incorrect.</string>
+	<key>IPSec Error 12</key>
+	<string>Could not validate the server certificate.</string>
+	<key>IPSec Error 13</key>
+	<string>Certificate authentication failed.</string>
+	<key>IPSec Error 13, Re-enroll</key>
+	<string>Certificate authentication failed. Contact your network administrator or try re-enrolling in Settings.</string>
+	<key>IPSec Error 14</key>
+	<string>User authentication failed.</string>
+	<key>IPSec Error 15</key>
+	<string></string>
+	<key>IPSec Error 16</key>
+	<string></string>
+	<key>IPSec Error 17</key>
+	<string></string>
+	<key>IPSec Error 18</key>
+	<string>No network connection available.</string>
+	<key>IPSec Error 19</key>
+	<string></string>
+	<key>IPSec Error 2</key>
+	<string>No VPN server address was provided.</string>
+	<key>IPSec Error 20</key>
+	<string>Your certificate is premature.</string>
+	<key>IPSec Error 20, Re-enroll</key>
+	<string>Your certificate is premature. Contact your network administrator or try re-enrolling in Settings.</string>
+	<key>IPSec Error 21</key>
+	<string>Your certificate has expired.</string>
+	<key>IPSec Error 21, Re-enroll</key>
+	<string>Your certificate has expired. Contact your network administrator or try re-enrolling in Settings.</string>
+	<key>IPSec Error 22</key>
+	<string>The server certificate is premature. Contact your network administrator.</string>
+	<key>IPSec Error 23</key>
+	<string>The server certificate has expired. Contact your network administrator.</string>
+	<key>IPSec Error 24</key>
+	<string>The server certificate's identity is incorrect. Contact your network administrator.</string>
+	<key>IPSec Error 3</key>
+	<string>No VPN shared secret was provided.</string>
+	<key>IPSec Error 4</key>
+	<string>No VPN Certificate was provided.</string>
+	<key>IPSec Error 5</key>
+	<string>The VPN server could not be found.</string>
+	<key>IPSec Error 6</key>
+	<string>No network connection available.</string>
+	<key>IPSec Error 7</key>
+	<string>A configuration error occurred.</string>
+	<key>IPSec Error 8</key>
+	<string>An unrecoverable error occurred.</string>
+	<key>IPSec Error 9</key>
+	<string>The VPN server did not respond.</string>
+	<key>Ignore</key>
+	<string>Ignore</string>
+	<key>L2TP Error 1</key>
+	<string>The L2TP-VPN server was unreachable. Verify the server address and try reconnecting. If the problem continues, contact your Administrator.</string>
+	<key>L2TP Error 2</key>
+	<string>The L2TP-VPN server did not respond. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>L2TP Error 5</key>
+	<string>Your attempt to connect to the L2TP-VPN server failed. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>L2TP Error 6</key>
+	<string></string>
+	<key>L2TP Error 7</key>
+	<string>The IPSec Shared Secret is missing. Verify your settings and try reconnecting.</string>
+	<key>L2TP Error 8</key>
+	<string>The IPSec Certificate is missing. Verify your settings and try reconnecting.</string>
+	<key>L2TP Error 9</key>
+	<string>No network connection available.</string>
+	<key>Network Connection</key>
+	<string>Network Connection</string>
+	<key>Next PIN</key>
+	<string>Next PIN</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PPP Error 0</key>
+	<string>You were disconnected by the PPP server. Try reconnecting.</string>
+	<key>PPP Error 1</key>
+	<string>Your connection failed because of an unrecoverable error. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>PPP Error 10</key>
+	<string>A connection could not be established to the PPP server. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>PPP Error 11</key>
+	<string>The PPP server could not be authenticated</string>
+	<key>PPP Error 12</key>
+	<string>You were disconnected because there was no network activity.</string>
+	<key>PPP Error 127</key>
+	<string>You were disconnected. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>PPP Error 13</key>
+	<string>You were disconnected because you reached the time limit.</string>
+	<key>PPP Error 14</key>
+	<string>Callback failed</string>
+	<key>PPP Error 15</key>
+	<string>You were disconnected because the PPP server is not responding. Try reconnecting.</string>
+	<key>PPP Error 16</key>
+	<string>You were disconnected by the communication device. Try reconnecting. If the problem continues, verify your settings.</string>
+	<key>PPP Error 17</key>
+	<string>A crossed connection was detected. Verify your settings and try reconnecting.</string>
+	<key>PPP Error 18</key>
+	<string>Failed to initialize PPP</string>
+	<key>PPP Error 19</key>
+	<string>Authentication failed.</string>
+	<key>PPP Error 2</key>
+	<string>Your connection failed because of an incorrect PPP setting. Verify your settings and try reconnecting.</string>
+	<key>PPP Error 20</key>
+	<string>The terminal script failed. Verify your settings and try reconnecting.</string>
+	<key>PPP Error 21</key>
+	<string>The communication device selected for your connection does not exist. Verify your settings and try reconnecting.</string>
+	<key>PPP Error 22</key>
+	<string>You were disconnected because you transfered the maximum amount of data.</string>
+	<key>PPP Error 23</key>
+	<string>The user is not authorized to access.</string>
+	<key>PPP Error 24</key>
+	<string>The remote number is not permitted to connect. Verify your settings and try again.</string>
+	<key>PPP Error 25</key>
+	<string>The server is unreachable. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>PPP Error 3</key>
+	<string>PPP doesn't have sufficient privileges to work correctly.</string>
+	<key>PPP Error 4</key>
+	<string>Could not find the PPP kernel extension.</string>
+	<key>PPP Error 6</key>
+	<string>Lock failed</string>
+	<key>PPP Error 7</key>
+	<string>Your connection failed because the communication device is unavailable. Make sure it's connected to your computer and try reconnecting.</string>
+	<key>PPP Error 8</key>
+	<string>Your connection failed. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>PPP Error 9</key>
+	<string>The terminal connection failed. Verify your settings and try reconnecting.</string>
+	<key>PPTP Error 1</key>
+	<string>The PPTP-VPN server was unreachable. Verify the server address and try reconnecting. If the problem continues, contact your Administrator.</string>
+	<key>PPTP Error 2</key>
+	<string>The PPTP-VPN server did not respond. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>PPTP Error 5</key>
+	<string>Your attempt to connect to the PPTP-VPN server failed. Try reconnecting. If the problem continues, verify your settings and contact your Administrator.</string>
+	<key>PPTP Error 6</key>
+	<string></string>
+	<key>PPTP Error 7</key>
+	<string>No network connection available.</string>
+	<key>Passcode</key>
+	<string>Passcode</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>Please install an application for %@ to enable the VPN connection.</key>
+	<string>Please install an application for %@ to enable the VPN connection.</string>
+	<key>Settings</key>
+	<string>Settings</string>
+	<key>VPN Connection</key>
+	<string>VPN Connection</string>
+	<key>VPN Error 1</key>
+	<string>An unexpected error occurred.</string>
+	<key>VPN Error 10</key>
+	<string></string>
+	<key>VPN Error 11</key>
+	<string></string>
+	<key>VPN Error 12</key>
+	<string></string>
+	<key>VPN Error 13</key>
+	<string></string>
+	<key>VPN Error 14</key>
+	<string>User authentication failed.</string>
+	<key>VPN Error 15</key>
+	<string>No network connection available.</string>
+	<key>VPN Error 16</key>
+	<string></string>
+	<key>VPN Error 17</key>
+	<string>Invalid server address.</string>
+	<key>VPN Error 18</key>
+	<string>The VPN connection requires an application to start up.</string>
+	<key>VPN Error 2</key>
+	<string>No VPN server address was provided.</string>
+	<key>VPN Error 20</key>
+	<string>Your certificate is premature.</string>
+	<key>VPN Error 20, Re-enroll</key>
+	<string>Your certificate is premature. Contact your network administrator or try re-enrolling in Settings.</string>
+	<key>VPN Error 21</key>
+	<string>Your certificate has expired.</string>
+	<key>VPN Error 21, Re-enroll</key>
+	<string>Your certificate has expired. Contact your network administrator or try re-enrolling in Settings.</string>
+	<key>VPN Error 22</key>
+	<string>The server certificate is premature. Contact your network administrator.</string>
+	<key>VPN Error 23</key>
+	<string>The server certificate has expired. Contact your network administrator.</string>
+	<key>VPN Error 24</key>
+	<string>The server certificate's identity is incorrect. Contact your network administrator.</string>
+	<key>VPN Error 25</key>
+	<string></string>
+	<key>VPN Error 26</key>
+	<string>Please launch %@ to enable the VPN connection.</string>
+	<key>VPN Error 3</key>
+	<string>No VPN Certificate was provided.</string>
+	<key>VPN Error 4</key>
+	<string>The VPN server could not be found.</string>
+	<key>VPN Error 5</key>
+	<string>No network connection available.</string>
+	<key>VPN Error 6</key>
+	<string>A configuration error occurred.</string>
+	<key>VPN Error 7</key>
+	<string>An unrecoverable error occurred.</string>
+	<key>VPN Error 8</key>
+	<string>The VPN server did not respond.</string>
+	<key>VPN Error 9</key>
+	<string></string>
+	<key>Waiting for disconnection</key>
+	<string>Waiting for PPP termination…</string>
+</dict>
+</plist>

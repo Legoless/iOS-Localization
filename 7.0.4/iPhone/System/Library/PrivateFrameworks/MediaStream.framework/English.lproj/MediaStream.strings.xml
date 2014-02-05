@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTH_IGNORE_BUTTON</key>
+	<string>Ignore</string>
+	<key>AUTH_MESSAGE_P_ACCOUNTNAME</key>
+	<string>Photos for the iCloud account “%@” cannot be accessed. Review your account information in Settings.</string>
+	<key>AUTH_SETTINGS_BUTTON</key>
+	<string>Settings</string>
+	<key>AUTH_TITLE</key>
+	<string>Photo Stream</string>
+	<key>ERROR_ASSET_HASH_FAILURE</key>
+	<string>The fingerprint for a photo could not be computed.</string>
+	<key>ERROR_ASSET_ITEMID_FAILURE</key>
+	<string>The identifier for a photo could not be determined.</string>
+	<key>ERROR_CONNECTION_FAILED</key>
+	<string>The operation could not be performed.</string>
+	<key>ERROR_MACH_FAILURE</key>
+	<string>An internal communications error has occurred.</string>
+	<key>QUOTA_BODY_ONE</key>
+	<string>Your photos will begin uploading again in one day.</string>
+	<key>QUOTA_BODY_PLURAL</key>
+	<string>Your photos will begin uploading again in %@ days.</string>
+	<key>QUOTA_OK_BUTTON</key>
+	<string>OK</string>
+	<key>QUOTA_TITLE</key>
+	<string>Photo Stream Limit Reached</string>
+</dict>
+</plist>

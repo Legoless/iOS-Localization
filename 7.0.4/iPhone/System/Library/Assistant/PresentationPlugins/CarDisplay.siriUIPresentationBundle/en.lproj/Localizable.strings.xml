@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASSISTANT_NOT_AVAILABLE_SUBTITLE</key>
+	<string>Connect to the Internet.</string>
+	<key>ASSISTANT_NOT_AVAILABLE_TITLE</key>
+	<string>Siri not available</string>
+	<key>CAR_DISPLAY_NO_NETWORK_SUBTEXT</key>
+	<string>Connect to the internet.</string>
+	<key>CAR_DISPLAY_NO_NETWORK_TEXT</key>
+	<string>Siri not available</string>
+	<key>SHOW_ALL</key>
+	<string>Show All…</string>
+</dict>
+</plist>

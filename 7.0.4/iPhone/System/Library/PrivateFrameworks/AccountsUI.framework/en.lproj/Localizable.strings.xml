@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNTS</key>
+	<string>Accounts</string>
+	<key>ACCOUNT_ADDED</key>
+	<string>Account Added</string>
+	<key>ACCOUNT_INFO_IPAD</key>
+	<string>Account</string>
+	<key>ACCOUNT_INFO_IPHONE</key>
+	<string>Account</string>
+	<key>ACCOUNT_INFO_IPOD</key>
+	<string>Account</string>
+	<key>ADDING_ACCOUNT</key>
+	<string>Adding Account</string>
+	<key>ADD_ACCOUNT_TITLE</key>
+	<string>Add Account</string>
+	<key>ADD_CALDAV_ACCOUNT</key>
+	<string>Add CalDAV Account</string>
+	<key>ADD_CARDDAV_ACCOUNT</key>
+	<string>Add CardDAV Account</string>
+	<key>ADD_LDAP_ACCOUNT</key>
+	<string>Add LDAP Account</string>
+	<key>ADD_OTHER_MAIL_ACCOUNT</key>
+	<string>Add Mail Account</string>
+	<key>ADD_SUBCAL_ACCOUNT</key>
+	<string>Add Subscribed Calendar</string>
+	<key>AND_N_MORE</key>
+	<string> and %@ more…</string>
+	<key>BACKUP_LABEL</key>
+	<string>Backup</string>
+	<key>BOOKMARKS_LABEL</key>
+	<string>Safari</string>
+	<key>BOOKMARKS_TITLE</key>
+	<string>Safari</string>
+	<key>BOOKMARKS_WARNING</key>
+	<string>Safari data</string>
+	<key>CALENDARS_AND_REMINDERS_LABEL</key>
+	<string>Calendars and Reminders</string>
+	<key>CALENDARS_AND_REMINDERS_TITLE</key>
+	<string>Calendars and Reminders</string>
+	<key>CALENDARS_AND_REMINDERS_WARNING</key>
+	<string>calendars and reminders</string>
+	<key>CALENDARS_LABEL</key>
+	<string>Calendars</string>
+	<key>CALENDARS_TITLE</key>
+	<string>Calendars</string>
+	<key>CALENDARS_WARNING</key>
+	<string>calendars</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CERTIFICATES</key>
+	<string>Certificates</string>
+	<key>CONTACTS_LABEL</key>
+	<string>Contacts</string>
+	<key>CONTACTS_TITLE</key>
+	<string>Contacts</string>
+	<key>CONTACTS_WARNING</key>
+	<string>contacts</string>
+	<key>COULDNT_DELETE_ACCOUNT</key>
+	<string>Couldn't Delete Account</string>
+	<key>COULDNT_DELETE_ACCOUNT_DESCRIPTION</key>
+	<string>The account may be syncing data. Please try again.</string>
+	<key>DATA</key>
+	<string>data</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_ACCOUNT</key>
+	<string>Delete Account</string>
+	<key>DELETE_ACCOUNT_MERGE_SYNC_DATA_IPAD</key>
+	<string>Keep on My iPad</string>
+	<key>DELETE_ACCOUNT_MERGE_SYNC_DATA_IPHONE</key>
+	<string>Keep on My iPhone</string>
+	<key>DELETE_ACCOUNT_MERGE_SYNC_DATA_IPOD</key>
+	<string>Keep on My iPod touch</string>
+	<key>DELETE_ACCOUNT_MERGE_WARNING_FORMAT_IPAD</key>
+	<string>What would you like to do with %1$@ %2$@ on your iPad when the account is deleted?</string>
+	<key>DELETE_ACCOUNT_MERGE_WARNING_FORMAT_IPHONE</key>
+	<string>What would you like to do with %1$@ %2$@ on your iPhone when the account is deleted?</string>
+	<key>DELETE_ACCOUNT_MERGE_WARNING_FORMAT_IPOD</key>
+	<string>What would you like to do with %1$@ %2$@ on your iPod touch when the account is deleted?</string>
+	<key>DELETE_ACCOUNT_WARNING_FORMAT_IPAD</key>
+	<string>Deleting this account will remove its %1$@ from your iPad.</string>
+	<key>DELETE_ACCOUNT_WARNING_FORMAT_IPHONE</key>
+	<string>Deleting this account will remove its %1$@ from your iPhone.</string>
+	<key>DELETE_ACCOUNT_WARNING_FORMAT_IPOD</key>
+	<string>Deleting this account will remove its %1$@ from your iPod touch.</string>
+	<key>DELETE_EXISTING_DATA_WARNING_FORMAT_IPAD</key>
+	<string>Are you sure you want to continue? All %1$@ %2$@ will be removed from your iPad.</string>
+	<key>DELETE_EXISTING_DATA_WARNING_FORMAT_IPHONE</key>
+	<string>Are you sure you want to continue? All %1$@ %2$@ will be removed from your iPhone.</string>
+	<key>DELETE_EXISTING_DATA_WARNING_FORMAT_IPOD</key>
+	<string>Are you sure you want to continue? All %1$@ %2$@ will be removed from your iPod touch.</string>
+	<key>DELETE_LOCAL_DATA</key>
+	<string>Delete</string>
+	<key>DELETE_SYNC_DATA_IPAD</key>
+	<string>Delete from My iPad</string>
+	<key>DELETE_SYNC_DATA_IPHONE</key>
+	<string>Delete from My iPhone</string>
+	<key>DELETE_SYNC_DATA_IPOD</key>
+	<string>Delete from My iPod touch</string>
+	<key>DELETING</key>
+	<string>Deleting…</string>
+	<key>DISABLE_DATACLASS_TITLE</key>
+	<string>Turn Off %@</string>
+	<key>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_FORMAT_IPAD</key>
+	<string>What would you like to do with the previously synced %1$@ %2$@ on your iPad?</string>
+	<key>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_FORMAT_IPHONE</key>
+	<string>What would you like to do with the previously synced %1$@ %2$@ on your iPhone?</string>
+	<key>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_FORMAT_IPOD</key>
+	<string>What would you like to do with the previously synced %1$@ %2$@ on your iPod touch?</string>
+	<key>DOCS_AND_DATA_LABEL</key>
+	<string>Documents &amp; Data</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>ENABLE_OTA_WITH_EXISTING_DATA_WARNING_FORMAT_IPAD</key>
+	<string>What would you like to do with existing local %@ on your iPad?</string>
+	<key>ENABLE_OTA_WITH_EXISTING_DATA_WARNING_FORMAT_IPHONE</key>
+	<string>What would you like to do with existing local %@ on your iPhone?</string>
+	<key>ENABLE_OTA_WITH_EXISTING_DATA_WARNING_FORMAT_IPOD</key>
+	<string>What would you like to do with existing local %@ on your iPod touch?</string>
+	<key>ENABLE_OTA_WITH_EXISTING_DATA_WARNING_FORMAT_TITLE</key>
+	<string>Existing Local %@</string>
+	<key>FIND_MY_IPAD_LABEL</key>
+	<string>Find My iPad</string>
+	<key>FIND_MY_IPAD_TITLE</key>
+	<string>Find My iPad</string>
+	<key>FIND_MY_IPAD_WARNING</key>
+	<string>Find My iPad</string>
+	<key>FIND_MY_IPHONE_LABEL</key>
+	<string>Find My iPhone</string>
+	<key>FIND_MY_IPHONE_TITLE</key>
+	<string>Find My iPhone</string>
+	<key>FIND_MY_IPHONE_WARNING</key>
+	<string>Find My iPhone</string>
+	<key>FIND_MY_IPOD_LABEL</key>
+	<string>Find My iPod touch</string>
+	<key>FIND_MY_IPOD_TITLE</key>
+	<string>Find My iPod touch</string>
+	<key>FIND_MY_IPOD_WARNING</key>
+	<string>Find My iPod touch</string>
+	<key>FROM_MY_COMPUTER_TYPE_MAC</key>
+	<string>From My Mac</string>
+	<key>FROM_MY_COMPUTER_TYPE_MAC_MID_SENTENCE</key>
+	<string>from My Mac</string>
+	<key>FROM_MY_COMPUTER_TYPE_PC</key>
+	<string>From My PC</string>
+	<key>FROM_MY_COMPUTER_TYPE_PC_MID_SENTENCE</key>
+	<string>from My PC</string>
+	<key>INACTIVE</key>
+	<string>Inactive</string>
+	<key>INSTALLED</key>
+	<string>INSTALLED</string>
+	<key>INSTALLNOW</key>
+	<string>INSTALL</string>
+	<key>KEEP</key>
+	<string>Keep</string>
+	<key>KEEP_LOCAL_DATA_IPAD</key>
+	<string>Keep on My iPad</string>
+	<key>KEEP_LOCAL_DATA_IPHONE</key>
+	<string>Keep on My iPhone</string>
+	<key>KEEP_LOCAL_DATA_IPOD</key>
+	<string>Keep on My iPod touch</string>
+	<key>LAST_SEPARATOR</key>
+	<string> and </string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>MAIL_LABEL</key>
+	<string>Mail</string>
+	<key>MAIL_TITLE</key>
+	<string>Mail</string>
+	<key>MAIL_WARNING</key>
+	<string>mail</string>
+	<key>MEDIASTREAM_LABEL</key>
+	<string>Photos</string>
+	<key>MEDIASTREAM_WARNING</key>
+	<string>Photo Stream photos</string>
+	<key>MERGE_LOCAL_DATA</key>
+	<string>Merge</string>
+	<key>MERGE_SYNC_DATA_IPAD</key>
+	<string>Keep on My iPad</string>
+	<key>MERGE_SYNC_DATA_IPHONE</key>
+	<string>Keep on My iPhone</string>
+	<key>MERGE_SYNC_DATA_IPOD</key>
+	<string>Keep on My iPod touch</string>
+	<key>MERGING</key>
+	<string>Merging…</string>
+	<key>MIDDLE_SEPARATOR</key>
+	<string>, </string>
+	<key>NOTES_LABEL</key>
+	<string>Notes</string>
+	<key>NOTES_TITLE</key>
+	<string>Notes</string>
+	<key>NOTES_WARNING</key>
+	<string>notes</string>
+	<key>NO_IDENTITIES_EXPLANATION</key>
+	<string>No valid certificates found.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ON_MY_DEVICE_TYPE_IPAD</key>
+	<string>On My iPad</string>
+	<key>ON_MY_DEVICE_TYPE_IPHONE</key>
+	<string>On My iPhone</string>
+	<key>ON_MY_DEVICE_TYPE_IPHONE_SIMULATOR</key>
+	<string>On My iPhone Simulator</string>
+	<key>ON_MY_DEVICE_TYPE_IPOD</key>
+	<string>On My iPod touch</string>
+	<key>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPAD</key>
+	<string>on My iPad</string>
+	<key>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPHONE</key>
+	<string>on My iPhone</string>
+	<key>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPHONE_SIMULATOR</key>
+	<string>on My iPhone Simulator</string>
+	<key>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPOD</key>
+	<string>on My iPod touch</string>
+	<key>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPAD</key>
+	<string>on your iPad</string>
+	<key>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPHONE</key>
+	<string>on your iPhone</string>
+	<key>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPHONE_SIMULATOR</key>
+	<string>on your iPhone Simulator</string>
+	<key>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPOD</key>
+	<string>on your iPod touch</string>
+	<key>OTHER</key>
+	<string>Other</string>
+	<key>PHOTOSTREAM_WARNING</key>
+	<string>Photo Stream</string>
+	<key>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_IPAD</key>
+	<string>Are you sure you want to continue? All existing %1$@ will be removed from your iPad.</string>
+	<key>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_IPHONE</key>
+	<string>Are you sure you want to continue? All existing %1$@ will be removed from your iPhone.</string>
+	<key>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_IPOD</key>
+	<string>Are you sure you want to continue? All existing %1$@ will be removed from your iPod touch.</string>
+	<key>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_TITLE</key>
+	<string>Delete Local %@</string>
+	<key>REALLY_KEEP_EXISTING_DATA_WARNING_FORMAT_IPAD</key>
+	<string>If you keep your current %@ on your iPad, you may see duplicate entries. Are you sure you want to continue?</string>
+	<key>REALLY_KEEP_EXISTING_DATA_WARNING_FORMAT_IPHONE</key>
+	<string>If you keep your current %@ on your iPhone, you may see duplicate entries. Are you sure you want to continue?</string>
+	<key>REALLY_KEEP_EXISTING_DATA_WARNING_FORMAT_IPOD</key>
+	<string>If you keep your current %@ on your iPod touch, you may see duplicate entries. Are you sure you want to continue?</string>
+	<key>REALLY_KEEP_EXISTING_DATA_WARNING_FORMAT_TITLE</key>
+	<string>Keep Local %@</string>
+	<key>REMINDERS_LABEL</key>
+	<string>Reminders</string>
+	<key>REMINDERS_TITLE</key>
+	<string>Reminders</string>
+	<key>REMINDERS_WARNING</key>
+	<string>reminders</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SAVING</key>
+	<string>Saving…</string>
+	<key>SHOEBOX_LABEL</key>
+	<string>Passbook</string>
+	<key>SHOEBOX_WARNING</key>
+	<string>Passbook</string>
+	<key>SYNCED_WITH_YOUR_COMPUTER_TYPE_MAC_MID_SENTENCE</key>
+	<string>synced with your Mac</string>
+	<key>SYNCED_WITH_YOUR_COMPUTER_TYPE_PC_MID_SENTENCE</key>
+	<string>synced with your PC</string>
+	<key>TURNING_OFF_BOOKMARKS</key>
+	<string>Turning Off Safari Data…</string>
+	<key>TURNING_OFF_CALENDARS</key>
+	<string>Turning Off Calendars…</string>
+	<key>TURNING_OFF_CALENDARS_AND_REMINDERS</key>
+	<string>Turning Off Calendars and Reminders…</string>
+	<key>TURNING_OFF_CONTACTS</key>
+	<string>Turning Off Contacts…</string>
+	<key>TURNING_OFF_MAIL</key>
+	<string>Turning Off Mail…</string>
+	<key>TURNING_OFF_NOTES</key>
+	<string>Turning Off Notes…</string>
+	<key>TURNING_OFF_REMINDERS</key>
+	<string>Turning Off Reminders…</string>
+	<key>TURNING_ON_BOOKMARKS</key>
+	<string>Turning On Safari Data…</string>
+	<key>TURNING_ON_CALENDARS</key>
+	<string>Turning On Calendars…</string>
+	<key>TURNING_ON_CALENDARS_AND_REMINDERS</key>
+	<string>Turning On Calendars and Reminders…</string>
+	<key>TURNING_ON_CONTACTS</key>
+	<string>Turning On Contacts…</string>
+	<key>TURNING_ON_MAIL</key>
+	<string>Turning On Mail…</string>
+	<key>TURNING_ON_NOTES</key>
+	<string>Turning On Notes…</string>
+	<key>TURNING_ON_REMINDERS</key>
+	<string>Turning On Reminders…</string>
+	<key>UBIQUITY_WARNING</key>
+	<string>documents</string>
+	<key>UNAVAILABLE</key>
+	<string>UNAVAILABLE</string>
+	<key>WELCOME_TO_MAIL</key>
+	<string>Welcome to Mail</string>
+</dict>
+</plist>

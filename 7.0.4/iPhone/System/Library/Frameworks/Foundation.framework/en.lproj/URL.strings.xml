@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%.0f GB</key>
+	<string>%.0f GB</string>
+	<key>%.0f KB</key>
+	<string>%.0f KB</string>
+	<key>%.0f MB</key>
+	<string>%.0f MB</string>
+	<key>%.0f bytes</key>
+	<string>%.0f bytes</string>
+	<key>%.1f GB (1.0)</key>
+	<string>%.1f GB</string>
+	<key>%.1f GB (10.0)</key>
+	<string>%.1f GB</string>
+	<key>%.1f KB (0.1)</key>
+	<string>%.1f KB</string>
+	<key>%.1f KB (1.0)</key>
+	<string>%.1f KB</string>
+	<key>%.1f KB (10.0)</key>
+	<string>%.1f KB</string>
+	<key>%.1f MB (1.0)</key>
+	<string>%.1f MB</string>
+	<key>%.1f MB (10.0)</key>
+	<string>%.1f MB</string>
+	<key>%@ (%@)</key>
+	<string>%@ (%@)</string>
+	<key>%@ of %@</key>
+	<string>%@ of %@</string>
+	<key>0 bytes</key>
+	<string>0 bytes</string>
+	<key>1 byte</key>
+	<string>1 byte</string>
+	<key>Bad header received from server</key>
+	<string>Bad header received from server</string>
+	<key>Can't connect to host %@ using port %d</key>
+	<string>Can’t connect to host %@ using port %d</string>
+	<key>Can't determine IP address of host: %@</key>
+	<string>Can’t determine IP address of host: %@</string>
+	<key>Can't get a description of port %d</key>
+	<string>Can’t get a description of port %d</string>
+	<key>Could not connect to host %@</key>
+	<string>Could not connect to host %@</string>
+	<key>Could not read from %@</key>
+	<string>Could not read from %@</string>
+	<key>Couldn't open data connection for URL path: %@</key>
+	<string>Couldn’t open data connection for URL path: %@</string>
+	<key>Detected a redirection loop while attempting to load URL %@</key>
+	<string>Detected a redirection loop while attempting to load URL %@</string>
+	<key>Don't know how to load URL %@</key>
+	<string>Don’t know how to load URL %@</string>
+	<key>FTP command not recognized by host: %@</key>
+	<string>FTP command not recognized by host: %@</string>
+	<key>HTTP request failed for URL %@:%@</key>
+	<string>HTTP request failed for URL %@:%@</string>
+	<key>Lost connection to host %@</key>
+	<string>Lost connection to host %@</string>
+	<key>Object not available for specified URL: %@</key>
+	<string>Object not available for specified URL: %@</string>
+	<key>Received unknown HTTP server response %@: %@</key>
+	<string>Received unknown HTTP server response %@: %@</string>
+	<key>Service unavailable for host %@</key>
+	<string>Service unavailable for host %@</string>
+	<key>User login or password not recognized.</key>
+	<string>User login or password not recognized.</string>
+	<key>Web form password</key>
+	<string>Web form password</string>
+	<key>accepted</key>
+	<string>accepted</string>
+	<key>bad gateway</key>
+	<string>bad gateway</string>
+	<key>bad request</key>
+	<string>bad request</string>
+	<key>client error</key>
+	<string>client error</string>
+	<key>conflict</key>
+	<string>conflict</string>
+	<key>continue</key>
+	<string>continue</string>
+	<key>created</key>
+	<string>created</string>
+	<key>expectation failed</key>
+	<string>expectation failed</string>
+	<key>forbidden</key>
+	<string>forbidden</string>
+	<key>found</key>
+	<string>found</string>
+	<key>gateway timed out</key>
+	<string>gateway timed out</string>
+	<key>informational</key>
+	<string>informational</string>
+	<key>internal server error</key>
+	<string>internal server error</string>
+	<key>length required</key>
+	<string>length required</string>
+	<key>method not allowed</key>
+	<string>method not allowed</string>
+	<key>moved permanently</key>
+	<string>moved permanently</string>
+	<key>multiple choices</key>
+	<string>multiple choices</string>
+	<key>needs proxy</key>
+	<string>needs proxy</string>
+	<key>no content</key>
+	<string>no content</string>
+	<key>no error</key>
+	<string>no error</string>
+	<key>no longer exists</key>
+	<string>no longer exists</string>
+	<key>non-authoritative information</key>
+	<string>non-authoritative information</string>
+	<key>not found</key>
+	<string>not found</string>
+	<key>not modified</key>
+	<string>not modified</string>
+	<key>partial content</key>
+	<string>partial content</string>
+	<key>payment required</key>
+	<string>payment required</string>
+	<key>precondition failed</key>
+	<string>precondition failed</string>
+	<key>proxy authentication required</key>
+	<string>proxy authentication required</string>
+	<key>redirected</key>
+	<string>redirected</string>
+	<key>request timed out</key>
+	<string>request timed out</string>
+	<key>request too large</key>
+	<string>request too large</string>
+	<key>requested URL too long</key>
+	<string>requested URL too long</string>
+	<key>requested range not satisfiable</key>
+	<string>requested range not satisfiable</string>
+	<key>reset content</key>
+	<string>reset content</string>
+	<key>see other</key>
+	<string>see other</string>
+	<key>server error</key>
+	<string>server error</string>
+	<key>service unavailable</key>
+	<string>service unavailable</string>
+	<key>success</key>
+	<string>success</string>
+	<key>switching protocols</key>
+	<string>switching protocols</string>
+	<key>temporarily redirected</key>
+	<string>temporarily redirected</string>
+	<key>unacceptable</key>
+	<string>unacceptable</string>
+	<key>unauthorized</key>
+	<string>unauthorized</string>
+	<key>unimplemented</key>
+	<string>unimplemented</string>
+	<key>unknown</key>
+	<string>unknown</string>
+	<key>unsupported media type</key>
+	<string>unsupported media type</string>
+	<key>unsupported version</key>
+	<string>unsupported version</string>
+</dict>
+</plist>

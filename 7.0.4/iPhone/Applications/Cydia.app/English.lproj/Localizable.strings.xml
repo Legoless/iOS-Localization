@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT</key>
+	<string>About</string>
+	<key>ABOUT_CYDIA</key>
+	<string>About Cydia Installer</string>
+	<key>ACCEPT_NEW_COPY</key>
+	<string>Accept The New Copy</string>
+	<key>ADD</key>
+	<string>Add</string>
+	<key>ADD_ANYWAY</key>
+	<string>Add Anyway</string>
+	<key>ADD_SOURCE</key>
+	<string>Add Source</string>
+	<key>ADMINISTRATIVE_INFORMATION</key>
+	<string>Administrative Information</string>
+	<key>ADVANCED_SEARCH</key>
+	<string>Advanced Search</string>
+	<key>ALL_PACKAGES</key>
+	<string>All Packages</string>
+	<key>APPLE</key>
+	<string>Apple</string>
+	<key>AUTHOR</key>
+	<string>Author</string>
+	<key>AVAILABLE_UPGRADES</key>
+	<string>Available Upgrades</string>
+	<key>BROWSER</key>
+	<string>Browser</string>
+	<key>BY</key>
+	<string>by %@</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_CLEAR</key>
+	<string>Cancel and Clear</string>
+	<key>CANCEL_OPERATION</key>
+	<string>Cancel Operation</string>
+	<key>CANNOT_COMPLY</key>
+	<string>Cannot Comply</string>
+	<key>CANNOT_COMPLY_EX</key>
+	<string>The requested modifications cannot be applied due to required dependencies or conflicts that cannot be automatically found or fixed.</string>
+	<key>CANNOT_LOCATE_PACKAGE</key>
+	<string>Cannot Locate Package</string>
+	<key>CHANGES</key>
+	<string>Changes</string>
+	<key>CHANGE_PACKAGE_SETTINGS</key>
+	<string>Change Package Settings</string>
+	<key>CLEAN_ARCHIVES</key>
+	<string>Clean Archives</string>
+	<key>CLEAR</key>
+	<string>Clear</string>
+	<key>CLOSE</key>
+	<string>Close</string>
+	<key>CLOSE_CYDIA</key>
+	<string>Close Cydia</string>
+	<key>COLON_DELIMITED</key>
+	<string>%@: %@</string>
+	<key>COMING_SOON</key>
+	<string>Coming Soon!</string>
+	<key>COMMA_DELIMITED</key>
+	<string>%@, %@</string>
+	<key>COMMERCIAL_APPLICATIONS</key>
+	<string>Commercial Applications</string>
+	<key>COMPLETE</key>
+	<string>Complete</string>
+	<key>COMPLETE_UPGRADE</key>
+	<string>Complete Upgrade</string>
+	<key>CONFIGURATION_UPGRADE</key>
+	<string>Configuration Upgrade</string>
+	<key>CONFIGURATION_UPGRADE_EX</key>
+	<string>The following file has been changed by both the package maintainer and by you (or for you by a script).</string>
+	<key>CONFIRM</key>
+	<string>Confirm</string>
+	<key>CONSOLE_PACKAGE</key>
+	<string>This is a console package!</string>
+	<key>CONSOLE_UTILITIES_DAEMONS</key>
+	<string>Console Utilities &amp; Daemons</string>
+	<key>CONTINUE_QUEUING</key>
+	<string>Continue Queuing</string>
+	<key>COUNTS_NONZERO_EX</key>
+	<string>So, I just counted some important-looking values, and they didn't sum to zero. This is scary. I don't know why I don't like this anymore, but I think APT was adamant this should not occur.</string>
+	<key>CREDITS</key>
+	<string>Credits</string>
+	<key>CYDIA_STORE</key>
+	<string>Cydia Store</string>
+	<key>DATABASE</key>
+	<string>Database</string>
+	<key>DETAILS</key>
+	<string>Details</string>
+	<key>DEVELOPER</key>
+	<string>Developer</string>
+	<key>DEVELOPERS_ONLY</key>
+	<string>Developers Only</string>
+	<key>DEVELOPER_EX</key>
+	<string>Everything, even scary internal stuff.</string>
+	<key>DISK_FREEING</key>
+	<string>Disk Freeing</string>
+	<key>DISK_USING</key>
+	<string>Disk Using</string>
+	<key>DONATE_USING</key>
+	<string>Donate using %@</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DOUBLE_QUOTED</key>
+	<string>“%@”</string>
+	<key>DOWNGRADE</key>
+	<string>Downgrade</string>
+	<key>DOWNLOADING</key>
+	<string>Downloading</string>
+	<key>DOWNLOADING_</key>
+	<string>Downloading %@</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>ELISION</key>
+	<string>%@...</string>
+	<key>ENTERED_BY_USER</key>
+	<string>Entered by User</string>
+	<key>ENTER_APT_URL</key>
+	<string>Enter Cydia/APT URL</string>
+	<key>ERROR</key>
+	<string>Error</string>
+	<key>ESSENTIAL_UPGRADE</key>
+	<string>Essential Upgrade</string>
+	<key>ESSENTIAL_UPGRADES</key>
+	<string>%d Essential Upgrades</string>
+	<key>ESSENTIAL_UPGRADE_EX</key>
+	<string>One or more essential packages are currently out of date. If these upgrades are not performed you are likely to encounter errors.</string>
+	<key>EXCLAMATION</key>
+	<string>%@!</string>
+	<key>EXIT_WHEN_COMPLETE</key>
+	<string>(Cydia will exit when complete.)</string>
+	<key>EXPANDED_SIZE</key>
+	<string>Expanded Size</string>
+	<key>EXPERT</key>
+	<string>Expert</string>
+	<key>FAQ</key>
+	<string>FAQ</string>
+	<key>FEATURED_PACKAGES</key>
+	<string>Featured Packages</string>
+	<key>FILES</key>
+	<string>Files</string>
+	<key>FILESYSTEM_CONTENT</key>
+	<string>Filesystem Content</string>
+	<key>FILES_INSTALLED_TO</key>
+	<string>files installed to %@</string>
+	<key>FOLLOW_ON_TWITTER</key>
+	<string>Follow %@ on Twitter</string>
+	<key>FORCE_REMOVAL</key>
+	<string>Force Removal</string>
+	<key>FORCIBLY_CLEAR</key>
+	<string>Forcibly Clear</string>
+	<key>FREE_APPLICATIONS</key>
+	<string>Free Applications</string>
+	<key>FREE_EXTENSIONS</key>
+	<string>Free Extensions</string>
+	<key>FREQUENTLY_ASKED_QUESTIONS</key>
+	<string>Frequently Asked Questions</string>
+	<key>FROM</key>
+	<string>from %@</string>
+	<key>FROWNY_PANTS</key>
+	<string>Frowny Pants</string>
+	<key>FUTURE_FEATURE_ROADMAP</key>
+	<string>Future Feature Roadmap</string>
+	<key>HACKER</key>
+	<string>Hacker</string>
+	<key>HACKER_EX</key>
+	<string>Adds Command Line tools.</string>
+	<key>HALFINSTALLED_PACKAGE</key>
+	<string>Half-Installed Package</string>
+	<key>HALFINSTALLED_PACKAGES</key>
+	<string>%d Half-Installed Packages</string>
+	<key>HALFINSTALLED_PACKAGE_EX</key>
+	<string>When the shell scripts associated with packages fail, they are left in a bad state known as either half-configured or half-installed. These errors don't go away and instead continue to cause issues. These scripts can be deleted and the packages forcibly removed.</string>
+	<key>HOME</key>
+	<string>Home</string>
+	<key>ID</key>
+	<string>ID</string>
+	<key>IGNORED_UPGRADES</key>
+	<string>Ignored Upgrades</string>
+	<key>IGNORE_UPGRADES</key>
+	<string>Ignore Upgrades</string>
+	<key>IGNORE_UPGRADES_EX</key>
+	<string>Do not include this package when selecting Upgrade All.</string>
+	<key>ILLEGAL_PACKAGE_IDENTIFIER</key>
+	<string>Illegal Package Identifier</string>
+	<key>INSTALL</key>
+	<string>Install</string>
+	<key>INSTALLED</key>
+	<string>Installed</string>
+	<key>INSTALLED_BY_PACKAGE</key>
+	<string>Installed by Package</string>
+	<key>INSTALLED_DETAILS</key>
+	<string>Installed Package</string>
+	<key>INSTALLED_FILES</key>
+	<string>Installed Files</string>
+	<key>KEEP_OLD_COPY</key>
+	<string>Keep My Old Copy</string>
+	<key>LOADING</key>
+	<string>Loading</string>
+	<key>LOADING_DATA</key>
+	<string>Loading Data</string>
+	<key>LOCAL</key>
+	<string>Local</string>
+	<key>LOGIN</key>
+	<string>Login</string>
+	<key>MAILING_LISTS</key>
+	<string>Mailing Lists</string>
+	<key>MAINTAINER</key>
+	<string>Contact</string>
+	<key>MANAGE</key>
+	<string>Manage</string>
+	<key>MODIFICATIONS</key>
+	<string>Modifications</string>
+	<key>MODIFY</key>
+	<string>Modify</string>
+	<key>MORE_INFORMATION</key>
+	<string>More Information</string>
+	<key>MORE_PACKAGE_SOURCES</key>
+	<string>More Package Sources</string>
+	<key>NAME</key>
+	<string>Name</string>
+	<key>NETWORK_ERROR</key>
+	<string>Network Error</string>
+	<key>NEVER_OR_UNKNOWN</key>
+	<string>Never or Unknown</string>
+	<key>NEW</key>
+	<string>New</string>
+	<key>NEW_AT</key>
+	<string>New at %@</string>
+	<key>NEW_INSTALL</key>
+	<string>New Install</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>NOTE</key>
+	<string>Note</string>
+	<key>NOT_RATED</key>
+	<string>Not Rated</string>
+	<key>NOT_REPOSITORY</key>
+	<string>Did not Find Repository</string>
+	<key>NOT_REPOSITORY_EX</key>
+	<string>The indicated repository could not be found. This could be because you are trying to add a legacy Installer repository (these are not supported). Also, this interface is only capable of working with exact repository URLs.</string>
+	<key>NO_SECTION</key>
+	<string>(No Section)</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OKAY</key>
+	<string>Okay</string>
+	<key>PACKAGES</key>
+	<string>Packages</string>
+	<key>PACKAGES_EX</key>
+	<string>View or remove packages you previously installed.</string>
+	<key>PACKAGE_CANNOT_BE_FOUND</key>
+	<string>The package %@ cannot be found in your current sources. I might recommend installing more sources.</string>
+	<key>PACKAGE_CANNOT_BE_FOUND_EX</key>
+	<string>This issue may also be caused by a number of other factors. The most common one is that your package catalog is out of date. To manually refresh, click the Refresh button on the Changes tab. This package may simply no longer exist. It is also possible you are using an old firmware version: users should attempt to remain reasonably up to date with Apple's firmware releases.</string>
+	<key>PACKAGE_DAMAGED</key>
+	<string>Package Damaged</string>
+	<key>PACKAGE_DETAILS</key>
+	<string>Package Details</string>
+	<key>PACKAGE_QUEUE</key>
+	<string>Package Queue</string>
+	<key>PARENTHETICAL</key>
+	<string>%@ (%@)</string>
+	<key>PASSWORD</key>
+	<string>password</string>
+	<key>PERFORM_SELECTIONS</key>
+	<string>Perform Selections</string>
+	<key>PREPARE_ARCHIVES</key>
+	<string>Prepare Archives</string>
+	<key>PREPARING_FILESYSTEM</key>
+	<string>Preparing Filesystem</string>
+	<key>PRODUCTS</key>
+	<string>Products</string>
+	<key>PURGE</key>
+	<string>Purge</string>
+	<key>QUESTION</key>
+	<string>%@?</string>
+	<key>QUEUE</key>
+	<string>Queue</string>
+	<key>QUEUED_FOR</key>
+	<string>Queued for %@</string>
+	<key>Q_D</key>
+	<string>Q'd</string>
+	<key>REBOOT_DEVICE</key>
+	<string>Reboot Device</string>
+	<key>RECENT_CHANGES_UPDATES</key>
+	<string>Recent Changes/Updates</string>
+	<key>RECOMMENDED_BOOKS</key>
+	<string>Recommended Books</string>
+	<key>REFRESH</key>
+	<string>Refresh</string>
+	<key>REFRESHING_DATA</key>
+	<string>Refreshing Data</string>
+	<key>REINSTALL</key>
+	<string>Reinstall</string>
+	<key>RELOAD</key>
+	<string>Reload</string>
+	<key>RELOADING_DATA</key>
+	<string>Reloading Data</string>
+	<key>RELOAD_SPRINGBOARD</key>
+	<string>Reload SpringBoard</string>
+	<key>REMOVE</key>
+	<string>Remove</string>
+	<key>REMOVING_ESSENTIALS</key>
+	<string>Removing Essentials</string>
+	<key>REMOVING_ESSENTIALS_EX</key>
+	<string>This operation involves the removal of one or more packages that are required for the continued operation of either Cydia or iOS. If you continue, you may not be able to use Cydia to repair any damage.</string>
+	<key>REPAIRING</key>
+	<string>Repairing</string>
+	<key>REPOSITORY_SIGNATURE</key>
+	<string>View Repository Signature</string>
+	<key>REQUEST_ADVERTISING_SPACE</key>
+	<string>Request Advertising Space</string>
+	<key>REQUIREMENTS_FOR_LISTING</key>
+	<string>Requirements for Listing</string>
+	<key>RESTART_SPRINGBOARD</key>
+	<string>Restart SpringBoard</string>
+	<key>RESUBMIT_FORM</key>
+	<string>Are you sure you want to submit this form again?</string>
+	<key>RESUMING_AT</key>
+	<string>Resuming At</string>
+	<key>RETURN_TO_CYDIA</key>
+	<string>Return to Cydia</string>
+	<key>ROLE_EX</key>
+	<string>Not all of the packages available via Cydia are designed to be used by all users. Please categorize yourself so that Cydia can apply helpful filters.
+
+This choice can be changed from "Settings" under the "Manage" tab (on iPhone or iPod touch), or the "Sources" tab (on iPad).</string>
+	<key>RUNNING</key>
+	<string>Running</string>
+	<key>SAFE</key>
+	<string>Safe</string>
+	<key>SAMPLE</key>
+	<string>Sample</string>
+	<key>SCREENSHOT</key>
+	<string>Screenshot</string>
+	<key>SCREENSHOTS</key>
+	<string>Screenshots</string>
+	<key>SEARCH</key>
+	<string>Search</string>
+	<key>SEARCH_EX</key>
+	<string>Package Names &amp; Descriptions</string>
+	<key>SECTION</key>
+	<string>Section</string>
+	<key>SECTIONS</key>
+	<string>Sections</string>
+	<key>SECTION_VISIBILITY</key>
+	<string>Section Visibility</string>
+	<key>SEE_WHAT_CHANGED</key>
+	<string>See What Changed</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SHOW_ALL_CHANGES</key>
+	<string>Show All Changes</string>
+	<key>SHOW_ALL_CHANGES_EX</key>
+	<string>Changes only shows upgrades to installed packages so as to minimize spam from packagers. Activate this to see upgrades to this package even when it is not installed.</string>
+	<key>SIGNED_PACKAGE</key>
+	<string>This package has been signed.</string>
+	<key>SIMPLE</key>
+	<string>Simple</string>
+	<key>SINGLE_QUOTED</key>
+	<string>‘%@’</string>
+	<key>SLASH_DELIMITED</key>
+	<string>%@ / %@</string>
+	<key>SOURCES</key>
+	<string>Sources</string>
+	<key>SOURCES_EX</key>
+	<string>List current sources and add custom ones you may know.</string>
+	<key>SOURCE_DETAILS</key>
+	<string>Source Information</string>
+	<key>SOURCE_WARNING</key>
+	<string>Source Warning</string>
+	<key>SPONSOR</key>
+	<string>Sponsor</string>
+	<key>SPONSORING_PRODUCTS</key>
+	<string>Sponsoring Products</string>
+	<key>STATISTICS</key>
+	<string>Statistics</string>
+	<key>STILL_BROKEN_EX</key>
+	<string>Trying to fix the broken selections did not seem to help.</string>
+	<key>STORAGE</key>
+	<string>Storage</string>
+	<key>STORAGE_EX</key>
+	<string>See how much room you have left for new packages.</string>
+	<key>SUBMIT</key>
+	<string>Submit</string>
+	<key>SUPPORT_KNOWN_ISSUES</key>
+	<string>Support &amp; Known Issues</string>
+	<key>TEMPORARY_IGNORE</key>
+	<string>Ignore (Temporary)</string>
+	<key>THANK_YOU</key>
+	<string>Thank You</string>
+	<key>UNABLE_TO_COMPLY</key>
+	<string>Unable to Comply</string>
+	<key>UNABLE_TO_COMPLY_EX</key>
+	<string>This operation requires the removal of one or more packages that are required for the continued operation of either Cydia or iOS. In order to continue and force this operation you will need to be activate the Advanced under Settings.</string>
+	<key>UNABLE_TO_LOAD</key>
+	<string>Unable to Load</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+	<key>UNSAFE</key>
+	<string>Unsafe</string>
+	<key>UPDATING_DATABASE</key>
+	<string>Updating Database</string>
+	<key>UPDATING_SOURCES</key>
+	<string>Updating Sources</string>
+	<key>UPGRADE</key>
+	<string>Upgrade</string>
+	<key>UPGRADE_ESSENTIAL</key>
+	<string>Upgrade Essential</string>
+	<key>UPGRADING_TO_READ_THIS</key>
+	<string>Upgrading to %@? Read This</string>
+	<key>USER</key>
+	<string>User</string>
+	<key>USERNAME</key>
+	<string>username</string>
+	<key>USER_EX</key>
+	<string>Apps, Tweaks, and Themes.</string>
+	<key>USER_GUIDES</key>
+	<string>User Guides</string>
+	<key>VERIFICATION_ERROR</key>
+	<string>Verification Error</string>
+	<key>VERIFYING_URL</key>
+	<string>Verifying URL</string>
+	<key>VERSION</key>
+	<string>Version</string>
+	<key>WARNING</key>
+	<string>Warning</string>
+	<key>WELCOME_TO_CYDIA</key>
+	<string>Welcome to Cydia™</string>
+	<key>WHO_ARE_YOU</key>
+	<string>Who Are You?</string>
+	<key>YES</key>
+	<string>Yes</string>
+</dict>
+</plist>

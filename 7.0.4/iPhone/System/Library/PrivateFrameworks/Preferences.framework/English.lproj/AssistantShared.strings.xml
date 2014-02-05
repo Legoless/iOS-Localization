@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASSISTANT_ABOUT</key>
+	<string>About Siri and Privacy…</string>
+	<key>ASSISTANT_ABOUT_TEXT</key>
+	<string>When you use Siri, which includes the dictation feature of your device, the things you say and dictate will be recorded and sent to Apple to process your requests. Your device will also send Apple other information, such as your name and nickname; the names, nicknames, and relationship with you (e.g., “my dad”) of your address book contacts; and song names in your collection (collectively, your “User Data”). All of this data is used to help Siri understand you better and recognize what you say. It is not linked to other data that Apple may have from your use of other Apple services. 
+
+If you have Location Services turned on, the location of your device at the time you make a request will also be sent to Apple to help Siri improve the accuracy of its response to your location-based requests (e.g., “what’s the weather like here today?”). You may choose to turn off Location Services for Siri. To do so, open Settings, tap Privacy, tap Location Services, and slide the Siri switch to “off”.
+
+Information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at www.apple.com/privacy.
+
+You may choose to turn off Siri at any time. To do so, open Settings, tap General, tap Siri, and slide the Siri switch to “off”. If you turn off Siri, Apple will delete your User Data, as well as your recent voice input data. Older voice input data that has been disassociated from you may be retained for a period of time to generally improve Siri, Dictation and dictation functionality in other Apple products and services. This voice input data may include audio files and transcripts of what you said and related diagnostic data, such as hardware and operating system specifications and performance statistics.
+
+You can also restrict the ability to use Siri altogether under the Restrictions Setting.</string>
+	<key>ASSISTANT_ABOUT_TITLE</key>
+	<string>Siri and Privacy</string>
+</dict>
+</plist>

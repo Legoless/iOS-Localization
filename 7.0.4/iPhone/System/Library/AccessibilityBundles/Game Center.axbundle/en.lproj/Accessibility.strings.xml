@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACHIEVEMENT_COMPLETE</key>
+	<string>%@, Complete</string>
+	<key>ACHIEVEMENT_INCOMPLETE</key>
+	<string>%@, Incomplete</string>
+	<key>ADD_CONTACT_BUTTON</key>
+	<string>Add from address book</string>
+	<key>GAME_BUTTON</key>
+	<string>Game</string>
+	<key>PLAYER_PHOTO_BUTTON</key>
+	<string>Player Photo</string>
+	<key>PLAYER_PHOTO_HINT</key>
+	<string>Change player photo</string>
+</dict>
+</plist>

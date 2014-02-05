@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>6to4</key>
+	<string>6to4</string>
+	<key>AppleTV</key>
+	<string>Apple TV USB</string>
+	<key>Display Ethernet</key>
+	<string>Display Ethernet</string>
+	<key>Display FireWire</key>
+	<string>Display FireWire</string>
+	<key>External Modem</key>
+	<string>External Modem</string>
+	<key>Thunderbolt Ethernet</key>
+	<string>Thunderbolt Ethernet</string>
+	<key>Thunderbolt FireWire</key>
+	<string>Thunderbolt FireWire</string>
+	<key>USB Ethernet</key>
+	<string>USB Ethernet</string>
+	<key>USB Gigabit Ethernet</key>
+	<string>USB Gigabit Ethernet</string>
+	<key>X-airport</key>
+	<string>AirPort</string>
+	<key>X-bluetooth</key>
+	<string>Bluetooth</string>
+	<key>X-ether</key>
+	<string>Built-in Ethernet</string>
+	<key>X-firewire</key>
+	<string>Built-in FireWire</string>
+	<key>X-iPad</key>
+	<string>iPad</string>
+	<key>X-iPhone</key>
+	<string>iPhone</string>
+	<key>X-multiether</key>
+	<string>Built-in Ethernet %@</string>
+	<key>airport</key>
+	<string>Wi-Fi</string>
+	<key>bluetooth</key>
+	<string>Bluetooth DUN</string>
+	<key>bluetooth-modem</key>
+	<string>USB Bluetooth Modem Adaptor</string>
+	<key>bluetooth-modem-port</key>
+	<string>Bluetooth Modem Port</string>
+	<key>bluetooth-pan-gn</key>
+	<string>Bluetooth PAN</string>
+	<key>bluetooth-pan-nap</key>
+	<string>Bluetooth PAN-NAP</string>
+	<key>bluetooth-pan-u</key>
+	<string>Bluetooth P2P</string>
+	<key>bond</key>
+	<string>Ethernet Bond (%@)</string>
+	<key>bridge</key>
+	<string>Bridge (%@)</string>
+	<key>ether</key>
+	<string>Ethernet</string>
+	<key>firewire</key>
+	<string>FireWire</string>
+	<key>generic-bluetooth-modem</key>
+	<string>Bluetooth Modem (%@)</string>
+	<key>generic-ether</key>
+	<string>Ethernet Adaptor (%@)</string>
+	<key>generic-firewire</key>
+	<string>FireWire Adaptor (%@)</string>
+	<key>generic-usbmodem</key>
+	<string>USB Modem (%@)</string>
+	<key>generic-wireless</key>
+	<string>Wireless Network Adaptor (%@)</string>
+	<key>iPad</key>
+	<string>iPad USB</string>
+	<key>iPhone</key>
+	<string>iPhone USB</string>
+	<key>iPod</key>
+	<string>iPod USB</string>
+	<key>ipsec</key>
+	<string>IPSec</string>
+	<key>ipv4</key>
+	<string>IPv4</string>
+	<key>irda</key>
+	<string>IrDA</string>
+	<key>irda-ircomm</key>
+	<string>USB IrDA Modem Adaptor</string>
+	<key>irda-ircomm-port</key>
+	<string>IrDA Modem Port</string>
+	<key>l2tp</key>
+	<string>L2TP</string>
+	<key>loopback</key>
+	<string>Loopback</string>
+	<key>modem</key>
+	<string>Internal Modem</string>
+	<key>modem-port</key>
+	<string>Modem Port</string>
+	<key>modem-printer-port</key>
+	<string>Modem/Printer Port</string>
+	<key>multiether</key>
+	<string>Ethernet %@</string>
+	<key>multithunderbolt</key>
+	<string>Thunderbolt %@</string>
+	<key>pci-ether</key>
+	<string>PCI Ethernet Slot %@</string>
+	<key>pci-firewire</key>
+	<string>PCI FireWire Slot %@</string>
+	<key>pci-multiether</key>
+	<string>PCI Ethernet Slot %@, Port %@</string>
+	<key>pci-multifirewire</key>
+	<string>PCI FireWire Slot %@, Port %@</string>
+	<key>pptp</key>
+	<string>PPTP</string>
+	<key>printer-port</key>
+	<string>Printer Port</string>
+	<key>serial-port</key>
+	<string>Serial Port</string>
+	<key>thunderbolt</key>
+	<string>Thunderbolt</string>
+	<key>thunderbolt-bridge</key>
+	<string>Thunderbolt Bridge</string>
+	<key>thunderbolt-ether</key>
+	<string>Thunderbolt Ethernet Slot %@</string>
+	<key>thunderbolt-firewire</key>
+	<string>Thunderbolt FireWire Slot %@</string>
+	<key>thunderbolt-multiether</key>
+	<string>Thunderbolt Ethernet Slot %@, Port %@</string>
+	<key>thunderbolt-multifirewire</key>
+	<string>Thunderbolt FireWire Slot %@, Port %@</string>
+	<key>usb-ether</key>
+	<string>USB Ethernet (%@)</string>
+	<key>usbmodem</key>
+	<string>USB Modem</string>
+	<key>vlan</key>
+	<string>VLAN (%@)</string>
+	<key>vpn</key>
+	<string>VPN (%@)</string>
+	<key>wwan</key>
+	<string>WWAN</string>
+</dict>
+</plist>

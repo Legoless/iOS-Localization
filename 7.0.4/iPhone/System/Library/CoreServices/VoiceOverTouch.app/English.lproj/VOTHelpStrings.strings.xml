@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SearchCommand.NextButton</key>
+	<string>Next button</string>
+	<key>SearchCommand.NextControl</key>
+	<string>Next form element</string>
+	<key>SearchCommand.NextHeading</key>
+	<string>Next heading</string>
+	<key>SearchCommand.NextHeading1</key>
+	<string>Next heading level 1</string>
+	<key>SearchCommand.NextHeading2</key>
+	<string>Next heading level 2</string>
+	<key>SearchCommand.NextHeading3</key>
+	<string>Next heading level 3</string>
+	<key>SearchCommand.NextHeading4</key>
+	<string>Next heading level 4</string>
+	<key>SearchCommand.NextHeading5</key>
+	<string>Next heading level 5</string>
+	<key>SearchCommand.NextHeading6</key>
+	<string>Next heading level 6</string>
+	<key>SearchCommand.NextImage</key>
+	<string>Next image</string>
+	<key>SearchCommand.NextLandmark</key>
+	<string>Next landmark</string>
+	<key>SearchCommand.NextLink</key>
+	<string>Next link</string>
+	<key>SearchCommand.NextList</key>
+	<string>Next list</string>
+	<key>SearchCommand.NextSame</key>
+	<string>Next element of same type</string>
+	<key>SearchCommand.NextStaticText</key>
+	<string>Next text element</string>
+	<key>SearchCommand.NextTable</key>
+	<string>Next table</string>
+	<key>SearchCommand.NextTextfield</key>
+	<string>Next textfield</string>
+	<key>SearchCommand.PreviousButton</key>
+	<string>Previous button</string>
+	<key>SearchCommand.PreviousControl</key>
+	<string>Previous form element</string>
+	<key>SearchCommand.PreviousHeading</key>
+	<string>Previous heading</string>
+	<key>SearchCommand.PreviousHeading1</key>
+	<string>Previous heading level 1</string>
+	<key>SearchCommand.PreviousHeading2</key>
+	<string>Previous heading level 2</string>
+	<key>SearchCommand.PreviousHeading3</key>
+	<string>Previous heading level 3</string>
+	<key>SearchCommand.PreviousHeading4</key>
+	<string>Previous heading level 4</string>
+	<key>SearchCommand.PreviousHeading5</key>
+	<string>Previous heading level 5</string>
+	<key>SearchCommand.PreviousHeading6</key>
+	<string>Previous heading level 6</string>
+	<key>SearchCommand.PreviousImage</key>
+	<string>Previous image</string>
+	<key>SearchCommand.PreviousLandmark</key>
+	<string>Previous landmark</string>
+	<key>SearchCommand.PreviousLink</key>
+	<string>Previous link</string>
+	<key>SearchCommand.PreviousList</key>
+	<string>Previous list</string>
+	<key>SearchCommand.PreviousSame</key>
+	<string>Previous element of same type</string>
+	<key>SearchCommand.PreviousStaticText</key>
+	<string>Previous text element</string>
+	<key>SearchCommand.PreviousTable</key>
+	<string>Previous table</string>
+	<key>SearchCommand.PreviousTextfield</key>
+	<string>Previous textfield</string>
+	<key>command.help.brailleAnnouncementModeOn</key>
+	<string>Toggle announcement history.</string>
+	<key>command.help.braillePanLeft</key>
+	<string>Pan braille to the left.</string>
+	<key>command.help.braillePanRight</key>
+	<string>Pan braille to the right.</string>
+	<key>command.help.brailleRouter</key>
+	<string>Double tap the selected item, or in a math expression, move the rotor to the selected part of the expression.</string>
+	<key>command.help.brailleStatusRouter</key>
+	<string>Toggle expanded status description.</string>
+	<key>command.help.brailleToggleContractions</key>
+	<string>Switch between contracted and uncontracted braille.</string>
+	<key>command.help.brailleToggleEightDot</key>
+	<string>Switch between eight-dot and six-dot braille.</string>
+	<key>command.help.brailleTranslate</key>
+	<string>Translate any text typed into a braille display.</string>
+	<key>command.help.copy</key>
+	<string>Copy</string>
+	<key>command.help.copytoclipboard</key>
+	<string>Copy last spoken text to the clipboard</string>
+	<key>command.help.cut</key>
+	<string>Cut</string>
+	<key>command.help.delete.key</key>
+	<string>Activates the delete key.</string>
+	<key>command.help.doubletap</key>
+	<string>Double tap the selected item.</string>
+	<key>command.help.down.key</key>
+	<string>Activates the down arrow key.</string>
+	<key>command.help.eject.key</key>
+	<string>Activates the eject key.</string>
+	<key>command.help.escape</key>
+	<string>Escapes the current context.</string>
+	<key>command.help.firstElement</key>
+	<string>Move to the first element.</string>
+	<key>command.help.home.button</key>
+	<string>Activates the Home button.</string>
+	<key>command.help.lastElement</key>
+	<string>Move to the last element.</string>
+	<key>command.help.left.key</key>
+	<string>Activates the left arrow key.</string>
+	<key>command.help.longpress</key>
+	<string>Touch and hold on the current element</string>
+	<key>command.help.nextContainer</key>
+	<string>Move to next container</string>
+	<key>command.help.nextElement</key>
+	<string>Move to next item.</string>
+	<key>command.help.paste</key>
+	<string>Paste</string>
+	<key>command.help.pauseContinueSpeech</key>
+	<string>Pause or continue speech.</string>
+	<key>command.help.press</key>
+	<string>Activates the selected item.</string>
+	<key>command.help.previousContainer</key>
+	<string>Move to previous container</string>
+	<key>command.help.previousElement</key>
+	<string>Move to previous item.</string>
+	<key>command.help.readAll</key>
+	<string>Read page starting at selected item.</string>
+	<key>command.help.readFromTop</key>
+	<string>Read page starting at the top.</string>
+	<key>command.help.redo</key>
+	<string>Redo</string>
+	<key>command.help.return.key</key>
+	<string>Activates the return key.</string>
+	<key>command.help.right.key</key>
+	<string>Activates the right arrow key.</string>
+	<key>command.help.rotorDown</key>
+	<string>Move to next item using rotor setting.</string>
+	<key>command.help.rotorLeft</key>
+	<string>Select previous rotor setting.</string>
+	<key>command.help.rotorRight</key>
+	<string>Select next rotor setting.</string>
+	<key>command.help.rotorUp</key>
+	<string>Move to previous item using rotor setting.</string>
+	<key>command.help.scrollDownPage</key>
+	<string>Scroll down one page.</string>
+	<key>command.help.scrollLeftPage</key>
+	<string>Scroll left one page.</string>
+	<key>command.help.scrollRightPage</key>
+	<string>Scroll right one page.</string>
+	<key>command.help.scrollStatus</key>
+	<string>Speak page number or rows being displayed.</string>
+	<key>command.help.scrollUpPage</key>
+	<string>Scroll up one page.</string>
+	<key>command.help.select.all</key>
+	<string>Select All</string>
+	<key>command.help.selectionLeft</key>
+	<string>Unselect text.</string>
+	<key>command.help.selectionRight</key>
+	<string>Select text.</string>
+	<key>command.help.shift.tab.key</key>
+	<string>Activates the shift and tab keys.</string>
+	<key>command.help.startStopToggle.ipad</key>
+	<string>Start and stop the current action. For example: Starts and stops playback of music and video.</string>
+	<key>command.help.startStopToggle.iphone</key>
+	<string>Start and stop the current action. For example: Answers and hangs up a telephone call; Starts and stops playback of music and video; Starts and stops the stopwatch; Starts and stops video recording; Takes a picture in Camera; Starts and stops Voice Memo recording; Pauses and resumes Voicemail message playback; Stops custom Voicemail greeting recording.</string>
+	<key>command.help.startStopToggle.ipod</key>
+	<string>Start and stop the current action. For example: Starts and stops playback of music and video; Starts and stops the stopwatch; Starts and stops Voice Memo recording.</string>
+	<key>command.help.starthelp</key>
+	<string>Start VoiceOver help</string>
+	<key>command.help.status.bar.button</key>
+	<string>Goes to the Status bar.</string>
+	<key>command.help.system.control.bottom</key>
+	<string>Goes to Control Center</string>
+	<key>command.help.system.control.top</key>
+	<string>Goes to Notification Center</string>
+	<key>command.help.tab.key</key>
+	<string>Activates the tab key.</string>
+	<key>command.help.tapAndHoldMode</key>
+	<string>Drags the item.</string>
+	<key>command.help.toggleMute</key>
+	<string>Toggle speech on and off.</string>
+	<key>command.help.toggleQuickNav</key>
+	<string>Toggles Quick Nav.</string>
+	<key>command.help.toggleScreenCurtain</key>
+	<string>Toggle screen curtain on and off.</string>
+	<key>command.help.toggleSpeech</key>
+	<string>Pause or continue speech.</string>
+	<key>command.help.touchToSpeak</key>
+	<string>Select item under your finger.</string>
+	<key>command.help.undo</key>
+	<string>Undo</string>
+	<key>command.help.up.key</key>
+	<string>Activates the up arrow key.</string>
+	<key>command.help.volume.down.button</key>
+	<string>Activates the volume down button.</string>
+	<key>command.help.volume.up.button</key>
+	<string>Activates the volume up button.</string>
+	<key>command.item.chooser</key>
+	<string>Item Chooser</string>
+	<key>command.label.element</key>
+	<string>Set custom label</string>
+	<key>command.next.search.text</key>
+	<string>Find next item that matches text</string>
+	<key>command.previous.search.text</key>
+	<string>Find previous item that matches text</string>
+	<key>command.start.search.text</key>
+	<string>Find item that matches text</string>
+	<key>gesture.2.triple.tap</key>
+	<string>Two finger triple tap.</string>
+	<key>gesture.3.finger.4.tap</key>
+	<string>Three finger quadruple tap</string>
+	<key>gesture.4.finger.2.tap</key>
+	<string>Four finger double tap</string>
+	<key>gesture.help.2.finger.1.tap</key>
+	<string>Two finger single tap</string>
+	<key>gesture.help.2.finger.2.tap</key>
+	<string>Two finger double tap</string>
+	<key>gesture.help.2.finger.2.tapAndHold</key>
+	<string>Two finger double tap and hold</string>
+	<key>gesture.help.2.finger.3.tap</key>
+	<string>Two finger triple tap</string>
+	<key>gesture.help.2.finger.flick.down</key>
+	<string>Two finger flick down</string>
+	<key>gesture.help.2.finger.flick.left</key>
+	<string>Two finger flick left</string>
+	<key>gesture.help.2.finger.flick.right</key>
+	<string>Two finger flick right</string>
+	<key>gesture.help.2.finger.flick.up</key>
+	<string>Two finger flick up</string>
+	<key>gesture.help.2.finger.scrub</key>
+	<string>Two finger scrub</string>
+	<key>gesture.help.3.finger.1.tap</key>
+	<string>Three finger single tap</string>
+	<key>gesture.help.3.finger.2.tap</key>
+	<string>Three finger double tap</string>
+	<key>gesture.help.3.finger.3.tap</key>
+	<string>Three finger triple tap</string>
+	<key>gesture.help.3.finger.flick.down</key>
+	<string>Three finger flick down</string>
+	<key>gesture.help.3.finger.flick.left</key>
+	<string>Three finger flick left</string>
+	<key>gesture.help.3.finger.flick.right</key>
+	<string>Three finger flick right</string>
+	<key>gesture.help.3.finger.flick.up</key>
+	<string>Three finger flick up</string>
+	<key>gesture.help.4.finger.1.tap.bottom</key>
+	<string>Four finger single tap near bottom of screen</string>
+	<key>gesture.help.4.finger.1.tap.top</key>
+	<string>Four finger single tap near top of screen</string>
+	<key>gesture.help.4.finger.flick.left</key>
+	<string>Four finger flick left</string>
+	<key>gesture.help.4.finger.flick.right</key>
+	<string>Four finger flick right</string>
+	<key>gesture.help.double.tap</key>
+	<string>Double tap</string>
+	<key>gesture.help.flick.down</key>
+	<string>Flick down</string>
+	<key>gesture.help.flick.left</key>
+	<string>Flick left</string>
+	<key>gesture.help.flick.right</key>
+	<string>Flick right</string>
+	<key>gesture.help.flick.up</key>
+	<string>Flick up</string>
+	<key>gesture.help.pinch.in</key>
+	<string>Pinch close</string>
+	<key>gesture.help.pinch.out</key>
+	<string>Pinch open</string>
+	<key>gesture.help.rotate.left</key>
+	<string>Rotate counterclockwise</string>
+	<key>gesture.help.rotate.right</key>
+	<string>Rotate clockwise</string>
+	<key>gesture.help.split.tap</key>
+	<string>Split tap</string>
+	<key>gesture.help.tapAndHold</key>
+	<string>Double-tap and hold</string>
+	<key>gesture.help.touch</key>
+	<string>Touch</string>
+	<key>gesture.help.triple.tap</key>
+	<string>Triple tap</string>
+	<key>handwrite.help.double.tap</key>
+	<string>On the home screen, open an app.</string>
+	<key>handwrite.help.three.fingers.down</key>
+	<string>Select the next character set.</string>
+	<key>handwrite.help.three.fingers.right</key>
+	<string>Press the return key.</string>
+	<key>handwrite.help.three.fingers.up</key>
+	<string>Select the previous character set.</string>
+	<key>handwrite.help.touch</key>
+	<string>Draw letters and numbers on the screen to input text, passwords, web search, table navigation and launching apps.</string>
+	<key>handwrite.help.triple.tap</key>
+	<string>Announce the active character set.</string>
+	<key>handwrite.help.two.fingers.down</key>
+	<string>During text input, choose the next alternate character. In the web, select the next element.</string>
+	<key>handwrite.help.two.fingers.left</key>
+	<string>Delete the last character.</string>
+	<key>handwrite.help.two.fingers.right</key>
+	<string>Insert a space.</string>
+	<key>handwrite.help.two.fingers.up</key>
+	<string>During text input, choose the previous alternate character. In the web, select the previous element.</string>
+	<key>keyboard.help.F1</key>
+	<string>F1</string>
+	<key>keyboard.help.F10</key>
+	<string>F10</string>
+	<key>keyboard.help.F11</key>
+	<string>F11</string>
+	<key>keyboard.help.F12</key>
+	<string>F12</string>
+	<key>keyboard.help.F2</key>
+	<string>F2</string>
+	<key>keyboard.help.F3</key>
+	<string>F3</string>
+	<key>keyboard.help.F4</key>
+	<string>F4</string>
+	<key>keyboard.help.F5</key>
+	<string>F5</string>
+	<key>keyboard.help.F6</key>
+	<string>F6</string>
+	<key>keyboard.help.F7</key>
+	<string>F7</string>
+	<key>keyboard.help.F8</key>
+	<string>F8</string>
+	<key>keyboard.help.F9</key>
+	<string>F9</string>
+	<key>keyboard.help.backspace</key>
+	<string>Delete</string>
+	<key>keyboard.help.brightnessDown</key>
+	<string>Decrease brightness</string>
+	<key>keyboard.help.brightnessUp</key>
+	<string>Increase brightness</string>
+	<key>keyboard.help.capslock</key>
+	<string>Caps Lock</string>
+	<key>keyboard.help.command</key>
+	<string>Command</string>
+	<key>keyboard.help.control</key>
+	<string>Control</string>
+	<key>keyboard.help.down</key>
+	<string>Down Arrow</string>
+	<key>keyboard.help.eject</key>
+	<string>Eject</string>
+	<key>keyboard.help.end</key>
+	<string>End</string>
+	<key>keyboard.help.escape</key>
+	<string>Escape</string>
+	<key>keyboard.help.fastforward</key>
+	<string>Fast forward</string>
+	<key>keyboard.help.home</key>
+	<string>Home</string>
+	<key>keyboard.help.layout</key>
+	<string>Layout</string>
+	<key>keyboard.help.left</key>
+	<string>Left Arrow</string>
+	<key>keyboard.help.mute</key>
+	<string>Mute</string>
+	<key>keyboard.help.nextTrack</key>
+	<string>Next track</string>
+	<key>keyboard.help.option</key>
+	<string>Option</string>
+	<key>keyboard.help.pagedown</key>
+	<string>Page Down</string>
+	<key>keyboard.help.pageup</key>
+	<string>Page Up</string>
+	<key>keyboard.help.playPause</key>
+	<string>Play / Pause</string>
+	<key>keyboard.help.previousTrack</key>
+	<string>Previous track</string>
+	<key>keyboard.help.record</key>
+	<string>Record</string>
+	<key>keyboard.help.rewind</key>
+	<string>Rewind</string>
+	<key>keyboard.help.right</key>
+	<string>Right Arrow</string>
+	<key>keyboard.help.screensaver</key>
+	<string>Picture Frame</string>
+	<key>keyboard.help.search</key>
+	<string>Search</string>
+	<key>keyboard.help.shift</key>
+	<string>Shift</string>
+	<key>keyboard.help.stop</key>
+	<string>Stop</string>
+	<key>keyboard.help.up</key>
+	<string>Up Arrow</string>
+	<key>keyboard.help.volumeDown</key>
+	<string>Decrease volume</string>
+	<key>keyboard.help.volumeUp</key>
+	<string>Increase volume</string>
+</dict>
+</plist>

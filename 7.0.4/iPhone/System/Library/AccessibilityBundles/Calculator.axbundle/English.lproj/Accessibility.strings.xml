@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2X</key>
+	<string>two to the power of</string>
+	<key>ADD</key>
+	<string>add</string>
+	<key>ALLCLEAR</key>
+	<string>all clear</string>
+	<key>CLEAR</key>
+	<string>clear</string>
+	<key>CLOSE_PAREN</key>
+	<string>)</string>
+	<key>COMMA</key>
+	<string>comma</string>
+	<key>COSH</key>
+	<string>hyperbolic cosine</string>
+	<key>COSINE</key>
+	<string>cosine</string>
+	<key>CUBE</key>
+	<string>cubed</string>
+	<key>CUBEROOT</key>
+	<string>cube root</string>
+	<key>DECIMAL</key>
+	<string>decimal</string>
+	<key>DEGREES</key>
+	<string>degrees</string>
+	<key>DIVIDE</key>
+	<string>divide</string>
+	<key>E.hint</key>
+	<string>Euler's number</string>
+	<key>EE</key>
+	<string>E, E</string>
+	<key>EE.hint</key>
+	<string>Engineering Exponent</string>
+	<key>EQUALS</key>
+	<string>equals</string>
+	<key>EXP</key>
+	<string>exponential</string>
+	<key>EXP10</key>
+	<string>ten to the power of</string>
+	<key>FACTORIAL</key>
+	<string>factorial</string>
+	<key>INVERT</key>
+	<string>plus, minus</string>
+	<key>INV_COSH</key>
+	<string>inverse hyperbolic cosine</string>
+	<key>INV_COSINE</key>
+	<string>inverse cosine</string>
+	<key>INV_SINE</key>
+	<string>inverse sine</string>
+	<key>INV_SINH</key>
+	<string>inverse hyperbolic sine</string>
+	<key>INV_TANGENT</key>
+	<string>inverse tangent</string>
+	<key>INV_TANH</key>
+	<string>inverse hyperbolic tangent</string>
+	<key>LN</key>
+	<string>natural log</string>
+	<key>LOG10</key>
+	<string>log base 10</string>
+	<key>LOG_2</key>
+	<string>log base two</string>
+	<key>MADD</key>
+	<string>memory add</string>
+	<key>MC</key>
+	<string>memory clear</string>
+	<key>MR</key>
+	<string>memory recall</string>
+	<key>MSUB</key>
+	<string>memory subtract</string>
+	<key>MULTIPLY</key>
+	<string>multiply</string>
+	<key>OPEN_PAREN</key>
+	<string>(</string>
+	<key>PERCENT</key>
+	<string>percent</string>
+	<key>PI</key>
+	<string>pi</string>
+	<key>POWER</key>
+	<string>power</string>
+	<key>RAD</key>
+	<string>radians</string>
+	<key>RAND</key>
+	<string>random number</string>
+	<key>RECIPROCAL</key>
+	<string>reciprocal</string>
+	<key>ROOT</key>
+	<string>root</string>
+	<key>SHIFT</key>
+	<string>alternative trigonometry functions</string>
+	<key>SINE</key>
+	<string>sine</string>
+	<key>SINH</key>
+	<string>hyperbolic sine</string>
+	<key>SQRT</key>
+	<string>square root</string>
+	<key>SQUARE</key>
+	<string>squared</string>
+	<key>SUBTRACT</key>
+	<string>subtract</string>
+	<key>TANGENT</key>
+	<string>tangent</string>
+	<key>TANH</key>
+	<string>hyperbolic tangent</string>
+	<key>app.name</key>
+	<string>Calculator</string>
+	<key>basic.mode</key>
+	<string>Basic</string>
+	<key>number.display</key>
+	<string>Result</string>
+	<key>scientific.mode</key>
+	<string>Scientific</string>
+</dict>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Err132000</key>
+	<string>Could not acquire a lock in a managed object context.</string>
+	<key>Err132010</key>
+	<string>Could not acquire a lock in a managed persistent store coordinator.</string>
+	<key>Err133000</key>
+	<string>Attempt to access an object not found in store.</string>
+	<key>Err133010</key>
+	<string>Cannot save objects with references outside of their own stores.</string>
+	<key>Err133020</key>
+	<string>Could not merge changes.</string>
+	<key>Err134000</key>
+	<string>Failed to save. Unknown store type, format, or version.</string>
+	<key>Err134010</key>
+	<string>The store type is inconsistent with the data format.</string>
+	<key>Err134020</key>
+	<string>The model configuration used to open the store is incompatible with the one that was used to create the store.</string>
+	<key>Err134030</key>
+	<string>An error occurred while saving.</string>
+	<key>Err134040</key>
+	<string>Save operation could not be completed.</string>
+	<key>Err134060</key>
+	<string>A Core Data error occurred.</string>
+	<key>Err134070</key>
+	<string>An error occurred in the persistent store.</string>
+	<key>Err134080</key>
+	<string>An error occurred while opening the persistent store.</string>
+	<key>Err134090</key>
+	<string>A timeout error occurred while connecting to the persistent store.</string>
+	<key>Err134100</key>
+	<string>The managed object model version used to open the persistent store is incompatible with the one that was used to create the persistent store.</string>
+	<key>Err134110</key>
+	<string>An error occurred during persistent store migration.</string>
+	<key>Err134120</key>
+	<string>Persistent store migration was cancelled before completion.</string>
+	<key>Err134130</key>
+	<string>Persistent store migration failed, missing source managed object model.</string>
+	<key>Err134140</key>
+	<string>Persistent store migration failed, missing mapping model.</string>
+	<key>Err134150</key>
+	<string>Persistent store migration failed, there was a problem with the source persistent store.</string>
+	<key>Err134160</key>
+	<string>Persistent store migration failed, there was a problem with the destination persistent store.</string>
+	<key>Err134170</key>
+	<string>Persistent store migration failed while processing entity migration policy.</string>
+	<key>Err134180</key>
+	<string>An SQLite error occurred.</string>
+	<key>Err1550</key>
+	<string>%{PROPERTY}@ is not valid.</string>
+	<key>Err1560</key>
+	<string>Multiple validation errors occurred.</string>
+	<key>Err1570</key>
+	<string>%{PROPERTY}@ is a required value.</string>
+	<key>Err1580</key>
+	<string>Too few items in %{PROPERTY}@.</string>
+	<key>Err1590</key>
+	<string>Too many items in %{PROPERTY}@.</string>
+	<key>Err1600</key>
+	<string>Items cannot be deleted from %{PROPERTY}@.</string>
+	<key>Err1610</key>
+	<string>%{PROPERTY}@ is too large.</string>
+	<key>Err1620</key>
+	<string>%{PROPERTY}@ is too small.</string>
+	<key>Err1630</key>
+	<string>%{PROPERTY}@ is too late.</string>
+	<key>Err1640</key>
+	<string>%{PROPERTY}@ is too soon.</string>
+	<key>Err1650</key>
+	<string>%{PROPERTY}@ is invalid.</string>
+	<key>Err1660</key>
+	<string>%{PROPERTY}@ is too long.</string>
+	<key>Err1670</key>
+	<string>%{PROPERTY}@ is too short.</string>
+	<key>Err1680</key>
+	<string>%{PROPERTY}@ is invalid.</string>
+</dict>
+</plist>

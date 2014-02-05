@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AND_WITH_SPACE_BEFORE_NAME_TRUNCATION</key>
+	<string>, and </string>
+	<key>DAY</key>
+	<string>Day</string>
+	<key>DEFAULT</key>
+	<string>Default</string>
+	<key>DETAILS</key>
+	<string>Details</string>
+	<key>HIDE_EVENTS</key>
+	<string>Hide Events</string>
+	<key>LIST</key>
+	<string>List</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>MONTH</key>
+	<string>Month</string>
+	<key>MORE_EVENTS_FORMAT</key>
+	<string>%d more…</string>
+	<key>MORE_EVENTS_FORMAT_WITH_PRE_SPACE</key>
+	<string> %d more… </string>
+	<key>MORE_WITH_ELIPSIS</key>
+	<string>more…</string>
+	<key>MORE_WITH_ELIPSIS_AND_PRE_SPACE</key>
+	<string> more…</string>
+	<key>NO_EVENTS</key>
+	<string>No Events</string>
+	<key>NO_SELECTED_EVENT</key>
+	<string>No selected event</string>
+	<key>SHOW_EVENTS</key>
+	<string>Show Events</string>
+	<key>TODAY</key>
+	<string>Today</string>
+	<key>TODAY_ABBREVIATION</key>
+	<string>Tod.</string>
+	<key>WEEK</key>
+	<string>Week</string>
+	<key>YEAR</key>
+	<string>Year</string>
+</dict>
+</plist>

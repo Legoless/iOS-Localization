@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT</key>
+	<string>Accept</string>
+	<key>AIRPLANE_CANCEL</key>
+	<string>Cancel</string>
+	<key>AIRPLANE_DISABLE</key>
+	<string>Disable</string>
+	<key>AIRPLANE_PROMPT</key>
+	<string>You must disable airplane mode to place a call.</string>
+	<key>ANSWER</key>
+	<string>Answer</string>
+	<key>AUDIO_ROUTE_MUTE</key>
+	<string>Mute</string>
+	<key>AUDIO_ROUTE_UNMUTE</key>
+	<string>Unmute</string>
+	<key>CALL</key>
+	<string>Call</string>
+	<key>CALL_BACK</key>
+	<string>Call Back</string>
+	<key>CALL_BACK_LATER</key>
+	<string>Remind Me</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DECLINE</key>
+	<string>Decline</string>
+	<key>DECLINE_INCOMING_CALL</key>
+	<string>Decline Incoming Call</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>END</key>
+	<string>End</string>
+	<key>ENDHELD</key>
+	<string>End Call on Hold</string>
+	<key>ENDHELD_+_ANSWER</key>
+	<string>Answer &amp; End Held Call</string>
+	<key>END_CURRENT</key>
+	<string>End Current Call</string>
+	<key>END_VIDEO_+_ANSWER</key>
+	<string>End Call + Answer</string>
+	<key>ERROR</key>
+	<string>Error</string>
+	<key>HIDE</key>
+	<string>Hide</string>
+	<key>HOLDCALL_+_ANSWER</key>
+	<string>Answer &amp; Hold Current Call</string>
+	<key>HOLD_CURRENT_CALL</key>
+	<string>Hold Current Call</string>
+	<key>IGNORE</key>
+	<string>Ignore</string>
+	<key>MISMATCH</key>
+	<string>The passcodes you entered did not match.</string>
+	<key>MUTE_BUTTON</key>
+	<string>Mute</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>RELEASE</key>
+	<string>End</string>
+	<key>RELEASE_+_ANSWER</key>
+	<string>Answer &amp; End Current Call</string>
+	<key>SEND_MESSAGE</key>
+	<string>Message</string>
+	<key>SLIDE_TO_ANSWER</key>
+	<string>slide to answer</string>
+	<key>SLIDE_TO_UNLOCK</key>
+	<string>slide to unlock</string>
+	<key>STARK_ADD_CALL_BUTTON</key>
+	<string>Add Call</string>
+	<key>STARK_ANSWER_BUTTON</key>
+	<string>Answer</string>
+	<key>STARK_CALL_BACK_BUTTON</key>
+	<string>Call Back</string>
+	<key>STARK_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>STARK_DECLINE_BUTTON</key>
+	<string>Decline</string>
+	<key>STARK_END_BUTTON</key>
+	<string>End</string>
+	<key>STARK_END_CALL_AND_ANSWER_BUTTON</key>
+	<string>End Call + Answer</string>
+	<key>STARK_HOLD_CALL_AND_ANSWER_BUTTON</key>
+	<string>Hold Call + Answer</string>
+	<key>STARK_IGNORE_BUTTON</key>
+	<string>Ignore</string>
+	<key>STARK_KEYPAD_BUTTON</key>
+	<string>Keypad</string>
+	<key>STARK_MERGE_CALLS_BUTTON</key>
+	<string>Merge</string>
+	<key>STARK_MORE_THAN_TWO_CALLS_FORMAT</key>
+	<string>%@, %@, and others</string>
+	<key>STARK_MUTE_BUTTON</key>
+	<string>Mute</string>
+	<key>STARK_ON_CALL_BUTTON</key>
+	<string>On Call</string>
+	<key>STARK_SPLIT_BUTTON</key>
+	<string>Split</string>
+	<key>STARK_STATUS_CALL_FAILURE</key>
+	<string>Call Failed</string>
+	<key>STARK_STATUS_DISCONNECTED</key>
+	<string>ending…</string>
+	<key>STARK_STATUS_HOLD</key>
+	<string>HOLD</string>
+	<key>STARK_STATUS_SENDING</key>
+	<string>calling…</string>
+	<key>STARK_STATUS_SENDING_FORMAT</key>
+	<string>calling %@…</string>
+	<key>STARK_SWAP_BUTTON</key>
+	<string>Swap</string>
+	<key>STARK_TWO_CALLS_FORMAT</key>
+	<string>%@ &amp; %@</string>
+	<key>STARK_UNKNOWN</key>
+	<string>Unknown</string>
+	<key>STARK_UNMUTE_BUTTON</key>
+	<string>Unmute</string>
+	<key>TTY</key>
+	<string>TTY</string>
+	<key>VOICE</key>
+	<string>Voice</string>
+	<key>VOICEMAIL</key>
+	<string>Voicemail</string>
+</dict>
+</plist>

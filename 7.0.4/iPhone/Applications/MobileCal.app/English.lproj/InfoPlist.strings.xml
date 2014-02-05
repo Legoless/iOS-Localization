@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Calendar</string>
+	<key>CFBundleName</key>
+	<string>MobileCal</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2005-2009 Apple Inc.</string>
+	<key>UISettingsDisplayName</key>
+	<string>Calendar</string>
+</dict>
+</plist>

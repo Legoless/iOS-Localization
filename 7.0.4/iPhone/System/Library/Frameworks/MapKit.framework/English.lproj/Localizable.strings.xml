@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%1$@°%2$@'%3$@'' %4$@</key>
+	<string>%1$@°%2$@'%3$@'' %4$@</string>
+	<key>%@ Routes</key>
+	<string>%@ Routes</string>
+	<key>%@ at %@</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [CHANGING FREEWAY - take exit at junction]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [keep left/right at intersection]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [take exit at junction]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ [turn at intersection]</key>
+	<string>%@ at %@</string>
+	<key>%@ at %@ on %@ [keep left/right at intersection onto roadname]</key>
+	<string>%@ at %@ on %@</string>
+	<key>%@ at %@ onto %@ [CHANGING FREEWAY - take exit at junction onto freeway]</key>
+	<string>%@ at %@ onto %@</string>
+	<key>%@ at %@ onto %@ [take exit at junction onto roadname]</key>
+	<string>%@ at %@ onto %@</string>
+	<key>%@ at %@ onto %@ [turn at intersection onto roadname]</key>
+	<string>%@ at %@ onto %@</string>
+	<key>%@ at %@ to merge onto %@ [keep left/right at intersection onto freeway]</key>
+	<string>%@ at %@ to merge onto %@</string>
+	<key>%@ at %@ to merge onto %@ [take exit at junction onto freeway]</key>
+	<string>%@ at %@ to merge onto %@</string>
+	<key>%@ at %@ to merge onto %@ [turn at intersection onto freeway]</key>
+	<string>%@ at %@ to merge onto %@</string>
+	<key>%@ feet trip</key>
+	<string>%@ feet trip</string>
+	<key>%@ ft trip</key>
+	<string>%@ ft trip</string>
+	<key>%@ kilometers trip</key>
+	<string>%@ kilometers trip</string>
+	<key>%@ km</key>
+	<string>%@ km</string>
+	<key>%@ km trip</key>
+	<string>%@ km trip</string>
+	<key>%@ m trip</key>
+	<string>%@ m trip</string>
+	<key>%@ meters trip</key>
+	<string>%@ meters trip</string>
+	<key>%@ mi</key>
+	<string>%@ mi</string>
+	<key>%@ mile trip</key>
+	<string>%@ mile trip</string>
+	<key>%@ miles</key>
+	<string>%@ miles</string>
+	<key>%@ on %@ [keep left/right on roadname]</key>
+	<string>%@ on %@</string>
+	<key>%@ onto %@ [CHANGING FREEWAY - take exit onto freeway]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@ [take exit onto roadname]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@ [turn onto roadname]</key>
+	<string>%@ onto %@</string>
+	<key>%@ onto %@, %@ [take exit onto roadnames]</key>
+	<string>%@ onto %@, %@</string>
+	<key>%@ reviews</key>
+	<string>%@ reviews</string>
+	<key>%@ reviews on %@</key>
+	<string>%@ reviews on %@</string>
+	<key>%@ to merge onto %@ [keep left/right on freeway]</key>
+	<string>%@ to merge onto %@</string>
+	<key>%@ to merge onto %@ [take exit onto freeway]</key>
+	<string>%@ to merge onto %@</string>
+	<key>%@ to merge onto %@ [turn onto freeway]</key>
+	<string>%@ to merge onto %@</string>
+	<key>%@ yards trip</key>
+	<string>%@ yards trip</string>
+	<key>%@ yds trip</key>
+	<string>%@ yds trip</string>
+	<key>%@, %@</key>
+	<string>%@, %@</string>
+	<key>%d feet</key>
+	<string>%d feet</string>
+	<key>%d ft</key>
+	<string>%d ft</string>
+	<key>%d kilometers</key>
+	<string>%d kilometers</string>
+	<key>%d km</key>
+	<string>%d km</string>
+	<key>%d m</key>
+	<string>%d m</string>
+	<key>%d meters</key>
+	<string>%d meters</string>
+	<key>%d mi</key>
+	<string>%d mi</string>
+	<key>%d miles</key>
+	<string>%d miles</string>
+	<key>%d yards</key>
+	<string>%d yards</string>
+	<key>%d yd</key>
+	<string>%d yd</string>
+	<key>, </key>
+	<string>, </string>
+	<key>1 kilometer</key>
+	<string>1 kilometer</string>
+	<key>1 km</key>
+	<string>1 km</string>
+	<key>1 m</key>
+	<string>1 m</string>
+	<key>1 meter</key>
+	<string>1 meter</string>
+	<key>1 mi</key>
+	<string>1 mi</string>
+	<key>1 mile</key>
+	<string>1 mile</string>
+	<key>1 review</key>
+	<string>1 review</string>
+	<key>1 review on %@</key>
+	<string>1 review on %@</string>
+	<key>1/2 mile</key>
+	<string>1/2 mile</string>
+	<key>1/4 mile</key>
+	<string>1/4 mile</string>
+	<key>3/4 mile</key>
+	<string>3/4 mile</string>
+	<key>A route cannot be determined from this start location.</key>
+	<string>A route cannot be determined from this start location.</string>
+	<key>A route cannot be determined to this destination.</key>
+	<string>A route cannot be determined to this destination.</string>
+	<key>A route could not be determined between these locations.</key>
+	<string>A route could not be determined between these locations.</string>
+	<key>A route is currently not available due to road conditions.</key>
+	<string>A route is currently not available due to road conditions.</string>
+	<key>A route to the destination from its nearest road cannot be determined</key>
+	<string>A route to the destination from its nearest road cannot be determined</string>
+	<key>A route to the nearest road cannot be determined.</key>
+	<string>A route to the nearest road cannot be determined.</string>
+	<key>A walking route cannot be determined for this distance.</key>
+	<string>A walking route cannot be determined for this distance.</string>
+	<key>A walking route cannot be determined. Walking is not allowed at the destination.</key>
+	<string>A walking route cannot be determined. Walking is not allowed at the destination.</string>
+	<key>A walking route cannot be determined. Walking is not allowed at the start location.</key>
+	<string>A walking route cannot be determined. Walking is not allowed at the start location.</string>
+	<key>Accident</key>
+	<string>Accident</string>
+	<key>Address Book separator</key>
+	<string>, </string>
+	<key>Annotation</key>
+	<string>Annotation</string>
+	<key>Arrive at %@</key>
+	<string>Arrive at %@</string>
+	<key>Arrive at the destination</key>
+	<string>Arrive at the destination</string>
+	<key>Arrive near %@</key>
+	<string>Arrive near %@</string>
+	<key>Arrive near the destination</key>
+	<string>Arrive near the destination</string>
+	<key>At the end of the road, turn left</key>
+	<string>At the end of the road, turn left</string>
+	<key>At the end of the road, turn left [part of sentence]</key>
+	<string>At the end of the road, turn left</string>
+	<key>At the end of the road, turn right</key>
+	<string>At the end of the road, turn right</string>
+	<key>At the end of the road, turn right [part of sentence]</key>
+	<string>At the end of the road, turn right</string>
+	<key>At the roundabout, continue ahead [WALKING]</key>
+	<string>At the roundabout, continue ahead</string>
+	<key>At the roundabout, continue onto %@ [WALKING]</key>
+	<string>At the roundabout, continue onto %@</string>
+	<key>At the roundabout, take a left [WALKING]</key>
+	<string>At the roundabout, take a left</string>
+	<key>At the roundabout, take a left on %@ [WALKING]</key>
+	<string>At the roundabout, take a left on %@</string>
+	<key>At the roundabout, take a right [WALKING]</key>
+	<string>At the roundabout, take a right</string>
+	<key>At the roundabout, take a right on %@ [WALKING]</key>
+	<string>At the roundabout, take a right on %@</string>
+	<key>At the roundabout, take the %@</key>
+	<string>At the roundabout, take the %@</string>
+	<key>At the roundabout, take the %@ at %@</key>
+	<string>At the roundabout, take the %@ at %@</string>
+	<key>At the roundabout, take the %@ at %@ onto %@</key>
+	<string>At the roundabout, take the %@ at %@ onto %@</string>
+	<key>At the roundabout, take the %@ at %@ to merge onto %@</key>
+	<string>At the roundabout, take the %@ at %@ to merge onto %@</string>
+	<key>At the roundabout, take the %@ onto %@</key>
+	<string>At the roundabout, take the %@ onto %@</string>
+	<key>At the roundabout, take the %@ to merge onto %@</key>
+	<string>At the roundabout, take the %@ to merge onto %@</string>
+	<key>Bus Lane Closed</key>
+	<string>Bus Lane Closed</string>
+	<key>Bus Lanes Closed</key>
+	<string>Bus Lanes Closed</string>
+	<key>Cannot Show Your Location</key>
+	<string>Cannot Show Your Location</string>
+	<key>Cannot locate the end location.</key>
+	<string>Cannot locate the end location.</string>
+	<key>Cannot locate the start location.</key>
+	<string>Cannot locate the start location.</string>
+	<key>Carpool Lane Closed</key>
+	<string>Carpool Lane Closed</string>
+	<key>Carpool Lanes Closed</key>
+	<string>Carpool Lanes Closed</string>
+	<key>Center Lane Closed</key>
+	<string>Center Lane Closed</string>
+	<key>Center Lanes Closed</key>
+	<string>Center Lanes Closed</string>
+	<key>Change ferries</key>
+	<string>Change ferries</string>
+	<key>Change to the "%@" ferry</key>
+	<string>Change to the “%@” ferry</string>
+	<key>Combine maneuver and signposts</key>
+	<string>%@ %@</string>
+	<key>Continue</key>
+	<string>Continue</string>
+	<key>Continue [CHANGING FREEWAY]</key>
+	<string>Continue</string>
+	<key>Continue ahead [WALKING]</key>
+	<string>Continue ahead</string>
+	<key>Continue along this road</key>
+	<string>Continue along this road</string>
+	<key>Continue at %@</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ [CHANGING FREEWAY]</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ [WALKING]</key>
+	<string>Continue at %@</string>
+	<key>Continue at %@ onto %@</key>
+	<string>Continue at %@ onto %@</string>
+	<key>Continue at %@ onto %@ [CHANGING FREEWAY]</key>
+	<string>Continue at %@ onto %@</string>
+	<key>Continue at %@ onto %@ [WALKING]</key>
+	<string>Continue at %@ onto %@</string>
+	<key>Continue at %@ to merge onto %@</key>
+	<string>Continue at %@ to merge onto %@</string>
+	<key>Continue onto %@</key>
+	<string>Continue onto %@</string>
+	<key>Continue onto %@ [CHANGING FREEWAY]</key>
+	<string>Continue onto %@</string>
+	<key>Continue onto %@ [WALKING]</key>
+	<string>Continue onto %@</string>
+	<key>Couldn't convert to distance</key>
+	<string>Couldn't convert to distance</string>
+	<key>Cross the street and turn around [WALKING]</key>
+	<string>Cross the street and turn around</string>
+	<key>Cross the street and turn around at %@ [WALKING]</key>
+	<string>Cross the street and turn around at %@</string>
+	<key>Cross the street and turn around at the roundabout [WALKING]</key>
+	<string>Cross the street and turn around at the roundabout</string>
+	<key>Current Location</key>
+	<string>Current Location</string>
+	<key>Data from %@, others %@</key>
+	<string>Data from %@, others %@</string>
+	<key>Data from others %@</key>
+	<string>Data from others %@</string>
+	<key>Directions Not Available</key>
+	<string>Directions Not Available</string>
+	<key>Directions are not available.</key>
+	<string>Directions are not available.</string>
+	<key>Dropped Pin</key>
+	<string>Dropped Pin</string>
+	<key>E</key>
+	<string>E</string>
+	<key>Enter the roundabout</key>
+	<string>Enter the roundabout</string>
+	<key>Enter the roundabout [WALKING]</key>
+	<string>Enter the roundabout</string>
+	<key>Enter the roundabout at %@</key>
+	<string>Enter the roundabout at %@</string>
+	<key>Enter the roundabout at %@ [WALKING]</key>
+	<string>Enter the roundabout at %@</string>
+	<key>Enter the roundabout, %@</key>
+	<string>Enter the roundabout, %@</string>
+	<key>Enter the roundabout, %@ [WALKING]</key>
+	<string>Enter the roundabout, %@</string>
+	<key>Event</key>
+	<string>Event</string>
+	<key>Exit left [LEAVING FREEWAY - part of sentence]</key>
+	<string>Exit left</string>
+	<key>Exit left [LEAVING FREEWAY]</key>
+	<string>Exit left</string>
+	<key>Exit right [LEAVING FREEWAY - part of sentence]</key>
+	<string>Exit right</string>
+	<key>Exit right [LEAVING FREEWAY]</key>
+	<string>Exit right</string>
+	<key>Exit roundabout at %@</key>
+	<string>Exit roundabout at %@</string>
+	<key>Exit roundabout at %@ onto %@</key>
+	<string>Exit roundabout at %@ onto %@</string>
+	<key>Exit roundabout at %@ to merge onto %@</key>
+	<string>Exit roundabout at %@ to merge onto %@</string>
+	<key>Exit roundabout onto %@</key>
+	<string>Exit roundabout onto %@</string>
+	<key>Exit roundabout to merge onto %@</key>
+	<string>Exit roundabout to merge onto %@</string>
+	<key>Exit the roundabout</key>
+	<string>Exit the roundabout</string>
+	<key>Exit the roundabout [WALKING]</key>
+	<string>Exit the roundabout</string>
+	<key>Exit the roundabout at %@ [WALKING]</key>
+	<string>Exit the roundabout at %@</string>
+	<key>Exit the roundabout at %@ onto %@ [WALKING]</key>
+	<string>Exit the roundabout at %@ onto %@</string>
+	<key>Exit the roundabout onto %@ [WALKING]</key>
+	<string>Exit the roundabout onto %@</string>
+	<key>Hazard</key>
+	<string>Hazard</string>
+	<key>Incident</key>
+	<string>Incident</string>
+	<key>Keep left</key>
+	<string>Keep left</string>
+	<key>Keep left [CHANGING FREEWAY]</key>
+	<string>Keep left</string>
+	<key>Keep left [part of sentence]</key>
+	<string>Keep left</string>
+	<key>Keep left at %@ [CHANGING FREEWAY]</key>
+	<string>Keep left at %@</string>
+	<key>Keep left at %@ on %@ [CHANGING FREEWAY]</key>
+	<string>Keep left at %@ on %@</string>
+	<key>Keep left on %@ [CHANGING FREEWAY]</key>
+	<string>Keep left on %@</string>
+	<key>Keep right</key>
+	<string>Keep right</string>
+	<key>Keep right [CHANGING FREEWAY]</key>
+	<string>Keep right</string>
+	<key>Keep right [part of sentence]</key>
+	<string>Keep right</string>
+	<key>Keep right at %@ [CHANGING FREEWAY]</key>
+	<string>Keep right at %@</string>
+	<key>Keep right at %@ on %@ [CHANGING FREEWAY]</key>
+	<string>Keep right at %@ on %@</string>
+	<key>Keep right on %@ [CHANGING FREEWAY]</key>
+	<string>Keep right on %@</string>
+	<key>Lane Closed</key>
+	<string>Lane Closed</string>
+	<key>Lanes Closed</key>
+	<string>Lanes Closed</string>
+	<key>Left Lane Closed</key>
+	<string>Left Lane Closed</string>
+	<key>Left Lanes Closed</key>
+	<string>Left Lanes Closed</string>
+	<key>Legal</key>
+	<string>Legal</string>
+	<key>Make a u-turn</key>
+	<string>Make a u-turn</string>
+	<key>Make a u-turn and proceed to %@</key>
+	<string>Make a u-turn and proceed to %@</string>
+	<key>Make a u-turn and proceed to the route</key>
+	<string>Make a u-turn and proceed to the route</string>
+	<key>Make a u-turn at %@</key>
+	<string>Make a u-turn at %@</string>
+	<key>Make a u-turn when possible</key>
+	<string>Make a u-turn when possible</string>
+	<key>Merge onto %@</key>
+	<string>Merge onto %@</string>
+	<key>N</key>
+	<string>N</string>
+	<key>No reviews</key>
+	<string>No reviews</string>
+	<key>No reviews on %@</key>
+	<string>No reviews on %@</string>
+	<key>Pin annotation</key>
+	<string>Pin annotation</string>
+	<key>Prepare to park your car</key>
+	<string>Prepare to park your car</string>
+	<key>Prepare to park your car near %@</key>
+	<string>Prepare to park your car near %@</string>
+	<key>Proceed to %@</key>
+	<string>Proceed to %@</string>
+	<key>Proceed to %@ [WALKING]</key>
+	<string>Proceed to %@</string>
+	<key>Ramp Closed</key>
+	<string>Ramp Closed</string>
+	<key>Right Lane Closed</key>
+	<string>Right Lane Closed</string>
+	<key>Right Lanes Closed</key>
+	<string>Right Lanes Closed</string>
+	<key>Road Closed</key>
+	<string>Road Closed</string>
+	<key>Roadwork</key>
+	<string>Roadwork</string>
+	<key>Route %@</key>
+	<string>Route %@</string>
+	<key>Route information is not available at this moment.</key>
+	<string>Route information is not available at this moment.</string>
+	<key>Route information is not available at this moment. An internet connection is required.</key>
+	<string>Route information is not available at this moment. An internet connection is required.</string>
+	<key>S</key>
+	<string>S</string>
+	<key>Scale distance feet</key>
+	<string>ft</string>
+	<key>Scale distance kilometers</key>
+	<string>km</string>
+	<key>Scale distance meters</key>
+	<string>m</string>
+	<key>Scale distance miles</key>
+	<string>mi</string>
+	<key>Scale distance yards</key>
+	<string>yd</string>
+	<key>Select</key>
+	<string>Select</string>
+	<key>Shoulder Lane Closed</key>
+	<string>Shoulder Lane Closed</string>
+	<key>Shoulder Lanes Closed</key>
+	<string>Shoulder Lanes Closed</string>
+	<key>Start on the route</key>
+	<string>Start on the route</string>
+	<key>Start on the route [WALKING]</key>
+	<string>Start on the route</string>
+	<key>Step %d of %d</key>
+	<string>Step %d of %d</string>
+	<key>Take a left [WALKING - turn no roadname]</key>
+	<string>Take a left</string>
+	<key>Take a left at %@ [WALKING - turn at intersection]</key>
+	<string>Take a left at %@</string>
+	<key>Take a left at %@ onto %@ [WALKING - turn at intersection onto roadname]</key>
+	<string>Take a left at %@ onto %@</string>
+	<key>Take a left on %@ [WALKING - turn onto roadname]</key>
+	<string>Take a left on %@</string>
+	<key>Take a right [WALKING - turn no roadname]</key>
+	<string>Take a right</string>
+	<key>Take a right at %@ [WALKING - turn at intersection]</key>
+	<string>Take a right at %@</string>
+	<key>Take a right at %@ onto %@ [WALKING - turn at intersection onto roadname]</key>
+	<string>Take a right at %@ onto %@</string>
+	<key>Take a right on %@ [WALKING - turn onto roadname]</key>
+	<string>Take a right on %@</string>
+	<key>Take a sharp left turn</key>
+	<string>Take a sharp left turn</string>
+	<key>Take a sharp left turn [part of sentence]</key>
+	<string>Take a sharp left turn</string>
+	<key>Take a sharp right turn</key>
+	<string>Take a sharp right turn</string>
+	<key>Take a sharp right turn [part of sentence]</key>
+	<string>Take a sharp right turn</string>
+	<key>Take a slight left turn</key>
+	<string>Take a slight left turn</string>
+	<key>Take a slight left turn [part of sentence]</key>
+	<string>Take a slight left turn</string>
+	<key>Take a slight right turn</key>
+	<string>Take a slight right turn</string>
+	<key>Take a slight right turn [part of sentence]</key>
+	<string>Take a slight right turn</string>
+	<key>Take exit 'exitnumber' [CHANGING FREEWAY - part of sentence]</key>
+	<string>Take exit %@</string>
+	<key>Take exit 'exitnumber' [CHANGING FREEWAY]</key>
+	<string>Take exit %@</string>
+	<key>Take exit 'exitnumber' [LEAVING FREEWAY - part of sentence]</key>
+	<string>Take exit %@</string>
+	<key>Take exit 'exitnumber' [LEAVING FREEWAY]</key>
+	<string>Take exit %@</string>
+	<key>Take exit 'exitnumber' on the left [CHANGING FREEWAY - part of sentence]</key>
+	<string>Take exit %@ on the left</string>
+	<key>Take exit 'exitnumber' on the left [CHANGING FREEWAY]</key>
+	<string>Take exit %@ on the left</string>
+	<key>Take exit 'exitnumber' on the left [LEAVING FREEWAY - part of sentence]</key>
+	<string>Take exit %@ on the left</string>
+	<key>Take exit 'exitnumber' on the left [LEAVING FREEWAY]</key>
+	<string>Take exit %@ on the left</string>
+	<key>Take exit 'exitnumber' on the right [CHANGING FREEWAY - part of sentence]</key>
+	<string>Take exit %@ on the right</string>
+	<key>Take exit 'exitnumber' on the right [CHANGING FREEWAY]</key>
+	<string>Take exit %@ on the right</string>
+	<key>Take exit 'exitnumber' on the right [LEAVING FREEWAY - part of sentence]</key>
+	<string>Take exit %@ on the right</string>
+	<key>Take exit 'exitnumber' on the right [LEAVING FREEWAY]</key>
+	<string>Take exit %@ on the right</string>
+	<key>Take exit [LEAVING FREEWAY - part of sentence]</key>
+	<string>Take exit</string>
+	<key>Take exit [LEAVING FREEWAY]</key>
+	<string>Take exit</string>
+	<key>Take the "%@" ferry</key>
+	<string>Take the “%@” ferry</string>
+	<key>Take the ferry</key>
+	<string>Take the ferry</string>
+	<key>The destination is on your left</key>
+	<string>The destination is on your left</string>
+	<key>The destination is on your left: %@</key>
+	<string>The destination is on your left: %@</string>
+	<key>The destination is on your right</key>
+	<string>The destination is on your right</string>
+	<key>The destination is on your right: %@</key>
+	<string>The destination is on your right: %@</string>
+	<key>This Mac is unable to provide user location.</key>
+	<string>This Mac is unable to provide user location.</string>
+	<key>Turn On Location Services to Allow %@ to Determine Your Location</key>
+	<string>Turn On Location Services to Allow %@ to Determine Your Location</string>
+	<key>Turn around and proceed to %@ [WALKING]</key>
+	<string>Turn around and proceed to %@</string>
+	<key>Turn around and proceed to the route [WALKING]</key>
+	<string>Turn around and proceed to the route</string>
+	<key>Turn around when possible [WALKING]</key>
+	<string>Turn around when possible</string>
+	<key>Turn left</key>
+	<string>Turn left</string>
+	<key>Turn left [part of sentence]</key>
+	<string>Turn left</string>
+	<key>Turn off airplane mode or use WLAN to show your location on the map.</key>
+	<string>Turn off airplane mode or use WLAN to show your location on the map.</string>
+	<key>Turn off airplane mode or use Wi-Fi to show your location on the map.</key>
+	<string>Turn off airplane mode or use Wi-Fi to show your location on the map.</string>
+	<key>Turn off airplane mode to show your location on the map.</key>
+	<string>Turn off airplane mode to show your location on the map.</string>
+	<key>Turn on Wi-Fi to show your location on the map.</key>
+	<string>Turn on Wi-Fi to show your location on the map.</string>
+	<key>Turn right</key>
+	<string>Turn right</string>
+	<key>Turn right [part of sentence]</key>
+	<string>Turn right</string>
+	<key>Unknown Location</key>
+	<string>Unknown Location</string>
+	<key>Use the roundabout to make a u-turn</key>
+	<string>Use the roundabout to make a u-turn</string>
+	<key>W</key>
+	<string>W</string>
+	<key>Walking Directions Not Available</key>
+	<string>Walking Directions Not Available</string>
+	<key>Walking directions are not available.</key>
+	<string>Walking directions are not available.</string>
+	<key>You need a Mac with Wi-Fi support to show your location on the map.</key>
+	<string>You need a Mac with Wi-Fi support to show your location on the map.</string>
+	<key>directions distance feet</key>
+	<string>%@ ft</string>
+	<key>directions distance feet [SPOKEN]</key>
+	<string>%@ feet</string>
+	<key>directions distance km</key>
+	<string>%@ km</string>
+	<key>directions distance km [SPOKEN]</key>
+	<string>%@ kilometers</string>
+	<key>directions distance m</key>
+	<string>%@ m</string>
+	<key>directions distance m [SPOKEN]</key>
+	<string>%@ meters</string>
+	<key>directions distance mile</key>
+	<string>%@ mile</string>
+	<key>directions distance mile [SPOKEN]</key>
+	<string>%@ mile</string>
+	<key>directions distance miles</key>
+	<string>%@ miles</string>
+	<key>directions distance miles [SPOKEN]</key>
+	<string>%@ miles</string>
+	<key>directions distance yards</key>
+	<string>%@ yds</string>
+	<key>directions distance yards [SPOKEN]</key>
+	<string>%@ yards</string>
+	<key>distance parsing: feet</key>
+	<string>feet</string>
+	<key>distance parsing: feet(s)</key>
+	<string>feet</string>
+	<key>distance parsing: ft</key>
+	<string>ft</string>
+	<key>distance parsing: ft(s)</key>
+	<string>ft</string>
+	<key>distance parsing: kilometer</key>
+	<string>kilometer</string>
+	<key>distance parsing: kilometers</key>
+	<string>kilometers</string>
+	<key>distance parsing: km</key>
+	<string>km</string>
+	<key>distance parsing: km(s)</key>
+	<string>km</string>
+	<key>distance parsing: m</key>
+	<string>m</string>
+	<key>distance parsing: m(s)</key>
+	<string>m</string>
+	<key>distance parsing: meter</key>
+	<string>meter</string>
+	<key>distance parsing: meters</key>
+	<string>meters</string>
+	<key>distance parsing: mi</key>
+	<string>mi</string>
+	<key>distance parsing: mi(s)</key>
+	<string>mi</string>
+	<key>distance parsing: mile</key>
+	<string>mile</string>
+	<key>distance parsing: miles</key>
+	<string>miles</string>
+	<key>distance parsing: yard</key>
+	<string>yard</string>
+	<key>distance parsing: yards</key>
+	<string>yards</string>
+	<key>distance parsing: yd</key>
+	<string>yd</string>
+	<key>distance parsing: yd(s)</key>
+	<string>yd</string>
+	<key>eighteenth exit</key>
+	<string>eighteenth exit</string>
+	<key>eighth exit</key>
+	<string>eighth exit</string>
+	<key>eleventh exit</key>
+	<string>eleventh exit</string>
+	<key>fifteenth exit</key>
+	<string>fifteenth exit</string>
+	<key>fifth exit</key>
+	<string>fifth exit</string>
+	<key>first exit</key>
+	<string>first exit</string>
+	<key>fourteenth exit</key>
+	<string>fourteenth exit</string>
+	<key>fourth exit</key>
+	<string>fourth exit</string>
+	<key>nineteenth exit</key>
+	<string>nineteenth exit</string>
+	<key>ninth exit</key>
+	<string>ninth exit</string>
+	<key>second exit</key>
+	<string>second exit</string>
+	<key>seventeenth exit</key>
+	<string>seventeenth exit</string>
+	<key>seventh exit</key>
+	<string>seventh exit</string>
+	<key>sixteenth exit</key>
+	<string>sixteenth exit</string>
+	<key>sixth exit</key>
+	<string>sixth exit</string>
+	<key>tenth exit</key>
+	<string>tenth exit</string>
+	<key>third exit</key>
+	<string>third exit</string>
+	<key>thirteenth exit</key>
+	<string>thirteenth exit</string>
+	<key>toward %@</key>
+	<string>toward %@</string>
+	<key>toward %@, %@</key>
+	<string>toward %@, %@</string>
+	<key>twelfth exit</key>
+	<string>twelfth exit</string>
+</dict>
+</plist>

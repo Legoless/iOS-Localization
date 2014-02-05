@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCESSIBILITY</key>
+	<string>Accessibility</string>
+	<key>About</key>
+	<string>About</string>
+	<key>INTERNATIONAL</key>
+	<string>International</string>
+	<key>Keyboard</key>
+	<string>Keyboard</string>
+	<key>PROFILES</key>
+	<string>Profiles</string>
+	<key>TEXT_SIZE</key>
+	<string>Text Size</string>
+</dict>
+</plist>

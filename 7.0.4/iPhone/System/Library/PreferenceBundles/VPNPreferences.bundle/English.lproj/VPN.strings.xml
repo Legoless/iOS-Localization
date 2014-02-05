@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_NAME</key>
+	<string>Account</string>
+	<key>ADD_VPN</key>
+	<string>Add Configuration</string>
+	<key>ADD_VPN_ABBREVIATED</key>
+	<string>Add Configuration</string>
+	<key>AUTO</key>
+	<string>Auto</string>
+	<key>Auto</key>
+	<string>Auto</string>
+	<key>CERTIFICATE_BASED</key>
+	<string>Use Certificate</string>
+	<key>CERTIFICATE_LIST</key>
+	<string>Certificate</string>
+	<key>DELETE_VPN</key>
+	<string>Delete VPN</string>
+	<key>DELETE_VPN?</key>
+	<string>Delete VPN?</string>
+	<key>DELETE_VPN_CONFIRMATION</key>
+	<string>Delete</string>
+	<key>DISPLAY_NAME</key>
+	<string>Description</string>
+	<key>EAP_RSA</key>
+	<string>RSA SecurID</string>
+	<key>ENCRYPTION_LEVEL</key>
+	<string>Encryption Level</string>
+	<key>ENCRYPTION_LEVEL_ABBREVIATED</key>
+	<string>Encryption Level</string>
+	<key>GROUP_NAME</key>
+	<string>Group Name</string>
+	<key>MAXIMUM</key>
+	<string>Maximum</string>
+	<key>Manual</key>
+	<string>Manual</string>
+	<key>NONE</key>
+	<string>None</string>
+	<key>ON_DEMAND</key>
+	<string>Connect On Demand</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PASS_HINT</key>
+	<string>Ask Every Time</string>
+	<key>PROXY_AUTHENTICATION</key>
+	<string>Authentication</string>
+	<key>PROXY_LABEL</key>
+	<string>Proxy</string>
+	<key>PROXY_PASSWORD</key>
+	<string>Password</string>
+	<key>PROXY_PORT</key>
+	<string>Port</string>
+	<key>PROXY_SERVER</key>
+	<string>Server</string>
+	<key>PROXY_TYPE</key>
+	<string>Type</string>
+	<key>PROXY_URL</key>
+	<string>URL</string>
+	<key>PROXY_USERNAME</key>
+	<string>Username</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>SEND_ALL_TRAFFIC</key>
+	<string>Send All Traffic</string>
+	<key>SERVER</key>
+	<string>Server</string>
+	<key>SHARED_SECRET</key>
+	<string>Secret</string>
+	<key>VPN</key>
+	<string>VPN</string>
+</dict>
+</plist>

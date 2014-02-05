@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>No Mail Account</key>
+	<string>No Mail Account</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Unable to send iAd ID and Listener ID by email, no mail account is configured.</key>
+	<string>Unable to send iAd ID and Listener ID by email, no mail account is configured.</string>
+	<key>iAd ID and Listener ID</key>
+	<string>iAd ID and Listener ID</string>
+	<key>iAd ID: %@
+Listener ID: %@</key>
+	<string>iAd ID: %1$@
+Listener ID: %2$@</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2008-2010 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink</key>
+	<string>Optelec EasyLink</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink.12</key>
+	<string>Optelec EasyLink 12</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink.65537</key>
+	<string>Left</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink.65793</key>
+	<string>Joystick Action</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink.66049</key>
+	<string>Joystick Left</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink.66305</key>
+	<string>Joystick Up</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink.66561</key>
+	<string>Joystick Down</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink.66817</key>
+	<string>Joystick Right</string>
+	<key>com.apple.scrod.braille.driver.optelec.easylink.67329</key>
+	<string>Right</string>
+</dict>
+</plist>

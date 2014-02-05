@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALBUMS</key>
+	<string>Albums</string>
+	<key>ALL_ALBUMS</key>
+	<string>All Albums</string>
+	<key>ALL_SONGS</key>
+	<string>All Songs</string>
+	<key>APP_LAUNCH_HEADER_DISCONNECTED</key>
+	<string>The “%s” accessory disconnected. Open “%@” to reconnect.</string>
+	<key>APP_LAUNCH_HEADER_GENERAL</key>
+	<string>The “%s” accessory would like to open “%@”</string>
+	<key>ARTISTS</key>
+	<string>Artists</string>
+	<key>AUDIOBOOKS</key>
+	<string>Audiobooks</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CLOSE</key>
+	<string>Close</string>
+	<key>COMPILATIONS</key>
+	<string>Compilations</string>
+	<key>COMPOSERS</key>
+	<string>Composers</string>
+	<key>GENIUS</key>
+	<string>Genius</string>
+	<key>GENRES</key>
+	<string>Genres</string>
+	<key>INCOMING_CALL</key>
+	<string>Incoming Call</string>
+	<key>ITUNES_U</key>
+	<string>iTunes U</string>
+	<key>JUST_WORKS_MESSAGE</key>
+	<string>“%s” would like to pair with your %@.</string>
+	<key>LE_POWER_OFF_HEADER</key>
+	<string>Turn On Bluetooth to Allow “%@” to Connect to Accessories</string>
+	<key>MISSED_CALL</key>
+	<string>Missed Call</string>
+	<key>MY_NUMBER</key>
+	<string>My Number</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PAIR</key>
+	<string>Pair</string>
+	<key>PAIRING_TITLE</key>
+	<string>Bluetooth Pairing Request</string>
+	<key>PASSKEY_DISPLAY_MESSAGE</key>
+	<string>“%s” would like to pair with your %@. Enter the code “%06u” on “%s”.</string>
+	<key>PASSKEY_ENTRY_MESSAGE</key>
+	<string>“%s” would like to pair with your %@. Enter the code shown on “%s”.</string>
+	<key>PLAYLISTS</key>
+	<string>Playlists</string>
+	<key>PODCASTS</key>
+	<string>Podcasts</string>
+	<key>RADIO</key>
+	<string>Radio</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SONGS</key>
+	<string>Songs</string>
+	<key>UNKNOWN_ALBUM</key>
+	<string>Unknown Album</string>
+	<key>UNKNOWN_ARTIST</key>
+	<string>Unknown Artist</string>
+	<key>UNKNOWN_MEDIA_PLAYER</key>
+	<string>Unknown Media Player</string>
+	<key>UNPLAYED_EPISODES</key>
+	<string>Unplayed Episodes</string>
+	<key>VIEW</key>
+	<string>View</string>
+	<key>VOICEMAIL</key>
+	<string>Voicemail</string>
+</dict>
+</plist>

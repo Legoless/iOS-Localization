@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CLASSIC_TONES_NAME</key>
+	<string>Classic</string>
+	<key>ONE_SECOND</key>
+	<string>1 second</string>
+	<key>RINGTONE_PICKER_CHOOSE_MEDIA</key>
+	<string>Pick a song</string>
+	<key>RINGTONE_PICKER_DEFAULT</key>
+	<string>Default</string>
+	<key>RINGTONE_PICKER_DEFAULT_RINGTONE_NAME</key>
+	<string>Opening</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_CUSTOM</key>
+	<string>Custom</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_DEFAULT</key>
+	<string>Default</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_MEDIA</key>
+	<string>Songs</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_NEW</key>
+	<string>New</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_ORIGINAL</key>
+	<string>Original</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_PURCHASED</key>
+	<string>Purchased</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_RINGTONES</key>
+	<string>Ringtones</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_STANDARD</key>
+	<string>Standard</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_TONES</key>
+	<string>Alert Tones</string>
+	<key>RINGTONE_PICKER_NONE</key>
+	<string>None</string>
+	<key>RINGTONE_PICKER_RINGTONES_STORE</key>
+	<string>Buy More Tones</string>
+	<key>RINGTONE_PICKER_STORE_BUTTON_TITLE</key>
+	<string>Store</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SECONDS_PLURAL_FORMAT</key>
+	<string>%@ seconds</string>
+	<key>VIBRATION_NAME_TEXT_FIELD_PLACEHOLDER</key>
+	<string>vibration name</string>
+	<key>VIBRATION_PICKER_CREATE_NEW_USER_GENERATED_PATTERN</key>
+	<string>Create New Vibration</string>
+	<key>VIBRATION_PICKER_DEFAULT</key>
+	<string>Default</string>
+	<key>VIBRATION_PICKER_GROUP_TITLE_DEFAULT</key>
+	<string>Default</string>
+	<key>VIBRATION_PICKER_GROUP_TITLE_STANDARD</key>
+	<string>Standard</string>
+	<key>VIBRATION_PICKER_GROUP_TITLE_USER_GENERATED</key>
+	<string>Custom</string>
+	<key>VIBRATION_PICKER_NONE</key>
+	<string>None</string>
+	<key>VIBRATION_PICKER_TITLE</key>
+	<string>Vibration</string>
+	<key>VIBRATION_RECORDER_DID_ENTER_RECORDING_MODE_ANNOUNCEMENT</key>
+	<string>Vibration recording started.</string>
+	<key>VIBRATION_RECORDER_DID_ENTER_REPLAY_MODE_ANNOUNCEMENT</key>
+	<string>Vibration replay started.</string>
+	<key>VIBRATION_RECORDER_DID_EXIT_RECORDING_MODE_ANNOUNCEMENT</key>
+	<string>Done recording vibration.</string>
+	<key>VIBRATION_RECORDER_DID_EXIT_REPLAY_MODE_ANNOUNCEMENT</key>
+	<string>Done replaying vibration.</string>
+	<key>VIBRATION_RECORDER_ENTER_VIBRATION_NAME</key>
+	<string>New Vibration</string>
+	<key>VIBRATION_RECORDER_INSTRUCTIONS_LINE</key>
+	<string>Tap to create a vibration pattern.</string>
+	<key>VIBRATION_RECORDER_PLAY_BUTTON_NAME</key>
+	<string>Play</string>
+	<key>VIBRATION_RECORDER_PROGRESS_DESCRIPTION</key>
+	<string>Progress</string>
+	<key>VIBRATION_RECORDER_PROGRESS_DOT_DESCRIPTION</key>
+	<string>Vibration component</string>
+	<key>VIBRATION_RECORDER_PROGRESS_DOT_PREVIOUS_PAUSE_FORMAT</key>
+	<string>Previous pause time interval: %@. Previous pause duration: %@.</string>
+	<key>VIBRATION_RECORDER_PROGRESS_DOT_VALUE_FORMAT</key>
+	<string>Time interval: %@. Duration: %@.</string>
+	<key>VIBRATION_RECORDER_PROGRESS_VALUE_FORMAT</key>
+	<string>%@ of %@</string>
+	<key>VIBRATION_RECORDER_RECORD_BUTTON_NAME</key>
+	<string>Record</string>
+	<key>VIBRATION_RECORDER_STOP_BUTTON_NAME</key>
+	<string>Stop</string>
+	<key>VIBRATION_RECORDER_TITLE</key>
+	<string>New Vibration</string>
+	<key>VIBRATION_RECORDER_TOUCH_SURFACE</key>
+	<string>Touch Surface</string>
+	<key>VIBRATION_RECORDER_TOUCH_SURFACE_INSTRUCTIONS_HIDDEN_HINT</key>
+	<string>Tap record button to create a new vibration pattern.</string>
+	<key>VIBRATION_UNTITLED_NAME</key>
+	<string>Vibration Title</string>
+	<key>system:Alarm</key>
+	<string>Alarm</string>
+	<key>system:Apex</key>
+	<string>Apex</string>
+	<key>system:Ascending</key>
+	<string>Ascending</string>
+	<key>system:Bark</key>
+	<string>Bark</string>
+	<key>system:Beacon</key>
+	<string>Beacon</string>
+	<key>system:Bell Tower</key>
+	<string>Bell Tower</string>
+	<key>system:Blues</key>
+	<string>Blues</string>
+	<key>system:Boing</key>
+	<string>Boing</string>
+	<key>system:Bulletin</key>
+	<string>Bulletin</string>
+	<key>system:By The Seaside</key>
+	<string>By The Seaside</string>
+	<key>system:Chimes</key>
+	<string>Chimes</string>
+	<key>system:Circuit</key>
+	<string>Circuit</string>
+	<key>system:Constellation</key>
+	<string>Constellation</string>
+	<key>system:Cosmic</key>
+	<string>Cosmic</string>
+	<key>system:Crickets</key>
+	<string>Crickets</string>
+	<key>system:Crystals</key>
+	<string>Crystals</string>
+	<key>system:Digital</key>
+	<string>Digital</string>
+	<key>system:Doorbell</key>
+	<string>Doorbell</string>
+	<key>system:Duck</key>
+	<string>Duck</string>
+	<key>system:Harp</key>
+	<string>Harp</string>
+	<key>system:Hillside</key>
+	<string>Hillside</string>
+	<key>system:Illuminate</key>
+	<string>Illuminate</string>
+	<key>system:Marimba</key>
+	<string>Marimba</string>
+	<key>system:Motorcycle</key>
+	<string>Motorcycle</string>
+	<key>system:Night Owl</key>
+	<string>Night Owl</string>
+	<key>system:Old Car Horn</key>
+	<string>Old Car Horn</string>
+	<key>system:Old Phone</key>
+	<string>Old Phone</string>
+	<key>system:Piano Riff</key>
+	<string>Piano Riff</string>
+	<key>system:Pinball</key>
+	<string>Pinball</string>
+	<key>system:Playtime</key>
+	<string>Playtime</string>
+	<key>system:Presto</key>
+	<string>Presto</string>
+	<key>system:Radar</key>
+	<string>Radar</string>
+	<key>system:Radiate</key>
+	<string>Radiate</string>
+	<key>system:Ripples</key>
+	<string>Ripples</string>
+	<key>system:Robot</key>
+	<string>Robot</string>
+	<key>system:Sci-Fi</key>
+	<string>Sci-Fi</string>
+	<key>system:Sencha</key>
+	<string>Sencha</string>
+	<key>system:Signal</key>
+	<string>Signal</string>
+	<key>system:Silk</key>
+	<string>Silk</string>
+	<key>system:Slow Rise</key>
+	<string>Slow Rise</string>
+	<key>system:Sonar</key>
+	<string>Sonar</string>
+	<key>system:Stargaze</key>
+	<string>Stargaze</string>
+	<key>system:Strum</key>
+	<string>Strum</string>
+	<key>system:Summit</key>
+	<string>Summit</string>
+	<key>system:Timba</key>
+	<string>Timba</string>
+	<key>system:Time Passing</key>
+	<string>Time Passing</string>
+	<key>system:Trill</key>
+	<string>Trill</string>
+	<key>system:Twinkle</key>
+	<string>Twinkle</string>
+	<key>system:Uplift</key>
+	<string>Uplift</string>
+	<key>system:Waves</key>
+	<string>Waves</string>
+	<key>system:Xylophone</key>
+	<string>Xylophone</string>
+	<key>texttone:Air Drop Invitation</key>
+	<string>Pulse</string>
+	<key>texttone:Alert</key>
+	<string>Alert</string>
+	<key>texttone:Anticipate</key>
+	<string>Anticipate</string>
+	<key>texttone:Aurora</key>
+	<string>Aurora</string>
+	<key>texttone:Bamboo</key>
+	<string>Bamboo</string>
+	<key>texttone:Bell</key>
+	<string>Bell</string>
+	<key>texttone:Bloom</key>
+	<string>Bloom</string>
+	<key>texttone:Calendar Alert</key>
+	<string>Chord</string>
+	<key>texttone:Calypso</key>
+	<string>Calypso</string>
+	<key>texttone:Chime</key>
+	<string>Chime</string>
+	<key>texttone:Choo Choo</key>
+	<string>Choo Choo</string>
+	<key>texttone:Circles</key>
+	<string>Circles</string>
+	<key>texttone:Complete</key>
+	<string>Complete</string>
+	<key>texttone:Descent</key>
+	<string>Descent</string>
+	<key>texttone:Electronic</key>
+	<string>Electronic</string>
+	<key>texttone:Fanfare</key>
+	<string>Fanfare</string>
+	<key>texttone:Glass</key>
+	<string>Glass</string>
+	<key>texttone:Hello</key>
+	<string>Hello</string>
+	<key>texttone:Horn</key>
+	<string>Horn</string>
+	<key>texttone:Input</key>
+	<string>Input</string>
+	<key>texttone:Keys</key>
+	<string>Keys</string>
+	<key>texttone:Ladder</key>
+	<string>Ladder</string>
+	<key>texttone:Minuet</key>
+	<string>Minuet</string>
+	<key>texttone:New Mail</key>
+	<string>Ding</string>
+	<key>texttone:News Flash</key>
+	<string>News Flash</string>
+	<key>texttone:Noir</key>
+	<string>Noir</string>
+	<key>texttone:Note</key>
+	<string>Note</string>
+	<key>texttone:Popcorn</key>
+	<string>Popcorn</string>
+	<key>texttone:Reminder Alert</key>
+	<string>Chord</string>
+	<key>texttone:Sent Mail</key>
+	<string>Swoosh</string>
+	<key>texttone:Sent Tweet</key>
+	<string>Tweet</string>
+	<key>texttone:Sharing Post</key>
+	<string>Swish</string>
+	<key>texttone:Sherwood Forest</key>
+	<string>Sherwood Forest</string>
+	<key>texttone:Spell</key>
+	<string>Spell</string>
+	<key>texttone:Suspense</key>
+	<string>Suspense</string>
+	<key>texttone:Synth</key>
+	<string>Synth</string>
+	<key>texttone:Telegraph</key>
+	<string>Telegraph</string>
+	<key>texttone:Tiptoes</key>
+	<string>Tiptoes</string>
+	<key>texttone:Tri-tone</key>
+	<string>Tri-tone</string>
+	<key>texttone:Typewriters</key>
+	<string>Typewriters</string>
+	<key>texttone:Update</key>
+	<string>Update</string>
+	<key>vibration:Alert</key>
+	<string>Alert</string>
+	<key>vibration:Beethoven - Symphony No. 5</key>
+	<string>Symphony</string>
+	<key>vibration:Heartbeat</key>
+	<string>Heartbeat</string>
+	<key>vibration:Quick</key>
+	<string>Quick</string>
+	<key>vibration:Rapid</key>
+	<string>Rapid</string>
+	<key>vibration:SOS</key>
+	<string>S.O.S.</string>
+	<key>vibration:Staccato</key>
+	<string>Staccato</string>
+</dict>
+</plist>

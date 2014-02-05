@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ could not be opened because it cannot redirect to locations starting with “%@”.</key>
+	<string>%@ could not be opened because it cannot redirect to locations starting with “%@”.</string>
+	<key>%@ could not be opened because it could not connect to the server.</key>
+	<string>%@ could not be opened because it could not connect to the server.</string>
+	<key>%@ could not be opened because it could not establish a secure connection to the server.</key>
+	<string>%@ could not be opened because it could not establish a secure connection to the server.</string>
+	<key>%@ could not be opened because it could not load any data.</key>
+	<string>%@ could not be opened because it could not load any data.</string>
+	<key>%@ could not be opened because it is not connected to the Internet.</key>
+	<string>%@ could not be opened because it is not connected to the Internet.</string>
+	<key>%@ could not be opened because its main page does not exist.</key>
+	<string>%@ could not be opened because its main page does not exist.</string>
+	<key>%@ could not be opened because its main page is invalid.</key>
+	<string>%@ could not be opened because its main page is invalid.</string>
+	<key>%@ could not be opened because its main page is too large.</key>
+	<string>%@ could not be opened because its main page is too large.</string>
+	<key>%@ could not be opened because the address of its main page is invalid.</key>
+	<string>%@ could not be opened because the address of its main page is invalid.</string>
+	<key>%@ could not be opened because the network connection was lost.</key>
+	<string>%@ could not be opened because the network connection was lost.</string>
+	<key>%@ could not be opened because the network connection was reset. The server may be busy.</key>
+	<string>%@ could not be opened because the network connection was reset. The server may be busy.</string>
+	<key>%@ could not be opened because the server cannot be found.</key>
+	<string>%@ could not be opened because the server cannot be found.</string>
+	<key>%@ could not be opened because too many redirects occurred.</key>
+	<string>%@ could not be opened because too many redirects occurred.</string>
+	<key>%@ could not be opened.
+
+The error was: “%@”.</key>
+	<string>%@ could not be opened.
+
+The error was: “%@”.</string>
+	<key>%@ could not open the page because the server stopped responding</key>
+	<string>%@ could not open the page because the server stopped responding</string>
+	<key>Cannot Download Profile</key>
+	<string>Cannot Download Profile</string>
+	<key>Cannot Install Profile</key>
+	<string>Cannot Install Profile</string>
+	<key>Cannot Open %@</key>
+	<string>Cannot Open %@</string>
+	<key>Certificate Error</key>
+	<string>Certificate Error</string>
+	<key>Data Roaming is turned off. You can enable Data Roaming in the Cellular Data section of Settings.</key>
+	<string>Data Roaming is turned off. You can enable Data Roaming in the Cellular Data section of Settings.</string>
+	<key>Download Failed</key>
+	<string>Download Failed</string>
+	<key>No File Exists</key>
+	<string>No File Exists</string>
+	<key>No Permission</key>
+	<string>No Permission</string>
+	<key>No file exists at the address “%@”.</key>
+	<string>No file exists at the address “%@”.</string>
+	<key>The website did not accept the certificate.</key>
+	<string>The website did not accept the certificate.</string>
+	<key>This file cannot be downloaded.</key>
+	<string>This file cannot be downloaded.</string>
+	<key>This profile could not be downloaded due to an unknown error.</key>
+	<string>This profile could not be downloaded due to an unknown error.</string>
+	<key>This profile could not be installed due to an unknown error.</key>
+	<string>This profile could not be installed due to an unknown error.</string>
+	<key>You do not have permission to view “%@”.</key>
+	<string>You do not have permission to view “%@”.</string>
+	<key>unknown error</key>
+	<string>unknown error</string>
+</dict>
+</plist>

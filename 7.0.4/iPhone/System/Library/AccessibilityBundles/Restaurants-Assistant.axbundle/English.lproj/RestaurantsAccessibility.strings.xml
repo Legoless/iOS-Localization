@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>daterange.join</key>
+	<string>%1$@ to %2$@</string>
+	<key>distance.label</key>
+	<string>Distance: </string>
+	<key>images.button.label</key>
+	<string>Pictures of the restaurant</string>
+	<key>phone.hint</key>
+	<string>Double tap to call the restaurant</string>
+	<key>phone.label</key>
+	<string>Phone number</string>
+	<key>price.indicator</key>
+	<string>Price: </string>
+	<key>reviews.source</key>
+	<string>Reviews by Yelp</string>
+</dict>
+</plist>

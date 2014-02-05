@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FLASH_MODE_BUTTON_HINT</key>
+	<string>Switch between flash modes</string>
+	<key>FLASH_MODE_BUTTON_LABEL</key>
+	<string>Flash</string>
+	<key>FLASH_MODE_BUTTON_VALUE_AUTO</key>
+	<string>Automatic</string>
+	<key>FLASH_MODE_BUTTON_VALUE_OFF</key>
+	<string>Off</string>
+	<key>FLASH_MODE_BUTTON_VALUE_ON</key>
+	<string>On</string>
+	<key>action.button.text</key>
+	<string>Share</string>
+	<key>air.photo.button</key>
+	<string>AirPlay</string>
+	<key>app.name.camera</key>
+	<string>Camera</string>
+	<key>app.name.photos</key>
+	<string>Photos</string>
+	<key>auto.focused</key>
+	<string>Auto-focused</string>
+	<key>camera.chooser.back.alert.text</key>
+	<string>Using back facing camera</string>
+	<key>camera.chooser.back.text</key>
+	<string>Back facing</string>
+	<key>camera.chooser.button.text</key>
+	<string>Camera chooser</string>
+	<key>camera.chooser.front.alert.text</key>
+	<string>Using front facing camera</string>
+	<key>camera.chooser.front.text</key>
+	<string>Front facing</string>
+	<key>camera.chooser.hint.text</key>
+	<string>Switches between the front and back facing cameras</string>
+	<key>camera.pano.photo.button.text</key>
+	<string>Take Panoramic Picture</string>
+	<key>camera.photo.button.recording.hint</key>
+	<string>Capture a picture while recording video</string>
+	<key>camera.photo.button.text</key>
+	<string>Take Picture</string>
+	<key>camera.video.record.button.text</key>
+	<string>Record Video</string>
+	<key>camera.video.stop.record.button.text</key>
+	<string>Stop Recording Video</string>
+	<key>comments.button</key>
+	<string>Comments</string>
+	<key>comments.button.hint</key>
+	<string>Toggles visibility of photo comments</string>
+	<key>comments.plural</key>
+	<string>%@ comments</string>
+	<key>comments.singular</key>
+	<string>%@ comment</string>
+	<key>elapsed.time.text</key>
+	<string>Elapsed time</string>
+	<key>face.accessibility.element.label</key>
+	<string>face %@</string>
+	<key>face.centered</key>
+	<string>face centered</string>
+	<key>face.near.bottom-left.edge</key>
+	<string>face near bottom-left edge</string>
+	<key>face.near.bottom-right.edge</key>
+	<string>face near bottom-right edge</string>
+	<key>face.near.bottom.edge</key>
+	<string>face near bottom edge</string>
+	<key>face.near.left.edge</key>
+	<string>face near left edge</string>
+	<key>face.near.right.edge</key>
+	<string>face near right edge</string>
+	<key>face.near.top-left.edge</key>
+	<string>face near top-left edge</string>
+	<key>face.near.top-right.edge</key>
+	<string>face near top-right edge</string>
+	<key>face.near.top.edge</key>
+	<string>face near top edge</string>
+	<key>filter.button</key>
+	<string>Filters</string>
+	<key>filter.button.hint</key>
+	<string>Show or hide the list of filters</string>
+	<key>filter.name</key>
+	<string>Photo Effect Filter</string>
+	<key>flash.auto.button.hint.text</key>
+	<string>Turns automatic flash on</string>
+	<key>flash.hdr.button.hint.text</key>
+	<string>Take high dynamic range photos</string>
+	<key>flash.off.button.hint.text</key>
+	<string>Turns flash off</string>
+	<key>flash.on.button.hint.text</key>
+	<string>Turns flash on</string>
+	<key>flash.warning.button.hint.text</key>
+	<string>Shows more info</string>
+	<key>flash.warning.button.text</key>
+	<string>Flash warning</string>
+	<key>hdr</key>
+	<string>HDR badge</string>
+	<key>hdr.label</key>
+	<string>HDR</string>
+	<key>landscape</key>
+	<string>Landscape orientation</string>
+	<key>large.face</key>
+	<string>Large face</string>
+	<key>leave.photos.button.text</key>
+	<string>Back to camera</string>
+	<key>left.to.right</key>
+	<string>Capture left to right panorama</string>
+	<key>mode.button.text</key>
+	<string>Camera Mode</string>
+	<key>mode.photo.alert.text</key>
+	<string>Now in Photo Mode</string>
+	<key>mode.photo.hint.text</key>
+	<string>Switches camera mode to photo</string>
+	<key>mode.photo.text</key>
+	<string>Photo</string>
+	<key>mode.video.alert.text</key>
+	<string>Now in Video Mode</string>
+	<key>mode.video.hint.text</key>
+	<string>Switches camera mode to video</string>
+	<key>mode.video.text</key>
+	<string>Video</string>
+	<key>next.button.text</key>
+	<string>Next photo</string>
+	<key>no.selected.filter</key>
+	<string>None</string>
+	<key>options.button.hint.selected</key>
+	<string>Hides additional camera options</string>
+	<key>options.button.hint.unselected</key>
+	<string>Shows additional camera options</string>
+	<key>pano.capture.complete</key>
+	<string>Panorama capture complete</string>
+	<key>pause.button</key>
+	<string>Pause</string>
+	<key>percent.zoom</key>
+	<string>%@ zoom</string>
+	<key>photo.filter.none</key>
+	<string>Original</string>
+	<key>photo.item.selected</key>
+	<string>%@, selected</string>
+	<key>photo.item.unselected</key>
+	<string>%@, unselected</string>
+	<key>photo.label.orientation.landscape</key>
+	<string>Landscape</string>
+	<key>photo.label.orientation.portrait</key>
+	<string>Portrait</string>
+	<key>photo.label.type.audio</key>
+	<string>Audio</string>
+	<key>photo.label.type.photo</key>
+	<string>Photo</string>
+	<key>photo.label.type.video</key>
+	<string>Video</string>
+	<key>photo.picker</key>
+	<string>Photo chooser</string>
+	<key>photo.scrubber.choice</key>
+	<string>photo %1$@ of %2$@</string>
+	<key>photo.slideshow.index</key>
+	<string>%1$@ of %2$@</string>
+	<key>photo.text</key>
+	<string>Photo</string>
+	<key>photo.text.format</key>
+	<string>%@ photo</string>
+	<key>photo.video.hint.text</key>
+	<string>Double tap to open</string>
+	<key>photos.button.text</key>
+	<string>Photo and Video viewer</string>
+	<key>photos.text</key>
+	<string>Photos</string>
+	<key>play.button</key>
+	<string>Play</string>
+	<key>play.slideshow.button.text</key>
+	<string>Play slideshow</string>
+	<key>play.video.button.txt</key>
+	<string>Play video</string>
+	<key>portrait</key>
+	<string>Portrait orientation</string>
+	<key>previous.button.text</key>
+	<string>Previous photo</string>
+	<key>right.to.left</key>
+	<string>Capture right to left panorama</string>
+	<key>send.via.email.button.text</key>
+	<string>Email</string>
+	<key>small.face</key>
+	<string>Small face</string>
+	<key>video.text</key>
+	<string>Video</string>
+	<key>video.text.format</key>
+	<string>%@ video</string>
+	<key>viewfinder.hint.expose</key>
+	<string>Double-tap to expose</string>
+	<key>viewfinder.hint.focus</key>
+	<string>Double-tap to focus</string>
+	<key>viewfinder.label.text</key>
+	<string>Viewfinder</string>
+	<key>zoom.slider.text</key>
+	<string>Zoom</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bluetooth</key>
+	<string>Switch to bluetooth headset</string>
+	<key>local.back.view</key>
+	<string>Local Back Facing Video</string>
+	<key>local.front.view</key>
+	<string>Local Front Facing Video</string>
+	<key>remote.view</key>
+	<string>Remote Video</string>
+	<key>switch.to.back</key>
+	<string>Switch to back facing camera</string>
+	<key>switch.to.front</key>
+	<string>Switch to front facing camera</string>
+	<key>video.view.hint</key>
+	<string>Double tap to show or hide call controls</string>
+</dict>
+</plist>

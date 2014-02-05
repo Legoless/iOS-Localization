@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ARRIVING_LABEL</key>
+	<string>Arriving: %@</string>
+	<key>ARRIVING_LABEL_ABSOLUTE</key>
+	<string>Arriving</string>
+	<key>CITY_STATE_LABEL</key>
+	<string>%1$@, %2$@</string>
+	<key>CONTENT_NOT_AVAILABLE</key>
+	<string>Content Not Available</string>
+	<key>DATE_YESTERDAY</key>
+	<string>Yesterday</string>
+	<key>HIDDEN_LOCATION</key>
+	<string>Location Hidden</string>
+	<key>IMMEDIATE_LABEL</key>
+	<string>Current Location</string>
+	<key>KILOMETERS</key>
+	<string>km</string>
+	<key>LEAVING_LABEL</key>
+	<string>Leaving: %@</string>
+	<key>LEAVING_LABEL_ABSOLUTE</key>
+	<string>Leaving</string>
+	<key>LOCATING</key>
+	<string>Locating...</string>
+	<key>LOCATING_FRIENDS</key>
+	<string>Locating friends...</string>
+	<key>MILE</key>
+	<string>mi</string>
+	<key>MILES</key>
+	<string>mi</string>
+	<key>NO_FRIENDS_FOUND</key>
+	<string>No Friends Found</string>
+	<key>NO_LOCATION</key>
+	<string>Location Not Available</string>
+	<key>SHOW_ALL</key>
+	<string>Show All</string>
+	<key>_$!&lt;gym&gt;!$_</key>
+	<string>Gym</string>
+	<key>_$!&lt;home&gt;!$_</key>
+	<string>Home</string>
+	<key>_$!&lt;other&gt;!$_</key>
+	<string>Other</string>
+	<key>_$!&lt;school&gt;!$_</key>
+	<string>School</string>
+	<key>_$!&lt;work&gt;!$_</key>
+	<string>Work</string>
+</dict>
+</plist>

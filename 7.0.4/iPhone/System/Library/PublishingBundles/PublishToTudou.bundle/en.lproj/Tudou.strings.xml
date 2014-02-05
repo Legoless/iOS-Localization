@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMATION_VIDEO_CATEGORY</key>
+	<string>Animation</string>
+	<key>AUTOS_VIDEO_CATEGORY</key>
+	<string>Autos</string>
+	<key>COMEDY_VIDEO_CATEGORY</key>
+	<string>Comedy</string>
+	<key>EDUCATION_VIDEO_CATEGORY</key>
+	<string>Education</string>
+	<key>ENTERTAINMENT_VIDEO_CATEGORY</key>
+	<string>Entertainment</string>
+	<key>FASHION_VIDEO_CATEGORY</key>
+	<string>Fashion &amp; Style</string>
+	<key>FILM_VIDEO_CATEGORY</key>
+	<string>Films</string>
+	<key>GAMING_VIDEO_CATEGORY</key>
+	<string>Gaming</string>
+	<key>LIFESTYLE_VIDEO_CATEGORY</key>
+	<string>Lifestyle</string>
+	<key>MONEY_VIDEO_CATEGORY</key>
+	<string>Money</string>
+	<key>MUSIC_VIDEO_CATEGORY</key>
+	<string>Music</string>
+	<key>ORIGINAL_VIDEO_CATEGORY</key>
+	<string>Originals</string>
+	<key>POPULAR_VIDEO_CATEGORY</key>
+	<string>Popular</string>
+	<key>SPORTS_VIDEO_CATEGORY</key>
+	<string>Sports</string>
+	<key>TECHNOLOGY_VIDEO_CATEGORY</key>
+	<string>Science &amp; Tech</string>
+	<key>TERMS_OF_USE_BLURB</key>
+	<string>By tapping “Publish”, you represent that you own all copyright in this content, have authorization or are otherwise legally permitted to upload it and that it does not violate Tudou's Terms of Use.</string>
+	<key>TITLE_REQUIRED</key>
+	<string>A title is required to publish to Tudou.</string>
+	<key>TUDOU</key>
+	<string>Tudou</string>
+	<key>TUDOU_PASSWORD</key>
+	<string>Tudou Password</string>
+	<key>TV_VIDEO_CATEGORY</key>
+	<string>TV Shows</string>
+	<key>VARIETY_VIDEO_CATEGORY</key>
+	<string>Variety Shows</string>
+	<key>WOMEN_VIDEO_CATEGORY</key>
+	<string>Women</string>
+</dict>
+</plist>

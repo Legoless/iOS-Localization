@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> copy</key>
+	<string> copy</string>
+	<key>#,##0.# pt;0 pt;#,##0.# pt</key>
+	<string>#,##0.# pt;0 pt;#,##0.# pt</string>
+	<key>#,##0.## pt;0 pt;#,##0.## pt</key>
+	<string>#,##0.## pt;0 pt;#,##0.## pt</string>
+	<key>%@ %d of %d</key>
+	<string>%1$@ %2$d of %3$d</string>
+	<key>%@ is Full</key>
+	<string>%@ is Full</string>
+	<key>%@ movies couldn\U2019t be optimized.</key>
+	<string>%@ movies couldn’t be optimized.</string>
+	<key>%@ of %@</key>
+	<string>%1$@ of %2$@</string>
+	<key>%d</key>
+	<string>%d</string>
+	<key>%d %@</key>
+	<string>%1$d %2$@</string>
+	<key>%d found</key>
+	<string>%d found</string>
+	<key>%d item replaced.</key>
+	<string>%d item replaced.</string>
+	<key>%d items</key>
+	<string>%d items</string>
+	<key>%d items replaced.</key>
+	<string>%d items replaced.</string>
+	<key>%d replaced</key>
+	<string>%d replaced</string>
+	<key>%lu rule</key>
+	<string>%lu rule</string>
+	<key>%lu rules</key>
+	<string>%lu rules</string>
+	<key>-</key>
+	<string>-</string>
+	<key>0 pt;0 pt;-0 pt</key>
+	<string>0 pt;0 pt;-0 pt</string>
+	<key>0 px;0 px;-0 px</key>
+	<string>0 px;0 px;-0 px</string>
+	<key>0.## cm;0 cm;-0.## cm</key>
+	<string>0.## cm;0 cm;-0.## cm</string>
+	<key>0.## in;0 in;-0.## in</key>
+	<string>0.## in;0 in;-0.## in</string>
+	<key>0.## pt;0 pt;-0.## pt</key>
+	<string>0.## pt;0 pt;-0.## pt</string>
+	<key>0.## px;0 px;-0.## px</key>
+	<string>0.## px;0 px;-0.## px</string>
+	<key>0°;0°;-0°</key>
+	<string>0°;0°;-0°</string>
+	<key>1 item</key>
+	<string>1 item</string>
+	<key>2D</key>
+	<string>2D</string>
+	<key>3D</key>
+	<string>3D</string>
+	<key>3D Scene</key>
+	<string>3D Scene</string>
+	<key>A %@ update is available.</key>
+	<string>A %@ update is available.</string>
+	<key>ALBUMS</key>
+	<string>ALBUMS</string>
+	<key>Above</key>
+	<string>Above</string>
+	<key>Above Left</key>
+	<string>Above Left</string>
+	<key>Above Right</key>
+	<string>Above Right</string>
+	<key>Add</key>
+	<string>Add</string>
+	<key>Add Highlight</key>
+	<string>Add Highlight</string>
+	<key>Add Link</key>
+	<string>Add Link</string>
+	<key>Add a border around the paragraph.</key>
+	<string>Add a border around the paragraph.</string>
+	<key>Add a line above and below the paragraph.</key>
+	<string>Add a line above and below the paragraph.</string>
+	<key>Add a line above the paragraph.</key>
+	<string>Add a line above the paragraph.</string>
+	<key>Add a line below the paragraph.</key>
+	<string>Add a line below the paragraph.</string>
+	<key>Add a new tab stop for the paragraph.</key>
+	<string>Add a new tab stop for the paragraph.</string>
+	<key>Advanced Gradient Fill</key>
+	<string>Advanced Gradient Fill</string>
+	<key>Advanced Image Fill</key>
+	<string>Advanced Image Fill</string>
+	<key>All</key>
+	<string>All</string>
+	<key>All Caps</key>
+	<string>All Caps</string>
+	<key>All Chart Colors</key>
+	<string>All Chart Colors</string>
+	<key>All borders</key>
+	<string>All borders</string>
+	<key>Allow download only</key>
+	<string>Allow download only</string>
+	<key>Allow editing on the web</key>
+	<string>Allow editing on the web</string>
+	<key>An error occurred while creating the attachment.</key>
+	<string>An error occurred while creating the attachment.</string>
+	<key>An error occurred while exporting.</key>
+	<string>An error occurred while exporting.</string>
+	<key>An error occurred.</key>
+	<string>An error occurred.</string>
+	<key>An error occurred. Please try again.</key>
+	<string>An error occurred. Please try again.</string>
+	<key>Apple Shape Style</key>
+	<string>Apple Shape Style</string>
+	<key>Apple Text Box Style</key>
+	<string>Apple Text Box Style</string>
+	<key>Apply Chart Style</key>
+	<string>Apply Chart Style</string>
+	<key>Apply Image Style</key>
+	<string>Apply Image Style</string>
+	<key>Apply Line Style</key>
+	<string>Apply Line Style</string>
+	<key>Apply Movie Style</key>
+	<string>Apply Movie Style</string>
+	<key>Apply Shape &amp; Text Style</key>
+	<string>Apply Shape &amp; Text Style</string>
+	<key>Apply Shape Style Only</key>
+	<string>Apply Shape Style Only</string>
+	<key>Apply Table Style</key>
+	<string>Apply Table Style</string>
+	<key>Apply this style to selected charts.</key>
+	<string>Apply this style to selected charts.</string>
+	<key>Apply this style to selected tables.</key>
+	<string>Apply this style to selected tables.</string>
+	<key>Are you sure you want to delete "%@"?</key>
+	<string>Are you sure you want to delete "%@"?</string>
+	<key>Arrange</key>
+	<string>Arrange</string>
+	<key>Artist</key>
+	<string>Artist</string>
+	<key>Audio</key>
+	<string>Audio</string>
+	<key>Author Name</key>
+	<string>Author Name</string>
+	<key>Auto</key>
+	<string>Auto</string>
+	<key>Auto-Fit Category Labels</key>
+	<string>Auto-Fit Category Labels</string>
+	<key>Automatic</key>
+	<string>Automatic</string>
+	<key>Average</key>
+	<string>Average</string>
+	<key>Axis</key>
+	<string>Axis</string>
+	<key>Axis Labels</key>
+	<string>Axis Labels</string>
+	<key>Axis Options</key>
+	<string>Axis Options</string>
+	<key>Axis Scale</key>
+	<string>Axis Scale</string>
+	<key>Axis Title</key>
+	<string>Axis Title</string>
+	<key>Back</key>
+	<string>Back</string>
+	<key>Background &amp; Border Style</key>
+	<string>Background &amp; Border Style</string>
+	<key>Bar Style</key>
+	<string>Bar Style</string>
+	<key>Below</key>
+	<string>Below</string>
+	<key>Between Bars:</key>
+	<string>Between Bars:</string>
+	<key>Between Columns:</key>
+	<string>Between Columns:</string>
+	<key>Between Sets:</key>
+	<string>Between Sets:</string>
+	<key>Blue Fill</key>
+	<string>Blue Fill</string>
+	<key>Blue Text</key>
+	<string>Blue Text</string>
+	<key>Bold</key>
+	<string>Bold</string>
+	<key>Border</key>
+	<string>Border</string>
+	<key>Bottom</key>
+	<string>Bottom</string>
+	<key>Bottom Left</key>
+	<string>Bottom Left</string>
+	<key>Bottom Right</key>
+	<string>Bottom Right</string>
+	<key>Bottom border</key>
+	<string>Bottom border</string>
+	<key>Bubble Data</key>
+	<string>Bubble Data</string>
+	<key>Buttons Only</key>
+	<string>Buttons Only</string>
+	<key>Can\U2019t Open %@</key>
+	<string>Can’t Open %@</string>
+	<key>Can\U2019t replace image.</key>
+	<string>Can’t replace image.</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Cancel Download</key>
+	<string>Cancel Download</string>
+	<key>Canceling\U2026</key>
+	<string>Canceling…</string>
+	<key>Cannot copy to \U201C%@.\U201D</key>
+	<string>Cannot copy to “%@.”</string>
+	<key>Cannot delete \U201C%@.\U201D</key>
+	<string>Cannot delete “%@.”</string>
+	<key>Categories</key>
+	<string>Categories</string>
+	<key>Category</key>
+	<string>Category</string>
+	<key>Category Labels</key>
+	<string>Category Labels</string>
+	<key>Cell</key>
+	<string>Cell</string>
+	<key>Center</key>
+	<string>Center</string>
+	<key>Center Guides</key>
+	<string>Center Guides</string>
+	<key>Center border</key>
+	<string>Center border</string>
+	<key>Centered</key>
+	<string>Centered</string>
+	<key>Change</key>
+	<string>Change</string>
+	<key>Change Password</key>
+	<string>Change Password</string>
+	<key>Change how the audio file loops.</key>
+	<string>Change how the audio file loops.</string>
+	<key>Change how the movie loops.</key>
+	<string>Change how the movie loops.</string>
+	<key>Change or Comment</key>
+	<string>Change or Comment</string>
+	<key>Change the angle of the shadow.</key>
+	<string>Change the angle of the shadow.</string>
+	<key>Changes</key>
+	<string>Changes</string>
+	<key>Changes &amp; Comments</key>
+	<string>Changes &amp; Comments</string>
+	<key>Character Style</key>
+	<string>Character Style</string>
+	<key>Character Styles</key>
+	<string>Character Styles</string>
+	<key>Chart</key>
+	<string>Chart</string>
+	<key>Chart Font</key>
+	<string>Chart Font</string>
+	<key>Chart Options</key>
+	<string>Chart Options</string>
+	<key>Chart Styles</key>
+	<string>Chart Styles</string>
+	<key>Chart Title</key>
+	<string>Chart Title</string>
+	<key>Chart Type</key>
+	<string>Chart Type</string>
+	<key>Charts</key>
+	<string>Charts</string>
+	<key>Check Spelling</key>
+	<string>Check Spelling</string>
+	<key>Check your Internet connection, then try again.</key>
+	<string>Check your Internet connection, then try again.</string>
+	<key>Choose App</key>
+	<string>Choose App</string>
+	<key>Choose a Filtering Rule</key>
+	<string>Choose a Filtering Rule</string>
+	<key>Choose a Highlighting Rule</key>
+	<string>Choose a Highlighting Rule</string>
+	<key>Choose a border type.</key>
+	<string>Choose a border type.</string>
+	<key>Choose a bullet or numbering style for the selected text.</key>
+	<string>Choose a bullet or numbering style for the selected text.</string>
+	<key>Choose a bullet, or type characters to create your own.</key>
+	<string>Choose a bullet, or type characters to create your own.</string>
+	<key>Choose a character to fill a tabbed space.</key>
+	<string>Choose a character to fill a tabbed space.</string>
+	<key>Choose a format.</key>
+	<string>Choose a format.</string>
+	<key>Choose a line type for the paragraph border.</key>
+	<string>Choose a line type for the paragraph border.</string>
+	<key>Choose a list style.</key>
+	<string>Choose a list style.</string>
+	<key>Choose a number format for the list.</key>
+	<string>Choose a number format for the list.</string>
+	<key>Choose a paragraph style for the next paragraph.</key>
+	<string>Choose a paragraph style for the next paragraph.</string>
+	<key>Choose a style to apply to a paragraph.</key>
+	<string>Choose a style to apply to a paragraph.</string>
+	<key>Choose a style to apply to selected text.</key>
+	<string>Choose a style to apply to selected text.</string>
+	<key>Choose an image to use as a bullet.</key>
+	<string>Choose an image to use as a bullet.</string>
+	<key>Choose how text aligns with the tab stop.</key>
+	<string>Choose how text aligns with the tab stop.</string>
+	<key>Choose how the movie loops.</key>
+	<string>Choose how the movie loops.</string>
+	<key>Choose how to capitalize text.</key>
+	<string>Choose how to capitalize text.</string>
+	<key>Choose ruler units.</key>
+	<string>Choose ruler units.</string>
+	<key>Choose the font family.</key>
+	<string>Choose the font family.</string>
+	<key>Choose the format for displaying series value labels.</key>
+	<string>Choose the format for displaying series value labels.</string>
+	<key>Choose the format for displaying values on the value axis.</key>
+	<string>Choose the format for displaying values on the value axis.</string>
+	<key>Choose the line spacing.</key>
+	<string>Choose the line spacing.</string>
+	<key>Choose the number of footer rows.</key>
+	<string>Choose the number of footer rows.</string>
+	<key>Choose the number of header columns and when they display.</key>
+	<string>Choose the number of header columns and when they display.</string>
+	<key>Choose the number of header columns, or freeze them.</key>
+	<string>Choose the number of header columns, or freeze them.</string>
+	<key>Choose the number of header columns.</key>
+	<string>Choose the number of header columns.</string>
+	<key>Choose the number of header rows, or freeze them.</key>
+	<string>Choose the number of header rows, or freeze them.</string>
+	<key>Choose the number of header rows, or repeat them on each page.</key>
+	<string>Choose the number of header rows, or repeat them on each page.</string>
+	<key>Choose the number of header rows.</key>
+	<string>Choose the number of header rows.</string>
+	<key>Choose the typeface.</key>
+	<string>Choose the typeface.</string>
+	<key>Choose to add a shadow to each series, or to sets of series.</key>
+	<string>Choose to add a shadow to each series, or to sets of series.</string>
+	<key>Choose to add a shadow to each wedge, or to the entire chart.</key>
+	<string>Choose to add a shadow to each wedge, or to the entire chart.</string>
+	<key>Choose when to turn certain letter combinations (for example, \U201Cfi\U201D) into one character.</key>
+	<string>Choose when to turn certain letter combinations (for example, “fi”) into one character.</string>
+	<key>Choose whether to show a stroke.</key>
+	<string>Choose whether to show a stroke.</string>
+	<key>Circle</key>
+	<string>Circle</string>
+	<key>Clear Recent Searches</key>
+	<string>Clear Recent Searches</string>
+	<key>Click the + button to add a tab stop.</key>
+	<string>Click the + button to add a tab stop.</string>
+	<key>Click to change the alternate row color.</key>
+	<string>Click to change the alternate row color.</string>
+	<key>Click to change the background color of text.</key>
+	<string>Click to change the background color of text.</string>
+	<key>Click to change the bullet color.</key>
+	<string>Click to change the bullet color.</string>
+	<key>Click to change the color of alignment guides.</key>
+	<string>Click to change the color of alignment guides.</string>
+	<key>Click to change the color of the shadow.</key>
+	<string>Click to change the color of the shadow.</string>
+	<key>Click to change the line color.</key>
+	<string>Click to change the line color.</string>
+	<key>Click to change the number color.</key>
+	<string>Click to change the number color.</string>
+	<key>Click to change the text background color.</key>
+	<string>Click to change the text background color.</string>
+	<key>Click to change the text color.</key>
+	<string>Click to change the text color.</string>
+	<key>Click to choose a background color for the paragraph.</key>
+	<string>Click to choose a background color for the paragraph.</string>
+	<key>Click to choose a color.</key>
+	<string>Click to choose a color.</string>
+	<key>Click to choose a gradient color, drag horizontally to adjust the gradient, or drag down to delete.</key>
+	<string>Click to choose a gradient color, drag horizontally to adjust the gradient, or drag down to delete.</string>
+	<key>Click to choose a line color.</key>
+	<string>Click to choose a line color.</string>
+	<key>Click to choose a preset border.</key>
+	<string>Click to choose a preset border.</string>
+	<key>Click to choose a preset color, gradient, or image fill.</key>
+	<string>Click to choose a preset color, gradient, or image fill.</string>
+	<key>Click to choose a preset shadow.</key>
+	<string>Click to choose a preset shadow.</string>
+	<key>Click to choose a preset stroke.</key>
+	<string>Click to choose a preset stroke.</string>
+	<key>Click to choose gradient color, drag to adjust gradient, or Option-click to duplicate the point.</key>
+	<string>Click to choose gradient color, drag to adjust gradient, or Option-click to duplicate the point.</string>
+	<key>Click to edit the audio file.</key>
+	<string>Click to edit the audio file.</string>
+	<key>Click to edit the movie.</key>
+	<string>Click to edit the movie.</string>
+	<key>Click to horizontally adjust the midpoint.</key>
+	<string>Click to horizontally adjust the midpoint.</string>
+	<key>Click to remove the fill from selected cells.</key>
+	<string>Click to remove the fill from selected cells.</string>
+	<key>Click to remove the fill from selected objects.</key>
+	<string>Click to remove the fill from selected objects.</string>
+	<key>Click to show more colors or create your own.</key>
+	<string>Click to show more colors or create your own.</string>
+	<key>Close Document</key>
+	<string>Close Document</string>
+	<key>Color Fill</key>
+	<string>Color Fill</string>
+	<key>Color Fills</key>
+	<string>Color Fills</string>
+	<key>Colors</key>
+	<string>Colors</string>
+	<key>Comment</key>
+	<string>Comment</string>
+	<key>Comments</key>
+	<string>Comments</string>
+	<key>Conditional Highlighting</key>
+	<string>Conditional Highlighting</string>
+	<key>Connecting</key>
+	<string>Connecting</string>
+	<key>Connection Line</key>
+	<string>Connection Line</string>
+	<key>Connection Lines</key>
+	<string>Connection Lines</string>
+	<key>Continue</key>
+	<string>Continue</string>
+	<key>Continue Using iCloud</key>
+	<string>Continue Using iCloud</string>
+	<key>Continue numbering from the previous list.</key>
+	<string>Continue numbering from the previous list.</string>
+	<key>Copy Link</key>
+	<string>Copy Link</string>
+	<key>Copy from WebDAV</key>
+	<string>Copy from WebDAV</string>
+	<key>Copy from iTunes</key>
+	<string>Copy from iTunes</string>
+	<key>Copying\U2026</key>
+	<string>Copying…</string>
+	<key>Could not launch \U201C%@\U201D</key>
+	<string>Could not launch “%@”</string>
+	<key>Couldn\U2019t Connect</key>
+	<string>Couldn’t Connect</string>
+	<key>Couldn\U2019t Rename Folder</key>
+	<string>Couldn’t Rename Folder</string>
+	<key>Couldn\U2019t open link.</key>
+	<string>Couldn’t open link.</string>
+	<key>Count</key>
+	<string>Count</string>
+	<key>Create Chart Style</key>
+	<string>Create Chart Style</string>
+	<key>Create Image Style</key>
+	<string>Create Image Style</string>
+	<key>Create Line Style</key>
+	<string>Create Line Style</string>
+	<key>Create Movie Style</key>
+	<string>Create Movie Style</string>
+	<key>Create Shape Style</key>
+	<string>Create Shape Style</string>
+	<key>Create Style</key>
+	<string>Create Style</string>
+	<key>Create Table Style</key>
+	<string>Create Table Style</string>
+	<key>Create Text Box Style</key>
+	<string>Create Text Box Style</string>
+	<key>Create a character style based on selected text.</key>
+	<string>Create a character style based on selected text.</string>
+	<key>Create a list style based on the current selection.</key>
+	<string>Create a list style based on the current selection.</string>
+	<key>Create a paragraph style based on the current paragraph.</key>
+	<string>Create a paragraph style based on the current paragraph.</string>
+	<key>Currency</key>
+	<string>Currency</string>
+	<key>Current Chart Colors</key>
+	<string>Current Chart Colors</string>
+	<key>Current Fill</key>
+	<string>Current Fill</string>
+	<key>Curved</key>
+	<string>Curved</string>
+	<key>Custom</key>
+	<string>Custom</string>
+	<key>Custom Category Intervals</key>
+	<string>Custom Category Intervals</string>
+	<key>Custom Image</key>
+	<string>Custom Image</string>
+	<key>Custom Style</key>
+	<string>Custom Style</string>
+	<key>Custom Values</key>
+	<string>Custom Values</string>
+	<key>Cylinder</key>
+	<string>Cylinder</string>
+	<key>Data</key>
+	<string>Data</string>
+	<key>Data Set Name</key>
+	<string>Data Set Name</string>
+	<key>Data Set Name:</key>
+	<string>Data Set Name:</string>
+	<key>Data Symbol</key>
+	<string>Data Symbol</string>
+	<key>Data Symbols</key>
+	<string>Data Symbols</string>
+	<key>Date</key>
+	<string>Date</string>
+	<key>Date &amp; Time</key>
+	<string>Date &amp; Time</string>
+	<key>Default</key>
+	<string>Default</string>
+	<key>Default Style</key>
+	<string>Default Style</string>
+	<key>Default Table Style</key>
+	<string>Default Table Style</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete Style</key>
+	<string>Delete Style</string>
+	<key>Delete from My iPad</key>
+	<string>Delete from My iPad</string>
+	<key>Delete from My iPhone</key>
+	<string>Delete from My iPhone</string>
+	<key>Delete from My iPod</key>
+	<string>Delete from My iPod</string>
+	<key>Deleting</key>
+	<string>Deleting</string>
+	<key>Diamond</key>
+	<string>Diamond</string>
+	<key>Do you want to optimize it to ensure playback?
+
+Note: This may affect video quality.</key>
+	<string>Do you want to optimize it to ensure playback?
+
+Note: This may affect video quality.</string>
+	<key>Do you want to optimize them to ensure playback?
+
+Note: This may affect video quality.</key>
+	<string>Do you want to optimize them to ensure playback?
+
+Note: This may affect video quality.</string>
+	<key>Do you want to replace it?</key>
+	<string>Do you want to replace it?</string>
+	<key>Do you want to update the movie so that it can play in Keynote for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</key>
+	<string>Do you want to update the movie so that it can play in Keynote for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</string>
+	<key>Do you want to update the movie so that it can play in Numbers for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</key>
+	<string>Do you want to update the movie so that it can play in Numbers for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</string>
+	<key>Do you want to update the movie so that it can play in Pages for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</key>
+	<string>Do you want to update the movie so that it can play in Pages for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</string>
+	<key>Do you want to update the movies so that they can play in Keynote for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</key>
+	<string>Do you want to update the movies so that they can play in Keynote for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</string>
+	<key>Do you want to update the movies so that they can play in Numbers for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</key>
+	<string>Do you want to update the movies so that they can play in Numbers for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</string>
+	<key>Do you want to update the movies so that they can play in Pages for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</key>
+	<string>Do you want to update the movies so that they can play in Pages for Mac? You can also optimize all movies for playback on iOS.
+
+Note: Optimization may affect video quality.</string>
+	<key>Document could not be opened</key>
+	<string>Document could not be opened</string>
+	<key>Don\U2019t Open</key>
+	<string>Don’t Open</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Double-click a column value to change the column width; double-click a gutter value to change the amount of space between columns.</key>
+	<string>Double-click a column value to change the column width; double-click a gutter value to change the amount of space between columns.</string>
+	<key>Double-click to change a tab location on the ruler.</key>
+	<string>Double-click to change a tab location on the ruler.</string>
+	<key>Download</key>
+	<string>Download</string>
+	<key>Download Failed</key>
+	<string>Download Failed</string>
+	<key>Download error.</key>
+	<string>Download error.</string>
+	<key>Downloading %@\U2026</key>
+	<string>Downloading %@…</string>
+	<key>Downloading Assets</key>
+	<string>Downloading Assets</string>
+	<key>Downloading Fonts</key>
+	<string>Downloading Fonts</string>
+	<key>Downloading Fonts and Assets</key>
+	<string>Downloading Fonts and Assets</string>
+	<key>Downloading\U2026</key>
+	<string>Downloading…</string>
+	<key>Drag to adjust the gradient blend point.</key>
+	<string>Drag to adjust the gradient blend point.</string>
+	<key>Draw with Pen</key>
+	<string>Draw with Pen</string>
+	<key>Duration</key>
+	<string>Duration</string>
+	<key>EVENTS</key>
+	<string>EVENTS</string>
+	<key>Edge Guides</key>
+	<string>Edge Guides</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Edit Audio</key>
+	<string>Edit Audio</string>
+	<key>Edit Link</key>
+	<string>Edit Link</string>
+	<key>Edits made on %@ haven\U2019t uploaded to iCloud.</key>
+	<string>Edits made on %@ haven’t uploaded to iCloud.</string>
+	<key>Eighths</key>
+	<string>Eighths</string>
+	<key>Enter a Password</key>
+	<string>Enter a Password</string>
+	<key>Enter a different name, and try again.</key>
+	<string>Enter a different name, and try again.</string>
+	<key>Enter the password for \U201C%@\U201D.</key>
+	<string>Enter the password for “%@”.</string>
+	<key>Equation</key>
+	<string>Equation</string>
+	<key>Error Bar</key>
+	<string>Error Bar</string>
+	<key>Error Bars</key>
+	<string>Error Bars</string>
+	<key>Error Deleting Theme</key>
+	<string>Error Deleting Theme</string>
+	<key>Error printing page %d</key>
+	<string>Error printing page %d</string>
+	<key>Exponential</key>
+	<string>Exponential</string>
+	<key>Export</key>
+	<string>Export</string>
+	<key>Export Details</key>
+	<string>Export Details</string>
+	<key>Extra Large</key>
+	<string>Extra Large</string>
+	<key>Fill</key>
+	<string>Fill</string>
+	<key>Find</key>
+	<string>Find</string>
+	<key>Find &amp; Replace</key>
+	<string>Find &amp; Replace</string>
+	<key>Find and Replace</key>
+	<string>Find and Replace</string>
+	<key>Find the next match.</key>
+	<string>Find the next match.</string>
+	<key>Find the previous match.</key>
+	<string>Find the previous match.</string>
+	<key>First Time Sharing?</key>
+	<string>First Time Sharing?</string>
+	<key>Fixed Value</key>
+	<string>Fixed Value</string>
+	<key>Folder</key>
+	<string>Folder</string>
+	<key>Following Paragraph Style</key>
+	<string>Following Paragraph Style</string>
+	<key>Font</key>
+	<string>Font</string>
+	<key>Format</key>
+	<string>Format</string>
+	<key>Fraction</key>
+	<string>Fraction</string>
+	<key>Free Update Available</key>
+	<string>Free Update Available</string>
+	<key>Function</key>
+	<string>Function</string>
+	<key>Functions</key>
+	<string>Functions</string>
+	<key>Gaps</key>
+	<string>Gaps</string>
+	<key>Gradient Fill</key>
+	<string>Gradient Fill</string>
+	<key>Gradient Fills</key>
+	<string>Gradient Fills</string>
+	<key>Gray Text</key>
+	<string>Gray Text</string>
+	<key>Green Fill</key>
+	<string>Green Fill</string>
+	<key>Green Text</key>
+	<string>Green Text</string>
+	<key>Gridlines</key>
+	<string>Gridlines</string>
+	<key>Grouped</key>
+	<string>Grouped</string>
+	<key>Halves</key>
+	<string>Halves</string>
+	<key>Help</key>
+	<string>Help</string>
+	<key>HelveticaNeue-UltraLight</key>
+	<string>HelveticaNeue-UltraLight</string>
+	<key>Hide Comments</key>
+	<string>Hide Comments</string>
+	<key>Hide Find &amp; Replace</key>
+	<string>Hide Find &amp; Replace</string>
+	<key>Hide Guides</key>
+	<string>Hide Guides</string>
+	<key>Hide Inspector</key>
+	<string>Hide Inspector</string>
+	<key>Highlight</key>
+	<string>Highlight</string>
+	<key>Highlights</key>
+	<string>Highlights</string>
+	<key>Hint</key>
+	<string>Hint</string>
+	<key>Hint: %@</key>
+	<string>Hint: %@</string>
+	<key>Horizontal</key>
+	<string>Horizontal</string>
+	<key>Hundredths</key>
+	<string>Hundredths</string>
+	<key>IPadShareAndPrint</key>
+	<string>Share and Print</string>
+	<key>IPhoneShareAndPrint</key>
+	<string>Share and Print</string>
+	<key>If you keep it, it will remain stored in iCloud.</key>
+	<string>If you keep it, it will remain stored in iCloud.</string>
+	<key>Image</key>
+	<string>Image</string>
+	<key>Image Bullets</key>
+	<string>Image Bullets</string>
+	<key>Image Fill</key>
+	<string>Image Fill</string>
+	<key>Image Fills</key>
+	<string>Image Fills</string>
+	<key>Image Styles</key>
+	<string>Image Styles</string>
+	<key>Images</key>
+	<string>Images</string>
+	<key>Import Warnings</key>
+	<string>Import Warnings</string>
+	<key>Import failure alert - OK</key>
+	<string>OK</string>
+	<key>Importing\U2026</key>
+	<string>Importing…</string>
+	<key>Incorrect Password</key>
+	<string>Incorrect Password</string>
+	<key>Incorrect server address.</key>
+	<string>Incorrect server address.</string>
+	<key>Incorrect user name or password.</key>
+	<string>Incorrect user name or password.</string>
+	<key>Indents</key>
+	<string>Indents</string>
+	<key>Individual Series</key>
+	<string>Individual Series</string>
+	<key>Insert</key>
+	<string>Insert</string>
+	<key>Insert Media</key>
+	<string>Insert Media</string>
+	<key>Inserting Media\U2026</key>
+	<string>Inserting Media…</string>
+	<key>Inserting\U2026</key>
+	<string>Inserting…</string>
+	<key>Inside</key>
+	<string>Inside</string>
+	<key>Inside borders</key>
+	<string>Inside borders</string>
+	<key>Install the latest version of OS X, then visit the Mac App Store to download the latest version of %@.</key>
+	<string>Install the latest version of OS X, then visit the Mac App Store to download the latest version of %@.</string>
+	<key>Install the latest version of iOS, then visit the App Store to download the latest version of %@.</key>
+	<string>Install the latest version of iOS, then visit the App Store to download the latest version of %@.</string>
+	<key>Interactive</key>
+	<string>Interactive</string>
+	<key>Interactive Chart</key>
+	<string>Interactive Chart</string>
+	<key>Italic</key>
+	<string>Italic</string>
+	<key>Keep</key>
+	<string>Keep</string>
+	<key>Keep %u</key>
+	<string>Keep %u</string>
+	<key>Keep All</key>
+	<string>Keep All</string>
+	<key>Keep Both</key>
+	<string>Keep Both</string>
+	<key>Keep on My iPad</key>
+	<string>Keep on My iPad</string>
+	<key>Keep on My iPhone</key>
+	<string>Keep on My iPhone</string>
+	<key>Keep on My iPod</key>
+	<string>Keep on My iPod</string>
+	<key>LIBRARY</key>
+	<string>LIBRARY</string>
+	<key>Large</key>
+	<string>Large</string>
+	<key>Last edited
+%@</key>
+	<string>Last edited
+%@</string>
+	<key>Last edited on %@.
+%@</key>
+	<string>Last edited on %1$@.
+%2$@</string>
+	<key>Later</key>
+	<string>Later</string>
+	<key>Latest Style</key>
+	<string>Latest Style</string>
+	<key>Layout</key>
+	<string>Layout</string>
+	<key>Learn More</key>
+	<string>Learn More</string>
+	<key>Learn more about WebDAV</key>
+	<string>Learn more about WebDAV</string>
+	<key>Left</key>
+	<string>Left</string>
+	<key>Left Diagonal</key>
+	<string>Left Diagonal</string>
+	<key>Left Vertical</key>
+	<string>Left Vertical</string>
+	<key>Left border</key>
+	<string>Left border</string>
+	<key>Line</key>
+	<string>Line</string>
+	<key>Line Styles</key>
+	<string>Line Styles</string>
+	<key>Linear</key>
+	<string>Linear</string>
+	<key>Link</key>
+	<string>Link</string>
+	<key>List Style</key>
+	<string>List Style</string>
+	<key>List Styles</key>
+	<string>List Styles</string>
+	<key>Location:</key>
+	<string>Location:</string>
+	<key>Logarithmic</key>
+	<string>Logarithmic</string>
+	<key>Looking for movies to optimize\U2026</key>
+	<string>Looking for movies to optimize…</string>
+	<key>Major Gridlines</key>
+	<string>Major Gridlines</string>
+	<key>Major:</key>
+	<string>Major:</string>
+	<key>Make selected text a superscript or subscript.</key>
+	<string>Make selected text a superscript or subscript.</string>
+	<key>Match Case</key>
+	<string>Match Case</string>
+	<key>Maximum</key>
+	<string>Maximum</string>
+	<key>Media</key>
+	<string>Media</string>
+	<key>Medium</key>
+	<string>Medium</string>
+	<key>Middle borders</key>
+	<string>Middle borders</string>
+	<key>Minimum</key>
+	<string>Minimum</string>
+	<key>Minor Gridlines</key>
+	<string>Minor Gridlines</string>
+	<key>Missing Assets and Fonts</key>
+	<string>Missing Assets and Fonts</string>
+	<key>Missing Fonts</key>
+	<string>Missing Fonts</string>
+	<key>Modified on %@</key>
+	<string>Modified on %@</string>
+	<key>Modified recently</key>
+	<string>Modified recently</string>
+	<key>More</key>
+	<string>More</string>
+	<key>Move to iCloud</key>
+	<string>Move to iCloud</string>
+	<key>Movie</key>
+	<string>Movie</string>
+	<key>Movie Styles</key>
+	<string>Movie Styles</string>
+	<key>Movies</key>
+	<string>Movies</string>
+	<key>Moving Average</key>
+	<string>Moving Average</string>
+	<key>Multiple</key>
+	<string>Multiple</string>
+	<key>Multiple Border Types</key>
+	<string>Multiple Border Types</string>
+	<key>Multiple Fill Types</key>
+	<string>Multiple Fill Types</string>
+	<key>Multiple Shadow Types</key>
+	<string>Multiple Shadow Types</string>
+	<key>Multiple Stroke Types</key>
+	<string>Multiple Stroke Types</string>
+	<key>Music</key>
+	<string>Music</string>
+	<key>My Templates</key>
+	<string>My Templates</string>
+	<key>My Themes</key>
+	<string>My Themes</string>
+	<key>N/A</key>
+	<string>N/A</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>Negative only</key>
+	<string>Negative only</string>
+	<key>New Item</key>
+	<string>New Item</string>
+	<key>New Password</key>
+	<string>New Password</string>
+	<key>Newer Version Needed</key>
+	<string>Newer Version Needed</string>
+	<key>Next\U2026</key>
+	<string>Next…</string>
+	<key>No Apps Available</key>
+	<string>No Apps Available</string>
+	<key>No Background Fill</key>
+	<string>No Background Fill</string>
+	<key>No Border</key>
+	<string>No Border</string>
+	<key>No Fill</key>
+	<string>No Fill</string>
+	<key>No Lines</key>
+	<string>No Lines</string>
+	<key>No Movies</key>
+	<string>No Movies</string>
+	<key>No Music</key>
+	<string>No Music</string>
+	<key>No Photos</key>
+	<string>No Photos</string>
+	<key>No Recent Searches</key>
+	<string>No Recent Searches</string>
+	<key>No Shadow</key>
+	<string>No Shadow</string>
+	<key>No Stroke</key>
+	<string>No Stroke</string>
+	<key>No Symbol</key>
+	<string>No Symbol</string>
+	<key>No Thanks</key>
+	<string>No Thanks</string>
+	<key>No occurrences of \U201C%@\U201D found.</key>
+	<string>No occurrences of “%@” found.</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Not Found</key>
+	<string>Not Found</string>
+	<key>Not Now</key>
+	<string>Not Now</string>
+	<key>Nothing Selected</key>
+	<string>Nothing Selected</string>
+	<key>Nothing selected.</key>
+	<string>Nothing selected.</string>
+	<key>Number</key>
+	<string>Number</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Old Password</key>
+	<string>Old Password</string>
+	<key>Open</key>
+	<string>Open</string>
+	<key>Open Anyway</key>
+	<string>Open Anyway</string>
+	<key>Open Copy</key>
+	<string>Open Copy</string>
+	<key>Open in Another App</key>
+	<string>Open in Another App</string>
+	<key>Opening %@ Help requires an Internet connection.</key>
+	<string>Opening %@ Help requires an Internet connection.</string>
+	<key>Opening\U2026</key>
+	<string>Opening…</string>
+	<key>Optimize</key>
+	<string>Optimize</string>
+	<key>Optimize for iOS</key>
+	<string>Optimize for iOS</string>
+	<key>Optimizing movies\U2026</key>
+	<string>Optimizing movies…</string>
+	<key>Optional</key>
+	<string>Optional</string>
+	<key>Orange Fill</key>
+	<string>Orange Fill</string>
+	<key>Outline</key>
+	<string>Outline</string>
+	<key>Outside</key>
+	<string>Outside</string>
+	<key>PLAYLISTS</key>
+	<string>PLAYLISTS</string>
+	<key>Paragraph Style</key>
+	<string>Paragraph Style</string>
+	<key>Paragraph Styles</key>
+	<string>Paragraph Styles</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>Passwords Don't Match</key>
+	<string>Passwords Don't Match</string>
+	<key>Percentage</key>
+	<string>Percentage</string>
+	<key>Photos</key>
+	<string>Photos</string>
+	<key>Please enter a full URL with a path.</key>
+	<string>Please enter a full URL with a path.</string>
+	<key>Please enter a valid URL.</key>
+	<string>Please enter a valid URL.</string>
+	<key>Please try again later.</key>
+	<string>Please try again later.</string>
+	<key>Please try again.</key>
+	<string>Please try again.</string>
+	<key>Plus</key>
+	<string>Plus</string>
+	<key>Polynomial</key>
+	<string>Polynomial</string>
+	<key>Position</key>
+	<string>Position</string>
+	<key>Positive and Negative</key>
+	<string>Positive and Negative</string>
+	<key>Positive only</key>
+	<string>Positive only</string>
+	<key>Power</key>
+	<string>Power</string>
+	<key>Predefined Custom</key>
+	<string>Predefined Custom</string>
+	<key>Preparing templates for import</key>
+	<string>Preparing templates for import</string>
+	<key>Print</key>
+	<string>Print</string>
+	<key>Product</key>
+	<string>Product</string>
+	<key>Quarters</key>
+	<string>Quarters</string>
+	<key>Recent</key>
+	<string>Recent</string>
+	<key>Recent Searches</key>
+	<string>Recent Searches</string>
+	<key>Recents</key>
+	<string>Recents</string>
+	<key>Recommended</key>
+	<string>Recommended</string>
+	<key>Rectangle</key>
+	<string>Rectangle</string>
+	<key>Red Fill</key>
+	<string>Red Fill</string>
+	<key>Red Text</key>
+	<string>Red Text</string>
+	<key>Redefine Style from Selection</key>
+	<string>Redefine Style from Selection</string>
+	<key>Redo</key>
+	<string>Redo</string>
+	<key>Reflection</key>
+	<string>Reflection</string>
+	<key>Remember this password</key>
+	<string>Remember this password</string>
+	<key>Remove Highlight</key>
+	<string>Remove Highlight</string>
+	<key>Remove the selected tab stop.</key>
+	<string>Remove the selected tab stop.</string>
+	<key>Rename</key>
+	<string>Rename</string>
+	<key>Rename Folder</key>
+	<string>Rename Folder</string>
+	<key>Replace</key>
+	<string>Replace</string>
+	<key>Replace &amp; Find</key>
+	<string>Replace &amp; Find</string>
+	<key>Replace All</key>
+	<string>Replace All</string>
+	<key>Replace all matches with the replacement text.</key>
+	<string>Replace all matches with the replacement text.</string>
+	<key>Replace the current selection with the replacement text, then find the next match.</key>
+	<string>Replace the current selection with the replacement text, then find the next match.</string>
+	<key>Replace the current selection with the replacement text.</key>
+	<string>Replace the current selection with the replacement text.</string>
+	<key>Require Password</key>
+	<string>Require Password</string>
+	<key>Required</key>
+	<string>Required</string>
+	<key>Resolve Conflict</key>
+	<string>Resolve Conflict</string>
+	<key>Reverse the direction of text.</key>
+	<string>Reverse the direction of text.</string>
+	<key>Right</key>
+	<string>Right</string>
+	<key>Right Diagonal</key>
+	<string>Right Diagonal</string>
+	<key>Right Vertical</key>
+	<string>Right Vertical</string>
+	<key>Right border</key>
+	<string>Right border</string>
+	<key>Row &amp; Column Size</key>
+	<string>Row &amp; Column Size</string>
+	<key>Rule %lu</key>
+	<string>Rule %lu</string>
+	<key>Rulers</key>
+	<string>Rulers</string>
+	<key>R² Value</key>
+	<string>R² Value</string>
+	<key>Same</key>
+	<string>Same</string>
+	<key>Same as Source Data</key>
+	<string>Same as Source Data</string>
+	<key>Save\U2026</key>
+	<string>Save…</string>
+	<key>Scientific</key>
+	<string>Scientific</string>
+	<key>Select an image to use as a bullet.</key>
+	<string>Select an image to use as a bullet.</string>
+	<key>Select an object or text to format.</key>
+	<string>Select an object or text to format.</string>
+	<key>Select an object, then tap this button again to format it.</key>
+	<string>Select an object, then tap this button again to format it.</string>
+	<key>Select to add a reflection to an object.</key>
+	<string>Select to add a reflection to an object.</string>
+	<key>Select to add a shadow to selected text.</key>
+	<string>Select to add a shadow to selected text.</string>
+	<key>Select to display negative numbers using two’s-complement notation.</key>
+	<string>Select to display negative numbers using two’s-complement notation.</string>
+	<key>Select to display negative numbers with a minus sign.</key>
+	<string>Select to display negative numbers with a minus sign.</string>
+	<key>Select to make all columns the same width.</key>
+	<string>Select to make all columns the same width.</string>
+	<key>Select to show alignment guides at the edges of objects.</key>
+	<string>Select to show alignment guides at the edges of objects.</string>
+	<key>Select to show alignment guides in the center of objects.</key>
+	<string>Select to show alignment guides in the center of objects.</string>
+	<key>Select to show alignment guides when objects are resized relative to one another.</key>
+	<string>Select to show alignment guides when objects are resized relative to one another.</string>
+	<key>Select to show alignment guides when objects are spaced relative to one another.</key>
+	<string>Select to show alignment guides when objects are spaced relative to one another.</string>
+	<key>Select to show only the outline of selected text characters.</key>
+	<string>Select to show only the outline of selected text characters.</string>
+	<key>Select to show the axis labels shadow.</key>
+	<string>Select to show the axis labels shadow.</string>
+	<key>Select to show the axis title shadow.</key>
+	<string>Select to show the axis title shadow.</string>
+	<key>Select to show the chart shadow.</key>
+	<string>Select to show the chart shadow.</string>
+	<key>Select to show the data set name shadow.</key>
+	<string>Select to show the data set name shadow.</string>
+	<key>Select to show the equation shadow.</key>
+	<string>Select to show the equation shadow.</string>
+	<key>Select to show the error bar shadow.</key>
+	<string>Select to show the error bar shadow.</string>
+	<key>Select to show the labels shadow.</key>
+	<string>Select to show the labels shadow.</string>
+	<key>Select to show the legend shadow.</key>
+	<string>Select to show the legend shadow.</string>
+	<key>Select to show the series shadow.</key>
+	<string>Select to show the series shadow.</string>
+	<key>Select to show the shadow.</key>
+	<string>Select to show the shadow.</string>
+	<key>Select to show the title shadow.</key>
+	<string>Select to show the title shadow.</string>
+	<key>Select to show the trend line shadow.</key>
+	<string>Select to show the trend line shadow.</string>
+	<key>Select to show the value labels shadow.</key>
+	<string>Select to show the value labels shadow.</string>
+	<key>Select to strikethrough text.</key>
+	<string>Select to strikethrough text.</string>
+	<key>Select to use tiered numbers (for example, 1, 1.1, 1.2).</key>
+	<string>Select to use tiered numbers (for example, 1, 1.1, 1.2).</string>
+	<key>Send</key>
+	<string>Send</string>
+	<key>Send Link\U2026</key>
+	<string>Send Link…</string>
+	<key>Send a Copy</key>
+	<string>Send a Copy</string>
+	<key>Send to WebDAV</key>
+	<string>Send to WebDAV</string>
+	<key>Send to iTunes</key>
+	<string>Send to iTunes</string>
+	<key>Send via %@</key>
+	<string>Send via %@</string>
+	<key>Send via Mail</key>
+	<string>Send via Mail</string>
+	<key>Series</key>
+	<string>Series</string>
+	<key>Series Fill</key>
+	<string>Series Fill</string>
+	<key>Server Address</key>
+	<string>Server Address</string>
+	<key>Server not found.</key>
+	<string>Server not found.</string>
+	<key>Set Password</key>
+	<string>Set Password</string>
+	<key>Set Up iCloud</key>
+	<string>Set Up iCloud</string>
+	<key>Set how far the shadow is from the text.</key>
+	<string>Set how far the shadow is from the text.</string>
+	<key>Set how much to raise or lower selected text.</key>
+	<string>Set how much to raise or lower selected text.</string>
+	<key>Set how much to soften the edges of the shadow.</key>
+	<string>Set how much to soften the edges of the shadow.</string>
+	<key>Set the amount of space between lines of text.</key>
+	<string>Set the amount of space between lines of text.</string>
+	<key>Set the amount of space between text characters.</key>
+	<string>Set the amount of space between text characters.</string>
+	<key>Set the amount of space between the bullet and the left margin.</key>
+	<string>Set the amount of space between the bullet and the left margin.</string>
+	<key>Set the amount of space between the bullet and the text.</key>
+	<string>Set the amount of space between the bullet and the text.</string>
+	<key>Set the amount of space between the number and the left margin.</key>
+	<string>Set the amount of space between the number and the left margin.</string>
+	<key>Set the amount of space between the number and the text.</key>
+	<string>Set the amount of space between the number and the text.</string>
+	<key>Set the amount of space between the paragraph and its border.</key>
+	<string>Set the amount of space between the paragraph and its border.</string>
+	<key>Set the amount of space between the selected text and the left margin.</key>
+	<string>Set the amount of space between the selected text and the left margin.</string>
+	<key>Set the angle of the shadow.</key>
+	<string>Set the angle of the shadow.</string>
+	<key>Set the default amount of space between tabs.</key>
+	<string>Set the default amount of space between tabs.</string>
+	<key>Set the distance from the end of the line to the left edge of the page.</key>
+	<string>Set the distance from the end of the line to the left edge of the page.</string>
+	<key>Set the distance from the end of the line to the left edge of the screen.</key>
+	<string>Set the distance from the end of the line to the left edge of the screen.</string>
+	<key>Set the distance from the end of the line to the left edge of the sheet.</key>
+	<string>Set the distance from the end of the line to the left edge of the sheet.</string>
+	<key>Set the distance from the end of the line to the left edge of the slide.</key>
+	<string>Set the distance from the end of the line to the left edge of the slide.</string>
+	<key>Set the distance from the object’s top-left corner to the left edge of the page.</key>
+	<string>Set the distance from the object’s top-left corner to the left edge of the page.</string>
+	<key>Set the distance from the object’s top-left corner to the left edge of the sheet.</key>
+	<string>Set the distance from the object’s top-left corner to the left edge of the sheet.</string>
+	<key>Set the distance from the object’s top-left corner to the left edge of the slide.</key>
+	<string>Set the distance from the object’s top-left corner to the left edge of the slide.</string>
+	<key>Set the distance from the start of the line to the left edge of the page.</key>
+	<string>Set the distance from the start of the line to the left edge of the page.</string>
+	<key>Set the distance from the start of the line to the left edge of the screen.</key>
+	<string>Set the distance from the start of the line to the left edge of the screen.</string>
+	<key>Set the distance from the start of the line to the left edge of the sheet.</key>
+	<string>Set the distance from the start of the line to the left edge of the sheet.</string>
+	<key>Set the distance from the start of the line to the left edge of the slide.</key>
+	<string>Set the distance from the start of the line to the left edge of the slide.</string>
+	<key>Set the first number to appear in the list.</key>
+	<string>Set the first number to appear in the list.</string>
+	<key>Set the font size.</key>
+	<string>Set the font size.</string>
+	<key>Set the line width.</key>
+	<string>Set the line width.</string>
+	<key>Set the number of columns.</key>
+	<string>Set the number of columns.</string>
+	<key>Set the transparency of the shadow.</key>
+	<string>Set the transparency of the shadow.</string>
+	<key>Set the vertical position of the bullet relative to the text.</key>
+	<string>Set the vertical position of the bullet relative to the text.</string>
+	<key>Settings</key>
+	<string>Settings</string>
+	<key>Settings...</key>
+	<string>Settings...</string>
+	<key>Setup</key>
+	<string>Setup</string>
+	<key>Shadow</key>
+	<string>Shadow</string>
+	<key>Shape</key>
+	<string>Shape</string>
+	<key>Shape Styles</key>
+	<string>Shape Styles</string>
+	<key>Share</key>
+	<string>Share</string>
+	<key>Share Settings</key>
+	<string>Share Settings</string>
+	<key>Share and Print</key>
+	<string>Share and Print</string>
+	<key>Sharing Unavailable</key>
+	<string>Sharing Unavailable</string>
+	<key>Sharing is temporarily unavailable</key>
+	<string>Sharing is temporarily unavailable</string>
+	<key>Show All Category Labels</key>
+	<string>Show All Category Labels</string>
+	<key>Show All...</key>
+	<string>Show All...</string>
+	<key>Show Categories</key>
+	<string>Show Categories</string>
+	<key>Show Comments</key>
+	<string>Show Comments</string>
+	<key>Show Find &amp; Replace</key>
+	<string>Show Find &amp; Replace</string>
+	<key>Show Find &amp; Replace options.</key>
+	<string>Show Find &amp; Replace options.</string>
+	<key>Show Guides</key>
+	<string>Show Guides</string>
+	<key>Show Inspector</key>
+	<string>Show Inspector</string>
+	<key>Show Last Category</key>
+	<string>Show Last Category</string>
+	<key>Show or hide format and style options.</key>
+	<string>Show or hide format and style options.</string>
+	<key>Sign In</key>
+	<string>Sign In</string>
+	<key>Sign Out</key>
+	<string>Sign Out</string>
+	<key>Sixteenths</key>
+	<string>Sixteenths</string>
+	<key>Size the bullet as a percentage of the text size.</key>
+	<string>Size the bullet as a percentage of the text size.</string>
+	<key>Size the number as a percentage of the text size.</key>
+	<string>Size the number as a percentage of the text size.</string>
+	<key>Sizes</key>
+	<string>Sizes</string>
+	<key>Slider and Buttons</key>
+	<string>Slider and Buttons</string>
+	<key>Small</key>
+	<string>Small</string>
+	<key>Small Caps</key>
+	<string>Small Caps</string>
+	<key>Some external movies are missing because they\U2019re no longer available.</key>
+	<string>Some external movies are missing because they’re no longer available.</string>
+	<key>Some images are missing because they were deleted from the document.</key>
+	<string>Some images are missing because they were deleted from the document.</string>
+	<key>Some media won\U2019t display on iOS.</key>
+	<string>Some media won’t display on iOS.</string>
+	<key>Sorry, the password you entered was invalid.</key>
+	<string>Sorry, the password you entered was invalid.</string>
+	<key>Spacing</key>
+	<string>Spacing</string>
+	<key>Spacing Guides</key>
+	<string>Spacing Guides</string>
+	<key>Square</key>
+	<string>Square</string>
+	<key>Standard</key>
+	<string>Standard</string>
+	<key>Standard Deviation</key>
+	<string>Standard Deviation</string>
+	<key>Standard Error</key>
+	<string>Standard Error</string>
+	<key>Start a new number sequence for the list.</key>
+	<string>Start a new number sequence for the list.</string>
+	<key>Start with Blank</key>
+	<string>Start with Blank</string>
+	<key>Start with First Item</key>
+	<string>Start with First Item</string>
+	<key>Steps:</key>
+	<string>Steps:</string>
+	<key>Still Syncing</key>
+	<string>Still Syncing</string>
+	<key>Stop Sharing</key>
+	<string>Stop Sharing</string>
+	<key>Straight</key>
+	<string>Straight</string>
+	<key>Stroke</key>
+	<string>Stroke</string>
+	<key>Style</key>
+	<string>Style</string>
+	<key>Subscript</key>
+	<string>Subscript</string>
+	<key>Sum</key>
+	<string>Sum</string>
+	<key>Superscript</key>
+	<string>Superscript</string>
+	<key>System Preferences</key>
+	<string>System Preferences</string>
+	<key>Table</key>
+	<string>Table</string>
+	<key>Table Styles</key>
+	<string>Table Styles</string>
+	<key>Tabs</key>
+	<string>Tabs</string>
+	<key>Teal Fill</key>
+	<string>Teal Fill</string>
+	<key>Tenths</key>
+	<string>Tenths</string>
+	<key>Text</key>
+	<string>Text</string>
+	<key>Text Box</key>
+	<string>Text Box</string>
+	<key>Text Box Styles</key>
+	<string>Text Box Styles</string>
+	<key>Texture Fill</key>
+	<string>Texture Fill</string>
+	<key>Textures</key>
+	<string>Textures</string>
+	<key>That\U2019s not the correct password.</key>
+	<string>That’s not the correct password.</string>
+	<key>The certificate for this WebDAV server is invalid. Would you like to continue?</key>
+	<string>The certificate for this WebDAV server is invalid. Would you like to continue?</string>
+	<key>The document can\U2019t be opened because it uses an unsupported method of encryption.</key>
+	<string>The document can’t be opened because it uses an unsupported method of encryption.</string>
+	<key>The file format is invalid.</key>
+	<string>The file format is invalid.</string>
+	<key>The folder couldn\U2019t be renamed. Please try again later.</key>
+	<string>The folder couldn’t be renamed. Please try again later.</string>
+	<key>The font %@ is missing. Your text might look different.</key>
+	<string>The font %@ is missing. Your text might look different.</string>
+	<key>The movie couldn\U2019t be inserted because the URL is invalid.</key>
+	<string>The movie couldn’t be inserted because the URL is invalid.</string>
+	<key>The selected movies are already optimized for iOS.</key>
+	<string>The selected movies are already optimized for iOS.</string>
+	<key>There may be a problem with the server or network. Please try again.</key>
+	<string>There may be a problem with the server or network. Please try again.</string>
+	<key>There was a problem downloading document fonts.
+Your document may look different temporarily, but no information has been lost.</key>
+	<string>There was a problem downloading document fonts.
+Your document may look different temporarily, but no information has been lost.</string>
+	<key>This image is of an unsupported type.</key>
+	<string>This image is of an unsupported type.</string>
+	<key>This image is too large to insert.</key>
+	<string>This image is too large to insert.</string>
+	<key>This may be a read-only location.</key>
+	<string>This may be a read-only location.</string>
+	<key>This movie is already optimized for iOS.</key>
+	<string>This movie is already optimized for iOS.</string>
+	<key>Time</key>
+	<string>Time</string>
+	<key>Tiny</key>
+	<string>Tiny</string>
+	<key>Tips</key>
+	<string>Tips</string>
+	<key>Title Case</key>
+	<string>Title Case</string>
+	<key>To add movies, go to iMovie or iPhoto.</key>
+	<string>To add movies, go to iMovie or iPhoto.</string>
+	<key>To add music, go to iTunes.</key>
+	<string>To add music, go to iTunes.</string>
+	<key>To add photos, go to iPhoto.</key>
+	<string>To add photos, go to iPhoto.</string>
+	<key>To display the link, turn on sharing.</key>
+	<string>To display the link, turn on sharing.</string>
+	<key>Today, %@</key>
+	<string>Today, %@</string>
+	<key>Tools</key>
+	<string>Tools</string>
+	<key>Top</key>
+	<string>Top</string>
+	<key>Top border</key>
+	<string>Top border</string>
+	<key>Trendline</key>
+	<string>Trendline</string>
+	<key>Trendline Options</key>
+	<string>Trendline Options</string>
+	<key>Trendlines</key>
+	<string>Trendlines</string>
+	<key>Triangle</key>
+	<string>Triangle</string>
+	<key>Type a label to follow numbers on the value axis.</key>
+	<string>Type a label to follow numbers on the value axis.</string>
+	<key>Type a label to follow numbers.</key>
+	<string>Type a label to follow numbers.</string>
+	<key>Type a label to precede numbers on the value axis.</key>
+	<string>Type a label to precede numbers on the value axis.</string>
+	<key>Type a label to precede numbers.</key>
+	<string>Type a label to precede numbers.</string>
+	<key>Type a name to use in comments
+and tracked changes.</key>
+	<string>Type a name to use in comments
+and tracked changes.</string>
+	<key>Type text to replace the found text.</key>
+	<string>Type text to replace the found text.</string>
+	<key>Type the amount the value changes as you click the stepper arrows.</key>
+	<string>Type the amount the value changes as you click the stepper arrows.</string>
+	<key>Type the amount the value changes as you drag the slider.</key>
+	<string>Type the amount the value changes as you drag the slider.</string>
+	<key>Type the character the decimal tab aligns to (for example, a period or a comma).</key>
+	<string>Type the character the decimal tab aligns to (for example, a period or a comma).</string>
+	<key>Type the maximum slider value.</key>
+	<string>Type the maximum slider value.</string>
+	<key>Type the maximum stepper value.</key>
+	<string>Type the maximum stepper value.</string>
+	<key>Type the minimum slider value.</key>
+	<string>Type the minimum slider value.</string>
+	<key>Type the minimum stepper value.</key>
+	<string>Type the minimum stepper value.</string>
+	<key>Type the text to search for.</key>
+	<string>Type the text to search for.</string>
+	<key>Unable to modify document password. Please try again later.</key>
+	<string>Unable to modify document password. Please try again later.</string>
+	<key>Unable to prepare document for export</key>
+	<string>Unable to prepare document for export</string>
+	<key>Undo</key>
+	<string>Undo</string>
+	<key>Unknown Error</key>
+	<string>Unknown Error</string>
+	<key>Unknown Format</key>
+	<string>Unknown Format</string>
+	<key>Unknown error</key>
+	<string>Unknown error</string>
+	<key>Unresolved Conflicts</key>
+	<string>Unresolved Conflicts</string>
+	<key>Unsupported URL.</key>
+	<string>Unsupported URL.</string>
+	<key>Up to 1 digit (7/8)</key>
+	<string>Up to 1 digit (7/8)</string>
+	<key>Up to 2 digits (23/24)</key>
+	<string>Up to 2 digits (23/24)</string>
+	<key>Up to 3 digits (445/553)</key>
+	<string>Up to 3 digits (445/553)</string>
+	<key>Update</key>
+	<string>Update</string>
+	<key>Update all paragraphs that use this style.</key>
+	<string>Update all paragraphs that use this style.</string>
+	<key>Updating movies\U2026</key>
+	<string>Updating movies…</string>
+	<key>Use All</key>
+	<string>Use All</string>
+	<key>Use Default</key>
+	<string>Use Default</string>
+	<key>Use None</key>
+	<string>Use None</string>
+	<key>Use Series Fill Color</key>
+	<string>Use Series Fill Color</string>
+	<key>Use Series Stroke Color</key>
+	<string>Use Series Stroke Color</string>
+	<key>Use iCloud</key>
+	<string>Use iCloud</string>
+	<key>User</key>
+	<string>User</string>
+	<key>User Name</key>
+	<string>User Name</string>
+	<key>Users</key>
+	<string>Users</string>
+	<key>Value</key>
+	<string>Value</string>
+	<key>Value Axis Y1</key>
+	<string>Value Axis Y1</string>
+	<key>Value Axis Y2</key>
+	<string>Value Axis Y2</string>
+	<key>Value Labels</key>
+	<string>Value Labels</string>
+	<key>Value:</key>
+	<string>Value:</string>
+	<key>Verify</key>
+	<string>Verify</string>
+	<key>Verifying</key>
+	<string>Verifying</string>
+	<key>View</key>
+	<string>View</string>
+	<key>View Details</key>
+	<string>View Details</string>
+	<key>View Share Settings</key>
+	<string>View Share Settings</string>
+	<key>Visit the App Store to download the latest version of %@.</key>
+	<string>Visit the App Store to download the latest version of %@.</string>
+	<key>Visit the Mac App Store to download the latest version of %@.</key>
+	<string>Visit the Mac App Store to download the latest version of %@.</string>
+	<key>Wait for the move to complete, then try sharing again.</key>
+	<string>Wait for the move to complete, then try sharing again.</string>
+	<key>WebDAV</key>
+	<string>WebDAV</string>
+	<key>WebDAV Sign In</key>
+	<string>WebDAV Sign In</string>
+	<key>Wedge</key>
+	<string>Wedge</string>
+	<key>Wedge Fill</key>
+	<string>Wedge Fill</string>
+	<key>Wedges</key>
+	<string>Wedges</string>
+	<key>Whole Words</key>
+	<string>Whole Words</string>
+	<key>Wide</key>
+	<string>Wide</string>
+	<key>X</key>
+	<string>X</string>
+	<key>X Axis Error Bars</key>
+	<string>X Axis Error Bars</string>
+	<key>X Value:</key>
+	<string>X Value:</string>
+	<key>X and Y</key>
+	<string>X and Y</string>
+	<key>Y</key>
+	<string>Y</string>
+	<key>Y Axis Error Bars</key>
+	<string>Y Axis Error Bars</string>
+	<key>Y Value:</key>
+	<string>Y Value:</string>
+	<key>Yellow Fill</key>
+	<string>Yellow Fill</string>
+	<key>Yesterday, %@</key>
+	<string>Yesterday, %@</string>
+	<key>Yield</key>
+	<string>Yield</string>
+	<key>You can manage your storage in Settings.</key>
+	<string>You can manage your storage in Settings.</string>
+	<key>You\U2019ll choose an app in the next step.</key>
+	<string>You’ll choose an app in the next step.</string>
+	<key>You\U2019re Not Using iCloud</key>
+	<string>You’re Not Using iCloud</string>
+	<key>Your document contains %@ movies that can\U2019t be played.</key>
+	<string>Your document contains %@ movies that can’t be played.</string>
+	<key>Your document contains %@ movies that can\U2019t play on some iOS devices.</key>
+	<string>Your document contains %@ movies that can’t play on some iOS devices.</string>
+	<key>Your document contains a movie that can\U2019t be played.</key>
+	<string>Your document contains a movie that can’t be played.</string>
+	<key>Your document contains a movie that can\U2019t play on some iOS devices.</key>
+	<string>Your document contains a movie that can’t play on some iOS devices.</string>
+	<key>Your presentation contains %@ movies that can\U2019t be played.</key>
+	<string>Your presentation contains %@ movies that can’t be played.</string>
+	<key>Your presentation contains %@ movies that can\U2019t play on some iOS devices.</key>
+	<string>Your presentation contains %@ movies that can’t play on some iOS devices.</string>
+	<key>Your presentation contains a movie that can\U2019t be played.</key>
+	<string>Your presentation contains a movie that can’t be played.</string>
+	<key>Your presentation contains a movie that can\U2019t play on some iOS devices.</key>
+	<string>Your presentation contains a movie that can’t play on some iOS devices.</string>
+	<key>Your spreadsheet contains %@ movies that can\U2019t be played.</key>
+	<string>Your spreadsheet contains %@ movies that can’t be played.</string>
+	<key>Your spreadsheet contains %@ movies that can\U2019t play on some iOS devices.</key>
+	<string>Your spreadsheet contains %@ movies that can’t play on some iOS devices.</string>
+	<key>Your spreadsheet contains a movie that can\U2019t be played.</key>
+	<string>Your spreadsheet contains a movie that can’t be played.</string>
+	<key>Your spreadsheet contains a movie that can\U2019t play on some iOS devices.</key>
+	<string>Your spreadsheet contains a movie that can’t play on some iOS devices.</string>
+	<key>Zoom</key>
+	<string>Zoom</string>
+	<key>\U201C%@\U201D</key>
+	<string>“%@”</string>
+	<key>\U201C%@\U201D can\U2019t be opened.</key>
+	<string>“%@” can’t be opened.</string>
+	<key>\U201C%@\U201D has been deleted.</key>
+	<string>“%@” has been deleted.</string>
+	<key>\U201C%@\U201D is already taken. Please choose a different name.</key>
+	<string>“%@” is already taken. Please choose a different name.</string>
+	<key>\U201C%@\U201D modified %@</key>
+	<string>“%1$@” modified %2$@</string>
+	<key>about %d days</key>
+	<string>about %d days</string>
+	<key>about %d hours</key>
+	<string>about %d hours</string>
+	<key>about %d minutes</key>
+	<string>about %d minutes</string>
+	<key>about a day</key>
+	<string>about a day</string>
+	<key>about a minute</key>
+	<string>about a minute</string>
+	<key>about an hour</key>
+	<string>about an hour</string>
+	<key>above average</key>
+	<string>above average</string>
+	<key>after the date…</key>
+	<string>after the date…</string>
+	<key>after…</key>
+	<string>after…</string>
+	<key>before the date…</key>
+	<string>before the date…</string>
+	<key>before…</key>
+	<string>before…</string>
+	<key>below average</key>
+	<string>below average</string>
+	<key>between</key>
+	<string>between</string>
+	<key>between
+two durations…</key>
+	<string>between
+two durations…</string>
+	<key>between
+two numbers…</key>
+	<string>between
+two numbers…</string>
+	<key>between…</key>
+	<string>between…</string>
+	<key>cell is blank</key>
+	<string>cell is blank</string>
+	<key>cell is not blank</key>
+	<string>cell is not blank</string>
+	<key>choose color</key>
+	<string>choose color</string>
+	<key>color swatch</key>
+	<string>color swatch</string>
+	<key>color well</key>
+	<string>color well</string>
+	<key>contains…</key>
+	<string>contains…</string>
+	<key>date is</key>
+	<string>date is</string>
+	<key>date is after</key>
+	<string>date is after</string>
+	<key>date is before</key>
+	<string>date is before</string>
+	<key>date is between</key>
+	<string>date is between</string>
+	<key>date is exactly</key>
+	<string>date is exactly</string>
+	<key>date is in the last</key>
+	<string>date is in the last</string>
+	<key>date is in the next</key>
+	<string>date is in the next</string>
+	<key>date is in the range</key>
+	<string>date is in the range</string>
+	<key>date is in this</key>
+	<string>date is in this</string>
+	<key>date is today</key>
+	<string>date is today</string>
+	<key>date is tomorrow</key>
+	<string>date is tomorrow</string>
+	<key>date is yesterday</key>
+	<string>date is yesterday</string>
+	<key>does not contain…</key>
+	<string>does not contain…</string>
+	<key>ends with…</key>
+	<string>ends with…</string>
+	<key>equal to</key>
+	<string>equal to</string>
+	<key>equal to
+a duration…</key>
+	<string>equal to
+a duration…</string>
+	<key>equal to
+a number…</key>
+	<string>equal to
+a number…</string>
+	<key>exactly…</key>
+	<string>exactly…</string>
+	<key>greater than</key>
+	<string>greater than</string>
+	<key>greater than
+a duration…</key>
+	<string>greater than
+a duration…</string>
+	<key>greater than
+a number…</key>
+	<string>greater than
+a number…</string>
+	<key>greater than or equal to</key>
+	<string>greater than or equal to</string>
+	<key>greater than or equal to
+a duration…</key>
+	<string>greater than or equal to
+a duration…</string>
+	<key>greater than or equal to
+a number…</key>
+	<string>greater than or equal to
+a number…</string>
+	<key>http://support.apple.com/kb/HT4283</key>
+	<string>http://support.apple.com/kb/HT4283</string>
+	<key>http://www.apple.com/support/%@/</key>
+	<string>http://www.apple.com/support/%@/</string>
+	<key>iCloud Updates Pending</key>
+	<string>iCloud Updates Pending</string>
+	<key>iCloud is Available</key>
+	<string>iCloud is Available</string>
+	<key>iMOVIE EVENTS</key>
+	<string>iMOVIE EVENTS</string>
+	<key>iPHOTO EVENTS</key>
+	<string>iPHOTO EVENTS</string>
+	<key>iTunes</key>
+	<string>iTunes</string>
+	<key>iWork Document Password</key>
+	<string>iWork Document Password</string>
+	<key>in the bottom</key>
+	<string>in the bottom</string>
+	<key>in the bottom
+a duration…</key>
+	<string>in the bottom
+a duration…</string>
+	<key>in the bottom
+a number…</key>
+	<string>in the bottom
+a number…</string>
+	<key>in the last
+week, month or year…</key>
+	<string>in the last
+week, month or year…</string>
+	<key>in the next
+week, month or year…</key>
+	<string>in the next
+week, month or year…</string>
+	<key>in the range…</key>
+	<string>in the range…</string>
+	<key>in the top</key>
+	<string>in the top</string>
+	<key>in the top
+a duration…</key>
+	<string>in the top
+a duration…</string>
+	<key>in the top
+a number…</key>
+	<string>in the top
+a number…</string>
+	<key>in this</key>
+	<string>in this</string>
+	<key>is blank</key>
+	<string>is blank</string>
+	<key>is not blank</key>
+	<string>is not blank</string>
+	<key>is not…</key>
+	<string>is not…</string>
+	<key>is…</key>
+	<string>is…</string>
+	<key>less than</key>
+	<string>less than</string>
+	<key>less than
+a duration…</key>
+	<string>less than
+a duration…</string>
+	<key>less than
+a number…</key>
+	<string>less than
+a number…</string>
+	<key>less than a minute</key>
+	<string>less than a minute</string>
+	<key>less than or equal to</key>
+	<string>less than or equal to</string>
+	<key>less than or equal to
+a duration…</key>
+	<string>less than or equal to
+a duration…</string>
+	<key>less than or equal to
+a number…</key>
+	<string>less than or equal to
+a number…</string>
+	<key>none</key>
+	<string>none</string>
+	<key>not between</key>
+	<string>not between</string>
+	<key>not between
+two durations…</key>
+	<string>not between
+two durations…</string>
+	<key>not between
+two numbers…</key>
+	<string>not between
+two numbers…</string>
+	<key>not equal to</key>
+	<string>not equal to</string>
+	<key>not equal to
+a duration…</key>
+	<string>not equal to
+a duration…</string>
+	<key>not equal to
+a number…</key>
+	<string>not equal to
+a number…</string>
+	<key>paragraph alignment</key>
+	<string>paragraph alignment</string>
+	<key>paragraph level</key>
+	<string>paragraph level</string>
+	<key>set the paragraph alignment</key>
+	<string>set the paragraph alignment</string>
+	<key>set the paragraph level</key>
+	<string>set the paragraph level</string>
+	<key>set the vertical alignment</key>
+	<string>set the vertical alignment</string>
+	<key>sets text color</key>
+	<string>sets text color</string>
+	<key>starts with…</key>
+	<string>starts with…</string>
+	<key>text contains</key>
+	<string>text contains</string>
+	<key>text does not contain</key>
+	<string>text does not contain</string>
+	<key>text ends with</key>
+	<string>text ends with</string>
+	<key>text is</key>
+	<string>text is</string>
+	<key>text is not</key>
+	<string>text is not</string>
+	<key>text starts with</key>
+	<string>text starts with</string>
+	<key>the exact date…</key>
+	<string>the exact date…</string>
+	<key>today</key>
+	<string>today</string>
+	<key>tomorrow</key>
+	<string>tomorrow</string>
+	<key>vertical alignment</key>
+	<string>vertical alignment</string>
+	<key>yesterday</key>
+	<string>yesterday</string>
+</dict>
+</plist>

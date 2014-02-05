@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ICLOUD_AUTHORIZATION_ALERT_BAD_PASS</key>
+	<string>Your iCloud password was incorrect. Please try again.</string>
+	<key>ICLOUD_AUTHORIZATION_ALERT_CANCEL</key>
+	<string>Cancel</string>
+	<key>ICLOUD_AUTHORIZATION_ALERT_CANT_VERIFY</key>
+	<string>Your iCloud password cannot be verified at this time.</string>
+	<key>ICLOUD_AUTHORIZATION_ALERT_LATER</key>
+	<string>Later</string>
+	<key>ICLOUD_AUTHORIZATION_ALERT_RETRY</key>
+	<string>Retry</string>
+	<key>ICLOUD_PASSWORD_ALERT_CANCEL</key>
+	<string>Cancel</string>
+	<key>ICLOUD_PASSWORD_ALERT_OK</key>
+	<string>OK</string>
+	<key>ICLOUD_PASSWORD_ALERT_PASSWORD</key>
+	<string>Password</string>
+	<key>ICLOUD_PASSWORD_ALERT_TITLE</key>
+	<string>Apple ID Password</string>
+	<key>INCOMPLETE_RESTORE_DESCRIPTION</key>
+	<string>Some items could not be restored from the iCloud backup.</string>
+	<key>INCOMPLETE_RESTORE_OK</key>
+	<string>OK</string>
+	<key>INCOMPLETE_RESTORE_TITLE</key>
+	<string>Restore Incomplete</string>
+	<key>LATE_BACKUP_ALERT_DESCRIPTION_CH_IPAD</key>
+	<string>This iPad hasn’t been backed up in %@ weeks. Backups happen when this iPad is plugged in, locked, and connected to WLAN.</string>
+	<key>LATE_BACKUP_ALERT_DESCRIPTION_CH_IPHONE</key>
+	<string>This iPhone hasn’t been backed up in %@ weeks. Backups happen when this iPhone is plugged in, locked, and connected to WLAN.</string>
+	<key>LATE_BACKUP_ALERT_DESCRIPTION_CH_IPOD</key>
+	<string>This iPod touch hasn’t been backed up in %@ weeks. Backups happen when this iPod touch is plugged in, locked, and connected to WLAN.</string>
+	<key>LATE_BACKUP_ALERT_DESCRIPTION_IPAD</key>
+	<string>This iPad hasn’t been backed up in %@ weeks. Backups happen when this iPad is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>LATE_BACKUP_ALERT_DESCRIPTION_IPHONE</key>
+	<string>This iPhone hasn’t been backed up in %@ weeks. Backups happen when this iPhone is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>LATE_BACKUP_ALERT_DESCRIPTION_IPOD</key>
+	<string>This iPod touch hasn’t been backed up in %@ weeks. Backups happen when this iPod touch is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>LATE_BACKUP_ALERT_TITLE</key>
+	<string>iCloud Backup</string>
+	<key>LATE_BACKUP_OK_BUTTON</key>
+	<string>OK</string>
+	<key>LOW_DISK_SPACE_DISMISS</key>
+	<string>Done</string>
+	<key>LOW_DISK_SPACE_MESSAGE</key>
+	<string>You can manage your storage in Settings.</string>
+	<key>LOW_DISK_SPACE_SETTINGS</key>
+	<string>Settings</string>
+	<key>LOW_DISK_SPACE_TITLE</key>
+	<string>Storage Almost Full</string>
+	<key>MBS_RESTORE_WARN_ALERT_DELETE_BUTTON</key>
+	<string>Delete</string>
+	<key>MBS_RESTORE_WARN_ALERT_DESCRIPTION_IPAD</key>
+	<string>This iPad has not been backed up recently because it has not finished being restored. Would you like to finish downloading any remaining purchases and media before backing up, or delete them along with any app data?</string>
+	<key>MBS_RESTORE_WARN_ALERT_DESCRIPTION_IPHONE</key>
+	<string>This iPhone has not been backed up recently because it has not finished being restored. Would you like to finish downloading any remaining purchases and media before backing up, or delete them along with any app data?</string>
+	<key>MBS_RESTORE_WARN_ALERT_DESCRIPTION_IPOD</key>
+	<string>This iPod touch has not been backed up recently because it has not finished being restored. Would you like to finish downloading any remaining purchases and media before backing up, or delete them along with any app data?</string>
+	<key>MBS_RESTORE_WARN_ALERT_DOWNLOAD_BUTTON</key>
+	<string>Download</string>
+	<key>MBS_RESTORE_WARN_ALERT_TITLE</key>
+	<string>Continue Restoring?</string>
+	<key>MBS_UNAUTHORIZED_ALERT_DESCRIPTION</key>
+	<string>iCloud Backup is unable to access the account "%@". Review your account information in Settings.</string>
+	<key>MBS_UNAUTHORIZED_ALERT_IGNORE_BUTTON</key>
+	<string>Ignore</string>
+	<key>MBS_UNAUTHORIZED_ALERT_SETTINGS_BUTTON</key>
+	<string>Settings</string>
+	<key>MBS_UNAUTHORIZED_ALERT_TITLE</key>
+	<string>iCloud Backup</string>
+	<key>MBS_WIFI_NEEDED_ALERT_DESCRIPTION</key>
+	<string>A Wi-Fi connection is required to download your apps and media.</string>
+	<key>MBS_WIFI_NEEDED_ALERT_DESCRIPTION_CH</key>
+	<string>A WLAN connection is required to download your apps and media.</string>
+	<key>MBS_WIFI_NEEDED_ALERT_IGNORE_BUTTON</key>
+	<string>Later</string>
+	<key>MBS_WIFI_NEEDED_ALERT_SETTINGS_BUTTON</key>
+	<string>Use Wi-Fi</string>
+	<key>MBS_WIFI_NEEDED_ALERT_SETTINGS_BUTTON_CH</key>
+	<string>Use WLAN</string>
+	<key>MBS_WIFI_NEEDED_ALERT_TITLE</key>
+	<string>Use Wi-Fi to Restore</string>
+	<key>MBS_WIFI_NEEDED_ALERT_TITLE_CH</key>
+	<string>Use WLAN to Restore</string>
+	<key>MISSING_BACKUP_ALERT_DESCRIPTION_CH_IPAD</key>
+	<string>This iPad hasn't been backed up. Backups happen when this iPad is plugged in, locked, and connected to WLAN.</string>
+	<key>MISSING_BACKUP_ALERT_DESCRIPTION_CH_IPHONE</key>
+	<string>This iPhone hasn't been backed up. Backups happen when this iPhone is plugged in, locked, and connected to WLAN.</string>
+	<key>MISSING_BACKUP_ALERT_DESCRIPTION_CH_IPOD</key>
+	<string>This iPod touch hasn't been backed up. Backups happen when this iPod touch is plugged in, locked, and connected to WLAN.</string>
+	<key>MISSING_BACKUP_ALERT_DESCRIPTION_IPAD</key>
+	<string>This iPad hasn't been backed up. Backups happen when this iPad is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>MISSING_BACKUP_ALERT_DESCRIPTION_IPHONE</key>
+	<string>This iPhone hasn't been backed up. Backups happen when this iPhone is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>MISSING_BACKUP_ALERT_DESCRIPTION_IPOD</key>
+	<string>This iPod touch hasn't been backed up. Backups happen when this iPod touch is plugged in, locked, and connected to Wi-Fi.</string>
+	<key>MISSING_BACKUP_ALERT_TITLE_IPAD</key>
+	<string>iPad Not Backed Up</string>
+	<key>MISSING_BACKUP_ALERT_TITLE_IPHONE</key>
+	<string>iPhone Not Backed Up</string>
+	<key>MISSING_BACKUP_ALERT_TITLE_IPOD</key>
+	<string>iPod touch Not Backed Up</string>
+	<key>RESTORE_COMPLETED_ALERT_DESCRIPTION</key>
+	<string>Your settings have been restored. Connect to power to save battery while apps and media are downloading.</string>
+	<key>RESTORE_COMPLETED_ALERT_OK</key>
+	<string>OK</string>
+	<key>RESTORE_COMPLETED_ALERT_TITLE</key>
+	<string>Restoring Apps and Media</string>
+	<key>UNVERIFIED_ACCOUNT_ALERT_DESCRIPTION_IPAD</key>
+	<string>This iPad cannot back up to iCloud without a verified email address.</string>
+	<key>UNVERIFIED_ACCOUNT_ALERT_DESCRIPTION_IPHONE</key>
+	<string>This iPhone cannot back up to iCloud without a verified email address.</string>
+	<key>UNVERIFIED_ACCOUNT_ALERT_DESCRIPTION_IPOD</key>
+	<string>This iPod touch cannot back up to iCloud without a verified email address.</string>
+	<key>UNVERIFIED_ACCOUNT_ALERT_LATER</key>
+	<string>Later</string>
+	<key>UNVERIFIED_ACCOUNT_ALERT_SETTINGS</key>
+	<string>Settings</string>
+	<key>UNVERIFIED_ACCOUNT_ALERT_TITLE</key>
+	<string>Cannot Back Up</string>
+	<key>VERIFY_ICLOUD_PASSWORD_ALERT_BUTTON</key>
+	<string>OK</string>
+	<key>VERIFY_ICLOUD_PASSWORD_ALERT_DESCRIPTION</key>
+	<string>iCloud Backup requires that you verify your password.</string>
+	<key>VERIFY_ICLOUD_PASSWORD_ALERT_TITLE</key>
+	<string>Verify iCloud Password</string>
+</dict>
+</plist>

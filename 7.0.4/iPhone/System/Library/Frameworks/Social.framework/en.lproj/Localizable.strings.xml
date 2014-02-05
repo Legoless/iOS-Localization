@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_LABEL_TITLE</key>
+	<string>Account</string>
+	<key>ACCOUNT_PICKER_TITLE</key>
+	<string>Account</string>
+	<key>ADD_LOCATION</key>
+	<string>Add Location</string>
+	<key>AIRPLANE_CANCEL</key>
+	<string>Cancel</string>
+	<key>AIRPLANE_DISABLE</key>
+	<string>Disable</string>
+	<key>AIRPLANE_OK</key>
+	<string>OK</string>
+	<key>AIRPLANE_SETTINGS</key>
+	<string>Settings</string>
+	<key>AIRPLANE_TITLE_DEFAULT</key>
+	<string>Turn Off Airplane Mode or Use Wi-Fi to Sign in</string>
+	<key>AIRPLANE_TITLE_FACEBOOK</key>
+	<string>Turn Off Airplane Mode or use Wi-Fi to Post</string>
+	<key>AIRPLANE_TITLE_FLICKR</key>
+	<string>Turn Off Airplane Mode or Use Wi-Fi to Upload to Flickr</string>
+	<key>AIRPLANE_TITLE_SINA_WEIBO</key>
+	<string>Turn Off Airplane Mode or Use Wi-Fi to Post to Sina Weibo</string>
+	<key>AIRPLANE_TITLE_TENCENT_WEIBO</key>
+	<string>Turn Off Airplane Mode or Use Wi-Fi to Post to Tencent Weibo</string>
+	<key>AIRPLANE_TITLE_TWITTER</key>
+	<string>Turn Off Airplane Mode or Use Wi-Fi to Send Tweets</string>
+	<key>AIRPLANE_TITLE_VIMEO</key>
+	<string>Turn Off Airplane Mode or Use Wi-Fi to Upload to Vimeo</string>
+	<key>Anyone</key>
+	<string>Anyone</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CHOOSE_ALBUM</key>
+	<string>Choose Album</string>
+	<key>CHOOSE_AUDIENCE</key>
+	<string>Audience</string>
+	<key>CHOOSE_LOCATION</key>
+	<string>Location</string>
+	<key>Comments</key>
+	<string>Comments</string>
+	<key>Direct Messages</key>
+	<string>Direct Messages</string>
+	<key>FB_FAILED_BODY_GENERIC_FORMAT</key>
+	<string>The post cannot be sent because the connection to Facebook failed.</string>
+	<key>FB_FAILED_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>FB_FAILED_CHECKPOINTED_MESSAGE</key>
+	<string>The post cannot be sent because your account has been blocked for suspicious activity. Please verify your account by visiting the Facebook website.</string>
+	<key>FB_FAILED_OK</key>
+	<string>OK</string>
+	<key>FB_FAILED_RETRY_BUTTON</key>
+	<string>Try Again</string>
+	<key>FB_FAILED_SAFARI_BUTTON</key>
+	<string>Safari</string>
+	<key>FB_FAILED_TITLE</key>
+	<string>Cannot Post To Facebook</string>
+	<key>FB_LIKE_RENEW_CREDENTIALS_REASON</key>
+	<string>Enable Facebook Liking.</string>
+	<key>FB_PLACE_SEARCH_NO_RESULTS</key>
+	<string>No Results</string>
+	<key>FB_PLACE_SEARCH_SEARCH_FAILED</key>
+	<string>Search Failed</string>
+	<key>FB_POST_PRIVACY_EVERYONE</key>
+	<string>Public</string>
+	<key>FB_POST_PRIVACY_FRIENDS</key>
+	<string>Friends</string>
+	<key>FB_POST_PRIVACY_FRIENDSNETWORKS</key>
+	<string>Friends and Networks</string>
+	<key>FB_POST_PRIVACY_MEONLY</key>
+	<string>Me Only</string>
+	<key>FB_POST_RENEW_CREDENTIALS_REASON</key>
+	<string>Enable posting to Facebook from the share sheet.</string>
+	<key>FB_UPLOAD_BULLETIN_MESSAGE_VIDEO</key>
+	<string>Your video will soon be available on Facebook.</string>
+	<key>FB_UPLOAD_BULLETIN_TITLE</key>
+	<string>Upload Complete</string>
+	<key>FB_VIDEO_OPTIONS_ACTION_TITLE</key>
+	<string>Details</string>
+	<key>FB_VIDEO_SIZE_DESCRIPTION_WITH_SIZE</key>
+	<string>%@ (%@)</string>
+	<key>FB_VIDEO_SIZE_HEADER</key>
+	<string>Video Size</string>
+	<key>Favorites</key>
+	<string>Favorites</string>
+	<key>GEO_DISABLED_CANCEL</key>
+	<string>Cancel</string>
+	<key>GEO_DISABLED_ENABLE</key>
+	<string>Enable</string>
+	<key>GEO_DISABLED_MESSAGE_TWITTER</key>
+	<string>Adding your location will update settings on Twitter.com. This will allow adding locations from any of your devices. For more info, visit Twitter.com.</string>
+	<key>GEO_DISABLED_MESSAGE_WEIBO</key>
+	<string>Adding your location will update settings on Weibo.com. This will allow adding locations from any of your devices. For more info, visit Weibo.com.</string>
+	<key>GEO_DISABLED_TITLE</key>
+	<string>Add Location</string>
+	<key>LINKEDIN_SHARE_FAILED_BODY_GENERIC_FORMAT</key>
+	<string>The post cannot be sent because the connection to LinkedIn failed.</string>
+	<key>LINKEDIN_SHARE_FAILED_TITLE</key>
+	<string>Cannot Post To LinkedIn</string>
+	<key>LOCATING</key>
+	<string>Locating…</string>
+	<key>LOCATION_CANCEL</key>
+	<string>Cancel</string>
+	<key>LOCATION_DISABLED_TITLE_FACEBOOK</key>
+	<string>Turn On Location Services to Allow “Facebook” to Determine Your Location.</string>
+	<key>LOCATION_DISABLED_TITLE_TENCENT_WEIBO</key>
+	<string>Turn On Location Services to Allow “Tencent Weibo” to Determine Your Location.</string>
+	<key>LOCATION_DISABLED_TITLE_TWITTER</key>
+	<string>Turn On Location Services to Allow “Twitter” to Determine Your Location.</string>
+	<key>LOCATION_DISABLED_TITLE_WEIBO</key>
+	<string>Turn On Location Services to Allow “Weibo” to Determine Your Location.</string>
+	<key>LOCATION_SETTINGS</key>
+	<string>Settings</string>
+	<key>Mentions</key>
+	<string>Mentions</string>
+	<key>NO_ACCESS_CANCEL</key>
+	<string>Cancel</string>
+	<key>NO_ACCESS_MESSAGE_FACEBOOK</key>
+	<string>This application is not allowed
+to use Facebook. You can enable
+it in Settings.</string>
+	<key>NO_ACCESS_SETTINGS</key>
+	<string>Settings</string>
+	<key>NO_ACCESS_TITLE_FACEBOOK</key>
+	<string>Facebook Is Not Enabled</string>
+	<key>NO_ACCOUNTS_CANCEL</key>
+	<string>Cancel</string>
+	<key>NO_ACCOUNTS_MESSAGE_FACEBOOK</key>
+	<string>There are no Facebook accounts
+configured. You can add or create
+a Facebook account in Settings.</string>
+	<key>NO_ACCOUNTS_MESSAGE_TENCENT_WEIBO</key>
+	<string>There are no Tencent Weibo accounts
+configured. You can add or create
+a Tencent Weibo account in Settings.</string>
+	<key>NO_ACCOUNTS_MESSAGE_TWITTER</key>
+	<string>There are no Twitter accounts
+configured. You can add or create
+a Twitter account in Settings.</string>
+	<key>NO_ACCOUNTS_MESSAGE_WEIBO</key>
+	<string>There are no Weibo accounts
+configured. You can add or create
+a Weibo account in Settings.</string>
+	<key>NO_ACCOUNTS_SETTINGS</key>
+	<string>Settings</string>
+	<key>NO_ACCOUNTS_TITLE_FACEBOOK</key>
+	<string>No Facebook Account</string>
+	<key>NO_ACCOUNTS_TITLE_TENCENT_WEIBO</key>
+	<string>No Tencent Weibo Accounts</string>
+	<key>NO_ACCOUNTS_TITLE_TWITTER</key>
+	<string>No Twitter Accounts</string>
+	<key>NO_ACCOUNTS_TITLE_WEIBO</key>
+	<string>No Weibo Accounts</string>
+	<key>No one</key>
+	<string>No one</string>
+	<key>POST</key>
+	<string>Post</string>
+	<key>People you follow</key>
+	<string>People you follow</string>
+	<key>Retweets</key>
+	<string>Retweets</string>
+	<key>SHEET_ALBUM_ACTION_TITLE</key>
+	<string>Album</string>
+	<key>SHEET_IMAGE_COUNT_STRING</key>
+	<string>%@ Photos</string>
+	<key>SHEET_LOCATION_ACTION_DISALLOWED_VALUE</key>
+	<string>Disabled</string>
+	<key>SHEET_LOCATION_ACTION_TITLE</key>
+	<string>Location</string>
+	<key>SHEET_LOCATION_NO_VALUE</key>
+	<string>None</string>
+	<key>SHEET_PREVIEW_VIDEO_DURATION_LONG</key>
+	<string>%1$lu:%2$02lu:%3$02lu</string>
+	<key>SHEET_PREVIEW_VIDEO_DURATION_SHORT</key>
+	<string>%1$lu:%2$02lu</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SIGN_IN_ADDRESS_BOOK_INFO</key>
+	<string>Download your Facebook friends to the Contacts app and keep their information up to date.</string>
+	<key>SIGN_IN_APPS_INFO</key>
+	<string>Enable apps to work with your Facebook account, with your permission.</string>
+	<key>SIGN_IN_CALENDAR_INFO</key>
+	<string>Download your Facebook events to the Calendar app and keep them up to date.</string>
+	<key>SIGN_IN_INFO_FOOTER_PARAGRAPH_FOUR</key>
+	<string>Apps obtaining your permission to access your basic profile info and friends list can obtain your name, profile picture, email address, birthday, current city, other info you make public, and your list of friends. Facebook may also let others know that you’re using the app.</string>
+	<key>SIGN_IN_INFO_FOOTER_PARAGRAPH_ONE</key>
+	<string>In Settings you can disable Contacts and Calendar syncing, and disallow an app on this device from accessing your Facebook account.</string>
+	<key>SIGN_IN_INFO_FOOTER_PARAGRAPH_THREE</key>
+	<string>• Approve or deny the request.
+• Review Facebook's description of what information the app is requesting.
+• Grant the app access to info on your behalf, like friends’ photos &amp; videos that are available to apps you use.
+• See whether friends, only you, or everyone can view the app’s posts to Facebook on your behalf.</string>
+	<key>SIGN_IN_INFO_FOOTER_PARAGRAPH_TWO</key>
+	<string>In addition, when each app asks for permission to use your account, you can:</string>
+	<key>SIGN_IN_INFO_HEADER</key>
+	<string>Signing into Facebook will:</string>
+	<key>SIGN_IN_PHOTOS_INFO</key>
+	<string>Allow you to post status updates, photos, and other content to Facebook.</string>
+	<key>Show mentions and replies from:</key>
+	<string>Show mentions and replies from:</string>
+	<key>TENCENT_WEIBO_FAILED_BODY_DUPLICATE_FORMAT</key>
+	<string>The weibo “%@” is a duplicate and cannot be sent.</string>
+	<key>TENCENT_WEIBO_FAILED_BODY_DUPLICATE_FORMAT_NO_TEXT</key>
+	<string>The weibo is a duplicate and cannot be sent.</string>
+	<key>TENCENT_WEIBO_FAILED_BODY_GENERIC_FORMAT</key>
+	<string>The weibo “%@” cannot be sent because the connection to Tencent Weibo failed.</string>
+	<key>TENCENT_WEIBO_FAILED_BODY_GENERIC_FORMAT_NO_TEXT</key>
+	<string>The weibo cannot be sent because the connection to Tencent Weibo failed.</string>
+	<key>TENCENT_WEIBO_FAILED_BODY_LIMIT_REACHED_FORMAT</key>
+	<string>The weibo “%@” cannot be sent because you have reached the daily Tencent Weibo limit.</string>
+	<key>TENCENT_WEIBO_FAILED_BODY_LIMIT_REACHED_FORMAT_NO_TEXT</key>
+	<string>The weibo cannot be sent because you have reached the daily Tencent Weibo limit.</string>
+	<key>TENCENT_WEIBO_FAILED_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>TENCENT_WEIBO_FAILED_OK</key>
+	<string>OK</string>
+	<key>TENCENT_WEIBO_FAILED_RETRY_BUTTON</key>
+	<string>Try Again</string>
+	<key>TENCENT_WEIBO_FAILED_TITLE</key>
+	<string>Cannot Send weibo</string>
+	<key>TENCENT_WEIBO_RENEW_CREDENTIALS_REASON</key>
+	<string>Enable posting to Tencent Weibo from the share sheet.</string>
+	<key>TENCENT_WEIBO_SHEET_TITLE</key>
+	<string>Tencent Weibo</string>
+	<key>TWEET_FAILED_BODY_DUPLICATE_FORMAT</key>
+	<string>The tweet “%@” is a duplicate and cannot be sent.</string>
+	<key>TWEET_FAILED_BODY_DUPLICATE_FORMAT_NO_TEXT</key>
+	<string>The tweet is a duplicate and cannot be sent.</string>
+	<key>TWEET_FAILED_BODY_GENERIC_FORMAT</key>
+	<string>The tweet “%@” cannot be sent because the connection to Twitter failed.</string>
+	<key>TWEET_FAILED_BODY_GENERIC_FORMAT_NO_TEXT</key>
+	<string>The tweet cannot be sent because the connection to Twitter failed.</string>
+	<key>TWEET_FAILED_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>TWEET_FAILED_OK</key>
+	<string>OK</string>
+	<key>TWEET_FAILED_RETRY_BUTTON</key>
+	<string>Try Again</string>
+	<key>TWEET_FAILED_TITLE</key>
+	<string>Cannot Send Tweet</string>
+	<key>TWEET_RENEW_CREDENTIALS_REASON</key>
+	<string>Enable tweeting from the share sheet.</string>
+	<key>TWEET_SHEET_FROM_LABEL</key>
+	<string>From:</string>
+	<key>TWITTER_SHEET_TITLE</key>
+	<string>Twitter</string>
+	<key>VIDEO_OPTION_LARGE</key>
+	<string>Large (HD)</string>
+	<key>VIDEO_OPTION_MEDIUM</key>
+	<string>Medium</string>
+	<key>VIDEO_OPTION_SMALL</key>
+	<string>Small</string>
+	<key>WEIBO_FAILED_BODY_DUPLICATE_FORMAT</key>
+	<string>The weibo “%@” is a duplicate and cannot be sent.</string>
+	<key>WEIBO_FAILED_BODY_DUPLICATE_FORMAT_NO_TEXT</key>
+	<string>The weibo is a duplicate and cannot be sent.</string>
+	<key>WEIBO_FAILED_BODY_GENERIC_FORMAT</key>
+	<string>The weibo “%@” cannot be sent because the connection to Sina Weibo failed.</string>
+	<key>WEIBO_FAILED_BODY_GENERIC_FORMAT_NO_TEXT</key>
+	<string>The weibo cannot be sent because the connection to Sina Weibo failed.</string>
+	<key>WEIBO_FAILED_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>WEIBO_FAILED_OK</key>
+	<string>OK</string>
+	<key>WEIBO_FAILED_RETRY_BUTTON</key>
+	<string>Try Again</string>
+	<key>WEIBO_FAILED_TITLE</key>
+	<string>Cannot Send Weibo</string>
+	<key>WEIBO_RENEW_CREDENTIALS_REASON</key>
+	<string>Enable posting to Sina Weibo from the share sheet.</string>
+	<key>WEIBO_SHEET_TITLE</key>
+	<string>Sina Weibo</string>
+	<key>WIEBO_FAILED_BODY_LIMIT_REACHED_FORMAT</key>
+	<string>The weibo “%@” cannot be sent because you have reached the daily Sina Weibo limit.</string>
+	<key>WIEBO_FAILED_BODY_LIMIT_REACHED_FORMAT_NO_TEXT</key>
+	<string>The weibo cannot be sent because you have reached the daily Sina Weibo limit.</string>
+	<key>Weibo[Activity]</key>
+	<string>Weibo</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PASSCODE_BACKSPACE</key>
+	<string>Delete</string>
+	<key>PASSCODE_CANCEL</key>
+	<string>Cancel</string>
+	<key>PASSCODE_EMERGENCY</key>
+	<string>Emergency</string>
+	<key>PASSCODE_ENTRY_OK</key>
+	<string>OK</string>
+	<key>PASSCODE_ENTRY_PROMPT</key>
+	<string>Enter Passcode</string>
+	<key>PASSCODE_ENTRY_PROMPT_RETRY</key>
+	<string>Try Again</string>
+</dict>
+</plist>

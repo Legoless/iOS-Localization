@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>YELP_LINK_HINT</key>
+	<string>Opens Yelp</string>
+	<key>YELP_REVIEWS</key>
+	<string>Reviews from Yelp</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.photo.placeholder</key>
+	<string>Add Photo</string>
+	<key>album.name</key>
+	<string>Album name</string>
+	<key>delete.button</key>
+	<string>Delete</string>
+	<key>locations.label.button.hint</key>
+	<string>Shows photos on a Map</string>
+	<key>photo.count.plural</key>
+	<string>%@ photos</string>
+	<key>photo.count.singular</key>
+	<string>%@ photo</string>
+	<key>photos.taken.date</key>
+	<string>Photos taken on %@</string>
+	<key>photos.taken.range</key>
+	<string>Photos taken from %@ to %@</string>
+	<key>sharing.collection.list</key>
+	<string>Photo selection list</string>
+	<key>small.photos.group</key>
+	<string>Photos group</string>
+	<key>small.photos.group.hint</key>
+	<string>Double-tap to expand group of photos</string>
+	<key>small.photos.group.with.title</key>
+	<string>Photos group for %@</string>
+</dict>
+</plist>

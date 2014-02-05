@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aol.cell.text</key>
+	<string>AOL Mail</string>
+	<key>app.name</key>
+	<string>Mail</string>
+	<key>archive.button</key>
+	<string>Archive</string>
+	<key>attachment.count.plural</key>
+	<string>%@ attachments</string>
+	<key>attachment.count.singular</key>
+	<string>%@ attachment</string>
+	<key>compose.button.hint</key>
+	<string>Double-tap and hold to bring up drafts</string>
+	<key>dismiss.sidebar.hint</key>
+	<string>Double tap to dismiss sidebar</string>
+	<key>dot.mac</key>
+	<string>.Mac Mail</string>
+	<key>error.button</key>
+	<string>Error</string>
+	<key>filter.button</key>
+	<string>Filter messages</string>
+	<key>flagged</key>
+	<string>Flagged</string>
+	<key>folder.name</key>
+	<string>%@ folder</string>
+	<key>forwarded</key>
+	<string>Forwarded</string>
+	<key>mail.subject.person.photo</key>
+	<string>Contact photo for %@</string>
+	<key>mark.button.hint</key>
+	<string>Double tap to change read or flag status</string>
+	<key>mark.message.button</key>
+	<string>Mark message</string>
+	<key>message.address.to.label</key>
+	<string>To: %@</string>
+	<key>message.deselect.hint</key>
+	<string>Double tap to deselect message</string>
+	<key>message.folded.view</key>
+	<string>Hidden message text</string>
+	<key>message.folded.view.hint</key>
+	<string>Double-tap to view entire message</string>
+	<key>message.select.hint</key>
+	<string>Double tap to select message</string>
+	<key>message.to.be.moved.hint</key>
+	<string>To move this message, select a folder.</string>
+	<key>message.to.be.moved.label</key>
+	<string>Message to be moved</string>
+	<key>more.info.for.mail.cell</key>
+	<string>More info for %@</string>
+	<key>new.mail.button</key>
+	<string>Check for mail</string>
+	<key>next.message.text</key>
+	<string>Next message</string>
+	<key>now.showing.message</key>
+	<string>Now showing message with subject %@</string>
+	<key>num.messages.plural</key>
+	<string>%@ messages</string>
+	<key>num.messages.singular</key>
+	<string>%@ message</string>
+	<key>previous.message.text</key>
+	<string>Previous message</string>
+	<key>replied</key>
+	<string>Replied</string>
+	<key>search.results.plural</key>
+	<string>%@ Results</string>
+	<key>search.results.singular</key>
+	<string>%@ Result</string>
+	<key>subject</key>
+	<string>Subject</string>
+	<key>thread.count.many</key>
+	<string>%@ messages in thread</string>
+	<key>transfer.mail.button</key>
+	<string>Move</string>
+	<key>unread</key>
+	<string>Unread</string>
+	<key>unread.count.plural</key>
+	<string>%@ unread messages</string>
+	<key>unread.count.singular</key>
+	<string>%@ unread message</string>
+	<key>vip.message</key>
+	<string>From VIP sender</string>
+	<key>yahoo.cell.text</key>
+	<string>Yahoo Mail</string>
+</dict>
+</plist>

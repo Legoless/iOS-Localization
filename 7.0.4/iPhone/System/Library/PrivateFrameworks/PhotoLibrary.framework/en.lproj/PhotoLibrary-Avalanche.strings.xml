@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AVALANCHE_BADGE_TEXT</key>
+	<string>Burst (%@ photos)</string>
+	<key>B&amp;W</key>
+	<string>B&amp;W</string>
+	<key>DELETE_CONF_AVALANCHE_FAVORITES_ONLY_1</key>
+	<string>This photo is part of a burst. It will be removed from the photo grid, but will remain in the burst.</string>
+	<key>DELETE_CONF_AVALANCHE_FAVORITES_ONLY_N</key>
+	<string>These photos are part of a burst. They will be removed from the photo grid, but will remain in the burst.</string>
+	<key>DELETE_CONF_AVALANCHE_FAVORITES_ONLY_SOME</key>
+	<string>Some photos are part of a burst. They will be removed from the photo grid, but will remain in the burst.</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_1_1_1</key>
+	<string>Delete one photo from one burst, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_1_1_N</key>
+	<string>Delete one photo from one burst, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_1_N_1</key>
+	<string>Delete one photo from %@ bursts, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_1_N_N</key>
+	<string>Delete one photo from %@ bursts, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_1_1_1_1</key>
+	<string>Keep one favorite and delete one photo from one burst, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_1_1_1_N</key>
+	<string>Keep one favorite and delete one photo from one burst, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_1_1_N_1</key>
+	<string>Keep one favorite and delete one photo from %@ bursts, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_1_1_N_N</key>
+	<string>Keep one favorite and delete one photo from %@ bursts, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_1_N_1_1</key>
+	<string>Keep one favorite and delete %@ photos from one burst, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_1_N_1_N</key>
+	<string>Keep one favorite and delete %@ photos from one burst, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_1_N_N_1</key>
+	<string>Keep one favorite and delete %@ photos from %@ bursts, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_1_N_N_N</key>
+	<string>Keep one favorite and delete %@ photos from %@ bursts, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_N_1_1_1</key>
+	<string>Keep %@ favorites and delete one photo from one burst, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_N_1_1_N</key>
+	<string>Keep %@ favorites and delete one photo from one burst, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_N_1_N_1</key>
+	<string>Keep %@ favorites and delete one photo from %@ bursts, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_N_1_N_N</key>
+	<string>Keep %@ favorites and delete one photo from %@ bursts, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_N_N_1_1</key>
+	<string>Keep %@ favorites and delete %@ photos from one burst, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_N_N_1_N</key>
+	<string>Keep %@ favorites and delete %@ photos from one burst, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_N_N_N_1</key>
+	<string>Keep %@ favorites and delete %@ photos from %@ bursts, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_KEEP_FAVORITES_N_N_N_N</key>
+	<string>Keep %@ favorites and delete %@ photos from %@ bursts, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_N_1_1</key>
+	<string>Delete %@ photos from one burst, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_N_1_N</key>
+	<string>Delete %@ photos from one burst, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_N_N_1</key>
+	<string>Delete %@ photos from %@ bursts, and one other photo?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_AND_OTHERS_N_N_N</key>
+	<string>Delete %@ photos from %@ bursts, and %@ other photos?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_1_1</key>
+	<string>Delete one photo from this burst?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_1_N</key>
+	<string>Delete one photo from %@ bursts?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_KEEP_FAVORITES_1_1_1</key>
+	<string>Keep one favorite and delete one photo from one burst?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_KEEP_FAVORITES_1_1_N</key>
+	<string>Keep one favorite and delete one photo from %@ bursts?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_KEEP_FAVORITES_1_N_1</key>
+	<string>Keep one favorite and delete %@ photos from one burst?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_KEEP_FAVORITES_1_N_N</key>
+	<string>Keep one favorite and delete %@ photos from %@ bursts?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_KEEP_FAVORITES_N_1_1</key>
+	<string>Keep %@ favorites and delete one photo from one burst?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_KEEP_FAVORITES_N_1_N</key>
+	<string>Keep %@ favorites and delete one photo from %@ bursts?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_KEEP_FAVORITES_N_N_1</key>
+	<string>Keep %@ favorites and delete %@ photos from one burst?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_KEEP_FAVORITES_N_N_N</key>
+	<string>Keep %@ favorites and delete %@ photos from %@ bursts?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_N_1</key>
+	<string>Delete %@ photos from this burst?</string>
+	<key>DELETE_CONF_AVALANCHE_STACKS_ONLY_N_N</key>
+	<string>Delete %@ photos from %@ bursts?</string>
+	<key>DELETE_CONF_AVALANCHE_UNRELATED_FAVORITES_SECONDARY_MESSAGE</key>
+	<string>%@ Burst favorites will be removed from the photo grid, but will remain in the burst.</string>
+	<key>HIDE_EVERYWHERE</key>
+	<string>Hide Everywhere</string>
+	<key>HIDE_EVERYWHERE_CONF_TITLE_PHOTOS_1_ALBUM</key>
+	<string>These photos are used in an album.
+Do you want to hide them everywhere?</string>
+	<key>HIDE_EVERYWHERE_CONF_TITLE_PHOTOS_N_ALBUMS</key>
+	<string>These photos are used in %@ albums.
+Do you want to hide them everywhere?</string>
+	<key>HIDE_EVERYWHERE_CONF_TITLE_PHOTO_1_ALBUM</key>
+	<string>This photo is used in an album.
+Do you want to hide it everywhere?</string>
+	<key>HIDE_EVERYWHERE_CONF_TITLE_PHOTO_N_ALBUMS</key>
+	<string>This photo is used in %@ albums.
+Do you want to hide it everywhere?</string>
+	<key>SLALOM</key>
+	<string>SLO-MO</string>
+	<key>SLALOM_INDICATOR_TEXT</key>
+	<string>%@
+ FPS</string>
+</dict>
+</plist>

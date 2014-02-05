@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CALL_BUTTON_LABEL</key>
+	<string>Call</string>
+	<key>CALL_OWNER</key>
+	<string>Call Owner</string>
+	<key>LOST_IPAD_TITLE</key>
+	<string>Lost iPad</string>
+	<key>PHONE_NUMBER_WITH_CALL_PREFIX</key>
+	<string>Call %@</string>
+</dict>
+</plist>

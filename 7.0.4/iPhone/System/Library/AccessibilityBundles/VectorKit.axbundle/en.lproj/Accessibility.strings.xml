@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPROACHING_LOCATION</key>
+	<string>Approaching %@</string>
+	<key>AT_POI</key>
+	<string>At %@</string>
+	<key>BETWEEN_ADDRESS_RANGE</key>
+	<string>Between %@</string>
+	<key>CALLOUT_VIEW_DISMISS_HINT</key>
+	<string>Double-tap to dismiss info pop-up</string>
+	<key>MAP_NO_ELEMENTS_HINT</key>
+	<string>No features visible</string>
+	<key>NEAREST_INTERSECTION</key>
+	<string>Closest intersection: %@</string>
+	<key>ON_ROAD</key>
+	<string>On %@</string>
+	<key>POI_AIRPORT</key>
+	<string>Airport</string>
+	<key>POI_ATHLETIC_PARK</key>
+	<string>Park</string>
+	<key>POI_BANK</key>
+	<string>Bank</string>
+	<key>POI_BAR</key>
+	<string>Bar</string>
+	<key>POI_BUILDING</key>
+	<string>Building</string>
+	<key>POI_CAFE</key>
+	<string>Cafe</string>
+	<key>POI_CAR_RENTAL</key>
+	<string>Car rental</string>
+	<key>POI_CITY</key>
+	<string>City</string>
+	<key>POI_CITY_CAPITAL</key>
+	<string>Capital city</string>
+	<key>POI_DENTIST</key>
+	<string>Dentist</string>
+	<key>POI_DOCTOR</key>
+	<string>Doctor</string>
+	<key>POI_GAS_STATION</key>
+	<string>Gas station</string>
+	<key>POI_HOSPITAL</key>
+	<string>Hospital</string>
+	<key>POI_MARKET</key>
+	<string>Market</string>
+	<key>POI_PARK</key>
+	<string>Park</string>
+	<key>POI_POLICE</key>
+	<string>Police station</string>
+	<key>POI_RESTAURANT</key>
+	<string>Restaurant</string>
+	<key>POI_SCHOOL</key>
+	<string>School</string>
+	<key>POI_STORE</key>
+	<string>Store</string>
+	<key>POI_SUMMARY</key>
+	<string>Places visible: %@</string>
+	<key>POI_THEATRE</key>
+	<string>Theater</string>
+	<key>POI_UNIVERSITY</key>
+	<string>School</string>
+	<key>POI_YACHT_BASIN</key>
+	<string>Yacht basin</string>
+	<key>ROAD_CLASS_BC_HIGHWAY</key>
+	<string>BC highway</string>
+	<key>ROAD_CLASS_HIGHWAY</key>
+	<string>Highway</string>
+	<key>ROAD_CLASS_INTERSTATE</key>
+	<string>Interstate</string>
+	<key>ROAD_CLASS_US_HIGHWAY</key>
+	<string>US highway</string>
+	<key>ROAD_CLASS_US_ROUTE</key>
+	<string>US Route</string>
+	<key>ROAD_DIRECTION_EW</key>
+	<string>East-west road</string>
+	<key>ROAD_DIRECTION_NE-SW</key>
+	<string>North-east to South-west road</string>
+	<key>ROAD_DIRECTION_NS</key>
+	<string>North-south road</string>
+	<key>ROAD_DIRECTION_NW-SE</key>
+	<string>North-west to South-east road</string>
+	<key>ROAD_DISTANCE_KM</key>
+	<string>Visible distance: %@ kilometers</string>
+	<key>ROAD_DISTANCE_M</key>
+	<string>Visible distance: %@ miles</string>
+	<key>ROAD_ONE_WAY</key>
+	<string>One way</string>
+	<key>ROAD_SUMMARY_PLURAL</key>
+	<string>%@ roads visible</string>
+	<key>ROAD_SUMMARY_SINGULAR</key>
+	<string>%@ road visible</string>
+	<key>ZOOM_STEP_DESCRIPTION_10X</key>
+	<string>About a region</string>
+	<key>ZOOM_STEP_DESCRIPTION_11X</key>
+	<string>About a county</string>
+	<key>ZOOM_STEP_DESCRIPTION_12X</key>
+	<string>Major roads and many cities</string>
+	<key>ZOOM_STEP_DESCRIPTION_13X</key>
+	<string>Multiple cities and large points of interest</string>
+	<key>ZOOM_STEP_DESCRIPTION_14X</key>
+	<string>Major roads visible at a city level</string>
+	<key>ZOOM_STEP_DESCRIPTION_15X</key>
+	<string>Section of a city</string>
+	<key>ZOOM_STEP_DESCRIPTION_16X</key>
+	<string>Neighborhood</string>
+	<key>ZOOM_STEP_DESCRIPTION_17X</key>
+	<string>Streets and buildings in a section of a neighborhood</string>
+	<key>ZOOM_STEP_DESCRIPTION_18X</key>
+	<string>Streets and buildings in a section of a neighborhood</string>
+	<key>ZOOM_STEP_DESCRIPTION_19X</key>
+	<string>Building and street close-up</string>
+	<key>ZOOM_STEP_DESCRIPTION_1X</key>
+	<string>Most of the globe</string>
+	<key>ZOOM_STEP_DESCRIPTION_20X</key>
+	<string>Building and street close-up</string>
+	<key>ZOOM_STEP_DESCRIPTION_2X</key>
+	<string>Most of the globe</string>
+	<key>ZOOM_STEP_DESCRIPTION_3X</key>
+	<string>Multiple continents</string>
+	<key>ZOOM_STEP_DESCRIPTION_4X</key>
+	<string>Continent</string>
+	<key>ZOOM_STEP_DESCRIPTION_5X</key>
+	<string>Many states</string>
+	<key>ZOOM_STEP_DESCRIPTION_6X</key>
+	<string>Multiple states</string>
+	<key>ZOOM_STEP_DESCRIPTION_7X</key>
+	<string>Multiple states</string>
+	<key>ZOOM_STEP_DESCRIPTION_8X</key>
+	<string>A state</string>
+	<key>ZOOM_STEP_DESCRIPTION_9X</key>
+	<string>A region</string>
+	<key>ZOOM_STEP_LEVEL</key>
+	<string>Zoom %@ X</string>
+</dict>
+</plist>

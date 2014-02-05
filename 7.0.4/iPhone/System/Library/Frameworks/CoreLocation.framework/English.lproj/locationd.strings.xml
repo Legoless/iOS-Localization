@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>COMPASS_CALIBRATION</key>
+	<string>Please Wave iPhone to Calibrate the Compass</string>
+	<key>DONT_ALLOW</key>
+	<string>Don’t Allow</string>
+	<key>IMPROVE_LOCATION_ACCURACY_BLUETOOTH</key>
+	<string>Turning on Bluetooth will improve location accuracy.</string>
+	<key>IMPROVE_LOCATION_ACCURACY_WIFI</key>
+	<string>Turning on Wi-Fi will improve location accuracy.</string>
+	<key>IMPROVE_LOCATION_ACCURACY_WLAN</key>
+	<string>Turning on WLAN will improve location accuracy.</string>
+	<key>LOCATION_ACCURACY</key>
+	<string>Location Accuracy</string>
+	<key>LOCATION_CLIENT_PERMISSION</key>
+	<string>“%@” Would Like to Use Your Current Location</string>
+	<key>LOCATION_CLIENT_PERMISSION_OK</key>
+	<string>OK</string>
+	<key>LOCATION_DISABLED</key>
+	<string>Turn On Location Services to Allow “%@” to Determine Your Location</string>
+	<key>LOCATION_DISABLED_CANCEL</key>
+	<string>Cancel</string>
+	<key>LOCATION_DISABLED_SETTINGS</key>
+	<string>Settings</string>
+	<key>LOCATION_UNAVAILABLE</key>
+	<string>Location Services is Not Available for “%@”</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+</dict>
+</plist>

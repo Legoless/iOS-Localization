@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>action.button</key>
+	<string>Action</string>
+	<key>back.facing.camera.view</key>
+	<string>Back facing camera view</string>
+	<key>capture.button.text</key>
+	<string>Return to taking pictures</string>
+	<key>effects.button</key>
+	<string>Effects</string>
+	<key>front.facing.camera.view</key>
+	<string>Front facing camera view</string>
+	<key>photo.position</key>
+	<string>Photo %1$@</string>
+	<key>take.picture.button</key>
+	<string>Take Picture</string>
+	<key>toggle.camera.button</key>
+	<string>Switch Camera</string>
+</dict>
+</plist>

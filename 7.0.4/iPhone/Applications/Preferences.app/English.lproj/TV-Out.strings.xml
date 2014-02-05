@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANALOG_CONNECTION</key>
+	<string>Analog Connection</string>
+	<key>NTSC</key>
+	<string>NTSC</string>
+	<key>PAL</key>
+	<string>PAL</string>
+	<key>TV_OUT</key>
+	<string>TV Out</string>
+	<key>TV_SIGNAL</key>
+	<string>TV Signal</string>
+	<key>WIDESCREEN</key>
+	<string>Widescreen</string>
+</dict>
+</plist>

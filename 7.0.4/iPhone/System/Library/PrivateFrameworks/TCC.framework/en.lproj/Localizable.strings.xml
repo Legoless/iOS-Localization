@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>REQUEST_ACCESS_ALLOW</key>
+	<string>OK</string>
+	<key>REQUEST_ACCESS_DENY</key>
+	<string>Don’t Allow</string>
+	<key>REQUEST_ACCESS_SERVICE_kTCCServiceAddressBook</key>
+	<string>“%@” Would Like to Access Your Contacts</string>
+	<key>REQUEST_ACCESS_SERVICE_kTCCServiceBluetoothPeripheral</key>
+	<string>“%@” would like to make data available to nearby bluetooth devices even when you're not using the app.</string>
+	<key>REQUEST_ACCESS_SERVICE_kTCCServiceCalendar</key>
+	<string>“%@” Would Like to Access Your Calendar</string>
+	<key>REQUEST_ACCESS_SERVICE_kTCCServiceCamera</key>
+	<string>“%@” Would Like to Access the Camera</string>
+	<key>REQUEST_ACCESS_SERVICE_kTCCServiceMicrophone</key>
+	<string>“%@” Would Like to Access the Microphone</string>
+	<key>REQUEST_ACCESS_SERVICE_kTCCServiceMotion</key>
+	<string>“%@” Would Like to Access Your Motion Activity</string>
+	<key>REQUEST_ACCESS_SERVICE_kTCCServicePhotos</key>
+	<string>“%@” Would Like to Access Your Photos</string>
+	<key>REQUEST_ACCESS_SERVICE_kTCCServiceReminders</key>
+	<string>“%@” Would Like to Access Your Reminders</string>
+</dict>
+</plist>

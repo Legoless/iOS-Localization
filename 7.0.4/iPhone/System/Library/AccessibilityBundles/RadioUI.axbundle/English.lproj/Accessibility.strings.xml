@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.genre.button</key>
+	<string>Add genre as a new station</string>
+	<key>audio.preview.button</key>
+	<string>Audio preview</string>
+	<key>countdown.label</key>
+	<string>Countdown</string>
+	<key>explicit.track</key>
+	<string>Explicit</string>
+	<key>now.playing</key>
+	<string>Now playing</string>
+	<key>store.button</key>
+	<string>View in iTunes Store</string>
+	<key>tuning.slider.label</key>
+	<string>Station tuning</string>
+</dict>
+</plist>

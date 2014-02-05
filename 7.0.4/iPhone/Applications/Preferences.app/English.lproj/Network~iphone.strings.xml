@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCESSIBILITY</key>
+	<string>Accessibility</string>
+	<key>ACCESSORY_SERVICES</key>
+	<string>Accessory Services</string>
+	<key>ACTIVESYNC</key>
+	<string>Exchange Accounts</string>
+	<key>AIRDROP_SHARING</key>
+	<string>AirDrop Sharing</string>
+	<key>APPLEID_SERVICES</key>
+	<string>Apple ID Services</string>
+	<key>APPS_APPEAR_AFTER_CELLULAR_USAGE</key>
+	<string>Apps will appear after using data</string>
+	<key>APP_DATA_USAGE</key>
+	<string>USE CELLULAR DATA FOR:</string>
+	<key>BACKUP</key>
+	<string>Backup</string>
+	<key>BLUETOOTH_SERVICES</key>
+	<string>Bluetooth Services</string>
+	<key>CALENDAR_SERVICES</key>
+	<string>Calendar Services</string>
+	<key>CALL_TIME</key>
+	<string>Call Time</string>
+	<key>CARRIER_USAGE</key>
+	<string>Carrier Statistics</string>
+	<key>CDMA_ROAMING_EXPLANATION</key>
+	<string>Turn off International CDMA while roaming internationally if you experience poor messaging or data performance.</string>
+	<key>CDMA_ROAMING_TOGGLE</key>
+	<string>International CDMA</string>
+	<key>CELLULAR_ACCOUNT_SETUP</key>
+	<string>Cellular Account Setup</string>
+	<key>CELLULAR_DATA_ON_FACETIME_WARNING_DISABLE</key>
+	<string>Disabling Cellular Data will end FaceTime. Are you sure you want to disable Cellular Data?</string>
+	<key>CELLULAR_DATA_ON_FACETIME_WIFI_WARNING_DISABLE</key>
+	<string>Disabling Cellular Data may end FaceTime. Are you sure you want to disable Cellular Data?</string>
+	<key>CELLULAR_DATA_USAGE_GROUP</key>
+	<string>Cellular Data Usage</string>
+	<key>CELLULAR_SERVICES</key>
+	<string>Cellular Services</string>
+	<key>CELLULAR_TITLE</key>
+	<string>Cellular</string>
+	<key>CONTACT_SERVICES</key>
+	<string>Contact Services</string>
+	<key>CORPORATE_ACCOUNTS</key>
+	<string>Corporate Accounts</string>
+	<key>CURRENT_CALL_PERIOD</key>
+	<string>Current Period</string>
+	<key>CURRENT_DATA_PERIOD</key>
+	<string>Current Period</string>
+	<key>CURRENT_ROAMING</key>
+	<string>Current Period Roaming</string>
+	<key>DATA_ROAMING_EXPLANATION</key>
+	<string>Turn off data roaming when traveling to avoid charges when web browsing and using email and other data services.</string>
+	<key>DATA_ROAMING_EXPLANATION_MMS</key>
+	<string>Turn off data roaming when traveling to avoid charges when web browsing and using email, MMS, and other data services.</string>
+	<key>DATA_ROAMING_TOGGLE</key>
+	<string>Data Roaming</string>
+	<key>DIAGNOSTICS</key>
+	<string>Diagnostics</string>
+	<key>DISABLE_CELLULAR_DATA</key>
+	<string>Disable Cellular Data</string>
+	<key>DISABLE_RAT_3G</key>
+	<string>Disable 3G</string>
+	<key>DISABLE_RAT_3G_AS_4G</key>
+	<string>Disable 4G</string>
+	<key>DISABLE_RAT_4G</key>
+	<string>Disable 4G</string>
+	<key>DISABLE_RAT_LTE</key>
+	<string>Disable LTE</string>
+	<key>DISABLE_RAT_LTE_AS_4G</key>
+	<string>Disable 4G</string>
+	<key>DNS_SERVICES</key>
+	<string>DNS Services</string>
+	<key>DOCUMENTS_AND_SYNC</key>
+	<string>Documents &amp; Sync</string>
+	<key>ENABLE_RAT_3G</key>
+	<string>Enable 3G</string>
+	<key>ENABLE_RAT_3G_AS_4G</key>
+	<string>Enable 4G</string>
+	<key>ENABLE_RAT_4G</key>
+	<string>Enable 4G</string>
+	<key>ENABLE_RAT_LTE</key>
+	<string>Enable LTE</string>
+	<key>ENABLE_RAT_LTE_AS_4G</key>
+	<string>Enable 4G</string>
+	<key>FACEBOOK_SHARING</key>
+	<string>Facebook Sharing</string>
+	<key>FALLBACK_FOOTER_WIFI</key>
+	<string>Allow apps having trouble with Wi-Fi to use cellular data.</string>
+	<key>FALLBACK_FOOTER_WLAN</key>
+	<string>Allow apps having trouble with WLAN to use cellular data.</string>
+	<key>FALLBACK_WIFI</key>
+	<string>Wi-Fi Plus Cellular</string>
+	<key>FALLBACK_WLAN</key>
+	<string>WLAN Plus Cellular</string>
+	<key>FLICKR_SHARING</key>
+	<string>Flickr Sharing</string>
+	<key>FMIP_IPHONE</key>
+	<string>Find My iPhone</string>
+	<key>FMIP_IPOD</key>
+	<string>Find My iPod</string>
+	<key>GAME_CENTER</key>
+	<string>Game Center</string>
+	<key>GENERAL</key>
+	<string>General</string>
+	<key>HOME_SCREEN</key>
+	<string>Home Screen</string>
+	<key>IAD_SERVICES</key>
+	<string>iAd Services</string>
+	<key>ICLOUD</key>
+	<string>iCloud</string>
+	<key>ITUNES_ACCOUNTS</key>
+	<string>iTunes Accounts</string>
+	<key>LAST</key>
+	<string>Last Reset: %@</string>
+	<key>MAIL_SERVICES</key>
+	<string>Mail Services</string>
+	<key>MAPPING_SERVICES</key>
+	<string>Mapping Services</string>
+	<key>MEDIA_SERVICES</key>
+	<string>Media Services</string>
+	<key>MESSAGING_SERVICES</key>
+	<string>Messaging Services</string>
+	<key>MOBILE_DATA_FOOTER_TEXT_WIFI</key>
+	<string>Turn off cellular data to restrict all data to Wi-Fi, including email, web browsing, and push notifications.</string>
+	<key>MOBILE_DATA_FOOTER_TEXT_WLAN</key>
+	<string>Turn off cellular data to restrict all data to WLAN, including email, web browsing, and push notifications.</string>
+	<key>MOBILE_DATA_SETTINGS</key>
+	<string>Cellular Data</string>
+	<key>NETWORKING</key>
+	<string>Networking</string>
+	<key>NEVER</key>
+	<string>Never</string>
+	<key>NONE_ROAMING</key>
+	<string>Off</string>
+	<key>ON_CALL_CANCEL</key>
+	<string>Cancel</string>
+	<key>ON_CALL_OK_DISABLE</key>
+	<string>Disable</string>
+	<key>ON_CALL_OK_ENABLE</key>
+	<string>Enable</string>
+	<key>PERSONAL_HOTSPOT</key>
+	<string>Personal Hotspot</string>
+	<key>PRINTING</key>
+	<string>Printing</string>
+	<key>PUSH_NOTIFICATIONS</key>
+	<string>Push Notifications</string>
+	<key>RAT_ON_CALL_WARNING_DISABLE_3G</key>
+	<string>Disabling 3G will end your phone call. Are you sure you want to disable 3G?</string>
+	<key>RAT_ON_CALL_WARNING_DISABLE_3G_AS_4G</key>
+	<string>Disabling 4G will end your phone call. Are you sure you want to disable 4G?</string>
+	<key>RAT_ON_CALL_WARNING_DISABLE_4G</key>
+	<string>Disabling 4G will end your phone call. Are you sure you want to disable 4G?</string>
+	<key>RAT_ON_CALL_WARNING_DISABLE_LTE</key>
+	<string>Disabling LTE will end your phone call. Are you sure you want to disable LTE?</string>
+	<key>RAT_ON_CALL_WARNING_DISABLE_LTE_AS_4G</key>
+	<string>Disabling 4G will end your phone call. Are you sure you want to disable 4G?</string>
+	<key>RAT_ON_CALL_WARNING_ENABLE_3G</key>
+	<string>Enabling 3G will end your phone call. Are you sure you want to enable 3G?</string>
+	<key>RAT_ON_CALL_WARNING_ENABLE_3G_AS_4G</key>
+	<string>Enabling 4G will end your phone call. Are you sure you want to enable 4G?</string>
+	<key>RAT_ON_CALL_WARNING_ENABLE_4G</key>
+	<string>Enabling 4G will end your phone call. Are you sure you want to enable 4G?</string>
+	<key>RAT_ON_CALL_WARNING_ENABLE_LTE</key>
+	<string>Enabling LTE will end your phone call. Are you sure you want to enable LTE?</string>
+	<key>RAT_ON_CALL_WARNING_ENABLE_LTE_AS_4G</key>
+	<string>Enabling 4G will end your phone call. Are you sure you want to enable 4G?</string>
+	<key>RAT_ON_FACETIME_WARNING_DISABLE_3G</key>
+	<string>Disabling 3G will end FaceTime. Are you sure you want to disable 3G?</string>
+	<key>RAT_ON_FACETIME_WARNING_DISABLE_3G_AS_4G</key>
+	<string>Disabling 4G will end FaceTime. Are you sure you want to disable 4G?</string>
+	<key>RAT_ON_FACETIME_WARNING_DISABLE_4G</key>
+	<string>Disabling 4G will end FaceTime. Are you sure you want to disable 4G?</string>
+	<key>RAT_ON_FACETIME_WARNING_DISABLE_LTE</key>
+	<string>Disabling LTE will end FaceTime. Are you sure you want to disable LTE?</string>
+	<key>RAT_ON_FACETIME_WARNING_DISABLE_LTE_AS_4G</key>
+	<string>Disabling 4G will end FaceTime. Are you sure you want to disable 4G?</string>
+	<key>RAT_ON_FACETIME_WIFI_WARNING_DISABLE_3G</key>
+	<string>Disabling 3G may end FaceTime. Are you sure you want to disable 3G?</string>
+	<key>RAT_ON_FACETIME_WIFI_WARNING_DISABLE_3G_AS_4G</key>
+	<string>Disabling 4G may end FaceTime. Are you sure you want to disable 4G?</string>
+	<key>RAT_ON_FACETIME_WIFI_WARNING_DISABLE_4G</key>
+	<string>Disabling 4G may end FaceTime. Are you sure you want to disable 4G?</string>
+	<key>RAT_ON_FACETIME_WIFI_WARNING_DISABLE_LTE</key>
+	<string>Disabling LTE may end FaceTime. Are you sure you want to disable LTE?</string>
+	<key>RAT_ON_FACETIME_WIFI_WARNING_DISABLE_LTE_AS_4G</key>
+	<string>Disabling 4G may end FaceTime. Are you sure you want to disable 4G?</string>
+	<key>RAT_TEXT_3G</key>
+	<string>Using 3G loads data faster, but may decrease battery life.</string>
+	<key>RAT_TEXT_3G_AS_4G</key>
+	<string>Using 4G loads data faster, but may decrease battery life.</string>
+	<key>RAT_TEXT_4G</key>
+	<string>Using 4G loads data faster, but may decrease battery life.</string>
+	<key>RAT_TEXT_LTE</key>
+	<string>Using LTE loads data faster.</string>
+	<key>RAT_TEXT_LTE_AS_4G</key>
+	<string>Using 4G loads data faster.</string>
+	<key>RESET_STATISTICS_CANCEL</key>
+	<string>Cancel</string>
+	<key>RESET_STATISTICS_MSG</key>
+	<string>Do you want to reset your usage statistics?</string>
+	<key>RESET_STATISTICS_OK</key>
+	<string>Reset</string>
+	<key>RESET_STATISTICS_TITLE</key>
+	<string>Reset Statistics</string>
+	<key>ROAMING_LINK</key>
+	<string>Roaming</string>
+	<key>Reset Statistics</key>
+	<string>Reset Statistics</string>
+	<key>SAFARI_SERVICES</key>
+	<string>Safari Services</string>
+	<key>SECURITY_SERVICES</key>
+	<string>Security Services</string>
+	<key>SETUP_FACETIME_CELLULAR</key>
+	<string>Set Up FaceTime over Cellular</string>
+	<key>SINA_WEIBO_SHARING</key>
+	<string>Sina Weibo Sharing</string>
+	<key>SIRI</key>
+	<string>Siri</string>
+	<key>SOFTWARE_UPDATES</key>
+	<string>Software Updates</string>
+	<key>SYSTEM_SERVICES</key>
+	<string>System Services</string>
+	<key>TENCENT_WEIBO_SHARING</key>
+	<string>Tencent Weibo Sharing</string>
+	<key>TIME_AND_LOCATION</key>
+	<string>Time &amp; Location</string>
+	<key>TOTAL</key>
+	<string>Lifetime</string>
+	<key>TWITTER_SHARING</key>
+	<string>Twitter Sharing</string>
+	<key>UNINSTALLED_APPS</key>
+	<string>Uninstalled Apps</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+	<key>USE_CELLULAR_DATA</key>
+	<string>Use Cellular Data for:</string>
+	<key>VIEW_ACCOUNT</key>
+	<string>View Account</string>
+	<key>VIEW_ACCOUNT_INFO</key>
+	<string>View account information or add more data.</string>
+	<key>VIMEO_SHARING</key>
+	<string>Vimeo Sharing</string>
+	<key>VOICEMAIL</key>
+	<string>Voicemail</string>
+	<key>VOICE_AND_DATA_ROAMING</key>
+	<string>Voice &amp; Data</string>
+	<key>VOICE_AND_DATA_ROAMING_OFF_EXPLANATION</key>
+	<string>Turn on voice and data roaming to make phone calls, browse the web, and use email and other data services when traveling internationally.</string>
+	<key>VOICE_AND_DATA_ROAMING_OFF_EXPLANATION_MMS</key>
+	<string>Turn on voice and data roaming to make phone calls, browse the web, and use email, MMS, and other data services when traveling internationally.</string>
+	<key>VOICE_DATA_ROAMING_TOGGLE</key>
+	<string>Voice &amp; Data Roaming</string>
+	<key>VOICE_ONLY_ROAMING</key>
+	<string>Voice Only</string>
+	<key>VOICE_ROAMING_ON_EXPLANATION</key>
+	<string>Turn off voice roaming to limit cellular coverage to your home network and avoid substantial phone or SMS charges when traveling internationally or near an international border. Turning off voice roaming will also turn off data roaming.</string>
+	<key>VOICE_ROAMING_TOGGLE</key>
+	<string>Voice Roaming</string>
+	<key>VPN_SERVICES</key>
+	<string>VPN Services</string>
+	<key>WEBAPPS</key>
+	<string>Web Apps</string>
+	<key>WIFI_SERVICES</key>
+	<string>Wi-Fi Services</string>
+</dict>
+</plist>

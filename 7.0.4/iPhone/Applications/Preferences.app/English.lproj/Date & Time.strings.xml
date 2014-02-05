@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>24-Hour Time</key>
+	<string>24-Hour Time</string>
+	<key>BEIJING</key>
+	<string>Beijing</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>DATE</key>
+	<string>Date: %@</string>
+	<key>DATE_TIME_TITLE</key>
+	<string>Date &amp; Time</string>
+	<key>GPS_BUT_NO_LOC</key>
+	<string>Automatic time zone accuracy is improved when Location Services is turned on.</string>
+	<key>LOC_BUT_NO_GPS_OR_WIFI</key>
+	<string>Setting the time zone automatically requires turning on Wi-Fi.</string>
+	<key>LOC_BUT_NO_GPS_OR_WLAN</key>
+	<string>Setting the time zone automatically requires turning on WLAN.</string>
+	<key>NO_WIFI_OR_GPS_OR_LOC</key>
+	<string>Setting the time zone automatically requires turning on Wi-Fi and Location Services.</string>
+	<key>NO_WLAN_OR_GPS_OR_LOC</key>
+	<string>Setting the time zone automatically requires turning on WLAN and Location Services.</string>
+	<key>SET_AUTOMATICALLY</key>
+	<string>Set Automatically</string>
+	<key>SET_DATE_AND_TIME</key>
+	<string>Set Date &amp; Time</string>
+	<key>Set Date</key>
+	<string>Set Date</string>
+	<key>Set Time</key>
+	<string>Set Time</string>
+	<key>TIME</key>
+	<string>Time: %@</string>
+	<key>TIME_ZONE</key>
+	<string>Time Zone</string>
+	<key>Time Zone</key>
+	<string>Time Zone</string>
+	<key>WIFI_BUT_NO_GPS_OR_LOC</key>
+	<string>Setting the time zone automatically requires turning on Location Services.</string>
+	<key>WLAN_BUT_NO_GPS_OR_LOC</key>
+	<string>Setting the time zone automatically requires turning on Location Services.</string>
+</dict>
+</plist>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alarm.active</key>
+	<string>Active</string>
+	<key>alarm.add</key>
+	<string>Add an alarm</string>
+	<key>alarm.cell.repeat.text</key>
+	<string>Repeats: %@</string>
+	<key>alarm.edit</key>
+	<string>Edit the selected alarm</string>
+	<key>alarm.header.hint</key>
+	<string>Double tap to toggle alarm activation</string>
+	<key>alarm.inactive</key>
+	<string>Inactive</string>
+	<key>alarm.selected</key>
+	<string>Selected alarm</string>
+	<key>app.name</key>
+	<string>Clock</string>
+	<key>celsius.plural</key>
+	<string>%@ degrees Celsius</string>
+	<key>celsius.singular</key>
+	<string>%@ degree Celsius</string>
+	<key>celsius.text</key>
+	<string>Celsius</string>
+	<key>clock.add</key>
+	<string>Add a clock</string>
+	<key>clock.daytime</key>
+	<string>Daytime</string>
+	<key>clock.edit</key>
+	<string>Remove or reorder clocks</string>
+	<key>clock.nighttime</key>
+	<string>Nighttime</string>
+	<key>elapsed.time.format</key>
+	<string>%@, elapsed</string>
+	<key>fahrenheit.plural</key>
+	<string>%@ degrees Fahrenheit</string>
+	<key>fahrenheit.singular</key>
+	<string>%@ degree Fahrenheit</string>
+	<key>fahrenheit.text</key>
+	<string>Fahrenheit</string>
+	<key>hours.format.plural</key>
+	<string>%@ hours</string>
+	<key>hours.format.singular</key>
+	<string>%@ hour</string>
+	<key>lap.cell.long.text</key>
+	<string>Lap %1$@, %2$@, %3$@, elapsed</string>
+	<key>lap.cell.short.text</key>
+	<string>Lap %1$@, %2$@</string>
+	<key>lap.time.format</key>
+	<string>%@, lap time</string>
+	<key>minutes.format.plural</key>
+	<string>%@ minutes</string>
+	<key>minutes.format.singular</key>
+	<string>%@ minute</string>
+	<key>night.time.world.clock</key>
+	<string>Night time</string>
+	<key>seconds.format.plural</key>
+	<string>%@ seconds</string>
+	<key>seconds.format.singular</key>
+	<string>%@ second</string>
+	<key>timer.alert.tone</key>
+	<string>Alert tone: %1$@</string>
+	<key>timer.alert.tone.edit</key>
+	<string>Change the alert tone</string>
+	<key>timer.countdown.text</key>
+	<string>%@, remaining</string>
+	<key>world.clocks</key>
+	<string>World clocks</string>
+	<key>world.map</key>
+	<string>World map</string>
+	<key>world.map.solar.region.day</key>
+	<string>Daytime</string>
+	<key>world.map.solar.region.night</key>
+	<string>Nighttime</string>
+</dict>
+</plist>

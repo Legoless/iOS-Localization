@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%1$@ ±%2$@ ft</key>
+	<string>%1$@ ±%2$@ ft</string>
+	<key>%1$@ ±%2$@ m</key>
+	<string>%1$@ ±%2$@ m</string>
+	<key>%1$@°</key>
+	<string>%1$@°</string>
+	<key>%1$@°%2$@′%3$@″ %4$@</key>
+	<string>%1$@°%2$@′%3$@″ %4$@</string>
+	<key>%@  %@</key>
+	<string>%1$@  %2$@</string>
+	<key>Altitude N/A</key>
+	<string>Altitude N/A</string>
+	<key>Calibrate</key>
+	<string>Calibrate</string>
+	<key>E</key>
+	<string>E</string>
+	<key>N</key>
+	<string>N</string>
+	<key>NE</key>
+	<string>NE</string>
+	<key>NW</key>
+	<string>NW</string>
+	<key>S</key>
+	<string>S</string>
+	<key>SE</key>
+	<string>SE</string>
+	<key>SW</key>
+	<string>SW</string>
+	<key>Tilt the screen to roll the ball around the circle</key>
+	<string>Tilt the screen to roll the ball around the circle</string>
+	<key>W</key>
+	<string>W</string>
+	<key>cE</key>
+	<string>E</string>
+	<key>cN</key>
+	<string>N</string>
+	<key>cS</key>
+	<string>S</string>
+	<key>cW</key>
+	<string>W</string>
+</dict>
+</plist>

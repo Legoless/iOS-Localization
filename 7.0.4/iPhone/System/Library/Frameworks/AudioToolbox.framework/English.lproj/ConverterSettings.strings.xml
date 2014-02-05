@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Best</key>
+	<string>Best</string>
+	<key>Better</key>
+	<string>Better</string>
+	<key>Fast</key>
+	<string>Fast</string>
+	<key>Faster</key>
+	<string>Faster</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Normal</key>
+	<string>Normal</string>
+	<key>Pre</key>
+	<string>Pre</string>
+	<key>Priming Method</key>
+	<string>Priming Method</string>
+	<key>Priming method for the sample rate converter.</key>
+	<string>Priming method for the sample rate converter.</string>
+	<key>Quality</key>
+	<string>Quality</string>
+	<key>Quality setting for the sample rate converter.</key>
+	<string>Quality setting for the sample rate converter.</string>
+</dict>
+</plist>

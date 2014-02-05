@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ is no longer participating in iCloud Keychain because it was reset by another device</key>
+	<string>%@ is no longer participating in iCloud Keychain because it was reset by another device</string>
+	<key>%@ is no longer participating in iCloud Keychain.</key>
+	<string>%@ is no longer participating in iCloud Keychain.</string>
+	<key>%@ is no longer participating in iCloud Keychain.  You may be under attack.</key>
+	<string>%@ is no longer participating in iCloud Keychain.  You may be under attack.</string>
+	<key>%@ must be approved from one of your other devices using iCloud Keychain. If no other devices are available, reset iCloud Keychain in Settings.%@</key>
+	<string>%1$@ must be approved from one of your other devices using iCloud Keychain. If no other devices are available, reset iCloud Keychain in Settings.%2$@</string>
+	<key>Allow</key>
+	<string>Allow</string>
+	<key>Allow “%@” to use your passwords?</key>
+	<string>Allow “%@” to use iCloud Keychain?</string>
+	<key>Approve with Other Device</key>
+	<string>Approve with Other Device</string>
+	<key>Don't Allow</key>
+	<string>Don't Allow</string>
+	<key>Enter the Apple ID password for “%@” to allow %@ to use iCloud Keychain.</key>
+	<string>Enter the Apple ID password for “%1$@” to allow %2$@ to use iCloud Keychain.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>This device</key>
+	<string>This device</string>
+	<key>This iPad</key>
+	<string>This iPad</string>
+	<key>This iPhone</key>
+	<string>This iPhone</string>
+	<key>This iPhone is still waiting for approval from one of your other devices using iCloud Keychain. You can use your Security Code to turn on iCloud Keychain.%@</key>
+	<string>This iPhone is still waiting for approval from one of your other devices using iCloud Keychain. You can use your Security Code to turn on iCloud Keychain.%@</string>
+	<key>This iPod</key>
+	<string>This iPod</string>
+	<key>Use Security Code</key>
+	<string>Use Security Code</string>
+	<key>Use Security Code to Turn On iCloud Keychain?</key>
+	<string>Use Security Code to Turn On iCloud Keychain?</string>
+	<key>Waiting for Approval to Use iCloud Keychain</key>
+	<string>Waiting for Approval to Use iCloud Keychain</string>
+	<key>day</key>
+	<string>day</string>
+	<key>days</key>
+	<string>days</string>
+	<key>hours</key>
+	<string>hours</string>
+	<key>iCloud Keychain Reset</key>
+	<string>iCloud Keychain Reset</string>
+	<key>iCloud Password incorrect, try again</key>
+	<string>iCloud password is incorrect, try again</string>
+	<key>less then a second</key>
+	<string>less then a second</string>
+	<key>minutes</key>
+	<string>minutes</string>
+	<key>now</key>
+	<string>now</string>
+	<key>seconds</key>
+	<string>seconds</string>
+	<key>the future</key>
+	<string>the future</string>
+</dict>
+</plist>

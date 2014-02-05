@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT</key>
+	<string>Accept</string>
+	<key>ACCEPT_ALL_FRIEND_REQUESTS_ALERT_BUTTON_CANCEL</key>
+	<string>Cancel</string>
+	<key>ACCEPT_ALL_FRIEND_REQUESTS_ALERT_BUTTON_CONFIRM</key>
+	<string>Accept All</string>
+	<key>ACCEPT_ALL_FRIEND_REQUESTS_ALERT_MESSAGE</key>
+	<string>Are you sure you want to accept %d friend requests?</string>
+	<key>ACCEPT_ALL_FRIEND_REQUESTS_ALERT_TITLE</key>
+	<string>Accept All Requests</string>
+	<key>ACCOUNT_BUTTON_FORMAT</key>
+	<string>Account: %@</string>
+	<key>ACHIEVEMENTS</key>
+	<string>Achievements</string>
+	<key>ACHIEVEMENTS_COMPARE_POINTS_PLURAL</key>
+	<string>Out of %@ points</string>
+	<key>ACHIEVEMENTS_COMPARE_POINTS_SINGULAR</key>
+	<string>Out of %@ point</string>
+	<key>ACHIEVEMENTS_COMPARE_POINTS_ZERO</key>
+	<string>No points</string>
+	<key>ACHIEVEMENTS_COMPARE_TOTAL_PLURAL</key>
+	<string>from %@ achievements</string>
+	<key>ACHIEVEMENTS_COMPARE_TOTAL_SINGULAR</key>
+	<string>from %@ achievement</string>
+	<key>ACHIEVEMENTS_COMPARE_TOTAL_ZERO</key>
+	<string>and no achievements</string>
+	<key>ACHIEVEMENTS_LABEL_PLURAL</key>
+	<string>POINTS</string>
+	<key>ACHIEVEMENTS_LABEL_SINGULAR</key>
+	<string>POINT</string>
+	<key>ACHIEVEMENTS_LABEL_ZERO</key>
+	<string>POINTS</string>
+	<key>ACHIEVEMENTS_N1_OF_M2_PLURAL</key>
+	<string>%1$@ of %2$@ achievements </string>
+	<key>ACHIEVEMENTS_N1_OF_M2_SINGULAR</key>
+	<string>%1$@ of %2$@ achievement </string>
+	<key>ACHIEVEMENTS_SEGMENT_TITLE</key>
+	<string>Achievements</string>
+	<key>ACHIEVEMENTS_UPPERCASE</key>
+	<string>ACHIEVEMENTS</string>
+	<key>ACHIEVEMENT_EARNED_DATE</key>
+	<string>Earned: </string>
+	<key>ACHIEVEMENT_EARNED_ON_DATE</key>
+	<string>Earned on: %1$@</string>
+	<key>ACHIEVEMENT_NOT_YET_ACHIEVED</key>
+	<string>Not yet achieved</string>
+	<key>ACHIEVEMENT_PERCENT_COMPLETE</key>
+	<string>%1$@ complete</string>
+	<key>ACHIEVEMENT_POINTS</key>
+	<string>Achievement Points</string>
+	<key>ACHIEVEMENT_POINTS_MAC</key>
+	<string>OS X Achievement Points</string>
+	<key>ACHIEVEMENT_POINTS_PLURAL</key>
+	<string>%@ pts</string>
+	<key>ACHIEVEMENT_POINTS_SINGULAR</key>
+	<string>%@ pt</string>
+	<key>ACHIEVEMENT_POINTS_UNIT_PLURAL</key>
+	<string>pts</string>
+	<key>ACHIEVEMENT_POINTS_UNIT_SINGULAR</key>
+	<string>pt</string>
+	<key>ACHIEVEMENT_POINTS_UNIT_ZERO</key>
+	<string>pts</string>
+	<key>ACHIEVEMENT_POINTS_ZERO</key>
+	<string>%@ pts</string>
+	<key>ACHIEVEMENT_POINTS_iOS</key>
+	<string>iOS Achievement Points</string>
+	<key>ADD_EMAIL_ALERT_MESSAGE_FORMAT</key>
+	<string>Would you like to add “%1$@” to your account?</string>
+	<key>ADD_EMAIL_ALERT_TITLE</key>
+	<string>Add Email</string>
+	<key>ADD_EMAIL_BUTTON</key>
+	<string>Add Email</string>
+	<key>ADD_FRIENDS_BUTTON_TEXT</key>
+	<string>Add Friends</string>
+	<key>ADD_PHOTO</key>
+	<string>Add Photo</string>
+	<key>BOTTOM</key>
+	<string>Bottom</string>
+	<key>CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>CHALLENGES_NAV_TITLE</key>
+	<string>Challenges</string>
+	<key>CHALLENGES_SEGMENT_TITLE</key>
+	<string>Challenges</string>
+	<key>CHALLENGES_TAB_TITLE</key>
+	<string>Challenges</string>
+	<key>CHALLENGES_TOTAL_PLURAL</key>
+	<string>%@ Challenges</string>
+	<key>CHALLENGES_TOTAL_SINGULAR</key>
+	<string>%@ Challenge</string>
+	<key>CHALLENGES_TOTAL_ZERO</key>
+	<string>No Challenges</string>
+	<key>CHALLENGE_BUTTON_DISABLED_CURRENT_FRIEND_NOT_ELIGIBLE</key>
+	<string>%1$@ has already earned %2$@. Try challenging them to achievements they haven't earned.</string>
+	<key>CHALLENGE_BUTTON_DISABLED_NOT_FRIEND</key>
+	<string>Become friends with %1$@ to send a challenge</string>
+	<key>CHALLENGE_BUTTON_DISABLED_NO_FRIENDS</key>
+	<string>Make friends on Game Center to start sending and receiving challenges</string>
+	<key>CHALLENGE_BUTTON_DISABLED_NO_FRIENDS_ELIGIBLE</key>
+	<string>Your friends have already earned %1$@. Try challenging them to achievements they haven't earned.</string>
+	<key>CHALLENGE_BUTTON_DISABLED_NO_SCORE</key>
+	<string>Earn a score on %1$@ in order to challenge your friends to beat it</string>
+	<key>CHALLENGE_DETAIL_DECLINE_BUTTON</key>
+	<string>Decline</string>
+	<key>CHALLENGE_DETAIL_PLAY_BUTTON</key>
+	<string>Play Now</string>
+	<key>CHALLENGE_DETAIL_VS_RIBBON</key>
+	<string>vs</string>
+	<key>CHALLENGE_SWIPE_TO_DELETE</key>
+	<string>Decline</string>
+	<key>CHANGE_PHOTO</key>
+	<string>Change Photo</string>
+	<key>CHANGE_PHOTO_ALERT_MESSAGE</key>
+	<string>Your photo will be shared with all other Game Center players after it is processed.</string>
+	<key>CHOOSE_PHOTO</key>
+	<string>Choose Photo</string>
+	<key>COMPARE_CELL_OF_N_FRIENDS_PLURAL</key>
+	<string>of %1$@ Friends</string>
+	<key>COMPARE_CELL_OF_N_FRIENDS_SINGULAR</key>
+	<string>of %1$@ Friend</string>
+	<key>COMPARE_CELL_OF_N_FRIENDS_ZERO</key>
+	<string>of %1$@ Friends</string>
+	<key>COMPARE_CELL_OF_N_PLAYERS_PLURAL</key>
+	<string>of %1$@ Players</string>
+	<key>COMPARE_CELL_OF_N_PLAYERS_SINGULAR</key>
+	<string>of %1$@ Player</string>
+	<key>COMPARE_CELL_OF_N_PLAYERS_ZERO</key>
+	<string>of %1$@ Players</string>
+	<key>COMPARE_X_ACHIEVEMENTS_PLURAL</key>
+	<string>%@ achievements</string>
+	<key>COMPARE_X_ACHIEVEMENTS_SINGULAR</key>
+	<string>%@ achievement</string>
+	<key>COMPARE_X_ACHIEVEMENTS_ZERO</key>
+	<string>No achievements</string>
+	<key>COMPARE_X_ACHIEVEMENT_POINTS_PLURAL</key>
+	<string>%@ points</string>
+	<key>COMPARE_X_ACHIEVEMENT_POINTS_SINGULAR</key>
+	<string>%@ point</string>
+	<key>COMPARE_X_ACHIEVEMENT_POINTS_ZERO</key>
+	<string>No points</string>
+	<key>COMPARE_X_GAMES_PLURAL</key>
+	<string>%@ games</string>
+	<key>COMPARE_X_GAMES_SINGULAR</key>
+	<string>%@ game</string>
+	<key>COMPARE_X_GAMES_ZERO</key>
+	<string>No games</string>
+	<key>CREATE_NEW_ACCOUNT</key>
+	<string>Create New Apple ID</string>
+	<key>DELETE_PHOTO</key>
+	<string>Delete Photo</string>
+	<key>DETAIL_SCREEN_CHALLENGE_BUTTON_TITLE_FROM_OTHER</key>
+	<string>Send Challenge</string>
+	<key>DETAIL_SCREEN_CHALLENGE_BUTTON_TITLE_FROM_OWN</key>
+	<string>Challenge Friends</string>
+	<key>DETAIL_SCREEN_SHARE_BUTTON_TITLE</key>
+	<string>Share</string>
+	<key>DOWNLOADING_BUTTON_TITLE</key>
+	<string>Installing…</string>
+	<key>ELLIPSIS_FOR_TRUNCATION</key>
+	<string>…</string>
+	<key>FIND_GAME_CENTER_GAMES</key>
+	<string>Find Game Center Games</string>
+	<key>FRIEND</key>
+	<string>Friend</string>
+	<key>FRIENDS</key>
+	<string>Friends</string>
+	<key>FRIENDS_IN_COMMON_ME_PLURAL</key>
+	<string>%@ friends</string>
+	<key>FRIENDS_IN_COMMON_ME_SINGULAR</key>
+	<string>%@ friend</string>
+	<key>FRIENDS_IN_COMMON_ME_ZERO</key>
+	<string>No friends</string>
+	<key>FRIENDS_IN_COMMON_PLURAL</key>
+	<string>%@ friends in common</string>
+	<key>FRIENDS_IN_COMMON_SECTION_PLURAL</key>
+	<string>%@ Friends in Common</string>
+	<key>FRIENDS_IN_COMMON_SECTION_SINGULAR</key>
+	<string>%@ Friend in Common</string>
+	<key>FRIENDS_IN_COMMON_SECTION_ZERO</key>
+	<string>%@ Friends in Common</string>
+	<key>FRIENDS_IN_COMMON_SINGULAR</key>
+	<string>%@ friend in common</string>
+	<key>FRIENDS_IN_COMMON_ZERO</key>
+	<string>No friends in common</string>
+	<key>FRIENDS_LABEL</key>
+	<string>Friends </string>
+	<key>FRIENDS_LABEL_PLURAL</key>
+	<string>FRIENDS</string>
+	<key>FRIENDS_LABEL_SINGULAR</key>
+	<string>FRIEND</string>
+	<key>FRIENDS_LABEL_UPPERCASE</key>
+	<string>FRIENDS </string>
+	<key>FRIENDS_LABEL_ZERO</key>
+	<string>FRIENDS</string>
+	<key>FRIENDS_OF_FRIENDS_ALTERNATE_TITLE</key>
+	<string>Other Friends</string>
+	<key>FRIENDS_OF_FRIENDS_HIDDEN_FRIENDS_PLURAL</key>
+	<string>%@ More Friends</string>
+	<key>FRIENDS_OF_FRIENDS_HIDDEN_FRIENDS_SINGULAR</key>
+	<string>%@ More Friend</string>
+	<key>FRIENDS_OF_FRIENDS_HIDDEN_FRIENDS_ZERO</key>
+	<string>No More Friends</string>
+	<key>FRIENDS_OF_FRIENDS_TITLE_FORMAT</key>
+	<string>%@’s Friends</string>
+	<key>FRIENDS_SCOPE_TITLE_AZ</key>
+	<string>A-Z</string>
+	<key>FRIENDS_SCOPE_TITLE_POINTS</key>
+	<string>Points</string>
+	<key>FRIENDS_SCOPE_TITLE_RECENT</key>
+	<string>Recent</string>
+	<key>FRIENDS_SCREEN_TITLE</key>
+	<string>Friends</string>
+	<key>FRIENDS_SCREEN_TITLE_PLURAL</key>
+	<string>%@ Friends</string>
+	<key>FRIENDS_SCREEN_TITLE_SINGULAR</key>
+	<string>%@ Friend</string>
+	<key>FRIENDS_SCREEN_TITLE_ZERO</key>
+	<string>%@ Friends</string>
+	<key>FRIENDS_SHARED_SECTION_TITLE</key>
+	<string>Shared Friends</string>
+	<key>FRIENDS_TAB_TITLE</key>
+	<string>Friends</string>
+	<key>FRIEND_RECOMMENDATIONS_TITLE</key>
+	<string>Recommendations</string>
+	<key>FRIEND_RECOMMENDATIONS_TITLE_N_OF_M</key>
+	<string>%@ of %@ Recommendations</string>
+	<key>FRIEND_RECOMMENDATIONS_TITLE_PLURAL</key>
+	<string>%@ Recommendations</string>
+	<key>FRIEND_RECOMMENDATIONS_TITLE_SINGULAR</key>
+	<string>%@ Recommendation</string>
+	<key>FRIEND_RECOMMENDATIONS_TITLE_ZERO</key>
+	<string>%@ Recommendations</string>
+	<key>FRIEND_REQUESTS</key>
+	<string>Friend Requests</string>
+	<key>FRIEND_REQUESTS_PRIMARY_HEADER_PLURAL</key>
+	<string>%d Friend Requests</string>
+	<key>FRIEND_REQUESTS_PRIMARY_HEADER_SINGULAR</key>
+	<string>%d Friend Request</string>
+	<key>FRIEND_REQUESTS_TAB_TITLE</key>
+	<string>Requests</string>
+	<key>FRIEND_REQUEST_ACCEPT_RESTRICTED_TITLE</key>
+	<string>Accepting friend requests has been disabled in Restrictions.</string>
+	<key>FRIEND_REQUEST_ALERT_TITLE</key>
+	<string>Friend Request</string>
+	<key>FRIEND_REQUEST_MESSAGE_UNDERAGE_FORMAT</key>
+	<string>%@ would like to be your friend.</string>
+	<key>FRIEND_REQUEST_TITLE</key>
+	<string>Friend Requests</string>
+	<key>GAMES_BACK_TITLE</key>
+	<string>Games</string>
+	<key>GAMES_IN_COMMON</key>
+	<string>Games in Common</string>
+	<key>GAMES_IN_COMMON_PLURAL</key>
+	<string>%@ games in common</string>
+	<key>GAMES_IN_COMMON_SINGULAR</key>
+	<string>%@ game in common</string>
+	<key>GAMES_IN_COMMON_ZERO</key>
+	<string>No games in common</string>
+	<key>GAMES_LABEL</key>
+	<string>Games </string>
+	<key>GAMES_LABEL_PLURAL</key>
+	<string>GAMES</string>
+	<key>GAMES_LABEL_SINGULAR</key>
+	<string>GAME</string>
+	<key>GAMES_LABEL_UPPERCASE</key>
+	<string>GAMES </string>
+	<key>GAMES_LABEL_ZERO</key>
+	<string>GAMES</string>
+	<key>GAMES_ONLY_OTHER_PLAYER_SECTION_ALTERATE_TITLE</key>
+	<string>Other Games</string>
+	<key>GAMES_ONLY_OTHER_PLAYER_SECTION_TITLE_FORMAT</key>
+	<string>‪%1$@’s Games‬</string>
+	<key>GAMES_SCREEN_TITLE</key>
+	<string>Games</string>
+	<key>GAMES_SECTION_TITLE</key>
+	<string>Games</string>
+	<key>GAMES_SECTION_TITLE_MAC_PLURAL</key>
+	<string>%@ OS X Games</string>
+	<key>GAMES_SECTION_TITLE_MAC_SINGULAR</key>
+	<string>%@ OS X Game</string>
+	<key>GAMES_SECTION_TITLE_MAC_ZERO</key>
+	<string>%@ OS X Games</string>
+	<key>GAMES_SECTION_TITLE_iOS_PLURAL</key>
+	<string>%@ iOS Games</string>
+	<key>GAMES_SECTION_TITLE_iOS_SINGULAR</key>
+	<string>%@ iOS Game</string>
+	<key>GAMES_SECTION_TITLE_iOS_ZERO</key>
+	<string>%@ iOS Games</string>
+	<key>GAMES_TAB_TITLE</key>
+	<string>Games</string>
+	<key>GAME_CENTER_ACCOUNT</key>
+	<string>Game Center Account</string>
+	<key>GAME_RECOMMENDATIONS_SECTION_TITLE</key>
+	<string>Game Recommendations</string>
+	<key>GAME_RECOMMENDATIONS_TITLE</key>
+	<string>Recommendations</string>
+	<key>GAME_RECOMMENDATIONS_TITLE_N_OF_M</key>
+	<string>%@ of %@ Recommendations</string>
+	<key>GAME_RECOMMENDATIONS_TITLE_PLURAL</key>
+	<string>%@ Recommendations</string>
+	<key>GAME_RECOMMENDATIONS_TITLE_SINGULAR</key>
+	<string>%@ Recommendation</string>
+	<key>GAME_RECOMMENDATIONS_TITLE_ZERO</key>
+	<string>%@ Recommendations</string>
+	<key>IGNORE</key>
+	<string>Ignore</string>
+	<key>IGNORE_ALL_FRIEND_REQUESTS_ALERT_BUTTON_CANCEL</key>
+	<string>Cancel</string>
+	<key>IGNORE_ALL_FRIEND_REQUESTS_ALERT_BUTTON_CONFIRM</key>
+	<string>Ignore All</string>
+	<key>IGNORE_ALL_FRIEND_REQUESTS_ALERT_MESSAGE</key>
+	<string>Are you sure you want to ignore %d friend requests?</string>
+	<key>IGNORE_ALL_FRIEND_REQUESTS_ALERT_TITLE</key>
+	<string>Ignore All Requests</string>
+	<key>INVITE_ALERT_HEADER_ALIAS_1_GAME_NAME_2_PLURAL</key>
+	<string>#%1$@ of %2$@ friends</string>
+	<key>INVITE_ALERT_HEADER_ALIAS_1_GAME_NAME_2_SINGULAR</key>
+	<string>#%1$@ of %2$@ friend</string>
+	<key>I_AM</key>
+	<string>I am…</string>
+	<key>JUST_PLAYED_LAST_PLAYED_GAME_FORMAT</key>
+	<string>Just played: %@</string>
+	<key>LAST_MATCHED_ON_DATE_FORMAT</key>
+	<string>Last matched: %1$@</string>
+	<key>LAST_PLAYED_GAME_FORMAT</key>
+	<string>Last played: %@</string>
+	<key>LAST_PLAYED_GAME_NAME_1_DATE_2_FORMAT</key>
+	<string>Last played “%1$@” %2$@</string>
+	<key>LAST_PLAYED_LABEL</key>
+	<string>Last played</string>
+	<key>LEADERBOARD_DEFAULT_TITLE</key>
+	<string>Leaderboard</string>
+	<key>LEADERBOARD_PERCENTILE_1_SYMBOL_2_DESCRIPTION_3_FORMAT</key>
+	<string>%3$@%1$@%2$@</string>
+	<key>LEADERBOARD_RANK_1_PREFIX_2_FORMAT</key>
+	<string>%2$@%1$@</string>
+	<key>LEADERBOARD_SECTION_HEADER</key>
+	<string>Leaderboard</string>
+	<key>LEADERBOARD_SEGMENT_TITLE</key>
+	<string>Leaderboards</string>
+	<key>LINK_ACCOUNTS_FACEBOOK_MESSAGE</key>
+	<string>Find Game Center friends using Facebook?</string>
+	<key>LINK_ACCOUNTS_FACEBOOK_TITLE</key>
+	<string>Facebook Recommendations</string>
+	<key>LINK_ACCOUNTS_FIND_FRIENDS_BUTTON</key>
+	<string>Allow</string>
+	<key>LINK_ACCOUNTS_LATER_BUTTON</key>
+	<string>Later</string>
+	<key>LINK_ACCOUNTS_NEVER_BUTTON</key>
+	<string>Never</string>
+	<key>LINK_ACCOUNTS_TWITTER_MESSAGE</key>
+	<string>Find Game Center friends using Twitter?</string>
+	<key>LINK_ACCOUNTS_TWITTER_TITLE</key>
+	<string>Twitter Recommendations</string>
+	<key>LOADING_STATUS</key>
+	<string>Loading…</string>
+	<key>LOCAL_PLAYER_TAB_TITLE</key>
+	<string>Me</string>
+	<key>ME</key>
+	<string>Me</string>
+	<key>ME_TEXT_IN_COMPARE_ACHIEVEMENT_SCREEN</key>
+	<string>Me</string>
+	<key>NAME_IS_FORMAT</key>
+	<string>‪%@ is…‬</string>
+	<key>NAME_IS_TRUNCATION_SYMBOL</key>
+	<string>… is…</string>
+	<key>NAVBAR_GAME_TITLE</key>
+	<string>Info</string>
+	<key>NEVER_PLAYED</key>
+	<string>Never Played</string>
+	<key>NEVER_PLAYED_CATEGORY_LIST</key>
+	<string>Never played</string>
+	<key>NOT_LOGGED_IN_INFO_MESSAGE</key>
+	<string>Sign in to the App Store for recommendations</string>
+	<key>NO_ACHIEVEMENTS_DETAILS</key>
+	<string>No achievements</string>
+	<key>NO_CHALLENGES</key>
+	<string>No Challenges</string>
+	<key>NO_CHALLENGES_RECEIVED_INFO_LABEL</key>
+	<string>Receive challenges from friends to beat their scores or earn achievements.</string>
+	<key>NO_CHALLENGES_RECEIVED_OR_SENT_FORMAT</key>
+	<string>%1$@
+
+%2$@</string>
+	<key>NO_CHALLENGES_SENT_INFO_LABEL</key>
+	<string>Challenge friends by tapping on scores or achievements.</string>
+	<key>NO_FRIENDS_ACTION_TITLE</key>
+	<string>Get Friend Recommendations</string>
+	<key>NO_FRIENDS_INFO_LABEL</key>
+	<string>Upload your contacts to get personalized friend recommendations</string>
+	<key>NO_FRIENDS_STATUS_LABEL</key>
+	<string>No Friends</string>
+	<key>NO_FRIEND_RECOMMENDATIONS_STATUS_LABEL</key>
+	<string>No Friend Recommendations</string>
+	<key>NO_FRIEND_REQUESTS</key>
+	<string>No Requests</string>
+	<key>NO_FRIEND_REQUESTS_ACTION_TITLE</key>
+	<string>Add Friends</string>
+	<key>NO_FRIEND_REQUESTS_INFO_LABEL</key>
+	<string>Invite people to be friends</string>
+	<key>NO_GAMES_BUTTON_TITLE</key>
+	<string>App Store</string>
+	<key>NO_GAMES_INFO_MESSAGE</key>
+	<string>You can download games from the App Store</string>
+	<key>NO_GAMES_STATUS_MESSAGE</key>
+	<string>No Games</string>
+	<key>NO_GAME_RECS_STATUS_MESSAGE</key>
+	<string>No Recommendations</string>
+	<key>NO_LEADERBOARD_DETAILS</key>
+	<string>No leaderboard</string>
+	<key>NO_NETWORK_ALERT_MESSAGE</key>
+	<string>Please try again when connected to a network.</string>
+	<key>NO_NETWORK_ALERT_TITLE</key>
+	<string>Network Unavailable</string>
+	<key>NO_RANK_SYMBOL</key>
+	<string>--</string>
+	<key>NO_RECENT_PLAYERS</key>
+	<string>No Players</string>
+	<key>NO_SCORE</key>
+	<string>No score</string>
+	<key>NO_SCORES_STATUS_MESSAGE</key>
+	<string>No Scores</string>
+	<key>NO_STATUS_PLACEHOLDER</key>
+	<string>No Status</string>
+	<key>OK_BUTTON</key>
+	<string>OK</string>
+	<key>OVERALL_LEADERBOARD_CATEGORY_TITLE</key>
+	<string>Overall</string>
+	<key>PASSWORD_PLACEHOLDER</key>
+	<string>Password</string>
+	<key>PERCENTILE_X_SYMBOL</key>
+	<string>%</string>
+	<key>PLAYED_TODAY_LAST_PLAYED_GAME_FORMAT</key>
+	<string>Played Today: %@</string>
+	<key>PLAYERS</key>
+	<string>Players</string>
+	<key>PLAYERS_TITLE_PLURAL</key>
+	<string>%@ Players</string>
+	<key>PLAYERS_TITLE_SINGULAR</key>
+	<string>1 Player</string>
+	<key>PLAYERS_TITLE_ZERO</key>
+	<string>No Players</string>
+	<key>PLAYER_DETAIL_NEVER_PLAYED</key>
+	<string>Never played</string>
+	<key>PLAYER_FRIENDS_TITLE_PLURAL</key>
+	<string>%@ Friends</string>
+	<key>PLAYER_FRIENDS_TITLE_SINGULAR</key>
+	<string>1 Friend</string>
+	<key>PLAYER_FRIENDS_TITLE_ZERO</key>
+	<string>No Friends</string>
+	<key>PLAYER_SEGMENTED_PARENTHESES_FORMAT</key>
+	<string>(%@)</string>
+	<key>PLAYER_SEGMENTED_REORDER_LABEL_1_PARENTHETICAL_2_FORMAT</key>
+	<string>%1$@%2$@</string>
+	<key>PLAY_BUTTON_TITLE</key>
+	<string>Play</string>
+	<key>PLAY_GAME_BUTTON_TITLE</key>
+	<string>Play Game</string>
+	<key>PLEASE_TRY_AGAIN_LATER</key>
+	<string>Please try again later.</string>
+	<key>POINTS_ABBREVIATED_LABEL_UPPERCASE</key>
+	<string>PTS </string>
+	<key>POINTS_LABEL</key>
+	<string>Points </string>
+	<key>POINTS_LABEL_UPPERCASE</key>
+	<string>POINTS </string>
+	<key>QUOTED_CHALLENGE_MESSAGE_FORMAT</key>
+	<string>‎“%@”</string>
+	<key>QUOTED_STATUS_CLOSE_TRUNCATE_FORMAT</key>
+	<string>%@”</string>
+	<key>QUOTED_STATUS_FORMAT</key>
+	<string>‎“%@”</string>
+	<key>RANK_1_LEADERBOARD_SIZE_2_PLURAL</key>
+	<string>#%1$@ of %2$@ players</string>
+	<key>RANK_1_LEADERBOARD_SIZE_2_SINGULAR</key>
+	<string>#%1$@ of %2$@ player</string>
+	<key>RANK_FORMAT</key>
+	<string>%@</string>
+	<key>RANK_NONE</key>
+	<string>Not ranked</string>
+	<key>RANK_PREFIX</key>
+	<string>#</string>
+	<key>RANK_WITH_SYMBOL_FORMAT</key>
+	<string>#%@</string>
+	<key>RECENTLY_PLAYED_SEGMENT_TITLE</key>
+	<string>Players</string>
+	<key>RECENT_PLAYERS</key>
+	<string>Players</string>
+	<key>RECENT_PLAYERS_UPPERCASE</key>
+	<string>PLAYERS</string>
+	<key>REMOVE_GAME_ALERT_TITLE_FORMAT</key>
+	<string>Uninstall “%@”</string>
+	<key>REMOVE_GAME_BUTTON</key>
+	<string>Uninstall</string>
+	<key>REMOVE_GAME_FROM_DEVICE_ALERT_MESSAGE</key>
+	<string>Your Game Center data for this game has been deleted. Do you also want to uninstall the game from this device?</string>
+	<key>REPORT_PROBLEM</key>
+	<string>Report a Problem</string>
+	<key>SANDBOX</key>
+	<string>Sandbox</string>
+	<key>SANDBOX_ALERT_RETRY_MESSAGE</key>
+	<string>Sign out then retry your action again with a different account.</string>
+	<key>SANDBOX_ALERT_TITLE</key>
+	<string>SANDBOX</string>
+	<key>SEARCH_FRIENDS</key>
+	<string>Search Friends</string>
+	<key>SEARCH_GAMES</key>
+	<string>Search Games</string>
+	<key>SEARCH_RESULTS_PLURAL</key>
+	<string>%@ Results</string>
+	<key>SEARCH_RESULTS_SINGULAR</key>
+	<string>1 Result</string>
+	<key>SEARCH_RESULTS_ZERO</key>
+	<string>No Results</string>
+	<key>SENDING_CONTACTS</key>
+	<string>Uploading Contacts</string>
+	<key>SEND_CONTACTS</key>
+	<string>Use My Contacts</string>
+	<key>SEND_CONTACTS_INFO_LABEL</key>
+	<string>Upload your contacts to get more personalized friend recommendations</string>
+	<key>SEND_FRIEND_REQUEST</key>
+	<string>Send Friend Request</string>
+	<key>SENT_CONTACTS</key>
+	<string>Contacts Uploaded</string>
+	<key>SHOW_ALL</key>
+	<string>Show All</string>
+	<key>SHOW_MORE_TEXT</key>
+	<string>Show More…</string>
+	<key>SHOW_X_MORE_CELL_IN_LEADERBOARD_FORMAT</key>
+	<string>Show %@ More…</string>
+	<key>SIGN_IN_TO_ACCEPT_FRIEND_REQUEST</key>
+	<string>Sign in to accept the friend request.</string>
+	<key>SIGN_IN_TO_ACCEPT_FRIEND_REQUEST_MESSAGE_FORMAT</key>
+	<string>Sign in to accept the friend request from “%1$@”.</string>
+	<key>SIGN_OUT_BUTTON</key>
+	<string>Sign Out</string>
+	<key>STATUS_PLACEHOLDER</key>
+	<string>Status</string>
+	<key>TAKE_PHOTO</key>
+	<string>Take Photo</string>
+	<key>TAP_TO_RATE_GAME_LANDSCAPE</key>
+	<string>Tap To Rate This Game</string>
+	<key>TAP_TO_RATE_GAME_PORTRAIT</key>
+	<string>Tap To Rate
+This Game</string>
+	<key>TELL_FRIEND</key>
+	<string>Tell a Friend</string>
+	<key>TOP_PERCENTILE_DESCRIPTION</key>
+	<string>Top</string>
+	<key>TOP_PLAYERS</key>
+	<string>Top Players</string>
+	<key>TRUNCATION_SYMBOL_QUOTE</key>
+	<string>%1$@”</string>
+	<key>UNABLE_TO_IGNORE_FRIEND_REQUEST_ALERT_MESSAGE</key>
+	<string>Game Center was unable to ignore the friend request at this time. Please try again later.</string>
+	<key>UNABLE_TO_LOAD_CHALLENGES</key>
+	<string>Unable to Load Challenges</string>
+	<key>UNABLE_TO_LOAD_FRIENDS</key>
+	<string>Unable to Load Friends</string>
+	<key>UNABLE_TO_LOAD_FRIEND_REQUESTS</key>
+	<string>Unable to Load Friend Requests</string>
+	<key>UNABLE_TO_LOAD_GAMES</key>
+	<string>Unable to Load Games</string>
+	<key>UNABLE_TO_LOAD_PLAYERS</key>
+	<string>Unable to Load Players</string>
+	<key>UNABLE_TO_LOAD_SCORES</key>
+	<string>Unable to Load Scores</string>
+	<key>UNABLE_TO_PERFORM_OPERATION</key>
+	<string>Unable to perform operation</string>
+	<key>UNABLE_TO_SUBMIT_GAME_RATING</key>
+	<string>Unable to send game rating at this time. Please try again later.</string>
+	<key>UNABLE_TO_TELL_FRIEND</key>
+	<string>Unable to Tell a Friend</string>
+	<key>UNABLE_TO_UNFRIEND_ALIAS_ALERT_MESSAGE_FORMAT</key>
+	<string>Game Center was unable to unfriend %1$@ at this time. Please try again later.</string>
+	<key>UNFRIEND</key>
+	<string>Unfriend</string>
+	<key>UNFRIEND_CONFIRMATION_ALERT_TITLE_FORMAT</key>
+	<string>Are you sure you want to unfriend %@?</string>
+	<key>USERNAME_PLACEHOLDER</key>
+	<string>Apple ID</string>
+	<key>VIEW_ACCOUNT_BUTTON</key>
+	<string>View Account</string>
+	<key>XXX_SANDBOX_XXX</key>
+	<string>✭✭✭ Sandbox ✭✭✭</string>
+</dict>
+</plist>

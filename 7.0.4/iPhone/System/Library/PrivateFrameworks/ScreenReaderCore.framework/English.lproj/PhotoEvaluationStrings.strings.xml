@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blurry</key>
+	<string>Blurry</string>
+	<key>bright</key>
+	<string>Bright</string>
+	<key>crisp</key>
+	<string>Crisp</string>
+	<key>dark</key>
+	<string>Dark</string>
+	<key>faces_count_with_size_and_location_descriptors_plural</key>
+	<string>%1$@ %2$@ faces %3$@</string>
+	<key>faces_count_with_size_and_location_descriptors_singular</key>
+	<string>%1$@ %2$@ face %3$@</string>
+	<key>large_plural</key>
+	<string>large</string>
+	<key>large_singular</key>
+	<string>large</string>
+	<key>location_bottom</key>
+	<string>at bottom</string>
+	<key>location_center</key>
+	<string>in center</string>
+	<key>location_left</key>
+	<string>at left</string>
+	<key>location_right</key>
+	<string>at right</string>
+	<key>location_top</key>
+	<string>at top</string>
+	<key>medium_plural</key>
+	<string>medium</string>
+	<key>medium_singular</key>
+	<string>medium</string>
+	<key>no_faces</key>
+	<string>No faces</string>
+	<key>small_plural</key>
+	<string>small</string>
+	<key>small_singular</key>
+	<string>small</string>
+	<key>very_blurry</key>
+	<string>Very blurry</string>
+	<key>very_bright</key>
+	<string>Very bright</string>
+	<key>very_dark</key>
+	<string>Very dark</string>
+	<key>well_lit</key>
+	<string>Well lit</string>
+</dict>
+</plist>

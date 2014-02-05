@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2012 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.116737</key>
+	<string>Left</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.116993</key>
+	<string>Right</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.117249</key>
+	<string>Up</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.117505</key>
+	<string>Down</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.117761</key>
+	<string>Enter</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.118017</key>
+	<string>Menu</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.118273</key>
+	<string>Pan Left</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.118529</key>
+	<string>Pan Right</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.ninepointsystems.ninepoint</key>
+	<string>Ninepoint Systems Ninepoint</string>
+</dict>
+</plist>

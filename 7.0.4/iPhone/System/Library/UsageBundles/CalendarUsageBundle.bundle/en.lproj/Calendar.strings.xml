@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CATEGORY_ATTACHMENTS</key>
+	<string>Attachments</string>
+	<key>CATEGORY_EVENTS</key>
+	<string>Events</string>
+	<key>DELETE_ATTACHMENTS_FOOTER_TEXT</key>
+	<string>Clearing cached attachments will not delete them from your Calendar events.</string>
+	<key>USAGE_BUNDLE_APP_NAME</key>
+	<string>Calendars &amp; Reminders</string>
+</dict>
+</plist>

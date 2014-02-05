@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CALLOUT_VIEW_LABEL</key>
+	<string>Info pop-up</string>
+	<key>COMPASS_BUTTON</key>
+	<string>Compass</string>
+	<key>COMPASS_HINT</key>
+	<string>Reorient map north</string>
+	<key>DIRECTION_EAST</key>
+	<string>East</string>
+	<key>DIRECTION_NORTH</key>
+	<string>North</string>
+	<key>DIRECTION_NORTHEAST</key>
+	<string>Northeast</string>
+	<key>DIRECTION_NORTHWEST</key>
+	<string>Northwest</string>
+	<key>DIRECTION_SOUTH</key>
+	<string>South</string>
+	<key>DIRECTION_SOUTHEAST</key>
+	<string>Southeast</string>
+	<key>DIRECTION_SOUTHWEST</key>
+	<string>Southwest</string>
+	<key>DIRECTION_WEST</key>
+	<string>West</string>
+	<key>FORCE_TRACKING_OFF</key>
+	<string>Tracking off</string>
+	<key>HEADING_WITH_DEGREES</key>
+	<string>Heading: %@ degrees</string>
+	<key>MAP_PIN_HINT</key>
+	<string>Shows more info</string>
+	<key>MAP_PIN_TITLE</key>
+	<string>Map pin</string>
+	<key>MORE_INFO</key>
+	<string>More Info</string>
+	<key>MORE_INFO_WITH_CONTEXT</key>
+	<string>More info for %@</string>
+	<key>POI_TITLE</key>
+	<string>Points of Interest</string>
+	<key>STREET_VIEW_LABEL</key>
+	<string>Street view</string>
+	<key>TRACKING_BUTTON_HINT</key>
+	<string>Change tracking options</string>
+	<key>TRACKING_BUTTON_LABEL</key>
+	<string>Tracking</string>
+	<key>TRACKING_BUTTON_VALUE_OFF</key>
+	<string>Off</string>
+	<key>TRACKING_BUTTON_VALUE_ON</key>
+	<string>On</string>
+	<key>TRACKING_BUTTON_VALUE_ON_WITH_HEADING</key>
+	<string>On with heading</string>
+	<key>TRACKING_BUTTON_VALUE_PROGRESS</key>
+	<string>Determining Location…</string>
+</dict>
+</plist>

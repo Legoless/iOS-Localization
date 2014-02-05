@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aluminium</key>
+	<string>Aluminum</string>
+	<key>auto</key>
+	<string>Auto</string>
+	<key>back-print-film</key>
+	<string>Back Print Film</string>
+	<key>cardboard</key>
+	<string>Cardboard</string>
+	<key>cardstock</key>
+	<string>Card Stock</string>
+	<key>cd</key>
+	<string>Compact Disc</string>
+	<key>continuous</key>
+	<string>Continuous</string>
+	<key>continuous-long</key>
+	<string>Continuous (Long)</string>
+	<key>continuous-short</key>
+	<string>Continuous (Short)</string>
+	<key>disc</key>
+	<string>Optical Disc</string>
+	<key>disc-glossy</key>
+	<string>Optical Disc (Glossy)</string>
+	<key>disc-high-gloss</key>
+	<string>Optical Disc (High-Gloss)</string>
+	<key>disc-matte</key>
+	<string>Optical Disc (Matte)</string>
+	<key>disc-satin</key>
+	<string>Optical Disc (Satin)</string>
+	<key>disc-semi-gloss</key>
+	<string>Optical Disc (Semi-GLoss)</string>
+	<key>double-wall</key>
+	<string>Cardboard (Double Wall)</string>
+	<key>end-board</key>
+	<string>Cardboard (End)</string>
+	<key>envelope</key>
+	<string>Envelope</string>
+	<key>envelope-archival</key>
+	<string>Envelope (Archival)</string>
+	<key>envelope-bond</key>
+	<string>Envelope (Bond)</string>
+	<key>envelope-coated</key>
+	<string>Envelope (Coated)</string>
+	<key>envelope-colored</key>
+	<string>Envelope (Colored)</string>
+	<key>envelope-cotton</key>
+	<string>Envelope (Cotton)</string>
+	<key>envelope-fine</key>
+	<string>Envelope (Fine)</string>
+	<key>envelope-heavyweight</key>
+	<string>Envelope (Heavy)</string>
+	<key>envelope-inkjet</key>
+	<string>Envelope (Inkjet)</string>
+	<key>envelope-lightweight</key>
+	<string>Envelope (Light)</string>
+	<key>envelope-plain</key>
+	<string>Envelope (Plain)</string>
+	<key>envelope-preprinted</key>
+	<string>Envelope (Preprinted)</string>
+	<key>envelope-window</key>
+	<string>Envelope (Window)</string>
+	<key>fabric</key>
+	<string>Fabric</string>
+	<key>fabric-archival</key>
+	<string>Fabric (Archival)</string>
+	<key>fabric-glossy</key>
+	<string>Fabric (Glossy)</string>
+	<key>fabric-high-gloss</key>
+	<string>Fabric (High-Gloss)</string>
+	<key>fabric-matte</key>
+	<string>Fabric (Matte)</string>
+	<key>fabric-semi-gloss</key>
+	<string>Fabric (Semi-Gloss)</string>
+	<key>fabric-waterproof</key>
+	<string>Fabric (Waterproof)</string>
+	<key>full-cut-tabs</key>
+	<string>Full Cut Tabs</string>
+	<key>glass</key>
+	<string>Glass</string>
+	<key>glass-colored</key>
+	<string>Glass (Colored)</string>
+	<key>glass-opaque</key>
+	<string>Glass (Opaque)</string>
+	<key>glass-surfaced</key>
+	<string>Glass (Surfaced)</string>
+	<key>glass-textured</key>
+	<string>Glass (Textured)</string>
+	<key>labels</key>
+	<string>Labels</string>
+	<key>labels-colored</key>
+	<string>Labels (Colored)</string>
+	<key>labels-glossy</key>
+	<string>Labels (Glossy)</string>
+	<key>labels-high-gloss</key>
+	<string>Labels (High Gloss)</string>
+	<key>labels-inkjet</key>
+	<string>Labels (Inkjet)</string>
+	<key>labels-matte</key>
+	<string>Labels (Matte)</string>
+	<key>labels-permanent</key>
+	<string>Labels (Permanent)</string>
+	<key>labels-satin</key>
+	<string>Labels (Satin)</string>
+	<key>labels-security</key>
+	<string>Labels (Security)</string>
+	<key>labels-semi-gloss</key>
+	<string>Labels (Semi-Gloss)</string>
+	<key>letterhead</key>
+	<string>Stationery (Letterhead)</string>
+	<key>metal</key>
+	<string>Metal</string>
+	<key>metal-glossy</key>
+	<string>Metal (Glossy)</string>
+	<key>metal-high-gloss</key>
+	<string>Metal (High-Gloss)</string>
+	<key>metal-matte</key>
+	<string>Metal (Matte)</string>
+	<key>metal-satin</key>
+	<string>Metal (Satin)</string>
+	<key>metal-semi-gloss</key>
+	<string>Metal (Semi-Gloss)</string>
+	<key>multi-layer</key>
+	<string>Multi-Layer</string>
+	<key>multi-part-form</key>
+	<string>Multi-Part Form</string>
+	<key>other</key>
+	<string>Other</string>
+	<key>photographic</key>
+	<string>Photo</string>
+	<key>photographic-archival</key>
+	<string>Photo (Archival)</string>
+	<key>photographic-film</key>
+	<string>Photo (Film)</string>
+	<key>photographic-glossy</key>
+	<string>Photo (Glossy)</string>
+	<key>photographic-high-gloss</key>
+	<string>Photo (High-Gloss)</string>
+	<key>photographic-matte</key>
+	<string>Photo (Matte)</string>
+	<key>photographic-satin</key>
+	<string>Photo (Satin)</string>
+	<key>photographic-semi-gloss</key>
+	<string>Photo (Semi-Gloss)</string>
+	<key>plastic</key>
+	<string>Plastic</string>
+	<key>plastic-archival</key>
+	<string>Plastic (Archival)</string>
+	<key>plastic-colored</key>
+	<string>Plastic (Colored)</string>
+	<key>plastic-glossy</key>
+	<string>Plastic (Glossy)</string>
+	<key>plastic-high-gloss</key>
+	<string>Plastic (High-Gloss)</string>
+	<key>plastic-matte</key>
+	<string>Plastic (Matte)</string>
+	<key>plastic-satin</key>
+	<string>Plastic (Satin)</string>
+	<key>plastic-semi-gloss</key>
+	<string>Plastic (Semi-Gloss)</string>
+	<key>pre-cut-tabs</key>
+	<string>Pre-Cut Tabs</string>
+	<key>roll</key>
+	<string>Roll</string>
+	<key>screen</key>
+	<string>Screen</string>
+	<key>screen-paged</key>
+	<string>Screen (Paged)</string>
+	<key>self-adhesive</key>
+	<string>Self-Adhesive Film</string>
+	<key>self-adhesive-film</key>
+	<string>Self-Adhesive Paper</string>
+	<key>single-face</key>
+	<string>Single Face</string>
+	<key>single-wall</key>
+	<string>Cardboard (Single Wall)</string>
+	<key>sleeve</key>
+	<string>Sleeve</string>
+	<key>stationery</key>
+	<string>Plain Paper</string>
+	<key>stationery-archival</key>
+	<string>Paper (Archival)</string>
+	<key>stationery-bond</key>
+	<string>Bond Paper</string>
+	<key>stationery-coated</key>
+	<string>Coated Paper</string>
+	<key>stationery-colored</key>
+	<string>Colored Paper</string>
+	<key>stationery-cotton</key>
+	<string>Cotton Paper</string>
+	<key>stationery-fine</key>
+	<string>Vellum Paper</string>
+	<key>stationery-heavyweight</key>
+	<string>Heavy Paper</string>
+	<key>stationery-heavyweight-coated</key>
+	<string>Heavy Coated Paper</string>
+	<key>stationery-inkjet</key>
+	<string>Inkjet Paper</string>
+	<key>stationery-letterhead</key>
+	<string>Letterhead</string>
+	<key>stationery-preprinted</key>
+	<string>Paper (Preprinted)</string>
+	<key>stationery-prepunched</key>
+	<string>Paper (Prepunched)</string>
+	<key>tab-stock</key>
+	<string>Tab Stock</string>
+	<key>tractor</key>
+	<string>Tractor</string>
+	<key>transfer</key>
+	<string>Transfer</string>
+	<key>transparency</key>
+	<string>Transparency</string>
+	<key>triple-wall</key>
+	<string>Cardboard (Triple Wall)</string>
+</dict>
+</plist>

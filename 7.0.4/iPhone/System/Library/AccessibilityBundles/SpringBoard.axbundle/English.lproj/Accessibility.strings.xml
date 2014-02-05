@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VoiceOver.confirmation.Cancel</key>
+	<string>Cancel</string>
+	<key>VoiceOver.confirmation.OK</key>
+	<string>OK</string>
+	<key>VoiceOver.confirmation.message.format</key>
+	<string>VoiceOver changes the gestures used to control %@.
+Are you sure you want to continue?
+
+Press the home button to cancel.</string>
+	<key>VoiceOver.confirmation.title</key>
+	<string>Important</string>
+	<key>VoiceOverItemChooser</key>
+	<string>Item Chooser</string>
+	<key>VoiceOverItemChooser.count</key>
+	<string>Item Chooser (%@)</string>
+	<key>VoiceOverItemChooser.exterior.container.hint</key>
+	<string>Double tap to dismiss item chooser</string>
+	<key>adjust.brightness</key>
+	<string>Brightness</string>
+	<key>airplay.button</key>
+	<string>AirPlay</string>
+	<key>album.art.for.artist</key>
+	<string>Album artwork for %1$@, %2$@</string>
+	<key>album.art.no.artist</key>
+	<string>Album artwork</string>
+	<key>app.gesture.switch</key>
+	<string>Switching to %@</string>
+	<key>app.icon.delete.hint</key>
+	<string>Double tap to delete</string>
+	<key>app.icon.hint</key>
+	<string>Double tap to open</string>
+	<key>app.icon.pause.download.hint</key>
+	<string>Double tap to pause download</string>
+	<key>app.icon.remove.from.switcher.hint</key>
+	<string>Double tap to remove from switcher</string>
+	<key>app.icon.reorder.hint</key>
+	<string>Double tap and hold to move</string>
+	<key>app.icon.resume.download.hint</key>
+	<string>Double tap to resume download</string>
+	<key>app.running.status</key>
+	<string>Running</string>
+	<key>app.switcher.announce</key>
+	<string>App switcher</string>
+	<key>app.switcher.home.icon</key>
+	<string>Home</string>
+	<key>app.switcher.jiggly.mode.start</key>
+	<string>Editing apps</string>
+	<key>app.switcher.no.items</key>
+	<string>App switcher has no items</string>
+	<key>application.name</key>
+	<string> </string>
+	<key>appstore.badge.format.plural</key>
+	<string>%@ updates available</string>
+	<key>appstore.badge.format.singular</key>
+	<string>%@ update available</string>
+	<key>away.list.grabber.pulldown.label</key>
+	<string>Show notification list</string>
+	<key>badge.exclaimation</key>
+	<string>Has alert</string>
+	<key>badge.folder.exclaimation</key>
+	<string>New items</string>
+	<key>badge.format.plural</key>
+	<string>%@ new items</string>
+	<key>badge.format.singular</key>
+	<string>%@ new item</string>
+	<key>bluetooth.button</key>
+	<string>Bluetooth</string>
+	<key>bottombar.lockbar.hint</key>
+	<string>Slide or double tap</string>
+	<key>brightness.format</key>
+	<string>%@ Brightness</string>
+	<key>bulletin.item.system.alert.image</key>
+	<string>Alert</string>
+	<key>bulletin.item.vip</key>
+	<string>VIP</string>
+	<key>bulletlist.hint.no.verb</key>
+	<string>Double tap to view</string>
+	<key>calendar.badge.format.plural</key>
+	<string>%@ new events</string>
+	<key>calendar.badge.format.singular</key>
+	<string>%@ new event</string>
+	<key>cancel.key</key>
+	<string>Cancel</string>
+	<key>charging.device.battery.text</key>
+	<string>Charging device battery: %@</string>
+	<key>charging.headset.battery.text</key>
+	<string>Charging headset battery: %@</string>
+	<key>clear.confirmation</key>
+	<string>Confirm clear section</string>
+	<key>clear.confirmation.hint</key>
+	<string>Double tap to confirm clearing of notifications</string>
+	<key>clear.firsttouch</key>
+	<string>Clear Section</string>
+	<key>clear.firsttouch.hint</key>
+	<string>Double tap to clear notifications</string>
+	<key>close.app.from.switcher.title</key>
+	<string>Close %@</string>
+	<key>closing.app</key>
+	<string>Closing %@</string>
+	<key>closing.folder</key>
+	<string>Closing %@ Folder</string>
+	<key>control.center.airplanemode.button</key>
+	<string>Airplane Mode</string>
+	<key>control.center.bluetooth.button</key>
+	<string>Bluetooth</string>
+	<key>control.center.brightness.slider</key>
+	<string>Brightness</string>
+	<key>control.center.calculator.button</key>
+	<string>Calculator</string>
+	<key>control.center.camera.button</key>
+	<string>Camera</string>
+	<key>control.center.clock.button</key>
+	<string>Clock</string>
+	<key>control.center.donotdisturb.button</key>
+	<string>Do Not Disturb</string>
+	<key>control.center.flashlight.button</key>
+	<string>Flashlight</string>
+	<key>control.center.mute.button</key>
+	<string>Mute</string>
+	<key>control.center.orientation.button</key>
+	<string>Lock orientation</string>
+	<key>control.center.showing</key>
+	<string>Control Center</string>
+	<key>control.center.wifi.button</key>
+	<string>Wi-Fi</string>
+	<key>creating.folder</key>
+	<string>Creating %@ Folder</string>
+	<key>days.ago.plural</key>
+	<string>%@ days ago</string>
+	<key>days.ago.singluar</key>
+	<string>%@ day ago</string>
+	<key>delete.key</key>
+	<string>Delete</string>
+	<key>dismiss.app.switcher.hint</key>
+	<string>Double tap to dismiss the app switcher</string>
+	<key>dismiss.app.switcher.label</key>
+	<string>Dismiss app switcher</string>
+	<key>dismiss.search.screen.label</key>
+	<string>Dismiss search</string>
+	<key>dock</key>
+	<string>Dock</string>
+	<key>dragged.inside.folder</key>
+	<string>Inside %@ Folder</string>
+	<key>dragged.off.app</key>
+	<string>Off %@</string>
+	<key>dragged.off.folder</key>
+	<string>Off %@ Folder</string>
+	<key>dragged.outside.folder</key>
+	<string>Outside %@ Folder. Hold finger for 5 seconds to close</string>
+	<key>dragged.over.app</key>
+	<string>On %@</string>
+	<key>dragged.over.folder</key>
+	<string>On %@ Folder</string>
+	<key>element.label.label</key>
+	<string>Label</string>
+	<key>element.label.save</key>
+	<string>Save</string>
+	<key>element.label.title</key>
+	<string>Label Element</string>
+	<key>empty.newsstand.icon</key>
+	<string>Newsstand store</string>
+	<key>end.call</key>
+	<string>End call</string>
+	<key>failed.passcode</key>
+	<string>Wrong passcode</string>
+	<key>fast.forward.button</key>
+	<string>Fast forward %@ seconds</string>
+	<key>finished.moving.app</key>
+	<string>row %@, column %@</string>
+	<key>finished.moving.app.in.dock</key>
+	<string>In Dock, position %@</string>
+	<key>finished.moving.app.in.folder</key>
+	<string>row %@, column %@, in %@ Folder</string>
+	<key>finished.moving.app.out.of.dock</key>
+	<string>Out of Dock, row %@, column %@</string>
+	<key>folder.icon.count.plural</key>
+	<string>%@ apps</string>
+	<key>folder.icon.count.singular</key>
+	<string>%@ app</string>
+	<key>folder.label</key>
+	<string>%@ folder</string>
+	<key>folder.name.enter.edit.mode.hint</key>
+	<string>Double tap and hold to start edit mode</string>
+	<key>folder.name.enter.edit.textfield.hint</key>
+	<string>Double tap to edit text field</string>
+	<key>folder.name.textfield</key>
+	<string>Folder</string>
+	<key>folder.opened</key>
+	<string>Opened</string>
+	<key>home</key>
+	<string>Home</string>
+	<key>hours.ago.plural</key>
+	<string>%@ hours ago</string>
+	<key>hours.ago.singular</key>
+	<string>%@ hour ago</string>
+	<key>hours.ahead.plural</key>
+	<string>in %@ hours</string>
+	<key>hours.ahead.singular</key>
+	<string>in %@ hour</string>
+	<key>icon.state.download.waiting</key>
+	<string>Waiting</string>
+	<key>info.button</key>
+	<string>Info</string>
+	<key>landscape.locked</key>
+	<string>Landscape locked</string>
+	<key>like.song.or.not.button</key>
+	<string>Like or dislike song</string>
+	<key>listen.button</key>
+	<string>Listen</string>
+	<key>loading</key>
+	<string>Loading…</string>
+	<key>lock.icon.text</key>
+	<string>Lock Icon</string>
+	<key>lock.screen.timer</key>
+	<string>Timer</string>
+	<key>mail.badge.format.plural</key>
+	<string>%@ unread messages</string>
+	<key>mail.badge.format.singular</key>
+	<string>%@ unread message</string>
+	<key>minutes.ago.plural</key>
+	<string>%@ minutes ago</string>
+	<key>minutes.ago.singular</key>
+	<string>%@ minute ago</string>
+	<key>minutes.ahead.plural</key>
+	<string>in %@ minutes</string>
+	<key>minutes.ahead.singular</key>
+	<string>in %@ minute</string>
+	<key>more.info.button</key>
+	<string>More info</string>
+	<key>moving.app.within.dock.first</key>
+	<string>First position in Dock</string>
+	<key>moving.app.within.dock.last</key>
+	<string>Last position in Dock</string>
+	<key>moving.app.within.dock.middle</key>
+	<string>Position %@, between %@ and %@</string>
+	<key>mute.activated</key>
+	<string>Muted</string>
+	<key>mute.button</key>
+	<string>Mute</string>
+	<key>mute.deactivated</key>
+	<string>Unmuted</string>
+	<key>nearing.border</key>
+	<string>Icon approaching border</string>
+	<key>new.announcement.string</key>
+	<string>%@ notification</string>
+	<key>new.newsstand.badge</key>
+	<string>New</string>
+	<key>newsstand.folder.icon.count.plural</key>
+	<string>%@ items</string>
+	<key>newsstand.folder.icon.count.singular</key>
+	<string>%@ item</string>
+	<key>next.track.button</key>
+	<string>Next track</string>
+	<key>notification</key>
+	<string>Notification</string>
+	<key>notification.center.showing</key>
+	<string>Notification Center</string>
+	<key>notification.roller</key>
+	<string>Dismiss Notification Center</string>
+	<key>open.camera.button</key>
+	<string>Open Camera</string>
+	<key>opening.folder</key>
+	<string>Opening %@ Folder</string>
+	<key>orientation.locked.from.switch</key>
+	<string>Orientation locked</string>
+	<key>orientation.unlocked</key>
+	<string>Unlocked</string>
+	<key>orientation.unlocked.from.switch</key>
+	<string>Orientation unlocked</string>
+	<key>passcode.entry</key>
+	<string>Passcode field</string>
+	<key>passcode.value.count.plural</key>
+	<string>%@ values</string>
+	<key>passcode.value.count.singular</key>
+	<string>%@ value</string>
+	<key>pause.button</key>
+	<string>Pause</string>
+	<key>phone.favorite.icon.launch.hint</key>
+	<string>Double tap to open</string>
+	<key>phone.favorite.icon.quit.hint</key>
+	<string>Double tap to quit</string>
+	<key>photos.badge.format.plural</key>
+	<string>%@ photo stream updates</string>
+	<key>photos.badge.format.singular</key>
+	<string>%@ photo stream update</string>
+	<key>picture.frame</key>
+	<string>Picture frame</string>
+	<key>picture.frame.hint</key>
+	<string>Displays photos while locked.</string>
+	<key>play.button</key>
+	<string>Play</string>
+	<key>portrait.locked</key>
+	<string>Portrait locked</string>
+	<key>powerdown.lock</key>
+	<string>Power off</string>
+	<key>previous.track.button</key>
+	<string>Previous track</string>
+	<key>rebooting.format</key>
+	<string>%@ rebooting</string>
+	<key>reminders.badge.format.plural</key>
+	<string>%@ tasks due today</string>
+	<key>reminders.badge.format.singular</key>
+	<string>%@ task due today</string>
+	<key>rewind.button</key>
+	<string>Rewind %@ seconds</string>
+	<key>rotation.lock.button</key>
+	<string>Rotation Lock</string>
+	<key>routes.button</key>
+	<string>Show audio routes</string>
+	<key>screen.dimmed</key>
+	<string>Screen dimmed</string>
+	<key>search.item.found.format</key>
+	<string>%@ item found</string>
+	<key>search.items.found.format</key>
+	<string>%@ items found</string>
+	<key>search.no.item.found</key>
+	<string>No items found</string>
+	<key>search.result.audiobook</key>
+	<string>Audiobook</string>
+	<key>search.result.documents</key>
+	<string>Documents</string>
+	<key>search.result.music</key>
+	<string>Music</string>
+	<key>search.result.podcast</key>
+	<string>Podcast</string>
+	<key>search.result.video</key>
+	<string>Video</string>
+	<key>search.top.hit.format</key>
+	<string>Top search result, %@</string>
+	<key>setup.info.button.label</key>
+	<string>Information</string>
+	<key>shutting.down.format</key>
+	<string>%@ shutting down</string>
+	<key>slide.to.answer</key>
+	<string>Answer</string>
+	<key>slide.to.unlock.label</key>
+	<string>Unlock</string>
+	<key>springboard.page.status</key>
+	<string>Page %1$@ of %2$@</string>
+	<key>starRating.label</key>
+	<string>Rating</string>
+	<key>started.moving.app</key>
+	<string>Moving %@</string>
+	<key>started.quit.app.mode</key>
+	<string>Quit %@</string>
+	<key>status.icon.lock</key>
+	<string>Locked</string>
+	<key>statusbar.alarmclock.icon</key>
+	<string>Alarm set</string>
+	<key>statusbar.play.icon</key>
+	<string>Playing Music</string>
+	<key>statusbar.plus.icon</key>
+	<string>Nike+</string>
+	<key>statusbar.tty.icon</key>
+	<string>TTY on</string>
+	<key>swipe.up.to.hide.hint</key>
+	<string>Swipe up with three fingers to close the app</string>
+	<key>unmute.button</key>
+	<string>Unmute</string>
+	<key>unread</key>
+	<string>Unread</string>
+	<key>vip.away.cell</key>
+	<string>Is VIP</string>
+	<key>voiceover.instructions.text</key>
+	<string>The iOS screen reader called VoiceOver is active.
+To turn VoiceOver off, triple-click the home button.</string>
+	<key>volume.eulimit.approach</key>
+	<string>Approaching high volume</string>
+	<key>volume.eulimit.warning</key>
+	<string>High volume</string>
+	<key>volume.slider</key>
+	<string>Volume</string>
+	<key>wait.for.scroll</key>
+	<string>Moving to page %@</string>
+	<key>wallpaper.text</key>
+	<string>Wallpaper</string>
+	<key>will.create.folder</key>
+	<string>Will create folder with %@</string>
+	<key>will.open.folder</key>
+	<string>Opening %@ folder</string>
+</dict>
+</plist>

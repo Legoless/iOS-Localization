@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1_LINKED_CARD</key>
+	<string>1 Linked Contact</string>
+	<key>ACCESS_DENIED_MESSAGE</key>
+	<string>You can enable access in Privacy Settings.</string>
+	<key>ACCESS_DENIED_TITLE</key>
+	<string>This app does not have access to your contacts.</string>
+	<key>ADD</key>
+	<string>Add</string>
+	<key>ADDRESS_ACTION_GOOGLE_MAPS</key>
+	<string>Open in Google Maps</string>
+	<key>ADD_CUSTOM_LABEL_BUTTON</key>
+	<string>Add Custom Label</string>
+	<key>ADD_CUSTOM_SERVICE_BUTTON</key>
+	<string>Add Custom Service</string>
+	<key>ADD_CUSTOM_SERVICE_PLACEHOLDER</key>
+	<string>custom service</string>
+	<key>ADD_CUSTOM_SERVICE_TITLE</key>
+	<string>Custom Service</string>
+	<key>ADD_EMAIL_TO</key>
+	<string>Add this email to:</string>
+	<key>ADD_MORE_PROPERTIES</key>
+	<string>add field</string>
+	<key>ADD_MORE_PROPERTIES_NAV_TITLE</key>
+	<string>Add Field</string>
+	<key>ADD_NAME</key>
+	<string>Add Name</string>
+	<key>ADD_NEW_ITEM</key>
+	<string>add %@</string>
+	<key>ADD_NEW_ITEM Address</key>
+	<string>add address</string>
+	<key>ADD_NEW_ITEM Birthday</key>
+	<string>add birthday</string>
+	<key>ADD_NEW_ITEM Date</key>
+	<string>add date</string>
+	<key>ADD_NEW_ITEM Email</key>
+	<string>add email</string>
+	<key>ADD_NEW_ITEM IM</key>
+	<string>add instant message</string>
+	<key>ADD_NEW_ITEM Note</key>
+	<string>add note</string>
+	<key>ADD_NEW_ITEM Phone</key>
+	<string>add phone</string>
+	<key>ADD_NEW_ITEM RelatedNames</key>
+	<string>add related name</string>
+	<key>ADD_NEW_ITEM SocialProfile</key>
+	<string>add social profile</string>
+	<key>ADD_NEW_ITEM URL</key>
+	<string>add URL</string>
+	<key>ADD_NOTES_PLACEHOLDER</key>
+	<string></string>
+	<key>ADD_PHONE_NUMBER_TO</key>
+	<string>Add this phone number to:</string>
+	<key>ADD_PROPERTY</key>
+	<string>Add %@</string>
+	<key>ADD_PROPERTY Address</key>
+	<string>Add Address</string>
+	<key>ADD_PROPERTY Date</key>
+	<string>Add Date</string>
+	<key>ADD_PROPERTY Email</key>
+	<string>Add Email</string>
+	<key>ADD_PROPERTY IM</key>
+	<string>Add Instant Message</string>
+	<key>ADD_PROPERTY Middle</key>
+	<string>Add Middle Name</string>
+	<key>ADD_PROPERTY Phone</key>
+	<string>Add Phone</string>
+	<key>ADD_PROPERTY RelatedNames</key>
+	<string>Add Related Name</string>
+	<key>ADD_PROPERTY URL</key>
+	<string>Add URL</string>
+	<key>ALL_CONTACTS</key>
+	<string>All Contacts</string>
+	<key>ALL_CONTACTS_FOR_ACCOUNT</key>
+	<string>All %@</string>
+	<key>Africa</key>
+	<string>Africa</string>
+	<key>Africa (Eastern)</key>
+	<string>Africa (Eastern)</string>
+	<key>Africa (Middle)</key>
+	<string>Africa (Middle)</string>
+	<key>Africa (Northern)</key>
+	<string>Africa (Northern)</string>
+	<key>Africa (Southern)</key>
+	<string>Africa (Southern)</string>
+	<key>Africa (Western)</key>
+	<string>Africa (Western)</string>
+	<key>America (Central)</key>
+	<string>America (Central)</string>
+	<key>America (North)</key>
+	<string>America (North)</string>
+	<key>America (South)</key>
+	<string>America (South)</string>
+	<key>Asia</key>
+	<string>Asia</string>
+	<key>Asia (Central)</key>
+	<string>Asia (Central)</string>
+	<key>Asia (Eastern)</key>
+	<string>Asia (Eastern)</string>
+	<key>Asia (South-Eastern)</key>
+	<string>Asia (South-Eastern)</string>
+	<key>Asia (Southern)</key>
+	<string>Asia (Southern)</string>
+	<key>Asia (Western)</key>
+	<string>Asia (Western)</string>
+	<key>BLOCK_THIS_CALLER</key>
+	<string>Block this Caller</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CARD_ACTION_ASSIGN_RINGTONE</key>
+	<string>Assign Ringtone</string>
+	<key>CARD_ACTION_BLOCK_CONTACT</key>
+	<string>Block Contact</string>
+	<key>CARD_ACTION_BLOCK_CONTACT_INFO_TEXT</key>
+	<string>You will not receive phone calls, messages, or FaceTime from people on the block list.</string>
+	<key>CARD_ACTION_DELETE_CARD</key>
+	<string>Delete Contact</string>
+	<key>CARD_ACTION_DELETE_CARD_MULTIPLE_FORMAT</key>
+	<string>Delete %@ Contacts</string>
+	<key>CARD_DONE</key>
+	<string>Done|Edit</string>
+	<key>CARD_EDIT</key>
+	<string>Edit|Done</string>
+	<key>CARD_NAME_JOB_TITLE_DEPARMENT_SEPARATOR</key>
+	<string> - </string>
+	<key>CARD_NAME_NICKNAME_FORMAT</key>
+	<string>“%@”</string>
+	<key>CHOOSE_DIFFERENT_PHOTO</key>
+	<string>Choose Different Photo</string>
+	<key>CHOOSE_EXISTITNG_PHOTO</key>
+	<string>Choose Existing Photo</string>
+	<key>CHOOSE_LIBRARY_PHOTO</key>
+	<string>Choose Photo from Library</string>
+	<key>CHOOSE_PHOTO</key>
+	<string>Choose Photo</string>
+	<key>CONFIRM_DELETE</key>
+	<string>Confirm Delete</string>
+	<key>CONTACTS</key>
+	<string>Contacts</string>
+	<key>CONTACTS_COUNT</key>
+	<string>%@ Contacts</string>
+	<key>CREATE_NEW_CONTACT_PROMPT</key>
+	<string>Enter a name for this contact.</string>
+	<key>CREATE_NEW_CONTACT_TITLE</key>
+	<string>New Contact</string>
+	<key>CUSTOM_LABEL_DONE</key>
+	<string>Done|Edit</string>
+	<key>CUSTOM_LABEL_EDIT</key>
+	<string>Edit|Done</string>
+	<key>CUSTOM_LABEL_ITEM</key>
+	<string>Custom…</string>
+	<key>CUSTOM_LABEL_PLACEHOLDER</key>
+	<string>Custom Label</string>
+	<key>CUSTOM_NAVIGATION_TITLE</key>
+	<string>Custom Label</string>
+	<key>Caribbean</key>
+	<string>Caribbean</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_CARD_READONLY_CONTACT_MESSAGE_FORMAT</key>
+	<string>The linked %@ contact will not be deleted.</string>
+	<key>DELETE_CARD_SHEET_CONFIRMATION</key>
+	<string>Delete Contact</string>
+	<key>DELETE_CARD_SHEET_FAILURE_ALERT_EXPLANATION</key>
+	<string>One or more of the contacts may be read-only.</string>
+	<key>DELETE_CARD_SHEET_FAILURE_ALERT_TITLE</key>
+	<string>Not all contacts were deleted</string>
+	<key>DELETE_PHOTO</key>
+	<string>Delete Photo</string>
+	<key>DELETE_PHOTO_MULTIPLE_FORMAT</key>
+	<string>Delete %@ Photos</string>
+	<key>DIRECTORIES</key>
+	<string>Directories</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EDIT_COUNTRY_FORMAT</key>
+	<string>Country</string>
+	<key>EDIT_ITEM_LABEL</key>
+	<string>Label</string>
+	<key>EDIT_NAME</key>
+	<string>Edit Name</string>
+	<key>EDIT_PHOTO</key>
+	<string>Edit Photo</string>
+	<key>EDIT_PROPERTY</key>
+	<string>Edit %@</string>
+	<key>EDIT_PROPERTY Address</key>
+	<string>Edit Address</string>
+	<key>EDIT_PROPERTY Birthday</key>
+	<string>Edit Birthday</string>
+	<key>EDIT_PROPERTY Date</key>
+	<string>Edit Date</string>
+	<key>EDIT_PROPERTY Department</key>
+	<string>Edit Department</string>
+	<key>EDIT_PROPERTY Email</key>
+	<string>Edit Email</string>
+	<key>EDIT_PROPERTY First</key>
+	<string>Edit First Name</string>
+	<key>EDIT_PROPERTY FirstPhonetic</key>
+	<string>Edit</string>
+	<key>EDIT_PROPERTY IM</key>
+	<string>Edit Instant Message</string>
+	<key>EDIT_PROPERTY JobTitle</key>
+	<string>Edit Job Title</string>
+	<key>EDIT_PROPERTY Last</key>
+	<string>Edit Last Name</string>
+	<key>EDIT_PROPERTY LastPhonetic</key>
+	<string>Edit</string>
+	<key>EDIT_PROPERTY MaidenName</key>
+	<string>Edit Maiden Name</string>
+	<key>EDIT_PROPERTY Middle</key>
+	<string>Edit Middle Name</string>
+	<key>EDIT_PROPERTY MiddlePhonetic</key>
+	<string>Edit</string>
+	<key>EDIT_PROPERTY Nickname</key>
+	<string>Edit Nickname</string>
+	<key>EDIT_PROPERTY Note</key>
+	<string>Edit Note</string>
+	<key>EDIT_PROPERTY Organization</key>
+	<string>Edit Company</string>
+	<key>EDIT_PROPERTY Phone</key>
+	<string>Edit Phone</string>
+	<key>EDIT_PROPERTY Prefix</key>
+	<string>Edit Prefix</string>
+	<key>EDIT_PROPERTY RelatedNames</key>
+	<string>Edit Related Name</string>
+	<key>EDIT_PROPERTY Suffix</key>
+	<string>Edit Suffix</string>
+	<key>EDIT_PROPERTY URL</key>
+	<string>Edit URL</string>
+	<key>EDIT_RINGTONE</key>
+	<string>Ringtone</string>
+	<key>EDIT_TEXTTONE</key>
+	<string>Text Tone</string>
+	<key>EDIT_VIBRATION</key>
+	<string>Vibration</string>
+	<key>EMAIL_ACTION_EMAIL</key>
+	<string>Email</string>
+	<key>EXCHANGE</key>
+	<string>Exchange</string>
+	<key>EXCHANGE_GAL_TITLE_FORMAT</key>
+	<string>%@ Global Address List</string>
+	<key>Europe</key>
+	<string>Europe</string>
+	<key>FIRST_NAME</key>
+	<string>First Name</string>
+	<key>GRID</key>
+	<string>Grid</string>
+	<key>GROUPS</key>
+	<string>Groups</string>
+	<key>GROUP_NAME_WITH_AMOUNT_FORMAT</key>
+	<string>%@ (%ld)</string>
+	<key>GoogleTalk SHORT_INSTANT_MESSAGE_SERVICE</key>
+	<string>Google</string>
+	<key>HIDE_ALL_CONTACTS</key>
+	<string>Hide All Contacts</string>
+	<key>INFO</key>
+	<string>Info</string>
+	<key>INSTANT_MESSAGE_USERNAME_AND_SERVICE_FORMAT</key>
+	<string>%@ (%@)</string>
+	<key>LAST_NAME</key>
+	<string>Last Name</string>
+	<key>LDAP</key>
+	<string>LDAP</string>
+	<key>LINKED_CARDS_BACK_BUTTON_TITLE</key>
+	<string>Linked Contacts</string>
+	<key>LINKED_CARDS_TABLE_SECTION_TITLE</key>
+	<string>LINKED CONTACTS</string>
+	<key>LINKED_CARD_ADD_WARNING_EXPLANATION_FORMAT</key>
+	<string>This will add a value to %@ linked contacts.</string>
+	<key>LINKED_CARD_ADD_WARNING_TITLE</key>
+	<string>Warning</string>
+	<key>LINKED_CARD_EDIT_WARNING_EXPLANATION_FORMAT</key>
+	<string>This will edit the matching value on %@ linked contacts.</string>
+	<key>LINKED_CARD_EDIT_WARNING_TITLE</key>
+	<string>Warning</string>
+	<key>LINKED_CARD_IMAGE_WARNING_EXPLANATION_FORMAT</key>
+	<string>This will change the photo for %@ linked contacts.</string>
+	<key>LINKED_CARD_IMAGE_WARNING_TITLE</key>
+	<string>Warning</string>
+	<key>LINKED_NOTES_LABEL_WITH_SOURCE</key>
+	<string>%@ note</string>
+	<key>LINK_AND_UNLINK_CARDS_WITH</key>
+	<string>Link and Unlink Contacts with %@</string>
+	<key>LINK_ANOTHER_CONTACT_TABLE_CELL_TITLE</key>
+	<string>link contacts…</string>
+	<key>LINK_BAR_BUTTON_ITEM_TITLE</key>
+	<string>Link</string>
+	<key>LINK_CARDS_WITH</key>
+	<string>Link Contacts with %@</string>
+	<key>LINK_NEW_CONTACT_POPOVER_LABEL</key>
+	<string>Link Contact</string>
+	<key>LIST</key>
+	<string>List</string>
+	<key>Latin America</key>
+	<string>Latin America</string>
+	<key>MAPS_CARD_ADD_TO_BOOKMARKS</key>
+	<string>Add to Bookmarks</string>
+	<key>MAPS_CARD_ADD_TO_CONTACTS</key>
+	<string>Add to Contacts</string>
+	<key>MAPS_CARD_DIRECTIONS_FROM</key>
+	<string>Directions From Here</string>
+	<key>MAPS_CARD_DIRECTIONS_TO</key>
+	<string>Directions To Here</string>
+	<key>MAPS_CARD_REMOVE_PIN</key>
+	<string>Remove Pin</string>
+	<key>MAPS_CARD_SHARE_LOCATION</key>
+	<string>Share Location</string>
+	<key>ME_CELL_INDICATOR</key>
+	<string>me</string>
+	<key>MOBILEME</key>
+	<string>MobileMe</string>
+	<key>MORE</key>
+	<string>more…</string>
+	<key>MSN SHORT_INSTANT_MESSAGE_SERVICE</key>
+	<string>MSN</string>
+	<key>MULTIPLE_NAMES_DELIMITER</key>
+	<string>, </string>
+	<key>MULTIPLE_PROPERTY Ringtone</key>
+	<string>Multiple Ringtones</string>
+	<key>MULTIPLE_PROPERTY Text Tone</key>
+	<string>Multiple Text Tones</string>
+	<key>MULTIPLE_PROPERTY Vibration</key>
+	<string>Multiple Vibrations</string>
+	<key>NEW_CARD_DONE</key>
+	<string>Done|Save</string>
+	<key>NO_CONTACTS</key>
+	<string>No Contacts</string>
+	<key>NO_NAME</key>
+	<string>No Name</string>
+	<key>NO_NETWORK</key>
+	<string>No Network Connection</string>
+	<key>NO_RESULTS</key>
+	<string>No Results</string>
+	<key>NO_VALUE_ADDRESSES</key>
+	<string>No Street Addresses</string>
+	<key>NO_VALUE_DATES</key>
+	<string>No Dates</string>
+	<key>NO_VALUE_EMAILS</key>
+	<string>No Email Addresses</string>
+	<key>NO_VALUE_INSTANT_MESSAGES</key>
+	<string>No Instant Message Names</string>
+	<key>NO_VALUE_PHONES</key>
+	<string>No Phone Numbers</string>
+	<key>NO_VALUE_RELATED_NAMES</key>
+	<string>No Related Names</string>
+	<key>NO_VALUE_SOCIAL_PROFILE</key>
+	<string>No Social Profiles</string>
+	<key>NO_VALUE_URLS</key>
+	<string>No URLs</string>
+	<key>NO_VCARDS_ERROR</key>
+	<string>An error occurred reading the file</string>
+	<key>NO_VCARDS_FOUND</key>
+	<string>No cards</string>
+	<key>N_LINKED_CARDS</key>
+	<string>%@ Linked Contacts</string>
+	<key>North America</key>
+	<string>North America</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OTHER_FORMATTER</key>
+	<string>Other %@</string>
+	<key>OTHER_FORMATTER Address</key>
+	<string>Other Address</string>
+	<key>OTHER_FORMATTER Date</key>
+	<string>Other Date</string>
+	<key>OTHER_FORMATTER Email</key>
+	<string>Other Email</string>
+	<key>OTHER_FORMATTER IM</key>
+	<string>Other Instant Message</string>
+	<key>OTHER_FORMATTER Phone</key>
+	<string>Other Phone</string>
+	<key>OTHER_FORMATTER RelatedNames</key>
+	<string>Other Related Name</string>
+	<key>OTHER_FORMATTER URL</key>
+	<string>Other URL</string>
+	<key>OTHER_NUMBER</key>
+	<string>Other Number</string>
+	<key>Oceania</key>
+	<string>Oceania</string>
+	<key>PEOPLE_PICKER_FOR_LINKING_NO_NAME</key>
+	<string>(No Name)</string>
+	<key>PEOPLE_PICKER_FOR_LINKING_PROMPT_FORMAT</key>
+	<string>Choose a contact to link with %@.</string>
+	<key>PHONE_ACTION_ADD_TO_FAVORITES</key>
+	<string>Add to Favorites</string>
+	<key>PHONE_ACTION_ADD_TO_FAVORITES_SHORT</key>
+	<string>Add to
+Favorites</string>
+	<key>PHONE_ACTION_CALL</key>
+	<string>Call</string>
+	<key>PHONE_ACTION_CALL_SHEET_TITLE</key>
+	<string>Voice Call.</string>
+	<key>PHONE_ACTION_FACETIME_AUDIO</key>
+	<string>FaceTime Audio</string>
+	<key>PHONE_ACTION_FAVORITES_DIFFERENTIATE</key>
+	<string>Add %@ to Favorites as:</string>
+	<key>PHONE_ACTION_FAVORITES_SHEET_TITLE</key>
+	<string>Add to Favorites.</string>
+	<key>PHONE_ACTION_TEXT</key>
+	<string>Send Message</string>
+	<key>PHONE_ACTION_TEXT_SHEET_TITLE</key>
+	<string>Send a text message.</string>
+	<key>PHONE_ACTION_TEXT_SHORT</key>
+	<string>Send
+Message</string>
+	<key>PHONE_ACTION_VIDEO_CONFERENCE</key>
+	<string>FaceTime</string>
+	<key>PHONE_ACTION_VIDEO_CONFERENCE_SHEET_TITLE</key>
+	<string>FaceTime</string>
+	<key>PHONE_ACTION_VIDEO_CONFERENCE_SHORT</key>
+	<string>FaceTime</string>
+	<key>PHONE_ACTION_VOICE</key>
+	<string>Voice Call</string>
+	<key>PHONE_ACTION_VOICE_CONFERENCE</key>
+	<string>FaceTime Audio</string>
+	<key>PHOTO_ADD_LABEL</key>
+	<string>add
+photo</string>
+	<key>PHOTO_EDIT_LABEL</key>
+	<string>edit</string>
+	<key>RELATED_PEOPLE_PLACEHOLDER</key>
+	<string>Name</string>
+	<key>REMOVE</key>
+	<string>Remove</string>
+	<key>RINGTONE</key>
+	<string>Ringtone</string>
+	<key>RINGTONE_CARD_ITEM_DEFAULT_VALUE</key>
+	<string>Default</string>
+	<key>RINGTONE_CARD_ITEM_LABEL</key>
+	<string>Ringtone</string>
+	<key>RINGTONE_PICKER_DEFAULT_RINGTONE_NAME</key>
+	<string>Marimba</string>
+	<key>RINGTONE_PICKER_DEFAULT_VALUE</key>
+	<string>Default</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_CUSTOM</key>
+	<string>Custom</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_DEFAULT</key>
+	<string>Default</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_NEW</key>
+	<string>New</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_ORIGINAL</key>
+	<string>Original</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_PURCHASED</key>
+	<string>Purchased</string>
+	<key>RINGTONE_PICKER_GROUP_TITLE_STANDARD</key>
+	<string>Standard</string>
+	<key>RINGTONE_PICKER_NONE</key>
+	<string>None</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SEARCHING</key>
+	<string>Searching...</string>
+	<key>SEARCH_DIRECTORY_PLACEHOLDER</key>
+	<string>Search Directory</string>
+	<key>SEARCH_FAILED</key>
+	<string>Search Failed</string>
+	<key>SEARCH_LOCAL_PLACEHOLDER</key>
+	<string>Search</string>
+	<key>SEARCH_NAV_TITLE</key>
+	<string>Search</string>
+	<key>SEARCH_RESULTS_NONE</key>
+	<string>No Results</string>
+	<key>SEARCH_RESULTS_PLURAL_FORMAT</key>
+	<string>(%d Results)</string>
+	<key>SEARCH_RESULTS_SINGLE</key>
+	<string>(1 Result)</string>
+	<key>SELECT_SERVICE_TITLE</key>
+	<string>Service</string>
+	<key>SET_COUNTRY</key>
+	<string>Set Country</string>
+	<key>SET_PREFERRED_NAME_ACTION_BUTTON_TITLE</key>
+	<string>Use This Name For Unified Card</string>
+	<key>SET_PREFERRED_PHOTO_ACTION_BUTTON_TITLE</key>
+	<string>Use This Photo For Unified Card</string>
+	<key>SHARE_CONTACT_ACTION_BUTTON_TITLE</key>
+	<string>Share Contact</string>
+	<key>SHARE_CONTACT_ACTION_BUTTON_TITLE_SHORT</key>
+	<string>Share
+Contact</string>
+	<key>SHARE_CONTACT_EMAIL_SUBJECT</key>
+	<string>Contact</string>
+	<key>SHARE_CONTACT_SHEET_TITLE</key>
+	<string>Share Contact Using:</string>
+	<key>SHARE_CONTACT_VIA_EMAIL</key>
+	<string>Email</string>
+	<key>SHARE_CONTACT_VIA_TEXT_MESSAGE</key>
+	<string>Message</string>
+	<key>SHARE_LOCATION_ON_TWITTER</key>
+	<string>Tweet</string>
+	<key>SHARE_LOCATION_ON_WEIBO</key>
+	<string>Weibo</string>
+	<key>SHARE_LOCATION_SHEET_TITLE</key>
+	<string>Share Location Using:</string>
+	<key>SHOW_ALL_CONTACTS</key>
+	<string>Show All Contacts</string>
+	<key>SOCIAL_PROFILE_USERNAME_AND_SERVICE_FORMAT</key>
+	<string>%@ (%@)</string>
+	<key>SOURCE_NAMES_DELIMITER</key>
+	<string>, </string>
+	<key>TAKE_PHOTO</key>
+	<string>Take Photo</string>
+	<key>TEXTTONE_CARD_ITEM_LABEL</key>
+	<string>Text Tone</string>
+	<key>TWITTER_ACTION_SHEET_TITLE</key>
+	<string>Twitter</string>
+	<key>TWITTER_ACTION_TWEET</key>
+	<string>Tweet</string>
+	<key>TWITTER_ACTION_VIEW_TWEETS</key>
+	<string>View Tweets</string>
+	<key>TWITTER_FIELD_NAME</key>
+	<string>Twitter</string>
+	<key>UNBLOCK_THIS_CALLER</key>
+	<string>Unblock this Caller</string>
+	<key>UNKNOWN_CARD_ADD_TO_CONTACT_FORMAT</key>
+	<string>Add to %@</string>
+	<key>UNKNOWN_CARD_ADD_TO_EXISTING_CONTACT</key>
+	<string>Add to Existing Contact</string>
+	<key>UNKNOWN_CARD_ADD_TO_SELECTED_CONTACT</key>
+	<string>Add to Selected Contact</string>
+	<key>UNKNOWN_CARD_CREATE_NEW_CONTACT</key>
+	<string>Create New Contact</string>
+	<key>UNKNOWN_SOURCE_STRING</key>
+	<string>Unknown</string>
+	<key>UNLINK</key>
+	<string>Unlink</string>
+	<key>UPDATING_CONTACTS</key>
+	<string>Updating Contacts…</string>
+	<key>URL_ACTION_BOOKMARK</key>
+	<string>Add to Bookmarks</string>
+	<key>URL_ACTION_VISIT</key>
+	<string>Visit</string>
+	<key>USE_ACCOUNT_PHOTO_FORMAT</key>
+	<string>Use %@ Photo</string>
+	<key>USE_ACCOUNT_PHOTO_FORMAT_SHORT</key>
+	<string>%@</string>
+	<key>USE_ACCOUNT_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>%@ Photo %@</string>
+	<key>USE_ACCOUNT_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use %@ Photo %@</string>
+	<key>USE_CARDDAV_PHOTO</key>
+	<string>Use CardDAV Photo</string>
+	<key>USE_CARDDAV_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>CardDAV Photo %@</string>
+	<key>USE_CARDDAV_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use CardDAV Photo %@</string>
+	<key>USE_CARDDAV_PHOTO_SHORT</key>
+	<string>CardDAV</string>
+	<key>USE_EXCHANGE_PHOTO</key>
+	<string>Use Exchange Photo</string>
+	<key>USE_EXCHANGE_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>Exchange Photo %@</string>
+	<key>USE_EXCHANGE_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use Exchange Photo %@</string>
+	<key>USE_EXCHANGE_PHOTO_SHORT</key>
+	<string>Exchange</string>
+	<key>USE_FACEBOOK_PHOTO</key>
+	<string>Use Facebook Photo</string>
+	<key>USE_FACEBOOK_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>Facebook Photo %@</string>
+	<key>USE_FACEBOOK_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use Facebook Photo %@</string>
+	<key>USE_FACEBOOK_PHOTO_SHORT</key>
+	<string>Facebook</string>
+	<key>USE_ICLOUD_PHOTO</key>
+	<string>Use iCloud Photo</string>
+	<key>USE_ICLOUD_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>iCloud Photo %@</string>
+	<key>USE_ICLOUD_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use iCloud Photo %@</string>
+	<key>USE_ICLOUD_PHOTO_SHORT</key>
+	<string>iCloud</string>
+	<key>USE_IPAD_PHOTO</key>
+	<string>Use iPad Photo</string>
+	<key>USE_IPAD_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>iPad Photo %@</string>
+	<key>USE_IPAD_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use iPad Photo %@</string>
+	<key>USE_IPAD_PHOTO_SHORT</key>
+	<string>iPad</string>
+	<key>USE_IPHONE_PHOTO</key>
+	<string>Use iPhone Photo</string>
+	<key>USE_IPHONE_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>iPhone Photo %@</string>
+	<key>USE_IPHONE_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use iPhone Photo %@</string>
+	<key>USE_IPHONE_PHOTO_SHORT</key>
+	<string>iPhone</string>
+	<key>USE_IPHONE_SIMULATOR_PHOTO</key>
+	<string>Use iPhone Simulator Photo</string>
+	<key>USE_IPHONE_SIMULATOR_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>iPhone Simulator Photo %@</string>
+	<key>USE_IPHONE_SIMULATOR_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use iPhone Simulator Photo %@</string>
+	<key>USE_IPHONE_SIMULATOR_PHOTO_SHORT</key>
+	<string>iPhone Simulator</string>
+	<key>USE_IPOD_PHOTO</key>
+	<string>Use iPod Photo</string>
+	<key>USE_IPOD_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>iPod Photo %@</string>
+	<key>USE_IPOD_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use iPod Photo %@</string>
+	<key>USE_IPOD_PHOTO_SHORT</key>
+	<string>iPod</string>
+	<key>USE_MOBILEME_PHOTO</key>
+	<string>Use MobileMe Photo</string>
+	<key>USE_MOBILEME_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>MobileMe Photo %@</string>
+	<key>USE_MOBILEME_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use MobileMe Photo %@</string>
+	<key>USE_MOBILEME_PHOTO_SHORT</key>
+	<string>MobileMe</string>
+	<key>USE_SOURCE_PHOTO_FORMAT</key>
+	<string>Use %@ Photo</string>
+	<key>USE_SOURCE_PHOTO_FORMAT_SHORT</key>
+	<string>%@</string>
+	<key>USE_SOURCE_PHOTO_FORMAT_SHORT_WITH_SUFFIX</key>
+	<string>%@ Photo %@</string>
+	<key>USE_SOURCE_PHOTO_FORMAT_WITH_SUFFIX</key>
+	<string>Use %@ Photo %@</string>
+	<key>Unable to open contact card.</key>
+	<string>Unable to open contact card.</string>
+	<key>VCARD_ADD</key>
+	<string>Merge with Contacts</string>
+	<key>VCARD_ADD_ALL</key>
+	<string>Add All %d Contacts</string>
+	<key>VCARD_ADD_ONE</key>
+	<string>Add Contact</string>
+	<key>VCARD_CANCEL</key>
+	<string>Cancel</string>
+	<key>VCARD_CREATE</key>
+	<string>Create New Contacts</string>
+	<key>VCARD_CREATE_NEW</key>
+	<string>Create New Contacts</string>
+	<key>VCARD_CREATE_NEW_1</key>
+	<string>Create New Contact</string>
+	<key>VCARD_DEFAULT_FILE_NAME</key>
+	<string>Contact</string>
+	<key>VCARD_UNMERGED_MESSAGE</key>
+	<string>%d contacts did not match any existing entries.
+Would you like to add these contacts?</string>
+	<key>VCARD_UNMERGED_MESSAGE_1</key>
+	<string>1 contact did not match an existing entry.
+Would you like to add this contact?</string>
+	<key>VIBRATION_CARD_ITEM_DEFAULT_VALUE</key>
+	<string>Default</string>
+	<key>VIBRATION_CARD_ITEM_LABEL</key>
+	<string>Vibration</string>
+	<key>WEIBO_ACTION_SEND</key>
+	<string>Mention in Weibo</string>
+	<key>WEIBO_ACTION_SHEET_TITLE</key>
+	<string>Weibo</string>
+	<key>WEIBO_ACTION_VIEW_WEIBOS</key>
+	<string>View Weibos</string>
+	<key>Yahoo SHORT_INSTANT_MESSAGE_SERVICE</key>
+	<string>Yahoo!</string>
+	<key>alarm-system:Alarm1</key>
+	<string>Time Passing</string>
+	<key>alarm-system:Alarm2</key>
+	<string>Time's Up</string>
+	<key>alarm-system:Alarm3</key>
+	<string>Checkmate</string>
+	<key>alarm-system:Alarm4</key>
+	<string>Jump</string>
+	<key>alarm-system:Alarm5</key>
+	<string>Up Down</string>
+	<key>system:Alarm</key>
+	<string>Alarm</string>
+	<key>system:Ascending</key>
+	<string>Ascending</string>
+	<key>system:Bark</key>
+	<string>Bark</string>
+	<key>system:Bell Tower</key>
+	<string>Bell Tower</string>
+	<key>system:Blues</key>
+	<string>Blues</string>
+	<key>system:Boing</key>
+	<string>Boing</string>
+	<key>system:Crickets</key>
+	<string>Crickets</string>
+	<key>system:Digital</key>
+	<string>Digital</string>
+	<key>system:Doorbell</key>
+	<string>Doorbell</string>
+	<key>system:Duck</key>
+	<string>Duck</string>
+	<key>system:Harp</key>
+	<string>Harp</string>
+	<key>system:Motorcycle</key>
+	<string>Motorcycle</string>
+	<key>system:Old Car Horn</key>
+	<string>Old Car Horn</string>
+	<key>system:Old Phone</key>
+	<string>Old Phone</string>
+	<key>system:Piano Riff</key>
+	<string>Piano Riff</string>
+	<key>system:Pinball</key>
+	<string>Pinball</string>
+	<key>system:Robot</key>
+	<string>Robot</string>
+	<key>system:Sci-Fi</key>
+	<string>Sci-Fi</string>
+	<key>system:Sonar</key>
+	<string>Sonar</string>
+	<key>system:Strum</key>
+	<string>Strum</string>
+	<key>system:Timba</key>
+	<string>Timba</string>
+	<key>system:Time Passing</key>
+	<string>Time Passing</string>
+	<key>system:Trill</key>
+	<string>Trill</string>
+	<key>system:Xylophone</key>
+	<string>Xylophone</string>
+	<key>texttone:Anticipate</key>
+	<string>Anticipate</string>
+	<key>texttone:Bell</key>
+	<string>Bell</string>
+	<key>texttone:Bloom</key>
+	<string>Bloom</string>
+	<key>texttone:Calypso</key>
+	<string>Calypso</string>
+	<key>texttone:Chime</key>
+	<string>Chime</string>
+	<key>texttone:Choo Choo</key>
+	<string>Choo Choo</string>
+	<key>texttone:Descent</key>
+	<string>Descent</string>
+	<key>texttone:Electronic</key>
+	<string>Electronic</string>
+	<key>texttone:Fanfare</key>
+	<string>Fanfare</string>
+	<key>texttone:Glass</key>
+	<string>Glass</string>
+	<key>texttone:Horn</key>
+	<string>Horn</string>
+	<key>texttone:Ladder</key>
+	<string>Ladder</string>
+	<key>texttone:Minuet</key>
+	<string>Minuet</string>
+	<key>texttone:News Flash</key>
+	<string>News Flash</string>
+	<key>texttone:Noir</key>
+	<string>Noir</string>
+	<key>texttone:Sherwood Forest</key>
+	<string>Sherwood Forest</string>
+	<key>texttone:Spell</key>
+	<string>Spell</string>
+	<key>texttone:Suspense</key>
+	<string>Suspense</string>
+	<key>texttone:Telegraph</key>
+	<string>Telegraph</string>
+	<key>texttone:Tiptoes</key>
+	<string>Tiptoes</string>
+	<key>texttone:Tri-tone</key>
+	<string>Tri-tone</string>
+	<key>texttone:Typewriters</key>
+	<string>Typewriters</string>
+	<key>texttone:Update</key>
+	<string>Update</string>
+</dict>
+</plist>

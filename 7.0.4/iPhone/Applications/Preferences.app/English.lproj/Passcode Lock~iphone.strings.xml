@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>15_MIN</key>
+	<string>After %@ min.</string>
+	<key>15_MINUTES</key>
+	<string>After %@ minutes</string>
+	<key>1_HOUR</key>
+	<string>After %@ hour</string>
+	<key>1_HOUR_SHORT</key>
+	<string>After %@ hour</string>
+	<key>1_MIN</key>
+	<string>After %@ min.</string>
+	<key>1_MINUTE</key>
+	<string>After %@ minute</string>
+	<key>4_HOURS</key>
+	<string>After %@ hours</string>
+	<key>4_HOURS_SHORT</key>
+	<string>After %@ hours</string>
+	<key>5_MIN</key>
+	<string>After %@ min.</string>
+	<key>5_MINUTES</key>
+	<string>After %@ minutes</string>
+	<key>ALLOW_ACCESS_WHEN_LOCKED</key>
+	<string>Allow Access When Locked:</string>
+	<key>ALWAYS</key>
+	<string>Immediately</string>
+	<key>ALWAYS_SHORT</key>
+	<string>Immediately</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_DISABLE_AUTOFILL</key>
+	<string>Keep Using Safari AutoFill</string>
+	<key>CHANGE_PASSCODE</key>
+	<string>Change Passcode</string>
+	<key>CONFIRM_DISABLE_AUTOFILL</key>
+	<string>Turn Off &amp; Delete Passwords</string>
+	<key>DATA_ENCRYPTED_TEXT_IPAD</key>
+	<string>Data protection is enabled.</string>
+	<key>DATA_ENCRYPTED_TEXT_IPHONE</key>
+	<string>Data protection is enabled.</string>
+	<key>DATA_ENCRYPTED_TEXT_IPOD</key>
+	<string>Data protection is enabled.</string>
+	<key>DELETE_PLURAL</key>
+	<string>Delete</string>
+	<key>DELETE_SAVED_FINGER_DETAIL_PLURAL</key>
+	<string>Fingerprints that can be used to unlock are already saved on this iPhone. Do you want to keep these fingerprints or delete them?</string>
+	<key>DELETE_SAVED_FINGER_DETAIL_SINGULAR</key>
+	<string>A fingerprint that can be used to unlock is already saved on this iPhone. Do you want to keep this fingerprint or delete it?</string>
+	<key>DELETE_SAVED_FINGER_PLURAL</key>
+	<string>Delete Saved Fingerprints?</string>
+	<key>DELETE_SAVED_FINGER_SINGULAR</key>
+	<string>Delete Saved Fingerprint?</string>
+	<key>DELETE_SINGULAR</key>
+	<string>Delete</string>
+	<key>DISABLE_SAFARI_PASSWORD_FEATURES_MESSAGE_IPHONE</key>
+	<string>To protect the passwords and credit cards you have previously saved in Safari you can delete them from this iPhone and turn off Safari AutoFill.</string>
+	<key>DISABLE_SAFARI_PASSWORD_FEATURES_MESSAGE_IPOD</key>
+	<string>To protect the passwords and credit cards you have previously saved in Safari you can delete them from this iPod touch and turn off Safari AutoFill.</string>
+	<key>DISABLE_SAFARI_PASSWORD_FEATURES_TITLE</key>
+	<string>Turn Off Safari AutoFill?</string>
+	<key>DISABLE_WARNING_CREDITCARDS_IPHONE</key>
+	<string>To protect the credit cards you have previously saved in Safari you can remove them from this iPhone and turn off Safari AutoFill.</string>
+	<key>DISABLE_WARNING_CREDITCARDS_IPOD</key>
+	<string>To protect the credit cards you have previously saved in Safari you can remove them from this iPod touch and turn off Safari AutoFill.</string>
+	<key>DISABLE_WARNING_CREDITCARDS_KEYCHAIN_IPHONE</key>
+	<string>To protect the credit cards you have previously saved in Safari you can remove them from this iPhone and turn off iCloud Keychain and Safari AutoFill.</string>
+	<key>DISABLE_WARNING_CREDITCARDS_KEYCHAIN_IPOD</key>
+	<string>To protect the credit cards you have previously saved in Safari you can remove them from this iPod touch and turn off iCloud Keychain and Safari AutoFill.</string>
+	<key>DISABLE_WARNING_PASSWORDS_CREDITCARDS_IPHONE</key>
+	<string>To protect the passwords and credit cards you have previously saved in Safari you can remove them from this iPhone and turn off Safari AutoFill.</string>
+	<key>DISABLE_WARNING_PASSWORDS_CREDITCARDS_IPOD</key>
+	<string>To protect the passwords and credit cards you have previously saved in Safari you can remove them from this iPod touch and turn off Safari AutoFill.</string>
+	<key>DISABLE_WARNING_PASSWORDS_CREDITCARDS_KEYCHAIN_IPHONE</key>
+	<string>To protect the passwords and credit cards you have previously saved in Safari you can remove them from this iPhone and turn off iCloud Keychain and Safari AutoFill.</string>
+	<key>DISABLE_WARNING_PASSWORDS_CREDITCARDS_KEYCHAIN_IPOD</key>
+	<string>To protect the passwords and credit cards you have previously saved in Safari you can remove them from this iPod touch and turn off iCloud Keychain and Safari AutoFill.</string>
+	<key>DISABLE_WARNING_PASSWORDS_IPHONE</key>
+	<string>To protect the passwords you have previously saved in Safari you can remove them from this iPhone and turn off Safari AutoFill.</string>
+	<key>DISABLE_WARNING_PASSWORDS_IPOD</key>
+	<string>To protect the passwords you have previously saved in Safari you can remove them from this iPod touch and turn off Safari AutoFill.</string>
+	<key>DISABLE_WARNING_PASSWORDS_KEYCHAIN_IPHONE</key>
+	<string>To protect the passwords you have previously saved in Safari you can remove them from this iPhone and turn off iCloud Keychain and Safari AutoFill.</string>
+	<key>DISABLE_WARNING_PASSWORDS_KEYCHAIN_IPOD</key>
+	<string>To protect the passwords you have previously saved in Safari you can remove them from this iPod touch and turn off iCloud Keychain and Safari AutoFill.</string>
+	<key>KEEP_PLURAL</key>
+	<string>Keep</string>
+	<key>KEEP_SINGULAR</key>
+	<string>Keep</string>
+	<key>KEEP_USING_ICLOUD_KEYCHAIN</key>
+	<string>Keep Using iCloud Keychain</string>
+	<key>KEEP_USING_SAFARI_AUTOFILL</key>
+	<string>Keep Using Safari AutoFill</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OK_LAST_STEP</key>
+	<string>Save</string>
+	<key>PASSBOOK</key>
+	<string>Passbook</string>
+	<key>PASSCODE_OFF</key>
+	<string>Turn Passcode Off</string>
+	<key>PASSCODE_ON</key>
+	<string>Turn Passcode On</string>
+	<key>PASSCODE_REQ</key>
+	<string>Require Passcode</string>
+	<key>PMCHANGE</key>
+	<string>Change Passcode</string>
+	<key>PMENTER</key>
+	<string>Enter Passcode</string>
+	<key>PMREMOVE</key>
+	<string>Turn off Passcode</string>
+	<key>PMSET</key>
+	<string>Set Passcode</string>
+	<key>Passcode Lock</key>
+	<string>Passcode Lock</string>
+	<key>REPLY_WITH_MESSAGE</key>
+	<string>Reply with Message</string>
+	<key>SECURITY_MSG</key>
+	<string>Shorter times are more secure.</string>
+	<key>SIMPLE_PASSCODE</key>
+	<string>Simple Passcode</string>
+	<key>SIMPLE_PASSCODE_TEXT</key>
+	<string>A simple passcode is a %@ digit number.</string>
+	<key>SMS_PREVIEW</key>
+	<string>Show SMS Preview</string>
+	<key>TURN_OFF</key>
+	<string>Turn Off</string>
+	<key>TURN_OFF_AND_REMOVE_PASSWORDS</key>
+	<string>Turn Off &amp; Remove Passwords</string>
+	<key>TURN_OFF_ICLOUD_KEYCHAIN</key>
+	<string>Turn Off iCloud Keychain?</string>
+	<key>TURN_OFF_PASSCODE_LOCK_CONFIRMATION_IPHONE</key>
+	<string>Your saved passwords, credit cards, and important data can be viewed and used by anyone who has access to your iPhone if you turn off passcode lock.</string>
+	<key>TURN_OFF_PASSCODE_LOCK_CONFIRMATION_IPOD</key>
+	<string>Your saved passwords, credit cards, and important data can be viewed and used by anyone who has access to your iPod touch if you turn off passcode lock.</string>
+	<key>TURN_OFF_PASSCODE_LOCK_QUESTION</key>
+	<string>Turn Off Passcode Lock?</string>
+	<key>TURN_OFF_SAFARI_AUTOFILL</key>
+	<string>Turn Off Safari AutoFill?</string>
+	<key>VOICE_DIAL</key>
+	<string>Voice Dial</string>
+	<key>VOICE_DIAL_TEXT</key>
+	<string>Music Voice Control is always enabled.</string>
+	<key>WIPE_DEVICE</key>
+	<string>Erase Data</string>
+	<key>WIPE_DEVICE_ALERT_CANCEL</key>
+	<string>Cancel</string>
+	<key>WIPE_DEVICE_ALERT_OK</key>
+	<string>Enable</string>
+	<key>WIPE_DEVICE_ALERT_TITLE_IPAD</key>
+	<string>All data on this iPad will be erased after %@ failed passcode attempts.</string>
+	<key>WIPE_DEVICE_ALERT_TITLE_IPHONE</key>
+	<string>All data on this iPhone will be erased after %@ failed passcode attempts.</string>
+	<key>WIPE_DEVICE_ALERT_TITLE_IPOD</key>
+	<string>All data on this iPod will be erased after %@ failed passcode attempts.</string>
+	<key>WIPE_DEVICE_TEXT_IPAD</key>
+	<string>Erase all data on this iPad after %@ failed passcode attempts.</string>
+	<key>WIPE_DEVICE_TEXT_IPHONE</key>
+	<string>Erase all data on this iPhone after %@ failed passcode attempts.</string>
+	<key>WIPE_DEVICE_TEXT_IPOD</key>
+	<string>Erase all data on this iPod touch after %@ failed passcode attempts.</string>
+</dict>
+</plist>

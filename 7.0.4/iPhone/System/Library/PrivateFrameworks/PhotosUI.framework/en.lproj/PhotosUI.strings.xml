@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_COMMENT_BUTTON_TITLE</key>
+	<string>Post</string>
+	<key>ADD_FROM_ALBUM_BUTTON_TITLE</key>
+	<string>Add</string>
+	<key>ADD_TO_ALBUM</key>
+	<string>Add to Album</string>
+	<key>ADD_TO_ALBUM_BUTTON_TITLE</key>
+	<string>Add To</string>
+	<key>ADD_TO_PHOTO_STREAM</key>
+	<string>Add to Shared Stream</string>
+	<key>ALBUMS_TAB_ROOT_CONTROLLER_TITLE</key>
+	<string>Albums</string>
+	<key>ALBUM_LIST_CLOUD_FEED_PLACEHOLDER_TITLE</key>
+	<string>Activity</string>
+	<key>ALBUM_LIST_CREATE_NEW_ALBUM_PLACEHOLDER_TITLE</key>
+	<string>New Album…</string>
+	<key>ALBUM_LIST_CREATE_NEW_SHARED_ALBUM_PLACEHOLDER_TITLE</key>
+	<string>New Shared Stream…</string>
+	<key>ALBUM_LIST_TABLE_ROW_DELETE_CONFIRMATION</key>
+	<string>Delete</string>
+	<key>ALBUM_LIST_TABLE_ROW_UNSUBSCRIBE_CONFIRMATION</key>
+	<string>Unsubscribe</string>
+	<key>ALBUM_TITLE_INSTRUCTION</key>
+	<string>For example: "Cars", "Trip to Hawaii" or "Wedding"</string>
+	<key>ALBUM_TITLE_PLACEHOLDER</key>
+	<string>Stream Name</string>
+	<key>AVALANCHE_KEEP_EVERYTHING</key>
+	<string>Keep Everything</string>
+	<key>AVALANCHE_KEEP_ONLY_1_FAVORITE</key>
+	<string>Keep Only 1 Favorite</string>
+	<key>AVALANCHE_KEEP_ONLY_N_FAVORITES</key>
+	<string>Keep Only %@ Favorites</string>
+	<key>AVALANCHE_KEEP_OTHERS_TITLE</key>
+	<string>Would you like to keep the other %@ photos in this burst?</string>
+	<key>AVALANCHE_KEEP_OTHER_TITLE</key>
+	<string>Would you like to keep the other photo in this burst?</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_COMMENT_BUTTON_TITLE</key>
+	<string>Cancel</string>
+	<key>CLOUD_FEED_ACCEPT_INVITATION_BUTTON</key>
+	<string>Accept</string>
+	<key>CLOUD_FEED_ADD_PHOTOS_OR_VIDEOS</key>
+	<string>Add Photos or Videos…</string>
+	<key>CLOUD_FEED_CAPTION_QUOTE</key>
+	<string>“%@”</string>
+	<key>CLOUD_FEED_DECLINE_INVITATION_BUTTON</key>
+	<string>Decline</string>
+	<key>CLOUD_FEED_DEFAULT_TITLE</key>
+	<string>Activity</string>
+	<key>CLOUD_FEED_DISABLED_ICLOUD_MESSAGE</key>
+	<string>Sign in to iCloud to create a new stream.</string>
+	<key>CLOUD_FEED_DISABLED_ICLOUD_TITLE</key>
+	<string>iCloud</string>
+	<key>CLOUD_FEED_INITIAL_INVITATION_BUTTON_TITLE</key>
+	<string>View 1 New Invitation</string>
+	<key>CLOUD_FEED_INITIAL_MULTIPLE_INVITATIONS_BUTTON_TITLE</key>
+	<string>View %@ New Invitations</string>
+	<key>CLOUD_FEED_INITIAL_PLACEHOLDER_BUTTON_TITLE</key>
+	<string>Create New Stream</string>
+	<key>CLOUD_FEED_INITIAL_PLACEHOLDER_MESSAGE</key>
+	<string>Share photos and videos with
+just the people you choose,
+and let them add photos,
+videos, and comments.</string>
+	<key>CLOUD_FEED_INITIAL_PLACEHOLDER_TITLE</key>
+	<string>iCloud Photo Sharing</string>
+	<key>CLOUD_FEED_INVITATIONS_BUTTON_TITLE</key>
+	<string>Invitations (%@)</string>
+	<key>CLOUD_FEED_INVITATION_FROM</key>
+	<string>From: %@</string>
+	<key>CLOUD_FEED_INVITATION_GROUP_TITLE</key>
+	<string>Invitations</string>
+	<key>CLOUD_FEED_INVITATION_JOIN_INFO</key>
+	<string>Join shared stream as %@</string>
+	<key>CLOUD_FEED_MANY_PEOPLE_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ liked this.</string>
+	<key>CLOUD_FEED_MANY_PEOPLE_LIKED_THIS_PHOTO_SUBJECT</key>
+	<string>%@ new people</string>
+	<key>CLOUD_FEED_MANY_PEOPLE_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ liked this.</string>
+	<key>CLOUD_FEED_MANY_PEOPLE_LIKED_THIS_VIDEO_SUBJECT</key>
+	<string>%@ new people</string>
+	<key>CLOUD_FEED_MORE_PERSONS_LIKED_THIS_PHOTO_LIST_SEPARATOR</key>
+	<string>, </string>
+	<key>CLOUD_FEED_MORE_PERSONS_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ and %@ liked this.</string>
+	<key>CLOUD_FEED_MORE_PERSONS_LIKED_THIS_VIDEO_LIST_SEPARATOR</key>
+	<string>, </string>
+	<key>CLOUD_FEED_MORE_PERSONS_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ and %@ liked this.</string>
+	<key>CLOUD_FEED_NO_SHARED_PHOTOS_PLACEHOLDER_MESSAGE</key>
+	<string>You can take photos or videos using the camera, or add photos and videos from other albums.</string>
+	<key>CLOUD_FEED_NO_SHARED_PHOTOS_PLACEHOLDER_MESSAGE_NO_CAMERA</key>
+	<string>You can add photos and videos from other albums.</string>
+	<key>CLOUD_FEED_NO_SHARED_PHOTOS_PLACEHOLDER_TITLE</key>
+	<string>No Shared Photos or Videos</string>
+	<key>CLOUD_FEED_NO_STREAM_TITLE</key>
+	<string>iCloud</string>
+	<key>CLOUD_FEED_OTHERS_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ liked this.</string>
+	<key>CLOUD_FEED_OTHERS_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ liked this.</string>
+	<key>CLOUD_FEED_SEE_ALL_N_ITEMS</key>
+	<string>See all %@ items</string>
+	<key>CLOUD_FEED_SEE_ALL_N_PHOTOS</key>
+	<string>See all %@ photos</string>
+	<key>CLOUD_FEED_SEE_ALL_N_VIDEOS</key>
+	<string>See all %@ videos</string>
+	<key>CLOUD_FEED_SOMEONE_DECLINED_TO_JOIN_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ declined to join “%@”.</string>
+	<key>CLOUD_FEED_SOMEONE_JOINED_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ joined “%@”.</string>
+	<key>CLOUD_FEED_SOMEONE_LIKED_THESE_N_ITEMS_IN_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ liked %@ items in “%@”.</string>
+	<key>CLOUD_FEED_SOMEONE_LIKED_THESE_N_PHOTOS_IN_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ liked %@ photos in “%@”.</string>
+	<key>CLOUD_FEED_SOMEONE_LIKED_THESE_N_VIDEOS_IN_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ liked %@ videos in “%@”.</string>
+	<key>CLOUD_FEED_SOMEONE_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ liked this.</string>
+	<key>CLOUD_FEED_SOMEONE_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ liked this.</string>
+	<key>CLOUD_FEED_SOMEONE_POSTED_1_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ posted a photo.</string>
+	<key>CLOUD_FEED_SOMEONE_POSTED_1_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ posted a video.</string>
+	<key>CLOUD_FEED_SOMEONE_POSTED_N_ITEMS_PHRASE_FORMAT</key>
+	<string>%@ posted %@ items.</string>
+	<key>CLOUD_FEED_SOMEONE_POSTED_N_PHOTOS_PHRASE_FORMAT</key>
+	<string>%@ posted %@ photos.</string>
+	<key>CLOUD_FEED_SOMEONE_POSTED_N_VIDEOS_PHRASE_FORMAT</key>
+	<string>%@ posted %@ videos.</string>
+	<key>CLOUD_FEED_SOMEONE_SAID_SOMETHING_PHRASE_FORMAT</key>
+	<string>%@ said, “%@”.</string>
+	<key>CLOUD_FEED_SOMEONE_SAID_SOMETHING_WITH_FULL_STOP_PHRASE_FORMAT</key>
+	<string>%@ said, “%@”</string>
+	<key>CLOUD_FEED_TWO_PERSONS_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ and %@ liked this.</string>
+	<key>CLOUD_FEED_TWO_PERSONS_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ and %@ liked this.</string>
+	<key>CLOUD_FEED_UPDATING_LIBRARY_NO_NETWORK_MESSAGE_iPad</key>
+	<string>Connect your iPad to the Internet to update your library.</string>
+	<key>CLOUD_FEED_UPDATING_LIBRARY_NO_NETWORK_MESSAGE_iPad Simulator</key>
+	<string>Connect your iPad to the Internet to update your library.</string>
+	<key>CLOUD_FEED_UPDATING_LIBRARY_NO_NETWORK_MESSAGE_iPhone</key>
+	<string>Connect your iPhone to the Internet to update your library.</string>
+	<key>CLOUD_FEED_UPDATING_LIBRARY_NO_NETWORK_MESSAGE_iPhone Simulator</key>
+	<string>Connect your iPhone to the Internet to update your library.</string>
+	<key>CLOUD_FEED_UPDATING_LIBRARY_NO_NETWORK_MESSAGE_iPod touch</key>
+	<string>Connect your iPod to the Internet to update your library.</string>
+	<key>CLOUD_FEED_UPDATING_LIBRARY_TITLE</key>
+	<string>Updating Library…</string>
+	<key>CLOUD_FEED_YOU_AND_MORE_PERSONS_LIKED_THIS_PHOTO_LIST_SEPARATOR</key>
+	<string>, </string>
+	<key>CLOUD_FEED_YOU_AND_MORE_PERSONS_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@, %@ and %@ liked this.</string>
+	<key>CLOUD_FEED_YOU_AND_MORE_PERSONS_LIKED_THIS_PHOTO_YOU_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_AND_MORE_PERSONS_LIKED_THIS_VIDEO_LIST_SEPARATOR</key>
+	<string>, </string>
+	<key>CLOUD_FEED_YOU_AND_MORE_PERSONS_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@, %@ and %@ liked this.</string>
+	<key>CLOUD_FEED_YOU_AND_MORE_PERSONS_LIKED_THIS_VIDEO_YOU_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_AND_ONE_PERSON_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ and %@ liked this.</string>
+	<key>CLOUD_FEED_YOU_AND_ONE_PERSON_LIKED_THIS_PHOTO_YOU_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_AND_ONE_PERSON_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ and %@ liked this.</string>
+	<key>CLOUD_FEED_YOU_AND_ONE_PERSON_LIKED_THIS_VIDEO_YOU_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_AND_TWO_PERSONS_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@, %@ and %@ liked this.</string>
+	<key>CLOUD_FEED_YOU_AND_TWO_PERSONS_LIKED_THIS_PHOTO_YOU_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_AND_TWO_PERSONS_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@, %@ and %@ liked this.</string>
+	<key>CLOUD_FEED_YOU_AND_TWO_PERSONS_LIKED_THIS_VIDEO_YOU_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_CREATED_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ created “%@”.</string>
+	<key>CLOUD_FEED_YOU_CREATED_STREAM_NAMED_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_JOINED_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ joined “%@”.</string>
+	<key>CLOUD_FEED_YOU_JOINED_STREAM_NAMED_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_LIKED_THESE_N_ITEMS_IN_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ liked %@ items in “%@”.</string>
+	<key>CLOUD_FEED_YOU_LIKED_THESE_N_ITEMS_IN_STREAM_NAMED_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_LIKED_THESE_N_PHOTOS_IN_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ liked %@ photos in “%@”.</string>
+	<key>CLOUD_FEED_YOU_LIKED_THESE_N_PHOTOS_IN_STREAM_NAMED_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_LIKED_THESE_N_VIDEOS_IN_STREAM_NAMED_PHRASE_FORMAT</key>
+	<string>%@ liked %@ videos in “%@”.</string>
+	<key>CLOUD_FEED_YOU_LIKED_THESE_N_VIDEOS_IN_STREAM_NAMED_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_LIKED_THIS_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ liked this.</string>
+	<key>CLOUD_FEED_YOU_LIKED_THIS_PHOTO_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_LIKED_THIS_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ liked this.</string>
+	<key>CLOUD_FEED_YOU_LIKED_THIS_VIDEO_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_POSTED_1_PHOTO_PHRASE_FORMAT</key>
+	<string>%@ posted a photo.</string>
+	<key>CLOUD_FEED_YOU_POSTED_1_PHOTO_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_POSTED_1_VIDEO_PHRASE_FORMAT</key>
+	<string>%@ posted a video.</string>
+	<key>CLOUD_FEED_YOU_POSTED_1_VIDEO_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_POSTED_N_ITEMS_PHRASE_FORMAT</key>
+	<string>%@ posted %@ items.</string>
+	<key>CLOUD_FEED_YOU_POSTED_N_ITEMS_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_POSTED_N_PHOTOS_PHRASE_FORMAT</key>
+	<string>%@ posted %@ photos.</string>
+	<key>CLOUD_FEED_YOU_POSTED_N_PHOTOS_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_POSTED_N_VIDEOS_PHRASE_FORMAT</key>
+	<string>%@ posted %@ videos.</string>
+	<key>CLOUD_FEED_YOU_POSTED_N_VIDEOS_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_SAID_SOMETHING_PHRASE_FORMAT</key>
+	<string>%@ said, “%@”.</string>
+	<key>CLOUD_FEED_YOU_SAID_SOMETHING_SUBJECT</key>
+	<string>You</string>
+	<key>CLOUD_FEED_YOU_SAID_SOMETHING_WITH_FULL_STOP_PHRASE_FORMAT</key>
+	<string>%@ said, “%@”</string>
+	<key>CLOUD_SHARED_ALBUM_PEOPLE_BAR_BUTTON_TITLE</key>
+	<string>People</string>
+	<key>CLOUD_SHARED_ALBUM_PEOPLE_SWITCHER_TITLE</key>
+	<string>People</string>
+	<key>CLOUD_SHARED_ALBUM_PHOTOS_SWITCHER_TITLE</key>
+	<string>Photos</string>
+	<key>COLLECTIONS_ZOOM_LEVEL_TITLE</key>
+	<string>Collections</string>
+	<key>COMMENT_BUTTON_MORE_THAN_99</key>
+	<string>99+</string>
+	<key>COMMENT_NOT_POSTED_TITLE</key>
+	<string>Comment Not Posted</string>
+	<key>CREATE_ALBUM_ALERT_MESSAGE</key>
+	<string>Enter a name for this album.</string>
+	<key>CREATE_ALBUM_ALERT_TITLE</key>
+	<string>New Album</string>
+	<key>CREATE_ALBUM_SAVE_BUTTON_TITLE</key>
+	<string>Save</string>
+	<key>CREATE_ALBUM_TITLE_PLACEHOLDER</key>
+	<string>Title</string>
+	<key>DELETE_ALBUM_CONFIRMATION_MESSAGE_0</key>
+	<string>Are you sure you want to delete the album “%@”?</string>
+	<key>DELETE_ALBUM_CONFIRMATION_MESSAGE_1</key>
+	<string>Are you sure you want to delete the album “%@”? The photos will not be deleted.</string>
+	<key>DELETE_ALBUM_CONFIRMATION_MESSAGE_n</key>
+	<string>Are you sure you want to delete the album “%@”? The photos will not be deleted.</string>
+	<key>DELETE_ALBUM_CONFIRMATION_SHEET_BUTTON_TITLE</key>
+	<string>Delete Album</string>
+	<key>DELETE_ALBUM_CONFIRMATION_TITLE</key>
+	<string>Delete “%@”</string>
+	<key>DELETE_ASSET_BUTTON_TITLE</key>
+	<string>Delete Everywhere</string>
+	<key>DELETE_BUTTON_TITLE</key>
+	<string>Delete</string>
+	<key>DELETE_BUTTON_TITLE_COUNT</key>
+	<string>Delete (%@)</string>
+	<key>DELETE_OWNED_STREAM_BUTTON</key>
+	<string>Delete</string>
+	<key>DELETE_OWNED_STREAM_CONFIRMATION</key>
+	<string>“%@” will be deleted from all of your devices and the devices of subscribers.</string>
+	<key>DELETE_OWNED_STREAM_TITLE</key>
+	<string>Delete “%@”</string>
+	<key>DELETE_SUBSCRIBED_STREAM_BUTTON</key>
+	<string>Unsubscribe</string>
+	<key>DELETE_SUBSCRIBED_STREAM_CONFIRMATION</key>
+	<string>“%@” will be removed from all of your devices.</string>
+	<key>DELETE_SUBSCRIBED_STREAM_TITLE</key>
+	<string>Unsubscribe from “%@”</string>
+	<key>DESELECT_ALL_BUTTON_TITLE</key>
+	<string>Deselect All</string>
+	<key>DESELECT_BUTTON_TITLE</key>
+	<string>Deselect</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EMPTY_ALBUM_LIST_MESSAGE_iPad</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_MESSAGE_iPad Simulator</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_MESSAGE_iPhone</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_MESSAGE_iPhone Simulator</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_MESSAGE_iPod touch</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPod using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_NO_CAMERA_MESSAGE_iPad</key>
+	<string>You can sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_NO_CAMERA_MESSAGE_iPad Simulator</key>
+	<string>You can sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_NO_CAMERA_MESSAGE_iPhone</key>
+	<string>You can sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_NO_CAMERA_MESSAGE_iPhone Simulator</key>
+	<string>You can sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_LIST_NO_CAMERA_MESSAGE_iPod touch</key>
+	<string>You can sync photos and videos onto your iPod using iTunes.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPad</key>
+	<string>Unlock your iPad to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPad Simulator</key>
+	<string>Unlock your iPad to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPhone</key>
+	<string>Unlock your iPhone to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPhone Simulator</key>
+	<string>Unlock your iPhone to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPod touch</key>
+	<string>Unlock your iPod to see all of your photos and videos.</string>
+	<key>EMPTY_MY_PHOTO_STREAM_MESSAGE</key>
+	<string>New photos will be automatically uploaded and sent to all of your iCloud devices when connected to Wi-Fi.</string>
+	<key>EMPTY_MY_PHOTO_STREAM_TITLE</key>
+	<string>No Photos</string>
+	<key>EVENTS</key>
+	<string>Events</string>
+	<key>EVENTS_FROM_MY_MAC</key>
+	<string>Events from My Mac</string>
+	<key>FACES</key>
+	<string>Faces</string>
+	<key>FACES_FROM_MY_MAC</key>
+	<string>Faces from My Mac</string>
+	<key>FROM_MY_MAC</key>
+	<string>From My Mac</string>
+	<key>FULL_PHOTOS_GRID_ZOOM_LEVEL_TITLE</key>
+	<string>Moments</string>
+	<key>ICLOUD_SETTINGS_BUTTON</key>
+	<string>Settings</string>
+	<key>IMPORTED_PHOTOS_VIDEOS</key>
+	<string>Imported Photos &amp; Videos</string>
+	<key>LIKE_ALL_ITEMS_BUTTON_TITLE</key>
+	<string>Like All</string>
+	<key>LIKE_ALL_PHOTOS_BUTTON_TITLE</key>
+	<string>Like All</string>
+	<key>LIKE_ALL_VIDEOS_BUTTON_TITLE</key>
+	<string>Like All</string>
+	<key>LIKE_PHOTO_BUTTON_TITLE</key>
+	<string>Like</string>
+	<key>LIKE_VIDEO_BUTTON_TITLE</key>
+	<string>Like</string>
+	<key>LIST_END_1_AND_1_MORE_FORMAT</key>
+	<string> &amp; 1 more</string>
+	<key>LIST_END_N_AND_1_MORE_FORMAT</key>
+	<string> &amp; 1 more</string>
+	<key>LIST_END_N_AND_N_MORE_FORMAT</key>
+	<string> &amp; %@ more</string>
+	<key>LIST_END_ONE_AND_N_MORE_FORMAT</key>
+	<string> &amp; %@ more</string>
+	<key>LIST_END_SEPARATOR_FORMAT_1</key>
+	<string> &amp; %@</string>
+	<key>LIST_END_SEPARATOR_FORMAT_N</key>
+	<string> &amp; %@</string>
+	<key>LIST_MID_SEPARATOR_FORMAT</key>
+	<string>, %@</string>
+	<key>MAGIC_WALLPAPER_DYNAMIC</key>
+	<string>Dynamic</string>
+	<key>MAGIC_WALLPAPER_PANORAMA</key>
+	<string>Panorama</string>
+	<key>MAGIC_WALLPAPER_STILLS</key>
+	<string>Stills</string>
+	<key>MAGIC_WALLPAPER_VR</key>
+	<string>VR</string>
+	<key>NEW_PHOTO_STREAM</key>
+	<string>New Shared Stream…</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>NO_PHOTOS_OR_VIDEOS</key>
+	<string>No Photos or Videos</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PHOTO_STREAM_COUNT_ITEMS_PLURAL</key>
+	<string>%@ Items</string>
+	<key>PHOTO_STREAM_COUNT_ITEMS_SINGULAR</key>
+	<string>%@ Item</string>
+	<key>PHOTO_STREAM_COUNT_PHOTOS_PLURAL</key>
+	<string>%@ Photos</string>
+	<key>PHOTO_STREAM_COUNT_PHOTOS_SINGULAR</key>
+	<string>%@ Photo</string>
+	<key>PHOTO_STREAM_COUNT_VIDEO_PLURAL</key>
+	<string>%@ Videos</string>
+	<key>PHOTO_STREAM_COUNT_VIDEO_SINGULAR</key>
+	<string>%@ Video</string>
+	<key>PHOTO_STREAM_NAV_TITLE</key>
+	<string>iCloud</string>
+	<key>PHOTO_STREAM_NEW_STREAM</key>
+	<string>New Stream</string>
+	<key>PHOTO_STREAM_STREAMS</key>
+	<string>Stream</string>
+	<key>PLACES_TITLE</key>
+	<string>Places</string>
+	<key>PLACE_ALBUM_TITLE_ONLY_PHOTOS_PLURAL</key>
+	<string>%@ Photos</string>
+	<key>PLACE_ALBUM_TITLE_ONLY_PHOTOS_SINGULAR</key>
+	<string>One Photo</string>
+	<key>PLACE_ALBUM_TITLE_ONLY_VIDEOS_PLURAL</key>
+	<string>%@ Videos</string>
+	<key>PLACE_ALBUM_TITLE_ONLY_VIDEOS_SINGULAR</key>
+	<string>One Video</string>
+	<key>PLACE_ALBUM_TITLE_PHOTOS_AND_VIDEOS</key>
+	<string>%@ Items</string>
+	<key>PRINT_FILENAME</key>
+	<string>Photo</string>
+	<key>PUBLISH_ALBUM_STREAMING_SERVICE</key>
+	<string>iCloud</string>
+	<key>PUPHOTOBROWSER_BUTTON_AIRPLAY</key>
+	<string>AirPlay</string>
+	<key>PUPHOTOBROWSER_BUTTON_DELETE</key>
+	<string>Delete</string>
+	<key>PUPHOTOBROWSER_BUTTON_MORE</key>
+	<string>More…</string>
+	<key>PUPHOTOBROWSER_BUTTON_REMOVE</key>
+	<string>Remove</string>
+	<key>PUPHOTOBROWSER_BUTTON_SHARE</key>
+	<string>Share</string>
+	<key>PUPHOTOBROWSER_BUTTON_SLIDESHOW</key>
+	<string>Slideshow</string>
+	<key>PUPHOTOBROWSER_BUTTON_VIDEOPAUSE</key>
+	<string>Pause</string>
+	<key>PUPHOTOBROWSER_BUTTON_VIDEOPLAY</key>
+	<string>Play</string>
+	<key>PUPHOTOBROWSER_BUTTON_VIDEOTRIMSAVE_GENERIC</key>
+	<string>Trim</string>
+	<key>PUPHOTOBROWSER_BUTTON_VIDEOTRIMSAVE_MAIL</key>
+	<string>Email</string>
+	<key>PUPHOTOBROWSER_BUTTON_VIDEOTRIMSAVE_YOUTUBE</key>
+	<string>Publish</string>
+	<key>REMOVE_ASSET_BUTTON_TITLE</key>
+	<string>Remove from Album</string>
+	<key>REMOVE_BUTTON_TITLE</key>
+	<string>Remove</string>
+	<key>REMOVE_BUTTON_TITLE_COUNT</key>
+	<string>Remove (%@)</string>
+	<key>REPORT_BUTTON</key>
+	<string>Report</string>
+	<key>SAVE_TO_CAMERAROLL_SHEET_BUTTON</key>
+	<string>Save to Camera Roll</string>
+	<key>SAVE_TO_SAVEDPHOTOS_SHEET_BUTTON</key>
+	<string>Save to Saved Photos</string>
+	<key>SELECT</key>
+	<string>Select</string>
+	<key>SELECT_ALL_BUTTON_TITLE</key>
+	<string>Select All</string>
+	<key>SELECT_BUTTON_TITLE</key>
+	<string>Select</string>
+	<key>SHARED_TAB_ROOT_SHARED_ALBUM_LIST_BACK_BUTTON_TITLE</key>
+	<string>Streams</string>
+	<key>SHARED_TAB_ROOT_SHARED_ALBUM_LIST_TITLE</key>
+	<string>Shared Streams</string>
+	<key>SHARE_BUTTON_TITLE</key>
+	<string>Share</string>
+	<key>SHARE_BUTTON_TITLE_COUNT</key>
+	<string>Share (%@)</string>
+	<key>SHARE_SOME_FROM_THIS_MOMENT</key>
+	<string>Share some photos</string>
+	<key>SHARE_THIS_MOMENT</key>
+	<string>Share this moment</string>
+	<key>STREAM_COMMENT_PLACEHOLDER_TEXT</key>
+	<string>Comment (optional)</string>
+	<key>STREAM_CREATE_SHEET_BUTTON</key>
+	<string>Create</string>
+	<key>STREAM_NEXT_SHEET_BUTTON</key>
+	<string>Next</string>
+	<key>TOO_MANY_CHARS_IN_COMMENT</key>
+	<string>Comments must be %@ characters or less.</string>
+	<key>TRIM_FOR_PUBLISH_TITLE</key>
+	<string>Publish</string>
+	<key>TUDOU</key>
+	<string>Tudou</string>
+	<key>UNLIKE_ALL_ITEMS_BUTTON_TITLE</key>
+	<string>Liked All</string>
+	<key>UNLIKE_ALL_PHOTOS_BUTTON_TITLE</key>
+	<string>Liked All</string>
+	<key>UNLIKE_ALL_VIDEOS_BUTTON_TITLE</key>
+	<string>Liked All</string>
+	<key>UNLIKE_PHOTO_BUTTON_TITLE</key>
+	<string>Liked</string>
+	<key>UNLIKE_VIDEO_BUTTON_TITLE</key>
+	<string>Liked</string>
+	<key>VIDEO_TOO_LONG_ALERT_TITLE</key>
+	<string>Video is Too Long</string>
+	<key>VIDEO_TOO_LONG_CANCEL</key>
+	<string>Cancel</string>
+	<key>VIDEO_TOO_LONG_OK</key>
+	<string>OK</string>
+	<key>VIDEO_TOO_LONG_PUBLISH_BODY</key>
+	<string>Would you like to select a smaller clip from this video to publish?</string>
+	<key>WALLPAPER_PANORAMAS</key>
+	<string>My Panoramas</string>
+	<key>WALLPAPER_SETTINGS_MAGIC_WALLPAPER_SECTION</key>
+	<string>APPLE WALLPAPER</string>
+	<key>WALLPAPER_SETTINGS_NAV_TITLE_CHOOSE</key>
+	<string>Choose</string>
+	<key>WALLPAPER_SETTINGS_PHOTOS_SECTION</key>
+	<string>PHOTOS</string>
+	<key>WALLPAPER_SETTINGS_SECTION_FEATURED_PANORAMAS</key>
+	<string>Featured Panoramas</string>
+	<key>WALLPAPER_SETTINGS_SECTION_YOUR_PANORAMAS</key>
+	<string>Your Panoramas</string>
+	<key>X_FROM_MY_COMPUTER</key>
+	<string>%@ from My Computer</string>
+	<key>X_FROM_MY_MAC</key>
+	<string>%@ from My Mac</string>
+	<key>YEARS_ZOOM_LEVEL_TITLE</key>
+	<string>Years</string>
+	<key>YOUKU</key>
+	<string>Youku</string>
+	<key>YOUTUBE</key>
+	<string>YouTube</string>
+</dict>
+</plist>

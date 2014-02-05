@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTUAL_SIZE_BAR_TITLE</key>
+	<string>Actual Size</string>
+	<key>ACTUAL_SIZE_TITLE</key>
+	<string>Actual Size (%@)</string>
+	<key>ADDRESS_ADDITION</key>
+	<string>Address Addition</string>
+	<key>ADDRESS_DELETION</key>
+	<string>Address Deletion</string>
+	<key>ADDRESS_SEPARATOR</key>
+	<string>, </string>
+	<key>ADD_CONTACT_ACCESSIBILITY_LABEL</key>
+	<string>Add Contact</string>
+	<key>AIRPLANE_EXPLAIN</key>
+	<string>Airplane Mode is on.  The email has been placed in your Outbox and will be sent later.</string>
+	<key>AIRPLANE_TITLE</key>
+	<string>Cannot Send Email</string>
+	<key>AND_N_MORE</key>
+	<string> &amp; %@ more…</string>
+	<key>AND_N_MORE_NO_ELLIPSIS</key>
+	<string> &amp; %@ more</string>
+	<key>BCC</key>
+	<string>Bcc:</string>
+	<key>BCC/FROM</key>
+	<string>Bcc/From:</string>
+	<key>BINARY_RECIPIENT_SEPARATOR</key>
+	<string>%@ and %@</string>
+	<key>Bcc:</key>
+	<string>Bcc</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CC</key>
+	<string>Cc:</string>
+	<key>CC/BCC</key>
+	<string>Cc/Bcc:</string>
+	<key>CC/BCC/FROM</key>
+	<string>Cc/Bcc, From:</string>
+	<key>CC/FROM</key>
+	<string>Cc, From:</string>
+	<key>CONFIRM_EMPTY_SUBJECT_MESSAGE</key>
+	<string>This message has no subject. Do you want to send it anyway?</string>
+	<key>CONFIRM_SEND_MESSAGE</key>
+	<string>“%@” does not appear to be a valid email address. Do you want to send it anyway?</string>
+	<key>Cc:</key>
+	<string>Cc</string>
+	<key>DECREASE</key>
+	<string>Decrease</string>
+	<key>DEFAULT_SIGNATURE_IPAD</key>
+	<string>Sent from my iPad</string>
+	<key>DEFAULT_SIGNATURE_IPHONE</key>
+	<string>Sent from my iPhone</string>
+	<key>DEFAULT_SIGNATURE_IPOD</key>
+	<string>Sent from my iPod</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_CHANGES</key>
+	<string>Delete Changes</string>
+	<key>DELETE_DRAFT</key>
+	<string>Delete Draft</string>
+	<key>DONT_SAVE</key>
+	<string>Don’t Save</string>
+	<key>DOWNLOAD_PROGRESS</key>
+	<string>%@ of %@</string>
+	<key>DRAFT</key>
+	<string>Draft</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EMPTY_SUBJECT_TITLE</key>
+	<string>Empty Subject</string>
+	<key>ENCRYPTED</key>
+	<string>Encrypted</string>
+	<key>ENCRYPTION_EXPLANATION_FORMAT</key>
+	<string>You can send encrypted messages to “%@”.</string>
+	<key>ERROR_SAVING_DRAFT_LONG_FORMAT</key>
+	<string>The message could not be saved to the Drafts folder.</string>
+	<key>ERROR_SAVING_DRAFT_TITLE</key>
+	<string>Unable to Save Draft</string>
+	<key>FORWARD</key>
+	<string>Forward</string>
+	<key>FROM</key>
+	<string>From:</string>
+	<key>From:</key>
+	<string>From</string>
+	<key>GROUP_FINAL_ITEM</key>
+	<string> &amp; %@</string>
+	<key>GROUP_INITIAL_ITEM</key>
+	<string>%@</string>
+	<key>GROUP_NON_FINAL_ITEM</key>
+	<string>, %@</string>
+	<key>GROUP_WITH_AND</key>
+	<string>%@ and</string>
+	<key>IMAGE_RESIZING_BAR_TITLE</key>
+	<string>Images:</string>
+	<key>IMAGE_RESIZING_BAR_TITLE_EXPANDED</key>
+	<string>Image Size:</string>
+	<key>IMAGE_SIZE_PLACEHOLDER_DURING_COMPUTATION</key>
+	<string>…</string>
+	<key>INCREASE</key>
+	<string>Increase</string>
+	<key>INSERT_PHOTO_OR_VIDEO</key>
+	<string>Insert Photo or Video</string>
+	<key>INVALID_ADDRESS_TITLE</key>
+	<string>Invalid Address</string>
+	<key>LARGE_IMAGES_MESSAGE</key>
+	<string>This message is %@. You can reduce message size by scaling images to one of the sizes below.</string>
+	<key>LARGE_SINGLE_IMAGE_MESSAGE</key>
+	<string>This message is %@. You can reduce message size by scaling the image to one of the sizes below.</string>
+	<key>LARGE_SIZE_BAR_TITLE</key>
+	<string>Large</string>
+	<key>LARGE_SIZE_TITLE</key>
+	<string>Large (%@)</string>
+	<key>LARGE_SIZE_UNKNOWN_TITLE</key>
+	<string>Large</string>
+	<key>LEAVE_IN_OUTBOX</key>
+	<string>Leave in Outbox</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>MEDIUM_SIZE_BAR_TITLE</key>
+	<string>Medium</string>
+	<key>MEDIUM_SIZE_TITLE</key>
+	<string>Medium (%@)</string>
+	<key>MEDIUM_SIZE_UNKNOWN_TITLE</key>
+	<string>Medium</string>
+	<key>MORE_TITLE</key>
+	<string> more…</string>
+	<key>NEW_MESSAGE</key>
+	<string>New Message</string>
+	<key>NEW_MESSAGE_LONG</key>
+	<string>New Message</string>
+	<key>NOT_ENCRYPTED</key>
+	<string>Not Encrypted</string>
+	<key>NO_BODY_STYLED</key>
+	<string>&lt;html&gt;&lt;body&gt;&lt;i&gt;&lt;font color="#888888"&gt;This message has no content.&lt;/font&gt;&lt;/i&gt;&lt;/body&gt;&lt;/html&gt;</string>
+	<key>NO_EMAIL_ACCOUNT_EXPLANATION</key>
+	<string>Please set up a Mail account in order to send email.</string>
+	<key>NO_EMAIL_ACCOUNT_OK</key>
+	<string>OK</string>
+	<key>NO_EMAIL_ACCOUNT_TITLE</key>
+	<string>No Mail Accounts</string>
+	<key>NO_SMS_EXPLANATION</key>
+	<string>Text messaging is not available.</string>
+	<key>NO_SMS_EXPLANATION_DEVICE_FORMAT</key>
+	<string>Text messaging is not available on %@.</string>
+	<key>NO_SMS_OK</key>
+	<string>OK</string>
+	<key>NO_SMS_TITLE</key>
+	<string>Cannot Send Message</string>
+	<key>NO_SUBJECT</key>
+	<string>(No subject)</string>
+	<key>N_MORE</key>
+	<string>%@ more…</string>
+	<key>N_RECIPIENTS</key>
+	<string>%@ recipients</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ONE_RECIPIENT</key>
+	<string>1 recipient</string>
+	<key>PLACEHOLDER_NAME</key>
+	<string>No Name</string>
+	<key>QUOTE_LEVEL</key>
+	<string>Quote Level</string>
+	<key>RECENT_GROUP</key>
+	<string>Group</string>
+	<key>RECENT_GROUP_PLACEHOLDER</key>
+	<string>Recent Group</string>
+	<key>RECENT_PLACEHOLDER_NAME</key>
+	<string>Recent</string>
+	<key>RECENT_TITLE</key>
+	<string>Recent</string>
+	<key>RECIPIENT_TYPES_SEPARATOR</key>
+	<string>   </string>
+	<key>REMOVE_RECENT</key>
+	<string>Remove From Recents</string>
+	<key>REMOVE_RECENT_CONFIRM</key>
+	<string>Are you sure you want to remove this recent group?</string>
+	<key>REMOVE_TITLE</key>
+	<string>Remove</string>
+	<key>REPLY</key>
+	<string>Reply</string>
+	<key>REPLY_ALL</key>
+	<string>Reply All</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SAVED_TO_OUTBOX</key>
+	<string>A copy has been placed in your Outbox.</string>
+	<key>SAVE_AS_DRAFT</key>
+	<string>Save Draft</string>
+	<key>SELECT_CONTACT</key>
+	<string>Choose a contact to mail</string>
+	<key>SEND</key>
+	<string>Send</string>
+	<key>SENDING</key>
+	<string>Sending</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SHORT_BINARY_RECIPIENT_SEPARATOR</key>
+	<string>%@ &amp; %@</string>
+	<key>SMALL_SIZE_BAR_TITLE</key>
+	<string>Small</string>
+	<key>SMALL_SIZE_TITLE</key>
+	<string>Small (%@)</string>
+	<key>SMALL_SIZE_UNKNOWN_TITLE</key>
+	<string>Small</string>
+	<key>SUBJECT</key>
+	<string>Subject:</string>
+	<key>SUGGESTED_RECIPIENTS</key>
+	<string>Suggested Recipients</string>
+	<key>TO</key>
+	<string>To:</string>
+	<key>TRUNCATED_RECIPIENT_FORMAT</key>
+	<string>%@…</string>
+	<key>To:</key>
+	<string>To</string>
+	<key>UNDO_INSERT_PHOTO</key>
+	<string>Insert Photo</string>
+	<key>UNDO_INSERT_VIDEO</key>
+	<string>Insert Video</string>
+	<key>UNDO_QUOTE_LEVEL</key>
+	<string>Quote Level</string>
+	<key>VALIDATING_RECIPIENTS</key>
+	<string>Validating recipients…</string>
+	<key>VIDEO</key>
+	<string>Video</string>
+</dict>
+</plist>

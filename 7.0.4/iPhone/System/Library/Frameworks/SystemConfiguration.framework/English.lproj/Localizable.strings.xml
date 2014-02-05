@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DEFAULT_SET_NAME</key>
+	<string>Automatic</string>
+	<key>KEYCHAIN_DESCRIPTION_EAPOL</key>
+	<string>Network Connection</string>
+	<key>KEYCHAIN_DESCRIPTION_EAPOL_INTERFACE</key>
+	<string>Network Connection (%@)</string>
+	<key>KEYCHAIN_KIND_EAPOL</key>
+	<string>802.1X Password</string>
+	<key>KEYCHAIN_KIND_IPSEC_SHARED_SECRET</key>
+	<string>IPSec Shared Secret</string>
+	<key>KEYCHAIN_KIND_IPSEC_XAUTH_PASSWORD</key>
+	<string>IPSec XAuth Password</string>
+	<key>KEYCHAIN_KIND_PPP_PASSWORD</key>
+	<string>PPP Password</string>
+	<key>KEYCHAIN_KIND_VPN_PASSWORD</key>
+	<string>VPN Password</string>
+</dict>
+</plist>

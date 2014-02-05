@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUDIO_ERROR_MESSAGE</key>
+	<string>Cannot play audio file.</string>
+	<key>BYTE_RANGE_ERROR_MESSAGE</key>
+	<string>The server does not support byte range requests.</string>
+	<key>ERROR_ALERT_TITLE</key>
+	<string>Cannot Play Movie</string>
+	<key>MISSING_URL_ERROR_MESSAGE</key>
+	<string>The file could not be found.</string>
+	<key>OK</key>
+	<string>OK</string>
+</dict>
+</plist>

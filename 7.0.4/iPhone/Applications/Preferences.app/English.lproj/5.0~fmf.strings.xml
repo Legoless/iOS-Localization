@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALLOW_CHANGES_VALUE</key>
+	<string>Allow Changes</string>
+	<key>DONT_ALLOW_CHANGES_VALUE</key>
+	<string>Don’t Allow Changes</string>
+	<key>FIND_MY_FRIENDS</key>
+	<string>Find My Friends</string>
+	<key>FIND_MY_FRIENDS_EXPLANATION</key>
+	<string>Disallowing changes locks the friends list and the current settings.</string>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUDIO_2013</key>
+	<string>AUDIO</string>
+	<key>AUDIO_AND_SUBTITLES_POPOVER_TITLE</key>
+	<string>Audio &amp; Subtitles</string>
+	<key>AUDIO_DEVICE</key>
+	<string>Audio Device</string>
+	<key>AUDIO_TRACKS</key>
+	<string>Audio</string>
+	<key>AUTO_SUBTITLES</key>
+	<string>Auto (Recommended)</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CC_SUBTITLE_FORMAT</key>
+	<string>%@ CC</string>
+	<key>CHAPTER_GUIDE</key>
+	<string>Chapter Guide</string>
+	<key>CHAPTER_INDEX_FORMAT</key>
+	<string>Chapter %d:</string>
+	<key>COULD_NOT_LOAD_MOVIE_ERROR_FMT</key>
+	<string>%@</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EASY_READER_SUBTITLE_FORMAT</key>
+	<string>%@ Easy Reader</string>
+	<key>GENERIC_COULD_NOT_LOAD_MOVIE</key>
+	<string>Could not load movie</string>
+	<key>LANGUAGE_GUIDE</key>
+	<string>Language</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>SDH_SUBTITLE_FORMAT</key>
+	<string>%@ SDH</string>
+	<key>SUBTITLES_2013</key>
+	<string>SUBTITLES &amp; CC</string>
+	<key>SUBTITLE_TRACKS</key>
+	<string>Subtitles</string>
+	<key>SUBTITLE_TRACK_DISPLAY_FORMAT</key>
+	<string>%@ (%@)</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+	<key>UNKNOWN_LANGUAGE</key>
+	<string>Unknown</string>
+</dict>
+</plist>

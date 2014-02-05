@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CHINA  MOBILE</key>
+	<string>CHINA  MOBILE</string>
+	<key>CHN-CUGSM</key>
+	<string>CHN-CUGSM</string>
+	<key>CHN-UNICOM</key>
+	<string>CHN-UNICOM</string>
+	<key>Chunghwa Telecom</key>
+	<string>Chunghwa Telecom</string>
+	<key>Far EasTone</key>
+	<string>Far EasTone</string>
+	<key>TW Mobile</key>
+	<string>TW Mobile</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DONE_TITLE</key>
+	<string>Done</string>
+	<key>MESSAGE</key>
+	<string>Message</string>
+	<key>NEW_MESSAGE</key>
+	<string>New Message</string>
+	<key>NEW_MMS_GROUP</key>
+	<string>New Group MMS</string>
+	<key>NEW_MMS_MESSAGE</key>
+	<string>New MMS</string>
+	<key>TITLE_TO_STRING</key>
+	<string>To: %@</string>
+</dict>
+</plist>

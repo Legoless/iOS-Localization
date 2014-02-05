@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.city</key>
+	<string>Add City</string>
+	<key>application.name</key>
+	<string>Weather</string>
+	<key>celsius</key>
+	<string>Celsius</string>
+	<key>city.page.control.format.text</key>
+	<string>city %1$@ of %2$@</string>
+	<key>city.view.extended.info.hint</key>
+	<string>Double tap to show detailed information</string>
+	<key>city.view.general.info.hint</key>
+	<string>Double tap to show general information</string>
+	<key>custom.action.delete</key>
+	<string>Delete</string>
+	<key>daily.forecasts</key>
+	<string>Daily Forecasts</string>
+	<key>fahrenheit</key>
+	<string>Fahrenheit</string>
+	<key>hour.forecast.scroll.summary</key>
+	<string>showing hours %1$@ to %2$@</string>
+	<key>hourly.forecasts</key>
+	<string>Hourly Forecasts</string>
+	<key>info.button</key>
+	<string>Edit Cities</string>
+	<key>local.city</key>
+	<string>Current location</string>
+	<key>precipitation</key>
+	<string>%@ chance of rain</string>
+	<key>temp.units</key>
+	<string>Temperature scale</string>
+	<key>temp.units.button.hint</key>
+	<string>Double tap to toggle temperature units</string>
+	<key>weather.card.view.hint</key>
+	<string>Double tap and hold, then drag vertically to rearrange cities</string>
+	<key>weather.temp.high.plural</key>
+	<string>High %@</string>
+	<key>weather.temp.high.singular</key>
+	<string>High %@</string>
+	<key>weather.temp.low.plural</key>
+	<string>Low %@</string>
+	<key>weather.temp.low.singular</key>
+	<string>Low %@</string>
+</dict>
+</plist>

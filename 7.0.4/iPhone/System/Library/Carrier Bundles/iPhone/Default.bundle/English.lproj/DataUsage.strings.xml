@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CELLULAR_DATA_IS_TURNED_OFF_FOR_APP_NAME</key>
+	<string>Cellular Data is Turned Off for “%@”</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>YOU_CAN_TURN_ON_CELLULAR_DATA_FOR_THIS_APP_IN_SETTINGS</key>
+	<string>You can turn on cellular data for this app in Settings.</string>
+</dict>
+</plist>

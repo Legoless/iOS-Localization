@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALARM_PROXIMITY_ARRIVING</key>
+	<string>Arriving</string>
+	<key>ALARM_PROXIMITY_FORMAT</key>
+	<string>%@: %@</string>
+	<key>ALARM_PROXIMITY_LEAVING</key>
+	<string>Leaving</string>
+	<key>NO_DUE_DATE</key>
+	<string>No due date</string>
+	<key>REMINDER</key>
+	<string>Reminder</string>
+	<key>REMINDERS</key>
+	<string>Reminders</string>
+	<key>REPEAT_CUSTOM_FORMAT</key>
+	<string>%@, Custom Repeat</string>
+	<key>REPEAT_FORMAT</key>
+	<string>%@, %@</string>
+</dict>
+</plist>

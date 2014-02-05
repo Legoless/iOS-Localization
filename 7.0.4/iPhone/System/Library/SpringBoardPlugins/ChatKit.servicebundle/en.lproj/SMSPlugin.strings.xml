@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLOSE</key>
+	<string>Close</string>
+	<key>CMAS_ALERT_DISMISS_BUTTON_TITLE</key>
+	<string>Dismiss</string>
+	<key>CMAS_ALERT_TITLE</key>
+	<string>CMAS Alert</string>
+	<key>MADRID_FROM_NO_NAME</key>
+	<string>iMessage from Unknown</string>
+	<key>MADRID_FROM_ONE_LINE</key>
+	<string>iMessage from %@</string>
+	<key>MADRID_FROM_TWO_LINES</key>
+	<string>iMessage from
+%@</string>
+	<key>MADRID_MESSAGE</key>
+	<string>iMessage</string>
+	<key>MMS_DELAYED_DOWNLOAD_BODY</key>
+	<string>To view this message, turn on Data Roaming in Cellular Settings</string>
+	<key>MMS_DELAYED_DOWNLOAD_BODY_AND_MESSAGES_FORMAT</key>
+	<string>%@. %@.</string>
+	<key>MMS_DELAYED_DOWNLOAD_DONE</key>
+	<string>Done</string>
+	<key>MMS_DELAYED_DOWNLOAD_MESSAGES_FORMAT</key>
+	<string>You have received a total of %@ unviewed MMS messages</string>
+	<key>MMS_DELAYED_DOWNLOAD_SETTINGS</key>
+	<string>Settings</string>
+	<key>MMS_DELAYED_DOWNLOAD_TITLE</key>
+	<string>New MMS</string>
+	<key>MMS_DELAYED_DOWNLOAD_TITLE_FORMAT</key>
+	<string>New MMS from %@</string>
+	<key>MMS_EMAIL_MISSING_BODY</key>
+	<string>Press Settings to go to Messages Settings and enter your MMS email address.</string>
+	<key>MMS_EMAIL_MISSING_TITLE</key>
+	<string>MMS Messaging Requires Your MMS Email Address</string>
+	<key>MMS_INFORMATION_MISSING_CANCEL</key>
+	<string>Cancel</string>
+	<key>MMS_INFORMATION_MISSING_SETTINGS</key>
+	<string>Settings</string>
+	<key>MMS_PHONE_NUMBER_MISSING_BODY</key>
+	<string>Press Settings to go to Phone Settings and enter your phone number.</string>
+	<key>MMS_PHONE_NUMBER_MISSING_TITLE</key>
+	<string>MMS Messaging Requires Your Phone Number</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>REPLY</key>
+	<string>Reply</string>
+	<key>SMS_HELP_TEXT</key>
+	<string>Touch View to see entire message</string>
+	<key>SMS_LOCK_LABEL</key>
+	<string>slide to view</string>
+	<key>TEXT_FROM_CARRIER</key>
+	<string>Message from %@</string>
+	<key>TEXT_FROM_NO_NAME</key>
+	<string>Text from Unknown</string>
+	<key>TEXT_FROM_ONE_LINE</key>
+	<string>Text from %@</string>
+	<key>TEXT_FROM_TWO_LINES</key>
+	<string>Text from
+%@</string>
+	<key>TEXT_MESSAGE</key>
+	<string>Text Message</string>
+	<key>VIEW</key>
+	<string>View</string>
+</dict>
+</plist>

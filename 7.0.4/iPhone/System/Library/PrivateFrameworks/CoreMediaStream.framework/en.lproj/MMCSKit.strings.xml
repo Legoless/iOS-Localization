@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ERROR_CANNOT_FIND_ASSET_P_ITEMID</key>
+	<string>Unable to find an asset with item ID %lld</string>
+	<key>ERROR_CANNOT_GET_FD_P_ASSET</key>
+	<string>Unable to retrieve a file descriptor for asset %@</string>
+	<key>ERROR_CANNOT_REGISTER_FILE</key>
+	<string>Unable to register file.</string>
+</dict>
+</plist>

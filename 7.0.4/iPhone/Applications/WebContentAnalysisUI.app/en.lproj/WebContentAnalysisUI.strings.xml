@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONFIRMATION_FAILURE</key>
+	<string>Passcodes did not match. Try again.</string>
+	<key>ENTER_PIN</key>
+	<string>Enter Code</string>
+	<key>MULTIPLE_MINUTES_TO_UNBLOCK</key>
+	<string>Try again in %@ minutes</string>
+	<key>ONE_MINUTE_TO_UNBLOCK</key>
+	<string>Try again in %@ minute</string>
+	<key>PINCODE_TITLE_LOCKED</key>
+	<string>Unblock Web Page</string>
+	<key>PMENTER</key>
+	<string>Enter Passcode</string>
+	<key>PMENTER_1_PROMPT</key>
+	<string>Enter your Restrictions Passcode</string>
+	<key>PMREMOVE_1_PROMPT</key>
+	<string>Enter your Restrictions Passcode</string>
+	<key>PMSET_1_PROMPT</key>
+	<string>Enter a Restrictions Passcode</string>
+	<key>PMSET_2_PROMPT</key>
+	<string>Re-enter your Restrictions Passcode</string>
+	<key>WRONG_1</key>
+	<string>Wrong Restrictions Passcode</string>
+	<key>WRONG_2</key>
+	<string>Try again</string>
+</dict>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachment.count.plural</key>
+	<string>%@ attachments</string>
+	<key>attachment.count.singular</key>
+	<string>%@ attachment</string>
+	<key>attachment.with.type</key>
+	<string>%@ attached</string>
+	<key>balloon.message.format</key>
+	<string>Message, %@</string>
+	<key>balloon.your.imessage.format</key>
+	<string>Your iMessage, %@</string>
+	<key>balloon.your.textmessage.format</key>
+	<string>Your Text Message, %@</string>
+	<key>cancel.button</key>
+	<string>Cancel</string>
+	<key>character.count</key>
+	<string>Character count</string>
+	<key>compose.button.text</key>
+	<string>Compose</string>
+	<key>contact.details.button</key>
+	<string>Contact Details</string>
+	<key>edit.button</key>
+	<string>Edit</string>
+	<key>facetime.video.button</key>
+	<string>FaceTime</string>
+	<key>failure.button.text</key>
+	<string>Send failure</string>
+	<key>generic.attachment</key>
+	<string>File</string>
+	<key>includes.picture</key>
+	<string>Includes picture</string>
+	<key>includes.video</key>
+	<string>Includes video</string>
+	<key>mail.button</key>
+	<string>Email</string>
+	<key>map.attachment</key>
+	<string>Location</string>
+	<key>message.from.format</key>
+	<string>From: %@</string>
+	<key>message.received</key>
+	<string>Message received: %@</string>
+	<key>message.send.progress.format</key>
+	<string>Sending message: %@</string>
+	<key>no.messages</key>
+	<string>No Messages</string>
+	<key>passkit.attachment</key>
+	<string>Passbook</string>
+	<key>phone.call.button</key>
+	<string>Call</string>
+	<key>photo.button.text</key>
+	<string>Attach media</string>
+	<key>recipient.available</key>
+	<string>iMessage is available</string>
+	<key>send.button.text</key>
+	<string>Send</string>
+	<key>send.message.button.hint.imessage</key>
+	<string>Send using iMessage</string>
+	<key>send.message.button.hint.sms</key>
+	<string>Send using Text messaging</string>
+	<key>subject.view</key>
+	<string>Subject</string>
+	<key>text.message.content.view</key>
+	<string>Message</string>
+	<key>to.field</key>
+	<string>To:</string>
+	<key>unread.messages</key>
+	<string>Unread</string>
+</dict>
+</plist>

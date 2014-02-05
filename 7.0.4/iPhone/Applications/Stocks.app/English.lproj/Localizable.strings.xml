@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10y</key>
+	<string>10Y</string>
+	<key>1d</key>
+	<string>1D</string>
+	<key>1m</key>
+	<string>1M</string>
+	<key>1w</key>
+	<string>1W</string>
+	<key>1y</key>
+	<string>1Y</string>
+	<key>2y</key>
+	<string>2Y</string>
+	<key>3m</key>
+	<string>3M</string>
+	<key>52w High:</key>
+	<string>52W HIGH</string>
+	<key>52w Low:</key>
+	<string>52W LOW</string>
+	<key>5y</key>
+	<string>5Y</string>
+	<key>6m</key>
+	<string>6M</string>
+	<key>Add All to Reading List</key>
+	<string>Add All to Reading List</string>
+	<key>Add to Reading List</key>
+	<string>Add to Reading List</string>
+	<key>Avg Vol:</key>
+	<string>AVG VOL</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Error Retrieving Chart</key>
+	<string>Error Retrieving Chart</string>
+	<key>High:</key>
+	<string>HIGH</string>
+	<key>Live Quote</key>
+	<string>Live Quote</string>
+	<key>Low:</key>
+	<string>LOW</string>
+	<key>Market closed</key>
+	<string>Market closed</string>
+	<key>Mkt Cap:</key>
+	<string>MKT CAP</string>
+	<key>Network Unavailable</key>
+	<string>Network Unavailable</string>
+	<key>Network unavailable.</key>
+	<string>Network unavailable.</string>
+	<key>No Chart Available</key>
+	<string>No Chart Available</string>
+	<key>No News Available</key>
+	<string>No News Available</string>
+	<key>No results found.</key>
+	<string>No results found.</string>
+	<key>Open in Safari</key>
+	<string>Open in Safari</string>
+	<key>Open:</key>
+	<string>OPEN</string>
+	<key>P/E:</key>
+	<string>P/E</string>
+	<key>Quote delayed by 20 minutes</key>
+	<string>Quote delayed by 20 minutes</string>
+	<key>Retrieving Chart...</key>
+	<string>Retrieving Chart...</string>
+	<key>Retrieving Details...</key>
+	<string>Retrieving Details...</string>
+	<key>Retrieving News...</key>
+	<string>Retrieving News...</string>
+	<key>Stocks</key>
+	<string>Stocks</string>
+	<key>Type a company name or stock symbol.</key>
+	<string>Type a company name or stock symbol.</string>
+	<key>Updated at</key>
+	<string>Updated %@</string>
+	<key>Validating symbol...</key>
+	<string>Validating symbol...</string>
+	<key>Vol:</key>
+	<string>VOL</string>
+	<key>Yield:</key>
+	<string>YIELD</string>
+	<key>market cap</key>
+	<string>market cap</string>
+	<key>percentage</key>
+	<string>percentage</string>
+	<key>price</key>
+	<string>price</string>
+</dict>
+</plist>

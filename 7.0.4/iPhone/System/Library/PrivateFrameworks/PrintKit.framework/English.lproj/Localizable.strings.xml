@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A paper tray is missing.</key>
+	<string>A paper tray is missing.</string>
+	<key>AirPrint Ready</key>
+	<string>AirPrint Ready</string>
+	<key>An error occurred printing this document.</key>
+	<string>An error occurred printing this document.</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Check the printer for errors.</key>
+	<string>Check the printer for errors.</string>
+	<key>Continue</key>
+	<string>Continue</string>
+	<key>Details</key>
+	<string>Details</string>
+	<key>Enter "%s" on the printer to start printing "%@".</key>
+	<string>Enter "%s" on the printer to start printing "%@".</string>
+	<key>Enter "%s" on the printer to start printing "%@…".</key>
+	<string>Enter "%s" on the printer to start printing "%@…".</string>
+	<key>Incorrect Name or Password for "%@"</key>
+	<string>Incorrect Name or Password for "%@"</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Password required for "%@"</key>
+	<string>Password required for "%@"</string>
+	<key>The printer cover is open.</key>
+	<string>The printer cover is open.</string>
+	<key>The printer door is open.</key>
+	<string>The printer door is open.</string>
+	<key>The printer has a paper jam.</key>
+	<string>The printer has a paper jam.</string>
+	<key>The printer is almost out of paper.</key>
+	<string>The printer is almost out of paper.</string>
+	<key>The printer is busy.</key>
+	<string>The printer is busy.</string>
+	<key>The printer is low on ink.</key>
+	<string>The printer is low on ink.</string>
+	<key>The printer is low on toner.</key>
+	<string>The printer is low on toner.</string>
+	<key>The printer is no longer available.</key>
+	<string>The printer is no longer available.</string>
+	<key>The printer is offline.</key>
+	<string>The printer is offline.</string>
+	<key>The printer is out of ink.</key>
+	<string>The printer is out of ink.</string>
+	<key>The printer is out of paper.</key>
+	<string>The printer is out of paper.</string>
+	<key>The printer is out of toner.</key>
+	<string>The printer is out of toner.</string>
+	<key>The printer is paused.</key>
+	<string>The printer is paused.</string>
+	<key>The printer needs paper.</key>
+	<string>The printer needs paper.</string>
+	<key>There is not enough space available to print. You can make more space available by removing apps, songs, photos, or videos.</key>
+	<string>There is not enough space available to print. You can make more space available by removing apps, songs, photos, or videos.</string>
+	<key>Try Again</key>
+	<string>Try Again</string>
+	<key>You do not have permission to use this printer.</key>
+	<string>You do not have permission to use this printer.</string>
+	<key>Your account limit has been reached.</key>
+	<string>Your account limit has been reached.</string>
+	<key>password</key>
+	<string>password</string>
+	<key>user name</key>
+	<string>user name</string>
+</dict>
+</plist>

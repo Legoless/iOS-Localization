@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADVERTISING</key>
+	<string>Advertising</string>
+	<key>BT_PERIPHERAL</key>
+	<string>Bluetooth Sharing</string>
+	<key>BT_PERIPHERAL_FOOTER</key>
+	<string>Apps that have requested the ability to share data via Bluetooth will appear here. These apps can share data even when you’re not using them.</string>
+	<key>CALENDARS</key>
+	<string>Calendars</string>
+	<key>CALENDARS_FOOTER</key>
+	<string>Applications that have requested access to your calendars will appear here.</string>
+	<key>CAMERA</key>
+	<string>Camera</string>
+	<key>CAMERA_FOOTER</key>
+	<string>Apps that have requested access to the camera will appear here.</string>
+	<key>CONTACTS</key>
+	<string>Contacts</string>
+	<key>CONTACTS_FOOTER</key>
+	<string>Applications that have requested access to your contacts will appear here.</string>
+	<key>FACEBOOK</key>
+	<string>Facebook</string>
+	<key>FACEBOOK_FOOTER</key>
+	<string>Applications that have requested access to your Facebook account will appear here.</string>
+	<key>LOCATION</key>
+	<string>Location</string>
+	<key>LOCATION_SERVICES_ABV</key>
+	<string>Location Services</string>
+	<key>LOCATION_SERVICES_FULL</key>
+	<string>Location Services</string>
+	<key>MICROPHONE</key>
+	<string>Microphone</string>
+	<key>MICROPHONE_FOOTER</key>
+	<string>Applications that have requested access to the Microphone will appear here.</string>
+	<key>PHOTOS</key>
+	<string>Photos</string>
+	<key>PHOTOS_FOOTER</key>
+	<string>Apps that have requested access to your photos will appear here.</string>
+	<key>PHOTOS_HEADER_IPAD</key>
+	<string>Photos stored on your iPad may contain other information, such as when and where the photo was taken.</string>
+	<key>PHOTOS_HEADER_IPHONE</key>
+	<string>Photos stored on your iPhone may contain other information, such as when and where the photo was taken.</string>
+	<key>PHOTOS_HEADER_IPOD</key>
+	<string>Photos stored on your iPod touch may contain other information, such as when and where the photo was taken.</string>
+	<key>PRIVACY</key>
+	<string>Privacy</string>
+	<key>PRIVACY_CONTROLLER_FOOTER</key>
+	<string>As applications request access to your data, they will be added in the categories above.</string>
+	<key>REMINDERS</key>
+	<string>Reminders</string>
+	<key>REMINDERS_FOOTER</key>
+	<string>Applications that have requested access to your reminders will appear here.</string>
+	<key>SINAWEIBO</key>
+	<string>Sina Weibo</string>
+	<key>SINAWEIBO_FOOTER</key>
+	<string>Applications that have requested access to your Sina Weibo account will appear here.</string>
+	<key>SOCIAL_PRIVACY_CONTROLLER_FOOTER</key>
+	<string>As applications request access to your social accounts data, they will be added in the categories above.</string>
+	<key>TENCENTWEIBO</key>
+	<string>Tencent Weibo</string>
+	<key>TENCENTWEIBO_FOOTER</key>
+	<string>Applications that have requested access to your Tencent Weibo account will appear here.</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>TWITTER_FOOTER</key>
+	<string>Applications that have requested access to your Twitter account will appear here.</string>
+</dict>
+</plist>

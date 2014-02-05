@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AM</key>
+	<string>AM</string>
+	<key>PM</key>
+	<string>PM</string>
+	<key>TypingModeStandard</key>
+	<string>Standard typing</string>
+	<key>TypingModeTouchTyping</key>
+	<string>Touch typing</string>
+	<key>alert.message</key>
+	<string>Alert!</string>
+	<key>alignment.center</key>
+	<string>Center justified</string>
+	<key>alignment.full</key>
+	<string>Full justified</string>
+	<key>alignment.left</key>
+	<string>Left justified</string>
+	<key>alignment.right</key>
+	<string>Right justified</string>
+	<key>approaching.end.of.road</key>
+	<string>End of road approaching</string>
+	<key>attachment</key>
+	<string>Attachment</string>
+	<key>autocorrection.text</key>
+	<string>Auto-correction: %@</string>
+	<key>back.button.element.text</key>
+	<string>Back button</string>
+	<key>bold</key>
+	<string>Bold</string>
+	<key>bold.not</key>
+	<string>Not bold</string>
+	<key>bottom.document</key>
+	<string>Bottom of document</string>
+	<key>braille.contractions.not.supported</key>
+	<string>Contracted braille is not supported by the current braille table</string>
+	<key>braille.contractions.off</key>
+	<string>Contractions off</string>
+	<key>braille.contractions.on</key>
+	<string>Contractions on</string>
+	<key>braille.eightdot.not.available</key>
+	<string>Eight-dot braille is not available when contracted braille is on</string>
+	<key>braille.eightdot.not.supported</key>
+	<string>Eight-dot braille is not supported by the current braille table</string>
+	<key>braille.eightdot.off</key>
+	<string>Eight-dot off</string>
+	<key>braille.eightdot.on</key>
+	<string>Eight-dot on</string>
+	<key>braille.status.general.dot.3</key>
+	<string>speech muted</string>
+	<key>braille.status.general.dot.4</key>
+	<string>battery low</string>
+	<key>braille.status.general.dot.5</key>
+	<string>landscape</string>
+	<key>braille.status.general.dot.6</key>
+	<string>screen curtain</string>
+	<key>braille.status.general.title</key>
+	<string>status</string>
+	<key>button.count.high</key>
+	<string>many buttons</string>
+	<key>button.count.plural</key>
+	<string>%@ buttons</string>
+	<key>button.count.singular</key>
+	<string>%@ button</string>
+	<key>button.element.text</key>
+	<string>Button</string>
+	<key>button.notfound</key>
+	<string>Button not found</string>
+	<key>capslock.off</key>
+	<string>Caps lock off</string>
+	<key>capslock.on</key>
+	<string>Caps lock on</string>
+	<key>closing.item.chooser</key>
+	<string>Closing item chooser</string>
+	<key>command.help.readword</key>
+	<string>Reads current word</string>
+	<key>control.notfound</key>
+	<string>Form control not found</string>
+	<key>copy.to.pasteboard</key>
+	<string>%@ copied to pasteboard</string>
+	<key>cursor.at.end</key>
+	<string>insertion point at end</string>
+	<key>cursor.at.start</key>
+	<string>insertion point at start</string>
+	<key>cursor.at.start.of.line</key>
+	<string>insertion point at start of line %@</string>
+	<key>custom.actions.title</key>
+	<string>Actions</string>
+	<key>data-detector</key>
+	<string>Data object detected</string>
+	<key>data-detector.address</key>
+	<string>Address detected</string>
+	<key>data-detector.calendar</key>
+	<string>Calendar event detected</string>
+	<key>data-detector.facetime</key>
+	<string>Facetime address detected</string>
+	<key>data-detector.http</key>
+	<string>Link detected</string>
+	<key>data-detector.ibooks</key>
+	<string>Link detected</string>
+	<key>data-detector.item</key>
+	<string>Item number detected</string>
+	<key>data-detector.mailto</key>
+	<string>Email address detected</string>
+	<key>data-detector.tel</key>
+	<string>Phone number detected</string>
+	<key>data-detector.track</key>
+	<string>Tracking number detected</string>
+	<key>default.action</key>
+	<string>Activate Item, Default Action</string>
+	<key>default.language.format</key>
+	<string>Default language: %@</string>
+	<key>determining.heading</key>
+	<string>Determining Heading</string>
+	<key>determining.location</key>
+	<string>Determining Location</string>
+	<key>element.combobox</key>
+	<string>Combo box</string>
+	<key>element.direct.touch.allowed</key>
+	<string>Allows touch</string>
+	<key>element.disabled.text</key>
+	<string>dimmed</string>
+	<key>element.draggable.item</key>
+	<string>Draggable</string>
+	<key>element.endOfLandmark.item</key>
+	<string>Landmark end</string>
+	<key>element.endOfList.item</key>
+	<string>List end</string>
+	<key>element.endOfTable.item</key>
+	<string>Table end</string>
+	<key>element.folder.text</key>
+	<string>Folder</string>
+	<key>element.header.text</key>
+	<string>Heading level %@</string>
+	<key>element.header.text.nolevel</key>
+	<string>Heading</string>
+	<key>element.inactive.text</key>
+	<string>inactive</string>
+	<key>element.internal.link.text</key>
+	<string>In-page link</string>
+	<key>element.is.editing.text</key>
+	<string>Is editing</string>
+	<key>element.large.multiline.text</key>
+	<string>Large multi-line text field</string>
+	<key>element.link.text</key>
+	<string>Link</string>
+	<key>element.map.item</key>
+	<string>Map</string>
+	<key>element.menu.item</key>
+	<string>Menu item</string>
+	<key>element.mixed.text</key>
+	<string>mixed</string>
+	<key>element.multiline.text</key>
+	<string>Multi-line text field</string>
+	<key>element.nonweb.off.text</key>
+	<string>off</string>
+	<key>element.nonweb.on.text</key>
+	<string>on</string>
+	<key>element.required</key>
+	<string>Required</string>
+	<key>element.securetextfield.text</key>
+	<string>secure</string>
+	<key>element.selected.text</key>
+	<string>selected</string>
+	<key>element.startOfLandmark.item</key>
+	<string>Landmark</string>
+	<key>element.startOfList.item</key>
+	<string>List start</string>
+	<key>element.startOfTable.item</key>
+	<string>Table start</string>
+	<key>element.status.auto.correction.candidate</key>
+	<string>Suggestion</string>
+	<key>element.status.bar.item</key>
+	<string>Status bar item</string>
+	<key>element.status.search.field</key>
+	<string>Search field</string>
+	<key>element.textentry.text</key>
+	<string>Text field</string>
+	<key>element.unselected.text</key>
+	<string>un selected</string>
+	<key>element.usesautocapitalization.text</key>
+	<string>auto-cap on</string>
+	<key>element.usesautocorrection.text</key>
+	<string>auto-correction on</string>
+	<key>element.visited.text</key>
+	<string>Visited</string>
+	<key>element.web.off.text</key>
+	<string>unchecked</string>
+	<key>element.web.on.text</key>
+	<string>checked</string>
+	<key>empty.line</key>
+	<string>Empty line</string>
+	<key>enter.search.text.mode</key>
+	<string>Enter search text</string>
+	<key>feedback.characters</key>
+	<string>Characters</string>
+	<key>feedback.charsandwords</key>
+	<string>Characters and Words</string>
+	<key>feedback.nothing</key>
+	<string>Nothing</string>
+	<key>feedback.words</key>
+	<string>Words</string>
+	<key>font.size.format</key>
+	<string>%@ point</string>
+	<key>formelement.count.high</key>
+	<string>many form controls</string>
+	<key>formelement.count.plural</key>
+	<string>%@ form controls</string>
+	<key>formelement.count.singular</key>
+	<string>%@ form control</string>
+	<key>frame.notfound</key>
+	<string>Frame not found</string>
+	<key>frown</key>
+	<string>Frown</string>
+	<key>handwrite.backward.nav</key>
+	<string>Backward Navigation</string>
+	<key>handwrite.forward.nav</key>
+	<string>Forward Navigation</string>
+	<key>handwrite.launch.app</key>
+	<string>Opening %@</string>
+	<key>handwrite.lowercase</key>
+	<string>Lowercase</string>
+	<key>handwrite.no.apps</key>
+	<string>No Matching Apps</string>
+	<key>handwrite.notrecognized</key>
+	<string>Not Recognized</string>
+	<key>handwrite.num.matching.apps.plural</key>
+	<string>%@ Apps</string>
+	<key>handwrite.num.matching.apps.singular</key>
+	<string>%@ App</string>
+	<key>handwrite.numbers</key>
+	<string>Numbers</string>
+	<key>handwrite.symbols</key>
+	<string>Punctuation</string>
+	<key>handwrite.uppercase</key>
+	<string>Uppercase</string>
+	<key>header.count.high</key>
+	<string>many headings</string>
+	<key>header.count.plural</key>
+	<string>%@ headings</string>
+	<key>header.count.singular</key>
+	<string>%@ heading</string>
+	<key>heading.notfound</key>
+	<string>Heading not found</string>
+	<key>highlighted</key>
+	<string>Highlighted</string>
+	<key>hints.disabled</key>
+	<string>Hints disabled</string>
+	<key>hints.enabled</key>
+	<string>Hints enabled</string>
+	<key>home.button.pressed</key>
+	<string>Home</string>
+	<key>hours.plural</key>
+	<string>%@ hours</string>
+	<key>hours.plural.minutes.plural</key>
+	<string>%1$@ hours, %2$@ minutes</string>
+	<key>hours.plural.minutes.plural.seconds.plural</key>
+	<string>%1$@ hours, %2$@ minutes, %3$@ seconds</string>
+	<key>hours.plural.minutes.plural.seconds.singular</key>
+	<string>%1$@ hours, %2$@ minutes, %3$@ second</string>
+	<key>hours.plural.minutes.singular</key>
+	<string>%1$@ hours, %2$@ minute</string>
+	<key>hours.plural.minutes.singular.seconds.plural</key>
+	<string>%1$@ hours, %2$@ minute, %3$@ seconds</string>
+	<key>hours.plural.minutes.singular.seconds.singular</key>
+	<string>%1$@ hours, %2$@ minute, %3$@ second</string>
+	<key>hours.plural.seconds.plural</key>
+	<string>%1$@ hours, %2$@ seconds</string>
+	<key>hours.plural.seconds.singular</key>
+	<string>%1$@ hours, %2$@ second</string>
+	<key>hours.singular</key>
+	<string>%@ hour</string>
+	<key>hours.singular.minutes.plural</key>
+	<string>%1$@ hour, %2$@ minutes</string>
+	<key>hours.singular.minutes.plural.seconds.plural</key>
+	<string>%1$@ hour, %2$@ minutes, %3$@ seconds</string>
+	<key>hours.singular.minutes.plural.seconds.singular</key>
+	<string>%1$@ hour, %2$@ minutes, %3$@ second</string>
+	<key>hours.singular.minutes.singular</key>
+	<string>%1$@ hour, %2$@ minute</string>
+	<key>hours.singular.minutes.singular.seconds.plural</key>
+	<string>%1$@ hour, %2$@ minute, %3$@ seconds</string>
+	<key>hours.singular.minutes.singular.seconds.singular</key>
+	<string>%1$@ hour, %2$@ minute, %3$@ second</string>
+	<key>hours.singular.seconds.plural</key>
+	<string>%1$@ hour, %2$@ seconds</string>
+	<key>hours.singular.seconds.singular</key>
+	<string>%1$@ hour, %2$@ second</string>
+	<key>image.count.high</key>
+	<string>many images</string>
+	<key>image.count.plural</key>
+	<string>%@ images</string>
+	<key>image.count.singular</key>
+	<string>%@ image</string>
+	<key>image.element.text</key>
+	<string>Image</string>
+	<key>image.notfound</key>
+	<string>Image not found</string>
+	<key>incrementable.element.text</key>
+	<string>adjustable</string>
+	<key>internal.link.notfound</key>
+	<string>In-page link not found</string>
+	<key>internallink.count.many</key>
+	<string>many in-page links</string>
+	<key>internallink.count.plural</key>
+	<string>%@ in-page links</string>
+	<key>internallink.count.singular</key>
+	<string>%@ in-page link</string>
+	<key>invalidStatusGeneral</key>
+	<string>Invalid data</string>
+	<key>invalidStatusGrammar</key>
+	<string>Invalid grammar</string>
+	<key>invalidStatusSpelling</key>
+	<string>Invalid spelling</string>
+	<key>italic</key>
+	<string>Italic</string>
+	<key>italic.not</key>
+	<string>Not italic</string>
+	<key>landmark.count.high</key>
+	<string>many landmarks</string>
+	<key>landmark.count.plural</key>
+	<string>%@ landmarks</string>
+	<key>landmark.count.singular</key>
+	<string>%@ landmark</string>
+	<key>landmark.notfound</key>
+	<string>Landmark not found</string>
+	<key>landscape.left.hint</key>
+	<string>Home button to the left</string>
+	<key>landscape.right.hint</key>
+	<string>Home button to the right</string>
+	<key>link.count.high</key>
+	<string>many links</string>
+	<key>link.count.plural</key>
+	<string>%@ links</string>
+	<key>link.count.singular</key>
+	<string>%@ link</string>
+	<key>link.notfound</key>
+	<string>Link not found</string>
+	<key>list.count.high</key>
+	<string>many lists</string>
+	<key>list.count.plural</key>
+	<string>%@ lists</string>
+	<key>list.count.singular</key>
+	<string>%@ list</string>
+	<key>list.notfound</key>
+	<string>List not found</string>
+	<key>location.disabled</key>
+	<string>Location Services are Disabled</string>
+	<key>location.east</key>
+	<string>East, %@ degrees</string>
+	<key>location.north</key>
+	<string>North, %@ degrees</string>
+	<key>location.northeast</key>
+	<string>North East, %@ degrees</string>
+	<key>location.northwest</key>
+	<string>North West, %@ degrees</string>
+	<key>location.rotor</key>
+	<string>Location</string>
+	<key>location.south</key>
+	<string>South, %@ degrees</string>
+	<key>location.southeast</key>
+	<string>South East, %@ degrees</string>
+	<key>location.southwest</key>
+	<string>South West, %@ degrees</string>
+	<key>location.west</key>
+	<string>West, %@ degrees</string>
+	<key>map-interaction.switch.to.road</key>
+	<string>Started tracking %@</string>
+	<key>map-interaction.upcoming.road.juncture</key>
+	<string>At intersection with %@</string>
+	<key>map-intersection.pause.hint</key>
+	<string>Pause to follow %@</string>
+	<key>map.follow.road.hint</key>
+	<string>Pause to follow</string>
+	<key>mathequation.element.text</key>
+	<string>Math</string>
+	<key>minutes.plural</key>
+	<string>%@ minutes</string>
+	<key>minutes.plural.seconds.plural</key>
+	<string>%1$@ minutes, %2$@ seconds</string>
+	<key>minutes.plural.seconds.singular</key>
+	<string>%1$@ minutes, %2$@ second</string>
+	<key>minutes.singular</key>
+	<string>%@ minute</string>
+	<key>minutes.singular.seconds.plural</key>
+	<string>%1$@ minute, %2$@ seconds</string>
+	<key>minutes.singular.seconds.singular</key>
+	<string>%1$@ minute, %2$@ second</string>
+	<key>misspelled</key>
+	<string>Misspelled</string>
+	<key>new.screen.message</key>
+	<string>New screen, </string>
+	<key>non.visited.link.notfound</key>
+	<string>Non-visited not found</string>
+	<key>nonvisited.count.high</key>
+	<string>many non-visited links</string>
+	<key>nonvisited.count.plural</key>
+	<string>%@ non-visited links</string>
+	<key>nonvisited.count.singular</key>
+	<string>%@ non-visited link</string>
+	<key>number.of.alerts.plural</key>
+	<string>%@ notifications</string>
+	<key>number.of.alerts.singular</key>
+	<string>%@ notification</string>
+	<key>one.of.many</key>
+	<string>%1$@ of %2$@</string>
+	<key>paste.operation.succeeded</key>
+	<string>pasted</string>
+	<key>phonetics.after.delay</key>
+	<string>Speak phonetics after delay</string>
+	<key>phonetics.off</key>
+	<string>Phonetics, off</string>
+	<key>phonetics.speak.exclusively</key>
+	<string>Speak phonetics immediately</string>
+	<key>picker.element.text</key>
+	<string>Picker Item</string>
+	<key>pitchchange.off</key>
+	<string>Pitch change, off</string>
+	<key>pitchchange.on</key>
+	<string>Pitch change, on</string>
+	<key>popup.button.element.text</key>
+	<string>Pop up button</string>
+	<key>punctuation.all</key>
+	<string>All punctuation</string>
+	<key>punctuation.none</key>
+	<string>No punctuation</string>
+	<key>punctuation.some</key>
+	<string>Some punctuation</string>
+	<key>quick.nav.off</key>
+	<string>Quick Nav Off</string>
+	<key>quick.nav.on</key>
+	<string>Quick Nav On</string>
+	<key>radio.button.text</key>
+	<string>Radio button</string>
+	<key>region.desc.bottom</key>
+	<string>Bottom of screen</string>
+	<key>region.desc.bottomleft</key>
+	<string>Bottom left corner</string>
+	<key>region.desc.bottommid</key>
+	<string>Bottom and centered</string>
+	<key>region.desc.bottomright</key>
+	<string>Bottom right corner</string>
+	<key>region.desc.fullwidth</key>
+	<string>Full width of screen</string>
+	<key>region.desc.halfwidth</key>
+	<string>Half width of screen</string>
+	<key>region.desc.midleft</key>
+	<string>Middle left side</string>
+	<key>region.desc.midmid</key>
+	<string>Center of screen</string>
+	<key>region.desc.midright</key>
+	<string>Middle right side</string>
+	<key>region.desc.quarterwidth</key>
+	<string>Quarter width of screen</string>
+	<key>region.desc.tiny</key>
+	<string>Thumbnail width</string>
+	<key>region.desc.top</key>
+	<string>Top of screen</string>
+	<key>region.desc.topleft</key>
+	<string>Top left corner</string>
+	<key>region.desc.topmid</key>
+	<string>Top and centered</string>
+	<key>region.desc.topright</key>
+	<string>Top right corner</string>
+	<key>repeat.filter</key>
+	<string>%@ %@</string>
+	<key>rotate.landscape.left</key>
+	<string>landscape</string>
+	<key>rotate.landscape.right</key>
+	<string>landscape</string>
+	<key>rotate.portrait</key>
+	<string>portrait</string>
+	<key>rotate.portrait.upsidedown</key>
+	<string>portrait flipped</string>
+	<key>rotation.capability.off</key>
+	<string>Orientation changes off</string>
+	<key>rotation.capability.on</key>
+	<string>Orientation changes on</string>
+	<key>rotor.character.mode</key>
+	<string>Character mode</string>
+	<key>rotor.line.mode</key>
+	<string>Line mode</string>
+	<key>rotor.word.mode</key>
+	<string>Word mode</string>
+	<key>row.change</key>
+	<string>Row %@</string>
+	<key>screen.curtain.off</key>
+	<string>screen curtain off</string>
+	<key>screen.curtain.on</key>
+	<string>screen curtain on</string>
+	<key>screen.locked.message</key>
+	<string>Screen locked</string>
+	<key>scroll.content.pulldown</key>
+	<string>Content pulled down</string>
+	<key>scrollstatus.selected.text</key>
+	<string>Selected Text: %@</string>
+	<key>search.rotor.adjust</key>
+	<string>Adjust Value</string>
+	<key>search.rotor.allitems</key>
+	<string>All Items</string>
+	<key>search.rotor.allitems.settings</key>
+	<string>All Items</string>
+	<key>search.rotor.allitems.visual</key>
+	<string>All Items</string>
+	<key>search.rotor.autofill</key>
+	<string>Auto-text</string>
+	<key>search.rotor.button</key>
+	<string>Buttons</string>
+	<key>search.rotor.button.settings</key>
+	<string>Buttons</string>
+	<key>search.rotor.button.visual</key>
+	<string>Buttons</string>
+	<key>search.rotor.character</key>
+	<string>Characters</string>
+	<key>search.rotor.character.settings</key>
+	<string>Characters</string>
+	<key>search.rotor.character.visual</key>
+	<string>Characters</string>
+	<key>search.rotor.container</key>
+	<string>Containers</string>
+	<key>search.rotor.container.settings</key>
+	<string>Containers</string>
+	<key>search.rotor.container.visual</key>
+	<string>Containers</string>
+	<key>search.rotor.exploration.mode</key>
+	<string>Direct Touch</string>
+	<key>search.rotor.formelement</key>
+	<string>Form Controls</string>
+	<key>search.rotor.formelement.settings</key>
+	<string>Form Controls</string>
+	<key>search.rotor.formelement.visual</key>
+	<string>Form Controls</string>
+	<key>search.rotor.handwriting</key>
+	<string>Handwriting</string>
+	<key>search.rotor.handwriting.settings</key>
+	<string>Handwriting</string>
+	<key>search.rotor.handwriting.visual</key>
+	<string>Handwriting</string>
+	<key>search.rotor.header</key>
+	<string>Headings</string>
+	<key>search.rotor.header.settings</key>
+	<string>Headings</string>
+	<key>search.rotor.header.visual</key>
+	<string>Headings</string>
+	<key>search.rotor.hints</key>
+	<string>Hints</string>
+	<key>search.rotor.hints.settings</key>
+	<string>Hints</string>
+	<key>search.rotor.hints.visual</key>
+	<string>Hints</string>
+	<key>search.rotor.image</key>
+	<string>Images</string>
+	<key>search.rotor.image.settings</key>
+	<string>Images</string>
+	<key>search.rotor.image.visual</key>
+	<string>Images</string>
+	<key>search.rotor.internal.link</key>
+	<string>In-page Links</string>
+	<key>search.rotor.internal.link.settings</key>
+	<string>In-page Links</string>
+	<key>search.rotor.internal.link.visual</key>
+	<string>In-page Links</string>
+	<key>search.rotor.landmark</key>
+	<string>Landmarks</string>
+	<key>search.rotor.landmark.settings</key>
+	<string>Landmarks</string>
+	<key>search.rotor.landmark.visual</key>
+	<string>Landmarks</string>
+	<key>search.rotor.languages</key>
+	<string>Language</string>
+	<key>search.rotor.languages.settings</key>
+	<string>Language</string>
+	<key>search.rotor.languages.visual</key>
+	<string>Language</string>
+	<key>search.rotor.line</key>
+	<string>Lines</string>
+	<key>search.rotor.line.settings</key>
+	<string>Lines</string>
+	<key>search.rotor.line.visual</key>
+	<string>Lines</string>
+	<key>search.rotor.link</key>
+	<string>Links</string>
+	<key>search.rotor.link.settings</key>
+	<string>Links</string>
+	<key>search.rotor.link.visual</key>
+	<string>Links</string>
+	<key>search.rotor.list</key>
+	<string>Lists</string>
+	<key>search.rotor.list.settings</key>
+	<string>Lists</string>
+	<key>search.rotor.list.visual</key>
+	<string>Lists</string>
+	<key>search.rotor.math.granularity.1</key>
+	<string>Symbols</string>
+	<key>search.rotor.math.granularity.1.visual</key>
+	<string>Symbols</string>
+	<key>search.rotor.math.granularity.2</key>
+	<string>Small Expressions</string>
+	<key>search.rotor.math.granularity.2.visual</key>
+	<string>Small Expressions</string>
+	<key>search.rotor.math.granularity.3</key>
+	<string>Medium Expressions</string>
+	<key>search.rotor.math.granularity.3.visual</key>
+	<string>Medium Expressions</string>
+	<key>search.rotor.math.granularity.4</key>
+	<string>Large Expressions</string>
+	<key>search.rotor.math.granularity.4.visual</key>
+	<string>Large Expressions</string>
+	<key>search.rotor.nonvisitedlink</key>
+	<string>Non-Visited Links</string>
+	<key>search.rotor.nonvisitedlink.settings</key>
+	<string>Non-Visited Links</string>
+	<key>search.rotor.nonvisitedlink.visual</key>
+	<string>Non-Visited Links</string>
+	<key>search.rotor.phonetics</key>
+	<string>Use Phonetics</string>
+	<key>search.rotor.punctuation</key>
+	<string>Punctuation</string>
+	<key>search.rotor.punctuation.settings</key>
+	<string>Punctuation</string>
+	<key>search.rotor.punctuation.visual</key>
+	<string>Punctuation</string>
+	<key>search.rotor.rate</key>
+	<string>Speech Rate</string>
+	<key>search.rotor.rate.settings</key>
+	<string>Speech Rate</string>
+	<key>search.rotor.rate.visual</key>
+	<string>Speech Rate</string>
+	<key>search.rotor.same</key>
+	<string>Same Item</string>
+	<key>search.rotor.same.settings</key>
+	<string>Same Item</string>
+	<key>search.rotor.same.visual</key>
+	<string>Same Item</string>
+	<key>search.rotor.searchfield</key>
+	<string>Search Fields</string>
+	<key>search.rotor.searchfield.settings</key>
+	<string>Search Fields</string>
+	<key>search.rotor.searchfield.visual</key>
+	<string>Search Fields</string>
+	<key>search.rotor.searchresults</key>
+	<string>Search Results</string>
+	<key>search.rotor.sounds</key>
+	<string>Sounds</string>
+	<key>search.rotor.sounds.settings</key>
+	<string>Sounds</string>
+	<key>search.rotor.sounds.visual</key>
+	<string>Sounds</string>
+	<key>search.rotor.statictext</key>
+	<string>Static Text</string>
+	<key>search.rotor.statictext.settings</key>
+	<string>Static Text</string>
+	<key>search.rotor.statictext.visual</key>
+	<string>Static Text</string>
+	<key>search.rotor.table</key>
+	<string>Tables</string>
+	<key>search.rotor.table.row</key>
+	<string>Rows</string>
+	<key>search.rotor.table.row.settings</key>
+	<string>Rows</string>
+	<key>search.rotor.table.row.visual</key>
+	<string>Rows</string>
+	<key>search.rotor.table.settings</key>
+	<string>Tables</string>
+	<key>search.rotor.table.visual</key>
+	<string>Tables</string>
+	<key>search.rotor.text.operation</key>
+	<string>Edit</string>
+	<key>search.rotor.textfield</key>
+	<string>Text Fields</string>
+	<key>search.rotor.textfield.settings</key>
+	<string>Text Fields</string>
+	<key>search.rotor.textfield.visual</key>
+	<string>Text Fields</string>
+	<key>search.rotor.typing.echo</key>
+	<string>Typing Echo</string>
+	<key>search.rotor.typing.mode</key>
+	<string>Typing mode</string>
+	<key>search.rotor.use.pitch</key>
+	<string>Use Pitch</string>
+	<key>search.rotor.vertical.navigation</key>
+	<string>Vertical Navigation</string>
+	<key>search.rotor.vertical.navigation.settings</key>
+	<string>Vertical Navigation</string>
+	<key>search.rotor.vertical.navigation.visual</key>
+	<string>Vert. Navigation</string>
+	<key>search.rotor.visitedlink</key>
+	<string>Visited Links</string>
+	<key>search.rotor.visitedlink.settings</key>
+	<string>Visited Links</string>
+	<key>search.rotor.visitedlink.visual</key>
+	<string>Visited Links</string>
+	<key>search.rotor.volume</key>
+	<string>Volume</string>
+	<key>search.rotor.volume.settings</key>
+	<string>Volume</string>
+	<key>search.rotor.volume.visual</key>
+	<string>Volume</string>
+	<key>search.rotor.word</key>
+	<string>Words</string>
+	<key>search.rotor.word.settings</key>
+	<string>Words</string>
+	<key>search.rotor.word.visual</key>
+	<string>Words</string>
+	<key>search.rotor.zoom</key>
+	<string>Zoom</string>
+	<key>search.rotor.zoom.settings</key>
+	<string>Zoom</string>
+	<key>search.rotor.zoom.visual</key>
+	<string>Zoom</string>
+	<key>searchfield.count.many</key>
+	<string>many search fields</string>
+	<key>searchfield.count.plural</key>
+	<string>%@ search fields</string>
+	<key>searchfield.count.singular</key>
+	<string>%@ search field</string>
+	<key>searchfield.notfound</key>
+	<string>Search field not found</string>
+	<key>seconds.plural</key>
+	<string>%@ seconds</string>
+	<key>seconds.singular</key>
+	<string>%@ second</string>
+	<key>seconds.with.subseconds</key>
+	<string>%@ seconds</string>
+	<key>secure.character.plural</key>
+	<string>%@ characters</string>
+	<key>secure.character.singular</key>
+	<string>%@ character</string>
+	<key>selection.deleted</key>
+	<string>Selection deleted</string>
+	<key>smiley</key>
+	<string>Smiley</string>
+	<key>software.keyboard.hide</key>
+	<string>Keyboard hidden</string>
+	<key>software.keyboard.show</key>
+	<string>Keyboard visible</string>
+	<key>soundchange.off</key>
+	<string>Sounds, off</string>
+	<key>soundchange.on</key>
+	<string>Sounds, on</string>
+	<key>starting.help.mode</key>
+	<string>Starting Help</string>
+	<key>starting.help.mode.help</key>
+	<string>To stop help, perform a four finger double tap or two finger scrub, or press escape on the keyboard.</string>
+	<key>statictext.notfound</key>
+	<string>Static text not found</string>
+	<key>stopping.help.mode</key>
+	<string>Stopping Help</string>
+	<key>stopping.search.text.mode</key>
+	<string>Stopping search</string>
+	<key>summary.message</key>
+	<string>Summary: %@</string>
+	<key>surprise</key>
+	<string>Surprise</string>
+	<key>switch.button.element.text</key>
+	<string>Switch button</string>
+	<key>system.muted</key>
+	<string>Muting</string>
+	<key>system.unmuted</key>
+	<string>Unmuted</string>
+	<key>tab.button.element.text</key>
+	<string>Tab</string>
+	<key>table.count.high</key>
+	<string>many tables</string>
+	<key>table.count.plural</key>
+	<string>%@ tables</string>
+	<key>table.count.singular</key>
+	<string>%@ table</string>
+	<key>table.notfound</key>
+	<string>Table not found</string>
+	<key>text.operation.bold</key>
+	<string>bold</string>
+	<key>text.operation.copy</key>
+	<string>copy</string>
+	<key>text.operation.cut</key>
+	<string>cut</string>
+	<key>text.operation.define</key>
+	<string>define</string>
+	<key>text.operation.delete</key>
+	<string>delete</string>
+	<key>text.operation.italic</key>
+	<string>italic</string>
+	<key>text.operation.paste</key>
+	<string>paste</string>
+	<key>text.operation.replace</key>
+	<string>replace</string>
+	<key>text.operation.select</key>
+	<string>select</string>
+	<key>text.operation.selectAll</key>
+	<string>select all</string>
+	<key>text.operation.underline</key>
+	<string>underline</string>
+	<key>textfield.count.many</key>
+	<string>many text fields</string>
+	<key>textfield.count.plural</key>
+	<string>%@ text fields</string>
+	<key>textfield.count.singular</key>
+	<string>%@ text field</string>
+	<key>textfield.notfound</key>
+	<string>Text field not found</string>
+	<key>toggle.button.element.text</key>
+	<string>Checkbox</string>
+	<key>tongue</key>
+	<string>Tongue sticking out</string>
+	<key>top.document</key>
+	<string>Top of document</string>
+	<key>underline</key>
+	<string>Underline</string>
+	<key>underline.not</key>
+	<string>Not underline</string>
+	<key>unpronounceable</key>
+	<string>unpronounceable</string>
+	<key>visited.link.notfound</key>
+	<string>Visited link not found</string>
+	<key>visitedlink.count.high</key>
+	<string>many visited links</string>
+	<key>visitedlink.count.plural</key>
+	<string>%@ visited links</string>
+	<key>visitedlink.count.singular</key>
+	<string>%@ visited link</string>
+	<key>voiceover.muted.off</key>
+	<string>Speech off</string>
+	<key>voiceover.muted.on</key>
+	<string>Speech on</string>
+	<key>voiceover.off</key>
+	<string>VoiceOver off</string>
+	<key>webpage.loaded</key>
+	<string>Web page loaded</string>
+	<key>welcome.message</key>
+	<string>VoiceOver on</string>
+	<key>wink</key>
+	<string>Wink</string>
+</dict>
+</plist>

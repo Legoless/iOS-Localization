@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2010 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.humanware.braillenote.apex.18</key>
+	<string>Humanware BrailleNote Apex 18</string>
+	<key>com.apple.scrod.braille.driver.humanware.braillenote.apex.32</key>
+	<string>Humanware BrailleNote Apex 32</string>
+	<key>com.apple.scrod.braille.driver.humanware.braillenote.apex.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.humanware.braillenote.apex.65537</key>
+	<string>Thumb 1</string>
+	<key>com.apple.scrod.braille.driver.humanware.braillenote.apex.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.humanware.braillenote.apex.65793</key>
+	<string>Thumb 2</string>
+	<key>com.apple.scrod.braille.driver.humanware.braillenote.apex.66049</key>
+	<string>Thumb 3</string>
+	<key>com.apple.scrod.braille.driver.humanware.braillenote.apex.66305</key>
+	<string>Thumb 4</string>
+</dict>
+</plist>

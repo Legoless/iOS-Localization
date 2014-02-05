@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%1$@ - %2$@</key>
+	<string>%1$@ - %2$@</string>
+	<key>%1$@ - %2$@ on %3$@</key>
+	<string>%1$@ - %2$@ on %3$@</string>
+	<key>%1$d visits recorded since %2$@</key>
+	<string>%1$d visits recorded since %2$@</string>
+	<key>%1$lu locations recorded %2$@ - %3$@</key>
+	<string>%1$lu locations recorded %2$@ - %3$@</string>
+	<key>%1$lu locations recorded on %2$@</key>
+	<string>%1$lu locations recorded on %2$@</string>
+	<key>%@ and %@</key>
+	<string>%@ and %@</string>
+	<key>%@ and %@, %@</key>
+	<string>%@ and %@, %@</string>
+	<key>%@, %@</key>
+	<string>%@, %@</string>
+	<key>%d hours</key>
+	<string>%d hours</string>
+	<key>%d hours %d minutes</key>
+	<string>%d hours %d minutes</string>
+	<key>%d hours 1 minute</key>
+	<string>%d hours 1 minute</string>
+	<key>%d minutes</key>
+	<string>%d minutes</string>
+	<key>1 hour</key>
+	<string>1 hour</string>
+	<key>1 hour %d minutes</key>
+	<string>1 hour %d minutes</string>
+	<key>1 hour 1 minute</key>
+	<string>1 hour 1 minute</string>
+	<key>1 location first recorded on %@</key>
+	<string>1 location first recorded on %@</string>
+	<key>1 location recorded on %@</key>
+	<string>1 location recorded on %@</string>
+	<key>1 minute</key>
+	<string>1 minute</string>
+	<key>1 visit recorded since %@</key>
+	<string>1 visit recorded since %@</string>
+	<key>Allow Apple to use your frequent location information to improve Maps. %@</key>
+	<string>Allow Apple to use your frequent location information to improve Maps. %@</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Clear</key>
+	<string>Clear</string>
+	<key>Clear History</key>
+	<string>Clear History</string>
+	<key>Clear History?</key>
+	<string>Clear History?</string>
+	<key>Developer</key>
+	<string>Developer</string>
+	<key>Dump Logs</key>
+	<string>Dump Logs</string>
+	<key>Elsewhere</key>
+	<string>Elsewhere</string>
+	<key>History</key>
+	<string>History</string>
+	<key>Home</key>
+	<string>Home</string>
+	<key>If you choose to enable Improve Maps, Apple will collect the GPS coordinates obtained through the Frequent Locations feature on your device and correlate them with the street address associated with your Apple ID. This will enable Apple to better approximate the geographic location of that and other addresses. Apple will only retain the resulting coordinates in an anonymous form to improve Maps and other Apple location-based products and services. You can turn off Improve Maps or Frequent Locations at any time under Settings-&gt;Privacy-&gt;Location Services-&gt;System Services-&gt;Frequent Locations.</key>
+	<string>If you choose to enable Improve Maps, Apple will collect the GPS coordinates obtained through the Frequent Locations feature on your device and correlate them with the street address associated with your Apple ID. This will enable Apple to better approximate the geographic location of that and other addresses. Apple will only retain the resulting coordinates in an anonymous form to improve Maps and other Apple location-based products and services. You can turn off Improve Maps or Frequent Locations at any time under Settings-&gt;Privacy-&gt;Location Services-&gt;System Services-&gt;Frequent Locations.</string>
+	<key>Improve Maps</key>
+	<string>Improve Maps</string>
+	<key>Learn More...</key>
+	<string>Learn More…</string>
+	<key>Log</key>
+	<string>Log</string>
+	<key>Looks like normal traffic on your drive home.</key>
+	<string>Looks like normal traffic on your drive home.</string>
+	<key>Looks like normal traffic on your drive to %@.</key>
+	<string>Looks like normal traffic on your drive to %@.</string>
+	<key>Looks like normal traffic on your drive to work.</key>
+	<string>Looks like normal traffic on your drive to work.</string>
+	<key>Looks like unusually heavy traffic on the drive home. You'd need to leave by %1$@ to arrive at %2$@.</key>
+	<string>Looks like unusually heavy traffic on the drive home. You'd need to leave by %1$@ to arrive at %2$@.</string>
+	<key>Looks like unusually heavy traffic on the drive to %3$@. You'd need to leave by %1$@ to arrive at %2$@.</key>
+	<string>Looks like unusually heavy traffic on the drive to %3$@. You'd need to leave by %1$@ to arrive at %2$@.</string>
+	<key>Looks like unusually heavy traffic on the drive to work. You'd need to leave by %1$@ to arrive at %2$@.</key>
+	<string>Looks like unusually heavy traffic on the drive to work. You'd need to leave by %1$@ to arrive at %2$@.</string>
+	<key>Right now, it would take you about %1$@ to drive to %2$@.</key>
+	<string>Right now, it would take you about %1$@ to drive to %2$@.</string>
+	<key>Right now, it would take you about %@ to drive home.</key>
+	<string>Right now, it would take you about %@ to drive home.</string>
+	<key>Right now, it would take you about %@ to drive to work.</key>
+	<string>Right now, it would take you about %@ to drive to work.</string>
+	<key>Traffic is unusually heavy on the way home. The driving time is %@.</key>
+	<string>Traffic is unusually heavy on the way home. The driving time is %@.</string>
+	<key>Traffic is unusually heavy on the way to %1$@. The driving time is %2$@.</key>
+	<string>Traffic is unusually heavy on the way to %1$@. The driving time is %2$@.</string>
+	<key>Traffic is unusually heavy on the way to work. The driving time is %@.</key>
+	<string>Traffic is unusually heavy on the way to work. The driving time is %@.</string>
+	<key>Work</key>
+	<string>Work</string>
+</dict>
+</plist>

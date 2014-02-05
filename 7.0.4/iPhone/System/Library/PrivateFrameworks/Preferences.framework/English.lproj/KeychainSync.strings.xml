@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADVANCED_OPTIONS</key>
+	<string>Advanced Options</string>
+	<key>ADVANCED_SECURITY_CODE_OPTIONS</key>
+	<string>Advanced Security Code Options</string>
+	<key>AIRPLANE_MODE_REACHABILITY_MESSAGE_WIFI</key>
+	<string>Turn Off Airplane Mode or Use Wi-Fi to Turn On iCloud Keychain.</string>
+	<key>AIRPLANE_MODE_REACHABILITY_MESSAGE_WLAN</key>
+	<string>Turn Off Airplane Mode or Use WLAN to Turn On iCloud Keychain.</string>
+	<key>APPLESUPPORT_VERIFICATION_REQUIRED</key>
+	<string>Because the Security Code was incorrectly entered 5 times, you must verify your identity with Apple Support before trying again.</string>
+	<key>APPLE_SUPPORT_VERIFICATION_DETAILS</key>
+	<string>For assistance with iCloud Keychain, go to apple.com/support/icloud/keychain on another device.
+
+If you don’t have access to another device, set up iCloud Keychain later in Settings.</string>
+	<key>APPROVE_FROM_OTHER_DEVICE</key>
+	<string>Approve from Other Device</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CAN_VERIFY_WITH_APPLESUPPORT</key>
+	<string>If you do not have access to this phone number, you can verify your identity with Apple Support.</string>
+	<key>CHANGE</key>
+	<string>Change</string>
+	<key>CHANGE_ICSC_ERROR_TITLE</key>
+	<string>Could Not Change iCloud Security Code</string>
+	<key>CHANGE_SECURITY_CODE</key>
+	<string>Change Security Code</string>
+	<key>COMPLEX_CODE_DESCRIPTION</key>
+	<string>Write down your iCloud Security Code and keep it in a safe place. Apple cannot recover a lost code.</string>
+	<key>COMPLEX_SECURITY_CODE</key>
+	<string>Complex Security Code</string>
+	<key>CONFIRMATION_FAILURE</key>
+	<string>Security Codes did not match. Try again.</string>
+	<key>CONFIRM_PHONE_NUMBER</key>
+	<string>Confirm Phone Number</string>
+	<key>CONFIRM_RANDOM_CODE_DESCRIPTION</key>
+	<string>Enter your security code.</string>
+	<key>CONFIRM_SECURITY_CODE</key>
+	<string>Confirm Security Code</string>
+	<key>CONTACT_APPLE_SUPPORT</key>
+	<string>Contact Apple Support</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>COUNTRY</key>
+	<string>Country</string>
+	<key>CREATE_AN_ICLOUD_SECURITY_CODE</key>
+	<string>Create an iCloud Security Code</string>
+	<key>CREATE_COMPLEX_CODE</key>
+	<string>Use a Complex Security Code</string>
+	<key>CREATE_DIFFERENT_CODE</key>
+	<string>Create Different Code</string>
+	<key>CREATE_RANDOM_CODE</key>
+	<string>Get a Random Security Code</string>
+	<key>CREATE_SECURITY_CODE</key>
+	<string>Create Security Code</string>
+	<key>DELETE_FROM_MY_DEVICE_IPAD</key>
+	<string>Delete from My iPad</string>
+	<key>DELETE_FROM_MY_DEVICE_IPHONE</key>
+	<string>Delete from My iPhone</string>
+	<key>DELETE_FROM_MY_DEVICE_IPOD</key>
+	<string>Delete from My iPod touch</string>
+	<key>DEVICE_PASSCODE_TOO_WEAK</key>
+	<string>Are You Sure You Want to Use This Code?</string>
+	<key>DEVICE_PASSCODE_TOO_WEAK_DETAILS</key>
+	<string>Your device passcode is commonly used and can be easily guessed.</string>
+	<key>DISABLE_AUTOFILL_PROMPT_CREDITCARDS_IPAD</key>
+	<string>Would you like to delete the credit cards you have previously saved on your iPad?</string>
+	<key>DISABLE_AUTOFILL_PROMPT_CREDITCARDS_IPHONE</key>
+	<string>Would you like to delete the credit cards you have previously saved on your iPhone?</string>
+	<key>DISABLE_AUTOFILL_PROMPT_CREDITCARDS_IPOD</key>
+	<string>Would you like to delete the credit cards you have previously saved on your iPod touch?</string>
+	<key>DISABLE_AUTOFILL_PROMPT_PASSWORDS_CREDITCARDS_IPAD</key>
+	<string>Would you like to delete the passwords and credit cards you have previously saved on your iPad?</string>
+	<key>DISABLE_AUTOFILL_PROMPT_PASSWORDS_CREDITCARDS_IPHONE</key>
+	<string>Would you like to delete the passwords and credit cards you have previously saved on your iPhone?</string>
+	<key>DISABLE_AUTOFILL_PROMPT_PASSWORDS_CREDITCARDS_IPOD</key>
+	<string>Would you like to delete the passwords and credit cards you have previously saved on your iPod touch?</string>
+	<key>DISABLE_AUTOFILL_PROMPT_PASSWORDS_IPAD</key>
+	<string>Would you like to delete the passwords you have previously saved on your iPad?</string>
+	<key>DISABLE_AUTOFILL_PROMPT_PASSWORDS_IPHONE</key>
+	<string>Would you like to delete the passwords you have previously saved on your iPhone?</string>
+	<key>DISABLE_AUTOFILL_PROMPT_PASSWORDS_IPOD</key>
+	<string>Would you like to delete the passwords you have previously saved on your iPod touch?</string>
+	<key>DISABLE_AUTOFILL_TITLE</key>
+	<string>Turn Off Safari AutoFill?</string>
+	<key>DISABLE_RECOVERY_DESCRIPTION</key>
+	<string>You will not be able to use passwords stored in iCloud if you lose all your devices that use iCloud Keychain.</string>
+	<key>DISABLE_RECOVERY_DETAILS</key>
+	<string>If you don’t create a security code, setting up iCloud Keychain on a new device will require your approval from a different device.</string>
+	<key>DONT_CHANGE_PASSCODE</key>
+	<string>Don’t Change Passcode</string>
+	<key>DONT_CHANGE_SECURITY_CODE</key>
+	<string>Don’t Change Security Code</string>
+	<key>DONT_CREATE_SECURITY_CODE</key>
+	<string>Don’t Create Security Code</string>
+	<key>DONT_CREATE_SECURITY_CODE_QUESTION</key>
+	<string>Don’t Create Security Code?</string>
+	<key>DONT_HAVE_PHONE</key>
+	<string>Don’t have access to this phone?</string>
+	<key>DONT_USE</key>
+	<string>Don’t Use</string>
+	<key>DONT_USE_ICLOUD_KEYCHAIN</key>
+	<string>Don’t Use iCloud Keychain</string>
+	<key>DONT_USE_SECURITY_CODE</key>
+	<string>Don’t Use Security Code?</string>
+	<key>ENABLE_IS_RECOVERY</key>
+	<string>Restore Passwords Stored in iCloud Keychain?</string>
+	<key>ENABLE_IS_RECOVERY_DESCRIPTION_IPAD</key>
+	<string>You currently have passwords stored in iCloud Keychain. Use your iCloud Security code to restore them to this iPad.</string>
+	<key>ENABLE_IS_RECOVERY_DESCRIPTION_IPHONE</key>
+	<string>You currently have passwords stored in iCloud Keychain. Use your iCloud Security code to restore them to this iPhone.</string>
+	<key>ENABLE_IS_RECOVERY_DESCRIPTION_IPOD</key>
+	<string>You currently have passwords stored in iCloud Keychain. Use your iCloud Security code to restore them to this iPod touch.</string>
+	<key>ENABLE_KEYCHAIN_RECOVERY_ERROR_TITLE</key>
+	<string>Could Not Set Up iCloud Security Code</string>
+	<key>ENABLE_KEYCHAIN_SYNC_ERROR_TITLE</key>
+	<string>Could Not Set Up iCloud Keychain</string>
+	<key>ENTER_CURRENT_PASSCODE</key>
+	<string>Enter Current Passcode</string>
+	<key>ENTER_CURRENT_PASSCODE_DESCRIPTION</key>
+	<string>Enter your current device passcode to confirm changing it to your iCloud Security Code</string>
+	<key>ENTER_PASSCODE</key>
+	<string>Enter your passcode</string>
+	<key>ENTER_PASSCODE_DESCRIPTION</key>
+	<string>Your passcode will be used for your iCloud Security Code</string>
+	<key>ENTER_SECURITY_AND_VERIFICATION_CODES_AGAIN</key>
+	<string>Enter your security and verification codes again.</string>
+	<key>ENTER_SECURITY_CODE_AGAIN</key>
+	<string>Enter your security code again.</string>
+	<key>ERROR_CHANGING_PASSCODE</key>
+	<string>Error Changing Passcode</string>
+	<key>FAILED_TO_CHANGE_PHONE_NUMBER</key>
+	<string>Failed to change phone number</string>
+	<key>FORGOT_SECURITY_CODE</key>
+	<string>Forgot Code?</string>
+	<key>FORGOT_SECURITY_CODE_DETAILS</key>
+	<string>Your iCloud Security Code is required to set up iCloud Keychain on a new device.</string>
+	<key>FORGOT_SECURITY_CODE_DETAILS_WITH_CIRCLE</key>
+	<string>Your iCloud Security Code or one of your other devices using iCloud Keychain is required to set up iCloud Keychain on a new device.</string>
+	<key>GENERIC_KEYCHAIN_ERROR_TITLE</key>
+	<string>iCloud Keychain Error</string>
+	<key>GO_BACK</key>
+	<string>Go Back</string>
+	<key>ICLOUD_KEYCHAIN_HELPLINK</key>
+	<string>What is iCloud Keychain?</string>
+	<key>ICLOUD_KEYCHAIN_TITLE</key>
+	<string>iCloud Keychain</string>
+	<key>ICLOUD_SECURITY_CODE</key>
+	<string>iCloud Security Code</string>
+	<key>INCORRECT_SECURITY_CODE</key>
+	<string>Incorrect Security Code</string>
+	<key>INCORRECT_SECURITY_OR_VERIFICATION_CODE</key>
+	<string>Incorrect Security or Verification Code</string>
+	<key>INVALID_PHONE_NUMBER_DESCRIPTION</key>
+	<string>“%@” does not appear to be a valid phone number.</string>
+	<key>JOIN_CIRCLE</key>
+	<string>Join Circle</string>
+	<key>KEEP_ON_MY_DEVICE_IPAD</key>
+	<string>Keep on My iPad</string>
+	<key>KEEP_ON_MY_DEVICE_IPHONE</key>
+	<string>Keep on My iPhone</string>
+	<key>KEEP_ON_MY_DEVICE_IPOD</key>
+	<string>Keep on My iPod touch</string>
+	<key>KEYCHAIN_RECOVERY</key>
+	<string>Approve with Security Code</string>
+	<key>KEYCHAIN_RECOVERY_DESCRIPTION</key>
+	<string>Allow your iCloud Security Code to set up iCloud Keychain on new devices.</string>
+	<key>KEYCHAIN_SETUP</key>
+	<string>Keychain Setup</string>
+	<key>LEAVE_CIRCLE</key>
+	<string>Leave Circle</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>NO_NETWORK_REACHABILITY_MESSAGE</key>
+	<string>Connect to the Internet to Turn On iCloud Keychain.</string>
+	<key>NUMBER</key>
+	<string>Number</string>
+	<key>N_SECURITY_CODE_ATTEMPTS_REMAINING</key>
+	<string>%i attempts remaining.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSCODE_INCORRECT_PLURAL</key>
+	<string>%@ Failed Passcode Attempts</string>
+	<key>PASSCODE_INCORRECT_SINGLE</key>
+	<string>%@ Failed Passcode Attempt</string>
+	<key>PHONE_NUMBER</key>
+	<string>Phone Number</string>
+	<key>PHONE_NUMBER_DESCRIPTION</key>
+	<string>Enter a phone number that can receive SMS messages. This can be your own number or the number of someone you trust.
+
+This number will be used to verify your identity when using your iCloud Security Code.</string>
+	<key>RANDOM_SECURITY_CODE</key>
+	<string>Random Security Code</string>
+	<key>RANDOM_SECURITY_CODE_PLACEHOLDER</key>
+	<string>XXXX-XXXX-XXXX-XXXX-XXXX-XXXX</string>
+	<key>REENTER_SECURITY_CODE</key>
+	<string>Re-enter your security code.</string>
+	<key>REPLACE_ICLOUD_KEYCHAIN_DETAILS_IPAD</key>
+	<string>All passwords in iCloud Keychain will be replaced by the ones on this iPad.</string>
+	<key>REPLACE_ICLOUD_KEYCHAIN_DETAILS_IPHONE</key>
+	<string>All passwords in iCloud Keychain will be replaced by the ones on this iPhone.</string>
+	<key>REPLACE_ICLOUD_KEYCHAIN_DETAILS_IPOD</key>
+	<string>All passwords in iCloud Keychain will be replaced by the ones on this iPod touch.</string>
+	<key>REPLACE_ICLOUD_KEYCHAIN_DETAILS_WITH_RECOVERY_IPAD</key>
+	<string>All passwords in iCloud Keychain will be replaced by the ones on this iPad and you will need to create a new Security Code.</string>
+	<key>REPLACE_ICLOUD_KEYCHAIN_DETAILS_WITH_RECOVERY_IPHONE</key>
+	<string>All passwords in iCloud Keychain will be replaced by the ones on this iPhone and you will need to create a new Security Code.</string>
+	<key>REPLACE_ICLOUD_KEYCHAIN_DETAILS_WITH_RECOVERY_IPOD</key>
+	<string>All passwords in iCloud Keychain will be replaced by the ones on this iPod touch and you will need to create a new Security Code.</string>
+	<key>RESET</key>
+	<string>Reset</string>
+	<key>RESET_COMPLETED_DESCRIPTION_IPAD</key>
+	<string>If you have other devices using iCloud Keychain, they must be approved again from this iPad.</string>
+	<key>RESET_COMPLETED_DESCRIPTION_IPHONE</key>
+	<string>If you have other devices using iCloud Keychain, they must be approved again from this iPhone.</string>
+	<key>RESET_COMPLETED_DESCRIPTION_IPOD</key>
+	<string>If you have other devices using iCloud Keychain, they must be approved again from this iPod touch.</string>
+	<key>RESET_COMPLETED_TITLE</key>
+	<string>iCloud Keychain Has Been Reset</string>
+	<key>RESET_ICLOUD_KEYCHAIN</key>
+	<string>Reset iCloud Keychain</string>
+	<key>RESET_ICLOUD_KEYCHAIN_DETAILS</key>
+	<string>All passwords stored in iCloud Keychain will be deleted.</string>
+	<key>RESET_ICLOUD_KEYCHAIN_DETAILS_WITH_RECOVERY</key>
+	<string>All passwords in iCloud Keychain will be deleted and you will need to create a new Security Code.</string>
+	<key>RESET_ICLOUD_KEYCHAIN_QUESTION</key>
+	<string>Reset iCloud Keychain?</string>
+	<key>RESET_KEYCHAIN_ERROR_TITLE</key>
+	<string>Could Not Reset iCloud Keychain</string>
+	<key>RESTORE_WITH_SECURITY_CODE</key>
+	<string>Restore with Security Code</string>
+	<key>SECURITY_CODE_ATTEMPTS_EXHAUSTED</key>
+	<string>Approve this iPhone from another device. If no devices are available, reset iCloud Keychain.</string>
+	<key>SECURITY_CODE_DESCRIPTION</key>
+	<string>Your iCloud Security Code can be used to set up iCloud Keychain on a new device.</string>
+	<key>SECURITY_CODE_HARD_LIMIT_MESSAGE_IPAD</key>
+	<string>Reset iCloud Keychain to use Keychain on this iPad.</string>
+	<key>SECURITY_CODE_HARD_LIMIT_MESSAGE_IPHONE</key>
+	<string>Reset iCloud Keychain to use Keychain on this iPhone.</string>
+	<key>SECURITY_CODE_HARD_LIMIT_MESSAGE_IPOD</key>
+	<string>Reset iCloud Keychain to use Keychain on this iPod touch.</string>
+	<key>SECURITY_CODE_HARD_LIMIT_MESSAGE_WITH_APPROVAL_IPAD</key>
+	<string>Approve this iPad from one of your other devices using iCloud Keychain. If no devices are available, reset iCloud Keychain.</string>
+	<key>SECURITY_CODE_HARD_LIMIT_MESSAGE_WITH_APPROVAL_IPHONE</key>
+	<string>Approve this iPhone from one of your other devices using iCloud Keychain. If no devices are available, reset iCloud Keychain.</string>
+	<key>SECURITY_CODE_HARD_LIMIT_MESSAGE_WITH_APPROVAL_IPOD</key>
+	<string>Approve this iPod touch from one of your other devices using iCloud Keychain. If no devices are available, reset iCloud Keychain.</string>
+	<key>SECURITY_CODE_HARD_LIMIT_TITLE</key>
+	<string>Security Code Incorrectly Entered Too Many Times</string>
+	<key>SECURITY_CODE_MISMATCH</key>
+	<string>Security Codes did not match. Try again.</string>
+	<key>SECURITY_CODE_REQUIRED</key>
+	<string>Security Code Required</string>
+	<key>SECURITY_CODE_SOFT_LIMIT_MESSAGE</key>
+	<string>Because your Security Code was incorrectly entered too many times, you must verify your identity with Apple Support before trying again.</string>
+	<key>SECURITY_CODE_SOFT_LIMIT_TITLE</key>
+	<string>Verification Required to Continue</string>
+	<key>SET_UP_LATER</key>
+	<string>Set Up Later</string>
+	<key>SKIP_CODE</key>
+	<string>Skip Code</string>
+	<key>UNBLOCK_MINUTES_PLURAL</key>
+	<string>Try again in %@ minutes</string>
+	<key>UNBLOCK_MINUTES_SINGLE</key>
+	<string>Try again in %@ minute</string>
+	<key>USE_ANYWAY</key>
+	<string>Use Anyway</string>
+	<key>USE_CODE</key>
+	<string>Use Code</string>
+	<key>USE_COMPLEX_CODE</key>
+	<string>Use Complex Security Code</string>
+	<key>USE_DEVICE_PASSCODE</key>
+	<string>Use Passcode</string>
+	<key>USE_DEVICE_PASSCODE_TITLE_IPAD</key>
+	<string>Use iPad Passcode as iCloud Security Code?</string>
+	<key>USE_DEVICE_PASSCODE_TITLE_IPHONE</key>
+	<string>Use iPhone Passcode as iCloud Security Code?</string>
+	<key>USE_DEVICE_PASSCODE_TITLE_IPOD</key>
+	<string>Use iPod touch Passcode as iCloud Security Code?</string>
+	<key>USE_ICLOUD_KEYCHAIN</key>
+	<string>Use iCloud Keychain</string>
+	<key>USE_NEW_DEVICE_PASSCODE_AS_SECURITY_CODE</key>
+	<string>Use New Passcode as iCloud Security Code?</string>
+	<key>USE_NEW_DEVICE_PASSCODE_AS_SECURITY_CODE_DETAILS</key>
+	<string>Your iCloud Security Code is used to protect the passwords stored in iCloud Keychain.</string>
+	<key>USE_SAME_CODE_DEVICE_TO_ICSC</key>
+	<string>Use Same Code</string>
+	<key>USE_SAME_CODE_ICSC_TO_DEVICE</key>
+	<string>Use Same Code</string>
+	<key>USE_SECURITY_CODE_AS_DEVICE_PASSCODE</key>
+	<string>Use New iCloud Security Code as Device Passcode?</string>
+	<key>USE_SIMPLE_CODE</key>
+	<string>Use Simple Security Code</string>
+	<key>VERIFICATION_CODE</key>
+	<string>Verification Code</string>
+	<key>VERIFICATION_CODE_SENT_TO</key>
+	<string>Enter the verification code sent to
+%@
+It may take a moment for the code to arrive.</string>
+	<key>VERIFICATION_NUMBER</key>
+	<string>Verification Number</string>
+	<key>VERIFICATION_REQUIRED</key>
+	<string>Verification Required</string>
+	<key>VERIFY_WITH_APPLESUPPORT</key>
+	<string>Verify with Apple Support</string>
+	<key>WEAK_SECURITY_CODE</key>
+	<string>Are You Sure You Want to Use This Code?</string>
+	<key>WEAK_SECURITY_CODE_DETAILS</key>
+	<string>This code is commonly used and can be easily guessed.</string>
+</dict>
+</plist>

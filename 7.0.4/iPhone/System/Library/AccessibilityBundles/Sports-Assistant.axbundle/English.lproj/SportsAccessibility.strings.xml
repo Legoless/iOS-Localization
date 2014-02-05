@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>athlete.height.imperial</key>
+	<string>%1$@ feet %2$@ inches</string>
+	<key>athlete.injured</key>
+	<string>injured</string>
+	<key>athlete.number</key>
+	<string>number %@</string>
+	<key>athlete.weight.imperial</key>
+	<string>%1$@ pounds</string>
+	<key>league.app</key>
+	<string>League</string>
+	<key>match.period.final</key>
+	<string>Final score</string>
+	<key>match.period.name.Baseball</key>
+	<string>inning</string>
+	<key>match.period.name.Basketball</key>
+	<string>quarter</string>
+	<key>match.period.name.Football</key>
+	<string>quarter</string>
+	<key>match.period.name.Golf</key>
+	<string>day</string>
+	<key>match.period.name.Hockey</key>
+	<string>period</string>
+	<key>match.period.name.Soccer</key>
+	<string>half</string>
+	<key>match.period.name.Tennis</key>
+	<string>game</string>
+	<key>scores.source</key>
+	<string>Score source</string>
+	<key>team.record.losses.plural</key>
+	<string>%@ losses</string>
+	<key>team.record.losses.singular</key>
+	<string>%@ loss</string>
+	<key>team.record.ties.plural</key>
+	<string>%@ ties</string>
+	<key>team.record.ties.singular</key>
+	<string>%@ tie</string>
+	<key>team.record.wins.plural</key>
+	<string>%@ wins</string>
+	<key>team.record.wins.singular</key>
+	<string>%@ win</string>
+	<key>team.standings.GamesBehind</key>
+	<string>Games behind</string>
+	<key>team.standings.Losses</key>
+	<string>Losses</string>
+	<key>team.standings.WinPercentage</key>
+	<string>Win percentage</string>
+	<key>team.standings.Wins</key>
+	<string>Wins</string>
+</dict>
+</plist>

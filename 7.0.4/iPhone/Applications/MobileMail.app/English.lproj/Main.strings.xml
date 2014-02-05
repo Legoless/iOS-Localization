@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNTS</key>
+	<string>Accounts</string>
+	<key>ACCOUNT_FAVORITES_SELECTED_1</key>
+	<string>%@ Item</string>
+	<key>ACCOUNT_FAVORITES_SELECTED_N</key>
+	<string>%@ Items</string>
+	<key>ACCOUNT_IN_USE</key>
+	<string>The account %@ is in use on another device.</string>
+	<key>ACCOUNT_RESTRICTION</key>
+	<string>Account Restriction</string>
+	<key>ACCOUNT_RESTRICTION_DESCRIPTION_IPAD</key>
+	<string>This iPad is restricted from creating mail accounts.</string>
+	<key>ACCOUNT_RESTRICTION_DESCRIPTION_IPHONE</key>
+	<string>This iPhone is restricted from creating mail accounts.</string>
+	<key>ACCOUNT_RESTRICTION_DESCRIPTION_IPHONE_SIMULATOR</key>
+	<string>This Simulator is restricted from creating mail accounts.</string>
+	<key>ACCOUNT_RESTRICTION_DESCRIPTION_IPOD</key>
+	<string>This iPod is restricted from creating mail accounts.</string>
+	<key>ADD_MAILBOX_BUTTON</key>
+	<string>Add Mailbox…</string>
+	<key>ADD_VIP</key>
+	<string>Add to VIP</string>
+	<key>ALL_DRAFTS</key>
+	<string>All Drafts</string>
+	<key>ALL_INBOXES_LONG</key>
+	<string>All Inboxes</string>
+	<key>ALL_INBOXES_SHORT</key>
+	<string>All Inboxes</string>
+	<key>ALL_MAILBOXES</key>
+	<string>All Mailboxes</string>
+	<key>ALL_OTHER_MAILBOXES</key>
+	<string>Other Mailboxes</string>
+	<key>ALL_SENT</key>
+	<string>All Sent</string>
+	<key>ALL_TRASH</key>
+	<string>All Trash</string>
+	<key>AND_N_MORE</key>
+	<string> &amp; %@ more…</string>
+	<key>ARCHIVE</key>
+	<string>Archive</string>
+	<key>ARCHIVE_ALL_BUTTON</key>
+	<string>Archive All</string>
+	<key>ARCHIVE_ALL_CONFIRMATION</key>
+	<string>Archive All</string>
+	<key>ARCHIVE_BUTTON</key>
+	<string>Archive</string>
+	<key>ARCHIVE_BUTTON_COUNT_FORMAT_SHORT</key>
+	<string>Archive (%@)</string>
+	<key>ARCHIVE_BUTTON_SHORT</key>
+	<string>Archive</string>
+	<key>ARCHIVE_EMAIL</key>
+	<string>Archive Message</string>
+	<key>ARCHIVE_SELECTED_EMAILS</key>
+	<string>Archive Selected Messages</string>
+	<key>ATTACHMENT_INVALID_URL</key>
+	<string>Mail can’t open the page because the address is invalid</string>
+	<key>ATTACHMENT_LARGE_TITLE</key>
+	<string>This attachment is too large to be viewed.</string>
+	<key>ATTACHMENT_UNKNOWN_TYPE_TITLE</key>
+	<string>Mail cannot open this attachment.</string>
+	<key>BCC_HEADER</key>
+	<string>Bcc:</string>
+	<key>BCC_TITLE</key>
+	<string>Bcc</string>
+	<key>BROWSER_INDEX</key>
+	<string>%@ of %@</string>
+	<key>BYTES_DOWNLOADING</key>
+	<string>Downloading remaining %@</string>
+	<key>BYTES_REMAINING</key>
+	<string>Download remaining %@</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CC_HEADER</key>
+	<string>Cc:</string>
+	<key>CC_LABEL</key>
+	<string>CC</string>
+	<key>CC_LABEL_SHORT</key>
+	<string>CC</string>
+	<key>CC_TITLE</key>
+	<string>Cc</string>
+	<key>CHECKING_FOR_MAIL</key>
+	<string>Checking for Mail…|Connecting…</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>COUNT_REMAINING_ON_SERVER</key>
+	<string>%@ more messages on server</string>
+	<key>CURRENT_MAILBOX</key>
+	<string>Current Mailbox</string>
+	<key>DATE_HEADER</key>
+	<string>Date:</string>
+	<key>DECRYPTION_ERROR</key>
+	<string>Decryption Error</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_ALL_BUTTON</key>
+	<string>Delete All</string>
+	<key>DELETE_ALL_CONFIRMATION</key>
+	<string>Delete All</string>
+	<key>DELETE_BUTTON</key>
+	<string>Delete</string>
+	<key>DELETE_BUTTON_COUNT_FORMAT_SHORT</key>
+	<string>Delete (%@)</string>
+	<key>DELETE_BUTTON_SHORT</key>
+	<string>Delete</string>
+	<key>DELETE_EMAIL</key>
+	<string>Delete Message</string>
+	<key>DELETE_MAILBOX</key>
+	<string>Delete Mailbox</string>
+	<key>DELETE_SELECTED_EMAILS</key>
+	<string>Delete Selected Messages</string>
+	<key>DETAILS</key>
+	<string>Details</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DONT_TRUST</key>
+	<string>Don’t Trust</string>
+	<key>DOWNLOADING_FULL_MESSAGE</key>
+	<string>Downloading full message</string>
+	<key>DOWNLOAD_FULL_MESSAGE</key>
+	<string>Download full message</string>
+	<key>DOWNLOAD_FULL_MESSAGE_FAILED</key>
+	<string>Unable to load full message</string>
+	<key>DOWNLOAD_REST_OF_MESSAGE</key>
+	<string>Download rest of message first?</string>
+	<key>DRAFTS_FORMAT</key>
+	<string>%@ Draft</string>
+	<key>DRAFTS_PLURAL_FORMAT</key>
+	<string>%@ Drafts</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EDIT_MAILBOX</key>
+	<string>Edit Mailbox</string>
+	<key>ENCRYPTED</key>
+	<string>Encrypted</string>
+	<key>ENCRYPTED_DESCRIPTION</key>
+	<string>The sender encrypted this message.</string>
+	<key>ERROR_CREATING_MAILBOX_DESCRIPTION</key>
+	<string>The mailbox couldn’t be created on the server.</string>
+	<key>ERROR_CREATING_MAILBOX_TITLE</key>
+	<string>Unable to Create Mailbox</string>
+	<key>ERROR_DATA_BLOCKED_BY_CALL</key>
+	<string>A data connection cannot be established since a call is currently active.</string>
+	<key>ERROR_DELETING_MAILBOX_DESCRIPTION</key>
+	<string>The mailbox could not be deleted on the server.</string>
+	<key>ERROR_DELETING_MAILBOX_TITLE</key>
+	<string>Unable to Delete Mailbox</string>
+	<key>ERROR_DOWNLOAD_ATTACHMENTS_TITLE</key>
+	<string>Cannot Download Attachment</string>
+	<key>ERROR_MOVING_MAILBOX_DESCRIPTION</key>
+	<string>The mailbox could not be moved on the server.</string>
+	<key>ERROR_MOVING_MAILBOX_TITLE</key>
+	<string>Unable to Move Mailbox</string>
+	<key>ERROR_RENAMING_MAILBOX_DESCRIPTION</key>
+	<string>The mailbox couldn’t be renamed on the server.</string>
+	<key>ERROR_RENAMING_MAILBOX_TITLE</key>
+	<string>Unable to Rename Mailbox</string>
+	<key>ERROR_TRANSFERRING_LONG_FORMAT</key>
+	<string>The message could not be moved to the mailbox %@.</string>
+	<key>ERROR_TRANSFERRING_LONG_FORMAT_MULTIPLE</key>
+	<string>The messages could not be moved to the mailbox %@.</string>
+	<key>ERROR_TRANSFERRING_TITLE</key>
+	<string>Unable to Move Message</string>
+	<key>ERROR_TRANSFERRING_TITLE_MULTIPLE</key>
+	<string>Unable to Move Messages</string>
+	<key>ESTABLISHING_CONNECTION</key>
+	<string>Connecting…|Checking for Mail…</string>
+	<key>FAVORITES</key>
+	<string>Favorites</string>
+	<key>FLAGGED_FORMAT</key>
+	<string>%@ Flagged</string>
+	<key>FLAGGED_MAILBOX</key>
+	<string>Flagged</string>
+	<key>FLAGGED_NAVIGATION_TITLE</key>
+	<string>Flagged</string>
+	<key>FLAGGED_PLURAL_FORMAT</key>
+	<string>%@ Flagged</string>
+	<key>FORWARD</key>
+	<string>Forward</string>
+	<key>FROM_HEADER</key>
+	<string>From:</string>
+	<key>FROM_LABEL</key>
+	<string>FROM</string>
+	<key>FROM_TITLE</key>
+	<string>Sender</string>
+	<key>GENERIC_DELIVERY_ERROR_MESSAGE</key>
+	<string>An error occurred while delivering this message.</string>
+	<key>GENERIC_INCOMING_ERROR_MESSAGE</key>
+	<string>The connection to the server failed.</string>
+	<key>HAS_ATTACHMENTS_MAILBOX</key>
+	<string>Attachments</string>
+	<key>HAS_ATTACHMENTS_NAVIGATION_TITLE</key>
+	<string>Attachments</string>
+	<key>HIDE_DETAILS</key>
+	<string>Hide</string>
+	<key>INBOXES</key>
+	<string>Inboxes</string>
+	<key>INCLUDES_ME_MAILBOX</key>
+	<string>To or CC</string>
+	<key>INCLUDES_ME_NAVIGATION_TITLE</key>
+	<string>To or CC</string>
+	<key>INCLUDE_ATTACHMENTS</key>
+	<string>Include attachments from original message?</string>
+	<key>INSTALL</key>
+	<string>Install</string>
+	<key>INSTALL_CERTIFICATE</key>
+	<string>Install Certificate</string>
+	<key>INVALID_RECIPIENT_MESSAGE</key>
+	<string>The server rejected one of the recipient’s addresses.  The message has been placed in your Outbox.</string>
+	<key>INVALID_SENDER_MESSAGE</key>
+	<string>The sender address was invalid.</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>LOAD_REMOTE_IMAGES</key>
+	<string>Load All Images</string>
+	<key>MAILBOXES</key>
+	<string>Mailboxes</string>
+	<key>MAILBOXES_BACK_BUTTON</key>
+	<string>Mailboxes</string>
+	<key>MAILBOX_ALREADY_EXISTS</key>
+	<string>The mailbox “%@” already exists.</string>
+	<key>MAILBOX_DELETE_DESCRIPTION_FORMAT</key>
+	<string>Deleting the mailbox “%@” will remove its messages from your account.</string>
+	<key>MAILBOX_LOCATION</key>
+	<string>Mailbox Location</string>
+	<key>MAILBOX_NAME_PLACEHOLDER</key>
+	<string>Name</string>
+	<key>MAILBOX_UNREAD_COUNT_FORMAT</key>
+	<string>%1$@ (%2$@)</string>
+	<key>MAILBOX_WITH_ACCOUNT</key>
+	<string>%@ – %@</string>
+	<key>MAILBOX_WITH_SUBMAILBOXES_DELETE_DESCRIPTION_FORMAT</key>
+	<string>Deleting the mailbox “%@” will remove its messages and sub-mailboxes from your account.</string>
+	<key>MARK_ALL_BUTTON</key>
+	<string>Mark All</string>
+	<key>MARK_BUTTON</key>
+	<string>Mark</string>
+	<key>MARK_BUTTON_COUNT_FORMAT_SHORT</key>
+	<string>Mark (%@)</string>
+	<key>MARK_BUTTON_SHORT</key>
+	<string>Mark</string>
+	<key>MARK_EMAIL_FLAGGED</key>
+	<string>Flag</string>
+	<key>MARK_EMAIL_FLAGGED_PLURAL</key>
+	<string>Flag</string>
+	<key>MARK_EMAIL_JUNK</key>
+	<string>Move to Junk</string>
+	<key>MARK_EMAIL_JUNK_PLURAL</key>
+	<string>Move to Junk</string>
+	<key>MARK_EMAIL_READ</key>
+	<string>Mark as Read</string>
+	<key>MARK_EMAIL_READ_PLURAL</key>
+	<string>Mark as Read</string>
+	<key>MARK_EMAIL_UNFLAGGED</key>
+	<string>Unflag</string>
+	<key>MARK_EMAIL_UNFLAGGED_PLURAL</key>
+	<string>Unflag</string>
+	<key>MARK_EMAIL_UNREAD</key>
+	<string>Mark as Unread</string>
+	<key>MARK_EMAIL_UNREAD_PLURAL</key>
+	<string>Mark as Unread</string>
+	<key>MESSAGE</key>
+	<string>Message</string>
+	<key>MESSAGES_SELECTED_1</key>
+	<string>%@ Selected</string>
+	<key>MESSAGES_SELECTED_N</key>
+	<string>%@ Selected</string>
+	<key>MESSAGE_PARTIALLY_DOWNLOADED</key>
+	<string>This message is only partially downloaded.</string>
+	<key>MESSAGE_SELECTION_ARCHIVE_TITLE</key>
+	<string>Select messages to archive or move.</string>
+	<key>MESSAGE_SELECTION_TITLE</key>
+	<string>Select messages to delete or move.</string>
+	<key>MESSAGE_SELECTION_TRASH_TITLE</key>
+	<string>Select messages to trash or move.</string>
+	<key>MESSAGE_UNVAILABLE</key>
+	<string>&lt;html&gt;&lt;body&gt;&lt;i&gt;&lt;font color="#888888"&gt;This message has not been downloaded from the server.&lt;/font&gt;&lt;/i&gt;&lt;/body&gt;&lt;/html&gt;</string>
+	<key>MINI_MALL_FETCH</key>
+	<string>Opening mailbox…</string>
+	<key>MOVE_ALL_BUTTON</key>
+	<string>Move All</string>
+	<key>MOVE_BUTTON</key>
+	<string>Move</string>
+	<key>MOVE_BUTTON_COUNT_FORMAT_SHORT</key>
+	<string>Move (%@)</string>
+	<key>MOVE_BUTTON_SHORT</key>
+	<string>Move</string>
+	<key>MOVE_MESSAGES_PROMPT</key>
+	<string>Move these messages to a new mailbox.</string>
+	<key>MOVE_MESSAGE_PROMPT</key>
+	<string>Move this message to a new mailbox.</string>
+	<key>MOVE_PLURAL</key>
+	<string> Move Messages…</string>
+	<key>MOVE_SINGULAR</key>
+	<string> Move Message…</string>
+	<key>MULTIPE_MESSAGES_MOVE_TITLE</key>
+	<string>Tap on a mailbox to move these messages.</string>
+	<key>MULTI_FILE</key>
+	<string>Attachments: %@</string>
+	<key>NEW_MAILBOX</key>
+	<string>New Mailbox</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>NO_BODY</key>
+	<string>This message has no content.</string>
+	<key>NO_FLAGGED_MAIL</key>
+	<string>No Flagged Mail</string>
+	<key>NO_FROM</key>
+	<string>No Sender</string>
+	<key>NO_INCLUDE</key>
+	<string>Don’t Include</string>
+	<key>NO_INTERNET_CONNECTION</key>
+	<string>No Internet connection available.</string>
+	<key>NO_MAIL</key>
+	<string>No Mail</string>
+	<key>NO_MESSAGES_TO_ME</key>
+	<string>No Mail Addressed to Me</string>
+	<key>NO_MESSAGES_WITH_ATTACHMENTS</key>
+	<string>No Mail with Attachments</string>
+	<key>NO_MESSAGE_SELECTED</key>
+	<string>No Message Selected</string>
+	<key>NO_RECIPIENT_MESSAGE</key>
+	<string>You did not specify any recipients.</string>
+	<key>NO_SEARCH_RESULTS</key>
+	<string>No results found.</string>
+	<key>NO_SUBJECT</key>
+	<string>No Subject</string>
+	<key>NO_TO</key>
+	<string>No Recipient</string>
+	<key>NO_UNREAD_MAIL</key>
+	<string>No Unread Mail</string>
+	<key>NO_VIP_MAIL</key>
+	<string>No VIP Mail</string>
+	<key>N_MESSAGES</key>
+	<string>%@ messages</string>
+	<key>N_MESSAGES_TITLE</key>
+	<string>%@ items</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ONE_MESSAGE_TITLE</key>
+	<string>1 item</string>
+	<key>ONE_REMAINING_ON_SERVER</key>
+	<string>1 more message on server</string>
+	<key>OPERATION_ARCHIVE_DESC</key>
+	<string>Archive</string>
+	<key>OPERATION_DELETE_DESC</key>
+	<string>Trash</string>
+	<key>OPERATION_FLAG_DESC</key>
+	<string>Flag</string>
+	<key>OPERATION_JUNK_DESC</key>
+	<string>Mark as Junk</string>
+	<key>OPERATION_NOT_JUNK_DESC</key>
+	<string>Mark as Not Junk</string>
+	<key>OPERATION_TRANSFER_DESC</key>
+	<string>Move</string>
+	<key>OVERWRITE_CERTIFICATE_DESCRIPTION_FORMAT</key>
+	<string>You already have an encryption certificate for “%@”.  Do you want to use this certificate instead?</string>
+	<key>PASSWORD_MISSING_TITLE</key>
+	<string>Password Missing</string>
+	<key>PASSWORD_PLACEHOLDER</key>
+	<string>Password</string>
+	<key>PREVIOUS_DRAFT_PICKER_NEW_MESSAGE</key>
+	<string>New Message</string>
+	<key>PREVIOUS_DRAFT_PICKER_NO_DRAFTS</key>
+	<string>No Drafts</string>
+	<key>PREVIOUS_DRAFT_PICKER_PREVIOUS_DRAFTS</key>
+	<string>Previous Drafts</string>
+	<key>PREVIOUS_DRAFT_PICKER_TITLE</key>
+	<string>Drafts</string>
+	<key>PRINT</key>
+	<string>Print</string>
+	<key>QUICK_LOOK</key>
+	<string>Quick Look</string>
+	<key>REMOTE_IMAGES_BLOCKED</key>
+	<string>This message contains unloaded images.</string>
+	<key>REMOVE</key>
+	<string>Remove</string>
+	<key>REMOVE_VIP</key>
+	<string>Remove from VIP</string>
+	<key>REPLY</key>
+	<string>Reply</string>
+	<key>REPLY_ALL</key>
+	<string>Reply All</string>
+	<key>REVERTING_CHANGE</key>
+	<string>Undoing last change…</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SAVE_IMAGE</key>
+	<string>Save Image</string>
+	<key>SAVE_N_ATTACHMENTS</key>
+	<string>Save %@ Attachments</string>
+	<key>SAVE_N_IMAGES</key>
+	<string>Save %@ Images</string>
+	<key>SAVE_N_VIDEOS</key>
+	<string>Save %@ Videos</string>
+	<key>SAVE_VIDEO</key>
+	<string>Save Video</string>
+	<key>SEARCHING_ALL</key>
+	<string>Searching All Mailboxes…</string>
+	<key>SEARCHING_ALL_NO_FAV_RESULTS</key>
+	<string>No results found yet. Continuing to search all mailboxes…</string>
+	<key>SEARCHING_SIMPLE</key>
+	<string>Searching…</string>
+	<key>SEARCH_ALL_MAILBOXES</key>
+	<string>Search</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_DAY</key>
+	<string>last day</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_DAY_OF_WEEK</key>
+	<string>'last' %@</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_DAY_OF_WEEK_ALT_1</key>
+	<string>'last' %@</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_DAY_OF_WEEK_ALT_2</key>
+	<string>'last' %@</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_DAY_OF_WEEK_ALT_3</key>
+	<string>'last' %@</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_MONTH</key>
+	<string>last month</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_NIGHT</key>
+	<string>last night</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_WEEK</key>
+	<string>last week</string>
+	<key>SEARCH_KEYWORD_DATE_LAST_YEAR</key>
+	<string>last year</string>
+	<key>SEARCH_KEYWORD_DATE_THIS_MONTH</key>
+	<string>this month</string>
+	<key>SEARCH_KEYWORD_DATE_TODAY</key>
+	<string>today</string>
+	<key>SEARCH_KEYWORD_DATE_YESTERDAY</key>
+	<string>yesterday</string>
+	<key>SEARCH_KEYWORD_FLAGGED</key>
+	<string>flagged</string>
+	<key>SEARCH_KEYWORD_UNREAD</key>
+	<string>unread</string>
+	<key>SEARCH_KEYWORD_VIP</key>
+	<string>vip</string>
+	<key>SEARCH_PROMPT_FORMAT</key>
+	<string>Search %@</string>
+	<key>SEARCH_RESULTS</key>
+	<string>Search</string>
+	<key>SEARCH_RESULTS_BROWSER_INDEX</key>
+	<string>%@ of %@ results</string>
+	<key>SEARCH_RESULT_BROWSER_INDEX</key>
+	<string>%@ of %@ result</string>
+	<key>SENDER_MAILBOX_FULL_MESSAGE</key>
+	<string>Your mailbox is full</string>
+	<key>SENDING</key>
+	<string>Sending</string>
+	<key>SEND_AGAIN</key>
+	<string>Send Again</string>
+	<key>SEND_EML</key>
+	<string>Send as .eml</string>
+	<key>SEND_EML_TRIAGE</key>
+	<string>Report Problem</string>
+	<key>SEPARATOR</key>
+	<string>, </string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SIGNATURE_ERROR</key>
+	<string>Signature Error</string>
+	<key>SIGNED</key>
+	<string>Signed</string>
+	<key>SIGNED_AND_ENCRYPTED_DESCRIPTION</key>
+	<string>The sender encrypted this message and signed it with a trusted certificate.</string>
+	<key>SIGNED_DESCRIPTION</key>
+	<string>The sender signed this message with a trusted certificate.</string>
+	<key>SINGLE_ACCOUNT_MAILBOXES</key>
+	<string>Mailboxes</string>
+	<key>SINGLE_FILE</key>
+	<string>Attachment: %@</string>
+	<key>SINGLE_MESSAGE_MOVE_TITLE</key>
+	<string>Tap on a mailbox to move this message.</string>
+	<key>SUBJECT_HEADER</key>
+	<string>Subject:</string>
+	<key>SWIPE_ACTIONS</key>
+	<string>More</string>
+	<key>SWIPE_ACTIONS_PADDED</key>
+	<string>More
+ </string>
+	<key>SWIPE_ARCHIVE_COUNT</key>
+	<string>Archive
+(%@)</string>
+	<key>SWIPE_ARCHIVE_COUNT_SHORT</key>
+	<string>Archive (%@)</string>
+	<key>SWIPE_DELETE_COUNT</key>
+	<string>Delete
+(%@)</string>
+	<key>SWIPE_DELETE_COUNT_SHORT</key>
+	<string>Delete (%@)</string>
+	<key>SWIPE_TRASH_COUNT</key>
+	<string>Trash
+(%@)</string>
+	<key>SWIPE_TRASH_COUNT_SHORT</key>
+	<string>Trash (%@)</string>
+	<key>THREAD</key>
+	<string>Thread</string>
+	<key>THREAD_FINAL_ITEM</key>
+	<string> &amp; %@</string>
+	<key>THREAD_INITIAL_ITEM</key>
+	<string>%@</string>
+	<key>THREAD_NON_FINAL_ITEM</key>
+	<string>, %@</string>
+	<key>TOTAL_COUNT</key>
+	<string>%@ messages total, %@ unread</string>
+	<key>TOTAL_COUNT_NO_UNREAD</key>
+	<string>%@ messages total</string>
+	<key>TOTAL_COUNT_SINGLE</key>
+	<string>1 message total, %@ unread</string>
+	<key>TOTAL_COUNT_SINGLE_NO_UNREAD</key>
+	<string>1 message total</string>
+	<key>TOTAL_COUNT_SMALLER</key>
+	<string>%@ messages, %@ unread</string>
+	<key>TOTAL_COUNT_SMALLER_SINGLE</key>
+	<string>1 message, %@ unread</string>
+	<key>TOTAL_COUNT_SMALLEST</key>
+	<string>%@; %@ unread</string>
+	<key>TO_HEADER</key>
+	<string>To:</string>
+	<key>TO_LABEL</key>
+	<string>TO</string>
+	<key>TO_LABEL_SHORT</key>
+	<string>TO</string>
+	<key>TO_ME_MAILBOX</key>
+	<string>To Me</string>
+	<key>TO_ME_NAVIGATION_TITLE</key>
+	<string>To Me</string>
+	<key>TO_TITLE</key>
+	<string>Recipient</string>
+	<key>TRASH</key>
+	<string>Trash</string>
+	<key>TRASH_ALL_BUTTON</key>
+	<string>Trash All</string>
+	<key>TRASH_ALL_CONFIRMATION</key>
+	<string>Trash All</string>
+	<key>TRASH_BUTTON</key>
+	<string>Trash</string>
+	<key>TRASH_BUTTON_COUNT_FORMAT_SHORT</key>
+	<string>Trash (%@)</string>
+	<key>TRASH_BUTTON_SHORT</key>
+	<string>Trash</string>
+	<key>TRASH_EMAIL</key>
+	<string>Trash Message</string>
+	<key>TRASH_SELECTED_EMAILS</key>
+	<string>Trash Selected Messages</string>
+	<key>TRUST</key>
+	<string>Trust</string>
+	<key>UNREAD_FORMAT</key>
+	<string>%@ Unread</string>
+	<key>UNREAD_MAILBOX</key>
+	<string>Unread</string>
+	<key>UNREAD_NAVIGATION_TITLE</key>
+	<string>Unread</string>
+	<key>UNREAD_PLURAL_FORMAT</key>
+	<string>%@ Unread</string>
+	<key>UNRECOVERABLE_SERVER_ERROR</key>
+	<string>Server error.
+Contact your server administrator.</string>
+	<key>UNSENT_MESSAGES_FORMAT</key>
+	<string>%@ Unsent Messages</string>
+	<key>UNSENT_MESSAGE_FORMAT</key>
+	<string>%@ Unsent Message</string>
+	<key>UNTRUSTED_SIGNATURE</key>
+	<string>Untrusted Signature</string>
+	<key>UPDATED_AT_TIME_FORMAT</key>
+	<string>Updated at %@</string>
+	<key>UPDATED_JUST_NOW</key>
+	<string>Updated Just Now</string>
+	<key>UPDATED_N_MINUTES_AGO_FORMAT</key>
+	<string>Updated %@ minutes ago</string>
+	<key>UPDATED_ON_DATE_FORMAT</key>
+	<string>Updated on %@</string>
+	<key>UPDATED_WEEKDAY_FORMAT</key>
+	<string>Updated %@</string>
+	<key>UPDATED_YESTERDAY</key>
+	<string>Updated Yesterday</string>
+	<key>VIEW_CERTIFICATE</key>
+	<string>View Certificate</string>
+	<key>VIP_ADD_PERSON</key>
+	<string>Add VIP…</string>
+	<key>VIP_ADD_PERSON_NO_ELLIPSIS</key>
+	<string>Add VIP</string>
+	<key>VIP_ALERTS</key>
+	<string>VIP Alerts</string>
+	<key>VIP_CUSTOM_ALERT_EXPLANATION</key>
+	<string>Set custom alerts for new VIP mail in Notifications Settings.</string>
+	<key>VIP_EDIT</key>
+	<string>VIP List</string>
+	<key>VIP_FIRST_PART_EXPLANATION</key>
+	<string>Quickly access mail from important people in your VIP Mailbox.</string>
+	<key>VIP_MAILBOX</key>
+	<string>VIP</string>
+	<key>VIP_NAVIGATION_TITLE</key>
+	<string>VIP</string>
+	<key>WAS_DOWNLOADED_AS_PLAIN</key>
+	<string>This message was downloaded as plain text.</string>
+	<key>YES</key>
+	<string>Yes</string>
+	<key>YES_INCLUDE</key>
+	<string>Include</string>
+	<key>ZERO_MESSAGE_TITLE</key>
+	<string>0 items</string>
+</dict>
+</plist>

@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%1$d days %2$d hours %3$d minutes %4$d seconds</key>
+	<string>%1$d days %2$d hours %3$d minutes %4$d seconds</string>
+	<key>%1$d hours %2$d minutes %3$d seconds</key>
+	<string>%1$d hours %2$d minutes %3$d seconds</string>
+	<key>%1$d minutes %2$d seconds</key>
+	<string>%1$d minutes %2$d seconds</string>
+	<key>%1$d seconds</key>
+	<string>%1$d seconds</string>
+	<key>%@ %@×%@ pixels</key>
+	<string>%@ %@×%@ pixels</string>
+	<key>%@ (%@ Internet plug-in)</key>
+	<string>%@ (%@ Internet plug-in)</string>
+	<key>%@ (%@)</key>
+	<string>%@ (%@)</string>
+	<key>%@ (%@-%@)</key>
+	<string>%@ (%@-%@)</string>
+	<key>%@ CC</key>
+	<string>%@ CC</string>
+	<key>%@ Easy Reader</key>
+	<string>%@ Easy Reader</string>
+	<key>%@ Networking</key>
+	<string>%@ Networking</string>
+	<key>%@ Offline Storage</key>
+	<string>%@ Offline Storage</string>
+	<key>%@ SDH</key>
+	<string>%@ SDH</string>
+	<key>%@ Shared Worker</key>
+	<string>%@ Shared Worker</string>
+	<key>%@ Web Content</key>
+	<string>%@ Web Content</string>
+	<key>%d files</key>
+	<string>%d files</string>
+	<key>%zu Items</key>
+	<string>%zu Items</string>
+	<key>0 Items</key>
+	<string>0 Items</string>
+	<key>1 Item</key>
+	<string>1 Item</string>
+	<key>1024 (Medium Grade)</key>
+	<string>1024 (Medium Grade)</string>
+	<key>2048 (High Grade)</key>
+	<string>2048 (High Grade)</string>
+	<key>512 (Low Grade)</key>
+	<string>512 (Low Grade)</string>
+	<key>&lt;filename&gt; %d×%d pixels</key>
+	<string>&lt;filename&gt; %d×%d pixels</string>
+	<key>Align Left (Undo action name)</key>
+	<string>Align Left</string>
+	<key>Align Right (Undo action name)</key>
+	<string>Align Right</string>
+	<key>Auto (Recommended)</key>
+	<string>Auto (Recommended)</string>
+	<key>Back</key>
+	<string>Back</string>
+	<key>Blocked Plug-In (Blocked by page's Content Security Policy)</key>
+	<string>Blocked Plug-in</string>
+	<key>Blocked Plug-In (Insecure plug-in)</key>
+	<string>Blocked Plug-in</string>
+	<key>Bold</key>
+	<string>Bold</string>
+	<key>Bold (Undo action name)</key>
+	<string>Bold</string>
+	<key>Capitalize</key>
+	<string>Capitalize</string>
+	<key>Center (Undo action name)</key>
+	<string>Center</string>
+	<key>Change Attributes (Undo action name)</key>
+	<string>Change Attributes</string>
+	<key>Check Document Now</key>
+	<string>Check Document Now</string>
+	<key>Check Grammar With Spelling</key>
+	<string>Check Grammar With Spelling</string>
+	<key>Check Spelling While Typing</key>
+	<string>Check Spelling While Typing</string>
+	<key>Choose File</key>
+	<string>Choose File</string>
+	<key>Choose Files</key>
+	<string>Choose Files</string>
+	<key>Choose Media (Multiple)</key>
+	<string>Choose Photos</string>
+	<key>Choose Media (Single)</key>
+	<string>Choose Photo</string>
+	<key>Clear Recent Searches</key>
+	<string>Clear Recent Searches</string>
+	<key>Click to exit full screen mode</key>
+	<string>Click to exit full screen mode</string>
+	<key>Click to restart</key>
+	<string>Click to restart</string>
+	<key>Content with specified MIME type can’t be shown</key>
+	<string>Content with specified MIME type can’t be shown</string>
+	<key>Controls</key>
+	<string>Controls</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Copy Audio Address</key>
+	<string>Copy Audio Address</string>
+	<key>Copy Image</key>
+	<string>Copy Image</string>
+	<key>Copy Link</key>
+	<string>Copy Link</string>
+	<key>Copy Video Address</key>
+	<string>Copy Video Address</string>
+	<key>Correct Spelling Automatically</key>
+	<string>Correct Spelling Automatically</string>
+	<key>Create Link (Undo action name)</key>
+	<string>Create Link</string>
+	<key>Cut</key>
+	<string>Cut</string>
+	<key>Cut (Undo action name)</key>
+	<string>Cut</string>
+	<key>Default</key>
+	<string>Default</string>
+	<key>Delete (Undo action name)</key>
+	<string>Delete</string>
+	<key>Details</key>
+	<string>Details</string>
+	<key>Dictation (Undo action name)</key>
+	<string>Dictation</string>
+	<key>Download Audio</key>
+	<string>Download Audio</string>
+	<key>Download Image</key>
+	<string>Download Image</string>
+	<key>Download Linked File</key>
+	<string>Download Linked File</string>
+	<key>Download Video</key>
+	<string>Download Video</string>
+	<key>Drag (Undo action name)</key>
+	<string>Drag</string>
+	<key>Enter Fullscreen</key>
+	<string>Enter Fullscreen</string>
+	<key>Exit Fullscreen</key>
+	<string>Exit Fullscreen</string>
+	<key>Finder</key>
+	<string>Finder</string>
+	<key>Font</key>
+	<string>Font</string>
+	<key>Format Block (Undo action name)</key>
+	<string>Formatting</string>
+	<key>Forward</key>
+	<string>Forward</string>
+	<key>Frame load interrupted</key>
+	<string>Frame load interrupted</string>
+	<key>HTML content</key>
+	<string>HTML content</string>
+	<key>Hide Spelling and Grammar</key>
+	<string>Hide Spelling and Grammar</string>
+	<key>Hide Substitutions</key>
+	<string>Hide Substitutions</string>
+	<key>ISO-8859-1</key>
+	<string>ISO-8859-1</string>
+	<key>Ignore Grammar</key>
+	<string>Ignore Grammar</string>
+	<key>Ignore Spelling</key>
+	<string>Ignore Spelling</string>
+	<key>Indent (Undo action name)</key>
+	<string>Indent</string>
+	<key>Insert List (Undo action name)</key>
+	<string>Insert List</string>
+	<key>Inspect Element</key>
+	<string>Inspect Element</string>
+	<key>Italic</key>
+	<string>Italic</string>
+	<key>Italics (Undo action name)</key>
+	<string>Italics</string>
+	<key>Java is unavailable</key>
+	<string>Java is unavailable</string>
+	<key>Justify (Undo action name)</key>
+	<string>Justify</string>
+	<key>Key from %@</key>
+	<string>Key from %@</string>
+	<key>Learn Spelling</key>
+	<string>Learn Spelling</string>
+	<key>Left to Right</key>
+	<string>Left to Right</string>
+	<key>Live Broadcast</key>
+	<string>Live Broadcast</string>
+	<key>Loading...</key>
+	<string>Loading...</string>
+	<key>Look Up in Dictionary</key>
+	<string>Look Up in Dictionary</string>
+	<key>Look Up “%@”</key>
+	<string>Look Up “%@”</string>
+	<key>Look Up “&lt;selection&gt;”</key>
+	<string>Look Up “&lt;selection&gt;”</string>
+	<key>Loop</key>
+	<string>Loop</string>
+	<key>Loosen Kerning (Undo action name)</key>
+	<string>Loosen Kerning</string>
+	<key>Lower Baseline (Undo action name)</key>
+	<string>Lower Baseline</string>
+	<key>Make Lower Case</key>
+	<string>Make Lower Case</string>
+	<key>Make Upper Case</key>
+	<string>Make Upper Case</string>
+	<key>Missing Plug-in</key>
+	<string>Missing Plug-in</string>
+	<key>Mute</key>
+	<string>Mute</string>
+	<key>No Guesses Found</key>
+	<string>No Guesses Found</string>
+	<key>No recent searches</key>
+	<string>No recent searches</string>
+	<key>Not allowed to use restricted network port</key>
+	<string>Not allowed to use restricted network port</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>Open Audio in New Window</key>
+	<string>Open Audio in New Window</string>
+	<key>Open Frame in New Window</key>
+	<string>Open Frame in New Window</string>
+	<key>Open Image in New Window</key>
+	<string>Open Image in New Window</string>
+	<key>Open Link</key>
+	<string>Open Link</string>
+	<key>Open Link in New Window</key>
+	<string>Open Link in New Window</string>
+	<key>Open Video in New Window</key>
+	<string>Open Video in New Window</string>
+	<key>Open with %@</key>
+	<string>Open with %@</string>
+	<key>Outdent (Undo action name)</key>
+	<string>Outdent</string>
+	<key>Outline</key>
+	<string>Outline</string>
+	<key>Outline (Undo action name)</key>
+	<string>Outline</string>
+	<key>Paragraph Direction</key>
+	<string>Paragraph Direction</string>
+	<key>Paste</key>
+	<string>Paste</string>
+	<key>Paste (Undo action name)</key>
+	<string>Paste</string>
+	<key>Paste Font (Undo action name)</key>
+	<string>Paste Font</string>
+	<key>Paste Ruler (Undo action name)</key>
+	<string>Paste Ruler</string>
+	<key>Pause</key>
+	<string>Pause</string>
+	<key>Play</key>
+	<string>Play</string>
+	<key>Play movie in fullscreen mode</key>
+	<string>Play movie in fullscreen mode</string>
+	<key>Plug-in Failure</key>
+	<string>Plug-in Failure</string>
+	<key>Plug-in cancelled</key>
+	<string>Plug-in cancelled</string>
+	<key>Plug-in handled load</key>
+	<string>Plug-in handled load</string>
+	<key>Portable Document Format</key>
+	<string>Portable Document Format</string>
+	<key>PostScript</key>
+	<string>PostScript</string>
+	<key>Raise Baseline (Undo action name)</key>
+	<string>Raise Baseline</string>
+	<key>Recent Searches</key>
+	<string>Recent Searches</string>
+	<key>Reload</key>
+	<string>Reload</string>
+	<key>Reset</key>
+	<string>Reset</string>
+	<key>Right to Left</key>
+	<string>Right to Left</string>
+	<key>Search in Spotlight</key>
+	<string>Search in Spotlight</string>
+	<key>Search with %@</key>
+	<string>Search with %@</string>
+	<key>Search with Google</key>
+	<string>Search with Google</string>
+	<key>Selection Direction</key>
+	<string>Selection Direction</string>
+	<key>Set Background Color (Undo action name)</key>
+	<string>Set Background Color</string>
+	<key>Set Color (Undo action name)</key>
+	<string>Set Color</string>
+	<key>Set Font (Undo action name)</key>
+	<string>Set Font</string>
+	<key>Set Traditional Character Shape (Undo action name)</key>
+	<string>Set Traditional Character Shape</string>
+	<key>Set Writing Direction (Undo action name)</key>
+	<string>Set Writing Direction</string>
+	<key>Show Colors</key>
+	<string>Show Colors</string>
+	<key>Show Fonts</key>
+	<string>Show Fonts</string>
+	<key>Show Spelling and Grammar</key>
+	<string>Show Spelling and Grammar</string>
+	<key>Show Substitutions</key>
+	<string>Show Substitutions</string>
+	<key>Smart Copy/Paste</key>
+	<string>Smart Copy/Paste</string>
+	<key>Smart Dashes</key>
+	<string>Smart Dashes</string>
+	<key>Smart Links</key>
+	<string>Smart Links</string>
+	<key>Smart Quotes</key>
+	<string>Smart Quotes</string>
+	<key>Snapshotted Plug-In</key>
+	<string>Snapshotted Plug-In</string>
+	<key>Speech</key>
+	<string>Speech</string>
+	<key>Spelling and Grammar</key>
+	<string>Spelling and Grammar</string>
+	<key>Start Debugging JavaScript</key>
+	<string>Start Debugging JavaScript</string>
+	<key>Start Profiling JavaScript</key>
+	<string>Start Profiling JavaScript</string>
+	<key>Start Speaking</key>
+	<string>Start Speaking</string>
+	<key>Stop</key>
+	<string>Stop</string>
+	<key>Stop Debugging JavaScript</key>
+	<string>Stop Debugging JavaScript</string>
+	<key>Stop Profiling JavaScript</key>
+	<string>Stop Profiling JavaScript</string>
+	<key>Stop Speaking</key>
+	<string>Stop Speaking</string>
+	<key>Styles...</key>
+	<string>Styles...</string>
+	<key>Submit</key>
+	<string>Submit</string>
+	<key>Submit (input element)</key>
+	<string>Submit</string>
+	<key>Subscript (Undo action name)</key>
+	<string>Subscript</string>
+	<key>Substitutions</key>
+	<string>Substitutions</string>
+	<key>Subtitles</key>
+	<string>Subtitles</string>
+	<key>Superscript (Undo action name)</key>
+	<string>Superscript</string>
+	<key>Text Replacement</key>
+	<string>Text Replacement</string>
+	<key>The URL can’t be shown</key>
+	<string>The URL can’t be shown</string>
+	<key>The current location cannot be found.</key>
+	<string>The current location cannot be found.</string>
+	<key>The plug-in can’t be found</key>
+	<string>The plug-in can’t be found</string>
+	<key>The plug-in can’t be loaded</key>
+	<string>The plug-in can’t be loaded</string>
+	<key>The user name or password you entered for area “%@” on %@ was incorrect. Make sure you’re entering them correctly, and then try again.</key>
+	<string>The user name or password you entered for area “%@” on %@ was incorrect. Make sure you’re entering them correctly, and then try again.</string>
+	<key>The user name or password you entered for the %@ proxy server %@ was incorrect. Make sure you’re entering them correctly, and then try again.</key>
+	<string>The user name or password you entered for the %@ proxy server %@ was incorrect. Make sure you’re entering them correctly, and then try again.</string>
+	<key>The user name or password you entered for this area on %@ was incorrect. Make sure you’re entering them correctly, and then try again.</key>
+	<string>The user name or password you entered for this area on %@ was incorrect. Make sure you’re entering them correctly, and then try again.</string>
+	<key>This is a searchable index. Enter search keywords: </key>
+	<string>This is a searchable index. Enter search keywords: </string>
+	<key>Tighten Kerning (Undo action name)</key>
+	<string>Tighten Kerning</string>
+	<key>To view this page, you must log in to area “%@” on %@.</key>
+	<string>To view this page, you must log in to area “%@” on %@.</string>
+	<key>To view this page, you must log in to the %@ proxy server %@.</key>
+	<string>To view this page, you must log in to the %@ proxy server %@.</string>
+	<key>To view this page, you must log in to this area on %@:</key>
+	<string>To view this page, you must log in to this area on %@:</string>
+	<key>Transformations</key>
+	<string>Transformations</string>
+	<key>Turn Off Kerning (Undo action name)</key>
+	<string>Turn Off Kerning</string>
+	<key>Turn Off Ligatures (Undo action name)</key>
+	<string>Turn Off Ligatures</string>
+	<key>Typing (Undo action name)</key>
+	<string>Typing</string>
+	<key>Underline</key>
+	<string>Underline</string>
+	<key>Underline (Undo action name)</key>
+	<string>Underline</string>
+	<key>Unknown (filesize)</key>
+	<string>Unknown</string>
+	<key>Unknown (text track)</key>
+	<string>Unknown</string>
+	<key>Unlink (Undo action name)</key>
+	<string>Unlink</string>
+	<key>Unscript (Undo action name)</key>
+	<string>Unscript</string>
+	<key>Use All Ligatures (Undo action name)</key>
+	<string>Use All Ligatures</string>
+	<key>Use Standard Kerning (Undo action name)</key>
+	<string>Use Standard Kerning</string>
+	<key>Use Standard Ligatures (Undo action name)</key>
+	<string>Use Standard Ligatures</string>
+	<key>Web Inspector — %@</key>
+	<string>Web Inspector — %@</string>
+	<key>WebKit built-in PDF</key>
+	<string>WebKit built-in PDF</string>
+	<key>WebKit encountered an internal error</key>
+	<string>WebKit encountered an internal error</string>
+	<key>Your login information will be sent securely.</key>
+	<string>Your login information will be sent securely.</string>
+	<key>Your password will be sent unencrypted.</key>
+	<string>Your password will be sent unencrypted.</string>
+	<key>accepted</key>
+	<string>accepted</string>
+	<key>activate</key>
+	<string>activate</string>
+	<key>alert</key>
+	<string>alert</string>
+	<key>alert dialog</key>
+	<string>alert dialog</string>
+	<key>application</key>
+	<string>application</string>
+	<key>application status</key>
+	<string>application status</string>
+	<key>article</key>
+	<string>article</string>
+	<key>audio element playback controls and status display</key>
+	<string>audio element playback controls and status display</string>
+	<key>audio playback</key>
+	<string>audio playback</string>
+	<key>back 30 seconds</key>
+	<string>back 30 seconds</string>
+	<key>bad gateway</key>
+	<string>bad gateway</string>
+	<key>bad request</key>
+	<string>bad request</string>
+	<key>banner</key>
+	<string>banner</string>
+	<key>begin playback</key>
+	<string>begin playback</string>
+	<key>check</key>
+	<string>check</string>
+	<key>client error</key>
+	<string>client error</string>
+	<key>complementary</key>
+	<string>complementary</string>
+	<key>conflict</key>
+	<string>conflict</string>
+	<key>content information</key>
+	<string>content information</string>
+	<key>continue</key>
+	<string>continue</string>
+	<key>created</key>
+	<string>created</string>
+	<key>current movie status</key>
+	<string>current movie status</string>
+	<key>current movie time in seconds</key>
+	<string>current movie time in seconds</string>
+	<key>definition</key>
+	<string>definition</string>
+	<key>description</key>
+	<string>description</string>
+	<key>description list</key>
+	<string>description list</string>
+	<key>dialog</key>
+	<string>dialog</string>
+	<key>document</key>
+	<string>document</string>
+	<key>elapsed time</key>
+	<string>elapsed time</string>
+	<key>enter fullscreen</key>
+	<string>enter fullscreen</string>
+	<key>exit fullscreen</key>
+	<string>exit fullscreen</string>
+	<key>expectation failed</key>
+	<string>expectation failed</string>
+	<key>fast forward</key>
+	<string>fast forward</string>
+	<key>fast reverse</key>
+	<string>fast reverse</string>
+	<key>file upload button</key>
+	<string>file upload button</string>
+	<key>footer</key>
+	<string>footer</string>
+	<key>forbidden</key>
+	<string>forbidden</string>
+	<key>found</key>
+	<string>found</string>
+	<key>gateway timed out</key>
+	<string>gateway timed out</string>
+	<key>heading</key>
+	<string>heading</string>
+	<key>hide closed captions</key>
+	<string>hide closed captions</string>
+	<key>image map</key>
+	<string>image map</string>
+	<key>indefinite time</key>
+	<string>indefinite time</string>
+	<key>informational</key>
+	<string>informational</string>
+	<key>internal server error</key>
+	<string>internal server error</string>
+	<key>jump</key>
+	<string>jump</string>
+	<key>length required</key>
+	<string>length required</string>
+	<key>link</key>
+	<string>link</string>
+	<key>list marker</key>
+	<string>list marker</string>
+	<key>log</key>
+	<string>log</string>
+	<key>main</key>
+	<string>main</string>
+	<key>marquee</key>
+	<string>marquee</string>
+	<key>math</key>
+	<string>math</string>
+	<key>method not allowed</key>
+	<string>method not allowed</string>
+	<key>moved permanently</key>
+	<string>moved permanently</string>
+	<key>movie time</key>
+	<string>movie time</string>
+	<key>movie time scrubber</key>
+	<string>movie time scrubber</string>
+	<key>movie time scrubber thumb</key>
+	<string>movie time scrubber thumb</string>
+	<key>multiple choices</key>
+	<string>multiple choices</string>
+	<key>mute</key>
+	<string>mute</string>
+	<key>mute audio tracks</key>
+	<string>mute audio tracks</string>
+	<key>navigation</key>
+	<string>navigation</string>
+	<key>needs proxy</key>
+	<string>needs proxy</string>
+	<key>no content</key>
+	<string>no content</string>
+	<key>no error</key>
+	<string>no error</string>
+	<key>no file selected</key>
+	<string>no file selected</string>
+	<key>no files selected</key>
+	<string>no files selected</string>
+	<key>no longer exists</key>
+	<string>no longer exists</string>
+	<key>no media selected (multiple)</key>
+	<string>no photos selected</string>
+	<key>no media selected (single)</key>
+	<string>no photo selected</string>
+	<key>non-authoritative information</key>
+	<string>non-authoritative information</string>
+	<key>not found</key>
+	<string>not found</string>
+	<key>not modified</key>
+	<string>not modified</string>
+	<key>note</key>
+	<string>note</string>
+	<key>number of seconds of movie remaining</key>
+	<string>number of seconds of movie remaining</string>
+	<key>partial content</key>
+	<string>partial content</string>
+	<key>pattern mismatch</key>
+	<string>pattern mismatch</string>
+	<key>pause</key>
+	<string>pause</string>
+	<key>pause playback</key>
+	<string>pause playback</string>
+	<key>payment required</key>
+	<string>payment required</string>
+	<key>play</key>
+	<string>play</string>
+	<key>precondition failed</key>
+	<string>precondition failed</string>
+	<key>press</key>
+	<string>press</string>
+	<key>proxy authentication required</key>
+	<string>proxy authentication required</string>
+	<key>range overflow</key>
+	<string>range overflow</string>
+	<key>range underflow</key>
+	<string>range underflow</string>
+	<key>redirected</key>
+	<string>redirected</string>
+	<key>region</key>
+	<string>region</string>
+	<key>remaining time</key>
+	<string>remaining time</string>
+	<key>request timed out</key>
+	<string>request timed out</string>
+	<key>request too large</key>
+	<string>request too large</string>
+	<key>requested URL too long</key>
+	<string>requested URL too long</string>
+	<key>requested range not satisfiable</key>
+	<string>requested range not satisfiable</string>
+	<key>reset content</key>
+	<string>reset content</string>
+	<key>return streaming movie to real time</key>
+	<string>return streaming movie to real time</string>
+	<key>return to realtime</key>
+	<string>return to realtime</string>
+	<key>search</key>
+	<string>search</string>
+	<key>see other</key>
+	<string>see other</string>
+	<key>seek movie back 30 seconds</key>
+	<string>seek movie back 30 seconds</string>
+	<key>seek quickly back</key>
+	<string>seek quickly back</string>
+	<key>seek quickly forward</key>
+	<string>seek quickly forward</string>
+	<key>select</key>
+	<string>select</string>
+	<key>server error</key>
+	<string>server error</string>
+	<key>service unavailable</key>
+	<string>service unavailable</string>
+	<key>show closed captions</key>
+	<string>show closed captions</string>
+	<key>start displaying closed captions</key>
+	<string>start displaying closed captions</string>
+	<key>status</key>
+	<string>status</string>
+	<key>step mismatch</key>
+	<string>step mismatch</string>
+	<key>stop displaying closed captions</key>
+	<string>stop displaying closed captions</string>
+	<key>success</key>
+	<string>success</string>
+	<key>switching protocols</key>
+	<string>switching protocols</string>
+	<key>tab panel</key>
+	<string>tab panel</string>
+	<key>temporarily redirected</key>
+	<string>temporarily redirected</string>
+	<key>term</key>
+	<string>term</string>
+	<key>timeline slider thumb</key>
+	<string>timeline slider thumb</string>
+	<key>timer</key>
+	<string>timer</string>
+	<key>too long</key>
+	<string>too long</string>
+	<key>tooltip</key>
+	<string>tooltip</string>
+	<key>type mismatch</key>
+	<string>type mismatch</string>
+	<key>unacceptable</key>
+	<string>unacceptable</string>
+	<key>unauthorized</key>
+	<string>unauthorized</string>
+	<key>uncheck</key>
+	<string>uncheck</string>
+	<key>unimplemented</key>
+	<string>unimplemented</string>
+	<key>unknown</key>
+	<string>unknown</string>
+	<key>unmute</key>
+	<string>unmute</string>
+	<key>unmute audio tracks</key>
+	<string>unmute audio tracks</string>
+	<key>unsupported media type</key>
+	<string>unsupported media type</string>
+	<key>unsupported version</key>
+	<string>unsupported version</string>
+	<key>value missing</key>
+	<string>value missing</string>
+	<key>video element playback controls and status display</key>
+	<string>video element playback controls and status display</string>
+	<key>video playback</key>
+	<string>video playback</string>
+</dict>
+</plist>

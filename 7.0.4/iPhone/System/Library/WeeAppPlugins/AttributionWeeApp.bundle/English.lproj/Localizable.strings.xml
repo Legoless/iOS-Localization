@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATTRIBUTION_PAD</key>
+	<string>Weather information provided by</string>
+	<key>ATTRIBUTION_PHONE</key>
+	<string>Weather and stock information provided by</string>
+	<key>STOCK</key>
+	<string>stock</string>
+	<key>WEATHER</key>
+	<string>weather</string>
+</dict>
+</plist>

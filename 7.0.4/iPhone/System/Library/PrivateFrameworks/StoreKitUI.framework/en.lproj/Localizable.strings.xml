@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_BUTTON_APPLE_ID</key>
+	<string>Apple ID: %@</string>
+	<key>ACCOUNT_BUTTON_SIGN_IN</key>
+	<string>Sign In</string>
+	<key>ACCOUNT_CREDITS</key>
+	<string>%@ Credit</string>
+	<key>ACTIVITY_COPY_LINK</key>
+	<string>Copy Link</string>
+	<key>ADD_TO_WISHLIST</key>
+	<string>Add to Wish List</string>
+	<key>BANNER_CLOSE_BUTTON</key>
+	<string>Close</string>
+	<key>BANNER_ITEM_STATE_INSTALLED</key>
+	<string>INSTALLED</string>
+	<key>BANNER_OPEN_BUTTON</key>
+	<string>OPEN</string>
+	<key>BANNER_PRICE_FORMAT</key>
+	<string>%@ — On the App Store</string>
+	<key>BANNER_VIEW_BUTTON</key>
+	<string>View</string>
+	<key>CAMERA_REDEEM_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>CAMERA_REDEEM_CARD_DESCRIPTION</key>
+	<string>This requires a gift card with a box around the code, as shown here.</string>
+	<key>CAMERA_REDEEM_ENTER_CODE</key>
+	<string>You can also enter your code manually.</string>
+	<key>CAMERA_REDEEM_ERROR_TITLE</key>
+	<string>Error</string>
+	<key>CAMERA_REDEEM_OK_BUTTON</key>
+	<string>OK</string>
+	<key>CAMERA_REDEEM_PROMPT_IPAD</key>
+	<string>Redeem your gift card using your iPad’s camera.</string>
+	<key>CAMERA_REDEEM_PROMPT_IPHONE</key>
+	<string>Redeem your gift card using
+your iPhone’s camera.</string>
+	<key>CAMERA_REDEEM_PROMPT_IPOD</key>
+	<string>Redeem your gift card using
+your iPod’s camera.</string>
+	<key>CAMERA_REDEEM_REDEEM_BUTTON</key>
+	<string>Redeem</string>
+	<key>CAMERA_REDEEM_TITLE</key>
+	<string>Scan Card</string>
+	<key>CAMERA_REDEEM_UNABLE_TO_READ_CODE</key>
+	<string>Unable to read code. To use this code you must enter it manually.</string>
+	<key>CAMERA_REDEEM_USE_CAMERA_BUTTON</key>
+	<string>Use Camera</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CATEGORIES_BUTTON</key>
+	<string>Categories</string>
+	<key>CATEGORIES_MORE_SEGMENT</key>
+	<string>More</string>
+	<key>CATEGORY_SHEET_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>CHARTS_TAB_TITLE</key>
+	<string>Top Charts</string>
+	<key>CLOSE_SHEET_BUTTON</key>
+	<string>Cancel</string>
+	<key>COUNTDOWN_DAYS</key>
+	<string>DAYS</string>
+	<key>COUNTDOWN_HOURS</key>
+	<string>HOURS</string>
+	<key>COUNTDOWN_MINUTES</key>
+	<string>MINS</string>
+	<key>COUNTDOWN_NUMBER_FORMAT</key>
+	<string>##,###,###,###</string>
+	<key>COUNTDOWN_SECONDS</key>
+	<string>SECS</string>
+	<key>DEFAULT_LOADING_TEXT</key>
+	<string>Loading…</string>
+	<key>DEVELOPER_INFO_LABEL_ADDRESS</key>
+	<string>Address</string>
+	<key>DEVELOPER_INFO_LABEL_BUSINESS_REGISTRATION_ID</key>
+	<string>Business Registration Number</string>
+	<key>DEVELOPER_INFO_LABEL_ECOMMERCE_REGISTRATION_ID</key>
+	<string>E-Commerce Registration Number</string>
+	<key>DEVELOPER_INFO_LABEL_EMAIL</key>
+	<string>Email</string>
+	<key>DEVELOPER_INFO_LABEL_PHONE</key>
+	<string>Phone</string>
+	<key>DEVELOPER_INFO_LABEL_TRADE_NAME</key>
+	<string>Trade Name</string>
+	<key>DEVELOPER_INFO_LABEL_TRADE_REP</key>
+	<string>Trade Rep</string>
+	<key>DONATION_CONFIRM_DONE</key>
+	<string>Done</string>
+	<key>DONATION_CONFIRM_MESSAGE</key>
+	<string>Your donation in the amount of %@ was
+made successfully.</string>
+	<key>DONATION_CONFIRM_THANKS</key>
+	<string>Thank you for your donation.</string>
+	<key>DONATION_CONFIRM_TITLE</key>
+	<string>Donate</string>
+	<key>DONATION_FLOW_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>DONATION_FLOW_DONATE_BUTTON</key>
+	<string>Donate</string>
+	<key>DONATION_FLOW_INVALID_DONATION</key>
+	<string>Invalid Donation</string>
+	<key>DONATION_FLOW_OK_BUTTON</key>
+	<string>OK</string>
+	<key>DONATION_FLOW_TITLE</key>
+	<string>Donate</string>
+	<key>DONATION_FLOW_UNABLE_TO_DONATE</key>
+	<string>Unable to Donate</string>
+	<key>EMPTY_WISHLIST_MESSAGE</key>
+	<string>You do not currently have anything on your wish list.</string>
+	<key>EMPTY_WISHLIST_SIGN_IN_BUTTON</key>
+	<string>Sign In</string>
+	<key>EMPTY_WISHLIST_SIGN_IN_MESSAGE</key>
+	<string>Sign in to view your wish list.</string>
+	<key>EMPTY_WISHLIST_SIGN_IN_TITLE</key>
+	<string>Wish List</string>
+	<key>EMPTY_WISHLIST_TITLE</key>
+	<string>Wish List</string>
+	<key>FEATURE_UNAVAILABLE_ERROR</key>
+	<string>This feature is not currently
+available in iOS 7.</string>
+	<key>GENIUS_BASED_ON_PREFIX</key>
+	<string>Based on </string>
+	<key>GENIUS_NOT_INTERESTED_BUTTON</key>
+	<string>Not Interested</string>
+	<key>GIFTING_AMOUNT_OTHER</key>
+	<string>Other</string>
+	<key>GIFTING_BACK_BUTTON</key>
+	<string>Back</string>
+	<key>GIFTING_BUY_CONFIRM_BUTTON</key>
+	<string>BUY NOW</string>
+	<key>GIFTING_BUY_GIFT_BUTTON</key>
+	<string>Buy</string>
+	<key>GIFTING_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>GIFTING_CONFIRM_AMOUNT_LABEL</key>
+	<string>Amount</string>
+	<key>GIFTING_CONFIRM_CHARGE_WARNING</key>
+	<string>You will be charged for this gift immediately upon purchase.</string>
+	<key>GIFTING_CONFIRM_CONFIRM_YOUR_ORDER</key>
+	<string>Confirm Your Gift</string>
+	<key>GIFTING_CONFIRM_FROM_LABEL</key>
+	<string>From:</string>
+	<key>GIFTING_CONFIRM_ITEM_LABEL</key>
+	<string>Item</string>
+	<key>GIFTING_CONFIRM_MESSAGE_LABEL</key>
+	<string>Message:</string>
+	<key>GIFTING_CONFIRM_PRICE_LABEL</key>
+	<string>Price</string>
+	<key>GIFTING_CONFIRM_RECIPIENTS_LABEL</key>
+	<string>To:</string>
+	<key>GIFTING_CONFIRM_SENDER_LABEL</key>
+	<string>Sender:</string>
+	<key>GIFTING_CONFIRM_SEND_DATE_LABEL</key>
+	<string>Send On</string>
+	<key>GIFTING_CONFIRM_THEME_LABEL</key>
+	<string>Theme</string>
+	<key>GIFTING_CONFIRM_TOTAL_LABEL</key>
+	<string>Total %@</string>
+	<key>GIFTING_DATE_SECTION_HEADER</key>
+	<string>SEND GIFT:</string>
+	<key>GIFTING_DATE_TODAY</key>
+	<string>Today</string>
+	<key>GIFTING_DONE_BUTTON</key>
+	<string>Done</string>
+	<key>GIFTING_FIELD_LABEL_MESSAGE</key>
+	<string>Message:</string>
+	<key>GIFTING_FIELD_LABEL_OTHER_DATE</key>
+	<string>Other Date</string>
+	<key>GIFTING_FIELD_LABEL_RECIPIENT</key>
+	<string>To:</string>
+	<key>GIFTING_FIELD_LABEL_SENDER_EMAIL</key>
+	<string>Sender:</string>
+	<key>GIFTING_FIELD_LABEL_SENDER_NAME</key>
+	<string>From:</string>
+	<key>GIFTING_FIELD_LABEL_TODAY</key>
+	<string>Today</string>
+	<key>GIFTING_FLOW_TITLE</key>
+	<string>Send Gift</string>
+	<key>GIFTING_INVALID_GIFT</key>
+	<string>Invalid Gift</string>
+	<key>GIFTING_NEXT_BUTTON</key>
+	<string>Next</string>
+	<key>GIFTING_NO_MESSAGE_PLACEHOLDER</key>
+	<string>No message</string>
+	<key>GIFTING_OK_BUTTON</key>
+	<string>OK</string>
+	<key>GIFTING_PLACEHOLDER_EMAIL</key>
+	<string>Email</string>
+	<key>GIFTING_PLACEHOLDER_MESSAGE</key>
+	<string>(%@ Characters Max)</string>
+	<key>GIFTING_PLACEHOLDER_NAME</key>
+	<string>Name</string>
+	<key>GIFTING_RESULT_AMOUNT_MESSAGE</key>
+	<string>You’ve successfully scheduled your %@ iTunes Gift.</string>
+	<key>GIFTING_RESULT_ITEM_MESSAGE</key>
+	<string>You’ve successfully scheduled your iTunes Gift.</string>
+	<key>GIFTING_RESULT_SEND_ANOTHER_BUTTON</key>
+	<string>Send Another iTunes Gift</string>
+	<key>GIFTING_RESULT_TITLE</key>
+	<string>Confirmation</string>
+	<key>GIFTING_REVIEW_TITLE</key>
+	<string>Review</string>
+	<key>GIFTING_STOREFRONT_WARNING</key>
+	<string>Gift redeemable in %@ store only.</string>
+	<key>GIFTING_TERMS_LINK</key>
+	<string>iTunes Gift Terms and Conditions</string>
+	<key>GIFTING_THEME_SENDER_LABEL</key>
+	<string>From:</string>
+	<key>GIFTING_THEME_TITLE</key>
+	<string>Select Theme</string>
+	<key>GIFTING_UNABLE_TO_GIFT</key>
+	<string>Unable to Gift</string>
+	<key>GIFT_BUTTON</key>
+	<string>Send Gift</string>
+	<key>GOTO_STORE_BUTTON</key>
+	<string>Store</string>
+	<key>INCOMPATIBLE_IPAD_APP_MESSAGE</key>
+	<string>You can download %@ for your iPad on the App Store or iTunes on your computer.</string>
+	<key>INCOMPATIBLE_IPAD_APP_TITLE</key>
+	<string>%@ is only available on Apple iPad</string>
+	<key>INCOMPATIBLE_LEARN_MORE_ABOUT_APP</key>
+	<string>Learn More about this App</string>
+	<key>INCOMPATIBLE_LEARN_MORE_ABOUT_IPAD</key>
+	<string>Learn More about iPad</string>
+	<key>INCOMPATIBLE_MAC_APP_MESSAGE</key>
+	<string>You can download %@ in the Mac App Store.</string>
+	<key>INCOMPATIBLE_MAC_APP_TITLE</key>
+	<string>%@ is only available on OS X</string>
+	<key>ITEM_OFFER_BUTTON_GRATIS</key>
+	<string>FREE</string>
+	<key>ITEM_OFFER_BUTTON_INSTALL</key>
+	<string>INSTALL</string>
+	<key>ITEM_OFFER_BUTTON_INSTALLED</key>
+	<string>INSTALLED</string>
+	<key>ITEM_OFFER_BUTTON_INSTALLING</key>
+	<string>INSTALLING</string>
+	<key>ITEM_OFFER_BUTTON_INSTALL_APP</key>
+	<string>INSTALL</string>
+	<key>ITEM_OFFER_BUTTON_OPEN</key>
+	<string>OPEN</string>
+	<key>ITEM_OFFER_BUTTON_UPDATE</key>
+	<string>UPDATE</string>
+	<key>MORE_BUTTON</key>
+	<string>more</string>
+	<key>NETWORK_ERROR_MESSAGE_CELL_ONLY</key>
+	<string>You must connect to a cellular data
+network to access the App Store.</string>
+	<key>NETWORK_ERROR_MESSAGE_WIFI_ONLY</key>
+	<string>You must connect to a Wi-Fi network
+to access the App Store.</string>
+	<key>NETWORK_ERROR_MESSAGE_WIFI_OR_CELL</key>
+	<string>You must connect to a Wi-Fi or cellular data
+network to access the App Store.</string>
+	<key>NETWORK_ERROR_MESSAGE_WLAN_ONLY</key>
+	<string>You must connect to a WLAN network
+to access the App Store.</string>
+	<key>NETWORK_ERROR_MESSAGE_WLAN_OR_CELL</key>
+	<string>You must connect to a WLAN or cellular data
+network to access the App Store.</string>
+	<key>NETWORK_ERROR_TITLE_IPAD</key>
+	<string>Cannot Connect to the App Store</string>
+	<key>NETWORK_ERROR_TITLE_IPHONE</key>
+	<string>Cannot Connect
+to the App Store</string>
+	<key>NICKNAME_LABEL</key>
+	<string>From:</string>
+	<key>NICKNAME_LABEL_ALT</key>
+	<string>Nickname:</string>
+	<key>NICKNAME_PLACEHOLDER</key>
+	<string>Create Nickname</string>
+	<key>POPUP_SORT_BY</key>
+	<string>sort by</string>
+	<key>PRODUCT_PAGE_DESCRIPTION_TITLE</key>
+	<string>Description</string>
+	<key>PRODUCT_PAGE_DETAILS_TAB</key>
+	<string>Details</string>
+	<key>PRODUCT_PAGE_DEVELOPER_APPS</key>
+	<string>Developer Apps</string>
+	<key>PRODUCT_PAGE_DEVELOPER_INFO</key>
+	<string>Developer Info</string>
+	<key>PRODUCT_PAGE_DEVELOPER_WEBSITE</key>
+	<string>Developer Website</string>
+	<key>PRODUCT_PAGE_FACEBOOK_FRIENDS</key>
+	<string>%@ Friend</string>
+	<key>PRODUCT_PAGE_FACEBOOK_FRIENDS_PLURAL</key>
+	<string>%@ Friends</string>
+	<key>PRODUCT_PAGE_HEADER_AGE_BAND</key>
+	<string>Made for Ages %@-%@</string>
+	<key>PRODUCT_PAGE_HEADER_AGE_MAX</key>
+	<string>Made for Ages %@ and Under</string>
+	<key>PRODUCT_PAGE_INFO_CATEGORY</key>
+	<string>Category</string>
+	<key>PRODUCT_PAGE_INFO_RATED_FOR</key>
+	<string>Rated %@ for the following:
+</string>
+	<key>PRODUCT_PAGE_INFO_RATED_FOR_WITH_AGE_BAND</key>
+	<string>Made for Ages %@-%@.  Rated %@ for the following:
+</string>
+	<key>PRODUCT_PAGE_INFO_RATING</key>
+	<string>Rating</string>
+	<key>PRODUCT_PAGE_INFO_RATING_ADVISORY</key>
+	<string>- %@</string>
+	<key>PRODUCT_PAGE_INFO_RATING_WITH_AGE_BAND</key>
+	<string>Ages %@, Made for Ages %@-%@</string>
+	<key>PRODUCT_PAGE_INFO_REQUIRES</key>
+	<string>Compatibility</string>
+	<key>PRODUCT_PAGE_INFO_SELLER</key>
+	<string>Seller</string>
+	<key>PRODUCT_PAGE_INFO_SIZE</key>
+	<string>Size</string>
+	<key>PRODUCT_PAGE_INFO_TITLE</key>
+	<string>Information</string>
+	<key>PRODUCT_PAGE_INFO_UPDATED</key>
+	<string>Updated</string>
+	<key>PRODUCT_PAGE_INFO_VERSION</key>
+	<string>Version</string>
+	<key>PRODUCT_PAGE_IN_APPS_HEADER</key>
+	<string>Offers In-App Purchases</string>
+	<key>PRODUCT_PAGE_IN_APPS_TITLE</key>
+	<string>In-App Purchases</string>
+	<key>PRODUCT_PAGE_LICENSE_AGREEMENT</key>
+	<string>License Agreement</string>
+	<key>PRODUCT_PAGE_NO_RELATED_CONTENT</key>
+	<string>No related content.</string>
+	<key>PRODUCT_PAGE_PRIVACY_POLICY</key>
+	<string>Privacy Policy</string>
+	<key>PRODUCT_PAGE_RELATED_TAB</key>
+	<string>Related</string>
+	<key>PRODUCT_PAGE_REVIEWS_TAB</key>
+	<string>Reviews</string>
+	<key>PRODUCT_PAGE_SHOW_IN_APPS_BUTTON</key>
+	<string>Show In-App Purchases</string>
+	<key>PRODUCT_PAGE_SHOW_UPDATE_HISTORY_BUTTON</key>
+	<string>Show Version History</string>
+	<key>PRODUCT_PAGE_STORE_NOTES_TITLE</key>
+	<string>App Store Notes</string>
+	<key>PRODUCT_PAGE_SUPPORTS_TITLE</key>
+	<string>Supports</string>
+	<key>PRODUCT_PAGE_UPDATED_DATE</key>
+	<string>Updated %@</string>
+	<key>PRODUCT_PAGE_UPDATED_VERSION</key>
+	<string>Version %@</string>
+	<key>PRODUCT_PAGE_UPDATE_HISTORY_TITLE</key>
+	<string>Version History</string>
+	<key>PRODUCT_PAGE_WHATS_NEW_TITLE</key>
+	<string>What’s New</string>
+	<key>RATING_ALERT_TITLE</key>
+	<string>Please Rate</string>
+	<key>RATING_EXPLANATION</key>
+	<string>Tap a Star to Rate</string>
+	<key>RATING_LABEL</key>
+	<string>Rate this:</string>
+	<key>REDEEM_BUTTON</key>
+	<string>Redeem</string>
+	<key>REDEEM_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>REDEEM_CODE_PLACEHOLDER</key>
+	<string>Code</string>
+	<key>REDEEM_ERROR_MESSAGE</key>
+	<string>There was an error redeeming your code. Please contact iTunes Store support.</string>
+	<key>REDEEM_FAILURE_TITLE</key>
+	<string>Failure</string>
+	<key>REDEEM_OK_BUTTON</key>
+	<string>OK</string>
+	<key>REDEEM_PROMPT</key>
+	<string>Enter your gift card or download code.</string>
+	<key>REDEEM_REDEEM_BUTTON</key>
+	<string>Redeem</string>
+	<key>REDEEM_SUCCESS_CREDIT_FORMAT</key>
+	<string>Your Apple ID has been credited with %@. Your balance is %@.</string>
+	<key>REDEEM_SUCCESS_DONE_BUTTON</key>
+	<string>Done</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_AUDIOBOOK</key>
+	<string>Your audiobook is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_EBOOK</key>
+	<string>Your book is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_IMIX</key>
+	<string>Your playlist is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_ITUNESU_COURSE</key>
+	<string>Your course is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_MAC_SOFTWARE</key>
+	<string>Your app is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_MOVIE</key>
+	<string>Your movie is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_MUSIC_ALBUM</key>
+	<string>Your album is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_MUSIC_VIDEO</key>
+	<string>Your music video is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_PODCAST</key>
+	<string>Your podcast is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_PODCAST_EPISODE</key>
+	<string>Your podcast is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_RINGTONE</key>
+	<string>Your ringtone is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_SOFTWARE</key>
+	<string>Your app is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_SONG</key>
+	<string>Your song is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_TELEVISION_EPISODE</key>
+	<string>Your episode is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_TELEVISION_SEASON</key>
+	<string>Your season is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_TONE</key>
+	<string>Your tone is now downloading.</string>
+	<key>REDEEM_SUCCESS_DOWNLOADING_UNKNOWN</key>
+	<string>Your item is now downloading.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_AUDIOBOOK</key>
+	<string>Your audiobook is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_EBOOK</key>
+	<string>Your book is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_IMIX</key>
+	<string>Your playlist is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_ITUNESU_COURSE</key>
+	<string>Your course is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_MAC_SOFTWARE</key>
+	<string>Your app is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_MOVIE</key>
+	<string>Your movie is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_MUSIC_ALBUM</key>
+	<string>Your album is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_MUSIC_VIDEO</key>
+	<string>Your music video is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_PODCAST</key>
+	<string>Your podcast is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_PODCAST_EPISODE</key>
+	<string>Your podcast is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_RINGTONE</key>
+	<string>Your ringtone is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_SOFTWARE</key>
+	<string>Your app is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_SONG</key>
+	<string>Your song is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_TELEVISION_EPISODE</key>
+	<string>Your episode is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_TELEVISION_SEASON</key>
+	<string>Your season is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_TONE</key>
+	<string>Your tone is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLED_UNKNOWN</key>
+	<string>Your item is now installed.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_AUDIOBOOK</key>
+	<string>Your audiobook is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_EBOOK</key>
+	<string>Your book is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_IMIX</key>
+	<string>Your playlist is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_ITUNESU_COURSE</key>
+	<string>Your course is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_MAC_SOFTWARE</key>
+	<string>Your app is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_MOVIE</key>
+	<string>Your movie is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_MUSIC_ALBUM</key>
+	<string>Your album is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_MUSIC_VIDEO</key>
+	<string>Your music video is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_PODCAST</key>
+	<string>Your podcast is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_PODCAST_EPISODE</key>
+	<string>Your podcast is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_RINGTONE</key>
+	<string>Your ringtone is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_SOFTWARE</key>
+	<string>Your app is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_SONG</key>
+	<string>Your song is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_TELEVISION_EPISODE</key>
+	<string>Your episode is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_TELEVISION_SEASON</key>
+	<string>Your season is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_TONE</key>
+	<string>Your tone is now installing.</string>
+	<key>REDEEM_SUCCESS_INSTALLING_UNKNOWN</key>
+	<string>Your item is now installing.</string>
+	<key>REDEEM_SUCCESS_MESSAGE</key>
+	<string>You’ve successfully redeemed your code.</string>
+	<key>REDEEM_SUCCESS_MESSAGE_IN_APP</key>
+	<string>You’ve successfully redeemed your code for the following In-App Purchase:</string>
+	<key>REDEEM_SUCCESS_PREPARE_TO_DOWNLOAD</key>
+	<string>Preparing to download…</string>
+	<key>REDEEM_SUCCESS_PREPARE_TO_INSTALL</key>
+	<string>Preparing to install…</string>
+	<key>REDEEM_SUCCESS_REDEEM_AGAIN</key>
+	<string>Redeem Another Code</string>
+	<key>REDEEM_TERMS_LINK</key>
+	<string>Terms and Conditions</string>
+	<key>REDEEM_UNAVAILABLE</key>
+	<string>Code redemption is temporarily unavailable. Please try again later.</string>
+	<key>REDEEM_VIEW_TITLE</key>
+	<string>Redeem</string>
+	<key>REVIEWS_ALL_VERSIONS</key>
+	<string>All Versions</string>
+	<key>REVIEWS_COUNT_ALL_VERSIONS_ONE</key>
+	<string>%@ Rating for All Versions</string>
+	<key>REVIEWS_COUNT_ALL_VERSIONS_PLURAL</key>
+	<string>%@ Ratings for All Versions</string>
+	<key>REVIEWS_COUNT_CURRENT_VERSION_ONE</key>
+	<string>%1$@ Rating for Version %2$@</string>
+	<key>REVIEWS_COUNT_CURRENT_VERSION_PLURAL</key>
+	<string>%1$@ Ratings for Version %2$@</string>
+	<key>REVIEWS_COUNT_NONE</key>
+	<string>No Ratings</string>
+	<key>REVIEWS_CURRENT_VERSION</key>
+	<string>Current Version</string>
+	<key>REVIEWS_FACEBOOK_FIRST_LIKE</key>
+	<string>Be the first of your friends to like this.</string>
+	<key>REVIEWS_FACEBOOK_LIKE_BUTTON</key>
+	<string>Like</string>
+	<key>REVIEWS_FACEBOOK_MANY_FRIENDS_LIKE</key>
+	<string>%@, %@, and %@ others like this.</string>
+	<key>REVIEWS_FACEBOOK_ONE_FRIEND_LIKES</key>
+	<string>%@ likes this.</string>
+	<key>REVIEWS_FACEBOOK_THREE_FRIENDS_LIKE</key>
+	<string>%@, %@, and %@ like this.</string>
+	<key>REVIEWS_FACEBOOK_TITLE</key>
+	<string>Facebook</string>
+	<key>REVIEWS_FACEBOOK_TWO_FRIENDS_LIKE</key>
+	<string>%@ and %@ like this.</string>
+	<key>REVIEWS_FACEBOOK_UNLIKE_BUTTON</key>
+	<string>Unlike</string>
+	<key>REVIEWS_FACEBOOK_YOUR_NAME</key>
+	<string>You</string>
+	<key>REVIEWS_FACEBOOK_YOU_LIKE</key>
+	<string>%@ like this.</string>
+	<key>REVIEWS_HEADER_BUTTON_APP_SUPPORT</key>
+	<string>App Support</string>
+	<key>REVIEWS_HEADER_BUTTON_WRITE_A_REVIEW_IPAD</key>
+	<string>Write a Review</string>
+	<key>REVIEWS_HEADER_BUTTON_WRITE_A_REVIEW_IPHONE</key>
+	<string>Write a Review</string>
+	<key>REVIEWS_HEADER_SORT_BY</key>
+	<string>Sort by</string>
+	<key>REVIEWS_HEADER_TITLE</key>
+	<string>App Store Customer Reviews</string>
+	<key>REVIEWS_HISTOGRAM_TITLE_IPAD</key>
+	<string>App Store Ratings</string>
+	<key>REVIEWS_HISTOGRAM_TITLE_IPHONE</key>
+	<string>App Store Ratings</string>
+	<key>REVIEWS_SORT_MOST_CRITICAL</key>
+	<string>Most Critical</string>
+	<key>REVIEWS_SORT_MOST_FAVORABLE</key>
+	<string>Most Favorable</string>
+	<key>REVIEWS_SORT_MOST_HELPFUL</key>
+	<string>Most Helpful</string>
+	<key>REVIEWS_SORT_MOST_RECENT</key>
+	<string>Most Recent</string>
+	<key>REVIEWS_TAP_TO_RATE</key>
+	<string>Tap to Rate:</string>
+	<key>REVIEW_BYLINE_NO_DATE</key>
+	<string>by %@</string>
+	<key>REVIEW_BYLINE_WITH_DATE</key>
+	<string>by %@ – %@</string>
+	<key>REVIEW_LABEL_CHARACTERS_REMAINING</key>
+	<string>Review: %d characters remaining</string>
+	<key>REVIEW_LABEL_OPTIONAL</key>
+	<string>Review: Optional</string>
+	<key>REVIEW_PLACEHOLDER</key>
+	<string>Review (Optional)</string>
+	<key>REVIEW_PLACEHOLDER_NOT_OPTIONAL</key>
+	<string>Review</string>
+	<key>SCREENSHOTS_BUTTON_DONE</key>
+	<string>Done</string>
+	<key>SCREENSHOTS_INDEX_STRING</key>
+	<string>%@ of %@</string>
+	<key>SCREENSHOTS_LOADING</key>
+	<string>Loading</string>
+	<key>SCREENSHOTS_TITLE</key>
+	<string>Screenshots</string>
+	<key>SEARCH_AUTO_CORRECTION</key>
+	<string>Showing results for “%1$@”. Did you mean “%2$@”?</string>
+	<key>SEARCH_AUTO_CORRECTION_NO_RESULTS</key>
+	<string>There are no results for “%1$@”. Showing results for “%2$@”.</string>
+	<key>SEARCH_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>SEARCH_CATEGORY_ANY_CATEGORY</key>
+	<string>All Categories</string>
+	<key>SEARCH_FIELD_ONE_RESULT</key>
+	<string>%@ Result</string>
+	<key>SEARCH_FIELD_PLURAL_RESULTS</key>
+	<string>%@ Results</string>
+	<key>SEARCH_HEADER_RESET_BUTTON</key>
+	<string>Reset</string>
+	<key>SEARCH_IPAD_RESULTS</key>
+	<string>iPad Only</string>
+	<key>SEARCH_IPHONE_RESULTS</key>
+	<string>iPhone Only</string>
+	<key>SEARCH_NO_RESULTS</key>
+	<string>There are no results</string>
+	<key>SEARCH_NO_RESULTS_FORMAT</key>
+	<string>There are no results for “%@”.</string>
+	<key>SEARCH_PRICE_ANY_PRICE</key>
+	<string>Any Price</string>
+	<key>SEARCH_PRICE_FREE</key>
+	<string>Free</string>
+	<key>SEARCH_RELATED_NONE_TITLE</key>
+	<string>No Related Searches</string>
+	<key>SEARCH_RELATED_TITLE</key>
+	<string>Related:</string>
+	<key>SEARCH_RELATED_TITLE_IPAD</key>
+	<string>Related Searches:</string>
+	<key>SEARCH_SORT_BY_POPULARITY</key>
+	<string>By Popularity</string>
+	<key>SEARCH_SORT_BY_RATING</key>
+	<string>By Rating</string>
+	<key>SEARCH_SORT_BY_RELEASE_DATE</key>
+	<string>By Release Date</string>
+	<key>SEARCH_SORT_BY_RELEVANCE</key>
+	<string>By Relevance</string>
+	<key>SEARCH_SPELL_CORRECTION</key>
+	<string>Did you mean “%1$@”?</string>
+	<key>SEARCH_SPELL_CORRECTION_NO_RESULTS</key>
+	<string>There are no results for “%1$@”. Did you mean “%2$@”?</string>
+	<key>SEARCH_TAB_TITLE</key>
+	<string>Search</string>
+	<key>SHARE_SHEET_COPY_LINK</key>
+	<string>Copy Link</string>
+	<key>SHARE_SHEET_GIFT_TITLE</key>
+	<string>Gift</string>
+	<key>SHARE_SHEET_ITEM_TITLE_FORMAT</key>
+	<string>%@ by %@</string>
+	<key>SIGN_IN_ALERT_CANCEL</key>
+	<string>Cancel</string>
+	<key>SIGN_IN_ALERT_IFORGOT</key>
+	<string>iForgot</string>
+	<key>SIGN_IN_ALERT_SIGN_OUT</key>
+	<string>Sign Out</string>
+	<key>SIGN_IN_ALERT_TITLE</key>
+	<string>Apple ID</string>
+	<key>SIGN_IN_ALERT_VIEW_APPLE_ID</key>
+	<string>View Apple ID</string>
+	<key>SUBJECT_LABEL</key>
+	<string>Title:</string>
+	<key>SUBJECT_PLACEHOLDER</key>
+	<string>Title</string>
+	<key>SUBMIT</key>
+	<string>Send</string>
+	<key>SUPPORTS_GAMECENTER_BODY</key>
+	<string>Challenge friends and check leaderboards and achievements.</string>
+	<key>SUPPORTS_GAMECENTER_TITLE</key>
+	<string>Game Center</string>
+	<key>SUPPORTS_ICLOUD_BODY</key>
+	<string>All your content. On all your devices.</string>
+	<key>SUPPORTS_ICLOUD_TITLE</key>
+	<string>iCloud</string>
+	<key>SUPPORTS_NEWSSTAND_BODY</key>
+	<string>All of your newspaper and magazine subscriptions in one place.</string>
+	<key>SUPPORTS_NEWSSTAND_TITLE</key>
+	<string>Newsstand</string>
+	<key>SUPPORTS_PASSBOOK_BODY</key>
+	<string>The simplest way to get all your passes in one place.</string>
+	<key>SUPPORTS_PASSBOOK_TITLE</key>
+	<string>Passbook</string>
+	<key>SUPPORT_BUTTON</key>
+	<string>Support</string>
+	<key>SWIPE_TO_DELETE_BUTTON</key>
+	<string>Delete</string>
+	<key>SWOOSH_SEE_ALL_TITLE</key>
+	<string>See All</string>
+	<key>TABS_MORE_LIST_TITLE</key>
+	<string>More</string>
+	<key>TERMS_LINK</key>
+	<string>Terms and Conditions</string>
+	<key>VIEW_BUTTON</key>
+	<string>VIEW</string>
+	<key>WISH_LIST_BUTTON</key>
+	<string>Wish List</string>
+	<key>WISH_LIST_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>WISH_LIST_DELETE_BUTTON</key>
+	<string>Delete</string>
+	<key>WISH_LIST_DELETE_BUTTON_SELECTED</key>
+	<string>Delete (%@)</string>
+	<key>WISH_LIST_DONE_BUTTON</key>
+	<string>Done</string>
+	<key>WISH_LIST_EDIT_BUTTON</key>
+	<string>Edit</string>
+	<key>WISH_LIST_TAB_TITLE</key>
+	<string>Wish List</string>
+	<key>WRITE_A_REVIEW</key>
+	<string>Write a Review</string>
+</dict>
+</plist>

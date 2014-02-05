@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.edit.stations.button</key>
+	<string>Edit stations</string>
+	<key>add.to.playlist</key>
+	<string>Add to playlist</string>
+	<key>album.artwork.cell.hint</key>
+	<string>Double tap to start playing album.  Swipe left or right with three fingers to view a different album.</string>
+	<key>album.artwork.cover.zoom.detail.hint</key>
+	<string>Double tap to go back to all albums</string>
+	<key>album.artwork.stack.text</key>
+	<string>Stack of albums</string>
+	<key>album.artwork.text</key>
+	<string>Album art</string>
+	<key>album.artwork.text.full</key>
+	<string>Album art for %1$@, %2$@</string>
+	<key>album.artwork.view.hint</key>
+	<string>Double Tap To Show Additional Controls</string>
+	<key>back.button</key>
+	<string>Back</string>
+	<key>button.flipside.text</key>
+	<string>Show album track list</string>
+	<key>button.flipside.text.with.playlist</key>
+	<string>Show album or playlist track list</string>
+	<key>button.next.text</key>
+	<string>Next track</string>
+	<key>button.pause.text</key>
+	<string>Pause</string>
+	<key>button.play.text</key>
+	<string>Play</string>
+	<key>button.prev.text</key>
+	<string>Previous track</string>
+	<key>button.shuffle.text</key>
+	<string>Shuffle</string>
+	<key>delete.item.hint</key>
+	<string>Double tap and hold to delete the item</string>
+	<key>delete.playlist</key>
+	<string>Delete %@</string>
+	<key>delete.playlist.hint</key>
+	<string>Double tap and hold to delete playlist</string>
+	<key>delete.prefix</key>
+	<string>Delete</string>
+	<key>download.button</key>
+	<string>Download</string>
+	<key>download.from.cloud</key>
+	<string>Download from iCloud</string>
+	<key>downloadable</key>
+	<string>Downloadable</string>
+	<key>downloading</key>
+	<string>Downloading</string>
+	<key>genius.playlist</key>
+	<string>Genius Mix</string>
+	<key>history.button</key>
+	<string>History</string>
+	<key>icloud.item</key>
+	<string>On iCloud</string>
+	<key>info.button</key>
+	<string>Info</string>
+	<key>now.playing</key>
+	<string>Now playing</string>
+	<key>store.button</key>
+	<string>Store</string>
+	<key>track.list.button</key>
+	<string>Track list</string>
+</dict>
+</plist>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2008-2013 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.handytech.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.handytech.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.handytech.65793</key>
+	<string>B12</string>
+	<key>com.apple.scrod.braille.driver.handytech.66049</key>
+	<string>B10</string>
+	<key>com.apple.scrod.braille.driver.handytech.66305</key>
+	<string>Left Up</string>
+	<key>com.apple.scrod.braille.driver.handytech.66817</key>
+	<string>0</string>
+	<key>com.apple.scrod.braille.driver.handytech.67073</key>
+	<string>4</string>
+	<key>com.apple.scrod.braille.driver.handytech.67329</key>
+	<string>Left Down</string>
+	<key>com.apple.scrod.braille.driver.handytech.67841</key>
+	<string>B13</string>
+	<key>com.apple.scrod.braille.driver.handytech.68097</key>
+	<string>5</string>
+	<key>com.apple.scrod.braille.driver.handytech.68353</key>
+	<string>Right Up</string>
+	<key>com.apple.scrod.braille.driver.handytech.68865</key>
+	<string>B14</string>
+	<key>com.apple.scrod.braille.driver.handytech.69121</key>
+	<string>6</string>
+	<key>com.apple.scrod.braille.driver.handytech.69377</key>
+	<string>Right Down</string>
+	<key>com.apple.scrod.braille.driver.handytech.69889</key>
+	<string>B11</string>
+	<key>com.apple.scrod.braille.driver.handytech.70145</key>
+	<string>B9</string>
+	<key>com.apple.scrod.braille.driver.handytech.70913</key>
+	<string>1</string>
+	<key>com.apple.scrod.braille.driver.handytech.71169</key>
+	<string>7</string>
+	<key>com.apple.scrod.braille.driver.handytech.71937</key>
+	<string>2</string>
+	<key>com.apple.scrod.braille.driver.handytech.72193</key>
+	<string>8</string>
+	<key>com.apple.scrod.braille.driver.handytech.72961</key>
+	<string>3</string>
+	<key>com.apple.scrod.braille.driver.handytech.73217</key>
+	<string>9</string>
+	<key>com.apple.scrod.braille.driver.handytech.76289</key>
+	<string>Left</string>
+	<key>com.apple.scrod.braille.driver.handytech.76545</key>
+	<string>Right</string>
+	<key>com.apple.scrod.braille.driver.handytech.active.braille.40</key>
+	<string>Handy Tech Active Braille 40</string>
+	<key>com.apple.scrod.braille.driver.handytech.basic.braille.16</key>
+	<string>HandyTech Basic Braille 16</string>
+	<key>com.apple.scrod.braille.driver.handytech.basic.braille.20</key>
+	<string>HandyTech Basic Braille 20</string>
+	<key>com.apple.scrod.braille.driver.handytech.basic.braille.32</key>
+	<string>HandyTech Basic Braille 32</string>
+	<key>com.apple.scrod.braille.driver.handytech.basic.braille.40</key>
+	<string>HandyTech Basic Braille 40</string>
+	<key>com.apple.scrod.braille.driver.handytech.basic.braille.48</key>
+	<string>HandyTech Basic Braille 48</string>
+	<key>com.apple.scrod.braille.driver.handytech.basic.braille.64</key>
+	<string>HandyTech Basic Braille 64</string>
+	<key>com.apple.scrod.braille.driver.handytech.basic.braille.80</key>
+	<string>HandyTech Basic Braille 80</string>
+	<key>com.apple.scrod.braille.driver.handytech.braille.star.40</key>
+	<string>Handy Tech Braille Star 40</string>
+	<key>com.apple.scrod.braille.driver.handytech.braille.wave.40</key>
+	<string>Handy Tech Braille Wave</string>
+	<key>com.apple.scrod.braille.driver.handytech.braillino.20</key>
+	<string>Handy Tech Braillino</string>
+	<key>com.apple.scrod.braille.driver.handytech.easy.braille.40</key>
+	<string>Handy Tech Easy Braille</string>
+</dict>
+</plist>

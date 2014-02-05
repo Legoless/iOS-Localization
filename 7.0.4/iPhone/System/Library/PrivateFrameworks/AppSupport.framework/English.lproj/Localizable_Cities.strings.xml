@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<string>Abidjan</string>
+	<key>1</key>
+	<string>Abu Dhabi</string>
+	<key>10</key>
+	<string>Anadyr</string>
+	<key>100</key>
+	<string>Gaborone</string>
+	<key>101</key>
+	<string>Galápagos Islands</string>
+	<key>102</key>
+	<string>Geneva</string>
+	<key>103</key>
+	<string>Genoa</string>
+	<key>104</key>
+	<string>Georgetown</string>
+	<key>105</key>
+	<string>Grytviken</string>
+	<key>106</key>
+	<string>Guam</string>
+	<key>107</key>
+	<string>Guatemala City</string>
+	<key>108</key>
+	<string>Gustavia</string>
+	<key>109</key>
+	<string>Halifax</string>
+	<key>11</key>
+	<string>Antananarivo</string>
+	<key>110</key>
+	<string>Hamburg</string>
+	<key>111</key>
+	<string>Easter Island</string>
+	<key>112</key>
+	<string>Hanoi</string>
+	<key>113</key>
+	<string>Harare</string>
+	<key>114</key>
+	<string>Havana</string>
+	<key>115</key>
+	<string>Healdsburg</string>
+	<key>116</key>
+	<string>Helsinki</string>
+	<key>117</key>
+	<string>Hobart</string>
+	<key>118</key>
+	<string>Hong Kong</string>
+	<key>119</key>
+	<string>Honolulu</string>
+	<key>12</key>
+	<string>Anchorage</string>
+	<key>120</key>
+	<string>Houston</string>
+	<key>121</key>
+	<string>Indianapolis</string>
+	<key>122</key>
+	<string>Irkutsk</string>
+	<key>123</key>
+	<string>Islamabad</string>
+	<key>124</key>
+	<string>Istanbul</string>
+	<key>125</key>
+	<string>Jakarta</string>
+	<key>126</key>
+	<string>Jerusalem</string>
+	<key>127</key>
+	<string>Johannesburg</string>
+	<key>128</key>
+	<string>Kabul</string>
+	<key>129</key>
+	<string>Kaliningrad</string>
+	<key>13</key>
+	<string>Ankara</string>
+	<key>130</key>
+	<string>Kampala</string>
+	<key>131</key>
+	<string>Kathmandu</string>
+	<key>132</key>
+	<string>Khartoum</string>
+	<key>133</key>
+	<string>Kiev</string>
+	<key>134</key>
+	<string>Kingston</string>
+	<key>135</key>
+	<string>Kinshasa</string>
+	<key>136</key>
+	<string>Knoxville</string>
+	<key>137</key>
+	<string>Kolkata</string>
+	<key>138</key>
+	<string>Krasnoyarsk</string>
+	<key>139</key>
+	<string>Kuala Lumpur</string>
+	<key>14</key>
+	<string>Ashgabat</string>
+	<key>140</key>
+	<string>Kuwait</string>
+	<key>142</key>
+	<string>La Paz</string>
+	<key>143</key>
+	<string>Lagos</string>
+	<key>144</key>
+	<string>Las Vegas</string>
+	<key>145</key>
+	<string>Lima</string>
+	<key>146</key>
+	<string>Lisbon</string>
+	<key>147</key>
+	<string>Little Rock</string>
+	<key>148</key>
+	<string>Ljubljana</string>
+	<key>149</key>
+	<string>London</string>
+	<key>15</key>
+	<string>Asmera</string>
+	<key>151</key>
+	<string>Los Altos</string>
+	<key>152</key>
+	<string>Los Angeles</string>
+	<key>153</key>
+	<string>Los Gatos</string>
+	<key>154</key>
+	<string>Louisville</string>
+	<key>155</key>
+	<string>Luanda</string>
+	<key>156</key>
+	<string>Lusaka</string>
+	<key>157</key>
+	<string>Luxembourg</string>
+	<key>158</key>
+	<string>Macau</string>
+	<key>159</key>
+	<string>Madison</string>
+	<key>16</key>
+	<string>Astana</string>
+	<key>160</key>
+	<string>Madrid</string>
+	<key>161</key>
+	<string>Malabo</string>
+	<key>162</key>
+	<string>Male</string>
+	<key>163</key>
+	<string>Managua</string>
+	<key>164</key>
+	<string>Manama</string>
+	<key>165</key>
+	<string>Marigot</string>
+	<key>166</key>
+	<string>Manila</string>
+	<key>167</key>
+	<string>Maputo</string>
+	<key>168</key>
+	<string>Mecca</string>
+	<key>169</key>
+	<string>Melbourne</string>
+	<key>17</key>
+	<string>Asunción</string>
+	<key>170</key>
+	<string>Memphis</string>
+	<key>171</key>
+	<string>Menlo Park</string>
+	<key>172</key>
+	<string>Messina</string>
+	<key>173</key>
+	<string>Mexico City</string>
+	<key>174</key>
+	<string>Miami</string>
+	<key>175</key>
+	<string>Milan</string>
+	<key>176</key>
+	<string>Milbank</string>
+	<key>177</key>
+	<string>Milwaukee</string>
+	<key>178</key>
+	<string>Minneapolis</string>
+	<key>179</key>
+	<string>Minsk</string>
+	<key>18</key>
+	<string>Athens</string>
+	<key>180</key>
+	<string>Magadan</string>
+	<key>181</key>
+	<string>Mogadishu</string>
+	<key>182</key>
+	<string>Monrovia</string>
+	<key>183</key>
+	<string>Montevideo</string>
+	<key>184</key>
+	<string>Montpelier</string>
+	<key>185</key>
+	<string>Montreal</string>
+	<key>186</key>
+	<string>Moscow</string>
+	<key>187</key>
+	<string>Monterey</string>
+	<key>188</key>
+	<string>Mountain View</string>
+	<key>189</key>
+	<string>Mumbai</string>
+	<key>19</key>
+	<string>Atlanta</string>
+	<key>190</key>
+	<string>Munich</string>
+	<key>191</key>
+	<string>Muscat</string>
+	<key>192</key>
+	<string>Napa</string>
+	<key>193</key>
+	<string>Naples</string>
+	<key>194</key>
+	<string>Nairobi</string>
+	<key>195</key>
+	<string>Naters</string>
+	<key>196</key>
+	<string>Ndjamena</string>
+	<key>197</key>
+	<string>New Delhi</string>
+	<key>198</key>
+	<string>New Orleans</string>
+	<key>199</key>
+	<string>New York</string>
+	<key>2</key>
+	<string>Accra</string>
+	<key>20</key>
+	<string>Auckland</string>
+	<key>200</key>
+	<string>Niamey</string>
+	<key>201</key>
+	<string>Nouakchott</string>
+	<key>202</key>
+	<string>Noumea</string>
+	<key>203</key>
+	<string>Novato</string>
+	<key>204</key>
+	<string>Novosibirsk</string>
+	<key>205</key>
+	<string>Nukuʻalofa</string>
+	<key>206</key>
+	<string>Nuuk</string>
+	<key>207</key>
+	<string>Oakland</string>
+	<key>208</key>
+	<string>Oklahoma City</string>
+	<key>209</key>
+	<string>Omaha</string>
+	<key>21</key>
+	<string>Austin</string>
+	<key>210</key>
+	<string>Omsk</string>
+	<key>211</key>
+	<string>Osaka</string>
+	<key>212</key>
+	<string>Oslo</string>
+	<key>213</key>
+	<string>Ottawa</string>
+	<key>214</key>
+	<string>Ouagadougou</string>
+	<key>215</key>
+	<string>Pacifica</string>
+	<key>216</key>
+	<string>Pago Pago</string>
+	<key>217</key>
+	<string>Palermo</string>
+	<key>218</key>
+	<string>Palo Alto</string>
+	<key>219</key>
+	<string>Panama City</string>
+	<key>22</key>
+	<string>Baghdad</string>
+	<key>220</key>
+	<string>Tahiti</string>
+	<key>221</key>
+	<string>Paramaribo</string>
+	<key>222</key>
+	<string>Paris</string>
+	<key>223</key>
+	<string>Perm</string>
+	<key>224</key>
+	<string>Perth</string>
+	<key>225</key>
+	<string>Petaluma</string>
+	<key>226</key>
+	<string>Philadelphia</string>
+	<key>227</key>
+	<string>Phnom Penh</string>
+	<key>228</key>
+	<string>Phoenix</string>
+	<key>229</key>
+	<string>Pittsburgh</string>
+	<key>23</key>
+	<string>Baku</string>
+	<key>230</key>
+	<string>Pleasanton</string>
+	<key>231</key>
+	<string>Podgorica</string>
+	<key>232</key>
+	<string>Ponta Delgada</string>
+	<key>233</key>
+	<string>Port Louis</string>
+	<key>234</key>
+	<string>Port-au-Prince</string>
+	<key>235</key>
+	<string>Portland</string>
+	<key>236</key>
+	<string>Prague</string>
+	<key>237</key>
+	<string>Pyongyang</string>
+	<key>238</key>
+	<string>Quito</string>
+	<key>239</key>
+	<string>Rabat</string>
+	<key>24</key>
+	<string>Baltimore</string>
+	<key>240</key>
+	<string>Rangoon</string>
+	<key>241</key>
+	<string>Recife</string>
+	<key>242</key>
+	<string>Redwood City</string>
+	<key>243</key>
+	<string>Regina</string>
+	<key>244</key>
+	<string>Reykjavik</string>
+	<key>245</key>
+	<string>Riga</string>
+	<key>246</key>
+	<string>Rio de Janeiro</string>
+	<key>247</key>
+	<string>Riyadh</string>
+	<key>248</key>
+	<string>Rome</string>
+	<key>249</key>
+	<string>Saint-Denis</string>
+	<key>25</key>
+	<string>Bamako</string>
+	<key>250</key>
+	<string>Salt Lake City</string>
+	<key>251</key>
+	<string>Samara</string>
+	<key>252</key>
+	<string>San Diego</string>
+	<key>253</key>
+	<string>San Antonio</string>
+	<key>254</key>
+	<string>San Bruno</string>
+	<key>255</key>
+	<string>San Carlos</string>
+	<key>256</key>
+	<string>San Francisco</string>
+	<key>257</key>
+	<string>San Jose</string>
+	<key>258</key>
+	<string>San José</string>
+	<key>259</key>
+	<string>San Juan</string>
+	<key>26</key>
+	<string>Bangkok</string>
+	<key>260</key>
+	<string>San Leandro</string>
+	<key>261</key>
+	<string>San Salvador</string>
+	<key>262</key>
+	<string>San Marino</string>
+	<key>263</key>
+	<string>San Mateo</string>
+	<key>264</key>
+	<string>San Pablo</string>
+	<key>265</key>
+	<string>San Rafael</string>
+	<key>266</key>
+	<string>San Ramon</string>
+	<key>267</key>
+	<string>Santa Clara</string>
+	<key>268</key>
+	<string>Santa Cruz</string>
+	<key>269</key>
+	<string>Sanaa</string>
+	<key>27</key>
+	<string>Bangui</string>
+	<key>270</key>
+	<string>Santiago</string>
+	<key>271</key>
+	<string>Santo Domingo</string>
+	<key>272</key>
+	<string>São Paulo</string>
+	<key>273</key>
+	<string>Seattle</string>
+	<key>274</key>
+	<string>Seoul</string>
+	<key>275</key>
+	<string>Shanghai</string>
+	<key>276</key>
+	<string>Shenzhen</string>
+	<key>277</key>
+	<string>Singapore</string>
+	<key>278</key>
+	<string>Sioux Falls</string>
+	<key>279</key>
+	<string>Skopje</string>
+	<key>28</key>
+	<string>Barcelona</string>
+	<key>280</key>
+	<string>Sofia</string>
+	<key>281</key>
+	<string>St. John's</string>
+	<key>282</key>
+	<string>St. Louis</string>
+	<key>283</key>
+	<string>St. Petersburg</string>
+	<key>284</key>
+	<string>Sunnyvale</string>
+	<key>285</key>
+	<string>Stockholm</string>
+	<key>286</key>
+	<string>Suva</string>
+	<key>287</key>
+	<string>Sydney</string>
+	<key>288</key>
+	<string>Taipei</string>
+	<key>289</key>
+	<string>Tallinn</string>
+	<key>29</key>
+	<string>Bari</string>
+	<key>290</key>
+	<string>Tashkent</string>
+	<key>291</key>
+	<string>Tegucigalpa</string>
+	<key>292</key>
+	<string>Tehran</string>
+	<key>293</key>
+	<string>Ho Chi Minh City</string>
+	<key>294</key>
+	<string>Tientsin</string>
+	<key>295</key>
+	<string>Tokyo</string>
+	<key>296</key>
+	<string>Toronto</string>
+	<key>297</key>
+	<string>Tréhet</string>
+	<key>298</key>
+	<string>Tripoli</string>
+	<key>299</key>
+	<string>Tunis</string>
+	<key>3</key>
+	<string>Adak</string>
+	<key>30</key>
+	<string>Basse-Terre</string>
+	<key>300</key>
+	<string>Turin</string>
+	<key>301</key>
+	<string>Ulaanbaatar</string>
+	<key>302</key>
+	<string>UTC</string>
+	<key>303</key>
+	<string>Vaduz</string>
+	<key>304</key>
+	<string>Vallejo</string>
+	<key>305</key>
+	<string>Valletta</string>
+	<key>306</key>
+	<string>Vancouver</string>
+	<key>307</key>
+	<string>Verona</string>
+	<key>308</key>
+	<string>Victoria</string>
+	<key>309</key>
+	<string>Vienna</string>
+	<key>31</key>
+	<string>Beijing</string>
+	<key>310</key>
+	<string>Vilnius</string>
+	<key>311</key>
+	<string>Vladivostok</string>
+	<key>312</key>
+	<string>Volgograd</string>
+	<key>313</key>
+	<string>Walnut Creek</string>
+	<key>314</key>
+	<string>Warsaw</string>
+	<key>315</key>
+	<string>Washington, D.C.</string>
+	<key>316</key>
+	<string>Wellington</string>
+	<key>317</key>
+	<string>Winnipeg</string>
+	<key>318</key>
+	<string>Yakutsk</string>
+	<key>319</key>
+	<string>Yamoussoukro</string>
+	<key>32</key>
+	<string>Beirut</string>
+	<key>320</key>
+	<string>Yaoundé</string>
+	<key>321</key>
+	<string>Yekaterinburg</string>
+	<key>322</key>
+	<string>Yerevan</string>
+	<key>323</key>
+	<string>Zagreb</string>
+	<key>324</key>
+	<string>Zurich</string>
+	<key>325</key>
+	<string>Decatur</string>
+	<key>327</key>
+	<string>Vientiane</string>
+	<key>328</key>
+	<string>Lomé</string>
+	<key>329</key>
+	<string>Brazzaville</string>
+	<key>33</key>
+	<string>Belgrade</string>
+	<key>330</key>
+	<string>Mbabane</string>
+	<key>331</key>
+	<string>Maseru</string>
+	<key>332</key>
+	<string>Andorra la Vella</string>
+	<key>334</key>
+	<string>Rio Branco</string>
+	<key>335</key>
+	<string>Fernando de Noronha</string>
+	<key>336</key>
+	<string>Pristina</string>
+	<key>337</key>
+	<string>Thimphu</string>
+	<key>338</key>
+	<string>Berkeley Heights</string>
+	<key>339</key>
+	<string>Acton</string>
+	<key>34</key>
+	<string>Belize City</string>
+	<key>340</key>
+	<string>Thessaloniki</string>
+	<key>341</key>
+	<string>Heraklion</string>
+	<key>342</key>
+	<string>Tel Aviv</string>
+	<key>343</key>
+	<string>Frankfurt</string>
+	<key>345</key>
+	<string>Fort St. John</string>
+	<key>346</key>
+	<string>Yangon</string>
+	<key>347</key>
+	<string>Matamoros</string>
+	<key>348</key>
+	<string>Ojinaga</string>
+	<key>349</key>
+	<string>Santa Isabel</string>
+	<key>35</key>
+	<string>Benicia</string>
+	<key>350</key>
+	<string>Sarajevo</string>
+	<key>351</key>
+	<string>Salzburg</string>
+	<key>352</key>
+	<string>Lyon</string>
+	<key>353</key>
+	<string>Marseille</string>
+	<key>354</key>
+	<string>Tbilisi</string>
+	<key>355</key>
+	<string>Saskatoon</string>
+	<key>356</key>
+	<string>Tórshavn</string>
+	<key>357</key>
+	<string>Waitangi</string>
+	<key>358</key>
+	<string>Makassar</string>
+	<key>359</key>
+	<string>Jayapura</string>
+	<key>36</key>
+	<string>Berkeley</string>
+	<key>360</key>
+	<string>Antwerp</string>
+	<key>361</key>
+	<string>Alexandria</string>
+	<key>362</key>
+	<string>Chiang Mai</string>
+	<key>363</key>
+	<string>Hamilton</string>
+	<key>364</key>
+	<string>Kraków</string>
+	<key>365</key>
+	<string>Tirana</string>
+	<key>366</key>
+	<string>Windhoek</string>
+	<key>367</key>
+	<string>Nicosia</string>
+	<key>368</key>
+	<string>Apia</string>
+	<key>369</key>
+	<string>Salvador</string>
+	<key>37</key>
+	<string>Berlin</string>
+	<key>370</key>
+	<string>St. John's</string>
+	<key>371</key>
+	<string>The Valley</string>
+	<key>372</key>
+	<string>McMurdo Station</string>
+	<key>373</key>
+	<string>Amundsen-Scott Station</string>
+	<key>374</key>
+	<string>Rothera Station</string>
+	<key>375</key>
+	<string>Palmer Station</string>
+	<key>376</key>
+	<string>Mawson Station</string>
+	<key>377</key>
+	<string>Davis Station</string>
+	<key>378</key>
+	<string>Casey Station</string>
+	<key>379</key>
+	<string>Vostok Station</string>
+	<key>38</key>
+	<string>Bern</string>
+	<key>380</key>
+	<string>Dumont-d'Urville Station</string>
+	<key>381</key>
+	<string>Syowa Station</string>
+	<key>382</key>
+	<string>Macquarie Island Station</string>
+	<key>383</key>
+	<string>Cordoba</string>
+	<key>384</key>
+	<string>Salta</string>
+	<key>385</key>
+	<string>San Salvador de Jujuy</string>
+	<key>386</key>
+	<string>Tucaman</string>
+	<key>387</key>
+	<string>Catamarca</string>
+	<key>388</key>
+	<string>La Rioja</string>
+	<key>389</key>
+	<string>San Juan</string>
+	<key>39</key>
+	<string>Bishkek</string>
+	<key>390</key>
+	<string>Mendoza</string>
+	<key>391</key>
+	<string>San Luis</string>
+	<key>392</key>
+	<string>Rio Gallegos</string>
+	<key>393</key>
+	<string>Ushuaia</string>
+	<key>394</key>
+	<string>Lord Howe Island</string>
+	<key>395</key>
+	<string>Currie</string>
+	<key>396</key>
+	<string>Broken Hill</string>
+	<key>397</key>
+	<string>Lindeman Island</string>
+	<key>398</key>
+	<string>Eucla</string>
+	<key>399</key>
+	<string>Oranjestad</string>
+	<key>4</key>
+	<string>Addis Ababa</string>
+	<key>40</key>
+	<string>Bissau</string>
+	<key>400</key>
+	<string>Mariehamn</string>
+	<key>401</key>
+	<string>Bujumbura</string>
+	<key>402</key>
+	<string>Porto-Novo</string>
+	<key>403</key>
+	<string>Bandar Seri Begawan</string>
+	<key>404</key>
+	<string>Kralendijk</string>
+	<key>405</key>
+	<string>Belem</string>
+	<key>406</key>
+	<string>Fortaleza</string>
+	<key>407</key>
+	<string>Araguaina</string>
+	<key>408</key>
+	<string>Maceio</string>
+	<key>409</key>
+	<string>Campo Grande</string>
+	<key>41</key>
+	<string>Blacksburg</string>
+	<key>410</key>
+	<string>Cuiaba</string>
+	<key>411</key>
+	<string>Santarém</string>
+	<key>412</key>
+	<string>Porto Velho</string>
+	<key>413</key>
+	<string>Boa Vista</string>
+	<key>414</key>
+	<string>Manaus</string>
+	<key>415</key>
+	<string>Eirunepe</string>
+	<key>416</key>
+	<string>Nassau</string>
+	<key>417</key>
+	<string>Glace Bay</string>
+	<key>418</key>
+	<string>Moncton</string>
+	<key>419</key>
+	<string>Happy Valley-Goose Bay</string>
+	<key>42</key>
+	<string>Bogotá</string>
+	<key>420</key>
+	<string>Blanc-Sablon</string>
+	<key>421</key>
+	<string>Nipigon</string>
+	<key>422</key>
+	<string>Thunder Bay</string>
+	<key>423</key>
+	<string>Iqaluit</string>
+	<key>424</key>
+	<string>Pangnirtung</string>
+	<key>425</key>
+	<string>Resolute</string>
+	<key>426</key>
+	<string>Atikokan</string>
+	<key>427</key>
+	<string>Rankin Inlet</string>
+	<key>428</key>
+	<string>Rainy River</string>
+	<key>429</key>
+	<string>Swift Current</string>
+	<key>43</key>
+	<string>Bologna</string>
+	<key>430</key>
+	<string>Edmonton</string>
+	<key>431</key>
+	<string>Cambridge Bay</string>
+	<key>432</key>
+	<string>Yellowknife</string>
+	<key>433</key>
+	<string>Inuvik</string>
+	<key>434</key>
+	<string>Dawson Creek</string>
+	<key>435</key>
+	<string>Whitehorse</string>
+	<key>436</key>
+	<string>Dawson City</string>
+	<key>437</key>
+	<string>Bantam Village</string>
+	<key>438</key>
+	<string>Lubumbashi</string>
+	<key>439</key>
+	<string>Rarotonga</string>
+	<key>44</key>
+	<string>Boston</string>
+	<key>440</key>
+	<string>Harbin</string>
+	<key>441</key>
+	<string>Chongqing</string>
+	<key>442</key>
+	<string>Urumqi</string>
+	<key>443</key>
+	<string>Kashgar</string>
+	<key>444</key>
+	<string>Praia</string>
+	<key>445</key>
+	<string>Willemstad</string>
+	<key>446</key>
+	<string>The Settlement</string>
+	<key>447</key>
+	<string>Roseau</string>
+	<key>448</key>
+	<string>Guayaquil</string>
+	<key>449</key>
+	<string>El-Aaiun</string>
+	<key>45</key>
+	<string>Bratislava</string>
+	<key>450</key>
+	<string>Ceuta</string>
+	<key>451</key>
+	<string>Stanley</string>
+	<key>452</key>
+	<string>Chuuk</string>
+	<key>453</key>
+	<string>Pohnpei</string>
+	<key>454</key>
+	<string>Kosrae</string>
+	<key>455</key>
+	<string>Libreville</string>
+	<key>456</key>
+	<string>St. Georges</string>
+	<key>457</key>
+	<string>Saint Peter Port</string>
+	<key>458</key>
+	<string>Gibraltar</string>
+	<key>459</key>
+	<string>Chengdu</string>
+	<key>46</key>
+	<string>Brasília</string>
+	<key>460</key>
+	<string>Dalian</string>
+	<key>461</key>
+	<string>Hefei</string>
+	<key>462</key>
+	<string>Lhasa</string>
+	<key>463</key>
+	<string>Nanjing</string>
+	<key>464</key>
+	<string>Qingdao</string>
+	<key>465</key>
+	<string>Shenyang</string>
+	<key>466</key>
+	<string>Danmarkshavn</string>
+	<key>467</key>
+	<string>Ittoqqortoormiit</string>
+	<key>468</key>
+	<string>Thule</string>
+	<key>469</key>
+	<string>Banjul</string>
+	<key>47</key>
+	<string>Bridgetown</string>
+	<key>470</key>
+	<string>Pontianak</string>
+	<key>471</key>
+	<string>Douglas</string>
+	<key>472</key>
+	<string>Diego Garcia</string>
+	<key>473</key>
+	<string>St. Helier</string>
+	<key>474</key>
+	<string>Tarawa</string>
+	<key>475</key>
+	<string>Kanton Island</string>
+	<key>476</key>
+	<string>Kiritimati</string>
+	<key>477</key>
+	<string>Moroni</string>
+	<key>478</key>
+	<string>Basseterre</string>
+	<key>479</key>
+	<string>George Town</string>
+	<key>48</key>
+	<string>Brisbane</string>
+	<key>480</key>
+	<string>Kyzylorda</string>
+	<key>481</key>
+	<string>Aqtobe</string>
+	<key>482</key>
+	<string>Atyrau</string>
+	<key>483</key>
+	<string>Oral</string>
+	<key>484</key>
+	<string>Castries</string>
+	<key>485</key>
+	<string>Monaco</string>
+	<key>486</key>
+	<string>Majuro</string>
+	<key>487</key>
+	<string>Kwajalein Atoll</string>
+	<key>488</key>
+	<string>Hovd</string>
+	<key>489</key>
+	<string>Choibalsan</string>
+	<key>49</key>
+	<string>Brussels</string>
+	<key>490</key>
+	<string>Saipan</string>
+	<key>491</key>
+	<string>Plymouth</string>
+	<key>492</key>
+	<string>Blantyre</string>
+	<key>493</key>
+	<string>Cancun</string>
+	<key>494</key>
+	<string>Mérida</string>
+	<key>495</key>
+	<string>Monterrey</string>
+	<key>496</key>
+	<string>Mazatlán</string>
+	<key>497</key>
+	<string>Chihuahua</string>
+	<key>498</key>
+	<string>Hermosillo</string>
+	<key>499</key>
+	<string>Tijuana</string>
+	<key>5</key>
+	<string>Adelaide</string>
+	<key>50</key>
+	<string>Bucharest</string>
+	<key>500</key>
+	<string>Puerto Vallarta</string>
+	<key>501</key>
+	<string>Kuching</string>
+	<key>502</key>
+	<string>Kingston</string>
+	<key>503</key>
+	<string>Nauru</string>
+	<key>504</key>
+	<string>Alofi</string>
+	<key>505</key>
+	<string>Chatham Island</string>
+	<key>506</key>
+	<string>Taiohae</string>
+	<key>507</key>
+	<string>Rikitea</string>
+	<key>508</key>
+	<string>Port Moresby</string>
+	<key>509</key>
+	<string>Karachi</string>
+	<key>51</key>
+	<string>Budapest</string>
+	<key>510</key>
+	<string>Saint-Pierre</string>
+	<key>511</key>
+	<string>Adamstown</string>
+	<key>512</key>
+	<string>Gaza</string>
+	<key>513</key>
+	<string>Hebron</string>
+	<key>514</key>
+	<string>Funchal</string>
+	<key>515</key>
+	<string>Vincennes</string>
+	<key>516</key>
+	<string>Koror</string>
+	<key>517</key>
+	<string>Novokuznetsk</string>
+	<key>518</key>
+	<string>Yuzhno-Sakhalinsk</string>
+	<key>519</key>
+	<string>Petropavlovsk-Kamchatsky</string>
+	<key>52</key>
+	<string>Buenos Aires</string>
+	<key>520</key>
+	<string>Monticello</string>
+	<key>521</key>
+	<string>Kigali</string>
+	<key>522</key>
+	<string>Honiara</string>
+	<key>523</key>
+	<string>Jamestown</string>
+	<key>524</key>
+	<string>Longyearbyen</string>
+	<key>525</key>
+	<string>Juba</string>
+	<key>526</key>
+	<string>São Tomé</string>
+	<key>527</key>
+	<string>Lower Prince's Quarter</string>
+	<key>528</key>
+	<string>Cockburn Town</string>
+	<key>529</key>
+	<string>Port-aux-Français</string>
+	<key>53</key>
+	<string>Burlingame</string>
+	<key>530</key>
+	<string>Fale</string>
+	<key>531</key>
+	<string>Dili</string>
+	<key>532</key>
+	<string>Winamac</string>
+	<key>533</key>
+	<string>Marengo</string>
+	<key>534</key>
+	<string>Petersburg</string>
+	<key>535</key>
+	<string>Vevay</string>
+	<key>536</key>
+	<string>Tell City</string>
+	<key>537</key>
+	<string>Knox</string>
+	<key>538</key>
+	<string>Menominee</string>
+	<key>539</key>
+	<string>Center</string>
+	<key>54</key>
+	<string>Cairo</string>
+	<key>540</key>
+	<string>Beulah</string>
+	<key>541</key>
+	<string>Boise</string>
+	<key>542</key>
+	<string>Shiprock</string>
+	<key>543</key>
+	<string>Juneau</string>
+	<key>544</key>
+	<string>Sitka</string>
+	<key>545</key>
+	<string>Yakutat</string>
+	<key>546</key>
+	<string>Nome</string>
+	<key>547</key>
+	<string>Metlakatla</string>
+	<key>548</key>
+	<string>Samarkand</string>
+	<key>549</key>
+	<string>Vatican City</string>
+	<key>55</key>
+	<string>Calgary</string>
+	<key>550</key>
+	<string>Kingstown</string>
+	<key>551</key>
+	<string>Road Town</string>
+	<key>552</key>
+	<string>Christiansted</string>
+	<key>553</key>
+	<string>Efate</string>
+	<key>554</key>
+	<string>Mata-Utu</string>
+	<key>555</key>
+	<string>Aden</string>
+	<key>556</key>
+	<string>Mamoudzou</string>
+	<key>557</key>
+	<string>Gothenburg</string>
+	<key>558</key>
+	<string>Malmö</string>
+	<key>559</key>
+	<string>New Salem</string>
+	<key>56</key>
+	<string>Canary Islands</string>
+	<key>560</key>
+	<string>Creston</string>
+	<key>561</key>
+	<string>Quebec City</string>
+	<key>57</key>
+	<string>Canberra</string>
+	<key>58</key>
+	<string>Canton</string>
+	<key>59</key>
+	<string>Cape Town</string>
+	<key>6</key>
+	<string>Albuquerque</string>
+	<key>60</key>
+	<string>Caracas</string>
+	<key>61</key>
+	<string>Cardiff</string>
+	<key>62</key>
+	<string>Catanzaro</string>
+	<key>63</key>
+	<string>Cayenne</string>
+	<key>64</key>
+	<string>Charlotte</string>
+	<key>65</key>
+	<string>Charlotte Amalie</string>
+	<key>66</key>
+	<string>Chennai</string>
+	<key>67</key>
+	<string>Chicago</string>
+	<key>68</key>
+	<string>Chisinau</string>
+	<key>69</key>
+	<string>Chita</string>
+	<key>7</key>
+	<string>Algiers</string>
+	<key>70</key>
+	<string>Cleveland</string>
+	<key>71</key>
+	<string>Colombo</string>
+	<key>72</key>
+	<string>Columbus</string>
+	<key>73</key>
+	<string>Conakry</string>
+	<key>74</key>
+	<string>Copenhagen</string>
+	<key>75</key>
+	<string>Cupertino</string>
+	<key>76</key>
+	<string>Cork</string>
+	<key>77</key>
+	<string>Crotone</string>
+	<key>78</key>
+	<string>Dhaka</string>
+	<key>79</key>
+	<string>Dakar</string>
+	<key>8</key>
+	<string>Amman</string>
+	<key>80</key>
+	<string>Dallas</string>
+	<key>81</key>
+	<string>Daly City</string>
+	<key>82</key>
+	<string>Damascus</string>
+	<key>83</key>
+	<string>Dar es Salaam</string>
+	<key>84</key>
+	<string>Darwin</string>
+	<key>85</key>
+	<string>Denver</string>
+	<key>86</key>
+	<string>Detroit</string>
+	<key>87</key>
+	<string>Djibouti</string>
+	<key>88</key>
+	<string>Doha</string>
+	<key>89</key>
+	<string>Douala</string>
+	<key>9</key>
+	<string>Amsterdam</string>
+	<key>90</key>
+	<string>Dubai</string>
+	<key>91</key>
+	<string>Dublin</string>
+	<key>92</key>
+	<string>Dushanbe</string>
+	<key>93</key>
+	<string>Edinburgh</string>
+	<key>94</key>
+	<string>El Paso</string>
+	<key>95</key>
+	<string>Florence</string>
+	<key>96</key>
+	<string>Fremont</string>
+	<key>97</key>
+	<string>Fort-de-France</string>
+	<key>98</key>
+	<string>Foster City</string>
+	<key>99</key>
+	<string>Freetown</string>
+</dict>
+</plist>

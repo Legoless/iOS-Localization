@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUY_TONE_ALERT_TITLE</key>
+	<string>New Tone</string>
+	<key>BUY_TONE_ASSIGN_TO_CONTACT</key>
+	<string>Assign to a Contact</string>
+	<key>BUY_TONE_BODY_FORMAT</key>
+	<string>“%@”</string>
+	<key>BUY_TONE_DONE</key>
+	<string>Done</string>
+	<key>BUY_TONE_SET_AS_DEFAULT_RINGTONE</key>
+	<string>Set as Default Ringtone</string>
+	<key>BUY_TONE_SET_AS_DEFAULT_TEXT_TONE</key>
+	<string>Set as Default Text Tone</string>
+	<key>BUY_TONE_SET_AS_RINGTONE</key>
+	<string>Set as Ringtone</string>
+	<key>BUY_TONE_SET_AS_TEXT_TONE</key>
+	<string>Set as Text Tone</string>
+	<key>NO_STORE_MAIN</key>
+	<string>Cannot Connect
+to the iTunes Store</string>
+	<key>NO_STORE_MAIN_K48</key>
+	<string>Cannot Connect to the iTunes Store</string>
+	<key>NO_STORE_SUB</key>
+	<string>You must connect to a Wi-Fi network
+to access the iTunes Store.</string>
+	<key>NO_STORE_SUB_CELLULAR</key>
+	<string>You must connect to a Wi-Fi or cellular data
+network to access the iTunes Store.</string>
+	<key>NO_STORE_SUB_CELLULAR_WLAN</key>
+	<string>You must connect to a WLAN or cellular data
+network to access the iTunes Store.</string>
+	<key>NO_STORE_SUB_NO_WIFI</key>
+	<string>You must connect to a cellular data
+network to access the iTunes Store.</string>
+	<key>NO_STORE_SUB_WLAN</key>
+	<string>You must connect to a WLAN network
+to access the iTunes Store.</string>
+	<key>NO_STORE_TITLE</key>
+	<string>iTunes Store</string>
+	<key>PRODUCT_PAGE_EXPECTED_RELEASE_DATE</key>
+	<string>Expected Release Date %@</string>
+	<key>RELEASE_DATE</key>
+	<string>Released %@</string>
+</dict>
+</plist>

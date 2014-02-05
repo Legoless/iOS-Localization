@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Column Break</key>
+	<string>Column Break</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Cut</key>
+	<string>Cut</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Line Break</key>
+	<string>Line Break</string>
+	<key>Page Break</key>
+	<string>Page Break</string>
+	<key>Page Numbers</key>
+	<string>Page Numbers</string>
+	<key>Paste</key>
+	<string>Paste</string>
+	<key>Select</key>
+	<string>Select</string>
+	<key>Select All</key>
+	<string>Select All</string>
+	<key>Tab</key>
+	<string>Tab</string>
+</dict>
+</plist>

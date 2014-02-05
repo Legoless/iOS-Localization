@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BOOKMARKS</key>
+	<string>Bookmarks</string>
+	<key>DELETE_HISTORY</key>
+	<string>Clearing history cannot be undone.</string>
+	<key>DELETE_READING_LIST_CACHE_ERROR_LOCKED</key>
+	<string>Bookmarks are being synced. Please delete offline Reading List data once syncing has completed.</string>
+	<key>DELETE_READING_LIST_CACHE_FOOTER_TEXT</key>
+	<string>Clearing the offline Reading List cache will not remove any items from your Reading List.</string>
+	<key>HISTORY</key>
+	<string>History</string>
+	<key>HISTORY_CLEAR_CANCEL</key>
+	<string>Cancel</string>
+	<key>HISTORY_CLEAR_OK</key>
+	<string>Clear</string>
+	<key>HISTORY_CLEAR_TITLE</key>
+	<string>Clear History</string>
+	<key>HISTORY_CLEAR_WARNING</key>
+	<string>Are you sure you want to clear history? This cannot be undone.</string>
+	<key>MANAGE_BOOKMARKS_IN_SAFARI_FOOTER_TEXT</key>
+	<string>Manage bookmarks in Safari</string>
+	<key>MANAGE_BOOKMARKS_IN_SAFARI_FOOTER_URL</key>
+	<string></string>
+	<key>OFFLINE_READING_LIST_CACHE</key>
+	<string>Offline Reading List</string>
+	<key>WEBSITE_DATA</key>
+	<string>Website Data</string>
+</dict>
+</plist>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BT_CANCEL</key>
+	<string>Cancel</string>
+	<key>BT_JUST_WORKS_MESSAGE</key>
+	<string>Would you like to allow it to pair?</string>
+	<key>BT_JUST_WORKS_TITLE</key>
+	<string>“%@” would like to pair with your %@.</string>
+	<key>BT_NUMERIC_MESSAGE</key>
+	<string>Confirm that the PIN code %@ is shown on “%@”</string>
+	<key>BT_NUMERIC_TITLE</key>
+	<string>“%@” would like to pair with your %@.</string>
+	<key>BT_PAIR_BUTTON</key>
+	<string>Pair</string>
+	<key>WIFI_CANCEL</key>
+	<string>Cancel</string>
+	<key>WIFI_DONT_ASK</key>
+	<string>Don’t Ask</string>
+	<key>WIFI_DONT_ASK_TEXT</key>
+	<string>If you do not want to be asked to join Wi-Fi networks, you can turn this feature off in Wi-Fi Settings.</string>
+	<key>WIFI_DONT_ASK_TEXT_WLAN</key>
+	<string>If you do not want to be asked to join WLAN networks, you can turn this feature off in WLAN Settings.</string>
+	<key>WIFI_ERROR_25</key>
+	<string>Incorrect password for
+“%@”</string>
+	<key>WIFI_ERROR_3_6</key>
+	<string>Unable to join the network
+“%@”</string>
+	<key>WIFI_ERROR_OK</key>
+	<string>OK</string>
+	<key>WIFI_JOIN</key>
+	<string>Join</string>
+	<key>WIFI_MESSAGE</key>
+	<string>Touch a network to join</string>
+	<key>WIFI_NO</key>
+	<string>Cancel</string>
+	<key>WIFI_NOTIFY_IS_ENTERPRISE_BODY</key>
+	<string>Do you want to continue joining this network?</string>
+	<key>WIFI_NOTIFY_IS_ENTERPRISE_CANCEL</key>
+	<string>Cancel</string>
+	<key>WIFI_NOTIFY_IS_ENTERPRISE_OK</key>
+	<string>OK</string>
+	<key>WIFI_NOTIFY_IS_ENTERPRISE_TITLE</key>
+	<string>Enterprise Wi-Fi Network</string>
+	<key>WIFI_NOTIFY_IS_ENTERPRISE_TITLE_WLAN</key>
+	<string>Enterprise WLAN Network</string>
+	<key>WIFI_ONE_LOCKED_NETWORK_MESSAGE</key>
+	<string>Locked Network: “%@”</string>
+	<key>WIFI_ONE_NETWORK_MESSAGE</key>
+	<string>Network: “%@”</string>
+	<key>WIFI_PASSWORD_MESSAGE</key>
+	<string>Enter password for
+“%@”</string>
+	<key>WIFI_PASSWORD_TITLE</key>
+	<string>Password</string>
+	<key>WIFI_TITLE</key>
+	<string>Select a Wireless Network</string>
+	<key>WIFI_TITLE_WLAN</key>
+	<string>Select a Wireless Network</string>
+	<key>WIFI_TRUST_ACCEPT_BUTTON</key>
+	<string>Accept Certificate</string>
+	<key>WIFI_TRUST_BODY</key>
+	<string>Accept or view details for this certificate from %@</string>
+	<key>WIFI_TRUST_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>WIFI_TRUST_TITLE</key>
+	<string>Certificate needed to join the network “%@”</string>
+	<key>WIFI_TRUST_VIEW_BUTTON</key>
+	<string>View Certificate Details</string>
+	<key>WIFI_YES</key>
+	<string>Don’t Ask</string>
+</dict>
+</plist>

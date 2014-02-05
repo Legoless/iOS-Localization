@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>52w High:</key>
+	<string>52 week high:</string>
+	<key>52w Low:</key>
+	<string>52 week low:</string>
+	<key>Avg Vol:</key>
+	<string>Average volume:</string>
+	<key>High:</key>
+	<string>High:</string>
+	<key>Low:</key>
+	<string>Low:</string>
+	<key>Mkt Cap:</key>
+	<string>Market cap:</string>
+	<key>Open:</key>
+	<string>Open:</string>
+	<key>P/E:</key>
+	<string>Price to earnings ratio:</string>
+	<key>Vol:</key>
+	<string>Volume:</string>
+	<key>Yield:</key>
+	<string>Yield:</string>
+	<key>application.name</key>
+	<string>Stocks</string>
+	<key>chart.axis.range</key>
+	<string>Showing range %2$@ to %3$@</string>
+	<key>chart.axis.type</key>
+	<string>Chart %1$@ axis</string>
+	<key>down.text</key>
+	<string>down</string>
+	<key>five.year.period</key>
+	<string>Five years</string>
+	<key>info.button.text</key>
+	<string>Edit stocks</string>
+	<key>negative.change</key>
+	<string>Down %@</string>
+	<key>nextDetailViewButton</key>
+	<string>Next detail view</string>
+	<key>no.change</key>
+	<string>No change</string>
+	<key>no.value</key>
+	<string>No value</string>
+	<key>one.day.period</key>
+	<string>One day</string>
+	<key>one.month.period</key>
+	<string>One month</string>
+	<key>one.week.period</key>
+	<string>One week</string>
+	<key>one.year.period</key>
+	<string>One year</string>
+	<key>positive.change</key>
+	<string>Up %@</string>
+	<key>previousDetailViewButton</key>
+	<string>Previous detail view</string>
+	<key>reporting.period</key>
+	<string>Reporting period</string>
+	<key>scroll.stock.summary</key>
+	<string>Showing stock %1$@ of %2$@</string>
+	<key>six.month.period</key>
+	<string>Six months</string>
+	<key>stock.detail.page.chart</key>
+	<string>Chart</string>
+	<key>stock.detail.page.news</key>
+	<string>News</string>
+	<key>stock.detail.page.summary</key>
+	<string>Summary</string>
+	<key>stock.info.title</key>
+	<string>Stock info: %@</string>
+	<key>ten.year.period</key>
+	<string>Ten years</string>
+	<key>three.month.period</key>
+	<string>Three months</string>
+	<key>ticker.cell.format.down</key>
+	<string>%1$@, %2$@, down %3$@, change of %4$@, market cap: %5$@</string>
+	<key>ticker.cell.format.down.nomarketcap</key>
+	<string>%1$@, %2$@, down %3$@, change of %4$@</string>
+	<key>ticker.cell.format.up</key>
+	<string>%1$@, %2$@, up %3$@, change of %4$@, market cap: %5$@</string>
+	<key>ticker.cell.format.up.nomarketcap</key>
+	<string>%1$@, %2$@, up %3$@, change of %4$@</string>
+	<key>two.year.period</key>
+	<string>Two years</string>
+	<key>up.text</key>
+	<string>up</string>
+	<key>yahoo.button.text</key>
+	<string>Yahoo! Finance</string>
+</dict>
+</plist>

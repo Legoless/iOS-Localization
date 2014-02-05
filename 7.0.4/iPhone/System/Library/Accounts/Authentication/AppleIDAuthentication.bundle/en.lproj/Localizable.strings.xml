@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>IFORGOT_DIALOG_BUTTON</key>
+	<string>Reset</string>
+	<key>IFORGOT_DIALOG_MESSAGE</key>
+	<string>If you have forgotten your password, you can reset it.</string>
+	<key>IFORGOT_DIALOG_TITLE</key>
+	<string>Incorrect Apple ID Password</string>
+	<key>NEW_ICLOUD_TOS_MESSAGE_IPAD</key>
+	<string>To use iCloud on this iPad you must accept the new iCloud Terms and Conditions.</string>
+	<key>NEW_ICLOUD_TOS_MESSAGE_IPHONE</key>
+	<string>To use iCloud on this iPhone you must accept the new Terms and Conditions.</string>
+	<key>NEW_ICLOUD_TOS_MESSAGE_IPOD</key>
+	<string>To use iCloud on this iPod touch you must accept the new Terms and Conditions.</string>
+	<key>NEW_ICLOUD_TOS_TITLE</key>
+	<string>New iCloud Terms and Conditions</string>
+	<key>NOT_NOW_BUTTON</key>
+	<string>Not Now</string>
+	<key>OKAY</key>
+	<string>OK</string>
+	<key>PASSWORD_ALERT_MESSAGE_WITH_USERNAME</key>
+	<string>Enter the Apple ID password for “%@”.</string>
+	<key>PASSWORD_ALERT_TEXTFIELD</key>
+	<string>password</string>
+	<key>PASSWORD_ALERT_TITLE_FOR_APPLE_ID</key>
+	<string>Apple ID Password</string>
+	<key>PASSWORD_ALERT_TITLE_WITH_SERVICE</key>
+	<string>Sign In to %@</string>
+	<key>VIEW_TERMS_BUTTON</key>
+	<string>View Terms</string>
+</dict>
+</plist>

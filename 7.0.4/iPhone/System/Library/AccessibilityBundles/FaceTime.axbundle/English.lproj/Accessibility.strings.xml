@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.contact.text</key>
+	<string>Save as contact</string>
+	<key>add.to.contacts</key>
+	<string>Add to contacts</string>
+	<key>application.name</key>
+	<string>Phone</string>
+	<key>application.name.facetime</key>
+	<string>FaceTime</string>
+	<key>call.canceled</key>
+	<string>Canceled: </string>
+	<key>call.failed</key>
+	<string>Unsuccessful: </string>
+	<key>call.incoming</key>
+	<string>Incoming: </string>
+	<key>call.missed</key>
+	<string>Missed: </string>
+	<key>call.outgoing</key>
+	<string>Outgoing: </string>
+	<key>call.text</key>
+	<string>Call</string>
+	<key>calls</key>
+	<string>Calls: </string>
+	<key>conference.button</key>
+	<string>Add call</string>
+	<key>confirm.end.call.button</key>
+	<string>Confirm end call with %@</string>
+	<key>contacts.button</key>
+	<string>Contacts</string>
+	<key>delete.text</key>
+	<string>Delete</string>
+	<key>delete.title</key>
+	<string>Delete</string>
+	<key>empty.phone.display</key>
+	<string>Blank phone number</string>
+	<key>end.call.button</key>
+	<string>End call with %@</string>
+	<key>facetime.audio</key>
+	<string>FaceTime Audio</string>
+	<key>facetime.video</key>
+	<string>FaceTime</string>
+	<key>greeting.playback.slider</key>
+	<string>Greeting position</string>
+	<key>hold.button</key>
+	<string>Hold</string>
+	<key>keypad.button</key>
+	<string>Keypad</string>
+	<key>last.call</key>
+	<string>Last call: %@</string>
+	<key>mute.button</key>
+	<string>Mute</string>
+	<key>num.calls.plural</key>
+	<string>%@ calls</string>
+	<key>num.calls.singular</key>
+	<string>%@ call</string>
+	<key>pause.voicemail.button</key>
+	<string>Pause voicemail</string>
+	<key>phone.display</key>
+	<string>Phone number</string>
+	<key>play.voicemail.button</key>
+	<string>Play voicemail</string>
+	<key>private.button</key>
+	<string>Start private call with %@</string>
+	<key>speaker.button</key>
+	<string>Speaker Phone</string>
+	<key>voicemail.info</key>
+	<string>More info</string>
+	<key>voicemail.ispaused</key>
+	<string>Paused message</string>
+	<key>voicemail.isplaying</key>
+	<string>Playing</string>
+	<key>voicemail.list.empty</key>
+	<string>No voicemails</string>
+	<key>voicemail.playback.slider</key>
+	<string>Voicemail position</string>
+	<key>voicemail.setup.button</key>
+	<string>Set up now</string>
+	<key>voicemail.unplayed</key>
+	<string>Unplayed</string>
+</dict>
+</plist>

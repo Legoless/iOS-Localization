@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2012 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.hims.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.hims.65537</key>
+	<string>F1</string>
+	<key>com.apple.scrod.braille.driver.hims.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.hims.65793</key>
+	<string>F2</string>
+	<key>com.apple.scrod.braille.driver.hims.66049</key>
+	<string>F3</string>
+	<key>com.apple.scrod.braille.driver.hims.66305</key>
+	<string>F4</string>
+	<key>com.apple.scrod.braille.driver.hims.67329</key>
+	<string>Left Up</string>
+	<key>com.apple.scrod.braille.driver.hims.67585</key>
+	<string>Right Up</string>
+	<key>com.apple.scrod.braille.driver.hims.67841</key>
+	<string>Right Down</string>
+	<key>com.apple.scrod.braille.driver.hims.68097</key>
+	<string>Left Down</string>
+	<key>com.apple.scrod.braille.driver.hims.68353</key>
+	<string>F5</string>
+	<key>com.apple.scrod.braille.driver.hims.68609</key>
+	<string>F6</string>
+	<key>com.apple.scrod.braille.driver.hims.68865</key>
+	<string>F7</string>
+	<key>com.apple.scrod.braille.driver.hims.69121</key>
+	<string>F8</string>
+	<key>com.apple.scrod.braille.driver.hims.69377</key>
+	<string>Left Pad Up</string>
+	<key>com.apple.scrod.braille.driver.hims.69633</key>
+	<string>Left Pad Down</string>
+	<key>com.apple.scrod.braille.driver.hims.69889</key>
+	<string>Left Pad Left</string>
+	<key>com.apple.scrod.braille.driver.hims.70145</key>
+	<string>Left Pad Right</string>
+	<key>com.apple.scrod.braille.driver.hims.70401</key>
+	<string>Right Pad Up</string>
+	<key>com.apple.scrod.braille.driver.hims.70657</key>
+	<string>Right Pad Down</string>
+	<key>com.apple.scrod.braille.driver.hims.70913</key>
+	<string>Right Pad Left</string>
+	<key>com.apple.scrod.braille.driver.hims.71169</key>
+	<string>Right Pad Right</string>
+	<key>com.apple.scrod.braille.driver.hims.braille.edge.40</key>
+	<string>HIMS Braille EDGE 40</string>
+</dict>
+</plist>

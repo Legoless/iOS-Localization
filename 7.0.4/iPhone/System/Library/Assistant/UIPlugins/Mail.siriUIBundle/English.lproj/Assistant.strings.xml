@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BCC_FORMAT</key>
+	<string>Bcc %@</string>
+	<key>BCC_HEADER</key>
+	<string>Bcc:</string>
+	<key>CC_FORMAT</key>
+	<string>Cc %@</string>
+	<key>CC_HEADER</key>
+	<string>Cc:</string>
+	<key>MAIL</key>
+	<string>Mail</string>
+	<key>NO_CONTENT_PLACEHOLDER</key>
+	<string>This email has no content.</string>
+	<key>NO_RECIPIENTS_PLACEHOLDER</key>
+	<string>(No Recipients)</string>
+	<key>NO_SENDER_PLACEHOLDER</key>
+	<string>(No Sender)</string>
+	<key>NO_SUBJECT_PLACEHOLDER</key>
+	<string>(No Subject)</string>
+	<key>SHOW_MORE</key>
+	<string>Show More…</string>
+	<key>STAMP_PLACEHOLDER</key>
+	<string>Place
+Stamp
+Here</string>
+	<key>SUBJECT_HEADER</key>
+	<string>Subject:</string>
+	<key>TO_FORMAT</key>
+	<string>To %@</string>
+	<key>TO_HEADER</key>
+	<string>To:</string>
+</dict>
+</plist>

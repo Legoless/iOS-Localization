@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WEIBO_AUTH_ALERT_CANCEL</key>
+	<string>Cancel</string>
+	<key>WEIBO_AUTH_ALERT_MESSAGE_OSX</key>
+	<string>Enter the password for “%@” in System Preferences.</string>
+	<key>WEIBO_AUTH_ALERT_PREFERENCES</key>
+	<string>Preferences…</string>
+	<key>WEIBO_AUTH_ALERT_SETTINGS</key>
+	<string>Settings</string>
+	<key>WEIBO_AUTH_ALERT_TITLE</key>
+	<string>Enter the Weibo password for “%@” in Settings.</string>
+	<key>WEIBO_AUTH_ALERT_TITLE_OSX</key>
+	<string>Weibo Password</string>
+	<key>WEIBO_AUTH_ERROR_NOT_PERMITTED</key>
+	<string>The application does not have permission to add Weibo accounts using a password.</string>
+	<key>WEIBO_AUTH_ERROR_NO_CREDENTIAL</key>
+	<string>The account could not be verified because it does not have the necessary credentials.</string>
+	<key>WEIBO_AUTH_USER_CANCELED</key>
+	<string>User canceled password prompt</string>
+</dict>
+</plist>

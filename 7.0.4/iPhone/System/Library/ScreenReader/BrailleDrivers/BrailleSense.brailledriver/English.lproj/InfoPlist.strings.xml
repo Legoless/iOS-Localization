@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2010 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.18</key>
+	<string>HIMS Braille Sense 18</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.32</key>
+	<string>HIMS Braille Sense 32</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.65537</key>
+	<string>F1</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.65793</key>
+	<string>F2</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.66049</key>
+	<string>F3</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.66305</key>
+	<string>F4</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.66561</key>
+	<string>Scroll Left</string>
+	<key>com.apple.scrod.braille.driver.hims.braillesense.66817</key>
+	<string>Scroll Right</string>
+</dict>
+</plist>

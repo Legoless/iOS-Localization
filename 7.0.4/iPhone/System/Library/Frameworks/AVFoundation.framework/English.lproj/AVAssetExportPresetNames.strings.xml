@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AVAssetExportPreset1280x720</key>
+	<string>1280x720 Movie</string>
+	<key>AVAssetExportPreset1920x1080</key>
+	<string>1920x1080 Movie</string>
+	<key>AVAssetExportPreset640x480</key>
+	<string>640x480 Movie</string>
+	<key>AVAssetExportPreset960x540</key>
+	<string>960x540 Movie</string>
+	<key>AVAssetExportPresetAppleM4A</key>
+	<string>Apple Audio</string>
+	<key>AVAssetExportPresetAppleM4V1080pHD</key>
+	<string>Apple M4V 1080p</string>
+	<key>AVAssetExportPresetAppleM4V480pSD</key>
+	<string>Apple M4V 480p</string>
+	<key>AVAssetExportPresetAppleM4V720pHD</key>
+	<string>Apple M4V 720p</string>
+	<key>AVAssetExportPresetAppleM4VAppleTV</key>
+	<string>Apple M4V AppleTV</string>
+	<key>AVAssetExportPresetAppleM4VCellular</key>
+	<string>Apple M4V Cellular</string>
+	<key>AVAssetExportPresetAppleM4VWiFi</key>
+	<string>Apple M4V WiFi</string>
+	<key>AVAssetExportPresetAppleM4ViPod</key>
+	<string>Apple M4V iPod</string>
+</dict>
+</plist>

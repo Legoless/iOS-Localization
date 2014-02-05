@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALERT_DISABLE</key>
+	<string>Disable Background App Refresh</string>
+	<key>ALERT_TEXT</key>
+	<string>This will prevent all applications from using Location Services in the background, including geofences.</string>
+	<key>AUTO_CONTENT_DOWNLOAD</key>
+	<string>Background App Refresh</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>FOOTER_WIFI</key>
+	<string>Allow apps to refresh their content when on Wi-Fi or cellular, or use Location Services, in the background. Turning off apps may help preserve battery life.</string>
+	<key>FOOTER_WLAN</key>
+	<string>Allow apps to refresh their content when on WLAN or cellular, or use Location Services, in the background. Turning off apps may help preserve battery life.</string>
+	<key>LOC_EXPLANATION_ITEM</key>
+	<string>A blue location services icon will appear next to an item that uses location in the background, including geofences.</string>
+</dict>
+</plist>

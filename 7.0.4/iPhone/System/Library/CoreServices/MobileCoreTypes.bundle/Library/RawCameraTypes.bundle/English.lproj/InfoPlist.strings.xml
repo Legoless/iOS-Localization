@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adobe raw image</key>
+	<string>Adobe raw image</string>
+	<key>CFBundleName</key>
+	<string>RawCameraTypes</string>
+	<key>Canon CR2 raw image</key>
+	<string>Canon CR2 raw image</string>
+	<key>Canon CRW raw image</key>
+	<string>Canon CRW raw image</string>
+	<key>Canon TIF raw image</key>
+	<string>Canon TIF raw image</string>
+	<key>Epson raw image</key>
+	<string>Epson raw image</string>
+	<key>Fuji raw image</key>
+	<string>Fuji raw image</string>
+	<key>Hasselblad 3FR raw image</key>
+	<string>Hasselblad 3FR raw image</string>
+	<key>Hasselblad FFF raw image</key>
+	<string>Hasselblad FFF raw image</string>
+	<key>Kodak raw image</key>
+	<string>Kodak raw image</string>
+	<key>Leaf raw image</key>
+	<string>Leaf raw image</string>
+	<key>Leica PWL raw image</key>
+	<string>Leica PWL raw image</string>
+	<key>Leica raw image</key>
+	<string>Leica raw image</string>
+	<key>Minolta raw image</key>
+	<string>Minolta raw image</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2004–2007 Apple Inc.  All Rights Reserved.</string>
+	<key>Nikon NRW raw image</key>
+	<string>Nikon NRW raw image</string>
+	<key>Nikon raw image</key>
+	<string>Nikon raw image</string>
+	<key>Olympus OR raw image</key>
+	<string>Olympus OR raw image</string>
+	<key>Olympus SR raw image</key>
+	<string>Olympus SR raw image</string>
+	<key>Olympus raw image</key>
+	<string>Olympus raw image</string>
+	<key>Panasonic raw image</key>
+	<string>Panasonic raw image</string>
+	<key>Pentax raw image</key>
+	<string>Pentax raw image</string>
+	<key>Sony ARW raw image</key>
+	<string>Sony ARW raw image</string>
+	<key>Sony SR2 raw image</key>
+	<string>Sony SR2 raw image</string>
+	<key>Sony raw image</key>
+	<string>Sony raw image</string>
+</dict>
+</plist>

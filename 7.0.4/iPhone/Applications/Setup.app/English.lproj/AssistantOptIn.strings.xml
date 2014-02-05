@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_SIRI</key>
+	<string>About Siri</string>
+	<key>ABOUT_SIRI_AND_PRIVACY</key>
+	<string>About Siri and Privacy</string>
+	<key>ASSISTANT_DESCRIPTION_IPAD</key>
+	<string>Siri helps you get things done just by asking. You can send a message, dictate a note, or even find a restaurant.</string>
+	<key>ASSISTANT_DESCRIPTION_IPHONE</key>
+	<string>Siri helps you get things done just by asking. You can make a phone call, send a message, dictate a note, or even find a restaurant.</string>
+	<key>ASSISTANT_DESCRIPTION_IPOD</key>
+	<string>Siri helps you get things done just by asking. You can send a message, dictate a note, or even find a restaurant.</string>
+	<key>ASSISTANT_DESCRIPTION_NONUS_IPAD</key>
+	<string>Siri helps you get things done just by asking. You can send a message, dictate a note, or check the weather.</string>
+	<key>ASSISTANT_DESCRIPTION_NONUS_IPHONE</key>
+	<string>Siri helps you get things done just by asking. You can make a phone call, send a message, dictate a note, or check the weather.</string>
+	<key>ASSISTANT_DESCRIPTION_NONUS_IPOD</key>
+	<string>Siri helps you get things done just by asking. You can send a message, dictate a note, or check the weather.</string>
+	<key>ASSISTANT_FINE_PRINT</key>
+	<string>Siri sends information like your voice input, contacts, and location to Apple to process your requests.</string>
+	<key>DO_NOT_USE_ASSISTANT</key>
+	<string>Don’t use Siri</string>
+	<key>SET_UP_SIRI</key>
+	<string>Siri</string>
+	<key>SIRI_AND_PRIVACY</key>
+	<string>Siri and Privacy</string>
+	<key>USE_ASSISTANT</key>
+	<string>Use Siri</string>
+	<key>WHAT_IS_SIRI</key>
+	<string>What is Siri?</string>
+	<key>WHAT_IS_SIRI_DESCRIPTION_IPAD</key>
+	<string>Siri lets you use your voice to interact with and use many features of your iPad.
+
+Siri understands what you’re saying and also what you mean, so you can speak naturally when you ask it to help you do something. It also knows enough about you — your location, contacts, and contact relationships — to provide intelligent, personal assistance.
+
+You can ask Siri to:</string>
+	<key>WHAT_IS_SIRI_DESCRIPTION_IPHONE</key>
+	<string>Siri lets you use your voice to interact with and use many features of your iPhone.
+
+Siri understands what you’re saying and also what you mean, so you can speak naturally when you ask it to help you do something. It also knows enough about you — your location, contacts, and contact relationships — to provide intelligent, personal assistance.
+
+You can ask Siri to:</string>
+	<key>WHAT_IS_SIRI_DESCRIPTION_IPOD</key>
+	<string>Siri lets you use your voice to interact with and use many features of your iPod touch.
+
+Siri understands what you’re saying and also what you mean, so you can speak naturally when you ask it to help you do something. It also knows enough about you — your location, contacts, and contact relationships — to provide intelligent, personal assistance.
+
+You can ask Siri to:</string>
+	<key>WHAT_IS_SIRI_DICTATION</key>
+	<string>Dictate text</string>
+	<key>WHAT_IS_SIRI_DIRECTIONS</key>
+	<string>Find a local business with directions</string>
+	<key>WHAT_IS_SIRI_MESSAGES</key>
+	<string>Send and respond to messages and email</string>
+	<key>WHAT_IS_SIRI_PHONE</key>
+	<string>Make phone calls</string>
+	<key>WHAT_IS_SIRI_REMINDERS</key>
+	<string>Set up meetings and reminders</string>
+	<key>WHAT_IS_SIRI_TITLE</key>
+	<string>Siri</string>
+	<key>WHAT_IS_SIRI_WEATHER</key>
+	<string>Get weather forecasts</string>
+	<key>WHAT_IS_SIRI_WEB</key>
+	<string>Search the web</string>
+</dict>
+</plist>

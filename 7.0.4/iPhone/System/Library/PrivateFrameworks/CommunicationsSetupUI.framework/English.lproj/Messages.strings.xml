@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALLOW_GROUP_MESSAGING</key>
+	<string>Group Messaging</string>
+	<key>DELIVERY_RECEIPTS</key>
+	<string>Delivery Receipts</string>
+	<key>IMESSAGE_DEBUGGING</key>
+	<string>Debugging</string>
+	<key>IMESSAGE_DUMPLOGS</key>
+	<string>Dump Logs</string>
+	<key>IMESSAGE_LOGGING</key>
+	<string>iMessage Logging</string>
+	<key>IMESSAGE_REGLOGGING</key>
+	<string>Registration Logging</string>
+	<key>MADRID</key>
+	<string>iMessage</string>
+	<key>MADRID_ACCOUNTS</key>
+	<string>Send &amp; Receive</string>
+	<key>MESSAGES</key>
+	<string>Messages</string>
+	<key>MMS_EMAIL</key>
+	<string>MMS Email Address</string>
+	<key>MMS_EMAIL_PLACEHOLDER</key>
+	<string>example@me.com</string>
+	<key>MMS_LABEL</key>
+	<string>SMS/MMS</string>
+	<key>MMS_MESSAGING</key>
+	<string>MMS Messaging</string>
+	<key>READ_RECEIPTS</key>
+	<string>Send Read Receipts</string>
+	<key>READ_RECEIPTS_DESCRIPTION</key>
+	<string>Allow others to be notified when you have read their messages.</string>
+	<key>SEND_AS_SMS</key>
+	<string>Send as SMS</string>
+	<key>SEND_AS_SMS_DESCRIPTION</key>
+	<string>Send as SMS when iMessage is unavailable. Carrier messaging rates may apply.</string>
+	<key>SHOW_SUBJECT_FIELD</key>
+	<string>Show Subject Field</string>
+	<key>SMS_CHARACTER_COUNT</key>
+	<string>Character Count</string>
+</dict>
+</plist>

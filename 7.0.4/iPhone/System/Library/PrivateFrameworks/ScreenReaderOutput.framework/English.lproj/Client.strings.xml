@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>braille.key.65538</key>
+	<string>Dot 1</string>
+	<key>braille.key.65794</key>
+	<string>Dot 2</string>
+	<key>braille.key.66050</key>
+	<string>Dot 3</string>
+	<key>braille.key.66306</key>
+	<string>Dot 4</string>
+	<key>braille.key.66562</key>
+	<string>Dot 5</string>
+	<key>braille.key.66818</key>
+	<string>Dot 6</string>
+	<key>braille.key.67074</key>
+	<string>Dot 7</string>
+	<key>braille.key.67330</key>
+	<string>Dot 8</string>
+	<key>braille.key.67586</key>
+	<string>Space bar</string>
+	<key>braille.key.67842</key>
+	<string>⇧</string>
+	<key>braille.key.68098</key>
+	<string>⌘</string>
+	<key>braille.key.68354</key>
+	<string>⌃</string>
+	<key>braille.key.68610</key>
+	<string>⌥</string>
+	<key>unassigned</key>
+	<string>Unassigned</string>
+</dict>
+</plist>

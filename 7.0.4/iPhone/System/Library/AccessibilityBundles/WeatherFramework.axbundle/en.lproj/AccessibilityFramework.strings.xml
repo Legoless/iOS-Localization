@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>current.condition</key>
+	<string>Current condition: %@</string>
+	<key>hi.temp</key>
+	<string>High %@</string>
+	<key>lo.temp</key>
+	<string>Low %@</string>
+	<key>temperature</key>
+	<string>Currently, %@ degrees</string>
+	<key>weather.condition.blizzard</key>
+	<string>Blizzard</string>
+	<key>weather.condition.blowing.snow</key>
+	<string>Blowing snow</string>
+	<key>weather.condition.blustery</key>
+	<string>Blustery</string>
+	<key>weather.condition.clear.night</key>
+	<string>A clear night</string>
+	<key>weather.condition.clouds</key>
+	<string>Clouds</string>
+	<key>weather.condition.cold</key>
+	<string>Cold</string>
+	<key>weather.condition.drizzle</key>
+	<string>Drizzle</string>
+	<key>weather.condition.dust.haze</key>
+	<string>Dusty Haze</string>
+	<key>weather.condition.fair.day</key>
+	<string>A fair day</string>
+	<key>weather.condition.fair.night</key>
+	<string>A fair night</string>
+	<key>weather.condition.foggy</key>
+	<string>Foggy</string>
+	<key>weather.condition.freezing.drizzle</key>
+	<string>Freezing drizzle</string>
+	<key>weather.condition.freezing.rain</key>
+	<string>Freezing Rain</string>
+	<key>weather.condition.hail</key>
+	<string>Hail</string>
+	<key>weather.condition.haze</key>
+	<string>Hazy</string>
+	<key>weather.condition.heavy.rain</key>
+	<string>Heavy rain</string>
+	<key>weather.condition.heavy.snow</key>
+	<string>Heavy snow</string>
+	<key>weather.condition.hot</key>
+	<string>Hot</string>
+	<key>weather.condition.hurricane</key>
+	<string>Hurricane</string>
+	<key>weather.condition.isolated.thundershowers</key>
+	<string>Isolated thundershowers</string>
+	<key>weather.condition.isolated.thunderstorms</key>
+	<string>Isolated thunderstorms</string>
+	<key>weather.condition.mostly.cloudy.day</key>
+	<string>Mostly cloudy daytime</string>
+	<key>weather.condition.mostly.cloudy.night</key>
+	<string>Mostly cloudy night time</string>
+	<key>weather.condition.partly.cloudly.day</key>
+	<string>Partly cloudy day time</string>
+	<key>weather.condition.partly.cloudy</key>
+	<string>Partly cloudy</string>
+	<key>weather.condition.partly.cloudy.night</key>
+	<string>Partly cloudy night time</string>
+	<key>weather.condition.rain.and.hail</key>
+	<string>Rain and hail</string>
+	<key>weather.condition.rain.and.sleet</key>
+	<string>Rain and sleet</string>
+	<key>weather.condition.rain.and.snow</key>
+	<string>Rain and snow</string>
+	<key>weather.condition.scattered.showers</key>
+	<string>Scattered showers</string>
+	<key>weather.condition.scattered.snow</key>
+	<string>Scattered snow</string>
+	<key>weather.condition.scattered.thunderstorms</key>
+	<string>Scattered thunderstorms</string>
+	<key>weather.condition.severe.thunderstorm</key>
+	<string>Severe thunderstorms</string>
+	<key>weather.condition.showers</key>
+	<string>Showers</string>
+	<key>weather.condition.sleet</key>
+	<string>Sleet</string>
+	<key>weather.condition.smoky</key>
+	<string>Smoky</string>
+	<key>weather.condition.snow</key>
+	<string>Snow</string>
+	<key>weather.condition.snow.and.sleet</key>
+	<string>Snow and sleet</string>
+	<key>weather.condition.snow.flurries</key>
+	<string>Snow flurries</string>
+	<key>weather.condition.snow.showers</key>
+	<string>Snow showers</string>
+	<key>weather.condition.snow.showers.scattered</key>
+	<string>Scattered snow showers</string>
+	<key>weather.condition.sunny</key>
+	<string>Sunny</string>
+	<key>weather.condition.thunderstorm</key>
+	<string>Thunderstorms</string>
+	<key>weather.condition.tornado</key>
+	<string>Tornadoes</string>
+	<key>weather.condition.tropical.storm</key>
+	<string>Tropical Storms</string>
+	<key>weather.condition.windy</key>
+	<string>Windy</string>
+	<key>weather.not.loaded</key>
+	<string>Loading weather information…</string>
+	<key>yahoo.provider</key>
+	<string>Yahoo! Weather</string>
+</dict>
+</plist>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>"%@" is sold through the iBookstore.  Download the free iBooks app to complete this purchase.</key>
+	<string>"%@" is sold through the iBookstore.  Download the free iBooks app to complete this purchase.</string>
+	<key>%@ would like to offer you a free tone.</key>
+	<string>%@ would like to offer you a free tone.</string>
+	<key>%@ would like you to follow @%@ on Twitter.</key>
+	<string>%1$@ would like you to follow @%2$@ on Twitter.</string>
+	<key>Add</key>
+	<string>Add</string>
+	<key>Advertisement</key>
+	<string>Advertisement</string>
+	<key>An error occurred while updating the Limit Ad Tracking preference for your account.</key>
+	<string>An error occurred while updating the Limit Ad Tracking preference for your account.</string>
+	<key>App</key>
+	<string>App</string>
+	<key>Assign to a Contact</key>
+	<string>Assign to a Contact</string>
+	<key>Buy Now</key>
+	<string>Buy Now</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Close</key>
+	<string>Close</string>
+	<key>Don’t Allow</key>
+	<string>Don’t Allow</string>
+	<key>Don’t View</key>
+	<string>Don’t View</string>
+	<key>Download</key>
+	<string>Download</string>
+	<key>Follow</key>
+	<string>Follow</string>
+	<key>Get Free Tone</key>
+	<string>Get Free Tone</string>
+	<key>Leave %@</key>
+	<string>Leave %@</string>
+	<key>Limit Ad Tracking is always enabled for Under-13 accounts.</key>
+	<string>Limit Ad Tracking is always enabled for Under-13 accounts.</string>
+	<key>New Ringtone</key>
+	<string>New Ringtone</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>Save Image</key>
+	<string>Save Image</string>
+	<key>Save Video</key>
+	<string>Save Video</string>
+	<key>Save in “iBooks”</key>
+	<string>Save in “iBooks”</string>
+	<key>Set as Default Ringtone</key>
+	<string>Set as Default Ringtone</string>
+	<key>This is an Under-13 account.</key>
+	<string>This is an Under-13 account.</string>
+	<key>Unable to update the Limit Ad Tracking preference for your account.</key>
+	<string>Unable to update the Limit Ad Tracking preference for your account.</string>
+	<key>View Ad</key>
+	<string>View Ad</string>
+	<key>Viewing this advertisement will cause you to leave %@.</key>
+	<string>Viewing this advertisement will cause you to leave %@.</string>
+	<key>You are about to purchase %@ for %@.</key>
+	<string>You are about to purchase %1$@ for %2$@.</string>
+	<key>You have purchased %@</key>
+	<string>You have purchased %@</string>
+	<key>Your preference has been saved on this device, and your account settings will be updated when you log in to the iTunes Store.</key>
+	<string>Your preference has been saved on this device, and your account settings will be updated when you log in to the iTunes Store.</string>
+	<key>Your preference has been saved on this device, and your account settings will be updated when your device is able to communicate with the iTunes Store.</key>
+	<string>Your preference has been saved on this device, and your account settings will be updated when your device is able to communicate with the iTunes Store.</string>
+	<key>iAd</key>
+	<string>iAd</string>
+	<key>iBooks Required</key>
+	<string>iBooks Required</string>
+	<key>“%1$@” Would Like to Add a Video to Your Library</key>
+	<string>“%1$@” Would Like to Add a Video to Your Library</string>
+	<key>“%1$@” Would Like to Use A Screenshot</key>
+	<string>“%1$@” Would Like to Use A Screenshot</string>
+	<key>“%1$@” Would Like to Use Your Camera</key>
+	<string>“%1$@” Would Like to Use Your Camera</string>
+	<key>“%@” Would Like To Use Your Current Location</key>
+	<string>“%@” Would Like To Use Your Current Location</string>
+</dict>
+</plist>

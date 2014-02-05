@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABDatePlural</key>
+	<string>dates</string>
+	<key>ABRelatedNamePlural</key>
+	<string>related names</string>
+	<key>Address</key>
+	<string>address</string>
+	<key>Birthday</key>
+	<string>birthday</string>
+	<key>Date</key>
+	<string>date</string>
+	<key>Department</key>
+	<string>department</string>
+	<key>Email</key>
+	<string>email</string>
+	<key>First</key>
+	<string>first</string>
+	<key>FirstPhonetic</key>
+	<string>phonetic first name</string>
+	<key>GroupDescription</key>
+	<string>group description</string>
+	<key>GroupName</key>
+	<string>group name</string>
+	<key>HomePage</key>
+	<string>homepage</string>
+	<key>IM</key>
+	<string>IM</string>
+	<key>JobTitle</key>
+	<string>job title</string>
+	<key>Last</key>
+	<string>last</string>
+	<key>LastPhonetic</key>
+	<string>phonetic last name</string>
+	<key>MaidenName</key>
+	<string>maiden name</string>
+	<key>Middle</key>
+	<string>middle</string>
+	<key>MiddlePhonetic</key>
+	<string>phonetic middle name</string>
+	<key>Nickname</key>
+	<string>nickname</string>
+	<key>Note</key>
+	<string>notes</string>
+	<key>Organization</key>
+	<string>company</string>
+	<key>Phone</key>
+	<string>phone</string>
+	<key>Prefix</key>
+	<string>prefix</string>
+	<key>RelatedNames</key>
+	<string>related name</string>
+	<key>SocialProfile</key>
+	<string>social profile</string>
+	<key>Sound</key>
+	<string>ringtone</string>
+	<key>Suffix</key>
+	<string>suffix</string>
+	<key>URLs</key>
+	<string>url</string>
+</dict>
+</plist>

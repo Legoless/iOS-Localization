@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2SetHangul</key>
+	<string>2-Set Korean</string>
+	<key>Afghan Dari</key>
+	<string>Afghan Dari</string>
+	<key>Afghan Pashto</key>
+	<string>Afghan Pashto</string>
+	<key>Afghan Uzbek</key>
+	<string>Afghan Uzbek</string>
+	<key>Arabic</key>
+	<string>Arabic</string>
+	<key>Arabic PC</key>
+	<string>Arabic - PC</string>
+	<key>Arabic-AZERTY</key>
+	<string>Arabic - AZERTY</string>
+	<key>Arabic-North_Africa</key>
+	<string>Arabic - North Africa</string>
+	<key>Arabic-QWERTY</key>
+	<string>Arabic - QWERTY</string>
+	<key>Armenian-HM QWERTY</key>
+	<string>Armenian - HM QWERTY</string>
+	<key>Armenian-Western QWERTY</key>
+	<string>Armenian - Western QWERTY</string>
+	<key>Australian</key>
+	<string>Australian</string>
+	<key>Austrian</key>
+	<string>Austrian</string>
+	<key>Azeri</key>
+	<string>Azeri</string>
+	<key>Bangla</key>
+	<string>Bangla</string>
+	<key>Bangla-QWERTY</key>
+	<string>Bangla - QWERTY</string>
+	<key>Belgian</key>
+	<string>Belgian</string>
+	<key>Brazilian</key>
+	<string>Brazilian</string>
+	<key>Brazilian-ABNT2</key>
+	<string>Brazilian - ABNT2</string>
+	<key>British</key>
+	<string>British</string>
+	<key>British-PC</key>
+	<string>British - PC</string>
+	<key>Bulgarian</key>
+	<string>Bulgarian</string>
+	<key>Bulgarian - Phonetic</key>
+	<string>Bulgarian - Phonetic</string>
+	<key>Byelorussian</key>
+	<string>Belarusian</string>
+	<key>Canadian</key>
+	<string>Canadian English</string>
+	<key>Canadian - CSA</key>
+	<string>Canadian French - CSA</string>
+	<key>CangjieKeyboard</key>
+	<string>Cangjie</string>
+	<key>Catalan</key>
+	<string>Catalan</string>
+	<key>Cherokee-Nation</key>
+	<string>Cherokee - Nation</string>
+	<key>Cherokee-QWERTY</key>
+	<string>Cherokee - QWERTY</string>
+	<key>Colemak</key>
+	<string>Colemak</string>
+	<key>Croatian</key>
+	<string>Croatian</string>
+	<key>Croatian-PC</key>
+	<string>Croatian - PC</string>
+	<key>Czech</key>
+	<string>Czech</string>
+	<key>Czech-QWERTY</key>
+	<string>Czech - QWERTY</string>
+	<key>DVORAK - QWERTY CMD</key>
+	<string>Dvorak - Qwerty ⌘</string>
+	<key>Danish</key>
+	<string>Danish</string>
+	<key>Devanagari</key>
+	<string>Devanagari</string>
+	<key>Devanagari-QWERTY</key>
+	<string>Devanagari - QWERTY</string>
+	<key>Dutch</key>
+	<string>Dutch</string>
+	<key>Dvorak</key>
+	<string>Dvorak</string>
+	<key>Dvorak - Left</key>
+	<string>Dvorak - Left</string>
+	<key>Dvorak - Right</key>
+	<string>Dvorak - Right</string>
+	<key>Estonian</key>
+	<string>Estonian</string>
+	<key>Faroese</key>
+	<string>Faroese</string>
+	<key>Finnish</key>
+	<string>Finnish</string>
+	<key>Finnish Extended</key>
+	<string>Finnish Extended</string>
+	<key>FinnishSami-PC</key>
+	<string>Finnish Sami - PC</string>
+	<key>French</key>
+	<string>French</string>
+	<key>French - numerical</key>
+	<string>French - Numerical</string>
+	<key>French-PC</key>
+	<string>French - PC</string>
+	<key>Georgian-QWERTY</key>
+	<string>Georgian - QWERTY</string>
+	<key>German</key>
+	<string>German</string>
+	<key>Greek</key>
+	<string>Greek</string>
+	<key>Greek Polytonic</key>
+	<string>Greek Polytonic</string>
+	<key>Gujarati</key>
+	<string>Gujarati</string>
+	<key>Gujarati-QWERTY</key>
+	<string>Gujarati - QWERTY</string>
+	<key>Gurmukhi</key>
+	<string>Gurmukhi</string>
+	<key>Gurmukhi-QWERTY</key>
+	<string>Gurmukhi - QWERTY</string>
+	<key>Hawaiian</key>
+	<string>Hawaiian</string>
+	<key>Hebrew</key>
+	<string>Hebrew</string>
+	<key>Hebrew-PC</key>
+	<string>Hebrew - PC</string>
+	<key>Hebrew-QWERTY</key>
+	<string>Hebrew - QWERTY</string>
+	<key>Hungarian</key>
+	<string>Hungarian</string>
+	<key>Hungarian-QWERTY</key>
+	<string>Hungarian - QWERTY</string>
+	<key>Icelandic</key>
+	<string>Icelandic</string>
+	<key>Inuktitut-Nunavut</key>
+	<string>Inuktitut - Nunavut</string>
+	<key>Inuktitut-Nutaaq</key>
+	<string>Inuktitut - Nutaaq</string>
+	<key>Inuktitut-QWERTY</key>
+	<string>Inuktitut - QWERTY</string>
+	<key>Inuttitut Nunavik</key>
+	<string>Inuktitut Nunavik</string>
+	<key>Irish</key>
+	<string>Irish</string>
+	<key>Irish Extended</key>
+	<string>Irish Extended</string>
+	<key>Italian</key>
+	<string>Italian Typewriter</string>
+	<key>Italian - Pro</key>
+	<string>Italian</string>
+	<key>Jawi-QWERTY</key>
+	<string>Jawi - QWERTY</string>
+	<key>KANA</key>
+	<string>Kana</string>
+	<key>Kannada</key>
+	<string>Kannada</string>
+	<key>Kannada-QWERTY</key>
+	<string>Kannada - QWERTY</string>
+	<key>Kazakh</key>
+	<string>Kazakh</string>
+	<key>Khmer</key>
+	<string>Khmer</string>
+	<key>Kurdish-Sorani</key>
+	<string>Kurdish - Sorani</string>
+	<key>Latvian</key>
+	<string>Latvian</string>
+	<key>Lithuanian</key>
+	<string>Lithuanian</string>
+	<key>Macedonian</key>
+	<string>Macedonian</string>
+	<key>Malayalam</key>
+	<string>Malayalam</string>
+	<key>Malayalam-QWERTY</key>
+	<string>Malayalam - QWERTY</string>
+	<key>Maltese</key>
+	<string>Maltese</string>
+	<key>Maori</key>
+	<string>Maori</string>
+	<key>Myanmar-QWERTY</key>
+	<string>Myanmar - QWERTY</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2006-2012 Apple Inc.</string>
+	<key>Nepali</key>
+	<string>Nepali</string>
+	<key>Northern Sami</key>
+	<string>Northern Sami</string>
+	<key>Norwegian</key>
+	<string>Norwegian</string>
+	<key>Norwegian Extended</key>
+	<string>Norwegian Extended</string>
+	<key>NorwegianSami-PC</key>
+	<string>Norwegian Sami - PC</string>
+	<key>Oriya</key>
+	<string>Oriya</string>
+	<key>Oriya-QWERTY</key>
+	<string>Oriya - QWERTY</string>
+	<key>Persian</key>
+	<string>Persian</string>
+	<key>Persian-ISIRI 2901</key>
+	<string>Persian - ISIRI</string>
+	<key>Persian-QWERTY</key>
+	<string>Persian - QWERTY</string>
+	<key>Polish</key>
+	<string>Polish</string>
+	<key>Polish Pro</key>
+	<string>Polish Pro</string>
+	<key>Portuguese</key>
+	<string>Portuguese</string>
+	<key>ROMAJI</key>
+	<string>Romaji</string>
+	<key>Romanian</key>
+	<string>Romanian</string>
+	<key>Romanian-Standard</key>
+	<string>Romanian - Standard</string>
+	<key>Russian</key>
+	<string>Russian</string>
+	<key>Russian - Phonetic</key>
+	<string>Russian - Phonetic</string>
+	<key>RussianWin</key>
+	<string>Russian - PC</string>
+	<key>Sami-PC</key>
+	<string>Sami - PC</string>
+	<key>Serbian</key>
+	<string>Serbian</string>
+	<key>Serbian-Latin</key>
+	<string>Serbian - Latin</string>
+	<key>Sinhala</key>
+	<string>Sinhala</string>
+	<key>Sinhala-QWERTY</key>
+	<string>Sinhala - QWERTY</string>
+	<key>Slovak</key>
+	<string>Slovak</string>
+	<key>Slovak-QWERTY</key>
+	<string>Slovak - QWERTY</string>
+	<key>Slovenian</key>
+	<string>Slovenian</string>
+	<key>Spanish</key>
+	<string>Spanish</string>
+	<key>Spanish - ISO</key>
+	<string>Spanish - ISO</string>
+	<key>Swedish</key>
+	<string>Swedish</string>
+	<key>Swedish - Pro</key>
+	<string>Swedish - Pro</string>
+	<key>SwedishSami-PC</key>
+	<string>Swedish Sami - PC</string>
+	<key>Swiss French</key>
+	<string>Swiss French</string>
+	<key>Swiss German</key>
+	<string>Swiss German</string>
+	<key>Telugu</key>
+	<string>Telugu</string>
+	<key>Telugu-QWERTY</key>
+	<string>Telugu - QWERTY</string>
+	<key>Thai</key>
+	<string>Thai</string>
+	<key>Thai-PattaChote</key>
+	<string>Thai - PattaChote</string>
+	<key>Tibetan-QWERTY</key>
+	<string>Tibetan - QWERTY</string>
+	<key>Tibetan-Wylie</key>
+	<string>Tibetan - Wylie</string>
+	<key>TibetanOtaniUS</key>
+	<string>Tibetan - Otani</string>
+	<key>Turkish</key>
+	<string>Turkish</string>
+	<key>Turkish-QWERTY</key>
+	<string>Turkish - QWERTY</string>
+	<key>Turkish-QWERTY-PC</key>
+	<string>Turkish - QWERTY PC</string>
+	<key>U.S.</key>
+	<string>U.S.</string>
+	<key>US</key>
+	<string>U.S.</string>
+	<key>US Extended</key>
+	<string>U.S. Extended</string>
+	<key>USInternational-PC</key>
+	<string>U.S. International - PC</string>
+	<key>Ukrainian</key>
+	<string>Ukrainian</string>
+	<key>Unicode Hex Input</key>
+	<string>Unicode Hex Input</string>
+	<key>Urdu</key>
+	<string>Urdu</string>
+	<key>Uyghur</key>
+	<string>Uyghur</string>
+	<key>Vietnamese</key>
+	<string>Vietnamese</string>
+	<key>Welsh</key>
+	<string>Welsh</string>
+	<key>Zhuyin Bopomofo</key>
+	<string>Zhuyin</string>
+</dict>
+</plist>

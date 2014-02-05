@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AIRDROP</key>
+	<string>AirDrop</string>
+	<key>ALERT_VOLUME</key>
+	<string>Alert Volume</string>
+	<key>ALTERNATE_1</key>
+	<string>Chime</string>
+	<key>ALTERNATE_2</key>
+	<string>Glass</string>
+	<key>ALTERNATE_3</key>
+	<string>Horn</string>
+	<key>ALTERNATE_4</key>
+	<string>Bell</string>
+	<key>ALTERNATE_5</key>
+	<string>Electronic</string>
+	<key>BOTH</key>
+	<string>Both</string>
+	<key>CHANGE_WITH_BUTTONS</key>
+	<string>Change with Buttons</string>
+	<key>Calendar Alarm</key>
+	<string>Calendar Alerts</string>
+	<key>Camera</key>
+	<string>Camera</string>
+	<key>CustomVibrations</key>
+	<string>Vibration Patterns</string>
+	<key>DEFAULT</key>
+	<string>Tri-tone</string>
+	<key>FACEBOOK_POST</key>
+	<string>Facebook Post</string>
+	<key>HEADPHONES</key>
+	<string>Headphones</string>
+	<key>Keyboard Clicks</key>
+	<string>Keyboard Clicks</string>
+	<key>Lock Sounds</key>
+	<string>Lock Sounds</string>
+	<key>NEW_MAIL</key>
+	<string>New Mail</string>
+	<key>NONE</key>
+	<string>None</string>
+	<key>RINGER_AND_ALERTS</key>
+	<string>Ringer and Alerts</string>
+	<key>RING_VOLUME</key>
+	<string>Ring Volume</string>
+	<key>RING_VOLUME_SLIDER</key>
+	<string>Volume</string>
+	<key>RING_VOL_CANNOT_BE_ADJUSTED</key>
+	<string>The volume of the ringer and alerts will not be affected by the volume buttons.</string>
+	<key>RING_VOL_CAN_BE_ADJUSTED</key>
+	<string>The volume of the ringer and alerts can be adjusted using the volume buttons.</string>
+	<key>Reminder Alerts</key>
+	<string>Reminder Alerts</string>
+	<key>Ringtone</key>
+	<string>Ringtone</string>
+	<key>SENT_MAIL</key>
+	<string>Sent Mail</string>
+	<key>SENT_TWEET</key>
+	<string>Tweet</string>
+	<key>SOUNDS_ALERT_GROUP</key>
+	<string>Sounds and Vibration Patterns</string>
+	<key>SOUND_EFFECTS</key>
+	<string>Sound Effects</string>
+	<key>SPEAKER</key>
+	<string>Speaker</string>
+	<key>Silent</key>
+	<string>Silent</string>
+	<key>Sounds</key>
+	<string>Sounds</string>
+	<key>Text_Messages</key>
+	<string>Text Tone</string>
+	<key>VIBRATE_GROUP</key>
+	<string>Vibrate</string>
+	<key>VIBRATE_ONLY</key>
+	<string>Vibrate Only</string>
+	<key>VIBRATE_WHEN_SILENT</key>
+	<string>Vibrate on Silent</string>
+	<key>VIBRATE_WITH_RINGTONE</key>
+	<string>Vibrate on Ring</string>
+	<key>Vibrate</key>
+	<string>Vibrate</string>
+	<key>Voicemail</key>
+	<string>New Voicemail</string>
+</dict>
+</plist>

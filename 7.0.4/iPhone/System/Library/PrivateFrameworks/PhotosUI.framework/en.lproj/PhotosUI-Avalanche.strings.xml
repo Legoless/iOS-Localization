@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AVALANCHE_ALL</key>
+	<string>Keep All Photos</string>
+	<key>AVALANCHE_CANCEL</key>
+	<string>Cancel</string>
+	<key>AVALANCHE_SELECTED</key>
+	<string>Keep Only Selected Photos</string>
+	<key>EMPTY_REVIEW_TITLE_TEXT</key>
+	<string>Choose Favorites</string>
+	<key>PUPHOTOBROWSER_BUTTON_REVIEW</key>
+	<string>Choose Favorites…</string>
+	<key>PUPHOTOBROWSER_BUTTON_REVIEW_CAMERA</key>
+	<string>Favorites…</string>
+	<key>REVIEW_INSTRUCTION_TEXT</key>
+	<string>Tap to select the best photos in this burst.</string>
+	<key>REVIEW_MODE_DELETE_TITLE</key>
+	<string>All %@ unselected photos will be deleted.</string>
+	<key>REVIEW_MODE_DESTRUCTIVE_TITLE</key>
+	<string>Delete %@ Photos</string>
+	<key>REVIEW_MULTIPLE_TITLE_TEXT</key>
+	<string>%@ Photos Selected</string>
+	<key>REVIEW_SINGLE_TITLE_TEXT</key>
+	<string>%@ Photo Selected</string>
+</dict>
+</plist>

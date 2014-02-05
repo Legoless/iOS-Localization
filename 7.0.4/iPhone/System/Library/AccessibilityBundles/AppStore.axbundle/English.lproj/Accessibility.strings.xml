@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application.name</key>
+	<string>App Store</string>
+	<key>featured.app</key>
+	<string>Featured app</string>
+	<key>review.cell.text</key>
+	<string>%1$@. %2$@ stars. %3$@. %4$@</string>
+	<key>review.count.none</key>
+	<string>No reviews</string>
+	<key>review.count.plural</key>
+	<string>%@ reviews</string>
+	<key>review.count.singular</key>
+	<string>%@ review</string>
+	<key>updated.app.hint</key>
+	<string>Double tap to see more information about the update</string>
+</dict>
+</plist>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABBREVIATED_TITLE</key>
+	<string>Back</string>
+	<key>ABBREVIATED_TITLE_WITH_MSGS</key>
+	<string>Back (%@)</string>
+	<key>ADDRESS_LIST_FULL</key>
+	<string>Address List Full</string>
+	<key>ADDRESS_NOT_REGISTERED_WITH_MADRID</key>
+	<string>%@ is not registered with %@.</string>
+	<key>ADD_CONTACT</key>
+	<string>Add to Contacts</string>
+	<key>ADD_MORE_RECIPIENTS</key>
+	<string>More</string>
+	<key>APP_TITLE</key>
+	<string>Messages</string>
+	<key>APP_TITLE_WITH_MSGS</key>
+	<string>Messages (%@)</string>
+	<key>ATTACHMENT</key>
+	<string>Attachment: </string>
+	<key>ATTACHMENTS</key>
+	<string>Attachments: </string>
+	<key>CALL</key>
+	<string>Call</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANNOT_ADD_RECIPIENT</key>
+	<string>Cannot Add This Person</string>
+	<key>CANNOT_ADD_RECIPIENT_NAME</key>
+	<string>Cannot Add %@</string>
+	<key>CANNOT_SEND_MESSAGE</key>
+	<string>Cannot Send Message</string>
+	<key>CHARACTER_COUNT_FMT</key>
+	<string>%1$@/%2$@</string>
+	<key>CHOOSE_EXISTING</key>
+	<string>Choose Existing</string>
+	<key>CLEAR_ALL</key>
+	<string>Delete All</string>
+	<key>CLEAR_CONVERSATION</key>
+	<string>Delete Conversation</string>
+	<key>CONTACT</key>
+	<string>Contact</string>
+	<key>CONTACTS</key>
+	<string>Contacts</string>
+	<key>CONTACT_INFO</key>
+	<string>Contact Info</string>
+	<key>CONTACT_INFO_SHORT</key>
+	<string>Info</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_MESSAGE</key>
+	<string>Delete Message</string>
+	<key>DELETE_MESSAGES</key>
+	<string>Delete %@ Messages</string>
+	<key>DETAILS</key>
+	<string>Details</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DOWNLOADING</key>
+	<string>Downloading</string>
+	<key>DOWNLOAD_PROGRESS</key>
+	<string>%1$@ / %2$@</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EDIT_MODE_MORE_CALLOUT</key>
+	<string>More...</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>ERR_ALL_RECIPIENTS_NEED_IMESSAGE</key>
+	<string>To send a message to more than %@ recipients, they must all use iMessage.</string>
+	<key>ERR_EMERGENCY_UNAVAILABLE_WITHOUT_SMS</key>
+	<string>Use a phone to call or text emergency services.</string>
+	<key>ERR_NEED_IMESSAGE</key>
+	<string>iMessage needs to be enabled to send this message.</string>
+	<key>ERR_NEED_MMS</key>
+	<string>MMS Messaging needs to be enabled to send this message.</string>
+	<key>ERR_NEED_MMS_TO_EMAIL</key>
+	<string>MMS Messaging needs to be enabled to send to an email address.</string>
+	<key>ERR_RECIPIENT_NOT_AVAILABLE</key>
+	<string>This person cannot be reached by iMessage at this time.</string>
+	<key>ERR_TOO_MANY_RECIPIENTS_FOR_IMESSAGE</key>
+	<string>iMessage allows up to %@ recipients.</string>
+	<key>ERR_TRANSFER_EXPIRED_TITLE</key>
+	<string>This Attachment is No Longer Available</string>
+	<key>ERR_TRANSFER_NO_NETWORK_TITLE</key>
+	<string>A Network Connection is Required to Download this Attachment</string>
+	<key>FACE_TIME</key>
+	<string>FaceTime Video</string>
+	<key>FACE_TIME_AUDIO</key>
+	<string>FaceTime Audio</string>
+	<key>FACE_TIME_AUDIO_TITLE</key>
+	<string>FaceTime
+Audio</string>
+	<key>FACE_TIME_DEFAULT</key>
+	<string>FaceTime</string>
+	<key>FACE_TIME_TITLE</key>
+	<string>FaceTime
+Video</string>
+	<key>FAILED_SUMMARY</key>
+	<string>Message Send Failure</string>
+	<key>FULL_FAILURE_DESCRIPTION</key>
+	<string>Your message was not sent. Tap "Try Again" to send this message.</string>
+	<key>GROUP_SUMMARY_TITLE</key>
+	<string>To: %@, &amp; %d more...</string>
+	<key>HIDE_DETAILS</key>
+	<string>Hide</string>
+	<key>LINKS</key>
+	<string>Links</string>
+	<key>LOAD_PREVIOUS</key>
+	<string>Load Earlier Messages</string>
+	<key>MADRID</key>
+	<string>iMessage</string>
+	<key>MADRID_FAILURE_DESCRIPTION</key>
+	<string>This iMessage was not delivered.</string>
+	<key>MADRID_GROUP</key>
+	<string>Group</string>
+	<key>MADRID_SEND_AS_TEXT_MESSAGE</key>
+	<string>Send as Text Message</string>
+	<key>MADRID_SEND_TO_EMAIL</key>
+	<string>Send to Email Address</string>
+	<key>MESSAGESTATUS_DELIVERED</key>
+	<string>Delivered</string>
+	<key>MESSAGESTATUS_NOSTATUS</key>
+	<string>No Status</string>
+	<key>MESSAGESTATUS_NOTDELIVERED</key>
+	<string>Not Delivered</string>
+	<key>MESSAGESTATUS_READ</key>
+	<string>Read</string>
+	<key>MESSAGESTATUS_SENTASTEXTMESSAGE</key>
+	<string>Sent as Text Message</string>
+	<key>MESSAGESTATUS_SENTTOEMAIL</key>
+	<string>Sent to Email Address</string>
+	<key>MESSAGE_STATUS_READ_DATE</key>
+	<string>Read %@</string>
+	<key>MESSAGE_STATUS_READ_DAY</key>
+	<string>Read %@</string>
+	<key>MESSAGE_STATUS_READ_RELATIVE_DAY</key>
+	<string>Read %@</string>
+	<key>MESSAGE_STATUS_READ_TIME</key>
+	<string>Read %@</string>
+	<key>MMS_ACTION</key>
+	<string>MMS %@</string>
+	<key>MMS_GROUP</key>
+	<string>Group MMS</string>
+	<key>NEW</key>
+	<string>New</string>
+	<key>NEW_MADRID_MESSAGE</key>
+	<string>New iMessage</string>
+	<key>NEW_MESSAGE</key>
+	<string>New Message</string>
+	<key>NEW_MESSAGE_PROMPT</key>
+	<string>Choose a contact to text message</string>
+	<key>NEW_MMS_GROUP</key>
+	<string>New Group MMS</string>
+	<key>NEW_MMS_MESSAGE</key>
+	<string>New MMS</string>
+	<key>NO_NAME</key>
+	<string>No Name</string>
+	<key>NO_TITLE_WITH_MSGS</key>
+	<string>(%@)</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OUTGOING</key>
+	<string>Outgoing</string>
+	<key>PARTICIPANT_ADDRESS_FINAL_ITEM</key>
+	<string> &amp; %@</string>
+	<key>PARTICIPANT_ADDRESS_FIRST_ITEM</key>
+	<string>%@</string>
+	<key>PARTICIPANT_ADDRESS_NON_FINAL_ITEM</key>
+	<string>, %@</string>
+	<key>PASTE</key>
+	<string>Paste</string>
+	<key>RECIPIENT_AVAILABILITY_TIMEOUT_ERROR_MESSAGE</key>
+	<string>Timed out while checking availability of "%@".</string>
+	<key>RECIPIENT_IS_UNAVAILABLE</key>
+	<string>%@ is Unavailable</string>
+	<key>REMOVE</key>
+	<string>Remove</string>
+	<key>REMOVE_RECENT</key>
+	<string>Remove From Recents</string>
+	<key>RESTORING</key>
+	<string>Restoring…</string>
+	<key>SEARCH</key>
+	<string>Search</string>
+	<key>SENDING</key>
+	<string>Sending…</string>
+	<key>SENDING_PART_OF_PART</key>
+	<string>Sending %1$@ of %2$@</string>
+	<key>SEND_TITLE</key>
+	<string>Send</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SHORT_TITLE</key>
+	<string>Messages</string>
+	<key>SHORT_TITLE_WITH_MSGS</key>
+	<string>Messages (%@)</string>
+	<key>SMS_FULL_WARNING</key>
+	<string>Your SMS mailbox is full. New messages cannot be received until you delete some messages.</string>
+	<key>SUBJECT</key>
+	<string>Subject</string>
+	<key>SUMMARY_N_ADDRESSES</key>
+	<string>%@ Contacts</string>
+	<key>SUMMARY_N_AUDIOS</key>
+	<string>%@ Audio Files</string>
+	<key>SUMMARY_N_CALENDARS</key>
+	<string>%@ Calendars</string>
+	<key>SUMMARY_N_IMAGES</key>
+	<string>%@ Images</string>
+	<key>SUMMARY_N_LOCATIONS</key>
+	<string>%@ Locations</string>
+	<key>SUMMARY_N_MORE_IMAGES</key>
+	<string>%@ More Images</string>
+	<key>SUMMARY_N_PASSES</key>
+	<string>%@ Passes</string>
+	<key>SUMMARY_N_UNKNOWNS</key>
+	<string>%@ Unknowns</string>
+	<key>SUMMARY_N_VIDEOS</key>
+	<string>%@ Videos</string>
+	<key>SUMMARY_ONE_ADDRESS</key>
+	<string>1 Contact</string>
+	<key>SUMMARY_ONE_AUDIO</key>
+	<string>1 Audio File</string>
+	<key>SUMMARY_ONE_CALENDAR</key>
+	<string>1 Calendar</string>
+	<key>SUMMARY_ONE_IMAGE</key>
+	<string>1 Image</string>
+	<key>SUMMARY_ONE_LOCATION</key>
+	<string>1 Location</string>
+	<key>SUMMARY_ONE_MORE_IMAGE</key>
+	<string>1 More Image</string>
+	<key>SUMMARY_ONE_PASS</key>
+	<string>1 Pass</string>
+	<key>SUMMARY_ONE_UNKNOWN</key>
+	<string>1 Unknown</string>
+	<key>SUMMARY_ONE_VIDEO</key>
+	<string>1 Video</string>
+	<key>TAKE_PHOTO</key>
+	<string>Take Photo</string>
+	<key>TAKE_PHOTO_OR_VIDEO</key>
+	<string>Take Photo or Video</string>
+	<key>TAP_TO_DOWNLOAD</key>
+	<string>Tap to Download</string>
+	<key>TEXT_MESSAGE</key>
+	<string>Text Message</string>
+	<key>TO</key>
+	<string>To:</string>
+	<key>TRIM_MANY_ATTACHMENTS_MESSAGE</key>
+	<string>Would you like to select smaller clips from these attachments to send?</string>
+	<key>TRIM_MANY_ATTACHMENTS_TITLE</key>
+	<string>Attachments are Too Long</string>
+	<key>TRIM_ONE_ATTACHMENT_MESSAGE</key>
+	<string>Would you like to select a smaller clip from this attachment to send?</string>
+	<key>TRIM_ONE_ATTACHMENT_TITLE</key>
+	<string>Attachment is Too Long</string>
+	<key>TRIM_ONE_VIDEO_MESSAGE</key>
+	<string>Would you like to select a smaller clip from this video to send?</string>
+	<key>TRIM_ONE_VIDEO_TITLE</key>
+	<string>Video is Too Long</string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+	<key>TURN_OFF_AIRPLANE_MODE_OR_TURN_ON_WIFI</key>
+	<string>Turn Off Airplane Mode or Use Wi-Fi to Send and Receive Messages</string>
+	<key>USE_ALTERNATE_MADRID_ADDRESS</key>
+	<string>Use %@</string>
+	<key>Unknown</key>
+	<string>Unknown</string>
+	<key>VOICE_CALL</key>
+	<string>Voice Call</string>
+</dict>
+</plist>

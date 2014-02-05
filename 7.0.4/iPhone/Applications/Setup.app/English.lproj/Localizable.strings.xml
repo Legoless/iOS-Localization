@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_DIAGNOSTICS_BRIEF</key>
+	<string>Help Apple improve its products and services by automatically sending anonymous diagnostic and usage data.</string>
+	<key>ABOUT_DIAGNOSTICS_INFO_TEXT</key>
+	<string>Apple would like your help to improve the quality and performance of its products and services. Your device can automatically collect diagnostic and usage information and send it to Apple for analysis — but only with your explicit consent.
+
+Diagnostic and usage information may include details about hardware and operating system specifications, performance statistics, and data about how you use your device and applications. None of the collected information identifies you personally. Personal data is either not logged at all or is removed from any reports before they’re sent to Apple. You can review the information by going to Settings, tapping General, tapping About and looking under Diagnostics &amp; Usage.
+
+If you have consented to provide Apple with this information, and you have Location Services turned on, the location of your device may also be sent to help Apple analyze wireless or cellular performance issues (for example, the strength or weakness of a cellular signal in a particular location). This diagnostic location data may include, for example, the location of your device once per day, the location where a call ends, or the location where a cellular error occurs. You may choose to turn off Location Services for Diagnostics at any time. To do so, open Settings, tap Location Services, tap System Services and turn off the Diagnostics switch.
+
+You may also choose to turn off Diagnostics altogether. To do so, open Settings, tap General, tap About and choose “Don’t Send” under Diagnostics &amp; Usage.
+
+To help Apple’s partners and third-party developers improve their apps, products and services designed for use with Apple products, Apple may provide such partners or developers with a subset of diagnostic information that is relevant to that partner’s or developer’s app, product or service, as long as the diagnostic information is aggregated or in a form that does not personally identify you.
+
+For more information, see Apple’s Privacy Policy at www.apple.com/privacy</string>
+	<key>ABOUT_DIAGNOSTICS_PRIVACY</key>
+	<string>About Diagnostics and Privacy</string>
+	<key>ABOUT_ICLOUD_KEYCHAIN_INFO_TEXT</key>
+	<string>iCloud Keychain stores website user names, passwords, credit card numbers and expiration dates you save with iCloud and keeps them up to date across all your iOS 7 devices and your Mac computers running OS X Mavericks that you have approved.
+
+When you turn on iCloud Keychain, the Safari Autofill feature will prompt you to save your username, password or credit card information when you enter it.  Once saved, the password or credit card information will auto fill so that you do not have to type it in again. Safari Autofill and iCloud Keychain will not store your credit card security code.  For example, when making a purchase in Safari, select the credit card you want to use and Safari will automatically fill out the credit card number and expiration date. You will still need to type in your security code to complete the purchase. Safari’s new Password Generator can also suggest unique, hard-to-guess passwords for your online accounts and use iCloud Keychain to store these passwords.  If you restore your device from a backup, iCloud Keychain can automatically sign in to your saved accounts.
+
+Your iCloud Keychain is encrypted when transmitted to your devices and when stored in iCloud, and cannot be read by Apple.
+
+You can setup your iCloud Keychain on a second device by authorizing that device from your original device, allowing you to keep your iCloud Keychain up to date just across the devices you have approved.  You can also set up a four-digit, complex, or random Security Code to sync your passwords to a new device.  You should write down your Security Code, and keep it in a safe place.  Apple cannot replace a lost Security Code.</string>
+	<key>ABOUT_ICLOUD_KEYCHAIN_PRIVACY</key>
+	<string>About iCloud Keychain and Privacy</string>
+	<key>ABOUT_LOCATION_SERVICES</key>
+	<string>About Location Services</string>
+	<key>ABOUT_LOCATION_SERVICES_APPS</key>
+	<string>And other apps, including many apps available from the App Store</string>
+	<key>ABOUT_LOCATION_SERVICES_CAMERA</key>
+	<string>Camera and Photos</string>
+	<key>ABOUT_LOCATION_SERVICES_DESCRIPTION_WIFI</key>
+	<string>Location Services allows Maps, Camera, and other apps to use your location to provide you with a more personal experience. Your approximate location is determined using GPS along with crowd-sourced Wi-Fi hotspot and cell tower locations.</string>
+	<key>ABOUT_LOCATION_SERVICES_DESCRIPTION_WLAN</key>
+	<string>Location Services allows Maps, Camera, and other apps to use your location to provide you with a more personal experience. Your approximate location is determined using GPS along with crowd-sourced WLAN hotspot and cell tower locations.</string>
+	<key>ABOUT_LOCATION_SERVICES_FMIP_IPAD</key>
+	<string>Find My iPad</string>
+	<key>ABOUT_LOCATION_SERVICES_FMIP_IPHONE</key>
+	<string>Find My iPhone</string>
+	<key>ABOUT_LOCATION_SERVICES_FMIP_IPOD</key>
+	<string>Find My iPod touch</string>
+	<key>ABOUT_LOCATION_SERVICES_MAPS</key>
+	<string>Maps and Compass</string>
+	<key>ABOUT_LOCATION_SERVICES_PRIVACY</key>
+	<string>About Location Services and Privacy</string>
+	<key>ABOUT_LOCATION_SERVICES_REMINDERS</key>
+	<string>Reminders</string>
+	<key>ABOUT_LOCATION_SERVICES_SAFARI</key>
+	<string>Safari</string>
+	<key>ABOUT_LOCATION_SERVICES_SUBDESCRIPTION</key>
+	<string>Location Services works with:</string>
+	<key>ABOUT_LOCATION_SERVICES_WEATHER</key>
+	<string>Weather</string>
+	<key>ABOUT_REGISTRATION</key>
+	<string>About Registration</string>
+	<key>ACTIVATION_AIRPLANE_IPAD</key>
+	<string>Your iPad is in Airplane Mode. To continue activating your iPad, Airplane Mode needs to be turned off.</string>
+	<key>ACTIVATION_AIRPLANE_IPHONE</key>
+	<string>Your iPhone is in Airplane Mode. To continue activating your iPhone, Airplane Mode needs to be turned off.</string>
+	<key>ACTIVATION_AIRPLANE_IPOD</key>
+	<string>Your iPod touch is in Airplane Mode. To continue activating your iPod touch, Airplane Mode needs to be turned off.</string>
+	<key>ACTIVATION_ERROR_BODY_CONNECTIONFAILED_IPAD</key>
+	<string>Your iPad could not be activated because the activation server cannot be reached. Try connecting your iPad to iTunes to activate it, or try again in a couple of minutes.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_CONNECTIONFAILED_IPHONE</key>
+	<string>Your iPhone could not be activated because the activation server cannot be reached. Try connecting your iPhone to iTunes to activate it, or try again in a couple of minutes.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_CONNECTIONFAILED_IPOD</key>
+	<string>Your iPod touch could not be activated because the activation server cannot be reached. Try connecting your iPod touch to iTunes to activate it, or try again in a couple of minutes.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_IPAD</key>
+	<string>Your iPad could not be activated because the activation server is temporarily unavailable. Try connecting your iPad to iTunes to activate it, or try again in a couple of minutes.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_IPHONE</key>
+	<string>Your iPhone could not be activated because the activation server is temporarily unavailable. Try connecting your iPhone to iTunes to activate it, or try again in a couple of minutes.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_IPOD</key>
+	<string>Your iPod touch could not be activated because the activation server is temporarily unavailable. Try connecting your iPod touch to iTunes to activate it, or try again in a couple of minutes.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_OTA_CONNECTIONFAILED_WIFI_IPAD</key>
+	<string>Your iPad could not be activated because the activation server cannot be reached. Try connecting your iPad to iTunes to activate it, or try again over the cellular connection in a couple of minutes. You can also try to activate using a Wi-Fi connection.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_OTA_CONNECTIONFAILED_WIFI_IPHONE</key>
+	<string>Your iPhone could not be activated because the activation server cannot be reached. Try connecting your iPhone to iTunes to activate it, or try again over the cellular connection in a couple of minutes. You can also try to activate using a Wi-Fi connection.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_OTA_CONNECTIONFAILED_WLAN_IPAD</key>
+	<string>Your iPad could not be activated because the activation server cannot be reached. Try connecting your iPad to iTunes to activate it, or try again over the cellular connection in a couple of minutes. You can also try to activate using a WLAN connection.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_OTA_CONNECTIONFAILED_WLAN_IPHONE</key>
+	<string>Your iPhone could not be activated because the activation server cannot be reached. Try connecting your iPhone to iTunes to activate it, or try again over the cellular connection in a couple of minutes. You can also try to activate using a WLAN connection.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_OTA_WIFI_IPAD</key>
+	<string>Your iPad could not be activated because the activation server is temporarily unavailable. Try connecting your iPad to iTunes to activate it, or try again over the cellular connection in a couple of minutes. You can also try to activate using a Wi-Fi connection.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_OTA_WIFI_IPHONE</key>
+	<string>Your iPhone could not be activated because the activation server is temporarily unavailable. Try connecting your iPhone to iTunes to activate it, or try again over the cellular connection in a couple of minutes. You can also try to activate using a Wi-Fi connection.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_OTA_WLAN_IPAD</key>
+	<string>Your iPad could not be activated because the activation server is temporarily unavailable. Try connecting your iPad to iTunes to activate it, or try again over the cellular connection in a couple of minutes. You can also try to activate using a WLAN connection.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_BODY_OTA_WLAN_IPHONE</key>
+	<string>Your iPhone could not be activated because the activation server is temporarily unavailable. Try connecting your iPhone to iTunes to activate it, or try again over the cellular connection in a couple of minutes. You can also try to activate using a WLAN connection.
+
+If this problem persists, contact Apple Support at apple.com/support</string>
+	<key>ACTIVATION_ERROR_TITLE_IPAD</key>
+	<string>Could Not Activate iPad</string>
+	<key>ACTIVATION_ERROR_TITLE_IPHONE</key>
+	<string>Could Not Activate iPhone</string>
+	<key>ACTIVATION_ERROR_TITLE_IPOD</key>
+	<string>Could Not Activate iPod touch</string>
+	<key>ACTIVATION_LOCK_DESCRIPTION_IPAD</key>
+	<string>Find My iPad has new features that make it harder for anyone to use or sell your iPad if you ever lose it.
+
+Your password will be required before anyone can turn off Find My iPad, sign out of iCloud, or erase and reactivate your iPad.</string>
+	<key>ACTIVATION_LOCK_DESCRIPTION_IPHONE</key>
+	<string>Find My iPhone has new features that make it harder for anyone to use or sell your iPhone if you ever lose it.
+
+Your password will be required before anyone can turn off Find My iPhone, sign out of iCloud, or erase and reactivate your iPhone.</string>
+	<key>ACTIVATION_LOCK_DESCRIPTION_IPOD</key>
+	<string>Find My iPod touch has new features that make it harder for anyone to use or sell your iPod touch if you ever lose it.
+
+Your password will be required before anyone can turn off Find My iPod touch, sign out of iCloud, or erase and reactivate your iPod touch.</string>
+	<key>ACTIVATION_LOCK_TITLE_IPAD</key>
+	<string>Find My iPad in iOS 7</string>
+	<key>ACTIVATION_LOCK_TITLE_IPHONE</key>
+	<string>Find My iPhone
+in iOS 7</string>
+	<key>ACTIVATION_LOCK_TITLE_IPOD</key>
+	<string>Find My iPod touch
+in iOS 7</string>
+	<key>ACTIVATION_REQUIRED</key>
+	<string>Activation Required</string>
+	<key>ACTIVATION_TIME_IPAD</key>
+	<string>It may take a few minutes to activate your iPad.</string>
+	<key>ACTIVATION_TIME_IPHONE</key>
+	<string>It may take a few minutes to activate your iPhone.</string>
+	<key>ACTIVATION_TIME_IPOD</key>
+	<string>It may take a few minutes to activate your iPod touch.</string>
+	<key>ADDRESS</key>
+	<string>Address</string>
+	<key>ADD_PASSCODE</key>
+	<string>Add Passcode</string>
+	<key>AGREE</key>
+	<string>Agree</string>
+	<key>AGREE_DIALOG_TEXT</key>
+	<string>I agree to the iOS Terms and Conditions.</string>
+	<key>AGREE_DIALOG_TITLE</key>
+	<string>Terms and Conditions</string>
+	<key>APPLEID_BLURB_IPAD</key>
+	<string>Your Apple ID is used to set up
+iCloud, App Store, iTunes Store,
+and more on your iPad.</string>
+	<key>APPLEID_BLURB_IPHONE</key>
+	<string>Your Apple ID is used to set up
+iCloud, App Store, iTunes Store,
+and more on your iPhone.</string>
+	<key>APPLEID_BLURB_IPOD</key>
+	<string>Your Apple ID is used to set up
+iCloud, App Store, iTunes Store,
+and more on your iPod touch.</string>
+	<key>APPLEID_NOT_FOR_ALL</key>
+	<string>Some features, applications, and services are not available in all areas.</string>
+	<key>APPLEID_NO_NETWORK_TITLE</key>
+	<string>No Network Connection</string>
+	<key>APPLEID_TITLE_LABEL</key>
+	<string>Apple ID</string>
+	<key>APPLEID_WHAT_IS</key>
+	<string>What is an Apple ID?</string>
+	<key>APPLEID_WHAT_IS_APPLE_ONLINE_STORE</key>
+	<string>Shop the Online Store or make a Genius Bar appointment at your local Apple Store.</string>
+	<key>APPLEID_WHAT_IS_APP_STORE</key>
+	<string>Get access to the best selection of apps with the App Store.</string>
+	<key>APPLEID_WHAT_IS_DETAIL</key>
+	<string>An Apple ID is your secure login for just about everything you do with Apple.</string>
+	<key>APPLEID_WHAT_IS_FACETIME</key>
+	<string>Communicate with FaceTime and iMessage.</string>
+	<key>APPLEID_WHAT_IS_FIND_MY_IPHONE</key>
+	<string>Use Find My iPhone, iPad or iPod touch.</string>
+	<key>APPLEID_WHAT_IS_GAME_CENTER</key>
+	<string>Play multi-player games and track achievements with Game Center.</string>
+	<key>APPLEID_WHAT_IS_GENIUS_BAR</key>
+	<string>Make Genius Bar appointments and reserve products at an Apple Retail Store.</string>
+	<key>APPLEID_WHAT_IS_IBOOKS</key>
+	<string>Shop for your favorite books with iBooks.</string>
+	<key>APPLEID_WHAT_IS_ICLOUD</key>
+	<string>Access your music, photos, contacts, calendars, and more on all your devices.</string>
+	<key>APPLEID_WHAT_IS_ITUNES_STORE</key>
+	<string>Shop for music, movies, TV shows, and more in the iTunes Store.</string>
+	<key>APPLEID_WHAT_IS_MESSAGES</key>
+	<string>Communicate with friends using iMessage and FaceTime.</string>
+	<key>APPLEID_WIFI_BODY</key>
+	<string>You are not connected to the Internet. Choose a new network or continue without Wi-Fi.</string>
+	<key>APPLEID_WLAN_BODY</key>
+	<string>You are not connected to the Internet. Choose a new network or continue without WLAN.</string>
+	<key>APPLE_ID_TITLE</key>
+	<string>Apple ID</string>
+	<key>APPROVAL_REQUEST_SENT</key>
+	<string>Approval Request Sent</string>
+	<key>APPROVE_FROM_ANOTHER_DEVICE</key>
+	<string>Approve from Other Device</string>
+	<key>A_GENERIC_USERNAME</key>
+	<string>example@icloud.com</string>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANNOT_SHOW_ABOUT_PAGE</key>
+	<string>Could Not Connect to the Server</string>
+	<key>CANT_ACCESS_IFORGOT</key>
+	<string>Your Apple ID or password cannot be recovered or reset because of a server error. Try again later.</string>
+	<key>CANT_ACCESS_IFORGOT_TITLE</key>
+	<string>Cannot Load iForgot</string>
+	<key>CANT_CREATE_APPLEID</key>
+	<string>Your Apple ID could not be created because of a server error.</string>
+	<key>CANT_CREATE_APPLEID_TITLE</key>
+	<string>Can’t Create Apple ID</string>
+	<key>CANT_LOGIN_APPLEID_GENERIC_TITLE</key>
+	<string>Could Not Sign In</string>
+	<key>CANT_LOGIN_APPLEID_UNKNOWN_ERROR</key>
+	<string>There was a problem connecting to the server.</string>
+	<key>CHANGE</key>
+	<string>Change</string>
+	<key>CLOUD_CONFIG_ACCEPT</key>
+	<string>Apply configuration</string>
+	<key>CLOUD_CONFIG_CONFIGURING_IPAD</key>
+	<string>Configuring iPad</string>
+	<key>CLOUD_CONFIG_CONFIGURING_IPHONE</key>
+	<string>Configuring iPhone</string>
+	<key>CLOUD_CONFIG_CONFIGURING_IPOD</key>
+	<string>Configuring iPod</string>
+	<key>CLOUD_CONFIG_DESCRIPTION_MANDATORY_IPAD</key>
+	<string>%@ will automatically configure your iPad.</string>
+	<key>CLOUD_CONFIG_DESCRIPTION_MANDATORY_IPHONE</key>
+	<string>%@ will automatically configure your iPhone.</string>
+	<key>CLOUD_CONFIG_DESCRIPTION_MANDATORY_IPOD</key>
+	<string>%@ will automatically configure your iPod touch.</string>
+	<key>CLOUD_CONFIG_DESCRIPTION_OPTIONAL_IPAD</key>
+	<string>%@ can automatically configure your iPad.</string>
+	<key>CLOUD_CONFIG_DESCRIPTION_OPTIONAL_IPHONE</key>
+	<string>%@ can automatically configure your iPhone.</string>
+	<key>CLOUD_CONFIG_DESCRIPTION_OPTIONAL_IPOD</key>
+	<string>%@ can automatically configure your iPod touch.</string>
+	<key>CLOUD_CONFIG_DISCLOSURE_TITLE</key>
+	<string>Configuration</string>
+	<key>CLOUD_CONFIG_ERROR_FAILED_RETRIEVE_ENTERPRISE_CONFIG_IPAD</key>
+	<string>The configuration for your iPad could not be downloaded from %@.
+
+%@</string>
+	<key>CLOUD_CONFIG_ERROR_FAILED_RETRIEVE_ENTERPRISE_CONFIG_IPHONE</key>
+	<string>The configuration for your iPhone could not be downloaded from %@.
+
+%@</string>
+	<key>CLOUD_CONFIG_ERROR_FAILED_RETRIEVE_ENTERPRISE_CONFIG_IPOD</key>
+	<string>The configuration for your iPod touch could not be downloaded from %@.
+
+%@</string>
+	<key>CLOUD_CONFIG_ERROR_FAILED_RETRIEVE_INITIAL_CONFIG_IPAD</key>
+	<string>The configuration for your iPad could not be downloaded.
+
+%@</string>
+	<key>CLOUD_CONFIG_ERROR_FAILED_RETRIEVE_INITIAL_CONFIG_IPHONE</key>
+	<string>The configuration for your iPhone could not be downloaded.
+
+%@</string>
+	<key>CLOUD_CONFIG_ERROR_FAILED_RETRIEVE_INITIAL_CONFIG_IPOD</key>
+	<string>The configuration for your iPod touch could not be downloaded.
+
+%@</string>
+	<key>CLOUD_CONFIG_GENERIC_USERNAME</key>
+	<string>Username</string>
+	<key>CLOUD_CONFIG_INSTALLING</key>
+	<string>Installing</string>
+	<key>CLOUD_CONFIG_INSTALLING_DESCRIPTION</key>
+	<string>Installing configuration from %@</string>
+	<key>CLOUD_CONFIG_LOGIN_PROMPT</key>
+	<string>Log in to %@</string>
+	<key>CLOUD_CONFIG_LOGIN_TITLE</key>
+	<string>Log In</string>
+	<key>CLOUD_CONFIG_LOGIN_USERNAME</key>
+	<string>Username</string>
+	<key>CLOUD_CONFIG_NOTICE_TITLE</key>
+	<string>Notice</string>
+	<key>CLOUD_CONFIG_SKIP</key>
+	<string>Skip configuration</string>
+	<key>CLOUD_CONFIG_WHAT_IS_CONFIGURATION</key>
+	<string>About Configuration</string>
+	<key>CONFIGURATION_NOT_SUPERVISED_IPAD</key>
+	<string>Configuration allows %@ to manage this iPad over the air.
+
+An administrator can help you set up email and network accounts, install and configure apps, and manage settings remotely.
+
+An administrator may disable features, install and remove apps, and remotely erase this iPad.</string>
+	<key>CONFIGURATION_NOT_SUPERVISED_IPHONE</key>
+	<string>Configuration allows %@ to manage this iPhone over the air.
+
+An administrator can help you set up email and network accounts, install and configure apps, and manage settings remotely.
+
+An administrator may disable features, install and remove apps, and remotely erase this iPhone.</string>
+	<key>CONFIGURATION_NOT_SUPERVISED_IPOD</key>
+	<string>Configuration allows %@ to manage this iPod over the air.
+
+An administrator can help you set up email and network accounts, install and configure apps, and manage settings remotely.
+
+An administrator may disable features, install and remove apps, and remotely erase this iPod.</string>
+	<key>CONFIGURATION_SUPERVISED_IPAD</key>
+	<string>Configuration allows %@ to manage this iPad over the air.
+
+An administrator can help you set up email and network accounts, install and configure apps, and manage settings remotely.
+
+An administrator may disable features, install and remove apps, monitor and restrict your Internet traffic and remotely erase this iPad.</string>
+	<key>CONFIGURATION_SUPERVISED_IPHONE</key>
+	<string>Configuration allows %@ to manage this iPhone over the air.
+
+An administrator can help you set up email and network accounts, install and configure apps, and manage settings remotely.
+
+An administrator may disable features, install and remove apps, monitor and restrict your Internet traffic and remotely erase this iPhone.</string>
+	<key>CONFIGURATION_SUPERVISED_IPOD</key>
+	<string>Configuration allows %@ to manage this iPod over the air.
+
+An administrator can help you set up email and network accounts, install and configure apps, and manage settings remotely.
+
+An administrator may disable features, install and remove apps, monitor and restrict your Internet traffic and remotely erase this iPod.</string>
+	<key>CONFIGURATION_SUPPORT_CONTACT</key>
+	<string>Configuration is provided by:</string>
+	<key>CONFIGURATION_TITLE</key>
+	<string>Configuration</string>
+	<key>CONNECTED_TO_ITUNES</key>
+	<string>Connected to iTunes</string>
+	<key>CONNECT_TO_ITUNES_IPAD</key>
+	<string>Connect to iTunes</string>
+	<key>CONNECT_TO_ITUNES_IPHONE</key>
+	<string>Connect to iTunes</string>
+	<key>CONNECT_TO_ITUNES_IPOD</key>
+	<string>Connect to iTunes</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>CREATE_NEW_APPLEID</key>
+	<string>Create a Free Apple ID</string>
+	<key>CREATE_PASSCODE</key>
+	<string>Create a Passcode</string>
+	<key>CREATING_APPLE_ID_WORDY</key>
+	<string>It may take a few minutes to create your new Apple ID…</string>
+	<key>DEVICE_NAME_IPAD</key>
+	<string>%@'s iPad</string>
+	<key>DEVICE_NAME_IPHONE</key>
+	<string>%@'s iPhone</string>
+	<key>DEVICE_NAME_IPOD</key>
+	<string>%@'s iPod touch</string>
+	<key>DIAGNOSTICS</key>
+	<string>Diagnostics</string>
+	<key>DIAGNOSTICS_DESCRIPTION</key>
+	<string>Help Apple improve its products and services by automatically sending diagnostic and usage data. Diagnostic data may include location.</string>
+	<key>DIAGNOSTICS_HEADER</key>
+	<string>Diagnostics &amp; Usage</string>
+	<key>DIAGNOSTICS_PRIVACY</key>
+	<string>Diagnostics and Privacy</string>
+	<key>DISABLE_DIAGNOSTICS</key>
+	<string>Donʼt Send</string>
+	<key>DISABLE_LOCATION_SERVICES_IPAD</key>
+	<string>Disable Location Services</string>
+	<key>DISABLE_LOCATION_SERVICES_IPHONE</key>
+	<string>Disable Location Services</string>
+	<key>DISABLE_LOCATION_SERVICES_IPOD</key>
+	<string>Disable Location Services</string>
+	<key>DISAGREE</key>
+	<string>Disagree</string>
+	<key>DISAGREE_DIALOG_TEXT</key>
+	<string>New iCloud features will not be available until you agree to the amended iCloud Terms and Conditions.</string>
+	<key>DISAGREE_DIALOG_TITLE</key>
+	<string>Are you sure?</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DONT_ENABLE</key>
+	<string>Don’t Enable</string>
+	<key>DONT_RESTORE_PASSWORDS</key>
+	<string>Don’t Restore Passwords</string>
+	<key>DONT_RESTORE_PASSWORDS_QUESTION</key>
+	<string>Don’t Restore Passwords?</string>
+	<key>DONT_SKIP</key>
+	<string>Don’t Skip</string>
+	<key>DONT_USE_FIND_MY_IPHONE_NAME_IPAD</key>
+	<string>Don’t Use Find My iPad</string>
+	<key>DONT_USE_FIND_MY_IPHONE_NAME_IPHONE</key>
+	<string>Don’t Use Find My iPhone</string>
+	<key>DONT_USE_FIND_MY_IPHONE_NAME_IPOD</key>
+	<string>Don’t Use Find My iPod touch</string>
+	<key>DONT_USE_ICLOUD</key>
+	<string>Don’t Use iCloud</string>
+	<key>DO_NOT_ADD_PASSCODE</key>
+	<string>Don’t Add Passcode</string>
+	<key>EMERGENCY_CALL</key>
+	<string>Emergency Call</string>
+	<key>ENABLE</key>
+	<string>Enable</string>
+	<key>ENABLE_DIAGNOSTICS</key>
+	<string>Automatically Send</string>
+	<key>ENABLE_LOCATION_SERVICES_ALERT_TITLE</key>
+	<string>Enable Location Services?</string>
+	<key>ENABLE_LOCATION_SERVICES_IPAD</key>
+	<string>Enable Location Services</string>
+	<key>ENABLE_LOCATION_SERVICES_IPHONE</key>
+	<string>Enable Location Services</string>
+	<key>ENABLE_LOCATION_SERVICES_IPOD</key>
+	<string>Enable Location Services</string>
+	<key>ENABLE_LOCATION_SERVICES_MESSAGE_IPAD</key>
+	<string>Location Services must be enabled for Find My iPad to locate your iPad on a map.</string>
+	<key>ENABLE_LOCATION_SERVICES_MESSAGE_IPHONE</key>
+	<string>Location Services must be enabled for Find My iPhone to locate your iPhone on a map.</string>
+	<key>ENABLE_LOCATION_SERVICES_MESSAGE_IPOD</key>
+	<string>Location Services must be enabled for Find My iPod touch to locate your iPod touch on a map.</string>
+	<key>ENABLING_KEYCHAIN_SYNC</key>
+	<string>Turning on Keychain Sync…</string>
+	<key>ENTER_PASSCODE</key>
+	<string>Enter a passcode.</string>
+	<key>ERASE_DEVICE_IPAD</key>
+	<string>Erase iPad</string>
+	<key>ERASE_DEVICE_IPHONE</key>
+	<string>Erase iPhone</string>
+	<key>ERASE_DEVICE_IPOD</key>
+	<string>Erase iPod</string>
+	<key>ERASE_START_OVER_BODY_IPAD</key>
+	<string>This will reset your iPad’s settings to factory defaults.</string>
+	<key>ERASE_START_OVER_BODY_IPHONE</key>
+	<string>This will reset your iPhone’s settings to factory defaults.</string>
+	<key>ERASE_START_OVER_BODY_IPOD</key>
+	<string>This will reset your iPod touch’s settings to factory defaults.</string>
+	<key>ERASE_START_OVER_IPAD</key>
+	<string>Erase iPad and Start Over?</string>
+	<key>ERASE_START_OVER_IPHONE</key>
+	<string>Erase iPhone and Start Over?</string>
+	<key>ERASE_START_OVER_IPOD</key>
+	<string>Erase iPod touch and Start Over?</string>
+	<key>FIND_MY_IPHONE_ABOUT_IPAD</key>
+	<string>About Find My iPad</string>
+	<key>FIND_MY_IPHONE_ABOUT_IPHONE</key>
+	<string>About Find My iPhone</string>
+	<key>FIND_MY_IPHONE_ABOUT_IPOD</key>
+	<string>About Find My iPod touch</string>
+	<key>FIND_MY_IPHONE_BLURB_IPAD</key>
+	<string>Find My iPad allows you to locate, lock, and erase your iPad if you lose it. Your Apple ID and password will also be required before anyone can erase or reactivate it.</string>
+	<key>FIND_MY_IPHONE_BLURB_IPHONE</key>
+	<string>Find My iPhone allows you to locate, lock, and erase your iPhone if you lose it. Your Apple ID and password will also be required before anyone can erase or reactivate it.</string>
+	<key>FIND_MY_IPHONE_BLURB_IPOD</key>
+	<string>Find My iPod touch allows you to locate, lock, and erase your iPod touch if you lose it. Your Apple ID and password will also be required before anyone can erase or reactivate it.</string>
+	<key>FIND_MY_IPHONE_HELPLINK_IPAD</key>
+	<string>What is Find My iPad?</string>
+	<key>FIND_MY_IPHONE_HELPLINK_IPHONE</key>
+	<string>What is Find My iPhone?</string>
+	<key>FIND_MY_IPHONE_HELPLINK_IPOD</key>
+	<string>What is Find My iPod touch?</string>
+	<key>FIND_MY_IPHONE_NAME_IPAD</key>
+	<string>Find My iPad</string>
+	<key>FIND_MY_IPHONE_NAME_IPHONE</key>
+	<string>Find My iPhone</string>
+	<key>FIND_MY_IPHONE_NAME_IPOD</key>
+	<string>Find My iPod touch</string>
+	<key>FIND_MY_IPHONE_TITLE_IPAD</key>
+	<string>Find My iPad</string>
+	<key>FIND_MY_IPHONE_TITLE_IPHONE</key>
+	<string>Find My iPhone</string>
+	<key>FIND_MY_IPHONE_TITLE_IPOD</key>
+	<string>Find My iPod touch</string>
+	<key>FMIP_ACCOUNT_CHANGE_MESSAGE_IPAD</key>
+	<string>Find My iPad is no longer being used with “%@”. You can change this in Settings.</string>
+	<key>FMIP_ACCOUNT_CHANGE_MESSAGE_IPHONE</key>
+	<string>Find My iPhone is no longer being used with “%@”. You can change this in Settings.</string>
+	<key>FMIP_ACCOUNT_CHANGE_MESSAGE_IPOD</key>
+	<string>Find My iPod touch is no longer being used with “%@”. You can change this in Settings.</string>
+	<key>FMIP_ACCOUNT_CHANGE_TITLE_IPAD</key>
+	<string>Find My iPad Now Active for “%@”</string>
+	<key>FMIP_ACCOUNT_CHANGE_TITLE_IPHONE</key>
+	<string>Find My iPhone Now Active for “%@”</string>
+	<key>FMIP_ACCOUNT_CHANGE_TITLE_IPOD</key>
+	<string>Find My iPod touch Now Active for “%@”</string>
+	<key>FMIP_ACCOUNT_DISABLE_MESSAGE_IPAD</key>
+	<string>You can turn on Find My iPad for “%@” in Settings.</string>
+	<key>FMIP_ACCOUNT_DISABLE_MESSAGE_IPHONE</key>
+	<string>You can turn on Find My iPhone for “%@” in Settings.</string>
+	<key>FMIP_ACCOUNT_DISABLE_MESSAGE_IPOD</key>
+	<string>You can turn on Find My iPod touch for “%@” in Settings.</string>
+	<key>FMIP_ACCOUNT_DISABLE_TITLE_IPAD</key>
+	<string>Find My iPad No Longer Available for “%@”</string>
+	<key>FMIP_ACCOUNT_DISABLE_TITLE_IPHONE</key>
+	<string>Find My iPhone No Longer Available for “%@”</string>
+	<key>FMIP_ACCOUNT_DISABLE_TITLE_IPOD</key>
+	<string>Find My iPod touch No Longer Available for “%@”</string>
+	<key>FORGOT_APPLEID_OR_PASSWORD</key>
+	<string>Forgot Apple ID or Password?</string>
+	<key>FORGOT_PASSWORD</key>
+	<string>Forgot Password?</string>
+	<key>FT_REG_DESCRIPTION</key>
+	<string>People can contact you on all your devices via iMessage and FaceTime using your phone number or email addresses.</string>
+	<key>FT_REG_DESCRIPTION_NO_FT</key>
+	<string>People can contact you on all your devices via iMessage using your phone number or email addresses.</string>
+	<key>FT_REG_HEADER</key>
+	<string>Let other people reach you at:</string>
+	<key>FT_REG_TITLE</key>
+	<string>iMessage and
+FaceTime</string>
+	<key>FT_REG_TITLE_NO_FT</key>
+	<string>iMessage</string>
+	<key>FT_REG_WHAT_IS</key>
+	<string>What are iMessage
+and FaceTime?</string>
+	<key>FT_REG_WHAT_IS_NO_FT</key>
+	<string>What is iMessage?</string>
+	<key>GET_STARTED</key>
+	<string>Get Started</string>
+	<key>HAS_STORE_ACCOUNT_SKIP_APPLEID_ALERT_BODY</key>
+	<string>You must have an Apple ID to use iCloud and other services. Creating one is free and easy.</string>
+	<key>HAVE_TWO_ACCOUNTS</key>
+	<string>Use different Apple IDs for iCloud and iTunes?</string>
+	<key>ICLOUD_ABOUT</key>
+	<string>About iCloud</string>
+	<key>ICLOUD_BLURB</key>
+	<string>iCloud stores your music, photos, apps, contacts, calendars, and more and wirelessly pushes them to your devices.</string>
+	<key>ICLOUD_BLURB_WITHOUT_REDOWNLOAD_RIGHTS</key>
+	<string>iCloud stores your photos, apps, contacts, calendars, and more and wirelessly pushes them to your devices.</string>
+	<key>ICLOUD_CELL_TITLE</key>
+	<string>iCloud</string>
+	<key>ICLOUD_HELPLINK</key>
+	<string>What is iCloud?</string>
+	<key>ICLOUD_KEYCHAIN_ABOUT</key>
+	<string>iCloud Keychain keeps the passwords and credit card information you save up to date on the devices you approve.
+
+Your information is encrypted and cannot be read by Apple.</string>
+	<key>ICLOUD_KEYCHAIN_HELPLINK</key>
+	<string>What is iCloud Keychain?</string>
+	<key>ICLOUD_KEYCHAIN_IN_SETTINGS</key>
+	<string>You can enable iCloud Keychain in Settings</string>
+	<key>ICLOUD_KEYCHAIN_PRIVACY</key>
+	<string>iCloud Keychain and Privacy</string>
+	<key>ICLOUD_KEYCHAIN_TITLE</key>
+	<string>iCloud Keychain</string>
+	<key>ICLOUD_NAV_TITLE</key>
+	<string>iCloud</string>
+	<key>ICLOUD_RAMP_BLURB</key>
+	<string>iCloud is adding new users every day.
+You will get an email when you can
+use iCloud.</string>
+	<key>ICLOUD_RAMP_BLURB_BOLDTITLE</key>
+	<string>Start Using iCloud Soon</string>
+	<key>ICLOUD_RAMP_BLURB_CONTINUED_IPAD</key>
+	<string>You can start using Find My iPad today.</string>
+	<key>ICLOUD_RAMP_BLURB_CONTINUED_IPHONE</key>
+	<string>You can start using Find My iPhone today.</string>
+	<key>ICLOUD_RAMP_BLURB_CONTINUED_IPOD</key>
+	<string>You can start using Find My iPod touch today.</string>
+	<key>ICLOUD_RAMP_NAV_TITLE</key>
+	<string>iCloud</string>
+	<key>ICLOUD_SIGN_IN_FOOTER</key>
+	<string>Sign in with your iCloud Apple ID.</string>
+	<key>ICLOUD_SIGN_IN_TITLE</key>
+	<string>iCloud Sign In</string>
+	<key>ICLOUD_UPGRADE_SKIP_BODY</key>
+	<string>If you skip this step, some iCloud services may not be set up completely.</string>
+	<key>ICLOUD_UPGRADE_SKIP_TITLE</key>
+	<string>Are you sure?</string>
+	<key>ICLOUD_UPGRADE_TEXT</key>
+	<string>To finish setting up iCloud, enter the Apple ID password for %@.</string>
+	<key>ICLOUD_UPGRADE_TITLE</key>
+	<string>Apple ID Sign In</string>
+	<key>ICLOUD_WHAT_IS</key>
+	<string>What is iCloud?</string>
+	<key>ICLOUD_WHAT_IS_DETAIL</key>
+	<string>iCloud lets you access your music, photos, contacts, calendars, and more on all of your devices, automatically.</string>
+	<key>IMPORTANT</key>
+	<string>IMPORTANT</string>
+	<key>ITUNES</key>
+	<string>iTunes</string>
+	<key>KEYBOARDS</key>
+	<string>Keyboards</string>
+	<key>KEYBOARDS_FOOTER</key>
+	<string>Select one or more keyboards. They can also be configured in Settings.</string>
+	<key>KEYCHAIN_APPROVAL_DETAILS_IPAD</key>
+	<string>You can continue setup and approve this iPad at any time from one of your other devices using iCloud Keychain.</string>
+	<key>KEYCHAIN_APPROVAL_DETAILS_IPHONE</key>
+	<string>You can continue setup and approve this iPhone at any time from one of your other devices using iCloud Keychain.</string>
+	<key>KEYCHAIN_APPROVAL_DETAILS_IPOD</key>
+	<string>You can continue setup and approve this iPod touch at any time from one of your other devices using iCloud Keychain.</string>
+	<key>KEYCHAIN_RESTORE_APPROVAL_AND_SECURITY_CODE_IPAD</key>
+	<string>To set up iCloud Keychain on this iPad, approve it from one of your other devices using iCloud Keychain or use your iCloud Security Code.</string>
+	<key>KEYCHAIN_RESTORE_APPROVAL_AND_SECURITY_CODE_IPHONE</key>
+	<string>To set up iCloud Keychain on this iPhone, approve it from one of your other devices using iCloud Keychain or use your iCloud Security Code.</string>
+	<key>KEYCHAIN_RESTORE_APPROVAL_AND_SECURITY_CODE_IPOD</key>
+	<string>To set up iCloud Keychain on this iPod touch, approve it from one of your other devices using iCloud Keychain or use your iCloud Security Code.</string>
+	<key>KEYCHAIN_RESTORE_APPROVAL_IPAD</key>
+	<string>To set up iCloud Keychain on this iPad, approve it from one of your other devices using iCloud Keychain.</string>
+	<key>KEYCHAIN_RESTORE_APPROVAL_IPHONE</key>
+	<string>To set up iCloud Keychain on this iPhone, approve it from one of your other devices using iCloud Keychain.</string>
+	<key>KEYCHAIN_RESTORE_APPROVAL_IPOD</key>
+	<string>To set up iCloud Keychain on this iPod touch, approve it from one of your other devices using iCloud Keychain.</string>
+	<key>KEYCHAIN_RESTORE_SECURITY_CODE_IPAD</key>
+	<string>To set up iCloud Keychain on this iPad, use your iCloud Security Code.</string>
+	<key>KEYCHAIN_RESTORE_SECURITY_CODE_IPHONE</key>
+	<string>To set up iCloud Keychain on this iPhone, use your iCloud Security Code.</string>
+	<key>KEYCHAIN_RESTORE_SECURITY_CODE_IPOD</key>
+	<string>To set up iCloud Keychain on this iPod touch, use your iCloud Security Code.</string>
+	<key>LASTDITCH_INCORRECT_PASSWORD_ERROR</key>
+	<string>If you do not know your password, you can reset it.</string>
+	<key>LASTDITCH_INCORRECT_PASSWORD_ERROR_TITLE</key>
+	<string>Incorrect Apple ID or Password</string>
+	<key>LOCATION_SERVICES_DESCRIPTION</key>
+	<string>Location Services allows Maps and other apps to gather and use data indicating your approximate location.</string>
+	<key>LOCATION_SERVICES_DISABLED_MESSAGE</key>
+	<string>Maps and other apps will be unable to use your approximate location. You can turn on Location Services in Settings.</string>
+	<key>LOCATION_SERVICES_DISABLED_TITLE</key>
+	<string>Disable Location Services?</string>
+	<key>LOCATION_SERVICES_IPAD</key>
+	<string>Location Services</string>
+	<key>LOCATION_SERVICES_IPHONE</key>
+	<string>Location Services</string>
+	<key>LOCATION_SERVICES_IPOD</key>
+	<string>Location Services</string>
+	<key>LOCATION_SERVICES_PRIVACY</key>
+	<string>Location Services and Privacy</string>
+	<key>MORE_COUNTRIES_AND_REGIONS</key>
+	<string>MORE COUNTRIES AND REGIONS</string>
+	<key>MORE_LANGUAGES</key>
+	<string>MORE LANGUAGES</string>
+	<key>MORE_WIFI_SETTINGS</key>
+	<string>More Wi-Fi Settings</string>
+	<key>MORE_WLAN_SETTINGS</key>
+	<string>More WLAN Settings</string>
+	<key>NEW_WIFI</key>
+	<string>New Wi-Fi</string>
+	<key>NEW_WLAN</key>
+	<string>New WLAN</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>NOT_STORE_ACCOUNT_BODY</key>
+	<string>This Apple ID has not been used to make purchases from the App Store or iTunes Store.</string>
+	<key>NOT_STORE_ACCOUNT_TITLE</key>
+	<string>Apple ID Never Used with Store</string>
+	<key>NO_ACCOUNT_SKIP_APPLEID_ALERT_BODY</key>
+	<string>You must have an Apple ID to use the App Store, iTunes Store, iCloud, and other services. Creating one is free and easy.</string>
+	<key>NO_ACCOUNT_SKIP_APPLEID_ALERT_TITLE</key>
+	<string>Are you sure?</string>
+	<key>NO_NETWORK_CONNECTION_BODY_WIFI</key>
+	<string>The Wi-Fi network you selected is not providing an Internet connection. Change your settings or choose a different network.</string>
+	<key>NO_NETWORK_CONNECTION_BODY_WLAN</key>
+	<string>The WLAN network you selected is not providing an Internet connection. Change your settings or choose a different network.</string>
+	<key>NO_NETWORK_CONNECTION_SETTINGS</key>
+	<string>Settings</string>
+	<key>NO_NETWORK_CONNECTION_TITLE</key>
+	<string>No Network Connection</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OPTIONAL</key>
+	<string>Optional</string>
+	<key>PASSCODES_FAILED_TO_MATCH</key>
+	<string>Passcodes did not match. Try again.</string>
+	<key>PASSCODE_DESCRIPTION_IPAD</key>
+	<string>Add a passcode to prevent unauthorized access to your iPad, encrypt your data, and use iCloud Keychain.</string>
+	<key>PASSCODE_DESCRIPTION_IPHONE</key>
+	<string>Add a passcode to prevent unauthorized access to your iPhone, encrypt your data, and use iCloud Keychain.</string>
+	<key>PASSCODE_DESCRIPTION_IPOD</key>
+	<string>Add a passcode to prevent unauthorized access to your iPod touch, encrypt your data, and use iCloud Keychain.</string>
+	<key>PASSCODE_TITLE</key>
+	<string>Passcode Lock</string>
+	<key>PASSWORD_FIELD</key>
+	<string>Password</string>
+	<key>REGISTER_WITH_APPLE</key>
+	<string>Register with Apple</string>
+	<key>REGISTRATION</key>
+	<string>Registration</string>
+	<key>RESISTER_WITH_APPLE_BRIEF</key>
+	<string>Register this device to your Apple ID to stay up to date on product information and get faster access to support.</string>
+	<key>RESTORE_COMPLETED</key>
+	<string>Restore Completed</string>
+	<key>RESTORE_COMPLETED_EXPLANATION_IPAD</key>
+	<string>Your iPad was restored successfully. There are just a few more steps to follow, and then you’re done!</string>
+	<key>RESTORE_COMPLETED_EXPLANATION_IPHONE</key>
+	<string>Your iPhone was restored successfully.
+There are just a few more steps to follow,
+and then you’re done!</string>
+	<key>RESTORE_COMPLETED_EXPLANATION_IPOD</key>
+	<string>Your iPod touch was restored successfully.
+There are just a few more steps to follow,
+and then you’re done!</string>
+	<key>RESTORE_FROM_ITUNES_IPAD</key>
+	<string>Restore from iTunes Backup</string>
+	<key>RESTORE_FROM_ITUNES_IPHONE</key>
+	<string>Restore from iTunes Backup</string>
+	<key>RESTORE_FROM_ITUNES_IPOD</key>
+	<string>Restore from iTunes Backup</string>
+	<key>RESTORE_FROM_OTA_BACKUP_IPAD</key>
+	<string>Restore from iCloud Backup</string>
+	<key>RESTORE_FROM_OTA_BACKUP_IPHONE</key>
+	<string>Restore from iCloud Backup</string>
+	<key>RESTORE_FROM_OTA_BACKUP_IPOD</key>
+	<string>Restore from iCloud Backup</string>
+	<key>RESTORE_WHAT_DETAIL</key>
+	<string>Your personal data and purchased content will appear on your device, automatically.</string>
+	<key>RESTORE_WHAT_IS</key>
+	<string>What does restoring do?</string>
+	<key>RE_ENTER_PASSCODE</key>
+	<string>Re-enter your passcode.</string>
+	<key>SELECT_COUNTRY_OR_REGION_IPAD</key>
+	<string>Select Your Country or Region</string>
+	<key>SELECT_COUNTRY_OR_REGION_IPHONE</key>
+	<string>Select Your Country
+or Region</string>
+	<key>SELECT_COUNTRY_OR_REGION_IPOD</key>
+	<string>Select Your Country
+or Region</string>
+	<key>SELECT_YOUR_LANGUAGE</key>
+	<string>Select your language</string>
+	<key>SETTING_LANGUAGE</key>
+	<string>Setting Language…</string>
+	<key>SETUP_EMAIL_DEFAULT_ERROR</key>
+	<string>Setting up Email failed.</string>
+	<key>SETUP_EMAIL_FOOTER_IPAD</key>
+	<string>Enter the password for your email account to automatically set it up on your iPad.</string>
+	<key>SETUP_EMAIL_FOOTER_IPHONE</key>
+	<string>Enter the password for your email account to automatically set it up on your iPhone.</string>
+	<key>SETUP_EMAIL_FOOTER_IPOD</key>
+	<string>Enter the password for your email account to automatically set it up on your iPod touch.</string>
+	<key>SETUP_INCOMPLETE_IPAD</key>
+	<string>iPad Not Set Up</string>
+	<key>SET_UP_AS_NEW_DEVICE_IPAD</key>
+	<string>Set Up as New iPad</string>
+	<key>SET_UP_AS_NEW_DEVICE_IPHONE</key>
+	<string>Set Up as New iPhone</string>
+	<key>SET_UP_AS_NEW_DEVICE_IPOD</key>
+	<string>Set Up as New iPod touch</string>
+	<key>SET_UP_EMAIL</key>
+	<string>Set Up Email</string>
+	<key>SET_UP_ICLOUD_KEYCHAIN</key>
+	<string>Set Up iCloud Keychain</string>
+	<key>SET_UP_ICLOUD_KEYCHAIN_LATER</key>
+	<string>Set Up Later</string>
+	<key>SET_UP_YOUR_DEVICE_IPAD</key>
+	<string>Set Up iPad</string>
+	<key>SET_UP_YOUR_DEVICE_IPHONE</key>
+	<string>Set Up iPhone</string>
+	<key>SET_UP_YOUR_DEVICE_IPOD</key>
+	<string>Set Up iPod touch</string>
+	<key>SIGNING_IN_TITLE</key>
+	<string>Signing In…</string>
+	<key>SIGNIN_WITH_APPLEID</key>
+	<string>Sign In with Your Apple ID</string>
+	<key>SIGN_IN_APPLE_ID_WORDY</key>
+	<string>It may take a few minutes to set up your Apple ID…</string>
+	<key>SKIP</key>
+	<string>Skip</string>
+	<key>SKIP_ALERT_BODY</key>
+	<string>Some services will not be available until you verify your email address. Setting it up will automatically verify it.</string>
+	<key>SKIP_ALERT_TITLE</key>
+	<string>Skip email setup?</string>
+	<key>SKIP_ENTER_APPLEID</key>
+	<string>Skip This Step</string>
+	<key>SKIP_KEYCHAIN_CONFIRMATION</key>
+	<string>You can turn on iCloud Keychain later in Settings.</string>
+	<key>SKIP_PASSCODE</key>
+	<string>Don’t Add Passcode?</string>
+	<key>SKIP_PASSCODE_DESCRIPTION_ICLOUD_IPAD</key>
+	<string>A passcode secures your iPad and is needed to use iCloud Keychain.</string>
+	<key>SKIP_PASSCODE_DESCRIPTION_ICLOUD_IPHONE</key>
+	<string>A passcode secures your iPhone and is needed to use iCloud Keychain.</string>
+	<key>SKIP_PASSCODE_DESCRIPTION_ICLOUD_IPOD</key>
+	<string>A passcode secures your iPod touch and is needed to use iCloud Keychain.</string>
+	<key>SKIP_PASSCODE_DESCRIPTION_IPAD</key>
+	<string>A passcode secures your iPad.</string>
+	<key>SKIP_PASSCODE_DESCRIPTION_IPHONE</key>
+	<string>A passcode secures your iPhone.</string>
+	<key>SKIP_PASSCODE_DESCRIPTION_IPOD</key>
+	<string>A passcode secures your iPod touch.</string>
+	<key>SKIP_WIFI_BODY_HAS_STORE_ACCOUNT</key>
+	<string>You need a network connection to set up iCloud and other services.</string>
+	<key>SKIP_WIFI_BODY_NO_ACCOUNT</key>
+	<string>You need a network connection to set up App Store, iTunes Store, iCloud, and other services.</string>
+	<key>SKIP_WIFI_TITLE</key>
+	<string>Continue without Wi-Fi?</string>
+	<key>SKIP_WLAN_TITLE</key>
+	<string>Continue without WLAN?</string>
+	<key>START_OVER</key>
+	<string>Start Over</string>
+	<key>STORE_ACCOUNT_AGREE_TEXT</key>
+	<string>I agree to the iTunes Store Terms and Conditions.</string>
+	<key>STORE_ACCOUNT_DISAGREE_TEXT</key>
+	<string>You must agree to the Terms and Conditions to restore purchased content for this account.</string>
+	<key>STORE_ACCOUNT_UPGRADE_SKIP_BODY</key>
+	<string>You must sign in to restore purchased content for this account.</string>
+	<key>STORE_ACCOUNT_UPGRADE_TEXT</key>
+	<string>Enter the Apple ID password for %@ to use for store purchases (including the App Store, iTunes Store, and iBooks Store).</string>
+	<key>STORE_ACCOUNT_UPGRADE_TITLE</key>
+	<string>iTunes</string>
+	<key>TC_HEADER</key>
+	<string>A. iOS Terms and Conditions</string>
+	<key>TERMS_AND_CONDITIONS</key>
+	<string>Terms and Conditions</string>
+	<key>TERMS_CONDITIONS_LINK</key>
+	<string>A copy of these Terms is available at: http://www.apple.com/legal/sla/.</string>
+	<key>THIS_FIELD_REQUIRED</key>
+	<string>Required</string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+	<key>TRY_AGAIN_OTA</key>
+	<string>Try Again over Cellular</string>
+	<key>TRY_USING_WIFI</key>
+	<string>Try Using Wi-Fi</string>
+	<key>TRY_USING_WLAN</key>
+	<string>Try Using WLAN</string>
+	<key>TURN_OFF_AIRPLANE_MODE</key>
+	<string>Turn Off Airplane Mode</string>
+	<key>TWO_ACCOUNTS_ICLOUD_SIGN_IN_TEXT</key>
+	<string>Enter the Apple ID you use for iCloud.</string>
+	<key>TWO_ACCOUNTS_ICLOUD_SIGN_IN_TITLE</key>
+	<string>iCloud</string>
+	<key>TWO_ACCOUNTS_ITUNES_SIGN_IN_TEXT</key>
+	<string>Enter the Apple ID to use for store purchases (including the App Store, iTunes Store, and iBooks Store).</string>
+	<key>TWO_ACCOUNTS_ITUNES_SIGN_IN_TITLE</key>
+	<string>iTunes</string>
+	<key>UPDATE_COMPLETED</key>
+	<string>Update Completed</string>
+	<key>UPDATE_COMPLETED_EXPLANATION_IPAD</key>
+	<string>Your iPad was updated successfully. There are just a few more steps to follow, and then you’re done!</string>
+	<key>UPDATE_COMPLETED_EXPLANATION_IPHONE</key>
+	<string>Your iPhone was updated successfully.
+There are just a few more steps to follow,
+and then you’re done!</string>
+	<key>UPDATE_COMPLETED_EXPLANATION_IPOD</key>
+	<string>Your iPod touch was updated successfully.
+There are just a few more steps to follow,
+and then you’re done!</string>
+	<key>UPGRADING_APPLE_ID_WORDY</key>
+	<string>Updating iCloud settings...</string>
+	<key>USE_FIND_MY_IPHONE_NAME_IPAD</key>
+	<string>Use Find My iPad</string>
+	<key>USE_FIND_MY_IPHONE_NAME_IPHONE</key>
+	<string>Use Find My iPhone</string>
+	<key>USE_FIND_MY_IPHONE_NAME_IPOD</key>
+	<string>Use Find My iPod touch</string>
+	<key>USE_ICLOUD</key>
+	<string>Use iCloud</string>
+	<key>USE_ICLOUD_SECURITY_CODE</key>
+	<string>Use iCloud Security Code</string>
+	<key>USE_WEAK_PASSCODE_ANYWAY</key>
+	<string>Use Code</string>
+	<key>USE_WIFI</key>
+	<string>Use Wi-Fi</string>
+	<key>USE_WLAN</key>
+	<string>Use WLAN</string>
+	<key>WARRANTY</key>
+	<string>Warranty</string>
+	<key>WARRANTY_HEADER</key>
+	<string>B. Apple Limited Warranty</string>
+	<key>WEAK_PASSCODE</key>
+	<string>Are You Sure You Want to Use This Code?</string>
+	<key>WEAK_PASSCODE_DETAILS</key>
+	<string>This code is commonly used and can be easily guessed.</string>
+	<key>WELCOME_TO_IPAD</key>
+	<string>Welcome to iPad</string>
+	<key>WELCOME_TO_IPHONE</key>
+	<string>Welcome to iPhone</string>
+	<key>WELCOME_TO_IPOD</key>
+	<string>Welcome to iPod</string>
+	<key>WHATS_AN_APPLEID</key>
+	<string>What is an Apple ID?</string>
+	<key>WHAT_IS_LOCATION_SERVICES</key>
+	<string>What is Location Services?</string>
+	<key>WHAT_IS_LOCATION_SERVICES_TITLE</key>
+	<string>Location Services</string>
+	<key>WIFI_REQUIRED_MESSAGE</key>
+	<string>A Wi-Fi connection is required to restore from an iCloud Backup.</string>
+	<key>WIFI_REQUIRED_TITLE</key>
+	<string>Wi-Fi Required</string>
+	<key>WIFI_SETTINGS</key>
+	<string>Wi-Fi Settings</string>
+	<key>WLAN_REQUIRED_MESSAGE</key>
+	<string>A WLAN connection is required to restore from an iCloud Backup.</string>
+	<key>WLAN_REQUIRED_TITLE</key>
+	<string>WLAN Required</string>
+	<key>WLAN_SETTINGS</key>
+	<string>WLAN Settings</string>
+</dict>
+</plist>

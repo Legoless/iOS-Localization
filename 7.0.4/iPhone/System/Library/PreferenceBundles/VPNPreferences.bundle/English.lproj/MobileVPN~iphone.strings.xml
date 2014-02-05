@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_NAME</key>
+	<string>Account</string>
+	<key>ADD_VPN</key>
+	<string>Add Configuration</string>
+	<key>ADD_VPN_ABBREVIATED</key>
+	<string>Add Configuration</string>
+	<key>AIRPLANE_SHEET_CANCEL</key>
+	<string>Cancel</string>
+	<key>AIRPLANE_SHEET_OK</key>
+	<string>Turn Airplane Mode Off</string>
+	<key>AIRPLANE_SHEET_OK_ABBREVIATED</key>
+	<string>Off</string>
+	<key>AIRPLANE_SHEET_TITLE</key>
+	<string>VPN requires a network connection.  Do you want to turn Airplane Mode off?</string>
+	<key>APP_TITLE</key>
+	<string>VPN</string>
+	<key>AUTHENTICATING</key>
+	<string>Authenticating…</string>
+	<key>AUTO_ENC</key>
+	<string>Automatic (128 bit or 40 bit)</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_CONNECTION</key>
+	<string>Cancel VPN Connection</string>
+	<key>CERTIFICATE_ERROR</key>
+	<string>Certificate Error</string>
+	<key>CERTIFICATE_EXPIRED</key>
+	<string>Certificate Expired</string>
+	<key>CERTIFICATE_RENEWAL_FAILURE</key>
+	<string>Unable to renew certificate. Try Settings-&gt;General-&gt;Profile.</string>
+	<key>CONFIGURATIONS_GROUP_TITLE</key>
+	<string>Choose a Configuration…</string>
+	<key>CONNECT</key>
+	<string>Connect</string>
+	<key>CONNECTED</key>
+	<string>Connected</string>
+	<key>CONNECTED_TO</key>
+	<string>Connected to %@</string>
+	<key>CONNECTING</key>
+	<string>Connecting…</string>
+	<key>CONNECTION_FAILURE</key>
+	<string>Connection Failure</string>
+	<key>CONNECT_TIME</key>
+	<string>Connect Time</string>
+	<key>CUSTOM</key>
+	<string>Custom</string>
+	<key>DELETE_SETTINGS</key>
+	<string>Reset VPN Settings</string>
+	<key>DELETE_THIS_ACCOUNT</key>
+	<string>Delete this Account</string>
+	<key>DELETE_VPN</key>
+	<string>Delete VPN</string>
+	<key>DELETE_VPN?</key>
+	<string>Delete VPN?</string>
+	<key>DELETE_VPN_CONFIRMATION</key>
+	<string>Delete</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>DISCONNECT</key>
+	<string>Disconnect</string>
+	<key>DISCONNECTING</key>
+	<string>Disconnecting…</string>
+	<key>EDIT_SETTINGS</key>
+	<string>Edit your VPN account information.</string>
+	<key>ENABLED</key>
+	<string>Enabled</string>
+	<key>ENCRYPTION_LEVEL</key>
+	<string>Encryption Level</string>
+	<key>ENCRYPTION_LEVEL_ABBREVIATED</key>
+	<string>Encryption Level</string>
+	<key>ENTER_SETTINGS</key>
+	<string>Enter your VPN account information.</string>
+	<key>ESTABLISHING_CONNECTION</key>
+	<string>Starting…</string>
+	<key>FINISH</key>
+	<string>Done</string>
+	<key>L2TP_IPSEC</key>
+	<string>L2TP over IPSec</string>
+	<key>LOCAL_IP</key>
+	<string>IP Address</string>
+	<key>MAX_ENC</key>
+	<string>Maximum (128 bit only)</string>
+	<key>NEW_CONNECTION</key>
+	<string>New Connection</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>NONE</key>
+	<string>None</string>
+	<key>NOT_CONFIGURED</key>
+	<string>Not Configured</string>
+	<key>NOT_CONNECTED</key>
+	<string>Not Connected</string>
+	<key>OK</key>
+	<string>Ok</string>
+	<key>ONHOLD</key>
+	<string>On Hold…</string>
+	<key>OTHER</key>
+	<string>Add VPN Configuration...</string>
+	<key>OTHER_ABBREVIATED</key>
+	<string>Add VPN Configuration...</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PPTP</key>
+	<string>PPTP</string>
+	<key>REMOTE_IP</key>
+	<string>Connected to</string>
+	<key>RENEW_CERTIFICATE</key>
+	<string>Renew Certificate</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>RESET_SHEET_CANCEL</key>
+	<string>Cancel</string>
+	<key>RESET_SHEET_MESSAGE</key>
+	<string>Are you sure you want to reset your VPN settings?</string>
+	<key>RESET_SHEET_OK</key>
+	<string>Reset</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SERVER</key>
+	<string>Server</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SETUP_VPN</key>
+	<string>Setup VPN</string>
+	<key>SHARED_SECRET</key>
+	<string>Secret</string>
+	<key>SSL_CONFIG_MESSAGE</key>
+	<string>To configure the settings for %@, use the %@ application.</string>
+	<key>SSL_MESSAGE</key>
+	<string>To connect using %@, use the %@ application.</string>
+	<key>STARTING</key>
+	<string>Starting</string>
+	<key>STATUS</key>
+	<string>Status</string>
+	<key>TIME_1DHMS</key>
+	<string>1 day, %2.2d:%2.2d:%2.2d</string>
+	<key>TIME_DHMS</key>
+	<string>%d days, %2.2d:%2.2d:%2.2d</string>
+	<key>TIME_HHMS</key>
+	<string>%2.2d:%2.2d:%2.2d</string>
+	<key>TIME_HMS</key>
+	<string>%1.1d:%2.2d:%2.2d</string>
+	<key>TIME_MMS</key>
+	<string>%2.2d:%2.2d</string>
+	<key>TIME_MS</key>
+	<string>%1.1d:%2.2d</string>
+	<key>TIME_S</key>
+	<string>0:%2.2d</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+	<key>UPDATING</key>
+	<string>Updating</string>
+	<key>VIEW_SETTINGS</key>
+	<string>View your VPN account information.</string>
+	<key>VPN_CONNECTION</key>
+	<string>VPN Connection</string>
+	<key>VPN_ERROR</key>
+	<string>VPN Error</string>
+	<key>VPN_SAVE_FAILURE_GENERIC</key>
+	<string>Unable to save VPN configuration.</string>
+	<key>VPN_SAVE_FAILURE_NAME_CONFLICT</key>
+	<string>Cannot have two VPN configurations with the same name.</string>
+	<key>VPN_TYPE</key>
+	<string>VPN Type</string>
+</dict>
+</plist>

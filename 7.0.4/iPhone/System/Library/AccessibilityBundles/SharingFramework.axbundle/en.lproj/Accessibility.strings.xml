@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>person.airdrop.hint</key>
+	<string>Double-tap to start transfer</string>
+	<key>person.airdrop.label</key>
+	<string>AirDrop recipient</string>
+	<key>placeholder.view.hint</key>
+	<string>When an AirDrop recipient is in range, double-tap on their icon here to start sharing</string>
+	<key>placeholder.view.label</key>
+	<string>AirDrop Recipient place holder</string>
+	<key>tap.to.turn.on.button</key>
+	<string>Enable AirDrop sharing</string>
+</dict>
+</plist>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ARCHIVE_SPECIAL_MAILBOX_NAME</key>
+	<string>Archive</string>
+	<key>Attachments</key>
+	<string>Attachments</string>
+	<key>Bcc</key>
+	<string>Bcc</string>
+	<key>CHECKING_CONNECTIONS_TASK_NAME</key>
+	<string>Checking connections</string>
+	<key>Cc</key>
+	<string>Cc</string>
+	<key>DELETING_MESSAGES</key>
+	<string>Deleting messages</string>
+	<key>DELETING_MESSAGES_TASK_NAME</key>
+	<string>Deleting messages</string>
+	<key>DRAFTS_SPECIAL_MAILBOX_NAME</key>
+	<string>Drafts</string>
+	<key>Date</key>
+	<string>Date</string>
+	<key>FORWARD_SUBJECT_PREFIX</key>
+	<string>Fwd:</string>
+	<key>From</key>
+	<string>From</string>
+	<key>GMAIL_ALL_MAIL_SPECIAL_MAILBOX_NAME</key>
+	<string>All Mail</string>
+	<key>IMAP_REMOVING_CACHE_FILES</key>
+	<string>Removing old cache files…</string>
+	<key>INBOX_SPECIAL_MAILBOX_NAME</key>
+	<string>Inbox</string>
+	<key>JUNK_SPECIAL_MAILBOX_NAME</key>
+	<string>Junk</string>
+	<key>MAILBOX_DISPLAY_FORMAT</key>
+	<string>%1$@ — %2$@</string>
+	<key>MESSAGE_TOO_LARGE</key>
+	<string>Your message has size %1$@, which exceeds %2$@, the maximum allowed by the server.</string>
+	<key>MF_INDETERMINATE_PROGRESS_FORMAT</key>
+	<string>%@…</string>
+	<key>MF_SENDING_FORMAT</key>
+	<string>Sending %1$@ of %2$@</string>
+	<key>NO_PASSWORD_PROVIDED_ERROR</key>
+	<string>No password provided.
+
+Please go to Mail Account Settings and enter a password.</string>
+	<key>NO_PASSWORD_PROVIDED_FOR_ACCOUNT_FORMAT</key>
+	<string>No password provided for “%@”.
+
+Please go to Mail Account Settings and enter a password.</string>
+	<key>NO_PASSWORD_PROVIDED_FOR_USER_FORMAT</key>
+	<string>No password provided for user “%1$@” on server “%2$@”.
+
+Please go to Mail Account Settings and enter a password.</string>
+	<key>NO_SUBJECT</key>
+	<string>No subject</string>
+	<key>OPENING_MAILBOX</key>
+	<string>Opening mailbox…</string>
+	<key>OUTBOX_SPECIAL_MAILBOX_NAME</key>
+	<string>Outbox</string>
+	<key>PASSWORD_INACCESSIBLE_FOR_ACCOUNT_FORMAT</key>
+	<string>The password for “%@” cannot be used at this time.</string>
+	<key>PERFORMING_PENDED_OPERATIONS_TASK_NAME</key>
+	<string>Performing pended operations</string>
+	<key>PERSONAL_MAILBOXES</key>
+	<string>Local Mailboxes</string>
+	<key>PROVIDE_PASSWORD_FOR_ACCOUNT_FORMAT</key>
+	<string>Enter the password for the account “%@”.</string>
+	<key>REBUILDING_MAILBOX_FORMAT</key>
+	<string>Rebuilding</string>
+	<key>REPLY_SUBJECT_PREFIX</key>
+	<string>Re:</string>
+	<key>Reply-To</key>
+	<string>Reply-To</string>
+	<key>Resent-Cc</key>
+	<string>Resent-Cc</string>
+	<key>Resent-From</key>
+	<string>Resent-From</string>
+	<key>Resent-To</key>
+	<string>Resent-To</string>
+	<key>SENDING_DATA_FORMAT</key>
+	<string>Sending data (%d%% done)</string>
+	<key>SEND_MESSAGE_FORMAT</key>
+	<string>Sending message: %@</string>
+	<key>SENT_MESSAGES_SPECIAL_MAILBOX_NAME</key>
+	<string>Sent</string>
+	<key>SYNCHRONIZING_WITH_FILE_SYSTEM_FORMAT</key>
+	<string>Synchronizing with file system</string>
+	<key>SYNCHRONIZING_WITH_SERVER_FORMAT</key>
+	<string>Synchronizing with server</string>
+	<key>Subject</key>
+	<string>Subject</string>
+	<key>TRASH_SPECIAL_MAILBOX_NAME</key>
+	<string>Trash</string>
+	<key>To</key>
+	<string>To</string>
+	<key>WAITING_FOR_CONNECTION_FORMAT</key>
+	<string>Waiting for open connection…</string>
+	<key>WRITING_CHANGES_TO_DISK_FORMAT</key>
+	<string>Writing changes to disk</string>
+</dict>
+</plist>

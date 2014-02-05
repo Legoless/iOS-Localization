@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attributes</key>
+	<string>Attributes</string>
+	<key>ax.inspector</key>
+	<string>Accessibility Inspector</string>
+	<key>frame</key>
+	<string>Frame</string>
+	<key>hint</key>
+	<string>Hint</string>
+	<key>label</key>
+	<string>Label</string>
+	<key>language</key>
+	<string>Language</string>
+	<key>notification.announcement</key>
+	<string>Announcement</string>
+	<key>notification.layout</key>
+	<string>Layout Change</string>
+	<key>notification.screenchange</key>
+	<string>Screen Change</string>
+	<key>notifications</key>
+	<string>Notifications</string>
+	<key>trait.adjustable</key>
+	<string>Adjustable</string>
+	<key>trait.button</key>
+	<string>Button</string>
+	<key>trait.causes.page.turn</key>
+	<string>Causes Page Turn</string>
+	<key>trait.direct.interaction</key>
+	<string>Direct Interaction</string>
+	<key>trait.image</key>
+	<string>Image</string>
+	<key>trait.keyboardkey</key>
+	<string>Keyboard Key</string>
+	<key>trait.link</key>
+	<string>Link</string>
+	<key>trait.notenabled</key>
+	<string>Not Enabled</string>
+	<key>trait.playssound</key>
+	<string>Plays Sound</string>
+	<key>trait.searchfield</key>
+	<string>Search Field</string>
+	<key>trait.selected</key>
+	<string>Selected</string>
+	<key>trait.startsmedia</key>
+	<string>Starts Media Session</string>
+	<key>trait.statictext</key>
+	<string>Static Text</string>
+	<key>trait.summaryelement</key>
+	<string>Summary Element</string>
+	<key>trait.updatesfrequently</key>
+	<string>Updates Frequently</string>
+	<key>traits</key>
+	<string>Traits</string>
+	<key>value</key>
+	<string>Value</string>
+</dict>
+</plist>

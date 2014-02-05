@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.name</key>
+	<string>Setup</string>
+	<key>clipboard.format</key>
+	<string>%@ checklist showing all steps complete</string>
+	<key>location.services.image</key>
+	<string>The logo for location services, an arrow pointing northeast.</string>
+	<key>more.languages</key>
+	<string>More languages</string>
+	<key>next.button</key>
+	<string>Next</string>
+	<key>next.button.enabled</key>
+	<string>Next button enabled</string>
+	<key>voiceover.instructions.text</key>
+	<string>The iOS screen reader called VoiceOver is running.
+To turn VoiceOver off, triple-click the home button.</string>
+</dict>
+</plist>

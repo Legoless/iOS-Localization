@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_ONE_HOUR_REMAINING</key>
+	<string>about an hour</string>
+	<key>ALL_INCOMPATIBLE_SNAPSHOTS_IPAD</key>
+	<string>No iCloud backups are compatible with the version of iOS (%@) on this iPad</string>
+	<key>ALL_INCOMPATIBLE_SNAPSHOTS_IPHONE</key>
+	<string>No iCloud backups are compatible with the version of iOS (%@) on this iPhone</string>
+	<key>ALL_INCOMPATIBLE_SNAPSHOTS_IPOD</key>
+	<string>No iCloud backups are compatible with the version of iOS (%@) on this iPod touch</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANNOT_LOAD_BACKUPS</key>
+	<string>Cannot Load Backups</string>
+	<key>CHOOSE_BACKUP</key>
+	<string>Choose backup</string>
+	<key>CROSS_DEVICE_CLASS_FROM_IPAD_RESTORE</key>
+	<string>Restore from iPad Backup</string>
+	<key>CROSS_DEVICE_CLASS_FROM_IPAD_RESTORE_WARNING_IPHONE</key>
+	<string>If you restore this iPhone from an iPad backup, settings and iPad-only apps will not be restored.</string>
+	<key>CROSS_DEVICE_CLASS_FROM_IPAD_RESTORE_WARNING_IPOD</key>
+	<string>If you restore this iPod touch from an iPad backup, settings and iPad-only apps will not be restored.</string>
+	<key>CROSS_DEVICE_CLASS_TO_IPAD_RESTORE_IPHONE</key>
+	<string>Restore from iPhone Backup</string>
+	<key>CROSS_DEVICE_CLASS_TO_IPAD_RESTORE_IPOD</key>
+	<string>Restore from iPod Backup</string>
+	<key>CROSS_DEVICE_CLASS_TO_IPAD_RESTORE_WARNING_IPHONE</key>
+	<string>If you restore this iPad from an iPhone backup, settings will not be restored.</string>
+	<key>CROSS_DEVICE_CLASS_TO_IPAD_RESTORE_WARNING_IPOD</key>
+	<string>If you restore this iPad from an iPod touch backup, settings will not be restored.</string>
+	<key>ERROR_RESTORING_BACKUPS_BUSY_IPAD</key>
+	<string>Your iPad cannot be restored because another device is backing up. Try again later.</string>
+	<key>ERROR_RESTORING_BACKUPS_BUSY_IPHONE</key>
+	<string>Your iPhone cannot be restored because another device is backing up. Try again later.</string>
+	<key>ERROR_RESTORING_BACKUPS_BUSY_IPOD</key>
+	<string>Your iPod touch cannot be restored because another device is backing up. Try again later.</string>
+	<key>ERROR_RESTORING_BAD_BACKUP_DATA_IPAD</key>
+	<string>Your iPad cannot be restored because there is a problem with your backup data. Choose a different backup to restore from.</string>
+	<key>ERROR_RESTORING_BAD_BACKUP_DATA_IPHONE</key>
+	<string>Your iPhone cannot be restored because there is a problem with your backup data. Choose a different backup to restore from.</string>
+	<key>ERROR_RESTORING_BAD_BACKUP_DATA_IPOD</key>
+	<string>Your iPod touch cannot be restored because there is a problem with your backup data. Choose a different backup to restore from.</string>
+	<key>ERROR_RESTORING_LOST_NETWORK_IPAD</key>
+	<string>Your iPad could not be restored because you are no longer connected to the Internet.</string>
+	<key>ERROR_RESTORING_LOST_NETWORK_IPHONE</key>
+	<string>Your iPhone could not be restored because you are no longer connected to the Internet.</string>
+	<key>ERROR_RESTORING_LOST_NETWORK_IPOD</key>
+	<string>Your iPod touch could not be restored because you are no longer connected to the Internet.</string>
+	<key>ERROR_RESTORING_SERVER_ERROR_IPAD</key>
+	<string>Your iPad cannot be restored because of a server error.</string>
+	<key>ERROR_RESTORING_SERVER_ERROR_IPHONE</key>
+	<string>Your iPhone cannot be restored because of a server error.</string>
+	<key>ERROR_RESTORING_SERVER_ERROR_IPOD</key>
+	<string>Your iPod touch cannot be restored because of a server error.</string>
+	<key>ERROR_RESTORING_SERVER_UNAVAILABLE_IPAD</key>
+	<string>The server is currently unavailable. Try again later to finish setting up your iPad.</string>
+	<key>ERROR_RESTORING_SERVER_UNAVAILABLE_IPHONE</key>
+	<string>The server is currently unavailable. Try again later to finish setting up your iPhone.</string>
+	<key>ERROR_RESTORING_SERVER_UNAVAILABLE_IPOD</key>
+	<string>The server is currently unavailable. Try again later to finish setting up your iPod touch.</string>
+	<key>ERROR_TITLE_CANNOT_RESTORE</key>
+	<string>Cannot Restore Backup</string>
+	<key>ERROR_TITLE_LOST_NETWORK</key>
+	<string>Lost Network Connection</string>
+	<key>ESTIMATING_TIME_REMAINING</key>
+	<string>estimating…</string>
+	<key>JOIN_DEVICE_NAME_AND_INFO</key>
+	<string>%1$@ (%2$@)</string>
+	<key>LATEST_BACKUP_FOR_THIS_IPAD</key>
+	<string>Latest Backup for this iPad</string>
+	<key>LATEST_BACKUP_FOR_THIS_IPHONE</key>
+	<string>Latest Backup for this iPhone</string>
+	<key>LATEST_BACKUP_FOR_THIS_IPOD</key>
+	<string>Latest Backup for this iPod touch</string>
+	<key>LATEST_SIMILAR_DEVICE_BACKUPS_PLURAL_IPAD</key>
+	<string>Latest iPad Backups</string>
+	<key>LATEST_SIMILAR_DEVICE_BACKUPS_PLURAL_IPHONE</key>
+	<string>Latest iPhone Backups</string>
+	<key>LATEST_SIMILAR_DEVICE_BACKUPS_PLURAL_IPOD</key>
+	<string>Latest iPod touch Backups</string>
+	<key>LATEST_SIMILAR_DEVICE_BACKUP_IPAD</key>
+	<string>Latest iPad Backup</string>
+	<key>LATEST_SIMILAR_DEVICE_BACKUP_IPHONE</key>
+	<string>Latest iPhone Backup</string>
+	<key>LATEST_SIMILAR_DEVICE_BACKUP_IPOD</key>
+	<string>Latest iPod touch Backup</string>
+	<key>LESS_THAN_ONE_MINUTE_REMAINING</key>
+	<string>about a minute</string>
+	<key>NO_BACKUPS_AVAILABLE</key>
+	<string>No backups available.</string>
+	<key>N_HOURS_REMAINING</key>
+	<string>%@ hours</string>
+	<key>N_MINUTES_REMAINING</key>
+	<string>%@ minutes</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OTHER_BACKUPS</key>
+	<string>Other Backups</string>
+	<key>PROBLEM_LOADING_BACKUPS_DETAILS_IPAD</key>
+	<string>There was a problem loading your iCloud Backups. Try again, set up as a new iPad, or restore from an iTunes backup.</string>
+	<key>PROBLEM_LOADING_BACKUPS_DETAILS_IPHONE</key>
+	<string>There was a problem loading your iCloud Backups. Try again, set up as a new iPhone, or restore from an iTunes backup.</string>
+	<key>PROBLEM_LOADING_BACKUPS_DETAILS_IPOD</key>
+	<string>There was a problem loading your iCloud Backups. Try again, set up as a new iPod touch, or restore from an iTunes backup.</string>
+	<key>REQUIRED_OS_VERSION</key>
+	<string>iOS %@ Required</string>
+	<key>RESTORE_ALTERNATIVE_DETAILS_IPAD</key>
+	<string>You can set up as a new iPad or restore from an iTunes backup.</string>
+	<key>RESTORE_ALTERNATIVE_DETAILS_IPHONE</key>
+	<string>You can set up as a new iPhone or restore from an iTunes backup.</string>
+	<key>RESTORE_ALTERNATIVE_DETAILS_IPOD</key>
+	<string>You can set up as a new iPod touch or restore from an iTunes backup.</string>
+	<key>RESTORE_ALTERNATIVE_ITUNES</key>
+	<string>Restore from iTunes</string>
+	<key>RESTORE_ALTERNATIVE_NEW_IPAD</key>
+	<string>Set up as a new iPad</string>
+	<key>RESTORE_ALTERNATIVE_NEW_IPHONE</key>
+	<string>Set up as a new iPhone</string>
+	<key>RESTORE_ALTERNATIVE_NEW_IPOD</key>
+	<string>Set up as a new iPod touch</string>
+	<key>RESTORING_FROM_BACKUP</key>
+	<string>Restore from iCloud</string>
+	<key>RESTORING_SETTINGS_HEADER</key>
+	<string>Restoring settings…</string>
+	<key>SHOW_ALL_BACKUPS</key>
+	<string>Show all backups</string>
+	<key>SOME_INCOMPATIBLE_SNAPSHOTS_IPAD</key>
+	<string>Some iCloud backups are not compatible with the version of iOS (%@) on this iPad</string>
+	<key>SOME_INCOMPATIBLE_SNAPSHOTS_IPHONE</key>
+	<string>Some iCloud backups are not compatible with the version of iOS (%@) on this iPhone</string>
+	<key>SOME_INCOMPATIBLE_SNAPSHOTS_IPOD</key>
+	<string>Some iCloud backups are not compatible with the version of iOS (%@) on this iPod touch</string>
+	<key>START_RESTORE</key>
+	<string>Restore</string>
+	<key>THIS_DEVICE_IPAD</key>
+	<string>This %@</string>
+	<key>THIS_DEVICE_IPHONE</key>
+	<string>This %@</string>
+	<key>THIS_DEVICE_IPOD</key>
+	<string>This %@</string>
+	<key>TIME_REMAINING</key>
+	<string>Time remaining: </string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+</dict>
+</plist>

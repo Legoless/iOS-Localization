@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CALL</key>
+	<string>Call</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>EMERGENCY</key>
+	<string>Emergency</string>
+	<key>EMERGENCY_CALL</key>
+	<string>Emergency call</string>
+	<key>EMERGENCY_CALL_STRINGS</key>
+	<string>Emergency call,Notruf,Appel d’urgence,Solo emergenze,緊急電話,Llamada SOS,Ligação emergência,Экстренный вызов</string>
+	<key>END</key>
+	<string>End</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NO_SEARCH_RESULTS</key>
+	<string>No Results</string>
+	<key>SEARCH_ALL_PLACEHOLDER</key>
+	<string>Search All Calendars</string>
+	<key>SEARCH_BACK_BUTTON</key>
+	<string>Search</string>
+	<key>SEARCH_NO_ARGUMENT_PLACEHOLDER</key>
+	<string>Search</string>
+	<key>SEARCH_PLACEHOLDER</key>
+	<string>Search %@</string>
+</dict>
+</plist>

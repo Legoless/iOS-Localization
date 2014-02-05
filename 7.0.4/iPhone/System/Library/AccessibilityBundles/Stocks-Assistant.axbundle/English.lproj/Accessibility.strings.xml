@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stock.down</key>
+	<string>Down %1$@, %2$@</string>
+	<key>stock.price</key>
+	<string>Current price: %@</string>
+	<key>stock.up</key>
+	<string>Up %1$@, %2$@</string>
+	<key>yahoo.button.text</key>
+	<string>Yahoo! Finance</string>
+</dict>
+</plist>

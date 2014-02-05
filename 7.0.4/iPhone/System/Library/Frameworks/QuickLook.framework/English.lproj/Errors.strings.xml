@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATTACHMENT_INVALID_URL</key>
+	<string>Quick Look can't open the page because the address is invalid</string>
+	<key>ERROR_MESSAGE_MAIN</key>
+	<string>Unable to Read Document.</string>
+	<key>ERROR_MESSAGE_REASON</key>
+	<string>An error occurred while reading the document.</string>
+	<key>PASSWORD_MESSAGE</key>
+	<string>“%@” is password protected.</string>
+</dict>
+</plist>

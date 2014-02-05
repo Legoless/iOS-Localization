@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.name</key>
+	<string>Notes</string>
+	<key>email.button.text</key>
+	<string>Email</string>
+	<key>left.button.text</key>
+	<string>Previous note</string>
+	<key>new.note</key>
+	<string>New note</string>
+	<key>note.content.label</key>
+	<string>Note</string>
+	<key>note.list.title</key>
+	<string>Notes list</string>
+	<key>right.button.text</key>
+	<string>Next note</string>
+	<key>share.button.text</key>
+	<string>Share</string>
+	<key>todo.checkmark.button</key>
+	<string>Checkmark</string>
+	<key>trash.button.text</key>
+	<string>Delete</string>
+</dict>
+</plist>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CELSIUS</key>
+	<string>C</string>
+	<key>CHANCE_OF_HAIL</key>
+	<string>Chance of hail</string>
+	<key>CHANCE_OF_RAIN</key>
+	<string>Chance of rain</string>
+	<key>CHANCE_OF_SNOW</key>
+	<string>Chance of snow</string>
+	<key>CONDITION_LIKELY_TOMORROW_WITH_HIGH_AND_LOW</key>
+	<string>%1$@ likely tomorrow with a high of %2$@%3$@ and low of %4$@%5$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_MIDDAY_SAME</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_VISIBILITY_</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and low visibility. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_VISIBILITY_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_VISIBILITY_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and low visibility. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_VISIBILITY_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_VISIBILITY_MIDDAY_SAME</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_MIDDAY_SAME</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_HEAT_INDEX_WIND_VISIBILITY_MIDDAY_SAME</key>
+	<string>%1$@ conditions with a heat index of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_VISIBILITY_</key>
+	<string>%1$@ conditions with low visibility. </string>
+	<key>CONDITION_NOW_VISIBILITY_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with low visibility; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_VISIBILITY_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with low visibility. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_VISIBILITY_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_VISIBILITY_MIDDAY_SAME</key>
+	<string>%1$@ conditions with low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_MIDDAY_SAME</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_VISIBILITY_</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. </string>
+	<key>CONDITION_NOW_WINDCHILL_VISIBILITY_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_VISIBILITY_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_VISIBILITY_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_VISIBILITY_MIDDAY_SAME</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_MIDDAY_SAME</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@ and %4$@ %5$@ winds out of the %6$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_WINDCHILL_WIND_VISIBILITY_MIDDAY_SAME</key>
+	<string>%1$@ conditions with a wind chill of %2$@%3$@, %4$@ %5$@ winds out of the %6$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WIND_</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@. </string>
+	<key>CONDITION_NOW_WIND_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_WIND_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_WIND_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WIND_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_WIND_MIDDAY_SAME</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WIND_VISIBILITY_</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. </string>
+	<key>CONDITION_NOW_WIND_VISIBILITY_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CONDITION_NOW_WIND_VISIBILITY_AFTERNOON_SAME</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. The low tonight will be %8$@%9$@. </string>
+	<key>CONDITION_NOW_WIND_VISIBILITY_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CONDITION_NOW_WIND_VISIBILITY_MIDDAY_DIFFERENT</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. The high will be %8$@%9$@. %10$@ tonight with a low of %11$@%12$@. </string>
+	<key>CONDITION_NOW_WIND_VISIBILITY_MIDDAY_SAME</key>
+	<string>%1$@ conditions with %2$@ %3$@ winds out of the %4$@ and low visibility. The high will be %8$@%9$@. The low tonight will be %10$@%11$@. </string>
+	<key>CURRENTLY_COMMA_AFTERNOON_DIFFERENT</key>
+	<string>%1$@ currently; %8$@ tonight with a low of %9$@%10$@. </string>
+	<key>CURRENTLY_COMMA_AFTERNOON_SAME</key>
+	<string>%1$@ currently; the low tonight will be %8$@%9$@. </string>
+	<key>CURRENTLY_NOW_IT_IS_CURRENTLY_HIGH_WAS</key>
+	<string>%1$@ currently. It's %8$@%9$@; the high today was %10$@%11$@. </string>
+	<key>CURRENTLY_NOW_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ currently. It's %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>CURRENTLY_NOW_MIDDAY_DIFFERENT</key>
+	<string>%1$@ currently. The high will be %2$@%3$@. %4$@ tonight with a low of %5$@%6$@. </string>
+	<key>CURRENTLY_NOW_MIDDAY_SAME</key>
+	<string>%1$@ currently. The high will be %2$@%3$@. The low tonight will be %4$@%5$@. </string>
+	<key>E</key>
+	<string>east</string>
+	<key>FAHRENHEIT</key>
+	<string>F</string>
+	<key>FEELS_LIKE</key>
+	<string>Feels like</string>
+	<key>FRI</key>
+	<string>FRI</string>
+	<key>HEAT_INDEX</key>
+	<string>Heat index</string>
+	<key>HIGH</key>
+	<string>H:</string>
+	<key>HI_SLASH_LOW</key>
+	<string>%@%@%@</string>
+	<key>HUMIDITY</key>
+	<string>Humidity</string>
+	<key>KM</key>
+	<string>km</string>
+	<key>KPH</key>
+	<string>kph</string>
+	<key>LOCAL_WEATHER</key>
+	<string>Local Weather</string>
+	<key>LOW</key>
+	<string>L:</string>
+	<key>MAJOR_EVENT_FORMAT</key>
+	<string>%@ Watch: check your local media for more information.</string>
+	<key>MILES</key>
+	<string>mi</string>
+	<key>MON</key>
+	<string>MON</string>
+	<key>MPH</key>
+	<string>mph</string>
+	<key>MPS</key>
+	<string>mps</string>
+	<key>N</key>
+	<string>north</string>
+	<key>NE</key>
+	<string>northeast</string>
+	<key>NOW</key>
+	<string>Now</string>
+	<key>NUMBER_PERCENT</key>
+	<string>%.0f%%</string>
+	<key>NW</key>
+	<string>northwest</string>
+	<key>NotAvailable</key>
+	<string></string>
+	<key>NotAvailable-Embedded</key>
+	<string></string>
+	<key>NotAvailable-Leader</key>
+	<string></string>
+	<key>S</key>
+	<string>south</string>
+	<key>SAT</key>
+	<string>SAT</string>
+	<key>SE</key>
+	<string>southeast</string>
+	<key>SHORT_E</key>
+	<string>E</string>
+	<key>SHORT_ENE</key>
+	<string>ENE</string>
+	<key>SHORT_ESE</key>
+	<string>ESE</string>
+	<key>SHORT_N</key>
+	<string>N</string>
+	<key>SHORT_NE</key>
+	<string>NE</string>
+	<key>SHORT_NNE</key>
+	<string>NNE</string>
+	<key>SHORT_NNW</key>
+	<string>NNW</string>
+	<key>SHORT_NW</key>
+	<string>NW</string>
+	<key>SHORT_S</key>
+	<string>S</string>
+	<key>SHORT_SE</key>
+	<string>SE</string>
+	<key>SHORT_SSE</key>
+	<string>SSE</string>
+	<key>SHORT_SSW</key>
+	<string>SSW</string>
+	<key>SHORT_SW</key>
+	<string>SW</string>
+	<key>SHORT_W</key>
+	<string>W</string>
+	<key>SHORT_WNW</key>
+	<string>WNW</string>
+	<key>SHORT_WSW</key>
+	<string>WSW</string>
+	<key>SLASH</key>
+	<string>/</string>
+	<key>SUN</key>
+	<string>SUN</string>
+	<key>SUNRISE</key>
+	<string>Sunrise</string>
+	<key>SUNSET</key>
+	<string>Sunset</string>
+	<key>SW</key>
+	<string>southwest</string>
+	<key>TEMP_UNIT_CELSIUS</key>
+	<string>°</string>
+	<key>TEMP_UNIT_FAHRENHEIT</key>
+	<string>°</string>
+	<key>THU</key>
+	<string>THU</string>
+	<key>TODAY</key>
+	<string>Today</string>
+	<key>TODAY_CONDITION</key>
+	<string>%@ today. </string>
+	<key>TODAY_CONDITION_IT_IS_CURRENTLY_HIGH_WILL_BE</key>
+	<string>%1$@ today. It's currently %8$@%9$@; the high will be %10$@%11$@. </string>
+	<key>TUE</key>
+	<string>TUE</string>
+	<key>TUES</key>
+	<string>TUES</string>
+	<key>W</key>
+	<string>west</string>
+	<key>WEATHER</key>
+	<string>Weather</string>
+	<key>WEATHER_OFFLINE</key>
+	<string>Weather Offline</string>
+	<key>WED</key>
+	<string>WED</string>
+	<key>WIND</key>
+	<string>Wind</string>
+	<key>WIND_CHILL</key>
+	<string>Wind chill</string>
+	<key>WeatherConditionBlizzard</key>
+	<string>Blizzard</string>
+	<key>WeatherConditionBlizzard-Embedded</key>
+	<string>blizzard</string>
+	<key>WeatherConditionBlizzard-Leader</key>
+	<string>Blizzard</string>
+	<key>WeatherConditionBlowingSnow</key>
+	<string>Blowing Snow</string>
+	<key>WeatherConditionBlowingSnow-Embedded</key>
+	<string>blowing snow</string>
+	<key>WeatherConditionBlowingSnow-Leader</key>
+	<string>Blowing snow</string>
+	<key>WeatherConditionBreezy</key>
+	<string>Breezy</string>
+	<key>WeatherConditionBreezy-Embedded</key>
+	<string>breezy</string>
+	<key>WeatherConditionBreezy-Leader</key>
+	<string>Breezy</string>
+	<key>WeatherConditionClearNight</key>
+	<string>Clear</string>
+	<key>WeatherConditionClearNight-Embedded</key>
+	<string>clear</string>
+	<key>WeatherConditionClearNight-Leader</key>
+	<string>Clear</string>
+	<key>WeatherConditionCloudy</key>
+	<string>Cloudy</string>
+	<key>WeatherConditionCloudy-Embedded</key>
+	<string>cloudy</string>
+	<key>WeatherConditionCloudy-Leader</key>
+	<string>Cloudy</string>
+	<key>WeatherConditionDrizzle</key>
+	<string>Drizzle</string>
+	<key>WeatherConditionDrizzle-Embedded</key>
+	<string>drizzle</string>
+	<key>WeatherConditionDrizzle-Leader</key>
+	<string>Drizzle</string>
+	<key>WeatherConditionDust</key>
+	<string>Dust</string>
+	<key>WeatherConditionDust-Embedded</key>
+	<string>dust</string>
+	<key>WeatherConditionDust-Leader</key>
+	<string>Dust</string>
+	<key>WeatherConditionFog</key>
+	<string>Fog</string>
+	<key>WeatherConditionFog-Embedded</key>
+	<string>fog</string>
+	<key>WeatherConditionFog-Leader</key>
+	<string>Fog</string>
+	<key>WeatherConditionFreezingDrizzle</key>
+	<string>Freezing Drizzle</string>
+	<key>WeatherConditionFreezingDrizzle-Embedded</key>
+	<string>freezing drizzle</string>
+	<key>WeatherConditionFreezingDrizzle-Leader</key>
+	<string>Freezing drizzle</string>
+	<key>WeatherConditionFreezingRain</key>
+	<string>Freezing Rain</string>
+	<key>WeatherConditionFreezingRain-Embedded</key>
+	<string>freezing rain</string>
+	<key>WeatherConditionFreezingRain-Leader</key>
+	<string>Freezing rain</string>
+	<key>WeatherConditionFrigid</key>
+	<string>Frigid</string>
+	<key>WeatherConditionFrigid-Embedded</key>
+	<string>frigid</string>
+	<key>WeatherConditionFrigid-Leader</key>
+	<string>Frigid</string>
+	<key>WeatherConditionHail</key>
+	<string>Hail</string>
+	<key>WeatherConditionHail-Embedded</key>
+	<string>hail</string>
+	<key>WeatherConditionHail-Leader</key>
+	<string>Hail</string>
+	<key>WeatherConditionHaze</key>
+	<string>Haze</string>
+	<key>WeatherConditionHaze-Embedded</key>
+	<string>haze</string>
+	<key>WeatherConditionHaze-Leader</key>
+	<string>Haze</string>
+	<key>WeatherConditionHeavyRain</key>
+	<string>Heavy Rain</string>
+	<key>WeatherConditionHeavyRain-Embedded</key>
+	<string>heavy rain</string>
+	<key>WeatherConditionHeavyRain-Leader</key>
+	<string>Heavy rain</string>
+	<key>WeatherConditionHeavySnow</key>
+	<string>Heavy Snow</string>
+	<key>WeatherConditionHeavySnow-Embedded</key>
+	<string>heavy snow</string>
+	<key>WeatherConditionHeavySnow-Leader</key>
+	<string>Heavy snow</string>
+	<key>WeatherConditionHot</key>
+	<string>Hot</string>
+	<key>WeatherConditionHot-Embedded</key>
+	<string>hot</string>
+	<key>WeatherConditionHot-Leader</key>
+	<string>Hot</string>
+	<key>WeatherConditionHurricane</key>
+	<string>Hurricane</string>
+	<key>WeatherConditionHurricane-Embedded</key>
+	<string>hurricane</string>
+	<key>WeatherConditionHurricane-Leader</key>
+	<string>Hurricane</string>
+	<key>WeatherConditionIsolatedThundershowers</key>
+	<string>Isolated Thundershowers</string>
+	<key>WeatherConditionIsolatedThundershowers-Embedded</key>
+	<string>isolated thundershowers</string>
+	<key>WeatherConditionIsolatedThundershowers-Leader</key>
+	<string>Isolated thundershowers</string>
+	<key>WeatherConditionIsolatedThunderstorms</key>
+	<string>Isolated Thunderstorms</string>
+	<key>WeatherConditionIsolatedThunderstorms-Embedded</key>
+	<string>isolated thunderstorms</string>
+	<key>WeatherConditionIsolatedThunderstorms-Leader</key>
+	<string>Isolated thunderstorms</string>
+	<key>WeatherConditionMixedRainAndSleet</key>
+	<string>Mixed Rain and Sleet</string>
+	<key>WeatherConditionMixedRainAndSleet-Embedded</key>
+	<string>mixed rain and sleet</string>
+	<key>WeatherConditionMixedRainAndSleet-Leader</key>
+	<string>Mixed rain and sleet</string>
+	<key>WeatherConditionMixedRainAndSnow</key>
+	<string>Mixed Rain and Snow</string>
+	<key>WeatherConditionMixedRainAndSnow-Embedded</key>
+	<string>mixed rain and snow</string>
+	<key>WeatherConditionMixedRainAndSnow-Leader</key>
+	<string>Mixed rain and snow</string>
+	<key>WeatherConditionMixedRainFall</key>
+	<string>Mixed Rainfall</string>
+	<key>WeatherConditionMixedRainFall-Embedded</key>
+	<string>mixed rainfall</string>
+	<key>WeatherConditionMixedRainFall-Leader</key>
+	<string>Mixed rainfall</string>
+	<key>WeatherConditionMixedSnowAndSleet</key>
+	<string>Mixed Snow and Sleet</string>
+	<key>WeatherConditionMixedSnowAndSleet-Embedded</key>
+	<string>mixed snow and sleet</string>
+	<key>WeatherConditionMixedSnowAndSleet-Leader</key>
+	<string>Mixed snow and sleet</string>
+	<key>WeatherConditionMostlyCloudyDay</key>
+	<string>Mostly Cloudy</string>
+	<key>WeatherConditionMostlyCloudyDay-Embedded</key>
+	<string>mostly cloudy</string>
+	<key>WeatherConditionMostlyCloudyDay-Leader</key>
+	<string>Mostly cloudy</string>
+	<key>WeatherConditionMostlyCloudyNight</key>
+	<string>Mostly Cloudy</string>
+	<key>WeatherConditionMostlyCloudyNight-Embedded</key>
+	<string>mostly cloudy</string>
+	<key>WeatherConditionMostlyCloudyNight-Leader</key>
+	<string>Mostly cloudy</string>
+	<key>WeatherConditionMostlySunnyDay</key>
+	<string>Mostly Sunny</string>
+	<key>WeatherConditionMostlySunnyDay-Embedded</key>
+	<string>mostly sunny</string>
+	<key>WeatherConditionMostlySunnyDay-Leader</key>
+	<string>Mostly sunny</string>
+	<key>WeatherConditionMostlySunnyNight</key>
+	<string>Mostly Clear</string>
+	<key>WeatherConditionMostlySunnyNight-Embedded</key>
+	<string>mostly clear</string>
+	<key>WeatherConditionMostlySunnyNight-Leader</key>
+	<string>Mostly clear</string>
+	<key>WeatherConditionPartlyCloudyDay</key>
+	<string>Partly Cloudy</string>
+	<key>WeatherConditionPartlyCloudyDay-Embedded</key>
+	<string>partly Cloudy</string>
+	<key>WeatherConditionPartlyCloudyDay-Leader</key>
+	<string>Partly cloudy</string>
+	<key>WeatherConditionPartlyCloudyNight</key>
+	<string>Partly Cloudy</string>
+	<key>WeatherConditionPartlyCloudyNight-Embedded</key>
+	<string>partly cloudy</string>
+	<key>WeatherConditionPartlyCloudyNight-Leader</key>
+	<string>Partly cloudy</string>
+	<key>WeatherConditionRain</key>
+	<string>Rain</string>
+	<key>WeatherConditionRain-Embedded</key>
+	<string>rain</string>
+	<key>WeatherConditionRain-Leader</key>
+	<string>Rain</string>
+	<key>WeatherConditionScatteredShowers</key>
+	<string>Scattered Showers</string>
+	<key>WeatherConditionScatteredShowers-Embedded</key>
+	<string>scattered showers</string>
+	<key>WeatherConditionScatteredShowers-Leader</key>
+	<string>Scattered showers</string>
+	<key>WeatherConditionScatteredSnowShowers</key>
+	<string>Scattered Snow Showers</string>
+	<key>WeatherConditionScatteredSnowShowers-Embedded</key>
+	<string>scattered snow showers</string>
+	<key>WeatherConditionScatteredSnowShowers-Leader</key>
+	<string>Scattered snow showers</string>
+	<key>WeatherConditionScatteredThunderstorms</key>
+	<string>Scattered Thunderstorms</string>
+	<key>WeatherConditionScatteredThunderstorms-Embedded</key>
+	<string>scattered thunderstorms</string>
+	<key>WeatherConditionScatteredThunderstorms-Leader</key>
+	<string>Scattered thunderstorms</string>
+	<key>WeatherConditionSevereThunderstorm</key>
+	<string>Severe Thunderstorm</string>
+	<key>WeatherConditionSevereThunderstorm-Embedded</key>
+	<string>severe thunderstorm</string>
+	<key>WeatherConditionSevereThunderstorm-Leader</key>
+	<string>Severe thunderstorm</string>
+	<key>WeatherConditionShowers1</key>
+	<string>Showers</string>
+	<key>WeatherConditionShowers1-Embedded</key>
+	<string>showers</string>
+	<key>WeatherConditionShowers1-Leader</key>
+	<string>Showers</string>
+	<key>WeatherConditionSleet</key>
+	<string>Sleet</string>
+	<key>WeatherConditionSleet-Embedded</key>
+	<string>sleet</string>
+	<key>WeatherConditionSleet-Leader</key>
+	<string>Sleet</string>
+	<key>WeatherConditionSmoky</key>
+	<string>Smoke</string>
+	<key>WeatherConditionSmoky-Embedded</key>
+	<string>smoke</string>
+	<key>WeatherConditionSmoky-Leader</key>
+	<string>Smoke</string>
+	<key>WeatherConditionSnow</key>
+	<string>Snow</string>
+	<key>WeatherConditionSnow-Embedded</key>
+	<string>snow</string>
+	<key>WeatherConditionSnow-Leader</key>
+	<string>Snow</string>
+	<key>WeatherConditionSnowFlurries</key>
+	<string>Flurries</string>
+	<key>WeatherConditionSnowFlurries-Embedded</key>
+	<string>flurries</string>
+	<key>WeatherConditionSnowFlurries-Leader</key>
+	<string>Flurries</string>
+	<key>WeatherConditionSnowShowers</key>
+	<string>Snow Showers</string>
+	<key>WeatherConditionSnowShowers-Embedded</key>
+	<string>snow showers</string>
+	<key>WeatherConditionSnowShowers-Leader</key>
+	<string>Snow showers</string>
+	<key>WeatherConditionSunny</key>
+	<string>Sunny</string>
+	<key>WeatherConditionSunny-Embedded</key>
+	<string>sunny</string>
+	<key>WeatherConditionSunny-Leader</key>
+	<string>Sunny</string>
+	<key>WeatherConditionThunderstorm</key>
+	<string>Thunderstorm</string>
+	<key>WeatherConditionThunderstorm-Embedded</key>
+	<string>thunderstorm</string>
+	<key>WeatherConditionThunderstorm-Leader</key>
+	<string>Thunderstorm</string>
+	<key>WeatherConditionTornado</key>
+	<string>Tornado</string>
+	<key>WeatherConditionTornado-Embedded</key>
+	<string>tornado</string>
+	<key>WeatherConditionTornado-Leader</key>
+	<string>Tornado</string>
+	<key>WeatherConditionTropicalStorm</key>
+	<string>Tropical Storm</string>
+	<key>WeatherConditionTropicalStorm-Embedded</key>
+	<string>tropical storm</string>
+	<key>WeatherConditionTropicalStorm-Leader</key>
+	<string>Tropical storm</string>
+	<key>WeatherConditionWindy</key>
+	<string>Windy</string>
+	<key>WeatherConditionWindy-Embedded</key>
+	<string>windy</string>
+	<key>WeatherConditionWindy-Leader</key>
+	<string>Windy</string>
+</dict>
+</plist>

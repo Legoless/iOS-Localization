@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALARM_DEFAULT_TITLE</key>
+	<string>Alarm</string>
+	<key>ALARM_DETAIL_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>ALARM_EVERY_DAY</key>
+	<string>Every day</string>
+	<key>ALARM_EVERY_FRIDAY</key>
+	<string>Every Friday</string>
+	<key>ALARM_EVERY_MONDAY</key>
+	<string>Every Monday</string>
+	<key>ALARM_EVERY_SATURDAY</key>
+	<string>Every Saturday</string>
+	<key>ALARM_EVERY_SUNDAY</key>
+	<string>Every Sunday</string>
+	<key>ALARM_EVERY_THURSDAY</key>
+	<string>Every Thursday</string>
+	<key>ALARM_EVERY_TUESDAY</key>
+	<string>Every Tuesday</string>
+	<key>ALARM_EVERY_WEDNESDAY</key>
+	<string>Every Wednesday</string>
+	<key>ALARM_FRIDAY</key>
+	<string>Friday</string>
+	<key>ALARM_MONDAY</key>
+	<string>Monday</string>
+	<key>ALARM_REPEAT_NEVER</key>
+	<string>Never</string>
+	<key>ALARM_SATURDAY</key>
+	<string>Saturday</string>
+	<key>ALARM_SHORT_FRIDAY</key>
+	<string>Fri</string>
+	<key>ALARM_SHORT_MONDAY</key>
+	<string>Mon</string>
+	<key>ALARM_SHORT_SATURDAY</key>
+	<string>Sat</string>
+	<key>ALARM_SHORT_SUNDAY</key>
+	<string>Sun</string>
+	<key>ALARM_SHORT_THURSDAY</key>
+	<string>Thu</string>
+	<key>ALARM_SHORT_TUESDAY</key>
+	<string>Tue</string>
+	<key>ALARM_SHORT_WEDNESDAY</key>
+	<string>Wed</string>
+	<key>ALARM_SUNDAY</key>
+	<string>Sunday</string>
+	<key>ALARM_THURSDAY</key>
+	<string>Thursday</string>
+	<key>ALARM_TUESDAY</key>
+	<string>Tuesday</string>
+	<key>ALARM_WEDNESDAY</key>
+	<string>Wednesday</string>
+	<key>ALARM_WEEKDAYS</key>
+	<string>Weekdays</string>
+	<key>ALARM_WEEKENDS</key>
+	<string>Weekends</string>
+	<key>DAY_HOURS_AHEAD_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_HOURS_BEHIND_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_HOURS_MINUTES_AHEAD_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_HOURS_MINUTES_BEHIND_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_HOUR_MINUTES_AHEAD_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_HOUR_MINUTES_BEHIND_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_MINUTES_AHEAD_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_MINUTES_BEHIND_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_ONE_HOUR_AHEAD_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_ONE_HOUR_BEHIND_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>HOURS_AHEAD</key>
+	<string>%@ hours ahead</string>
+	<key>HOURS_BEHIND</key>
+	<string>%@ hours behind</string>
+	<key>HOURS_MINUTES_AHEAD</key>
+	<string>%1$@h %2$@m ahead</string>
+	<key>HOURS_MINUTES_BEHIND</key>
+	<string>%1$@h %2$@m behind</string>
+	<key>HOUR_MINUTES_AHEAD</key>
+	<string>%1$@h %2$@m ahead</string>
+	<key>HOUR_MINUTES_BEHIND</key>
+	<string>%1$@h %2$@m behind</string>
+	<key>MINUTES_AHEAD</key>
+	<string>%@ minutes ahead</string>
+	<key>MINUTES_BEHIND</key>
+	<string>%@ minutes behind</string>
+	<key>ONE_HOUR_AHEAD</key>
+	<string>%@ hour ahead</string>
+	<key>ONE_HOUR_BEHIND</key>
+	<string>%@ hour behind</string>
+</dict>
+</plist>

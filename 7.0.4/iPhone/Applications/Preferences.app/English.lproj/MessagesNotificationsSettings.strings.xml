@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALERT_0_TIMES</key>
+	<string>Never</string>
+	<key>ALERT_10_TIMES</key>
+	<string>10 Times</string>
+	<key>ALERT_1_TIME</key>
+	<string>Once</string>
+	<key>ALERT_2_TIMES</key>
+	<string>Twice</string>
+	<key>ALERT_3_TIMES</key>
+	<string>3 Times</string>
+	<key>ALERT_5_TIMES</key>
+	<string>5 Times</string>
+	<key>PLAY_ALERT_FOOTER_TEXT</key>
+	<string>Alerts repeat at two minute intervals.</string>
+	<key>REPEAT_ALERT</key>
+	<string>Repeat Alerts</string>
+	<key>SENDER_ALERT_CONTACTS_ONLY</key>
+	<string>Show Alerts from My Contacts</string>
+	<key>SENDER_ALERT_EVERYONE</key>
+	<string>Show Alerts from Everyone</string>
+	<key>SHOW_PREVIEW_FOOTER</key>
+	<string>Show a preview of the message in alerts, banners and Notification Center.</string>
+	<key>SMS_PREVIEW</key>
+	<string>Show Preview</string>
+	<key>Text_Messages</key>
+	<string>Alert Sound</string>
+</dict>
+</plist>

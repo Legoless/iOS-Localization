@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3GP Audio</key>
+	<string>3GP Audio</string>
+	<key>3GPP-2 Audio</key>
+	<string>3GPP-2 Audio</string>
+	<key>AAC ADTS</key>
+	<string>AAC ADTS</string>
+	<key>AC3</key>
+	<string>AC3</string>
+	<key>AIFC</key>
+	<string>AIFC</string>
+	<key>AIFF</key>
+	<string>AIFF</string>
+	<key>AMR</key>
+	<string>AMR</string>
+	<key>Apple MPEG-4 Audio</key>
+	<string>Apple MPEG-4 Audio</string>
+	<key>DTS</key>
+	<string>DTS</string>
+	<key>MPEG Layer 1</key>
+	<string>MPEG Layer 1</string>
+	<key>MPEG Layer 2</key>
+	<string>MPEG Layer 2</string>
+	<key>MPEG Layer 3</key>
+	<string>MPEG Layer 3</string>
+	<key>MPEG-4 Audio</key>
+	<string>MPEG-4 Audio</string>
+	<key>NeXT/Sun</key>
+	<string>NeXT/Sun</string>
+	<key>Sound Designer II</key>
+	<string>Sound Designer II</string>
+	<key>WAVE</key>
+	<string>WAVE</string>
+</dict>
+</plist>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ List</key>
+	<string>%@ List</string>
+	<key>%@ Login</key>
+	<string>%@ Login</string>
+	<key>%@ Password</key>
+	<string>%@ Password</string>
+	<key>A network error occurred.
+</key>
+	<string>A network error occurred.
+</string>
+	<key>An unexpected error occurred while using the %@ plug-in.</key>
+	<string>An unexpected error occurred while using the %@ plug-in.</string>
+	<key>Away</key>
+	<string>Away</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Connected</key>
+	<string>Connected</string>
+	<key>Connecting\U2026</key>
+	<string>Connecting…</string>
+	<key>Disconnecting\U2026</key>
+	<string>Disconnecting…</string>
+	<key>Disk Full</key>
+	<string>Disk Full</string>
+	<key>Firewall is blocking Messages</key>
+	<string>Firewall is blocking Messages</string>
+	<key>Forgot Password\U2026</key>
+	<string>Forgot Password…</string>
+	<key>Log In</key>
+	<string>Log In</string>
+	<key>Login ID:</key>
+	<string>Login ID:</string>
+	<key>Messages Needs Your Attention</key>
+	<string>Messages Needs Your Attention</string>
+	<key>Messages can\U2019t log in to %@ because your login ID or password is incorrect.
+</key>
+	<string>Messages can’t log in to %@ because your login ID or password is incorrect.
+</string>
+	<key>Network Diagnostics\U2026</key>
+	<string>Network Diagnostics…</string>
+	<key>Not connected</key>
+	<string>Not connected</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Open Security Prefs</key>
+	<string>Open Security Prefs</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>Password:</key>
+	<string>Password:</string>
+	<key>Please enter your password for %@.
+</key>
+	<string>Please enter your password for %@.
+</string>
+	<key>Plug-in Service</key>
+	<string>Plug-in Service</string>
+	<key>Received via Messages file transfer</key>
+	<string>Received via Messages file transfer</string>
+	<key>Remember this password in my keychain</key>
+	<string>Remember this password in my keychain</string>
+	<key>The Personal Firewall is currently blocking port %i. This will prevent the %@ service from %@. You can use the Firewall tab of the Security system preference panel to open the port or turn off the firewall.</key>
+	<string>The Personal Firewall is currently blocking port %i. This will prevent the %@ service from %@. You can use the Firewall tab of the Security system preference panel to open the port or turn off the firewall.</string>
+	<key>The account name or server is not valid.</key>
+	<string>The account name or server is not valid.</string>
+	<key>The message \U201C%@\U201D could not be delivered.</key>
+	<string>The message “%@” could not be delivered.</string>
+	<key>This computer isn\U2019t online. Click Network Diagnostics for help connecting to the Internet.
+</key>
+	<string>This computer isn’t online. Click Network Diagnostics for help connecting to the Internet.
+</string>
+	<key>Unexpectedly disconnected</key>
+	<string>Unexpectedly disconnected</string>
+	<key>You have received an instant message. Please launch Messages to view it</key>
+	<string>You have received an instant message. Please launch Messages to view it</string>
+	<key>You\U2019re not connected to the Internet.</key>
+	<string>You’re not connected to the Internet.</string>
+	<key>Your disk is almost full, this may cause incoming messages to be lost.</key>
+	<string>Your disk is almost full, this may cause incoming messages to be lost.</string>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AKEY set successfully.</key>
+	<string>AKEY set successfully.</string>
+	<key>Authentication Key</key>
+	<string>Authentication Key</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Enter 26 digit key</key>
+	<string>Enter 26 digit authentication key.</string>
+	<key>Failed to set AKEY.</key>
+	<string>Failed to set AKEY.</string>
+	<key>Incorrect SPC Password</key>
+	<string>Incorrect SPC Password</string>
+	<key>Incorrect key</key>
+	<string>Incorrect key</string>
+	<key>Key</key>
+	<string>Key</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>SPC Password</key>
+	<string>SPC Password</string>
+	<key>Security</key>
+	<string>Security</string>
+	<key>Too many retries of AKEY.</key>
+	<string>Too many retries of AKEY.</string>
+	<key>Too many retries of SPC.</key>
+	<string>Too many retries of SPC.</string>
+</dict>
+</plist>

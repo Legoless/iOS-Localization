@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CREATE</key>
+	<string>Create</string>
+	<key>HIGH_DEFINITION_VIDEO</key>
+	<string>HD</string>
+	<key>NOW_PLAYING_DASH_TITLE_SEPARATOR</key>
+	<string> — </string>
+	<key>NOW_PLAYING_TITLE_SEPARATOR</key>
+	<string> </string>
+	<key>REPEAT_ALBUM</key>
+	<string>Repeat #Album#</string>
+	<key>REPEAT_ALBUM_SHORT</key>
+	<string>Repeat #Album#</string>
+	<key>REPEAT_ALL</key>
+	<string>Repeat #All#</string>
+	<key>REPEAT_ALL_SHORT</key>
+	<string>Repeat #All#</string>
+	<key>REPEAT_ARTIST</key>
+	<string>Repeat #Artist#</string>
+	<key>REPEAT_ARTIST_SHORT</key>
+	<string>Repeat #Artist#</string>
+	<key>REPEAT_AUDIOBOOK</key>
+	<string>Repeat #Audiobook#</string>
+	<key>REPEAT_AUDIOBOOK_SHORT</key>
+	<string>Repeat #Audiobook#</string>
+	<key>REPEAT_OFF</key>
+	<string>Repeat</string>
+	<key>REPEAT_OFF_SHORT</key>
+	<string>Repeat</string>
+	<key>REPEAT_ONE</key>
+	<string>Repeat #One#</string>
+	<key>REPEAT_ONE_SHORT</key>
+	<string>Repeat #One#</string>
+	<key>REPEAT_PLAYLIST</key>
+	<string>Repeat #Playlist#</string>
+	<key>REPEAT_PLAYLIST_SHORT</key>
+	<string>Repeat #Playlist#</string>
+	<key>REPEAT_PODCAST</key>
+	<string>Repeat #Podcast#</string>
+	<key>REPEAT_PODCAST_SHORT</key>
+	<string>Repeat #Podcast#</string>
+	<key>REPEAT_SONG</key>
+	<string>Repeat #Song#</string>
+	<key>REPEAT_SONG_SHORT</key>
+	<string>Repeat #Song#</string>
+	<key>SHUFFLE</key>
+	<string>Shuffle</string>
+	<key>SHUFFLE_OFF</key>
+	<string>Shuffle</string>
+	<key>SHUFFLE_OFF_SHORT</key>
+	<string>Shuffle</string>
+	<key>SHUFFLE_ON</key>
+	<string>Shuffle #All#</string>
+	<key>SHUFFLE_ON_SHORT</key>
+	<string>Shuffle #All#</string>
+	<key>SHUFFLE_PLAYLIST</key>
+	<string>Shuffle Playlist</string>
+	<key>STANDARD_DEFINITION_VIDEO</key>
+	<string>SD</string>
+	<key>UNKNOWN_DURATION</key>
+	<string>--:--</string>
+</dict>
+</plist>

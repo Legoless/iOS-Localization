@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASSISTANT_CONNECTION_FAILED_0</key>
+	<string>I’m really sorry about this, but I can’t take any requests right now. Please try again in a little while.</string>
+	<key>ASSISTANT_CONNECTION_FAILED_1</key>
+	<string>There’s something wrong, and I can’t answer your questions right now. Please try again in a little while.</string>
+	<key>ASSISTANT_CONNECTION_FAILED_2</key>
+	<string>Sorry, I’m not able to help you right now. Please try me again in a little while.</string>
+	<key>ASSISTANT_CONNECTION_FAILED_3</key>
+	<string>Something’s amiss… can you check back with me in a little while?</string>
+	<key>ASSISTANT_NOT_READY_MESSAGE</key>
+	<string>Siri is adding new users every day. You will receive an alert when you can start using Siri.</string>
+	<key>ASSISTANT_NOT_READY_TITLE</key>
+	<string>You can start using Siri soon.</string>
+	<key>ASSISTANT_TRY_AGAIN</key>
+	<string>Sorry, could you say that again?</string>
+</dict>
+</plist>

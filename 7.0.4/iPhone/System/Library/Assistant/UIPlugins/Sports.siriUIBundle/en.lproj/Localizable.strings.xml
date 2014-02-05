@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATHLETE_NAVIGATION_TITLE</key>
+	<string>Player</string>
+	<key>AWAY_RECORD_FORMAT</key>
+	<string>%1$@–%2$@, (%3$@–%4$@ Away)</string>
+	<key>AWAY_RECORD_FORMAT_OTL</key>
+	<string>%1$@–%2$@–%3$@, (%4$@–%5$@ Away)</string>
+	<key>CANCELED_SCHEDULE_FORMAT</key>
+	<string>Canceled – %@</string>
+	<key>CARDINAL_POSITION_FORMAT %@ %@</key>
+	<string>%@ - %@</string>
+	<key>D</key>
+	<string>D</string>
+	<key>DELAYED_SCHEDULE_FORMAT</key>
+	<string>Delayed – %@</string>
+	<key>ERRORS_SHORT_HEADER</key>
+	<string>E</string>
+	<key>FINAL_SCHEDULE_FORMAT</key>
+	<string>Final – %@</string>
+	<key>GA</key>
+	<string>GA</string>
+	<key>GB</key>
+	<string>GB</string>
+	<key>GF</key>
+	<string>GF</string>
+	<key>HEIGHT_AND_WEIGHT_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>HITS_SHORT_HEADER</key>
+	<string>H</string>
+	<key>HOME_RECORD_FORMAT</key>
+	<string>%1$@–%2$@, (%3$@–%4$@ Home)</string>
+	<key>HOME_RECORD_FORMAT_OTL</key>
+	<string>%1$@–%2$@–%3$@, (%4$@–%5$@ Home)</string>
+	<key>L</key>
+	<string>L</string>
+	<key>LEAGUE_SCHEDULE_FORMAT %@</key>
+	<string>%@ Schedule</string>
+	<key>METADATA_VALUE_NAME_PAIR %@ %@</key>
+	<string>%@ %@</string>
+	<key>NAME_TEAM_SEPARATOR</key>
+	<string> </string>
+	<key>NCAAB</key>
+	<string>NCAAB</string>
+	<key>NCAAF</key>
+	<string>NCAAF</string>
+	<key>NCAAW</key>
+	<string>NCAAW</string>
+	<key>No</key>
+	<string>No</string>
+	<key>OTL</key>
+	<string>OTL</string>
+	<key>PCT</key>
+	<string>PCT</string>
+	<key>PERIOD_TIME_REMAINING_PAIR %@, %@</key>
+	<string>%@, %@</string>
+	<key>PLAYER_BIRTH_FORMAT</key>
+	<string>b. %@</string>
+	<key>PLAYER_HEIGHT_WEIGHT_FORMAT</key>
+	<string>%@ %@</string>
+	<key>PLAYER_NAME_FORMAT %@ %@</key>
+	<string>%@ %@</string>
+	<key>PLAYER_NUMBER_POSITION_TEAM_FORMAT %@ %@ %@</key>
+	<string>#%@ %@, %@</string>
+	<key>PLAYER_POSITION_TEAM_FORMAT %@ %@</key>
+	<string>#%@, %@</string>
+	<key>POSTPONED_SCHEDULE_FORMAT</key>
+	<string>Postponed – %@</string>
+	<key>PTS</key>
+	<string>PTS</string>
+	<key>Position</key>
+	<string>Position</string>
+	<key>QUALIFICATION_POSITION_FORMAT_CONFERENCE</key>
+	<string>z - %@</string>
+	<key>QUALIFICATION_POSITION_FORMAT_DIVISION</key>
+	<string>y - %@</string>
+	<key>QUALIFICATION_POSITION_FORMAT_PLAYOFFS</key>
+	<string>x - %@</string>
+	<key>RECORD_FORMAT</key>
+	<string>%1$@ – %2$@</string>
+	<key>RECORD_FORMAT %1$@ %2$@</key>
+	<string>%1$@–%2$@</string>
+	<key>RECORD_FORMAT_OTL</key>
+	<string>%1$@ – %2$@ – %3$@</string>
+	<key>RECORD_FORMAT_OTL %1$@ %2$@ %3$@</key>
+	<string>%1$@–%2$@–%3$@</string>
+	<key>ROSTER_HEADER_HEIGHT</key>
+	<string>HT</string>
+	<key>ROSTER_HEADER_NUMBER</key>
+	<string>#</string>
+	<key>ROSTER_HEADER_PLAYER</key>
+	<string>Player</string>
+	<key>ROSTER_HEADER_POSITION</key>
+	<string>POS</string>
+	<key>ROSTER_HEADER_WEIGHT</key>
+	<string>WT</string>
+	<key>ROSTER_LOCATION_TEAM_FORMAT %@ %@</key>
+	<string>%@ %@</string>
+	<key>ROSTER_RECORD_FORMAT</key>
+	<string>%@–%@</string>
+	<key>ROSTER_SUBTITLE_SCORE_POSITION %@ %@</key>
+	<string>%@ %@</string>
+	<key>ROSTER_TWO_NAME_FORMAT %@, %@</key>
+	<string>%@, %@</string>
+	<key>RUNS_SHORT_HEADER</key>
+	<string>R</string>
+	<key>SCHEDULE_AWAY</key>
+	<string>Away</string>
+	<key>SCHEDULE_DATE_FORMAT_TEMPLATE</key>
+	<string>jmz</string>
+	<key>SCHEDULE_HOME</key>
+	<string>Home</string>
+	<key>SCOREBOARD_SCORE_TITLE %@ %@</key>
+	<string>%@-%@</string>
+	<key>STANDINGS_PLAYER</key>
+	<string>Player</string>
+	<key>STANDINGS_TEAM</key>
+	<string>Team</string>
+	<key>T</key>
+	<string>T</string>
+	<key>TEAM_DISAMBIGUATION %@ %@</key>
+	<string>%@ %@</string>
+	<key>TOTAL_SHORT_HEADER</key>
+	<string>T</string>
+	<key>TOURNAMENT_SERIES_DESCRIPTION_FORMAT %@ %@</key>
+	<string>%@ – %@</string>
+	<key>TO_BE_DETERMINED</key>
+	<string>TBD</string>
+	<key>TV_SCHEDULE_FORMAT %@</key>
+	<string>TV: %@</string>
+	<key>TV_SCHEDULE_LIST_JOINER</key>
+	<string>, </string>
+	<key>VENUE_LOCATION_FORMAT %@ %@</key>
+	<string>%@ – %@</string>
+	<key>W</key>
+	<string>W</string>
+</dict>
+</plist>

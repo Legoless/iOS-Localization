@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clcp</key>
+	<string>Closed Caption</string>
+	<key>clcpatcc</key>
+	<string>ATSC/52 part-4</string>
+	<key>clcpc608</key>
+	<string>CEA 608</string>
+	<key>clcpc708</key>
+	<string>CEA 708</string>
+	<key>hintrtp </key>
+	<string>Hint</string>
+	<key>musimusi</key>
+	<string>Music</string>
+	<key>muxx</key>
+	<string>Muxed</string>
+	<key>obje</key>
+	<string>QTVR Object</string>
+	<key>odsm</key>
+	<string>MPEG-4 ODSM</string>
+	<key>odsmmp4s</key>
+	<string>MPEG-4 ODSM</string>
+	<key>pano</key>
+	<string>VR Panorama</string>
+	<key>qtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtvrqtvr</key>
+	<string>QuickTime VR</string>
+	<key>qtz </key>
+	<string>Quartz Composer</string>
+	<key>qtz qtz </key>
+	<string>Quartz Composer</string>
+	<key>sbtl</key>
+	<string>Subtitle</string>
+	<key>sbtldrmt</key>
+	<string>Subtitle</string>
+	<key>sbtltx3g</key>
+	<string>Subtitle</string>
+	<key>sdsm</key>
+	<string>MPEG-4 SDSM</string>
+	<key>sdsmmp4s</key>
+	<string>MPEG-4 SDSM</string>
+	<key>skin</key>
+	<string>Skin</string>
+	<key>skinskcr</key>
+	<string>Skin</string>
+	<key>skinskdr</key>
+	<string>Skin</string>
+	<key>soun</key>
+	<string>Sound</string>
+	<key>sounpaac</key>
+	<string>AAC (protected)</string>
+	<key>sounvdva</key>
+	<string>DV</string>
+	<key>sprt</key>
+	<string>Sprite</string>
+	<key>strm</key>
+	<string>Streaming</string>
+	<key>strmrtsp</key>
+	<string>Streaming</string>
+	<key>text</key>
+	<string>Text</string>
+	<key>texttext</key>
+	<string>QuickTime Text</string>
+	<key>texttx3g</key>
+	<string>3GPP Text</string>
+	<key>tmcd</key>
+	<string>Timecode</string>
+	<key>tmcdtmcd</key>
+	<string>Timecode</string>
+	<key>tmet</key>
+	<string>Timed Metadata</string>
+	<key>twen</key>
+	<string>Tween</string>
+	<key>vide</key>
+	<string>Video</string>
+	<key>vide1</key>
+	<string>Uncompressed 1-bit Indexed Color</string>
+	<key>vide16</key>
+	<string>Uncompressed 16-bit RGB 555 (Big Endian)</string>
+	<key>vide2</key>
+	<string>Uncompressed 2-bit Indexed Color</string>
+	<key>vide24</key>
+	<string>Uncompressed 24-bit RGB</string>
+	<key>vide24BG</key>
+	<string>Uncompressed 24-bit BGR</string>
+	<key>vide2vuy</key>
+	<string>Component Y'CbCr 8-bit 4:2:2 ordered Cb Y'0 Cr Y'1</string>
+	<key>vide32</key>
+	<string>Uncompressed 32-bit ARGB</string>
+	<key>vide33</key>
+	<string>Uncompressed 1-bit Grayscale</string>
+	<key>vide34</key>
+	<string>Uncompressed 2-bit Grayscale</string>
+	<key>vide36</key>
+	<string>Uncompressed 4-bit Grayscale</string>
+	<key>vide4</key>
+	<string>Uncompressed 4-bit Indexed Color</string>
+	<key>vide40</key>
+	<string>Uncompressed 8-bit Grayscale</string>
+	<key>vide5551</key>
+	<string>Uncompressed 16-bit RGB 5551 (Little Endian)</string>
+	<key>vide8</key>
+	<string>Uncompressed 8-bit Indexed Color</string>
+	<key>vide8BPS</key>
+	<string>Planar RGB</string>
+	<key>videABGR</key>
+	<string>Uncompressed 32-bit ABGR</string>
+	<key>videACTL</key>
+	<string>Streambox ACT-L2</string>
+	<key>videB565</key>
+	<string>Uncompressed 16-bit RGB 565 (Big Endian)</string>
+	<key>videBGRA</key>
+	<string>Uncompressed 32-bit BGRA</string>
+	<key>videEIDI</key>
+	<string>EIDI</string>
+	<key>videIV41</key>
+	<string>Intel Indeo™ Video 4.3</string>
+	<key>videIV50</key>
+	<string>Indeo™ video 5.1</string>
+	<key>videJvt3</key>
+	<string>Apple H.264/AVC Video (Preview)</string>
+	<key>videL555</key>
+	<string>Uncompressed 16-bit RGB 555 (Little Endian)</string>
+	<key>videL565</key>
+	<string>Uncompressed 16-bit RGB 565 (Little Endian)</string>
+	<key>videRGBA</key>
+	<string>Uncompressed 32-bit RGBA</string>
+	<key>videSVQ1</key>
+	<string>Sorenson Video</string>
+	<key>videSVQ3</key>
+	<string>Sorenson Video 3</string>
+	<key>videVP31</key>
+	<string>On2 VP3 Video 3.2</string>
+	<key>videa2vy</key>
+	<string>Two-Plane Component Y'CbCr,A 8-bit 4:2:2,4</string>
+	<key>videap4h</key>
+	<string>Apple ProRes 4444</string>
+	<key>videapch</key>
+	<string>Apple ProRes 422 (HQ)</string>
+	<key>videapcn</key>
+	<string>Apple ProRes 422</string>
+	<key>videapco</key>
+	<string>Apple ProRes 422 (Proxy)</string>
+	<key>videapcs</key>
+	<string>Apple ProRes 422 (LT)</string>
+	<key>videavc1</key>
+	<string>H.264</string>
+	<key>videavr </key>
+	<string>Motion JPEG AVR</string>
+	<key>videb16g</key>
+	<string>Uncompressed 16-bit Grayscale</string>
+	<key>videb32a</key>
+	<string>Uncompressed 32-bit AlphaGray</string>
+	<key>videb48r</key>
+	<string>Uncompressed 48-bit RGB</string>
+	<key>videb64a</key>
+	<string>Uncompressed 64-bit ARGB</string>
+	<key>videbhiv</key>
+	<string>bhiv</string>
+	<key>videblur</key>
+	<string>Convolution Filter</string>
+	<key>videclou</key>
+	<string>Cloud</string>
+	<key>videcvid</key>
+	<string>Cinepak</string>
+	<key>videdmb1</key>
+	<string>Motion JPEG OpenDML</string>
+	<key>videdrmi</key>
+	<string>AVC0 Media</string>
+	<key>videdslv</key>
+	<string>Cross Fade</string>
+	<key>videdv5n</key>
+	<string>DVCPRO50 - NTSC</string>
+	<key>videdv5p</key>
+	<string>DVCPRO50 - PAL</string>
+	<key>videdvc </key>
+	<string>DV/DVCPRO - NTSC</string>
+	<key>videdvcp</key>
+	<string>DVC - PAL</string>
+	<key>videdvh2</key>
+	<string>DVCPRO HD (1080p25)</string>
+	<key>videdvh3</key>
+	<string>DVCPRO HD (1080p30)</string>
+	<key>videdvh5</key>
+	<string>DVCPRO HD (1080i50)</string>
+	<key>videdvh6</key>
+	<string>DVCPRO HD (1080i60)</string>
+	<key>videdvhp</key>
+	<string>DVCPRO HD (720p60)</string>
+	<key>videdvhq</key>
+	<string>DVCPRO HD (720p50)</string>
+	<key>videdvpp</key>
+	<string>DVCPRO - PAL</string>
+	<key>videembs</key>
+	<string>Convolution Filter</string>
+	<key>videfire</key>
+	<string>Fire</string>
+	<key>videfmns</key>
+	<string>Film Noise Filter</string>
+	<key>videgenk</key>
+	<string>Convolution Filter</string>
+	<key>videgif </key>
+	<string>GIF</string>
+	<key>videh261</key>
+	<string>H.261</string>
+	<key>videh263</key>
+	<string>H.263</string>
+	<key>videicod</key>
+	<string>Apple Intermediate Codec</string>
+	<key>videjpeg</key>
+	<string>Photo - JPEG</string>
+	<key>videkpcd</key>
+	<string>Photo CD</string>
+	<key>vidematt</key>
+	<string>Gradient Wipe</string>
+	<key>videmjp2</key>
+	<string>JPEG 2000</string>
+	<key>videmjpa</key>
+	<string>Motion JPEG A</string>
+	<key>videmjpb</key>
+	<string>Motion JPEG B</string>
+	<key>videmp1v</key>
+	<string>MPEG-1 Video</string>
+	<key>videmp2v</key>
+	<string>MPEG-2 Video</string>
+	<key>videmp4v</key>
+	<string>MPEG-4 Video</string>
+	<key>videmplo</key>
+	<string>Implode</string>
+	<key>videpng </key>
+	<string>PNG</string>
+	<key>videpush</key>
+	<string>Push</string>
+	<key>videpxlt</key>
+	<string>Apple Pixlet Video</string>
+	<key>vider408</key>
+	<string>Component Y'CbCrA 8-bit 4:4:4:4 ordered A Y' Cb Cr</string>
+	<key>viderle </key>
+	<string>Animation</string>
+	<key>viderpza</key>
+	<string>Video</string>
+	<key>vides263</key>
+	<string>H.263</string>
+	<key>videshrp</key>
+	<string>Convolution Filter</string>
+	<key>videslid</key>
+	<string>Push</string>
+	<key>videsmc </key>
+	<string>Graphics</string>
+	<key>videsmpt</key>
+	<string>Wipe</string>
+	<key>videsolr</key>
+	<string>Color Balance Filter</string>
+	<key>videtiff</key>
+	<string>TIFF</string>
+	<key>videtint</key>
+	<string>Color Balance Filter</string>
+	<key>videtrav</key>
+	<string>Traveling Matte</string>
+	<key>videv210</key>
+	<string>Component Y'CbCr 10-bit 4:2:2</string>
+	<key>videv216</key>
+	<string>Component Y'CbCr 10,12,14,16-bit 4:2:2</string>
+	<key>videv308</key>
+	<string>Component Y'CbCr 8-bit 4:4:4</string>
+	<key>videv408</key>
+	<string>Component Y'CbCrA 8-bit 4:4:4:4 ordered Cb Y' Cr A</string>
+	<key>videv410</key>
+	<string>Component Y'CbCr 10-bit 4:4:4</string>
+	<key>videxplo</key>
+	<string>Implode</string>
+	<key>videy420</key>
+	<string>Three-Plane Component Y'CbCr 8-bit 4:2:0</string>
+	<key>videyuvs</key>
+	<string>Component Y'CbCr 8-bit 4:2:2 ordered Y'0 Cb Y'1 Cr</string>
+	<key>videzygo</key>
+	<string>ZyGoVideo</string>
+</dict>
+</plist>

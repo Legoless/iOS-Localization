@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BLOCKED</key>
+	<string>No Caller ID</string>
+	<key>B_BASE10_ABBREVIATION</key>
+	<string>B</string>
+	<key>B_BASE2_ABBREVIATION</key>
+	<string>B</string>
+	<key>CALL_FAILED_BAD_NONCE_TIMESTAMP</key>
+	<string>Your Date &amp; Time settings need to be updated.</string>
+	<key>CALL_FAILED_NOT_AVAILABLE_MESSAGE_NAME</key>
+	<string>%@ is not available for FaceTime Audio.</string>
+	<key>CALL_FAILED_NOT_AVAILABLE_MESSAGE_NUMBER</key>
+	<string>%@ is not available for FaceTime Audio.</string>
+	<key>CALL_FAILED_NO_LOCAL_NETWORK_WIFI_MESSAGE</key>
+	<string>Connect to a Wi-Fi network or cellular data to use FaceTime Audio.</string>
+	<key>CALL_FAILED_NO_LOCAL_NETWORK_WLAN_MESSAGE</key>
+	<string>Connect to a WLAN network or cellular data to use FaceTime Audio.</string>
+	<key>CALL_FAILED_NO_LOCAL_WIFI_MESSAGE</key>
+	<string>Connect to a Wi-Fi network to use FaceTime Audio.</string>
+	<key>CALL_FAILED_NO_LOCAL_WLAN_MESSAGE</key>
+	<string>Connect to a WLAN network to use FaceTime Audio.</string>
+	<key>CALL_FAILED_NO_NETWORK_CONNECTION_TITLE</key>
+	<string>No Network Connection</string>
+	<key>CALL_FAILED_REGION_INFO_INSUFFICIENT</key>
+	<string>Check the phone number you called to make sure it is complete.</string>
+	<key>CALL_FAILED_TITLE</key>
+	<string>FaceTime Audio Failed</string>
+	<key>CALL_FAILED_UPDATE_LOCATION_MESSAGE</key>
+	<string>Your FaceTime location information needs to be updated.</string>
+	<key>CALL_NOT_AVAILABLE_TITLE</key>
+	<string>FaceTime Audio Unavailable</string>
+	<key>CANNED_REPLY_0</key>
+	<string>I'll call you later.</string>
+	<key>CANNED_REPLY_1</key>
+	<string>I'm on my way.</string>
+	<key>CANNED_REPLY_2</key>
+	<string>what's up?</string>
+	<key>CANNED_REPLY_ACTION_SHEET_OPTION_FORMAT</key>
+	<string>%@</string>
+	<key>CANNED_REPLY_ACTION_SHEET_PREFIX_DISPLAY_FORMAT</key>
+	<string>%@…</string>
+	<key>CANNED_REPLY_CAPITALIZED_0</key>
+	<string>I’ll call you later.</string>
+	<key>CANNED_REPLY_CAPITALIZED_1</key>
+	<string>I’m on my way.</string>
+	<key>CANNED_REPLY_CAPITALIZED_2</key>
+	<string>What’s up?</string>
+	<key>CANNED_REPLY_PREFIX</key>
+	<string>Can’t talk right now</string>
+	<key>CANNED_REPLY_PREFIX_FOR_SENDING</key>
+	<string>Can't talk right now</string>
+	<key>CANNED_REPLY_SEND_FORMAT</key>
+	<string>%@...%@</string>
+	<key>CANNED_REPLY_SETTINGS_PREFIX_DISPLAY_FORMAT</key>
+	<string>%@…</string>
+	<key>CELLULAR_SETTINGS</key>
+	<string>Cellular Settings</string>
+	<key>DATA_SIZE_FORMAT</key>
+	<string>%@ %@</string>
+	<key>G_BASE10_ABBREVIATION</key>
+	<string>GB</string>
+	<key>G_BASE2_ABBREVIATION</key>
+	<string>GiB</string>
+	<key>K_BASE10_ABBREVIATION</key>
+	<string>kB</string>
+	<key>K_BASE2_ABBREVIATION</key>
+	<string>KiB</string>
+	<key>M_BASE10_ABBREVIATION</key>
+	<string>MB</string>
+	<key>M_BASE2_ABBREVIATION</key>
+	<string>MiB</string>
+	<key>P_BASE10_ABBREVIATION</key>
+	<string>PB</string>
+	<key>P_BASE2_ABBREVIATION</key>
+	<string>PiB</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>T_BASE10_ABBREVIATION</key>
+	<string>TB</string>
+	<key>T_BASE2_ABBREVIATION</key>
+	<string>TiB</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+	<key>VOICEMAIL</key>
+	<string>Voicemail</string>
+	<key>WIFI_SETTINGS</key>
+	<string>Wi-Fi Settings</string>
+	<key>WLAN_SETTINGS</key>
+	<string>WLAN Settings</string>
+	<key>X_OR_OTHERS</key>
+	<string>%@
+or %d others</string>
+	<key>X_OR_Y</key>
+	<string>%@
+or %@</string>
+	<key>X_OR_Y_Z</key>
+	<string>%@ or %@
+%@</string>
+	<key>Z_X_OR_Z_Y</key>
+	<string>%@ %@ or %@ %@</string>
+</dict>
+</plist>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3G_OR_WIFI_NETWORK_DOWNLOAD_ERROR</key>
+	<string>This update requires a Wi-Fi, 3G, or faster network connection to download.</string>
+	<key>3G_OR_WLAN_NETWORK_DOWNLOAD_ERROR</key>
+	<string>This update requires a WLAN, 3G, or faster network connection to download.</string>
+	<key>ABOUT_ONE_HOUR_REMAINING</key>
+	<string>About 1 hour remaining</string>
+	<key>ABOUT_THIS_UPDATE_IPAD</key>
+	<string>About this Update</string>
+	<key>ABOUT_THIS_UPDATE_IPHONE</key>
+	<string>About this Update</string>
+	<key>ABOUT_THIS_UPDATE_IPOD</key>
+	<string>About this Update</string>
+	<key>AGREE</key>
+	<string>Agree</string>
+	<key>AGREE_ALERT_1TERMS</key>
+	<string>I agree to the %@ Terms and Conditions</string>
+	<key>AGREE_ALERT_1TERMS_PRIVACY</key>
+	<string>I agree to the %@ Terms and Conditions and the Apple Privacy Policy</string>
+	<key>AGREE_ALERT_2TERMS</key>
+	<string>I agree to the %@ and %@ Terms and Conditions</string>
+	<key>AGREE_ALERT_2TERMS_PRIVACY</key>
+	<string>I agree to the %@ and %@ Terms and Conditions and the Apple Privacy Policy</string>
+	<key>AGREE_ALERT_3TERMS</key>
+	<string>I agree to the %@, %@, and %@ Terms and Conditions</string>
+	<key>AGREE_ALERT_3TERMS_PRIVACY</key>
+	<string>I agree to the %@, %@, and %@ Terms and Conditions and the Apple Privacy Policy</string>
+	<key>ANY_NETWORK_DOWNLOAD_ERROR</key>
+	<string>This update is not available because you are not connected to the Internet.</string>
+	<key>BATTERY_AND_NETWORK_ERROR</key>
+	<string>This update requires at least %@ battery, and a network connection to install.</string>
+	<key>BATTERY_AND_STORAGE_ERROR</key>
+	<string>This update requires at least %@ battery, and %@ of available storage.
+You can make more storage available by deleting items in Usage Settings.</string>
+	<key>BATTERY_INSTALL_ERROR</key>
+	<string>This update requires at least %@ battery or to be connected to a power source.</string>
+	<key>BATTERY_STORAGE_AND_NETWORK_ERROR</key>
+	<string>This update requires at least %@ battery, %@ of available storage, and a network connection to install.
+You can make more storage available by deleting items in Usage Settings.</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CELLULAR_DOWNLOAD_ACCEPT_DEFINITE_FEES</key>
+	<string>If you download the update over your cellular network, additional usage fees will apply.</string>
+	<key>CELLULAR_DOWNLOAD_ACCEPT_POSSIBLE_FEES</key>
+	<string>If you download the update over your cellular network, additional usage fees may apply.</string>
+	<key>CHECKING_FOR_UPDATES</key>
+	<string>Checking for Update…</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>DISAGREE</key>
+	<string>Disagree</string>
+	<key>DOWNLOADED</key>
+	<string>Downloaded</string>
+	<key>DOWNLOADING</key>
+	<string>Downloading…</string>
+	<key>DOWNLOAD_AND_INSTALL</key>
+	<string>Download and Install</string>
+	<key>DOWNLOAD_ERROR</key>
+	<string>Unable to Download Update</string>
+	<key>DOWNLOAD_ERROR_DETAILS</key>
+	<string>An error occurred while downloading the update.</string>
+	<key>DOWNLOAD_OVER_CELLULAR</key>
+	<string>Download Over Cellular?</string>
+	<key>DOWNLOAD_OVER_WIFI</key>
+	<string>Download Over Wi-Fi?</string>
+	<key>DOWNLOAD_OVER_WLAN</key>
+	<string>Download Over WLAN?</string>
+	<key>DOWNLOAD_RESUME_ROAMING_DISABLED_WIFI</key>
+	<string>The download was paused because you are roaming and data roaming is turned off. The download will resume when you are no longer roaming, or if you connect to Wi-Fi network.</string>
+	<key>DOWNLOAD_RESUME_ROAMING_DISABLED_WLAN</key>
+	<string>The download was paused because you are roaming and data roaming is turned off. The download will resume when you are no longer roaming, or if you connect to WLAN network.</string>
+	<key>DOWNLOAD_RESUME_ROAMING_REQUIRED</key>
+	<string>The download was paused because you are on a roaming cellular network. You can continue downloading this update over the current network. Additional usage fees may apply.</string>
+	<key>DOWNLOAD_RESUME_WIFI_OR_3G_REQUIRED</key>
+	<string>You can resume the download when you are connected to a Wi-Fi, 3G, or faster network.</string>
+	<key>DOWNLOAD_RESUME_WIFI_REQUIRED</key>
+	<string>You can resume the download when you are connected to a Wi-Fi network.</string>
+	<key>DOWNLOAD_RESUME_WLAN_OR_3G_REQUIRED</key>
+	<string>You can resume the download when you are connected to a WLAN, 3G, or faster network.</string>
+	<key>DOWNLOAD_RESUME_WLAN_REQUIRED</key>
+	<string>You can resume the download when you are connected to a WLAN network.</string>
+	<key>ESTIMATING_TIME_REMAINING</key>
+	<string>Estimating time remaining…</string>
+	<key>GENERIC_ERROR_OCCURRED</key>
+	<string>An error occurred downloading %@.</string>
+	<key>GENERIC_SCAN_ERROR</key>
+	<string>An error occurred while checking for a software update.</string>
+	<key>INSTALLING</key>
+	<string>Installing…</string>
+	<key>INSTALL_DELAYED_OTA_RESTORE_IPAD</key>
+	<string>You can install this update when your iPad is finished restoring from the iCloud backup.</string>
+	<key>INSTALL_DELAYED_OTA_RESTORE_IPHONE</key>
+	<string>You can install this update when your iPhone is finished restoring from the iCloud backup.</string>
+	<key>INSTALL_DELAYED_OTA_RESTORE_IPOD</key>
+	<string>You can install this update when your iPod is finished restoring from the iCloud backup.</string>
+	<key>INSTALL_NOW</key>
+	<string>Install Now</string>
+	<key>LEARN_MORE</key>
+	<string>Learn More</string>
+	<key>LESS_THAN_ONE_MINUTE_REMAINING</key>
+	<string>Less than 1 minute remaining</string>
+	<key>NETWORK_INSTALL_ERROR</key>
+	<string>This update requires a network connection to install.</string>
+	<key>NETWORK_SCAN_ERROR</key>
+	<string>Checking for a software update failed because you are not connected to the Internet.</string>
+	<key>N_HOURS_REMAINING</key>
+	<string>About %@ hours remaining</string>
+	<key>N_MINUTES_REMAINING</key>
+	<string>About %@ minutes remaining</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PAUSED</key>
+	<string>Paused</string>
+	<key>PERSONALIZATION_FAILED</key>
+	<string>Verification of the %@ update failed because you are no longer connected to the Internet.</string>
+	<key>PREPARING_UPDATE</key>
+	<string>Preparing Update…</string>
+	<key>RESUME_DOWNLOAD</key>
+	<string>Resume Download</string>
+	<key>SOFTWARE_UPDATE</key>
+	<string>Software Update</string>
+	<key>SOFTWARE_UPDATE_FAILED</key>
+	<string>Software Update Failed</string>
+	<key>STORAGE_AND_NETWORK_ERROR</key>
+	<string>This update requires at least %@ of available storage, and a network connection to install.
+You can make more storage available by deleting items in Usage Settings.</string>
+	<key>STORAGE_DOWNLOAD_ERROR</key>
+	<string>This update cannot be installed because it requires at least %@ of storage.
+You can make more storage available by deleting items in Usage Settings.</string>
+	<key>STORAGE_INSTALL_ERROR</key>
+	<string>This update requires at least %@ of available space for installation.
+You can make more storage available by deleting items in Usage Settings.</string>
+	<key>TERMS_AND_CONDITIONS</key>
+	<string>Terms and Conditions</string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+	<key>UNABLE_TO_CHECK_FOR_UPDATE</key>
+	<string>Unable to Check for Update</string>
+	<key>UPDATE_NOT_OTA_DOWNLOADABLE_IPAD</key>
+	<string>To download and install this software update, connect your iPad to iTunes on your computer.</string>
+	<key>UPDATE_NOT_OTA_DOWNLOADABLE_IPHONE</key>
+	<string>To download and install this software update, connect your iPhone to iTunes on your computer.</string>
+	<key>UPDATE_NOT_OTA_DOWNLOADABLE_IPOD</key>
+	<string>To download and install this software update, connect your iPod touch to iTunes on your computer.</string>
+	<key>UP_TO_DATE</key>
+	<string>Your software is up to date.</string>
+	<key>USAGE_SETTINGS</key>
+	<string>Usage Settings</string>
+	<key>VERIFICATION_FAILED_IPAD</key>
+	<string>The update could not be installed. Connect your iPad to iTunes on your computer to install.</string>
+	<key>VERIFICATION_FAILED_IPHONE</key>
+	<string>The update could not be installed. Connect your iPhone to iTunes on your computer to install.</string>
+	<key>VERIFICATION_FAILED_IPOD</key>
+	<string>The update could not be installed. Connect your iPod touch to iTunes on your computer to install.</string>
+	<key>WIFI_DOWNLOAD_ACCEPT_DEFINITE_FEES</key>
+	<string>If you leave the Wi-Fi network while downloading the update, additional usage fees will apply.</string>
+	<key>WIFI_DOWNLOAD_ACCEPT_POSSIBLE_FEES</key>
+	<string>If you leave the Wi-Fi network while downloading the update, additional usage fees may apply.</string>
+	<key>WIFI_NETWORK_DOWNLOAD_ERROR</key>
+	<string>This update requires a Wi-Fi network connection to download.</string>
+	<key>WLAN_DOWNLOAD_ACCEPT_DEFINITE_FEES</key>
+	<string>If you leave the WLAN network while downloading the update, additional usage fees will apply.</string>
+	<key>WLAN_DOWNLOAD_ACCEPT_POSSIBLE_FEES</key>
+	<string>If you leave the WLAN network while downloading the update, additional usage fees may apply.</string>
+	<key>WLAN_NETWORK_DOWNLOAD_ERROR</key>
+	<string>This update requires a WLAN network connection to download.</string>
+	<key>iOS_VERSION</key>
+	<string>iOS %@</string>
+</dict>
+</plist>

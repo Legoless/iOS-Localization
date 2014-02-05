@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT</key>
+	<string>Accept</string>
+	<key>CERTIFICATE</key>
+	<string>Certificate</string>
+	<key>CERTIFICATES</key>
+	<string>Certificates</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>DETAILS</key>
+	<string>Details</string>
+	<key>EXPIRED</key>
+	<string>Expired</string>
+	<key>EXPIRED_LABEL</key>
+	<string>Expired: %@</string>
+	<key>EXPIRES</key>
+	<string>Expires</string>
+	<key>EXPIRES_LABEL</key>
+	<string>Expires: %@</string>
+	<key>ISSUED_BY_LABEL</key>
+	<string>Issued by: %@</string>
+	<key>MORE_DETAILS</key>
+	<string>More Details</string>
+	<key>NOT_TRUSTED</key>
+	<string>Not Trusted</string>
+	<key>TRUSTED</key>
+	<string>Trusted</string>
+</dict>
+</plist>

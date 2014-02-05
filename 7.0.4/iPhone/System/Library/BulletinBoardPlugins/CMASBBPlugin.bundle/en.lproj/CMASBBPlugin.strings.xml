@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BULLETIN_TITLE</key>
+	<string>Emergency Alert</string>
+	<key>DISMISS_BUTTON_TITLE</key>
+	<string>Dismiss</string>
+	<key>SECTION_INFO_DISPLAY_NAME</key>
+	<string>Emergency Alerts</string>
+	<key>SETTINGS_BUTTON_TITLE</key>
+	<string>Settings</string>
+</dict>
+</plist>

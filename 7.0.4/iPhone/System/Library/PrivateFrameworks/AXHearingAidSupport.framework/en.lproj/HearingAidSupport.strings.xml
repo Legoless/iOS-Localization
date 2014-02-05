@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdvancedSettingsConnectionStatusConnected</key>
+	<string>Connected</string>
+	<key>AdvancedSettingsConnectionStatusNotConnected</key>
+	<string>Not Connected</string>
+	<key>AdvancedSettingsConnectionTitle</key>
+	<string>Status</string>
+	<key>AdvancedSettingsFirmwareTitle</key>
+	<string>Firmware version</string>
+	<key>AdvancedSettingsGroupLeftTitle</key>
+	<string>Left Hearing Aid</string>
+	<key>AdvancedSettingsGroupRightTitle</key>
+	<string>Right Hearing Aid</string>
+	<key>AdvancedSettingsHIIDTitle</key>
+	<string>Hearing Aid ID</string>
+	<key>AdvancedSettingsHardwareTitle</key>
+	<string>Hardware version</string>
+	<key>AdvancedSettingsTitle</key>
+	<string>Diagnostics</string>
+	<key>AdvancedSettingsValueUnknown</key>
+	<string>Unknown</string>
+	<key>BatteryLowLeft</key>
+	<string>Left battery low for %@</string>
+	<key>BatteryLowRight</key>
+	<string>Right battery low for %@</string>
+	<key>BatteryValueLeft</key>
+	<string>Left battery level: %@</string>
+	<key>BatteryValueRight</key>
+	<string>Right battery level: %@</string>
+	<key>BluetoothDisabledDescription</key>
+	<string>Bluetooth is required to connect to hearing aids.</string>
+	<key>BluetoothDisabledTitle</key>
+	<string>Bluetooth is off</string>
+	<key>DefaultProgramName</key>
+	<string>Preset %@</string>
+	<key>DefaultStreamName</key>
+	<string>Stream %@</string>
+	<key>ForgetHearingAidCancel</key>
+	<string>Cancel</string>
+	<key>ForgetHearingAidOK</key>
+	<string>Disconnect</string>
+	<key>ForgetHearingAidPrompt</key>
+	<string>Are you sure you want to disconnect from this hearing aid?</string>
+	<key>ForgetHearingAidTitle</key>
+	<string>Disconnect this device</string>
+	<key>HearingAidConnected</key>
+	<string>Connected</string>
+	<key>HearingAidConnecting</key>
+	<string>Connecting…</string>
+	<key>HearingAidControlTitle</key>
+	<string>Hearing Aids</string>
+	<key>HearingAidIndependenceTitle</key>
+	<string>Adjust Independently</string>
+	<key>HearingAidLabel</key>
+	<string>Hearing Aid</string>
+	<key>HearingAidLiveListen</key>
+	<string>Start Live Listen</string>
+	<key>HearingAidLiveListenAXValue</key>
+	<string>Meter level: %@</string>
+	<key>HearingAidLiveListenInstructions</key>
+	<string>Live Listen sends audio to your hearing aid from the microphone on your iPhone.</string>
+	<key>HearingAidLiveListenListening</key>
+	<string>End Live Listen</string>
+	<key>HearingAidLiveListenStatusbar</key>
+	<string>Live Listen</string>
+	<key>HearingAidMicrophoneVolume</key>
+	<string>Hearing Aid Volume</string>
+	<key>HearingAidModes</key>
+	<string>Presets</string>
+	<key>HearingAidModesLeft</key>
+	<string>Left Presets</string>
+	<key>HearingAidModesRight</key>
+	<string>Right Presets</string>
+	<key>HearingAidNotConnected</key>
+	<string>Not connected</string>
+	<key>HearingAidStatus</key>
+	<string>Hearing Aid Status</string>
+	<key>HearingAidStatusLabel</key>
+	<string>Status</string>
+	<key>HearingAidStreamVolume</key>
+	<string>%@ Volume</string>
+	<key>HearingAidVolumeGeneric</key>
+	<string>Volume</string>
+	<key>HearingAidVolumeLeft</key>
+	<string>Left Volume</string>
+	<key>HearingAidVolumeLeftStreamValue</key>
+	<string>Left %1$@  %2$@</string>
+	<key>HearingAidVolumeLeftValue</key>
+	<string>Left Volume  %@</string>
+	<key>HearingAidVolumeMaster</key>
+	<string>R + L Volume</string>
+	<key>HearingAidVolumeMasterStreamValue</key>
+	<string>R + L %1$@  %2$@</string>
+	<key>HearingAidVolumeMasterValue</key>
+	<string>R + L Volume  %@</string>
+	<key>HearingAidVolumeRight</key>
+	<string>Right Volume</string>
+	<key>HearingAidVolumeRightStreamValue</key>
+	<string>Right %1$@  %2$@</string>
+	<key>HearingAidVolumeRightValue</key>
+	<string>Right Volume  %@</string>
+	<key>HearingBothAvailableLong</key>
+	<string>Left and right available</string>
+	<key>HearingDurationHoursPlural</key>
+	<string>%@ hours</string>
+	<key>HearingDurationHoursPluralMinutesPlural</key>
+	<string>%1$@ hours, %2$@ minutes</string>
+	<key>HearingDurationHoursPluralMinutesSingular</key>
+	<string>%1$@ hours, %2$@ minute</string>
+	<key>HearingDurationHoursSingular</key>
+	<string>%@ hour</string>
+	<key>HearingDurationHoursSingularMinutesPlural</key>
+	<string>%1$@ hour, %2$@ minutes</string>
+	<key>HearingDurationHoursSingularMinutesSingular</key>
+	<string>%1$@ hour, %2$@ minute</string>
+	<key>HearingDurationMinutesPlural</key>
+	<string>%@ minutes</string>
+	<key>HearingDurationMinutesSingular</key>
+	<string>%@ minute</string>
+	<key>HearingLeftAvailableLong</key>
+	<string>Left available</string>
+	<key>HearingRightAvailableLong</key>
+	<string>Right available</string>
+	<key>LeftHearingAidLabel</key>
+	<string>L</string>
+	<key>LeftRightHearingAidLabel</key>
+	<string>L + R</string>
+	<key>RightHearingAidLabel</key>
+	<string>R</string>
+</dict>
+</plist>

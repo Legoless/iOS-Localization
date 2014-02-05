@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CREATE</key>
+	<string>Create</string>
+	<key>CREATENEWCODE</key>
+	<string>Create New Code</string>
+	<key>DETAILS</key>
+	<string>Details</string>
+	<key>ESCROW_ELE_ALERT_MESSAGE</key>
+	<string>A new security code must be created because of a change to iCloud Keychain servers.</string>
+	<key>ESCROW_ELE_ALERT_MESSAGE_TITLE</key>
+	<string>Create New iCloud Security Code</string>
+	<key>ICLOUD_KEYCHAIN_TITLE</key>
+	<string>iCloud Keychain</string>
+	<key>KEYCHAIN_BACKUP_ALERT_TITLE</key>
+	<string>Keychain Backup Alert</string>
+	<key>LATER</key>
+	<string>Later</string>
+	<key>LEARNMORE</key>
+	<string>Learn More</string>
+	<key>NOTNOW</key>
+	<string>Not Now</string>
+	<key>RECORD_BURNED_ALERT_MESSAGE</key>
+	<string>Your security code was incorrectly entered too many times on one of your other devices and can no longer be used.</string>
+	<key>RECORD_BURNED_ALERT_MESSAGE_TITLE</key>
+	<string>Update Your iCloud Security Code</string>
+	<key>RESETKEYCHAIN</key>
+	<string>Turn Off Keychain</string>
+	<key>UPDATE</key>
+	<string>Update</string>
+	<key>UPDATECODE</key>
+	<string>Update Security Code</string>
+	<key>kEscrowSecurityAlertRecord</key>
+	<string>Your previous code was entered incorrectly too many times.</string>
+	<key>kEscrowSecurityAlertServer</key>
+	<string>A new iCloud Security Code must be created.</string>
+</dict>
+</plist>

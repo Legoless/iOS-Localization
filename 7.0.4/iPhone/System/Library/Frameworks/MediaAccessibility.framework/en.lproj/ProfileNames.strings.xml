@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MALocalize-MAClassic</key>
+	<string>Classic</string>
+	<key>MALocalize-MAContentProvided</key>
+	<string>Content Provided</string>
+	<key>MALocalize-MADefault</key>
+	<string>Default</string>
+	<key>MALocalize-MALargeText</key>
+	<string>Large Text</string>
+</dict>
+</plist>

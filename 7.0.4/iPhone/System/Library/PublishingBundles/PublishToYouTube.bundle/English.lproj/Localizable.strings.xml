@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>(Requires WLAN)</key>
+	<string>(Requires WLAN)</string>
+	<key>(Requires Wi-Fi)</key>
+	<string>(Requires Wi-Fi)</string>
+	<key>(~%@)</key>
+	<string>(~%@)</string>
+	<key>A title is required to publish to YouTube.</key>
+	<string>A title is required to publish to YouTube.</string>
+	<key>ACCOUNT</key>
+	<string>Account</string>
+	<key>Account: %@</key>
+	<string>Account: %@</string>
+	<key>Anyone can search for and view</key>
+	<string>Anyone can search for and view</string>
+	<key>Anyone with a link can view</key>
+	<string>Anyone with a link can view</string>
+	<key>Authentication Failed</key>
+	<string>Authentication Failed</string>
+	<key>By tapping "Publish", you are representing that this video does not violate YouTube's Terms of Use and that you own all copyrights in this video or have authorization to upload it.</key>
+	<string>By tapping “Publish”, you are representing that this video does not violate YouTube's Terms of Use and that you own all copyrights in this video or have authorization to upload it.</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>Category</key>
+	<string>Category</string>
+	<key>Description</key>
+	<string>Description</string>
+	<key>HD</key>
+	<string>HD</string>
+	<key>More Info Required</key>
+	<string>More Info Required</string>
+	<key>New Tag</key>
+	<string>New Tag</string>
+	<key>None</key>
+	<string>None</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Only specific YouTube users can view</key>
+	<string>Only specific YouTube users can view</string>
+	<key>Private</key>
+	<string>Private</string>
+	<key>Public</key>
+	<string>Public</string>
+	<key>Publish</key>
+	<string>Publish</string>
+	<key>Publish Video</key>
+	<string>Publish Video</string>
+	<key>SIGN_OUT</key>
+	<string>Sign Out</string>
+	<key>Standard Definition</key>
+	<string>Standard Definition</string>
+	<key>Tags</key>
+	<string>Tags</string>
+	<key>Tags must be more than one character in length.</key>
+	<string>Tags must be more than one character in length.</string>
+	<key>Terms of Use</key>
+	<string>Terms of Use</string>
+	<key>The username or password you entered is incorrect.</key>
+	<string>The username or password you entered is incorrect.</string>
+	<key>Title</key>
+	<string>Title</string>
+	<key>Unlisted</key>
+	<string>Unlisted</string>
+	<key>YOUTUBE</key>
+	<string>YouTube</string>
+	<key>YouTube Not Available</key>
+	<string>YouTube Not Available</string>
+	<key>“%@” is Not a Valid Tag</key>
+	<string>“%@” is Not a Valid Tag</string>
+</dict>
+</plist>

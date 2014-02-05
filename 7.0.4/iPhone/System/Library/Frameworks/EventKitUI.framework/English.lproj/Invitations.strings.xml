@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT</key>
+	<string>Accept</string>
+	<key>ACCEPTED</key>
+	<string>Accepted</string>
+	<key>ACCEPTED_LOWERCASE</key>
+	<string>accepted</string>
+	<key>ACCEPTED_UPPERCASE</key>
+	<string>ACCEPTED</string>
+	<key>ACCEPT_LOWERCASE</key>
+	<string>accept</string>
+	<key>ADD_COMMENTS</key>
+	<string>Comment to Organizer</string>
+	<key>CALENDAR_LIST_DECLINED</key>
+	<string>Declined</string>
+	<key>CALENDAR_LIST_SHOW_DECLINED_EVENTS</key>
+	<string>Show Declined Events</string>
+	<key>CANCELED</key>
+	<string>Canceled</string>
+	<key>CANCELED_UPPERCASE</key>
+	<string>CANCELED</string>
+	<key>COMMENTS</key>
+	<string>Comments</string>
+	<key>DECLINE</key>
+	<string>Decline</string>
+	<key>DECLINED</key>
+	<string>Declined</string>
+	<key>DECLINED_LOWERCASE</key>
+	<string>declined</string>
+	<key>DECLINED_UPPERCASE</key>
+	<string>DECLINED</string>
+	<key>DECLINE_LOWERCASE</key>
+	<string>decline</string>
+	<key>DELEGATE_ACTION_DISALLOWED</key>
+	<string>You are being notified of this event because you are a delegate of an invitee.</string>
+	<key>DELEGATOR_ACTION_DISALLOWED</key>
+	<string>This invitation is managed by your delegate.</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>ELLIPSIS_STRING</key>
+	<string>…</string>
+	<key>EVENT_CANCELED</key>
+	<string>Event has been canceled</string>
+	<key>EVENT_DETAILS</key>
+	<string>Event Details</string>
+	<key>FROM</key>
+	<string>From</string>
+	<key>FROM_LOWERCASE</key>
+	<string>from</string>
+	<key>INFO</key>
+	<string>Info</string>
+	<key>INVITATION_CANCELED</key>
+	<string>Canceled</string>
+	<key>INVITATION_FROM</key>
+	<string>Invitation from</string>
+	<key>INVITATION_FROM_START_DATE_TO_END_DATE</key>
+	<string>%@
+to %@</string>
+	<key>INVITATION_FROM_START_TIME_TO_END_TIME</key>
+	<string>%@ to %@</string>
+	<key>INVITATION_UPPERCASE</key>
+	<string>INVITATION</string>
+	<key>INVITEES</key>
+	<string>Invitees</string>
+	<key>INVITEES_LOWERCASE</key>
+	<string>invitees</string>
+	<key>INVITES</key>
+	<string>Invitations</string>
+	<key>INVITES_FORMAT</key>
+	<string>Invitations (%@)</string>
+	<key>INVITES_FORMAT_NUMBER_ONLY</key>
+	<string>(%@)</string>
+	<key>INVITE_LIST_ACCEPTED</key>
+	<string>Accepted</string>
+	<key>INVITE_LIST_DECLINED</key>
+	<string>Declined</string>
+	<key>INVITE_LIST_MAYBE</key>
+	<string>Maybe</string>
+	<key>INVITE_UPPERCASE</key>
+	<string>INVITE</string>
+	<key>LAST_INVITEE_FORMAT</key>
+	<string> &amp; %@</string>
+	<key>MAYBE</key>
+	<string>Maybe</string>
+	<key>MAYBE_LOWERCASE</key>
+	<string>maybe</string>
+	<key>MAYBE_UPPERCASE</key>
+	<string>MAYBE</string>
+	<key>MY_STATUS</key>
+	<string>My Status</string>
+	<key>MY_STATUS_LOWERCASE</key>
+	<string>my status</string>
+	<key>NEW_INVITES</key>
+	<string>New</string>
+	<key>NEXT_INVITEE_FORMAT</key>
+	<string>, %@</string>
+	<key>NO_ATTENDEES</key>
+	<string>(none)</string>
+	<key>NO_INVITATIONS</key>
+	<string>No Invitations</string>
+	<key>NO_REPLIED</key>
+	<string>No Events You've Replied To</string>
+	<key>NO_REPLY</key>
+	<string>No Reply</string>
+	<key>NO_REPLY_LOWERCASE</key>
+	<string>no reply</string>
+	<key>OUT_OF_DATE_ACTION_DISALLOWED</key>
+	<string>This invitation data is out of date.</string>
+	<key>REPEATS_FORMAT</key>
+	<string>repeats %@</string>
+	<key>REPLIED</key>
+	<string>Replied</string>
+	<key>SHARED_CALENDAR_FROM</key>
+	<string>Shared calendar from %@</string>
+	<key>SHOW_IN_CALENDAR</key>
+	<string>Show in Calendar</string>
+</dict>
+</plist>

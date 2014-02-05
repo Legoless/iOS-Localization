@@ -1,0 +1,1840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UnicodeHex.0003</key>
+	<string>enter</string>
+	<key>UnicodeHex.0008</key>
+	<string>delete</string>
+	<key>UnicodeHex.0009</key>
+	<string>tab</string>
+	<key>UnicodeHex.000a</key>
+	<string>new line</string>
+	<key>UnicodeHex.000b</key>
+	<string>vertical tab</string>
+	<key>UnicodeHex.000c</key>
+	<string>new line</string>
+	<key>UnicodeHex.000d</key>
+	<string>return</string>
+	<key>UnicodeHex.0018</key>
+	<string>cancel</string>
+	<key>UnicodeHex.001b</key>
+	<string>escape</string>
+	<key>UnicodeHex.0020</key>
+	<string>space</string>
+	<key>UnicodeHex.0021</key>
+	<string>exclamation mark</string>
+	<key>UnicodeHex.0021.plural</key>
+	<string>exclamation marks</string>
+	<key>UnicodeHex.0022</key>
+	<string>quotation mark</string>
+	<key>UnicodeHex.0022.plural</key>
+	<string>quotation marks</string>
+	<key>UnicodeHex.0023</key>
+	<string>number</string>
+	<key>UnicodeHex.0023.plural</key>
+	<string>numbers</string>
+	<key>UnicodeHex.0024</key>
+	<string>dollar</string>
+	<key>UnicodeHex.0024.plural</key>
+	<string>dollar signs</string>
+	<key>UnicodeHex.0025</key>
+	<string>percent</string>
+	<key>UnicodeHex.0025.plural</key>
+	<string>percent signs</string>
+	<key>UnicodeHex.0026</key>
+	<string>ampersand</string>
+	<key>UnicodeHex.0026.plural</key>
+	<string>ampersands</string>
+	<key>UnicodeHex.0027</key>
+	<string>apostrophe</string>
+	<key>UnicodeHex.0027.plural</key>
+	<string>apostrophes</string>
+	<key>UnicodeHex.0028</key>
+	<string>left paren</string>
+	<key>UnicodeHex.0028.plural</key>
+	<string>left parentheses</string>
+	<key>UnicodeHex.0029</key>
+	<string>right paren</string>
+	<key>UnicodeHex.0029.plural</key>
+	<string>right parentheses</string>
+	<key>UnicodeHex.002a</key>
+	<string>star</string>
+	<key>UnicodeHex.002a.plural</key>
+	<string>stars</string>
+	<key>UnicodeHex.002b</key>
+	<string>plus</string>
+	<key>UnicodeHex.002b.plural</key>
+	<string>plus signs</string>
+	<key>UnicodeHex.002c</key>
+	<string>comma</string>
+	<key>UnicodeHex.002c.plural</key>
+	<string>commas</string>
+	<key>UnicodeHex.002d</key>
+	<string>hyphen</string>
+	<key>UnicodeHex.002d.plural</key>
+	<string>hyphens</string>
+	<key>UnicodeHex.002e</key>
+	<string>period</string>
+	<key>UnicodeHex.002e.plural</key>
+	<string>periods</string>
+	<key>UnicodeHex.002f</key>
+	<string>slash</string>
+	<key>UnicodeHex.002f.plural</key>
+	<string>slashes</string>
+	<key>UnicodeHex.003a</key>
+	<string>colon</string>
+	<key>UnicodeHex.003a.plural</key>
+	<string>colons</string>
+	<key>UnicodeHex.003b</key>
+	<string>semicolon</string>
+	<key>UnicodeHex.003b.plural</key>
+	<string>semicolons</string>
+	<key>UnicodeHex.003c</key>
+	<string>less than</string>
+	<key>UnicodeHex.003c.plural</key>
+	<string>less than signs</string>
+	<key>UnicodeHex.003d</key>
+	<string>equals</string>
+	<key>UnicodeHex.003d.plural</key>
+	<string>equal signs</string>
+	<key>UnicodeHex.003e</key>
+	<string>greater than</string>
+	<key>UnicodeHex.003e.plural</key>
+	<string>greater than signs</string>
+	<key>UnicodeHex.003f</key>
+	<string>question mark</string>
+	<key>UnicodeHex.003f.plural</key>
+	<string>question marks</string>
+	<key>UnicodeHex.003f20dd</key>
+	<string>help</string>
+	<key>UnicodeHex.0040</key>
+	<string>at</string>
+	<key>UnicodeHex.005b</key>
+	<string>left bracket</string>
+	<key>UnicodeHex.005b.plural</key>
+	<string>left brackets</string>
+	<key>UnicodeHex.005c</key>
+	<string>backslash</string>
+	<key>UnicodeHex.005c.plural</key>
+	<string>backslashes</string>
+	<key>UnicodeHex.005d</key>
+	<string>right bracket</string>
+	<key>UnicodeHex.005d.plural</key>
+	<string>right brackets</string>
+	<key>UnicodeHex.005e</key>
+	<string>caret</string>
+	<key>UnicodeHex.005e.plural</key>
+	<string>carets</string>
+	<key>UnicodeHex.005f</key>
+	<string>underscore</string>
+	<key>UnicodeHex.005f.plural</key>
+	<string>underscores</string>
+	<key>UnicodeHex.0060</key>
+	<string>accent</string>
+	<key>UnicodeHex.007b</key>
+	<string>left brace</string>
+	<key>UnicodeHex.007b.plural</key>
+	<string>left braces</string>
+	<key>UnicodeHex.007c</key>
+	<string>vertical line</string>
+	<key>UnicodeHex.007c.plural</key>
+	<string>vertical lines</string>
+	<key>UnicodeHex.007d</key>
+	<string>right brace</string>
+	<key>UnicodeHex.007d.plural</key>
+	<string>right braces</string>
+	<key>UnicodeHex.007e</key>
+	<string>tilde</string>
+	<key>UnicodeHex.007f</key>
+	<string>delete</string>
+	<key>UnicodeHex.00a2</key>
+	<string>cent sign</string>
+	<key>UnicodeHex.00a2.plural</key>
+	<string>cent signs</string>
+	<key>UnicodeHex.00a3</key>
+	<string>pound sign</string>
+	<key>UnicodeHex.00a3.plural</key>
+	<string>pound signs</string>
+	<key>UnicodeHex.00a5</key>
+	<string>yen</string>
+	<key>UnicodeHex.00a7</key>
+	<string>section sign</string>
+	<key>UnicodeHex.00a7.plural</key>
+	<string>section signs</string>
+	<key>UnicodeHex.00a8</key>
+	<string>diaeresis</string>
+	<key>UnicodeHex.00a9</key>
+	<string>copyright sign</string>
+	<key>UnicodeHex.00ab</key>
+	<string>left double arrows</string>
+	<key>UnicodeHex.00ae</key>
+	<string>registered sign</string>
+	<key>UnicodeHex.00b0</key>
+	<string>degrees</string>
+	<key>UnicodeHex.00b0.plural</key>
+	<string>degrees</string>
+	<key>UnicodeHex.00b0.singular</key>
+	<string>degree</string>
+	<key>UnicodeHex.00b1</key>
+	<string>plus or minus</string>
+	<key>UnicodeHex.00b4</key>
+	<string>acute accent</string>
+	<key>UnicodeHex.00b6</key>
+	<string>pilcrow</string>
+	<key>UnicodeHex.00b7</key>
+	<string>middle dot</string>
+	<key>UnicodeHex.00b7.plural</key>
+	<string>middle dots</string>
+	<key>UnicodeHex.00bb</key>
+	<string>right double arrows</string>
+	<key>UnicodeHex.00bc</key>
+	<string>one fourth</string>
+	<key>UnicodeHex.00bd</key>
+	<string>one half</string>
+	<key>UnicodeHex.00be</key>
+	<string>three fourths</string>
+	<key>UnicodeHex.00c0</key>
+	<string>A, grave</string>
+	<key>UnicodeHex.00d7</key>
+	<string>times</string>
+	<key>UnicodeHex.00e0</key>
+	<string>a, grave</string>
+	<key>UnicodeHex.00e1</key>
+	<string>a, acute</string>
+	<key>UnicodeHex.00f7</key>
+	<string>divided by</string>
+	<key>UnicodeHex.0101</key>
+	<string>a, macron</string>
+	<key>UnicodeHex.0103</key>
+	<string>a, breve</string>
+	<key>UnicodeHex.0104</key>
+	<string>A, ogonek</string>
+	<key>UnicodeHex.0105</key>
+	<string>a, ogonek</string>
+	<key>UnicodeHex.0106</key>
+	<string>C, acute</string>
+	<key>UnicodeHex.0107</key>
+	<string>c, acute</string>
+	<key>UnicodeHex.0108</key>
+	<string>C, circumflex</string>
+	<key>UnicodeHex.0109</key>
+	<string>c, circumflex</string>
+	<key>UnicodeHex.010a</key>
+	<string>C, dot above</string>
+	<key>UnicodeHex.010b</key>
+	<string>c, dot above</string>
+	<key>UnicodeHex.010c</key>
+	<string>C, caron</string>
+	<key>UnicodeHex.010d</key>
+	<string>c, caron</string>
+	<key>UnicodeHex.010e</key>
+	<string>D, caron</string>
+	<key>UnicodeHex.010f</key>
+	<string>d, caron</string>
+	<key>UnicodeHex.0110</key>
+	<string>D, stroke</string>
+	<key>UnicodeHex.0111</key>
+	<string>d, stroke</string>
+	<key>UnicodeHex.0112</key>
+	<string>E, macron</string>
+	<key>UnicodeHex.0113</key>
+	<string>e, macron</string>
+	<key>UnicodeHex.0116</key>
+	<string>E, dot above</string>
+	<key>UnicodeHex.0117</key>
+	<string>e, dot above</string>
+	<key>UnicodeHex.0118</key>
+	<string>E, ogonek</string>
+	<key>UnicodeHex.0119</key>
+	<string>e, ogonek</string>
+	<key>UnicodeHex.011a</key>
+	<string>E, caron</string>
+	<key>UnicodeHex.011b</key>
+	<string>e, caron</string>
+	<key>UnicodeHex.011c</key>
+	<string>G, circumflex</string>
+	<key>UnicodeHex.011d</key>
+	<string>g, circumflex</string>
+	<key>UnicodeHex.011e</key>
+	<string>G, breve</string>
+	<key>UnicodeHex.011f</key>
+	<string>g, breve</string>
+	<key>UnicodeHex.0120</key>
+	<string>G, dot above</string>
+	<key>UnicodeHex.0121</key>
+	<string>g, dot above</string>
+	<key>UnicodeHex.0122</key>
+	<string>G, cedilla</string>
+	<key>UnicodeHex.0123</key>
+	<string>g, cedilla</string>
+	<key>UnicodeHex.0124</key>
+	<string>H, circumflex</string>
+	<key>UnicodeHex.0125</key>
+	<string>h, circumflex</string>
+	<key>UnicodeHex.0126</key>
+	<string>H, stroke</string>
+	<key>UnicodeHex.0127</key>
+	<string>h, stroke</string>
+	<key>UnicodeHex.0128</key>
+	<string>I, tilde</string>
+	<key>UnicodeHex.0129</key>
+	<string>i, tilde</string>
+	<key>UnicodeHex.012b</key>
+	<string>i, macron</string>
+	<key>UnicodeHex.012c</key>
+	<string>I, breve</string>
+	<key>UnicodeHex.012d</key>
+	<string>i, breve</string>
+	<key>UnicodeHex.012f</key>
+	<string>i, ogonek</string>
+	<key>UnicodeHex.0130</key>
+	<string>I, dot above</string>
+	<key>UnicodeHex.0132</key>
+	<string>I J ligature</string>
+	<key>UnicodeHex.0133</key>
+	<string>i j ligature</string>
+	<key>UnicodeHex.0134</key>
+	<string>J, circumflex</string>
+	<key>UnicodeHex.0135</key>
+	<string>j, circumflex</string>
+	<key>UnicodeHex.0136</key>
+	<string>K, cedilla</string>
+	<key>UnicodeHex.0137</key>
+	<string>k, cedilla</string>
+	<key>UnicodeHex.0138</key>
+	<string>kra</string>
+	<key>UnicodeHex.0139</key>
+	<string>L, acute</string>
+	<key>UnicodeHex.013a</key>
+	<string>l, acute</string>
+	<key>UnicodeHex.013b</key>
+	<string>L, cedilla</string>
+	<key>UnicodeHex.013c</key>
+	<string>l, cedilla</string>
+	<key>UnicodeHex.013d</key>
+	<string>L, caron</string>
+	<key>UnicodeHex.013e</key>
+	<string>l, caron</string>
+	<key>UnicodeHex.013f</key>
+	<string>L, middle dot</string>
+	<key>UnicodeHex.0140</key>
+	<string>l, middle dot</string>
+	<key>UnicodeHex.0141</key>
+	<string>L, stroke</string>
+	<key>UnicodeHex.0142</key>
+	<string>l, stroke</string>
+	<key>UnicodeHex.0143</key>
+	<string>N, acute</string>
+	<key>UnicodeHex.0144</key>
+	<string>n, acute</string>
+	<key>UnicodeHex.0145</key>
+	<string>N, cedilla</string>
+	<key>UnicodeHex.0146</key>
+	<string>n, cedilla</string>
+	<key>UnicodeHex.0147</key>
+	<string>N, caron</string>
+	<key>UnicodeHex.0148</key>
+	<string>n, caron</string>
+	<key>UnicodeHex.0149</key>
+	<string>n preceded by apostrophe</string>
+	<key>UnicodeHex.014a</key>
+	<string>capital eng</string>
+	<key>UnicodeHex.014b</key>
+	<string>eng</string>
+	<key>UnicodeHex.014c</key>
+	<string>O, macron</string>
+	<key>UnicodeHex.014d</key>
+	<string>o, macron</string>
+	<key>UnicodeHex.014e</key>
+	<string>O, breve</string>
+	<key>UnicodeHex.014f</key>
+	<string>o, breve</string>
+	<key>UnicodeHex.0151</key>
+	<string>o, double acute</string>
+	<key>UnicodeHex.0154</key>
+	<string>R, acute</string>
+	<key>UnicodeHex.0155</key>
+	<string>r, acute</string>
+	<key>UnicodeHex.0156</key>
+	<string>R, cedilla</string>
+	<key>UnicodeHex.0157</key>
+	<string>r, cedilla</string>
+	<key>UnicodeHex.0158</key>
+	<string>R, caron</string>
+	<key>UnicodeHex.0159</key>
+	<string>r, caron</string>
+	<key>UnicodeHex.015a</key>
+	<string>S, acute</string>
+	<key>UnicodeHex.015b</key>
+	<string>s, acute</string>
+	<key>UnicodeHex.015c</key>
+	<string>S, circumflex</string>
+	<key>UnicodeHex.015d</key>
+	<string>s, circumflex</string>
+	<key>UnicodeHex.015e</key>
+	<string>S, cedilla</string>
+	<key>UnicodeHex.015f</key>
+	<string>s, cedilla</string>
+	<key>UnicodeHex.0162</key>
+	<string>T, cedilla</string>
+	<key>UnicodeHex.0163</key>
+	<string>t, cedilla</string>
+	<key>UnicodeHex.0164</key>
+	<string>T, caron</string>
+	<key>UnicodeHex.0165</key>
+	<string>t, caron</string>
+	<key>UnicodeHex.0166</key>
+	<string>T, stroke</string>
+	<key>UnicodeHex.0167</key>
+	<string>t, stroke</string>
+	<key>UnicodeHex.0168</key>
+	<string>U, tilde</string>
+	<key>UnicodeHex.0169</key>
+	<string>u, tilde</string>
+	<key>UnicodeHex.016b</key>
+	<string>u, macron</string>
+	<key>UnicodeHex.016c</key>
+	<string>U, breve</string>
+	<key>UnicodeHex.016d</key>
+	<string>u, breve</string>
+	<key>UnicodeHex.016f</key>
+	<string>u, ring above</string>
+	<key>UnicodeHex.0170</key>
+	<string>U, double acute</string>
+	<key>UnicodeHex.0171</key>
+	<string>u, double acute</string>
+	<key>UnicodeHex.0173</key>
+	<string>u, ogonek</string>
+	<key>UnicodeHex.0174</key>
+	<string>W, circumflex</string>
+	<key>UnicodeHex.0175</key>
+	<string>w, circumflex</string>
+	<key>UnicodeHex.0176</key>
+	<string>Y, circumflex</string>
+	<key>UnicodeHex.0177</key>
+	<string>y, circumflex</string>
+	<key>UnicodeHex.0179</key>
+	<string>Z, acute</string>
+	<key>UnicodeHex.017a</key>
+	<string>z, acute</string>
+	<key>UnicodeHex.017b</key>
+	<string>Z, dot above</string>
+	<key>UnicodeHex.017c</key>
+	<string>z, dot above</string>
+	<key>UnicodeHex.017f</key>
+	<string>long s</string>
+	<key>UnicodeHex.0180</key>
+	<string>b, stroke</string>
+	<key>UnicodeHex.0181</key>
+	<string>B, hook</string>
+	<key>UnicodeHex.0182</key>
+	<string>B, topbar</string>
+	<key>UnicodeHex.0183</key>
+	<string>b, topbar</string>
+	<key>UnicodeHex.0184</key>
+	<string>capital tone six</string>
+	<key>UnicodeHex.0185</key>
+	<string>tone six</string>
+	<key>UnicodeHex.0186</key>
+	<string>open O</string>
+	<key>UnicodeHex.0187</key>
+	<string>C, hook</string>
+	<key>UnicodeHex.0188</key>
+	<string>c, hook</string>
+	<key>UnicodeHex.0189</key>
+	<string>african D</string>
+	<key>UnicodeHex.018a</key>
+	<string>D, hook</string>
+	<key>UnicodeHex.018b</key>
+	<string>D, topbar</string>
+	<key>UnicodeHex.018c</key>
+	<string>d, topbar</string>
+	<key>UnicodeHex.018d</key>
+	<string>turned delta</string>
+	<key>UnicodeHex.018e</key>
+	<string>there exists</string>
+	<key>UnicodeHex.018f</key>
+	<string>capital schwa</string>
+	<key>UnicodeHex.0190</key>
+	<string>open E</string>
+	<key>UnicodeHex.0191</key>
+	<string>F, hook</string>
+	<key>UnicodeHex.0193</key>
+	<string>G, hook</string>
+	<key>UnicodeHex.0194</key>
+	<string>capital gamma</string>
+	<key>UnicodeHex.0195</key>
+	<string>hv</string>
+	<key>UnicodeHex.0196</key>
+	<string>capital iota</string>
+	<key>UnicodeHex.0197</key>
+	<string>I, stroke</string>
+	<key>UnicodeHex.0198</key>
+	<string>K, hook</string>
+	<key>UnicodeHex.0199</key>
+	<string>k, hook</string>
+	<key>UnicodeHex.019a</key>
+	<string>l, bar</string>
+	<key>UnicodeHex.019b</key>
+	<string>lambda, stroke</string>
+	<key>UnicodeHex.019c</key>
+	<string>turned M</string>
+	<key>UnicodeHex.019d</key>
+	<string>N, left hook</string>
+	<key>UnicodeHex.019e</key>
+	<string>n, long right leg</string>
+	<key>UnicodeHex.019f</key>
+	<string>O, middle tilde</string>
+	<key>UnicodeHex.01a0</key>
+	<string>O, horn</string>
+	<key>UnicodeHex.01a1</key>
+	<string>o, horn</string>
+	<key>UnicodeHex.01a2</key>
+	<string>capital oi</string>
+	<key>UnicodeHex.01a3</key>
+	<string>oi</string>
+	<key>UnicodeHex.01a4</key>
+	<string>P, hook</string>
+	<key>UnicodeHex.01a5</key>
+	<string>p, hook</string>
+	<key>UnicodeHex.01a6</key>
+	<string>yr</string>
+	<key>UnicodeHex.01a7</key>
+	<string>capital tone two</string>
+	<key>UnicodeHex.01a8</key>
+	<string>tone two</string>
+	<key>UnicodeHex.01a9</key>
+	<string>capital esh</string>
+	<key>UnicodeHex.01aa</key>
+	<string>reversed esh loop</string>
+	<key>UnicodeHex.01ab</key>
+	<string>t, palatal hook</string>
+	<key>UnicodeHex.01ac</key>
+	<string>T, hook</string>
+	<key>UnicodeHex.01ad</key>
+	<string>t, hook</string>
+	<key>UnicodeHex.01ae</key>
+	<string>T, retroflex hook</string>
+	<key>UnicodeHex.01af</key>
+	<string>U, horn</string>
+	<key>UnicodeHex.01b0</key>
+	<string>u, horn</string>
+	<key>UnicodeHex.01b1</key>
+	<string>capital upsilon</string>
+	<key>UnicodeHex.01b2</key>
+	<string>V, hook</string>
+	<key>UnicodeHex.01b3</key>
+	<string>Y, hook</string>
+	<key>UnicodeHex.01b4</key>
+	<string>y, hook</string>
+	<key>UnicodeHex.01b5</key>
+	<string>Z, stroke</string>
+	<key>UnicodeHex.01b6</key>
+	<string>z, stroke</string>
+	<key>UnicodeHex.01b7</key>
+	<string>capital ezh</string>
+	<key>UnicodeHex.01b8</key>
+	<string>capital ezh reversed</string>
+	<key>UnicodeHex.01b9</key>
+	<string>ezh reversed</string>
+	<key>UnicodeHex.01ba</key>
+	<string>ezh, tail</string>
+	<key>UnicodeHex.01bb</key>
+	<string>two with stroke</string>
+	<key>UnicodeHex.01bc</key>
+	<string>capital tone five</string>
+	<key>UnicodeHex.01bd</key>
+	<string>tone five</string>
+	<key>UnicodeHex.01be</key>
+	<string>inverted glottal stop with stroke</string>
+	<key>UnicodeHex.01bf</key>
+	<string>wynn</string>
+	<key>UnicodeHex.01c0</key>
+	<string>dental click</string>
+	<key>UnicodeHex.01c1</key>
+	<string>lateral click</string>
+	<key>UnicodeHex.01c2</key>
+	<string>alveolar click</string>
+	<key>UnicodeHex.01c3</key>
+	<string>retroflex click</string>
+	<key>UnicodeHex.01c4</key>
+	<string>capital dz, caron</string>
+	<key>UnicodeHex.01c5</key>
+	<string>D, small letter z, caron</string>
+	<key>UnicodeHex.01c6</key>
+	<string>dz, caron</string>
+	<key>UnicodeHex.01c7</key>
+	<string>L J</string>
+	<key>UnicodeHex.01c8</key>
+	<string>L, small letter j</string>
+	<key>UnicodeHex.01c9</key>
+	<string>lj</string>
+	<key>UnicodeHex.01ca</key>
+	<string>N J</string>
+	<key>UnicodeHex.01cb</key>
+	<string>N j</string>
+	<key>UnicodeHex.01cc</key>
+	<string>nj</string>
+	<key>UnicodeHex.01cf</key>
+	<string>I, caron</string>
+	<key>UnicodeHex.01d0</key>
+	<string>i, caron</string>
+	<key>UnicodeHex.01d1</key>
+	<string>O, caron</string>
+	<key>UnicodeHex.01d2</key>
+	<string>o, caron</string>
+	<key>UnicodeHex.01d3</key>
+	<string>U, caron</string>
+	<key>UnicodeHex.01d4</key>
+	<string>u, caron</string>
+	<key>UnicodeHex.01d5</key>
+	<string>U, diaeresis and macron</string>
+	<key>UnicodeHex.01d6</key>
+	<string>u, diaeresis and macron</string>
+	<key>UnicodeHex.01d7</key>
+	<string>U, diaeresis and acute</string>
+	<key>UnicodeHex.01d8</key>
+	<string>u, diaeresis and acute</string>
+	<key>UnicodeHex.01d9</key>
+	<string>U, diaeresis and caron</string>
+	<key>UnicodeHex.01da</key>
+	<string>u, diaeresis and caron</string>
+	<key>UnicodeHex.01db</key>
+	<string>U, diaeresis and grave</string>
+	<key>UnicodeHex.01dc</key>
+	<string>u, diaeresis and grave</string>
+	<key>UnicodeHex.01dd</key>
+	<string>turned e</string>
+	<key>UnicodeHex.01de</key>
+	<string>A, diaeresis and macron</string>
+	<key>UnicodeHex.01df</key>
+	<string>a, diaeresis and macron</string>
+	<key>UnicodeHex.01e0</key>
+	<string>A, dot above and macron</string>
+	<key>UnicodeHex.01e1</key>
+	<string>a, dot above and macron</string>
+	<key>UnicodeHex.01e2</key>
+	<string>A E, macron</string>
+	<key>UnicodeHex.01e3</key>
+	<string>a e, macron</string>
+	<key>UnicodeHex.01e4</key>
+	<string>G, stroke</string>
+	<key>UnicodeHex.01e5</key>
+	<string>g, stroke</string>
+	<key>UnicodeHex.01e6</key>
+	<string>G, caron</string>
+	<key>UnicodeHex.01e7</key>
+	<string>g, caron</string>
+	<key>UnicodeHex.01e8</key>
+	<string>K, caron</string>
+	<key>UnicodeHex.01e9</key>
+	<string>k, caron</string>
+	<key>UnicodeHex.01ea</key>
+	<string>O, ogonek</string>
+	<key>UnicodeHex.01eb</key>
+	<string>o, ogonek</string>
+	<key>UnicodeHex.01ec</key>
+	<string>O, ogonek and macron</string>
+	<key>UnicodeHex.01ed</key>
+	<string>o, ogonek and macron</string>
+	<key>UnicodeHex.01ee</key>
+	<string>capital ezh, caron</string>
+	<key>UnicodeHex.01ef</key>
+	<string>ezh, caron</string>
+	<key>UnicodeHex.01f0</key>
+	<string>j, caron</string>
+	<key>UnicodeHex.01f1</key>
+	<string>capital dz</string>
+	<key>UnicodeHex.01f2</key>
+	<string>D, small letter z</string>
+	<key>UnicodeHex.01f3</key>
+	<string>dz</string>
+	<key>UnicodeHex.01f4</key>
+	<string>G, acute</string>
+	<key>UnicodeHex.01f5</key>
+	<string>g, acute</string>
+	<key>UnicodeHex.01f6</key>
+	<string>capital hwair</string>
+	<key>UnicodeHex.01f7</key>
+	<string>capital wynn</string>
+	<key>UnicodeHex.01f8</key>
+	<string>N, grave</string>
+	<key>UnicodeHex.01f9</key>
+	<string>n, grave</string>
+	<key>UnicodeHex.01fa</key>
+	<string>A, ring above and acute</string>
+	<key>UnicodeHex.01fb</key>
+	<string>a, ring above and acute</string>
+	<key>UnicodeHex.01fc</key>
+	<string>A E, acute</string>
+	<key>UnicodeHex.01fd</key>
+	<string>ae, acute</string>
+	<key>UnicodeHex.01fe</key>
+	<string>O, stroke and acute</string>
+	<key>UnicodeHex.01ff</key>
+	<string>o, stroke and acute</string>
+	<key>UnicodeHex.0200</key>
+	<string>A, double grave</string>
+	<key>UnicodeHex.0201</key>
+	<string>a, double grave</string>
+	<key>UnicodeHex.0202</key>
+	<string>A, inverted breve</string>
+	<key>UnicodeHex.0203</key>
+	<string>a, inverted breve</string>
+	<key>UnicodeHex.0204</key>
+	<string>E, double grave</string>
+	<key>UnicodeHex.0205</key>
+	<string>e, double grave</string>
+	<key>UnicodeHex.0206</key>
+	<string>E, inverted breve</string>
+	<key>UnicodeHex.0207</key>
+	<string>e, inverted breve</string>
+	<key>UnicodeHex.0208</key>
+	<string>I, double grave</string>
+	<key>UnicodeHex.0209</key>
+	<string>i, double grave</string>
+	<key>UnicodeHex.020a</key>
+	<string>I, inverted breve</string>
+	<key>UnicodeHex.020b</key>
+	<string>i, inverted breve</string>
+	<key>UnicodeHex.020c</key>
+	<string>O, double grave</string>
+	<key>UnicodeHex.020d</key>
+	<string>o, double grave</string>
+	<key>UnicodeHex.020e</key>
+	<string>O, inverted breve</string>
+	<key>UnicodeHex.020f</key>
+	<string>o, inverted breve</string>
+	<key>UnicodeHex.0210</key>
+	<string>R, double grave</string>
+	<key>UnicodeHex.0211</key>
+	<string>r, double grave</string>
+	<key>UnicodeHex.0212</key>
+	<string>R, inverted breve</string>
+	<key>UnicodeHex.0213</key>
+	<string>r, inverted breve</string>
+	<key>UnicodeHex.0214</key>
+	<string>U, double grave</string>
+	<key>UnicodeHex.0215</key>
+	<string>u, double grave</string>
+	<key>UnicodeHex.0216</key>
+	<string>U, inverted breve</string>
+	<key>UnicodeHex.0217</key>
+	<string>u, inverted breve</string>
+	<key>UnicodeHex.0218</key>
+	<string>S, comma below</string>
+	<key>UnicodeHex.0219</key>
+	<string>s, comma below</string>
+	<key>UnicodeHex.021a</key>
+	<string>T, comma below</string>
+	<key>UnicodeHex.021b</key>
+	<string>t, comma below</string>
+	<key>UnicodeHex.021c</key>
+	<string>capital yogh</string>
+	<key>UnicodeHex.021d</key>
+	<string>yogh</string>
+	<key>UnicodeHex.021e</key>
+	<string>H, caron</string>
+	<key>UnicodeHex.021f</key>
+	<string>h, caron</string>
+	<key>UnicodeHex.0220</key>
+	<string>N, long right leg</string>
+	<key>UnicodeHex.0221</key>
+	<string>d, curl</string>
+	<key>UnicodeHex.0222</key>
+	<string>capital ou</string>
+	<key>UnicodeHex.0223</key>
+	<string>ou</string>
+	<key>UnicodeHex.0224</key>
+	<string>Z, hook</string>
+	<key>UnicodeHex.0225</key>
+	<string>z, hook</string>
+	<key>UnicodeHex.0226</key>
+	<string>A, dot above</string>
+	<key>UnicodeHex.0227</key>
+	<string>a, dot above</string>
+	<key>UnicodeHex.0228</key>
+	<string>E, cedilla</string>
+	<key>UnicodeHex.0229</key>
+	<string>e, cedilla</string>
+	<key>UnicodeHex.022a</key>
+	<string>O, diaeresis and macron</string>
+	<key>UnicodeHex.022b</key>
+	<string>o, diaeresis and macron</string>
+	<key>UnicodeHex.022c</key>
+	<string>O, tilde and macron</string>
+	<key>UnicodeHex.022d</key>
+	<string>o, tilde and macron</string>
+	<key>UnicodeHex.022e</key>
+	<string>O, dot above</string>
+	<key>UnicodeHex.022f</key>
+	<string>o, dot above</string>
+	<key>UnicodeHex.0230</key>
+	<string>O, dot above and macron</string>
+	<key>UnicodeHex.0231</key>
+	<string>o, dot above and macron</string>
+	<key>UnicodeHex.0232</key>
+	<string>Y, macron</string>
+	<key>UnicodeHex.0233</key>
+	<string>y, macron</string>
+	<key>UnicodeHex.0234</key>
+	<string>l, curl</string>
+	<key>UnicodeHex.0235</key>
+	<string>n, curl</string>
+	<key>UnicodeHex.0236</key>
+	<string>t, curl</string>
+	<key>UnicodeHex.0238</key>
+	<string>db digraph</string>
+	<key>UnicodeHex.0239</key>
+	<string>qp digraph</string>
+	<key>UnicodeHex.023a</key>
+	<string>A, stroke</string>
+	<key>UnicodeHex.023b</key>
+	<string>C, stroke</string>
+	<key>UnicodeHex.023c</key>
+	<string>c, stroke</string>
+	<key>UnicodeHex.023d</key>
+	<string>L, bar</string>
+	<key>UnicodeHex.023e</key>
+	<string>T, diagonal stroke</string>
+	<key>UnicodeHex.023f</key>
+	<string>s, swash tail</string>
+	<key>UnicodeHex.0240</key>
+	<string>z, swash tail</string>
+	<key>UnicodeHex.0241</key>
+	<string>capital glottal stop</string>
+	<key>UnicodeHex.0242</key>
+	<string>glottal stop</string>
+	<key>UnicodeHex.0243</key>
+	<string>B, stroke</string>
+	<key>UnicodeHex.0244</key>
+	<string>U bar</string>
+	<key>UnicodeHex.0245</key>
+	<string>turned V</string>
+	<key>UnicodeHex.0246</key>
+	<string>E, stroke</string>
+	<key>UnicodeHex.0247</key>
+	<string>e, stroke</string>
+	<key>UnicodeHex.0248</key>
+	<string>J, stroke</string>
+	<key>UnicodeHex.0249</key>
+	<string>j, stroke</string>
+	<key>UnicodeHex.024a</key>
+	<string>capital small q, hook tail</string>
+	<key>UnicodeHex.024b</key>
+	<string>q, hook tail</string>
+	<key>UnicodeHex.024c</key>
+	<string>R, stroke</string>
+	<key>UnicodeHex.024d</key>
+	<string>r, stroke</string>
+	<key>UnicodeHex.024e</key>
+	<string>Y, stroke</string>
+	<key>UnicodeHex.024f</key>
+	<string>y, stroke</string>
+	<key>UnicodeHex.0250</key>
+	<string>turned a</string>
+	<key>UnicodeHex.0251</key>
+	<string>alpha</string>
+	<key>UnicodeHex.0252</key>
+	<string>turned alpha</string>
+	<key>UnicodeHex.0253</key>
+	<string>b, hook</string>
+	<key>UnicodeHex.0254</key>
+	<string>open o</string>
+	<key>UnicodeHex.0255</key>
+	<string>c, curl</string>
+	<key>UnicodeHex.0256</key>
+	<string>d, tail</string>
+	<key>UnicodeHex.0257</key>
+	<string>d, hook</string>
+	<key>UnicodeHex.0258</key>
+	<string>reversed e</string>
+	<key>UnicodeHex.0259</key>
+	<string>schwa</string>
+	<key>UnicodeHex.025a</key>
+	<string>schwa, hook</string>
+	<key>UnicodeHex.025b</key>
+	<string>open e</string>
+	<key>UnicodeHex.025c</key>
+	<string>reversed open e</string>
+	<key>UnicodeHex.025d</key>
+	<string>reversed open e, hook</string>
+	<key>UnicodeHex.025e</key>
+	<string>closed reversed open e</string>
+	<key>UnicodeHex.025f</key>
+	<string>dotless j, stroke</string>
+	<key>UnicodeHex.0260</key>
+	<string>g, hook</string>
+	<key>UnicodeHex.0261</key>
+	<string>script g</string>
+	<key>UnicodeHex.0262</key>
+	<string>small capital g</string>
+	<key>UnicodeHex.0263</key>
+	<string>gamma</string>
+	<key>UnicodeHex.0264</key>
+	<string>rams horn</string>
+	<key>UnicodeHex.0265</key>
+	<string>turned h</string>
+	<key>UnicodeHex.0266</key>
+	<string>h, hook</string>
+	<key>UnicodeHex.0267</key>
+	<string>heng, hook</string>
+	<key>UnicodeHex.0268</key>
+	<string>i, stroke</string>
+	<key>UnicodeHex.0269</key>
+	<string>iota</string>
+	<key>UnicodeHex.026a</key>
+	<string>small capital i</string>
+	<key>UnicodeHex.026b</key>
+	<string>l, middle tilde</string>
+	<key>UnicodeHex.026c</key>
+	<string>l, belt</string>
+	<key>UnicodeHex.026d</key>
+	<string>l, retroflex hook</string>
+	<key>UnicodeHex.026e</key>
+	<string>lezh</string>
+	<key>UnicodeHex.026f</key>
+	<string>turned m</string>
+	<key>UnicodeHex.0270</key>
+	<string>turned m, long leg</string>
+	<key>UnicodeHex.0271</key>
+	<string>m, hook</string>
+	<key>UnicodeHex.0272</key>
+	<string>n, left hook</string>
+	<key>UnicodeHex.0273</key>
+	<string>n, retroflex hook</string>
+	<key>UnicodeHex.0274</key>
+	<string>small capital n</string>
+	<key>UnicodeHex.0275</key>
+	<string>barred o</string>
+	<key>UnicodeHex.0276</key>
+	<string>small capital o e</string>
+	<key>UnicodeHex.0277</key>
+	<string>closed omega</string>
+	<key>UnicodeHex.0278</key>
+	<string>phi</string>
+	<key>UnicodeHex.0279</key>
+	<string>turned r</string>
+	<key>UnicodeHex.027a</key>
+	<string>turned r, long leg</string>
+	<key>UnicodeHex.027b</key>
+	<string>turned r, hook</string>
+	<key>UnicodeHex.027c</key>
+	<string>r, long leg</string>
+	<key>UnicodeHex.027d</key>
+	<string>r, tail</string>
+	<key>UnicodeHex.027e</key>
+	<string>r, fishhook</string>
+	<key>UnicodeHex.027f</key>
+	<string>reversed r, fishhook</string>
+	<key>UnicodeHex.0280</key>
+	<string>small capital r</string>
+	<key>UnicodeHex.0281</key>
+	<string>small inverted capital r</string>
+	<key>UnicodeHex.0282</key>
+	<string>s, hook</string>
+	<key>UnicodeHex.0283</key>
+	<string>esh</string>
+	<key>UnicodeHex.0284</key>
+	<string>dotless j, stroke and hook</string>
+	<key>UnicodeHex.0285</key>
+	<string>squat reversed esh</string>
+	<key>UnicodeHex.0286</key>
+	<string>esh, curl</string>
+	<key>UnicodeHex.0287</key>
+	<string>turned t</string>
+	<key>UnicodeHex.0288</key>
+	<string>t, retroflex hook</string>
+	<key>UnicodeHex.0289</key>
+	<string>u bar</string>
+	<key>UnicodeHex.028a</key>
+	<string>upsilon</string>
+	<key>UnicodeHex.028b</key>
+	<string>v, hook</string>
+	<key>UnicodeHex.028c</key>
+	<string>turned v</string>
+	<key>UnicodeHex.028d</key>
+	<string>turned w</string>
+	<key>UnicodeHex.028e</key>
+	<string>turned y</string>
+	<key>UnicodeHex.028f</key>
+	<string>small capital y</string>
+	<key>UnicodeHex.0290</key>
+	<string>z, retroflex hook</string>
+	<key>UnicodeHex.0291</key>
+	<string>z, curl</string>
+	<key>UnicodeHex.0292</key>
+	<string>ezh</string>
+	<key>UnicodeHex.0293</key>
+	<string>ezh, curl</string>
+	<key>UnicodeHex.0294</key>
+	<string>glottal stop</string>
+	<key>UnicodeHex.0295</key>
+	<string>pharyngeal voiced fricative</string>
+	<key>UnicodeHex.0296</key>
+	<string>inverted glottal stop</string>
+	<key>UnicodeHex.0297</key>
+	<string>stretched c</string>
+	<key>UnicodeHex.0298</key>
+	<string>bilabial click</string>
+	<key>UnicodeHex.0299</key>
+	<string>small capital b</string>
+	<key>UnicodeHex.029a</key>
+	<string>closed open e</string>
+	<key>UnicodeHex.029b</key>
+	<string>small capital g, hook</string>
+	<key>UnicodeHex.029c</key>
+	<string>small capital h</string>
+	<key>UnicodeHex.029d</key>
+	<string>j, crossed-tail</string>
+	<key>UnicodeHex.029e</key>
+	<string>turned k</string>
+	<key>UnicodeHex.029f</key>
+	<string>small capital l</string>
+	<key>UnicodeHex.02a0</key>
+	<string>q, hook</string>
+	<key>UnicodeHex.02a1</key>
+	<string>glottal stop with stroke</string>
+	<key>UnicodeHex.02a2</key>
+	<string>reversed glottal stop with stroke</string>
+	<key>UnicodeHex.02a3</key>
+	<string>dz digraph</string>
+	<key>UnicodeHex.02a4</key>
+	<string>dezh digraph</string>
+	<key>UnicodeHex.02a5</key>
+	<string>dz digraph, curl</string>
+	<key>UnicodeHex.02a6</key>
+	<string>ts digraph</string>
+	<key>UnicodeHex.02a7</key>
+	<string>tesh digraph</string>
+	<key>UnicodeHex.02a8</key>
+	<string>tc digraph, curl</string>
+	<key>UnicodeHex.02a9</key>
+	<string>feng digraph</string>
+	<key>UnicodeHex.02aa</key>
+	<string>ls digraph</string>
+	<key>UnicodeHex.02ab</key>
+	<string>lz digraph</string>
+	<key>UnicodeHex.02ac</key>
+	<string>bilabial percussive</string>
+	<key>UnicodeHex.02ad</key>
+	<string>bidental percussive</string>
+	<key>UnicodeHex.02ae</key>
+	<string>turned h, fishhook</string>
+	<key>UnicodeHex.02af</key>
+	<string>turned h, fishhook and tail</string>
+	<key>UnicodeHex.02b0</key>
+	<string>modifier letter h</string>
+	<key>UnicodeHex.02b1</key>
+	<string>modifier letter h with hook</string>
+	<key>UnicodeHex.02b2</key>
+	<string>modifier letter j</string>
+	<key>UnicodeHex.02b3</key>
+	<string>modifier letter r</string>
+	<key>UnicodeHex.02b4</key>
+	<string>modifier letter turned r</string>
+	<key>UnicodeHex.02b5</key>
+	<string>modifier letter turned r with hook</string>
+	<key>UnicodeHex.02b6</key>
+	<string>modifier letter capital inverted r</string>
+	<key>UnicodeHex.02b7</key>
+	<string>modifier letter w</string>
+	<key>UnicodeHex.02b8</key>
+	<string>modifier letter y</string>
+	<key>UnicodeHex.02b9</key>
+	<string>modifier letter prime</string>
+	<key>UnicodeHex.02ba</key>
+	<string>modifier letter double prime</string>
+	<key>UnicodeHex.02bb</key>
+	<string>modifier letter turned comma</string>
+	<key>UnicodeHex.02bd</key>
+	<string>modifier letter reversed comma</string>
+	<key>UnicodeHex.02be</key>
+	<string>modifier letter right half ring</string>
+	<key>UnicodeHex.02bf</key>
+	<string>modifier letter left half ring</string>
+	<key>UnicodeHex.02c0</key>
+	<string>modifier letter glottal stop</string>
+	<key>UnicodeHex.02c1</key>
+	<string>modifier letter reversed glottal stop</string>
+	<key>UnicodeHex.02c2</key>
+	<string>modifier letter left arrowhead</string>
+	<key>UnicodeHex.02c3</key>
+	<string>modifier letter right arrowhead</string>
+	<key>UnicodeHex.02c4</key>
+	<string>modifier letter up arrowhead</string>
+	<key>UnicodeHex.02c5</key>
+	<string>modifier letter down arrowhead</string>
+	<key>UnicodeHex.02c7</key>
+	<string>caron</string>
+	<key>UnicodeHex.02c8</key>
+	<string>modifier letter vertical line</string>
+	<key>UnicodeHex.02c9</key>
+	<string>modifier letter macron</string>
+	<key>UnicodeHex.02ca</key>
+	<string>modifier letter acute accent</string>
+	<key>UnicodeHex.02cb</key>
+	<string>modifier letter grave accent</string>
+	<key>UnicodeHex.02cc</key>
+	<string>modifier letter low vertical line</string>
+	<key>UnicodeHex.02cd</key>
+	<string>modifier letter low macron</string>
+	<key>UnicodeHex.02ce</key>
+	<string>modifier letter low grave accent</string>
+	<key>UnicodeHex.02cf</key>
+	<string>modifier letter low acute accent</string>
+	<key>UnicodeHex.02d0</key>
+	<string>modifier letter triangular colon</string>
+	<key>UnicodeHex.02d1</key>
+	<string>modifier letter half triangular colon</string>
+	<key>UnicodeHex.02d2</key>
+	<string>modifier letter centred right half ring</string>
+	<key>UnicodeHex.02d3</key>
+	<string>modifier letter centred left half ring</string>
+	<key>UnicodeHex.02d4</key>
+	<string>modifier letter up tack</string>
+	<key>UnicodeHex.02d5</key>
+	<string>modifier letter down tack</string>
+	<key>UnicodeHex.02d6</key>
+	<string>modifier letter plus sign</string>
+	<key>UnicodeHex.02d7</key>
+	<string>modifier letter minus sign</string>
+	<key>UnicodeHex.02d8</key>
+	<string>breve</string>
+	<key>UnicodeHex.02d9</key>
+	<string>dot above</string>
+	<key>UnicodeHex.02da</key>
+	<string>ring above</string>
+	<key>UnicodeHex.02db</key>
+	<string>ogonek</string>
+	<key>UnicodeHex.02dd</key>
+	<string>double acute accent</string>
+	<key>UnicodeHex.02de</key>
+	<string>modifier letter rhotic hook</string>
+	<key>UnicodeHex.02df</key>
+	<string>modifier letter cross accent</string>
+	<key>UnicodeHex.02e0</key>
+	<string>modifier letter gamma</string>
+	<key>UnicodeHex.02e1</key>
+	<string>modifier letter l</string>
+	<key>UnicodeHex.02e2</key>
+	<string>modifier letter s</string>
+	<key>UnicodeHex.02e3</key>
+	<string>modifier letter x</string>
+	<key>UnicodeHex.02e4</key>
+	<string>modifier letter reversed glottal stop</string>
+	<key>UnicodeHex.02e5</key>
+	<string>modifier letter extra-high tone bar</string>
+	<key>UnicodeHex.02e6</key>
+	<string>modifier letter high tone bar</string>
+	<key>UnicodeHex.02e7</key>
+	<string>modifier letter mid tone bar</string>
+	<key>UnicodeHex.02e8</key>
+	<string>modifier letter low tone bar</string>
+	<key>UnicodeHex.02e9</key>
+	<string>modifier letter extra-low tone bar</string>
+	<key>UnicodeHex.02ea</key>
+	<string>modifier letter yin departing tone mark</string>
+	<key>UnicodeHex.02eb</key>
+	<string>modifier letter yang departing tone mark</string>
+	<key>UnicodeHex.02ec</key>
+	<string>modifier letter voicing</string>
+	<key>UnicodeHex.02ed</key>
+	<string>modifier letter unaspirated</string>
+	<key>UnicodeHex.02ee</key>
+	<string>modifier letter double apostrophe</string>
+	<key>UnicodeHex.02ef</key>
+	<string>modifier letter low down arrowhead</string>
+	<key>UnicodeHex.02f0</key>
+	<string>modifier letter low up arrowhead</string>
+	<key>UnicodeHex.02f1</key>
+	<string>modifier letter low left arrowhead</string>
+	<key>UnicodeHex.02f2</key>
+	<string>modifier letter low right arrowhead</string>
+	<key>UnicodeHex.02f3</key>
+	<string>modifier letter low ring</string>
+	<key>UnicodeHex.02f4</key>
+	<string>modifier letter middle grave accent</string>
+	<key>UnicodeHex.02f5</key>
+	<string>modifier letter middle double grave accent</string>
+	<key>UnicodeHex.02f6</key>
+	<string>modifier letter middle double acute accent</string>
+	<key>UnicodeHex.02f7</key>
+	<string>modifier letter low tilde</string>
+	<key>UnicodeHex.02f8</key>
+	<string>modifier letter raised colon</string>
+	<key>UnicodeHex.02f9</key>
+	<string>modifier letter begin high tone</string>
+	<key>UnicodeHex.02fa</key>
+	<string>modifier letter end high tone</string>
+	<key>UnicodeHex.02fb</key>
+	<string>modifier letter begin low tone</string>
+	<key>UnicodeHex.02fc</key>
+	<string>modifier letter end low tone</string>
+	<key>UnicodeHex.02fd</key>
+	<string>modifier letter shelf</string>
+	<key>UnicodeHex.02fe</key>
+	<string>modifier letter open shelf</string>
+	<key>UnicodeHex.02ff</key>
+	<string>modifier letter low left arrow</string>
+	<key>UnicodeHex.0393</key>
+	<string>capital gamma</string>
+	<key>UnicodeHex.0394</key>
+	<string>delta</string>
+	<key>UnicodeHex.0398</key>
+	<string>theta</string>
+	<key>UnicodeHex.03a3</key>
+	<string>sigma</string>
+	<key>UnicodeHex.03a6</key>
+	<string>phi</string>
+	<key>UnicodeHex.03b1</key>
+	<string>alpha</string>
+	<key>UnicodeHex.03b2</key>
+	<string>beta</string>
+	<key>UnicodeHex.03b3</key>
+	<string>gamma</string>
+	<key>UnicodeHex.03b4</key>
+	<string>delta</string>
+	<key>UnicodeHex.03b5</key>
+	<string>epsilon</string>
+	<key>UnicodeHex.03b7</key>
+	<string>eta</string>
+	<key>UnicodeHex.03b8</key>
+	<string>theta</string>
+	<key>UnicodeHex.03bb</key>
+	<string>lambda</string>
+	<key>UnicodeHex.03bc</key>
+	<string>mu</string>
+	<key>UnicodeHex.03be</key>
+	<string>ksee</string>
+	<key>UnicodeHex.03c0</key>
+	<string>pi</string>
+	<key>UnicodeHex.03c1</key>
+	<string>rho</string>
+	<key>UnicodeHex.03c3</key>
+	<string>sigma</string>
+	<key>UnicodeHex.03c5</key>
+	<string>upsilon</string>
+	<key>UnicodeHex.03c6</key>
+	<string>phi</string>
+	<key>UnicodeHex.03c8</key>
+	<string>psi</string>
+	<key>UnicodeHex.03c9</key>
+	<string>omega</string>
+	<key>UnicodeHex.03d5</key>
+	<string>phi</string>
+	<key>UnicodeHex.2019</key>
+	<string>single quotation mark</string>
+	<key>UnicodeHex.201c</key>
+	<string>double quotation mark</string>
+	<key>UnicodeHex.201d</key>
+	<string>double quotation mark</string>
+	<key>UnicodeHex.201e</key>
+	<string>double low quotation mark</string>
+	<key>UnicodeHex.201f</key>
+	<string>double quotation mark</string>
+	<key>UnicodeHex.2022</key>
+	<string>bullet</string>
+	<key>UnicodeHex.2022.plural</key>
+	<string>bullets</string>
+	<key>UnicodeHex.2026</key>
+	<string>ellipsis</string>
+	<key>UnicodeHex.2026.plural</key>
+	<string>ellipses</string>
+	<key>UnicodeHex.2028</key>
+	<string>line break</string>
+	<key>UnicodeHex.2030</key>
+	<string>per mille sign</string>
+	<key>UnicodeHex.2032</key>
+	<string>prime</string>
+	<key>UnicodeHex.2033</key>
+	<string>double prime</string>
+	<key>UnicodeHex.2034</key>
+	<string>triple prime</string>
+	<key>UnicodeHex.203e</key>
+	<string>overline</string>
+	<key>UnicodeHex.2070</key>
+	<string>superscript 0</string>
+	<key>UnicodeHex.2071</key>
+	<string>superscript i</string>
+	<key>UnicodeHex.2074</key>
+	<string>superscript 4</string>
+	<key>UnicodeHex.2075</key>
+	<string>superscript 5</string>
+	<key>UnicodeHex.2076</key>
+	<string>superscript 6</string>
+	<key>UnicodeHex.2077</key>
+	<string>superscript 7</string>
+	<key>UnicodeHex.2078</key>
+	<string>superscript 8</string>
+	<key>UnicodeHex.2079</key>
+	<string>superscript 9</string>
+	<key>UnicodeHex.207f</key>
+	<string>superscript n</string>
+	<key>UnicodeHex.2080</key>
+	<string>subscript 0</string>
+	<key>UnicodeHex.2081</key>
+	<string>subscript 1</string>
+	<key>UnicodeHex.2082</key>
+	<string>subscript 2</string>
+	<key>UnicodeHex.2083</key>
+	<string>subscript 3</string>
+	<key>UnicodeHex.2084</key>
+	<string>subscript 4</string>
+	<key>UnicodeHex.2085</key>
+	<string>subscript 5</string>
+	<key>UnicodeHex.2086</key>
+	<string>subscript 6</string>
+	<key>UnicodeHex.2087</key>
+	<string>subscript 7</string>
+	<key>UnicodeHex.2088</key>
+	<string>subscript 8</string>
+	<key>UnicodeHex.2089</key>
+	<string>subscript 9</string>
+	<key>UnicodeHex.20a9</key>
+	<string>won sign</string>
+	<key>UnicodeHex.20ac</key>
+	<string>euro sign</string>
+	<key>UnicodeHex.2102</key>
+	<string>the set of complex numbers</string>
+	<key>UnicodeHex.210d</key>
+	<string>double-struck capital h</string>
+	<key>UnicodeHex.2112</key>
+	<string>script capital l</string>
+	<key>UnicodeHex.2115</key>
+	<string>the set of natural numbers</string>
+	<key>UnicodeHex.2117</key>
+	<string>sound recording copyright</string>
+	<key>UnicodeHex.2119</key>
+	<string>double-struck capital p</string>
+	<key>UnicodeHex.211a</key>
+	<string>the set of rational numbers</string>
+	<key>UnicodeHex.211d</key>
+	<string>the set of real numbers</string>
+	<key>UnicodeHex.2122</key>
+	<string>trademark sign</string>
+	<key>UnicodeHex.2124</key>
+	<string>the set of integers</string>
+	<key>UnicodeHex.2135</key>
+	<string>alef symbol</string>
+	<key>UnicodeHex.2146</key>
+	<string>differential</string>
+	<key>UnicodeHex.2147</key>
+	<string>double-struck e</string>
+	<key>UnicodeHex.2148</key>
+	<string>double-struck italic i</string>
+	<key>UnicodeHex.2153</key>
+	<string>one third</string>
+	<key>UnicodeHex.2154</key>
+	<string>two thirds</string>
+	<key>UnicodeHex.2155</key>
+	<string>one fifth</string>
+	<key>UnicodeHex.2156</key>
+	<string>two fifts</string>
+	<key>UnicodeHex.2157</key>
+	<string>three fifths</string>
+	<key>UnicodeHex.2158</key>
+	<string>four fifths</string>
+	<key>UnicodeHex.2159</key>
+	<string>one sixth</string>
+	<key>UnicodeHex.215a</key>
+	<string>five sixths</string>
+	<key>UnicodeHex.215b</key>
+	<string>one eighth</string>
+	<key>UnicodeHex.215c</key>
+	<string>three eighths</string>
+	<key>UnicodeHex.215d</key>
+	<string>five eighths</string>
+	<key>UnicodeHex.215e</key>
+	<string>seven eighths</string>
+	<key>UnicodeHex.2190</key>
+	<string>left arrow</string>
+	<key>UnicodeHex.2191</key>
+	<string>up arrow</string>
+	<key>UnicodeHex.2192</key>
+	<string>right arrow</string>
+	<key>UnicodeHex.2193</key>
+	<string>down arrow</string>
+	<key>UnicodeHex.2196</key>
+	<string>home</string>
+	<key>UnicodeHex.2198</key>
+	<string>end</string>
+	<key>UnicodeHex.21a9</key>
+	<string>return</string>
+	<key>UnicodeHex.21bc</key>
+	<string>left harpoon with upwards barb</string>
+	<key>UnicodeHex.21bd</key>
+	<string>left harpoon with downwards barb</string>
+	<key>UnicodeHex.21c0</key>
+	<string>right harpoon with upwards barb</string>
+	<key>UnicodeHex.21c1</key>
+	<string>right harpoon with downwards barb</string>
+	<key>UnicodeHex.21d0</key>
+	<string>left double arrow</string>
+	<key>UnicodeHex.21d2</key>
+	<string>right double arrow</string>
+	<key>UnicodeHex.21de</key>
+	<string>page up</string>
+	<key>UnicodeHex.21df</key>
+	<string>page down</string>
+	<key>UnicodeHex.21e0</key>
+	<string>left arrow</string>
+	<key>UnicodeHex.21e1</key>
+	<string>up arrow</string>
+	<key>UnicodeHex.21e2</key>
+	<string>right arrow</string>
+	<key>UnicodeHex.21e3</key>
+	<string>down arrow</string>
+	<key>UnicodeHex.21e5</key>
+	<string>tab</string>
+	<key>UnicodeHex.21e7</key>
+	<string>shift</string>
+	<key>UnicodeHex.21ea</key>
+	<string>caps lock</string>
+	<key>UnicodeHex.2200</key>
+	<string>for all</string>
+	<key>UnicodeHex.2202</key>
+	<string>partial differential</string>
+	<key>UnicodeHex.2203</key>
+	<string>there exists</string>
+	<key>UnicodeHex.2204</key>
+	<string>there does not exist</string>
+	<key>UnicodeHex.2205</key>
+	<string>empty set</string>
+	<key>UnicodeHex.2206</key>
+	<string>increment</string>
+	<key>UnicodeHex.2207</key>
+	<string>vector differential</string>
+	<key>UnicodeHex.2208</key>
+	<string>element of</string>
+	<key>UnicodeHex.2209</key>
+	<string>not element of</string>
+	<key>UnicodeHex.220a</key>
+	<string>small element of</string>
+	<key>UnicodeHex.220b</key>
+	<string>contains as member</string>
+	<key>UnicodeHex.220c</key>
+	<string>does not contain as member</string>
+	<key>UnicodeHex.220d</key>
+	<string>small contains as member</string>
+	<key>UnicodeHex.220e</key>
+	<string>end of proof</string>
+	<key>UnicodeHex.220f</key>
+	<string>product</string>
+	<key>UnicodeHex.2210</key>
+	<string>co-product</string>
+	<key>UnicodeHex.2211</key>
+	<string>summation</string>
+	<key>UnicodeHex.2212</key>
+	<string>minus</string>
+	<key>UnicodeHex.2213</key>
+	<string>minus or plus</string>
+	<key>UnicodeHex.2214</key>
+	<string>dot plus</string>
+	<key>UnicodeHex.2215</key>
+	<string>division</string>
+	<key>UnicodeHex.2216</key>
+	<string>set minus</string>
+	<key>UnicodeHex.2217</key>
+	<string>asterisk operator</string>
+	<key>UnicodeHex.2218</key>
+	<string>composed with</string>
+	<key>UnicodeHex.2219</key>
+	<string>bullet operator</string>
+	<key>UnicodeHex.221a</key>
+	<string>square root</string>
+	<key>UnicodeHex.221b</key>
+	<string>cube root</string>
+	<key>UnicodeHex.221c</key>
+	<string>fourth root</string>
+	<key>UnicodeHex.221d</key>
+	<string>proportional to</string>
+	<key>UnicodeHex.221e</key>
+	<string>infinity</string>
+	<key>UnicodeHex.221f</key>
+	<string>right angle</string>
+	<key>UnicodeHex.2220</key>
+	<string>angle</string>
+	<key>UnicodeHex.2221</key>
+	<string>measured angle</string>
+	<key>UnicodeHex.2222</key>
+	<string>spherical angle</string>
+	<key>UnicodeHex.2223</key>
+	<string>divides</string>
+	<key>UnicodeHex.2224</key>
+	<string>does not divide</string>
+	<key>UnicodeHex.2225</key>
+	<string>parallel to</string>
+	<key>UnicodeHex.2226</key>
+	<string>not parallel to</string>
+	<key>UnicodeHex.2227</key>
+	<string>logical and</string>
+	<key>UnicodeHex.2228</key>
+	<string>logical or</string>
+	<key>UnicodeHex.2229</key>
+	<string>intersection</string>
+	<key>UnicodeHex.222a</key>
+	<string>union</string>
+	<key>UnicodeHex.222b</key>
+	<string>integral</string>
+	<key>UnicodeHex.222c</key>
+	<string>double integral</string>
+	<key>UnicodeHex.222d</key>
+	<string>triple integral</string>
+	<key>UnicodeHex.222e</key>
+	<string>contour integral</string>
+	<key>UnicodeHex.2234</key>
+	<string>therefore</string>
+	<key>UnicodeHex.2235</key>
+	<string>because</string>
+	<key>UnicodeHex.2236</key>
+	<string>ratio</string>
+	<key>UnicodeHex.2237</key>
+	<string>proportion</string>
+	<key>UnicodeHex.223c</key>
+	<string>tilde operator</string>
+	<key>UnicodeHex.2243</key>
+	<string>asymptotic equal</string>
+	<key>UnicodeHex.2244</key>
+	<string>not asymptotic equal</string>
+	<key>UnicodeHex.2245</key>
+	<string>approximately equal</string>
+	<key>UnicodeHex.2248</key>
+	<string>almost equal</string>
+	<key>UnicodeHex.2249</key>
+	<string>not almost equal</string>
+	<key>UnicodeHex.224d</key>
+	<string>equivalent to</string>
+	<key>UnicodeHex.225d</key>
+	<string>equal to by definition</string>
+	<key>UnicodeHex.2260</key>
+	<string>not equals</string>
+	<key>UnicodeHex.2261</key>
+	<string>identical to</string>
+	<key>UnicodeHex.2262</key>
+	<string>not identical to</string>
+	<key>UnicodeHex.2264</key>
+	<string>less-than or equal to</string>
+	<key>UnicodeHex.2265</key>
+	<string>greater-than or equal to</string>
+	<key>UnicodeHex.2282</key>
+	<string>subset of</string>
+	<key>UnicodeHex.2283</key>
+	<string>superset of</string>
+	<key>UnicodeHex.2284</key>
+	<string>not a subset of</string>
+	<key>UnicodeHex.2285</key>
+	<string>not a superset of</string>
+	<key>UnicodeHex.22c2</key>
+	<string>intersection</string>
+	<key>UnicodeHex.22c3</key>
+	<string>union</string>
+	<key>UnicodeHex.22c5</key>
+	<string>dot product</string>
+	<key>UnicodeHex.22ee</key>
+	<string>vertical ellipsis</string>
+	<key>UnicodeHex.22ef</key>
+	<string>ellipsis</string>
+	<key>UnicodeHex.22f0</key>
+	<string>up right diagonal ellipsis</string>
+	<key>UnicodeHex.22f1</key>
+	<string>down right diagonal ellipsis</string>
+	<key>UnicodeHex.2303</key>
+	<string>control</string>
+	<key>UnicodeHex.2318</key>
+	<string>command</string>
+	<key>UnicodeHex.2324</key>
+	<string>enter</string>
+	<key>UnicodeHex.2325</key>
+	<string>option</string>
+	<key>UnicodeHex.2326</key>
+	<string>forward delete</string>
+	<key>UnicodeHex.2327</key>
+	<string>clear</string>
+	<key>UnicodeHex.232b</key>
+	<string>delete</string>
+	<key>UnicodeHex.238b</key>
+	<string>escape</string>
+	<key>UnicodeHex.23de</key>
+	<string>top curly bracket</string>
+	<key>UnicodeHex.23df</key>
+	<string>bottom curly bracket</string>
+	<key>UnicodeHex.25a0</key>
+	<string>black square</string>
+	<key>UnicodeHex.25a1</key>
+	<string>white square</string>
+	<key>UnicodeHex.25c6</key>
+	<string>black diamond</string>
+	<key>UnicodeHex.25cf</key>
+	<string>black circle</string>
+	<key>UnicodeHex.25e6</key>
+	<string>white bullet</string>
+	<key>UnicodeHex.2605</key>
+	<string>star</string>
+	<key>UnicodeHex.2605.plural</key>
+	<string>stars</string>
+	<key>UnicodeHex.2606</key>
+	<string>white star</string>
+	<key>UnicodeHex.2606.plural</key>
+	<string>white stars</string>
+	<key>UnicodeHex.263b</key>
+	<string>smiley face</string>
+	<key>UnicodeHex.266d</key>
+	<string>flat</string>
+	<key>UnicodeHex.266f</key>
+	<string>sharp</string>
+	<key>UnicodeHex.270e</key>
+	<string>pencil</string>
+	<key>UnicodeHex.2713</key>
+	<string>check mark</string>
+	<key>UnicodeHex.2726</key>
+	<string>star</string>
+	<key>UnicodeHex.27e8</key>
+	<string>left angle bracket</string>
+	<key>UnicodeHex.27e9</key>
+	<string>right angle bracket</string>
+	<key>UnicodeHex.27f6</key>
+	<string>long right arrow</string>
+	<key>UnicodeHex.27fa</key>
+	<string>left right double arrow</string>
+	<key>UnicodeHex.3001</key>
+	<string>ideographic comma</string>
+	<key>UnicodeHex.3002</key>
+	<string>full stop</string>
+	<key>UnicodeHex.300c</key>
+	<string>left corner bracket</string>
+	<key>UnicodeHex.300d</key>
+	<string>right corner bracket</string>
+	<key>UnicodeHex.30fb</key>
+	<string>middle dot</string>
+	<key>UnicodeHex.30fc</key>
+	<string>prolonged sound mark</string>
+	<key>UnicodeHex.Alternate1.002e</key>
+	<string>dot</string>
+	<key>UnicodeHex.Math.0001d6a5</key>
+	<string>dotless j</string>
+	<key>UnicodeHex.Math.002d</key>
+	<string>minus</string>
+	<key>UnicodeHex.Math.00af</key>
+	<string>bar</string>
+	<key>UnicodeHex.Math.0131</key>
+	<string>dotless i</string>
+	<key>UnicodeHex.Math.0237</key>
+	<string>dotless j</string>
+	<key>UnicodeHex.Math.02d9</key>
+	<string>dot</string>
+	<key>UnicodeHex.Math.02dc</key>
+	<string>tilde</string>
+	<key>UnicodeHex.Math.0302</key>
+	<string>hat</string>
+	<key>UnicodeHex.Math.0332</key>
+	<string>bar</string>
+	<key>UnicodeHex.Math.2148</key>
+	<string>i</string>
+	<key>UnicodeHex.Math.27fa</key>
+	<string>if and only if</string>
+	<key>UnicodeHex.PhoneContext.0023</key>
+	<string>pound</string>
+	<key>UnicodeHex.PhoneContext.002a</key>
+	<string>star</string>
+	<key>UnicodeHex.PhoneContext.002d</key>
+	<string>dash</string>
+	<key>UnicodeHex.d835dcaf</key>
+	<string>script capital t</string>
+	<key>UnicodeHex.d835dcd0</key>
+	<string>script capital A</string>
+	<key>UnicodeHex.d835dcd1</key>
+	<string>script capital b</string>
+	<key>UnicodeHex.d835dcd2</key>
+	<string>script capital c</string>
+	<key>UnicodeHex.d835dcd3</key>
+	<string>script capital d</string>
+	<key>UnicodeHex.d835dcd4</key>
+	<string>script capital e</string>
+	<key>UnicodeHex.d835dcd5</key>
+	<string>script capital f</string>
+	<key>UnicodeHex.d835dcd6</key>
+	<string>script capital g</string>
+	<key>UnicodeHex.d835dcd7</key>
+	<string>script capital h</string>
+	<key>UnicodeHex.d835dcd8</key>
+	<string>script capital i</string>
+	<key>UnicodeHex.d835dcd9</key>
+	<string>script capital j</string>
+	<key>UnicodeHex.d835dcda</key>
+	<string>script capital k</string>
+	<key>UnicodeHex.d835dcdb</key>
+	<string>script capital l</string>
+	<key>UnicodeHex.d835dcdc</key>
+	<string>script capital m</string>
+	<key>UnicodeHex.d835dcdd</key>
+	<string>script capital n</string>
+	<key>UnicodeHex.d835dcde</key>
+	<string>script capital o</string>
+	<key>UnicodeHex.d835dcdf</key>
+	<string>script capital p</string>
+	<key>UnicodeHex.d835dce0</key>
+	<string>script capital q</string>
+	<key>UnicodeHex.d835dce1</key>
+	<string>script capital r</string>
+	<key>UnicodeHex.d835dce2</key>
+	<string>script capital s</string>
+	<key>UnicodeHex.d835dce3</key>
+	<string>script capital t</string>
+	<key>UnicodeHex.d835dce4</key>
+	<string>script capital u</string>
+	<key>UnicodeHex.d835dce5</key>
+	<string>script capital v</string>
+	<key>UnicodeHex.d835dce6</key>
+	<string>script capital w</string>
+	<key>UnicodeHex.d835dce7</key>
+	<string>script capital x</string>
+	<key>UnicodeHex.d835dce8</key>
+	<string>script capital y</string>
+	<key>UnicodeHex.d835dce9</key>
+	<string>script capital z</string>
+	<key>UnicodeHex.d835dcea</key>
+	<string>script a</string>
+	<key>UnicodeHex.d835dceb</key>
+	<string>script b</string>
+	<key>UnicodeHex.d835dcec</key>
+	<string>script c</string>
+	<key>UnicodeHex.d835dced</key>
+	<string>script d</string>
+	<key>UnicodeHex.d835dcee</key>
+	<string>script e</string>
+	<key>UnicodeHex.d835dcef</key>
+	<string>script t</string>
+	<key>UnicodeHex.d835dcf0</key>
+	<string>script g</string>
+	<key>UnicodeHex.d835dcf1</key>
+	<string>script h</string>
+	<key>UnicodeHex.d835dcf2</key>
+	<string>script i</string>
+	<key>UnicodeHex.d835dcf3</key>
+	<string>script j</string>
+	<key>UnicodeHex.d835dcf4</key>
+	<string>script k</string>
+	<key>UnicodeHex.d835dcf5</key>
+	<string>script l</string>
+	<key>UnicodeHex.d835dcf6</key>
+	<string>script m</string>
+	<key>UnicodeHex.d835dcf7</key>
+	<string>script n</string>
+	<key>UnicodeHex.d835dcf8</key>
+	<string>script o</string>
+	<key>UnicodeHex.d835dcf9</key>
+	<string>script p</string>
+	<key>UnicodeHex.d835dcfa</key>
+	<string>script q</string>
+	<key>UnicodeHex.d835dcfb</key>
+	<string>script r</string>
+	<key>UnicodeHex.d835dcfc</key>
+	<string>script s</string>
+	<key>UnicodeHex.d835dcfd</key>
+	<string>&lt;look it up...&gt;</string>
+	<key>UnicodeHex.d835dcfe</key>
+	<string>script u</string>
+	<key>UnicodeHex.d835dcff</key>
+	<string>script v</string>
+	<key>UnicodeHex.d835dd00</key>
+	<string>script w</string>
+	<key>UnicodeHex.d835dd01</key>
+	<string>script x</string>
+	<key>UnicodeHex.d835dd02</key>
+	<string>script y</string>
+	<key>UnicodeHex.d835dd03</key>
+	<string>script z</string>
+	<key>UnicodeHex.f700</key>
+	<string>up arrow</string>
+	<key>UnicodeHex.f701</key>
+	<string>down arrow</string>
+	<key>UnicodeHex.f702</key>
+	<string>left arrow</string>
+	<key>UnicodeHex.f703</key>
+	<string>right arrow</string>
+	<key>UnicodeHex.f704</key>
+	<string>F1</string>
+	<key>UnicodeHex.f705</key>
+	<string>F2</string>
+	<key>UnicodeHex.f706</key>
+	<string>F3</string>
+	<key>UnicodeHex.f707</key>
+	<string>F4</string>
+	<key>UnicodeHex.f708</key>
+	<string>F5</string>
+	<key>UnicodeHex.f709</key>
+	<string>F6</string>
+	<key>UnicodeHex.f70a</key>
+	<string>F7</string>
+	<key>UnicodeHex.f70b</key>
+	<string>F8</string>
+	<key>UnicodeHex.f70c</key>
+	<string>F9</string>
+	<key>UnicodeHex.f70d</key>
+	<string>F 10</string>
+	<key>UnicodeHex.f70e</key>
+	<string>F 11</string>
+	<key>UnicodeHex.f70f</key>
+	<string>F 12</string>
+	<key>UnicodeHex.f710</key>
+	<string>F 13</string>
+	<key>UnicodeHex.f711</key>
+	<string>F 14</string>
+	<key>UnicodeHex.f712</key>
+	<string>F 15</string>
+	<key>UnicodeHex.f713</key>
+	<string>F 16</string>
+	<key>UnicodeHex.f728</key>
+	<string>forward delete</string>
+	<key>UnicodeHex.f729</key>
+	<string>home</string>
+	<key>UnicodeHex.f72b</key>
+	<string>end</string>
+	<key>UnicodeHex.f72c</key>
+	<string>page up</string>
+	<key>UnicodeHex.f72d</key>
+	<string>page down</string>
+	<key>UnicodeHex.f739</key>
+	<string>clear</string>
+	<key>UnicodeHex.f746</key>
+	<string>help</string>
+	<key>UnicodeHex.f7d9</key>
+	<string>hide candidates</string>
+	<key>UnicodeHex.f7da</key>
+	<string>more candidates</string>
+	<key>UnicodeHex.f802</key>
+	<string>left pencil</string>
+	<key>UnicodeHex.f8ff</key>
+	<string>Apple</string>
+	<key>UnicodeHex.fe37</key>
+	<string>vertical left curly bracket</string>
+	<key>UnicodeHex.fe38</key>
+	<string>vertical right curly bracket</string>
+	<key>UnicodeHex.ff01</key>
+	<string>exclamation mark</string>
+	<key>UnicodeHex.ff02</key>
+	<string>fullwidth quotation mark</string>
+	<key>UnicodeHex.ff08</key>
+	<string>left paren</string>
+	<key>UnicodeHex.ff09</key>
+	<string>right paren</string>
+	<key>UnicodeHex.ff0c</key>
+	<string>comma</string>
+	<key>UnicodeHex.ff0f</key>
+	<string>forward slash</string>
+	<key>UnicodeHex.ff1a</key>
+	<string>colon</string>
+	<key>UnicodeHex.ff1b</key>
+	<string>semicolon</string>
+	<key>UnicodeHex.ff1c</key>
+	<string>less than</string>
+	<key>UnicodeHex.ff1e</key>
+	<string>greater than</string>
+	<key>UnicodeHex.ff1f</key>
+	<string>question mark</string>
+	<key>UnicodeHex.ff20</key>
+	<string>at</string>
+</dict>
+</plist>

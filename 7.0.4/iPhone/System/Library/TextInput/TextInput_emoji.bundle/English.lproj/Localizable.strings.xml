@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Nature Category</key>
+	<string>Nature</string>
+	<key>Objects Category</key>
+	<string>Objects</string>
+	<key>People Category</key>
+	<string>People</string>
+	<key>Places Category</key>
+	<string>Places</string>
+	<key>Recents</key>
+	<string>Recents</string>
+	<key>Recents Category</key>
+	<string>Recently Used</string>
+	<key>Recents Description</key>
+	<string>This section will automatically collect your most recent and frequently used icons.</string>
+	<key>Symbols Category</key>
+	<string>Symbols</string>
+</dict>
+</plist>

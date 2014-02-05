@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT_INVITATION_BUTTON</key>
+	<string>Accept</string>
+	<key>ADD_COMMENT_BUTTON_TITLE</key>
+	<string>Post</string>
+	<key>ADD_TO_PHOTO_STREAM</key>
+	<string>Add to Shared Album</string>
+	<key>CANCEL_PANO_BUTTON_TITLE</key>
+	<string>Cancel</string>
+	<key>CANNOT_ADD_PHOTOS_TITLE</key>
+	<string>“%@” is Full</string>
+	<key>CANNOT_ADD_SUBSCRIBERS_TITLE</key>
+	<string>Cannot Add Subscribers</string>
+	<key>CANNOT_ADD_SUBSCRIBER_BY_PHONES_MESSAGE</key>
+	<string>%@ phone numbers invited to “%@” cannot receive shared stream invitations.</string>
+	<key>CANNOT_ADD_SUBSCRIBER_BY_PHONES_TITLE</key>
+	<string>Some Invitations Not Delivered</string>
+	<key>CANNOT_ADD_SUBSCRIBER_BY_PHONE_MESSAGE</key>
+	<string>The phone number invited to “%@” cannot receive shared stream invitations.</string>
+	<key>CANNOT_ADD_SUBSCRIBER_BY_PHONE_TITLE</key>
+	<string>Invitation Not Delivered</string>
+	<key>CANNOT_CREATE_STREAM_TITLE</key>
+	<string>Cannot Create Photo Stream</string>
+	<key>CANNOT_CREATE_STREAM_TITLE_NO_ICLOUD_ACCOUNT_MESSAGE</key>
+	<string>Sign in to iCloud to create a new stream.</string>
+	<key>CANNOT_LIKE_ITEMS_ERROR_DESCRIPTION</key>
+	<string>Cannot Like Items</string>
+	<key>CANNOT_LIKE_ITEMS_LIMIT_REACHED_DESCRIPTION</key>
+	<string>These items have the maximum number of comments and likes allowed.</string>
+	<key>CANNOT_LIKE_PHOTOS_ERROR_DESCRIPTION</key>
+	<string>Cannot Like Photos</string>
+	<key>CANNOT_LIKE_PHOTOS_LIMIT_REACHED_DESCRIPTION</key>
+	<string>These photos have the maximum number of comments and likes allowed.</string>
+	<key>CANNOT_LIKE_PHOTO_ERROR_DESCRIPTION</key>
+	<string>Cannot Like Photo</string>
+	<key>CANNOT_LIKE_PHOTO_LIMIT_REACHED_DESCRIPTION</key>
+	<string>This photo has the maximum number of comments and likes allowed.</string>
+	<key>CANNOT_LIKE_VIDEO_ERROR_DESCRIPTION</key>
+	<string>Cannot Like Video</string>
+	<key>CANNOT_LIKE_VIDEO_LIMIT_REACHED_DESCRIPTION</key>
+	<string>This video has the maximum number of comments and likes allowed.</string>
+	<key>CANNOT_PLAY_STREAM_VIDEO_TITLE</key>
+	<string>Cannot Play Stream Video</string>
+	<key>CANNOT_SUBSCRIBE_TO_GENERIC_STREAM_TITLE</key>
+	<string>Cannot Join Shared Photo Stream</string>
+	<key>CANNOT_SUBSCRIBE_TO_NAMED_STREAM_TITLE</key>
+	<string>Cannot Join “%@”</string>
+	<key>COMMENT_BY</key>
+	<string>%@ %@</string>
+	<key>COMMENT_CANNOT_ADD_TITLE</key>
+	<string>Cannot Add Comments</string>
+	<key>COMMENT_NOT_POSTED_TITLE</key>
+	<string>Comment Not Posted</string>
+	<key>COMMENT_POST_NAVIGATION_BAR_TITLE</key>
+	<string>New Comment</string>
+	<key>COMMENT_POST_PLACEHOLDER</key>
+	<string>Add a comment…</string>
+	<key>COMMENT_POST_TITLE</key>
+	<string>Send</string>
+	<key>CONFIRM_INVITATION_MESSAGE</key>
+	<string>%@ invited you to join “%@”.</string>
+	<key>CONFIRM_INVITATION_MESSAGE_NO_ALBUM_TITLE</key>
+	<string>%@ invited you to join a Photo Stream.</string>
+	<key>CONFIRM_INVITATION_MESSAGE_NO_INVITER</key>
+	<string>You have been invited to join “%@”.</string>
+	<key>CONFIRM_INVITATION_TITLE</key>
+	<string>Shared Photo Stream</string>
+	<key>CONFIRM_OUTOFNETWORK_INVITATION_MESSAGE</key>
+	<string>%@ invited you to join “%@”.
+ You need to be logged into iCloud to be able to accept this invitation.</string>
+	<key>DECLINED</key>
+	<string>Declined</string>
+	<key>DECLINE_INVITATION_BUTTON</key>
+	<string>Decline</string>
+	<key>DELETE_OWNED_STREAM_CONFIRMATION</key>
+	<string>“%@” will be deleted from all of your devices and the devices of subscribers.</string>
+	<key>DELETE_OWNED_STREAM_CONFIRMATION_TITLE_HAS_ALBUM</key>
+	<string>This shared photo stream will be deleted from all of your devices and the devices of subscribers.</string>
+	<key>DELETE_PHOTO_STREAM</key>
+	<string>Delete Photo Stream</string>
+	<key>DELETE_SHARED_STREAM_PHOTOS_WARNING</key>
+	<string>These photos will be deleted from “%@” on all your devices and all subscribers’ devices.</string>
+	<key>DELETE_SHARED_STREAM_PHOTO_WARNING</key>
+	<string>This photo will be deleted from “%@” on all your devices and all subscribers’ devices.</string>
+	<key>DELETE_SHARED_STREAM_TITLE</key>
+	<string>Delete “%@”</string>
+	<key>DELETE_STREAM_BUTTON</key>
+	<string>Delete</string>
+	<key>DELETE_SUBSCRIBED_PHOTO_STREAM</key>
+	<string>Unsubscribe</string>
+	<key>DELETE_SUBSCRIBED_STREAM_BUTTON</key>
+	<string>Unsubscribe</string>
+	<key>DELETE_SUBSCRIBED_STREAM_CONFIRMATION</key>
+	<string>“%@” will be removed from all of your devices.</string>
+	<key>DELETE_SUBSCRIBED_STREAM_CONFIRMATION_TITLE_HAS_ALBUM</key>
+	<string>This shared photo stream will be removed from all of your devices.</string>
+	<key>DELETE_SUBSCRIBED_STREAM_TITLE</key>
+	<string>Unsubscribe from “%@”</string>
+	<key>DETAILS_BUTTON_TEXT</key>
+	<string>Details</string>
+	<key>DONE_PANO_BUTTON_TITLE</key>
+	<string>Done</string>
+	<key>EDIT_STREAM_PANE_TITLE</key>
+	<string>Edit Photo Stream</string>
+	<key>EVERYONE_ELSE</key>
+	<string>Everyone Else</string>
+	<key>FAILED</key>
+	<string>Failed</string>
+	<key>INVALID_ADDRESS_MESSAGE</key>
+	<string>“%@” does not appear to be a valid phone or email.</string>
+	<key>INVALID_ADDRESS_TITLE</key>
+	<string>Invalid Address</string>
+	<key>INVITED</key>
+	<string>Invited</string>
+	<key>INVITE_PEOPLE_ROW_LABEL</key>
+	<string>Invite People…</string>
+	<key>INVITE_PEOPLE_TITLE</key>
+	<string>Invite People</string>
+	<key>LARGE_COMMENT_COUNT</key>
+	<string>99+</string>
+	<key>LIKES_EMPTY_TITLE</key>
+	<string>Like</string>
+	<key>LIKES_MANY_WITHOUT_ME_FORMAT</key>
+	<string>Like • %@, and %@ like this.</string>
+	<key>LIKES_MANY_WITH_ME_FORMAT</key>
+	<string>You, %@, and %@ like this.</string>
+	<key>LIKES_ONE_WITHOUT_ME_FORMAT</key>
+	<string>Like • %@ likes this.</string>
+	<key>LIKES_ONE_WITH_ME_FORMAT</key>
+	<string>You and %@ like this.</string>
+	<key>LIKES_ONLY_ME</key>
+	<string>You like this.</string>
+	<key>LIKE_NOT_POSTED_TITLE</key>
+	<string>Cannot Like Photo</string>
+	<key>MULTIPLE_CONTRIBUTOR_LABEL</key>
+	<string>Subscribers Can Post</string>
+	<key>MULTIPLE_CONTRIBUTOR_OFF_FOOTER</key>
+	<string>Only you can add photos and videos to this photo stream.</string>
+	<key>MULTIPLE_CONTRIBUTOR_ON_FOOTER</key>
+	<string>You and the people you invite can add photos and videos to this photo stream.</string>
+	<key>NEW_COUNT_LABEL_0</key>
+	<string>0 New</string>
+	<key>NEW_COUNT_LABEL_1</key>
+	<string>1 New</string>
+	<key>NEW_COUNT_LABEL_N</key>
+	<string>%@ New</string>
+	<key>NEW_PHOTO_STREAM</key>
+	<string>New Photo Stream…</string>
+	<key>NEW_STREAM_ALBUM_NAME_LABEL</key>
+	<string>Name</string>
+	<key>NEW_STREAM_ALBUM_NAME_PLACEHOLDER</key>
+	<string>Photo Stream Name</string>
+	<key>NEW_STREAM_PANE_TITLE</key>
+	<string>Photo Stream</string>
+	<key>NOTIFICATION_LABEL</key>
+	<string>Notifications</string>
+	<key>OWNED_STREAMS_LIMIT_REACHED_MESSAGE</key>
+	<string>You can only have %@ shared photo streams. Delete an existing one and try again.</string>
+	<key>OWNER</key>
+	<string>Owner</string>
+	<key>OWNER_DISPLAY_NAME_WITH_EMAIL</key>
+	<string>%@ (%@)</string>
+	<key>PANO_ARROW_TEXT</key>
+	<string>Keep the arrow on the center line.</string>
+	<key>PANO_INSTRUCTIONAL_TEXT_iPhone</key>
+	<string>Move iPhone continuously when taking a Panorama.</string>
+	<key>PANO_INSTRUCTIONAL_TEXT_iPod touch</key>
+	<string>Move iPod continuously when taking a Panorama.</string>
+	<key>PANO_MOVE_DOWN_TEXT</key>
+	<string>Move Down</string>
+	<key>PANO_MOVE_UP_TEXT</key>
+	<string>Move Up</string>
+	<key>PANO_OPTION</key>
+	<string>Panorama</string>
+	<key>PANO_SPEED_TEXT</key>
+	<string>Slow Down</string>
+	<key>PHOTOS_IN_STREAM_LIMIT_REACHED_MESSAGE</key>
+	<string>You can only add %@ photos and videos to a shared photo stream.</string>
+	<key>PHOTO_CAPTIONED_BY</key>
+	<string>%@ %@</string>
+	<key>PHOTO_POSTED_BY</key>
+	<string>%@ %@</string>
+	<key>PHOTO_POSTED_BY_USER</key>
+	<string>Posted by %@</string>
+	<key>PHOTO_STREAM_SHARING_PEOPLE_PICKER_PROMT</key>
+	<string>Choose a contact to invite to this stream</string>
+	<key>PLACEHOLDER_NO_CONNECTION_ERROR_SUBTITLE_iPad</key>
+	<string>Your iPad is not connected to the Internet.</string>
+	<key>PLACEHOLDER_NO_CONNECTION_ERROR_SUBTITLE_iPad Simulator</key>
+	<string>Your iPad is not connected to the Internet.</string>
+	<key>PLACEHOLDER_NO_CONNECTION_ERROR_SUBTITLE_iPhone</key>
+	<string>Your iPhone is not connected to the Internet.</string>
+	<key>PLACEHOLDER_NO_CONNECTION_ERROR_SUBTITLE_iPhone Simulator</key>
+	<string>Your iPhone is not connected to the Internet.</string>
+	<key>PLACEHOLDER_NO_CONNECTION_ERROR_SUBTITLE_iPod touch</key>
+	<string>Your iPod is not connected to the Internet.</string>
+	<key>PLACEHOLDER_NO_CONNECTION_ERROR_TITLE</key>
+	<string>Cannot Load Photo</string>
+	<key>PUBLIC_WEBSITE_LABEL</key>
+	<string>Public Website</string>
+	<key>PUBLIC_WEBSITE_OFF_FOOTER</key>
+	<string>Allow anyone to view this shared photo stream on iCloud.com.</string>
+	<key>PUBLIC_WEBSITE_ON_FOOTER</key>
+	<string>Anyone can view this photo stream at:
+
+%@</string>
+	<key>PUBLISHING</key>
+	<string>Publishing…</string>
+	<key>PUBLISH_ALBUM_STREAMING_SERVICE</key>
+	<string>Photo Stream</string>
+	<key>RECENTS_FILTER_ALL</key>
+	<string>All</string>
+	<key>RECENTS_FILTER_RECENT</key>
+	<string>Recent</string>
+	<key>REMOVE_BUTTON</key>
+	<string>Remove</string>
+	<key>REMOVE_SUBSCRIBER</key>
+	<string>Remove Subscriber</string>
+	<key>REMOVE_SUBSCRIBER_CONFIRMATION</key>
+	<string>“%@” will be deleted from all of %@'s devices</string>
+	<key>RESEND_SHARING_INVITATION</key>
+	<string>Resend Invitation</string>
+	<key>SAVING_PANORAMA</key>
+	<string>Saving Panorama</string>
+	<key>SHARE_LINK</key>
+	<string>Share Link</string>
+	<key>STOP_PANO_BUTTON_TITLE_ALL_CAPS</key>
+	<string>DONE</string>
+	<key>STREAM_AUDIENCE_PERSON_AND_MANY_SUBTITLE</key>
+	<string>%@ and %@ more</string>
+	<key>STREAM_AUDIENCE_PERSON_AND_USER_SUBTITLE</key>
+	<string>%@ and You</string>
+	<key>STREAM_AUDIENCE_USER_AND_MANY_SUBTITLE</key>
+	<string>You and %@ more</string>
+	<key>STREAM_AUDIENCE_USER_AND_PERSON_SUBTITLE</key>
+	<string>You and %@</string>
+	<key>STREAM_AUDIENCE_USER_ONLY_SUBTITLE</key>
+	<string>You</string>
+	<key>STREAM_COMMENT_PANE_TITLE</key>
+	<string>Photo Stream</string>
+	<key>STREAM_COMMENT_PLACEHOLDER_TEXT</key>
+	<string>Comment (optional)</string>
+	<key>STREAM_CREATE_SHEET_BUTTON</key>
+	<string>Create</string>
+	<key>STREAM_NEXT_SHEET_BUTTON</key>
+	<string>Next</string>
+	<key>STREAM_NOTIFICATION_SWITCH_DESCRIPTION</key>
+	<string>Show notifications when subscribers like, comment, or add photos or videos to this shared stream.</string>
+	<key>STREAM_SHARED_BY_ME_SUBTITLE</key>
+	<string>Shared by You</string>
+	<key>STREAM_SHARED_BY_SUBTITLE</key>
+	<string>Shared by %@</string>
+	<key>STREAM_SHARED_SUBTITLE</key>
+	<string>Shared</string>
+	<key>SUBSCRIBERS_HEADER</key>
+	<string>Subscribers</string>
+	<key>SUBSCRIBERS_LIMIT_REACHED_MESSAGE</key>
+	<string>A shared photo stream can only have %@ subscribers.</string>
+	<key>SUBSCRIBER_MULTIPLE_CONTRIBUTOR_FOOTER</key>
+	<string>Subscribers can add photos and videos to this shared photo stream.</string>
+	<key>SUBSCRIBER_PUBLIC_WEBSITE_ON_FOOTER</key>
+	<string>This photo stream can also be viewed at:
+
+%@</string>
+	<key>SUBSCRIBE_STREAMS_LIMIT_REACHED_MESSAGE</key>
+	<string>You can only join %@ shared photo streams. Unsubscribe from one and try again.</string>
+	<key>TO</key>
+	<string>To:</string>
+	<key>TOO_MANY_CHARS_IN_COMMENT</key>
+	<string>Comments must be %@ characters or less.</string>
+	<key>TOO_MANY_COMMENTS_AND_LIKES</key>
+	<string>This photo has the maximum number of comments and likes allowed.</string>
+	<key>TURNING_OFF_PUBLIC_WEBSITE</key>
+	<string>Turning off public website…</string>
+	<key>UNSUBSCRIBED</key>
+	<string>Unsubscribed</string>
+	<key>VIDEO_CAPTIONED_BY</key>
+	<string>%@ %@</string>
+	<key>VIDEO_POSTED_BY</key>
+	<string>%@ %@</string>
+	<key>VIDEO_POSTED_BY_USER</key>
+	<string>Posted by %@</string>
+	<key>YOU_CAPTION</key>
+	<string>You</string>
+	<key>YOU_COMMENT</key>
+	<string>You</string>
+	<key>YOU_POSTED</key>
+	<string>you</string>
+</dict>
+</plist>

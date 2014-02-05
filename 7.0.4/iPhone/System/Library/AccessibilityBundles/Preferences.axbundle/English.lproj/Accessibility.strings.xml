@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.name</key>
+	<string>Settings</string>
+	<key>banner.alert.style</key>
+	<string>Banners selected. A small non-interrupting banner is displayed across the top of the screen.</string>
+	<key>brightness.control</key>
+	<string>Screen brightness</string>
+	<key>download.progress</key>
+	<string>Download progress</string>
+	<key>dynamic.type.slider</key>
+	<string>Font size</string>
+	<key>explicit</key>
+	<string>Explicit</string>
+	<key>modal.alert.style</key>
+	<string>Alerts selected. An interrupting alert dialog is displayed in the middle of the screen.</string>
+	<key>no.alert.style</key>
+	<string>No alerts selected. No alert will be displayed.</string>
+	<key>notification.style</key>
+	<string>Select notification style</string>
+	<key>pin.key.0</key>
+	<string>0</string>
+	<key>pin.key.1</key>
+	<string>1</string>
+	<key>pin.key.2</key>
+	<string>2</string>
+	<key>pin.key.3</key>
+	<string>3</string>
+	<key>pin.key.4</key>
+	<string>4</string>
+	<key>pin.key.5</key>
+	<string>5</string>
+	<key>pin.key.6</key>
+	<string>6</string>
+	<key>pin.key.7</key>
+	<string>7</string>
+	<key>pin.key.8</key>
+	<string>8</string>
+	<key>pin.key.9</key>
+	<string>9</string>
+	<key>pin.key.backspace</key>
+	<string>Delete</string>
+	<key>rating.format</key>
+	<string>Rating: %@</string>
+	<key>software.update.cell.count.plural</key>
+	<string>%@ updates available</string>
+	<key>software.update.cell.count.singular</key>
+	<string>%@ update available</string>
+	<key>sound.volume.control</key>
+	<string>Sound volume</string>
+	<key>speakingRate</key>
+	<string>Speaking rate</string>
+	<key>tracking.geofence.enabled</key>
+	<string>Monitoring your region with a geo fence</string>
+	<key>tracking.used.currently</key>
+	<string>Currently using your location</string>
+	<key>tracking.used.recently</key>
+	<string>Requested your location within the last 24 hours</string>
+</dict>
+</plist>

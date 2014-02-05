@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actions.button</key>
+	<string>Share</string>
+	<key>address.text</key>
+	<string>Address</string>
+	<key>addressbar.hint</key>
+	<string>Edits the URL</string>
+	<key>addressbar.minimized.hint</key>
+	<string>Double tap to show controls</string>
+	<key>application.name</key>
+	<string>Safari</string>
+	<key>bookmark.add.text</key>
+	<string>add bookmark</string>
+	<key>bookmark.address</key>
+	<string>Address</string>
+	<key>bookmark.button</key>
+	<string>%@ bookmark</string>
+	<key>bookmark.folder</key>
+	<string>Folder</string>
+	<key>bookmarks.and.reading.list.button.hint</key>
+	<string>Double tap to show bookmarks and reading list</string>
+	<key>bookmarks.and.reading.list.button.label</key>
+	<string>Catalog</string>
+	<key>bookmarks.bar</key>
+	<string>Bookmarks bar</string>
+	<key>bookmarks.nav.history</key>
+	<string>History</string>
+	<key>bookmarks.nav.icloud</key>
+	<string>iCloud Tabs</string>
+	<key>bookmarks.nav.social</key>
+	<string>Social Links</string>
+	<key>button.reload</key>
+	<string>reload</string>
+	<key>button.stop</key>
+	<string>stop</string>
+	<key>buttonbar.back.hint</key>
+	<string>Double tap and hold to open history</string>
+	<key>buttonbar.back.text</key>
+	<string>Back</string>
+	<key>buttonbar.bookmarks.text</key>
+	<string>Bookmarks</string>
+	<key>buttonbar.forward.text</key>
+	<string>Forward</string>
+	<key>buttonbar.fullscreen</key>
+	<string>Full-screen</string>
+	<key>buttonbar.icloud.text</key>
+	<string>iCloud</string>
+	<key>buttonbar.pages.text</key>
+	<string>Pages</string>
+	<key>close.page.button</key>
+	<string>Close page</string>
+	<key>close.tab.button</key>
+	<string>Close tab for %@</string>
+	<key>debug.console.button.hint</key>
+	<string>Shows error messages</string>
+	<key>decrease.font.size</key>
+	<string>Decrease text size</string>
+	<key>delete</key>
+	<string>Delete</string>
+	<key>dimmed.area</key>
+	<string>Return to web page</string>
+	<key>dimmed.area.hint</key>
+	<string>Double tap to interact with web page again</string>
+	<key>exit.fullscreen</key>
+	<string>Exit full screen</string>
+	<key>find.on.page.next</key>
+	<string>Next in-page result</string>
+	<key>find.on.page.previous</key>
+	<string>Previous in-page result</string>
+	<key>icloud.tab.hint</key>
+	<string>iCloud tab</string>
+	<key>increase.font.size</key>
+	<string>Increase text size</string>
+	<key>more.tabs.button</key>
+	<string>More Tabs</string>
+	<key>moved.after.tab</key>
+	<string>%@ moved after %@</string>
+	<key>moved.before.tab</key>
+	<string>%@ moved before %@</string>
+	<key>new.page.button</key>
+	<string>New page</string>
+	<key>new.tab.button</key>
+	<string>New tab</string>
+	<key>next.tab</key>
+	<string>Next tab, %@</string>
+	<key>previous.tab</key>
+	<string>Previous tab, %@</string>
+	<key>private.browsing.button</key>
+	<string>Private Browsing</string>
+	<key>private.browsing.button.disabled</key>
+	<string>Disabled</string>
+	<key>private.browsing.button.enabled</key>
+	<string>Enabled</string>
+	<key>reader.available</key>
+	<string>Reader available</string>
+	<key>reader.button</key>
+	<string>Reader</string>
+	<key>reader.button.active</key>
+	<string>Active</string>
+	<key>reader.button.hint</key>
+	<string>Shows or hides Safari Reader</string>
+	<key>reader.font.button</key>
+	<string>Text size</string>
+	<key>reading.list.button</key>
+	<string>Reading list</string>
+	<key>scrolling.page.status</key>
+	<string>Page %1$@ of %2$@</string>
+	<key>secure.icon</key>
+	<string>secure connection</string>
+	<key>secure.validated.icon</key>
+	<string>secure and validated connection</string>
+	<key>started.moving.tab</key>
+	<string>Moving tab</string>
+	<key>tab.hint</key>
+	<string>Double tap and hold, then move left or right to re-order.</string>
+	<key>tab.view</key>
+	<string>%@, Tab</string>
+	<key>tabs.button</key>
+	<string>Tabs</string>
+	<key>tabs.thumbnail.hint</key>
+	<string>Opens the web page</string>
+</dict>
+</plist>

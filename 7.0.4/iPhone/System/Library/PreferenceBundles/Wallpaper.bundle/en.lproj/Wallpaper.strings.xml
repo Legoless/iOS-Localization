@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CROP_BUTTON</key>
+	<string>Choose</string>
+	<key>CROP_WALLPAPER_TITLE</key>
+	<string>Move and Scale</string>
+	<key>SETTING_WALLPAPER</key>
+	<string>Setting Wallpaper</string>
+	<key>SET_BUTTON</key>
+	<string>Set</string>
+	<key>SET_WALLPAPER_TITLE</key>
+	<string>Wallpaper Preview</string>
+	<key>SOLID_TITLE</key>
+	<string>Solid %@</string>
+	<key>WALLPAPER</key>
+	<string>Wallpaper</string>
+	<key>WALLPAPER_HEADER</key>
+	<string>Wallpaper</string>
+</dict>
+</plist>

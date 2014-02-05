@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AIRPLAY_BUSY_ALERT_MESSAGE_FORMAT</key>
+	<string>“%@” is being used by someone else.</string>
+	<key>AIRPLAY_BUSY_ALERT_TITLE</key>
+	<string>AirPlay Speaker Not Available</string>
+	<key>AIRPLAY_BUSY_ATV_ALERT_TITLE</key>
+	<string>Apple TV Not Available</string>
+	<key>AIRPLAY_MIRRORING_ENABLED_LABEL</key>
+	<string>Mirroring</string>
+	<key>AIRPLAY_MIRRORING_IPAD_DESCRIPTION</key>
+	<string>With AirPlay Mirroring you can send everything on your iPad's display to an Apple TV, wirelessly.</string>
+	<key>AIRPLAY_MIRRORING_IPHONE_DESCRIPTION</key>
+	<string>With AirPlay Mirroring you can send everything on your iPhone's display to an Apple TV, wirelessly.</string>
+	<key>AIRPLAY_MIRRORING_IPOD_DESCRIPTION</key>
+	<string>With AirPlay Mirroring you can send everything on your iPod's display to an Apple TV, wirelessly.</string>
+	<key>AIRTUNES_PASSWORD_ALERT_MESSAGE_FORMAT</key>
+	<string>Enter the password for “%@”</string>
+	<key>AIRTUNES_PASSWORD_ALERT_TITLE</key>
+	<string>AirPlay Password</string>
+	<key>AIRTUNES_PIN_ALERT_MESSAGE_FORMAT</key>
+	<string>Enter the onscreen code for “%@”</string>
+	<key>AIRTUNES_PIN_ALERT_TITLE</key>
+	<string>AirPlay Passcode</string>
+	<key>AIRTUNES_POPOVER_TITLE</key>
+	<string>AirPlay</string>
+	<key>AIRTUNES_VIDEO_ALERT_BODY_FORMAT</key>
+	<string>Cannot play video on “%@”.</string>
+	<key>AIRTUNES_VIDEO_ALERT_TITLE</key>
+	<string>AirPlay</string>
+	<key>AIRTUNES_VIDEO_PLACEHOLDER_SUBTITLE_FORMAT</key>
+	<string>This video is playing on “%@”.</string>
+	<key>AIRTUNES_VIDEO_POPOVER_TITLE</key>
+	<string>AirPlay</string>
+	<key>AUDIOBOOKS+ITUNESU+PODCASTS_MOVED_ALERT_MESSAGE</key>
+	<string>Audiobooks are now in the iBooks app. Podcasts and iTunes U courses are in their own apps.</string>
+	<key>AUDIOBOOKS+ITUNESU+PODCASTS_MOVED_ALERT_TITLE</key>
+	<string>Audiobooks, iTunes U, and Podcasts Have Moved</string>
+	<key>AUDIOBOOKS+ITUNESU_MOVED_ALERT_MESSAGE</key>
+	<string>Audiobooks are now in the iBooks app. iTunes U courses are in the iTunes U app.</string>
+	<key>AUDIOBOOKS+ITUNESU_MOVED_ALERT_TITLE</key>
+	<string>Audiobooks and iTunes U Have Moved</string>
+	<key>AUDIOBOOKS+PODCASTS_MOVED_ALERT_MESSAGE</key>
+	<string>Audiobooks are now in the iBooks app. Podcasts are in the Podcasts app.</string>
+	<key>AUDIOBOOKS+PODCASTS_MOVED_ALERT_TITLE</key>
+	<string>Audiobooks and Podcasts Have Moved</string>
+	<key>AUDIOBOOKS_MOVED_ALERT_MESSAGE</key>
+	<string>Audiobooks are now in the iBooks app.</string>
+	<key>AUDIOBOOKS_MOVED_ALERT_TITLE</key>
+	<string>Audiobooks Have Moved</string>
+	<key>AUDIOBOOKS_MOVED_GO_TO_REPLACEMENT_APP_BUTTON</key>
+	<string>iBooks</string>
+	<key>AV_PLAYBACK_ERROR</key>
+	<string>An unknown playback error occurred</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CELL_RESTRICTED_ALERT_BODY</key>
+	<string>Connect to a Wi-Fi network to play “%@”.  You can enable cellular playback in Settings.</string>
+	<key>CELL_RESTRICTED_ALERT_CANCEL</key>
+	<string>Close</string>
+	<key>CELL_RESTRICTED_ALERT_SETTINGS</key>
+	<string>Settings</string>
+	<key>CELL_RESTRICTED_ALERT_TITLE</key>
+	<string>Cannot Play</string>
+	<key>CHAPTER_INDEX_FORMAT</key>
+	<string>Chapter %u</string>
+	<key>CHAPTER_TITLE_FORMAT</key>
+	<string>Chapter %u of %u</string>
+	<key>COULD_NOT_LOAD_MOVIE_ERROR_FMT</key>
+	<string>%@</string>
+	<key>DAYS_LEFT_FORMAT</key>
+	<string>%d Days Left</string>
+	<key>DAY_LEFT_FORMAT</key>
+	<string>%d Day Left</string>
+	<key>DEFAULT_GENIUS_PLAYLIST_NAME</key>
+	<string>Genius Playlist</string>
+	<key>DETAIL_SCRUB_INSTRUCTIONS</key>
+	<string>Slide your finger down to adjust the scrubbing rate.</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DOWNLOAD_ALL</key>
+	<string>Download All</string>
+	<key>DOWNLOAD_OVER_CELLULAR_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>DOWNLOAD_OVER_CELLULAR_DOWNLOAD_BUTTON</key>
+	<string>Download</string>
+	<key>DOWNLOAD_OVER_CELLULAR_MESSAGE</key>
+	<string>Additional fees may apply when downloading songs over cellular.</string>
+	<key>DOWNLOAD_OVER_CELLULAR_TITLE</key>
+	<string>Download Over Cellular?</string>
+	<key>EXPIRED</key>
+	<string>Expired</string>
+	<key>FILE_NOT_FOUND_ERROR</key>
+	<string>The file could not be found</string>
+	<key>FINE_SCRUBBING</key>
+	<string>Fine Scrubbing</string>
+	<key>GENERIC_COULD_NOT_LOAD_MOVIE</key>
+	<string>Could not load movie</string>
+	<key>GENIUS_FEATURE_NOT_AVAILABLE_SUBTITLE</key>
+	<string>Genius Playlists are not enabled.
+Use iTunes to enable Genius Playlists.</string>
+	<key>GENIUS_FEATURE_NOT_AVAILABLE_TITLE</key>
+	<string>Genius Playlists</string>
+	<key>GENIUS_MIX_OFFLINE</key>
+	<string>Offline</string>
+	<key>GENIUS_PICKER_NO_RESULTS_MESSAGE</key>
+	<string>This song does not have enough related songs to create a Genius Playlist.</string>
+	<key>GENIUS_PICKER_NO_RESULTS_TITLE</key>
+	<string>Try Again</string>
+	<key>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_ALL</key>
+	<string>Connect to a Wi-Fi or cellular network to create a Genius Playlist.</string>
+	<key>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_ALL_WLAN</key>
+	<string>Connect to a WLAN or cellular network to create a Genius Playlist.</string>
+	<key>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_CELLULAR</key>
+	<string>Connect to a cellular network to create a Genius Playlist.</string>
+	<key>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_WIFI</key>
+	<string>Connect to a Wi-Fi network to create a Genius Playlist.</string>
+	<key>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_WLAN</key>
+	<string>Connect to a WLAN network to create a Genius Playlist.</string>
+	<key>GENIUS_PLAYLIST_OFFLINE_TITLE</key>
+	<string>Genius Playlists</string>
+	<key>HALF_SPEED_SCRUBBING</key>
+	<string>Half-Speed Scrubbing</string>
+	<key>HDCP_PROTECTION_ERROR_BODY</key>
+	<string>The connected display is not authorized to play protected movies.</string>
+	<key>HDCP_PROTECTION_ERROR_TITLE</key>
+	<string>Cannot Play Movie</string>
+	<key>HI_SPEED_SCRUBBING</key>
+	<string>Hi-Speed Scrubbing</string>
+	<key>HOURS_LEFT_FORMAT</key>
+	<string>Expires in %d Hours</string>
+	<key>HOURS_LEFT_FORMAT_1</key>
+	<string>Expires in %d Hrs</string>
+	<key>HOURS_LEFT_FORMAT_2</key>
+	<string>Exp. in %d Hrs</string>
+	<key>HOUR_LEFT_FORMAT</key>
+	<string>Expires in %d Hour</string>
+	<key>HOUR_LEFT_FORMAT_1</key>
+	<string>Expires in %d Hr</string>
+	<key>HOUR_LEFT_FORMAT_2</key>
+	<string>Exp. in %d Hr</string>
+	<key>ITUNESU+PODCASTS_MOVED_ALERT_MESSAGE</key>
+	<string>Podcasts are now in the Podcasts app. iTunes U courses are in the iTunes U app.</string>
+	<key>ITUNESU+PODCASTS_MOVED_ALERT_TITLE</key>
+	<string>Podcasts and iTunes U Have Moved</string>
+	<key>ITUNESU_MOVED_ALERT_MESSAGE</key>
+	<string>iTunes U courses are now in the iTunes U app.</string>
+	<key>ITUNESU_MOVED_ALERT_TITLE</key>
+	<string>iTunes U Has Moved</string>
+	<key>ITUNESU_MOVED_GO_TO_REPLACEMENT_APP_BUTTON</key>
+	<string>iTunes U</string>
+	<key>ITUNES_MATCH_EXPIRED_BODY</key>
+	<string>You can renew your subscription using iTunes on a computer.</string>
+	<key>ITUNES_MATCH_EXPIRED_TITLE</key>
+	<string>iTunes Match Has Expired</string>
+	<key>LOADING_AUDIO_LABEL</key>
+	<string>Loading…</string>
+	<key>LOADING_MOVIE_LABEL</key>
+	<string>Loading…</string>
+	<key>Live</key>
+	<string>Live</string>
+	<key>MINUTES_LEFT_FORMAT</key>
+	<string>Expires in %d Minutes</string>
+	<key>MINUTES_LEFT_FORMAT_1</key>
+	<string>Expires in %d Mins</string>
+	<key>MINUTES_LEFT_FORMAT_2</key>
+	<string>Exp. in %d Mins</string>
+	<key>MINUTES_STRING_MINS_FORMAT</key>
+	<string>%d Mins</string>
+	<key>MINUTES_STRING_MINS_FORMAT_1</key>
+	<string>1 Min</string>
+	<key>MINUTE_LEFT_FORMAT</key>
+	<string>Expires in %d Minute</string>
+	<key>MINUTE_LEFT_FORMAT_1</key>
+	<string>Expires in %d Min</string>
+	<key>MINUTE_LEFT_FORMAT_2</key>
+	<string>Exp. in %d Min</string>
+	<key>NO_NETWORK_ALERT_BODY_ALL</key>
+	<string>Connect to a Wi-Fi or cellular network to play “%@”.</string>
+	<key>NO_NETWORK_ALERT_BODY_CELLULAR</key>
+	<string>Connect to a cellular network to play “%@”.</string>
+	<key>NO_NETWORK_ALERT_BODY_WIFI</key>
+	<string>Connect to a Wi-Fi network to play “%@”.</string>
+	<key>NO_NETWORK_ALERT_BUTTON</key>
+	<string>OK</string>
+	<key>NO_NETWORK_ALERT_TITLE</key>
+	<string>Cannot Play</string>
+	<key>NO_VOLUME_AVAILABLE</key>
+	<string>No Volume Available</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD_ALERT_PLACEHOLDER</key>
+	<string>Password</string>
+	<key>PLAYBACK_TIME_LONG</key>
+	<string>%d:%02d:%02d</string>
+	<key>PLAYBACK_TIME_SHORT</key>
+	<string>%d:%02d</string>
+	<key>PLAY_WHILE_DOWNLOAD_STATUS</key>
+	<string>Playing</string>
+	<key>PODCASTS_MOVED_ALERT_MESSAGE</key>
+	<string>Podcasts are now in the Podcasts app.</string>
+	<key>PODCASTS_MOVED_ALERT_TITLE</key>
+	<string>Podcasts Have Moved</string>
+	<key>PODCASTS_MOVED_GO_TO_REPLACEMENT_APP_BUTTON</key>
+	<string>Podcasts</string>
+	<key>POSITION_IN_PLAYLIST_ATTRIBUTED_FORMAT</key>
+	<string>#%1$d# of #%2$d#</string>
+	<key>POSITION_IN_PLAYLIST_FORMAT</key>
+	<string>%1$d of %2$d</string>
+	<key>POSITION_IN_PLAYLIST_INFO_PODCAST_TITLE</key>
+	<string>Podcast</string>
+	<key>PROGRESS_TIME_ALT_SHORT_WIDTH_HOURS_FORMAT</key>
+	<string>%@%d:%02dh</string>
+	<key>PROGRESS_TIME_FULL_WIDTH_HOURS_FORMAT</key>
+	<string>%@%02d:%02d:%02d</string>
+	<key>PROGRESS_TIME_FULL_WIDTH_NO_HOURS_FORMAT</key>
+	<string>%@%02d:%02d</string>
+	<key>PROGRESS_TIME_MINUTES_ONLY_FORMAT</key>
+	<string>%dm</string>
+	<key>PROGRESS_TIME_SHORT_WIDTH_HOURS_FORMAT</key>
+	<string>%@%d:%02d:%02d</string>
+	<key>PROGRESS_TIME_SHORT_WIDTH_NO_HOURS_FORMAT</key>
+	<string>%@%d:%02d</string>
+	<key>QUARTER_SPEED_SCRUBBING</key>
+	<string>Quarter-Speed Scrubbing</string>
+	<key>SEASON_DISPLAY_FORMAT</key>
+	<string>Season %@</string>
+	<key>SHORT_TIME_REMAINING_HR1_MIN_FMT</key>
+	<string>1hr %dm Left</string>
+	<key>SHORT_TIME_REMAINING_HRS_FMT</key>
+	<string>%dhr Left</string>
+	<key>SHORT_TIME_REMAINING_HRS_MIN_FMT</key>
+	<string>%dhr %dm Left</string>
+	<key>SHORT_TIME_REMAINING_MINS_FMT</key>
+	<string>%dm Left</string>
+	<key>SHORT_TIME_REMAINING_ONE_HR</key>
+	<string>1hr Left</string>
+	<key>SHORT_TIME_REMAINING_ONE_MIN</key>
+	<string>1m Left</string>
+	<key>STREAMING_AUDIO_LABEL</key>
+	<string>Streaming…</string>
+	<key>TVOUT_PLACEHOLDER_SUBTITLE</key>
+	<string>This video is playing on the TV.</string>
+	<key>TVOUT_PLACEHOLDER_TITLE</key>
+	<string>TV Connected</string>
+	<key>UNKNOWN_DURATION</key>
+	<string>--:--</string>
+	<key>UNKNOWN_TITLE</key>
+	<string>Unknown</string>
+	<key>UNSUPPORTED_FILE_TYPE_FORMAT</key>
+	<string>%@ is not a supported media type</string>
+	<key>VOLUME</key>
+	<string>Volume</string>
+</dict>
+</plist>

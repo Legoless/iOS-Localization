@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FROM_MY_COMPUTER_TYPE_MAC</key>
+	<string>From My Mac</string>
+	<key>FROM_MY_COMPUTER_TYPE_MAC_MID_SENTENCE</key>
+	<string>from My Mac</string>
+	<key>FROM_MY_COMPUTER_TYPE_PC</key>
+	<string>From My PC</string>
+	<key>FROM_MY_COMPUTER_TYPE_PC_MID_SENTENCE</key>
+	<string>from My PC</string>
+	<key>ON_MY_DEVICE_TYPE_IPAD</key>
+	<string>On My iPad</string>
+	<key>ON_MY_DEVICE_TYPE_IPHONE</key>
+	<string>On My iPhone</string>
+	<key>ON_MY_DEVICE_TYPE_IPHONE_SIMULATOR</key>
+	<string>On My iPhone Simulator</string>
+	<key>ON_MY_DEVICE_TYPE_IPOD</key>
+	<string>On My iPod touch</string>
+	<key>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPAD</key>
+	<string>on My iPad</string>
+	<key>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPHONE</key>
+	<string>on My iPhone</string>
+	<key>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPHONE_SIMULATOR</key>
+	<string>on My iPhone Simulator</string>
+	<key>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPOD</key>
+	<string>on My iPod touch</string>
+	<key>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPAD</key>
+	<string>on your iPad</string>
+	<key>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPHONE</key>
+	<string>on your iPhone</string>
+	<key>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPHONE_SIMULATOR</key>
+	<string>on your iPhone Simulator</string>
+	<key>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPOD</key>
+	<string>on your iPod touch</string>
+	<key>SYNCED_WITH_YOUR_COMPUTER_TYPE_MAC_MID_SENTENCE</key>
+	<string>synced with your Mac</string>
+	<key>SYNCED_WITH_YOUR_COMPUTER_TYPE_PC_MID_SENTENCE</key>
+	<string>synced with your PC</string>
+</dict>
+</plist>

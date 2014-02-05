@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FULL_REPLY</key>
+	<string>slide to reply</string>
+	<key>FULL_VIEW</key>
+	<string>slide to view</string>
+	<key>MADRID_MESSAGE</key>
+	<string>iMessage</string>
+	<key>MESSAGE_SEND_FAILED</key>
+	<string>Message Failed to Send</string>
+	<key>MESSAGE_SEND_TO_PERSON_FAILED_FORMAT</key>
+	<string>The message to %@ failed to send.</string>
+	<key>MESSAGE_SEND_TO_UNKNOWN_FAILED</key>
+	<string>The message failed to send.</string>
+	<key>REPLIED_TO</key>
+	<string>Replied to %@</string>
+	<key>REPLY</key>
+	<string>reply</string>
+	<key>TEXT_MESSAGE</key>
+	<string>Text Message</string>
+	<key>VIEW</key>
+	<string>view</string>
+</dict>
+</plist>

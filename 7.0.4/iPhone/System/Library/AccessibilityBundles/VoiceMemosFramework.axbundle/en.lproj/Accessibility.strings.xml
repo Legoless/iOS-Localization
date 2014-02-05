@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>choose.audio.route.button</key>
+	<string>Choose audio route</string>
+	<key>memo.date</key>
+	<string>Date</string>
+	<key>memo.length</key>
+	<string>Length</string>
+	<key>pause.recording.button</key>
+	<string>Pause recording</string>
+	<key>record.button</key>
+	<string>Record</string>
+	<key>speaker.button</key>
+	<string>Speaker</string>
+	<key>speaker.button.hint</key>
+	<string>Double tap to toggle speaker</string>
+	<key>start.trim</key>
+	<string>Start trimming</string>
+	<key>waveform.display</key>
+	<string>Waveform</string>
+	<key>waveform.selection.changed.end.time</key>
+	<string>Moved end of selection</string>
+	<key>waveform.selection.changed.start.time</key>
+	<string>Moved beginning of selection</string>
+	<key>waveform.selection.end.time.bar</key>
+	<string>End of selection</string>
+	<key>waveform.selection.hint</key>
+	<string>Double tap and hold, then drag to edit selection</string>
+	<key>waveform.selection.start.time.bar</key>
+	<string>Beginning of selection</string>
+</dict>
+</plist>

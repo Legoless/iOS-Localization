@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_LOCATION</key>
+	<string>Add Location</string>
+	<key>FACEBOOK_TITLE</key>
+	<string>Facebook</string>
+	<key>FAVORITES_LABEL</key>
+	<string>Favorites</string>
+	<key>LOCATING</key>
+	<string>Locating…</string>
+	<key>RETWEET_COUNT_PLURAL</key>
+	<string>Retweeted %1$@ times</string>
+	<key>RETWEET_COUNT_SINGULAR</key>
+	<string>Retweeted 1 time</string>
+	<key>RETWEET_LABEL</key>
+	<string>Retweets</string>
+	<key>TWEET_DETAIL_CREATION_DATE_FORMAT</key>
+	<string>M/d/yyyy, h:mma</string>
+	<key>TWEET_DETAIL_NAVIGATION_TITLE</key>
+	<string>Tweet</string>
+	<key>TWEET_DETAIL_RETWEETS_PLURAL</key>
+	<string>%1$@ Retweets</string>
+	<key>TWEET_DETAIL_RETWEETS_SINGULAR</key>
+	<string>1 Retweet</string>
+	<key>TWEET_DETAIL_RETWEET_AUTHOR</key>
+	<string>%1$@ retweeted</string>
+	<key>TWEET_DETAIL_RETWEET_UNKNOWN_AUTHOR</key>
+	<string>Retweeted</string>
+	<key>TWEET_POST_DATE_ABSOLUTE_FORMAT</key>
+	<string>MMM d</string>
+	<key>TWEET_POST_DATE_RELATIVE_HOURS</key>
+	<string>%1$@h</string>
+	<key>TWEET_POST_DATE_RELATIVE_MINUTES</key>
+	<string>%1$@m</string>
+	<key>TWEET_POST_DATE_RELATIVE_NOW</key>
+	<string>now</string>
+	<key>TWEET_POST_DATE_RELATIVE_SECONDS</key>
+	<string>%1$@s</string>
+	<key>TWITTER_HEADER</key>
+	<string>Twitter</string>
+	<key>TWITTER_SEE_MORE</key>
+	<string>See more in Twitter</string>
+	<key>TWITTER_TITLE</key>
+	<string>Tweet</string>
+	<key>TWITTER_VIEW_IN_TWITTER</key>
+	<string>View in Twitter</string>
+	<key>WEIBO_TITLE</key>
+	<string>Sina Weibo</string>
+</dict>
+</plist>

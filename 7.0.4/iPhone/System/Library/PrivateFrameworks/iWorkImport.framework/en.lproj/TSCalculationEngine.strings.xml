@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> The formula \U201C%@\U201D couldn\U2019t be imported.</key>
+	<string> The formula “%@” couldn’t be imported.</string>
+	<key> but found \U201C%@.\U201D</key>
+	<string> but found “%@.”</string>
+	<key> but found an empty cell.</key>
+	<string> but found an empty cell.</string>
+	<key> can\U2019t be %@.</key>
+	<string> can’t be %@.</string>
+	<key> can\U2019t take %@.</key>
+	<string> can’t take %@.</string>
+	<key> expects %@</key>
+	<string> expects %@</string>
+	<key>%@ can\U2019t be given multiple durations.</key>
+	<string>%@ can’t be given multiple durations.</string>
+	<key>%@ couldn\U2019t find the requested value.</key>
+	<string>%@ couldn’t find the requested value.</string>
+	<key>%@ couldn\U2019t find the value \U201C%@\U201D.</key>
+	<string>%1$@ couldn’t find the value “%2$@”.</string>
+	<key>%@ couldn\U2019t reach a result.</key>
+	<string>%@ couldn’t reach a result.</string>
+	<key>%@ couldn\U2019t reach a result. Try adjusting the estimate argument.</key>
+	<string>%@ couldn’t reach a result. Try adjusting the estimate argument.</string>
+	<key>%@ in %@ must be greater than %@ and less than %@.</key>
+	<string>%1$@ in %2$@ must be greater than %3$@ and less than %4$@.</string>
+	<key>%@ in %@ must be greater than %@ and less than or equal to %@.</key>
+	<string>%1$@ in %2$@ must be greater than %3$@ and less than or equal to %4$@.</string>
+	<key>%@ in %@ must be greater than %@.</key>
+	<string>%1$@ in %2$@ must be greater than %3$@.</string>
+	<key>%@ in %@ must be greater than or equal to %@ and less than %@.</key>
+	<string>%1$@ in %2$@ must be greater than or equal to %3$@ and less than %4$@.</string>
+	<key>%@ in %@ must be greater than or equal to %@ and less than or equal to %@.</key>
+	<string>%1$@ in %2$@ must be greater than or equal to %3$@ and less than or equal to %4$@.</string>
+	<key>%@ in %@ must be greater than or equal to %@.</key>
+	<string>%1$@ in %2$@ must be greater than or equal to %3$@.</string>
+	<key>%@ in %@ must be less than %@.</key>
+	<string>%1$@ in %2$@ must be less than %3$@.</string>
+	<key>%@ in %@ must be less than or equal to %@.</key>
+	<string>%1$@ in %2$@ must be less than or equal to %3$@.</string>
+	<key>%@ must begin searching from a number within the length of the search text.</key>
+	<string>%@ must begin searching from a number within the length of the search text.</string>
+	<key>%@ must have a cell or range reference as an argument.</key>
+	<string>%@ must have a cell or range reference as an argument.</string>
+	<key>%@ must have a cell reference as an argument.</key>
+	<string>%@ must have a cell reference as an argument.</string>
+	<key>%@ must have a range reference as an argument.</key>
+	<string>%@ must have a range reference as an argument.</string>
+	<key>%@ refers to %@, which is empty.</key>
+	<string>%1$@ refers to %2$@, which is empty.</string>
+	<key>%@ refers to an empty cell.</key>
+	<string>%@ refers to an empty cell.</string>
+	<key>%@ requires %@, but none were found.</key>
+	<string>%1$@ requires %2$@, but none were found.</string>
+	<key>%@ requires %@, but was given %@.</key>
+	<string>%1$@ requires %2$@, but was given %3$@.</string>
+	<key>%@ requires a string specifying a date/time value, but found \U201C%@\U201D instead.</key>
+	<string>%1$@ requires a string specifying a date/time value, but found “%2$@” instead.</string>
+	<key>%@ requires a string specifying a number, but found \U201C%@\U201D instead.</key>
+	<string>%1$@ requires a string specifying a number, but found “%2$@” instead.</string>
+	<key>%@ requires all arguments to be of the same type, either dates, numbers, or durations.</key>
+	<string>%@ requires all arguments to be of the same type, either dates, numbers, or durations.</string>
+	<key>%@ requires all numbers in argument %d to be positive.</key>
+	<string>%1$@ requires all numbers in argument %2$d to be positive.</string>
+	<key>%@ requires all values in argument %d to be numbers.</key>
+	<string>%1$@ requires all values in argument %2$d to be numbers.</string>
+	<key>%@ requires an even number of arguments.</key>
+	<string>%@ requires an even number of arguments.</string>
+	<key>%@ requires an odd number of arguments, at least three.</key>
+	<string>%@ requires an odd number of arguments, at least three.</string>
+	<key>%@ requires at least %@, but was given %@.</key>
+	<string>%1$@ requires at least %2$@, but was given %3$@.</string>
+	<key>%@ requires at least %@.</key>
+	<string>%1$@ requires at least %2$@.</string>
+	<key>%@ requires at least one positive and one negative argument.</key>
+	<string>%@ requires at least one positive and one negative argument.</string>
+	<key>%@ requires between %d and %d arguments, but was given %@.</key>
+	<string>%1$@ requires between %2$d and %3$d arguments, but was given %4$@.</string>
+	<key>%@ requires both arguments to be positive or negative.</key>
+	<string>%@ requires both arguments to be positive or negative.</string>
+	<key>%@ requires dates to be on or after the starting date.</key>
+	<string>%@ requires dates to be on or after the starting date.</string>
+	<key>%@ requires its arguments to result in a number within the valid range.</key>
+	<string>%@ requires its arguments to result in a number within the valid range.</string>
+	<key>%@ requires multiple pairs of cash-flows and dates.</key>
+	<string>%@ requires multiple pairs of cash-flows and dates.</string>
+	<key>%@ requires that all arguments be between 0 and 1.</key>
+	<string>%@ requires that all arguments be between 0 and 1.</string>
+	<key>%@ requires that all its arguments have the same type of unit (for example, time or temperature).</key>
+	<string>%@ requires that all its arguments have the same type of unit (for example, time or temperature).</string>
+	<key>%@ requires that all monetary values use the same currency.</key>
+	<string>%@ requires that all monetary values use the same currency.</string>
+	<key>%@ requires that all range arguments are the same size.</key>
+	<string>%@ requires that all range arguments are the same size.</string>
+	<key>%@ requires that arguments %@ use the same type of unit.</key>
+	<string>%1$@ requires that arguments %2$@ use the same type of unit.</string>
+	<key>%@ requires that its arguments use the same type of unit.</key>
+	<string>%@ requires that its arguments use the same type of unit.</string>
+	<key>%@ requires the position argument to be smaller than or equal to the size of the array.</key>
+	<string>%@ requires the position argument to be smaller than or equal to the size of the array.</string>
+	<key>%d arguments</key>
+	<string>%d arguments</string>
+	<key>, but cell %@ contains %@.</key>
+	<string>, but cell %1$@ contains %2$@.</string>
+	<key>1 and 2</key>
+	<string>1 and 2</string>
+	<key>1 and 3</key>
+	<string>1 and 3</string>
+	<key>1, 2, and 3</key>
+	<string>1, 2, and 3</string>
+	<key>1, 3, and 4</key>
+	<string>1, 3, and 4</string>
+	<key>2 and 3</key>
+	<string>2 and 3</string>
+	<key>ABS</key>
+	<string>ABS</string>
+	<key>ACCRINT</key>
+	<string>ACCRINT</string>
+	<key>ACCRINTM</key>
+	<string>ACCRINTM</string>
+	<key>ACOS</key>
+	<string>ACOS</string>
+	<key>ACOSH</key>
+	<string>ACOSH</string>
+	<key>ADDRESS</key>
+	<string>ADDRESS</string>
+	<key>ALTITUDE</key>
+	<string>ALTITUDE</string>
+	<key>AND</key>
+	<string>AND</string>
+	<key>AREAS</key>
+	<string>AREAS</string>
+	<key>ASIN</key>
+	<string>ASIN</string>
+	<key>ASINH</key>
+	<string>ASINH</string>
+	<key>ATAN</key>
+	<string>ATAN</string>
+	<key>ATAN2</key>
+	<string>ATAN2</string>
+	<key>ATANH</key>
+	<string>ATANH</string>
+	<key>AVEDEV</key>
+	<string>AVEDEV</string>
+	<key>AVERAGE</key>
+	<string>AVERAGE</string>
+	<key>AVERAGEA</key>
+	<string>AVERAGEA</string>
+	<key>AVERAGEIF</key>
+	<string>AVERAGEIF</string>
+	<key>AVERAGEIFS</key>
+	<string>AVERAGEIFS</string>
+	<key>Access to the location service was denied by the user.</key>
+	<string>Access to the location service was denied by the user.</string>
+	<key>All arguments must be equal to or larger than zero.</key>
+	<string>All arguments must be equal to or larger than zero.</string>
+	<key>All arguments to %@ must be the same length.</key>
+	<string>All arguments to %@ must be the same length.</string>
+	<key>An empty string can\U2019t be used as an argument of %@.</key>
+	<string>An empty string can’t be used as an argument of %@.</string>
+	<key>An x variable is too highly correlated with one or more other x variables for LINEST to calculate a result.</key>
+	<string>An x variable is too highly correlated with one or more other x variables for LINEST to calculate a result.</string>
+	<key>Argument %d</key>
+	<string>Argument %d</string>
+	<key>Argument %d can\U2019t be empty.</key>
+	<string>Argument %d can’t be empty.</string>
+	<key>Argument %d must be %@ argument %d.</key>
+	<string>Argument %1$d must be %2$@ argument %3$d.</string>
+	<key>Argument %d must be different from argument %d.</key>
+	<string>Argument %1$d must be different from argument %2$d.</string>
+	<key>Argument %d of %@</key>
+	<string>Argument %1$d of %2$@</string>
+	<key>Argument %d of %@ can\U2019t be a currency or duration.</key>
+	<string>Argument %1$d of %2$@ can’t be a currency or duration.</string>
+	<key>Argument %d of %@ can\U2019t be a currency.</key>
+	<string>Argument %1$d of %2$@ can’t be a currency.</string>
+	<key>Argument %d of %@ can\U2019t be a duration.</key>
+	<string>Argument %1$d of %2$@ can’t be a duration.</string>
+	<key>Argument %d of %@ can\U2019t be equal to zero.</key>
+	<string>Argument %1$d of %2$@ can’t be equal to zero.</string>
+	<key>Argument %d of %@ is invalid.</key>
+	<string>Argument %1$d of %2$@ is invalid.</string>
+	<key>Argument %d of %@ must be equal to 0 or 1.</key>
+	<string>Argument %1$d of %2$@ must be equal to 0 or 1.</string>
+	<key>Argument %d of %@ must be equal to 1 or 2.</key>
+	<string>Argument %1$d of %2$@ must be equal to 1 or 2.</string>
+	<key>Argument %d of %@ must be equal to 1, 2, or 4.</key>
+	<string>Argument %1$d of %2$@ must be equal to 1, 2, or 4.</string>
+	<key>Argument %d of %@ must sum to 1.</key>
+	<string>Argument %1$d of %2$@ must sum to 1.</string>
+	<key>Argument %d of %@ requires at least %@ values.</key>
+	<string>Argument %1$d of %2$@ requires at least %3$@ values.</string>
+	<key>Arguments %d and later</key>
+	<string>Arguments %d and later</string>
+	<key>Arguments %d and later of %@ can\U2019t be currency values.</key>
+	<string>Arguments %1$d and later of %2$@ can’t be currency values.</string>
+	<key>Arguments %d and later of %@ can\U2019t contain currency or duration values.</key>
+	<string>Arguments %1$d and later of %2$@ can’t contain currency or duration values.</string>
+	<key>Arrays can contain only constant values.</key>
+	<string>Arrays can contain only constant values.</string>
+	<key>Arrays can\U2019t be empty.</key>
+	<string>Arrays can’t be empty.</string>
+	<key>BASETONUM</key>
+	<string>BASETONUM</string>
+	<key>BEARING</key>
+	<string>BEARING</string>
+	<key>BESSELJ</key>
+	<string>BESSELJ</string>
+	<key>BESSELY</key>
+	<string>BESSELY</string>
+	<key>BETADIST</key>
+	<string>BETADIST</string>
+	<key>BETAINV</key>
+	<string>BETAINV</string>
+	<key>BIN2DEC</key>
+	<string>BIN2DEC</string>
+	<key>BIN2HEX</key>
+	<string>BIN2HEX</string>
+	<key>BIN2OCT</key>
+	<string>BIN2OCT</string>
+	<key>BINOMDIST</key>
+	<string>BINOMDIST</string>
+	<key>BONDDURATION</key>
+	<string>BONDDURATION</string>
+	<key>BONDMDURATION</key>
+	<string>BONDMDURATION</string>
+	<key>Bearing information can\U2019t be determined due to strong interference from nearby magnetic fields.</key>
+	<string>Bearing information can’t be determined due to strong interference from nearby magnetic fields.</string>
+	<key>Bearing information can\U2019t be determined right now.</key>
+	<string>Bearing information can’t be determined right now.</string>
+	<key>CEILING</key>
+	<string>CEILING</string>
+	<key>CHAR</key>
+	<string>CHAR</string>
+	<key>CHIDIST</key>
+	<string>CHIDIST</string>
+	<key>CHIINV</key>
+	<string>CHIINV</string>
+	<key>CHITEST</key>
+	<string>CHITEST</string>
+	<key>CHOOSE</key>
+	<string>CHOOSE</string>
+	<key>CLEAN</key>
+	<string>CLEAN</string>
+	<key>CODE</key>
+	<string>CODE</string>
+	<key>COLUMN</key>
+	<string>COLUMN</string>
+	<key>COLUMNS</key>
+	<string>COLUMNS</string>
+	<key>COMBIN</key>
+	<string>COMBIN</string>
+	<key>CONCATENATE</key>
+	<string>CONCATENATE</string>
+	<key>CONFIDENCE</key>
+	<string>CONFIDENCE</string>
+	<key>CONFIDENCE.T</key>
+	<string>CONFIDENCE.T</string>
+	<key>CONVERT</key>
+	<string>CONVERT</string>
+	<key>CORREL</key>
+	<string>CORREL</string>
+	<key>COS</key>
+	<string>COS</string>
+	<key>COSH</key>
+	<string>COSH</string>
+	<key>COUNT</key>
+	<string>COUNT</string>
+	<key>COUNTA</key>
+	<string>COUNTA</string>
+	<key>COUNTBLANK</key>
+	<string>COUNTBLANK</string>
+	<key>COUNTIF</key>
+	<string>COUNTIF</string>
+	<key>COUNTIFS</key>
+	<string>COUNTIFS</string>
+	<key>COUPDAYBS</key>
+	<string>COUPDAYBS</string>
+	<key>COUPDAYS</key>
+	<string>COUPDAYS</string>
+	<key>COUPDAYSNC</key>
+	<string>COUPDAYSNC</string>
+	<key>COUPNUM</key>
+	<string>COUPNUM</string>
+	<key>COVAR</key>
+	<string>COVAR</string>
+	<key>COVARIANCE.S</key>
+	<string>COVARIANCE.S</string>
+	<key>CRITBINOM</key>
+	<string>CRITBINOM</string>
+	<key>CUMIPMT</key>
+	<string>CUMIPMT</string>
+	<key>CUMPRINC</key>
+	<string>CUMPRINC</string>
+	<key>Cell \U201C%@\U201D contains an error.</key>
+	<string>Cell “%@” contains an error.</string>
+	<key>Cell values in the lookup range aren\U2019t sorted in ascending order.</key>
+	<string>Cell values in the lookup range aren’t sorted in ascending order.</string>
+	<key>Conditional formatting using the unsupported property \U201CStop if true\U201D was removed.</key>
+	<string>Conditional formatting using the unsupported property “Stop if true” was removed.</string>
+	<key>DATE</key>
+	<string>DATE</string>
+	<key>DATE day argument should be between 1 and 31.</key>
+	<string>DATE day argument should be between 1 and 31.</string>
+	<key>DATE month argument should be between 1 and 12.</key>
+	<string>DATE month argument should be between 1 and 12.</string>
+	<key>DATEDIF</key>
+	<string>DATEDIF</string>
+	<key>DATEVALUE</key>
+	<string>DATEVALUE</string>
+	<key>DAY</key>
+	<string>DAY</string>
+	<key>DAYNAME</key>
+	<string>DAYNAME</string>
+	<key>DAYS360</key>
+	<string>DAYS360</string>
+	<key>DB</key>
+	<string>DB</string>
+	<key>DDB</key>
+	<string>DDB</string>
+	<key>DEC2BIN</key>
+	<string>DEC2BIN</string>
+	<key>DEC2HEX</key>
+	<string>DEC2HEX</string>
+	<key>DEC2OCT</key>
+	<string>DEC2OCT</string>
+	<key>DEGREES</key>
+	<string>DEGREES</string>
+	<key>DELTA</key>
+	<string>DELTA</string>
+	<key>DEVSQ</key>
+	<string>DEVSQ</string>
+	<key>DISC</key>
+	<string>DISC</string>
+	<key>DOLLAR</key>
+	<string>DOLLAR</string>
+	<key>DUR2DAYS</key>
+	<string>DUR2DAYS</string>
+	<key>DUR2HOURS</key>
+	<string>DUR2HOURS</string>
+	<key>DUR2MILLISECONDS</key>
+	<string>DUR2MILLISECONDS</string>
+	<key>DUR2MINUTES</key>
+	<string>DUR2MINUTES</string>
+	<key>DUR2SECONDS</key>
+	<string>DUR2SECONDS</string>
+	<key>DUR2WEEKS</key>
+	<string>DUR2WEEKS</string>
+	<key>DURATION</key>
+	<string>DURATION</string>
+	<key>Date and Time</key>
+	<string>Date and Time</string>
+	<key>Different currency types can\U2019t be compared.</key>
+	<string>Different currency types can’t be compared.</string>
+	<key>Duration</key>
+	<string>Duration</string>
+	<key>Duration units were removed.</key>
+	<string>Duration units were removed.</string>
+	<key>Durations can\U2019t be compared to other data types.</key>
+	<string>Durations can’t be compared to other data types.</string>
+	<key>EDATE</key>
+	<string>EDATE</string>
+	<key>EFFECT</key>
+	<string>EFFECT</string>
+	<key>EOMONTH</key>
+	<string>EOMONTH</string>
+	<key>ERF</key>
+	<string>ERF</string>
+	<key>ERFC</key>
+	<string>ERFC</string>
+	<key>EVEN</key>
+	<string>EVEN</string>
+	<key>EXACT</key>
+	<string>EXACT</string>
+	<key>EXP</key>
+	<string>EXP</string>
+	<key>EXPONDIST</key>
+	<string>EXPONDIST</string>
+	<key>Engineering</key>
+	<string>Engineering</string>
+	<key>FACT</key>
+	<string>FACT</string>
+	<key>FACTDOUBLE</key>
+	<string>FACTDOUBLE</string>
+	<key>FALSE</key>
+	<string>FALSE</string>
+	<key>FDIST</key>
+	<string>FDIST</string>
+	<key>FIND</key>
+	<string>FIND</string>
+	<key>FINV</key>
+	<string>FINV</string>
+	<key>FIXED</key>
+	<string>FIXED</string>
+	<key>FLOOR</key>
+	<string>FLOOR</string>
+	<key>FORECAST</key>
+	<string>FORECAST</string>
+	<key>FREQUENCY</key>
+	<string>FREQUENCY</string>
+	<key>FV</key>
+	<string>FV</string>
+	<key>Financial</key>
+	<string>Financial</string>
+	<key>Formulas can\U2019t be longer than 8,192 characters.</key>
+	<string>Formulas can’t be longer than 8,192 characters.</string>
+	<key>Formulas must consist of more than a reference to a category cell.</key>
+	<string>Formulas must consist of more than a reference to a category cell.</string>
+	<key>GAMMADIST</key>
+	<string>GAMMADIST</string>
+	<key>GAMMAINV</key>
+	<string>GAMMAINV</string>
+	<key>GAMMALN</key>
+	<string>GAMMALN</string>
+	<key>GCD</key>
+	<string>GCD</string>
+	<key>GEOMEAN</key>
+	<string>GEOMEAN</string>
+	<key>GESTEP</key>
+	<string>GESTEP</string>
+	<key>HARMEAN</key>
+	<string>HARMEAN</string>
+	<key>HEX2BIN</key>
+	<string>HEX2BIN</string>
+	<key>HEX2DEC</key>
+	<string>HEX2DEC</string>
+	<key>HEX2OCT</key>
+	<string>HEX2OCT</string>
+	<key>HLOOKUP</key>
+	<string>HLOOKUP</string>
+	<key>HOUR</key>
+	<string>HOUR</string>
+	<key>HYPERLINK</key>
+	<string>HYPERLINK</string>
+	<key>IF</key>
+	<string>IF</string>
+	<key>IFERROR</key>
+	<string>IFERROR</string>
+	<key>INDEX</key>
+	<string>INDEX</string>
+	<key>INDIRECT</key>
+	<string>INDIRECT</string>
+	<key>INT</key>
+	<string>INT</string>
+	<key>INTERCEPT</key>
+	<string>INTERCEPT</string>
+	<key>INTERSECT.RANGES</key>
+	<string>INTERSECT.RANGES</string>
+	<key>INTRATE</key>
+	<string>INTRATE</string>
+	<key>IPMT</key>
+	<string>IPMT</string>
+	<key>IRR</key>
+	<string>IRR</string>
+	<key>ISBLANK</key>
+	<string>ISBLANK</string>
+	<key>ISERROR</key>
+	<string>ISERROR</string>
+	<key>ISEVEN</key>
+	<string>ISEVEN</string>
+	<key>ISEVEN arguments must be integers.</key>
+	<string>ISEVEN arguments must be integers.</string>
+	<key>ISODD</key>
+	<string>ISODD</string>
+	<key>ISODD arguments must be integers.</key>
+	<string>ISODD arguments must be integers.</string>
+	<key>ISPMT</key>
+	<string>ISPMT</string>
+	<key>LARGE</key>
+	<string>LARGE</string>
+	<key>LATITUDE</key>
+	<string>LATITUDE</string>
+	<key>LCM</key>
+	<string>LCM</string>
+	<key>LEFT</key>
+	<string>LEFT</string>
+	<key>LEN</key>
+	<string>LEN</string>
+	<key>LINEST</key>
+	<string>LINEST</string>
+	<key>LINEST requires more data points to calculate a result.</key>
+	<string>LINEST requires more data points to calculate a result.</string>
+	<key>LN</key>
+	<string>LN</string>
+	<key>LOG</key>
+	<string>LOG</string>
+	<key>LOG10</key>
+	<string>LOG10</string>
+	<key>LOGINV</key>
+	<string>LOGINV</string>
+	<key>LOGNORMDIST</key>
+	<string>LOGNORMDIST</string>
+	<key>LONGITUDE</key>
+	<string>LONGITUDE</string>
+	<key>LOOKUP</key>
+	<string>LOOKUP</string>
+	<key>LOWER</key>
+	<string>LOWER</string>
+	<key>Lists of references can\U2019t intersect.</key>
+	<string>Lists of references can’t intersect.</string>
+	<key>Location and Compass</key>
+	<string>Location and Compass</string>
+	<key>Location service is unable to obtain a location value right now.</key>
+	<string>Location service is unable to obtain a location value right now.</string>
+	<key>Location services are not enabled on the device.</key>
+	<string>Location services are not enabled on the device.</string>
+	<key>Logical &amp; Info</key>
+	<string>Logical &amp; Info</string>
+	<key>Logical and Information</key>
+	<string>Logical and Information</string>
+	<key>MATCH</key>
+	<string>MATCH</string>
+	<key>MATCH requires the third argument to be equal to 1, 0, or -1.</key>
+	<string>MATCH requires the third argument to be equal to 1, 0, or -1.</string>
+	<key>MAX</key>
+	<string>MAX</string>
+	<key>MAXA</key>
+	<string>MAXA</string>
+	<key>MEDIAN</key>
+	<string>MEDIAN</string>
+	<key>MID</key>
+	<string>MID</string>
+	<key>MIN</key>
+	<string>MIN</string>
+	<key>MINA</key>
+	<string>MINA</string>
+	<key>MINUTE</key>
+	<string>MINUTE</string>
+	<key>MIRR</key>
+	<string>MIRR</string>
+	<key>MOD</key>
+	<string>MOD</string>
+	<key>MODE</key>
+	<string>MODE</string>
+	<key>MODE requires that its arguments contain repeated values.</key>
+	<string>MODE requires that its arguments contain repeated values.</string>
+	<key>MODE.MULT</key>
+	<string>MODE.MULT</string>
+	<key>MONTH</key>
+	<string>MONTH</string>
+	<key>MONTHNAME</key>
+	<string>MONTHNAME</string>
+	<key>MROUND</key>
+	<string>MROUND</string>
+	<key>MULTINOMIAL</key>
+	<string>MULTINOMIAL</string>
+	<key>NEGBINOMDIST</key>
+	<string>NEGBINOMDIST</string>
+	<key>NETWORKDAYS</key>
+	<string>NETWORKDAYS</string>
+	<key>NOMINAL</key>
+	<string>NOMINAL</string>
+	<key>NORMDIST</key>
+	<string>NORMDIST</string>
+	<key>NORMINV</key>
+	<string>NORMINV</string>
+	<key>NORMSDIST</key>
+	<string>NORMSDIST</string>
+	<key>NORMSINV</key>
+	<string>NORMSINV</string>
+	<key>NOT</key>
+	<string>NOT</string>
+	<key>NOW</key>
+	<string>NOW</string>
+	<key>NPER</key>
+	<string>NPER</string>
+	<key>NPV</key>
+	<string>NPV</string>
+	<key>NUMTOBASE</key>
+	<string>NUMTOBASE</string>
+	<key>Numbers can\U2019t be divided by zero.</key>
+	<string>Numbers can’t be divided by zero.</string>
+	<key>Numeric</key>
+	<string>Numeric</string>
+	<key>OCT2BIN</key>
+	<string>OCT2BIN</string>
+	<key>OCT2DEC</key>
+	<string>OCT2DEC</string>
+	<key>OCT2HEX</key>
+	<string>OCT2HEX</string>
+	<key>ODD</key>
+	<string>ODD</string>
+	<key>OFFSET</key>
+	<string>OFFSET</string>
+	<key>OR</key>
+	<string>OR</string>
+	<key>PERCENTILE</key>
+	<string>PERCENTILE</string>
+	<key>PERCENTILE.EXC</key>
+	<string>PERCENTILE.EXC</string>
+	<key>PERCENTRANK</key>
+	<string>PERCENTRANK</string>
+	<key>PERCENTRANK requires that argument 2 be within the range specified in argument 1.</key>
+	<string>PERCENTRANK requires that argument 2 be within the range specified in argument 1.</string>
+	<key>PERCENTRANK.EXC</key>
+	<string>PERCENTRANK.EXC</string>
+	<key>PERCENTRANK.EXC requires that argument 2 be within the range specified in argument 1.</key>
+	<string>PERCENTRANK.EXC requires that argument 2 be within the range specified in argument 1.</string>
+	<key>PERMUT</key>
+	<string>PERMUT</string>
+	<key>PI</key>
+	<string>PI</string>
+	<key>PMT</key>
+	<string>PMT</string>
+	<key>POISSON</key>
+	<string>POISSON</string>
+	<key>POLYNOMIAL</key>
+	<string>POLYNOMIAL</string>
+	<key>POWER</key>
+	<string>POWER</string>
+	<key>PPMT</key>
+	<string>PPMT</string>
+	<key>PRICE</key>
+	<string>PRICE</string>
+	<key>PRICEDISC</key>
+	<string>PRICEDISC</string>
+	<key>PRICEMAT</key>
+	<string>PRICEMAT</string>
+	<key>PROB</key>
+	<string>PROB</string>
+	<key>PRODUCT</key>
+	<string>PRODUCT</string>
+	<key>PROPER</key>
+	<string>PROPER</string>
+	<key>PV</key>
+	<string>PV</string>
+	<key>Prefixes require metric units. The unit \U201C%@\U201D isn\U2019t metric.</key>
+	<string>Prefixes require metric units. The unit “%@” isn’t metric.</string>
+	<key>QUARTILE</key>
+	<string>QUARTILE</string>
+	<key>QUARTILE.EXC</key>
+	<string>QUARTILE.EXC</string>
+	<key>QUOTIENT</key>
+	<string>QUOTIENT</string>
+	<key>R1C1-style references aren\U2019t supported.</key>
+	<string>R1C1-style references aren’t supported.</string>
+	<key>RADIANS</key>
+	<string>RADIANS</string>
+	<key>RAND</key>
+	<string>RAND</string>
+	<key>RANDBETWEEN</key>
+	<string>RANDBETWEEN</string>
+	<key>RANDBETWEEN requires that both durations have the same maximum unit.</key>
+	<string>RANDBETWEEN requires that both durations have the same maximum unit.</string>
+	<key>RANK</key>
+	<string>RANK</string>
+	<key>RANK.AVG</key>
+	<string>RANK.AVG</string>
+	<key>RATE</key>
+	<string>RATE</string>
+	<key>RECEIVED</key>
+	<string>RECEIVED</string>
+	<key>RECEIVED must evaluate to a value greater than zero.</key>
+	<string>RECEIVED must evaluate to a value greater than zero.</string>
+	<key>REPLACE</key>
+	<string>REPLACE</string>
+	<key>REPT</key>
+	<string>REPT</string>
+	<key>RIGHT</key>
+	<string>RIGHT</string>
+	<key>ROMAN</key>
+	<string>ROMAN</string>
+	<key>ROUND</key>
+	<string>ROUND</string>
+	<key>ROUNDDOWN</key>
+	<string>ROUNDDOWN</string>
+	<key>ROUNDUP</key>
+	<string>ROUNDUP</string>
+	<key>ROW</key>
+	<string>ROW</string>
+	<key>ROWS</key>
+	<string>ROWS</string>
+	<key>Reference</key>
+	<string>Reference</string>
+	<key>SEARCH</key>
+	<string>SEARCH</string>
+	<key>SECOND</key>
+	<string>SECOND</string>
+	<key>SERIESSUM</key>
+	<string>SERIESSUM</string>
+	<key>SIGN</key>
+	<string>SIGN</string>
+	<key>SIN</key>
+	<string>SIN</string>
+	<key>SINH</key>
+	<string>SINH</string>
+	<key>SLN</key>
+	<string>SLN</string>
+	<key>SLOPE</key>
+	<string>SLOPE</string>
+	<key>SMALL</key>
+	<string>SMALL</string>
+	<key>SQRT</key>
+	<string>SQRT</string>
+	<key>SQRTPI</key>
+	<string>SQRTPI</string>
+	<key>STANDARDIZE</key>
+	<string>STANDARDIZE</string>
+	<key>STDEV</key>
+	<string>STDEV</string>
+	<key>STDEVA</key>
+	<string>STDEVA</string>
+	<key>STDEVP</key>
+	<string>STDEVP</string>
+	<key>STDEVPA</key>
+	<string>STDEVPA</string>
+	<key>STRIPDURATION</key>
+	<string>STRIPDURATION</string>
+	<key>SUBSTITUTE</key>
+	<string>SUBSTITUTE</string>
+	<key>SUBTOTAL</key>
+	<string>SUBTOTAL</string>
+	<key>SUBTOTAL requires that its first argument be between 1 and 11 or 101 and 111.</key>
+	<string>SUBTOTAL requires that its first argument be between 1 and 11 or 101 and 111.</string>
+	<key>SUM</key>
+	<string>SUM</string>
+	<key>SUMIF</key>
+	<string>SUMIF</string>
+	<key>SUMIFS</key>
+	<string>SUMIFS</string>
+	<key>SUMPRODUCT</key>
+	<string>SUMPRODUCT</string>
+	<key>SUMSQ</key>
+	<string>SUMSQ</string>
+	<key>SUMX2MY2</key>
+	<string>SUMX2MY2</string>
+	<key>SUMX2PY2</key>
+	<string>SUMX2PY2</string>
+	<key>SUMXMY2</key>
+	<string>SUMXMY2</string>
+	<key>SYD</key>
+	<string>SYD</string>
+	<key>Statistical</key>
+	<string>Statistical</string>
+	<key>T</key>
+	<string>T</string>
+	<key>TAN</key>
+	<string>TAN</string>
+	<key>TANH</key>
+	<string>TANH</string>
+	<key>TDIST</key>
+	<string>TDIST</string>
+	<key>TEXT</key>
+	<string>TEXT</string>
+	<key>TIME</key>
+	<string>TIME</string>
+	<key>TIMEVALUE</key>
+	<string>TIMEVALUE</string>
+	<key>TINV</key>
+	<string>TINV</string>
+	<key>TODAY</key>
+	<string>TODAY</string>
+	<key>TRANSPOSE</key>
+	<string>TRANSPOSE</string>
+	<key>TRIM</key>
+	<string>TRIM</string>
+	<key>TRUE</key>
+	<string>TRUE</string>
+	<key>TRUNC</key>
+	<string>TRUNC</string>
+	<key>TTEST</key>
+	<string>TTEST</string>
+	<key>Text</key>
+	<string>Text</string>
+	<key>The \U201C%@\U201D function might produce a different result.</key>
+	<string>The “%@” function might produce a different result.</string>
+	<key>The altitude value is invalid</key>
+	<string>The altitude value is invalid</string>
+	<key>The array formula was replaced by the last calculated value.</key>
+	<string>The array formula was replaced by the last calculated value.</string>
+	<key>The bearing value is invalid</key>
+	<string>The bearing value is invalid</string>
+	<key>The complex reference was replaced by the last calculated value.</key>
+	<string>The complex reference was replaced by the last calculated value.</string>
+	<key>The conditional formatting containing an unsupported operator was removed.</key>
+	<string>The conditional formatting containing an unsupported operator was removed.</string>
+	<key>The conditional formatting containing an unsupported time period was removed.</key>
+	<string>The conditional formatting containing an unsupported time period was removed.</string>
+	<key>The conditional formatting containing unsupported style attributes was removed.</key>
+	<string>The conditional formatting containing unsupported style attributes was removed.</string>
+	<key>The conditional formatting rules using formulas were removed.</key>
+	<string>The conditional formatting rules using formulas were removed.</string>
+	<key>The conditional formatting rules weren\U2019t all the same type and were removed.</key>
+	<string>The conditional formatting rules weren’t all the same type and were removed.</string>
+	<key>The date returned by the formula isn\U2019t valid.</key>
+	<string>The date returned by the formula isn’t valid.</string>
+	<key>The error in the cell was removed.</key>
+	<string>The error in the cell was removed.</string>
+	<key>The first argument of %@ must be an index of another argument, but there is no argument at index %d.</key>
+	<string>The first argument of %1$@ must be an index of another argument, but there is no argument at index %2$d.</string>
+	<key>The first argument of CHAR must represent a valid character, generally between 32 and 65535.</key>
+	<string>The first argument of CHAR must represent a valid character, generally between 32 and 65535.</string>
+	<key>The formula calculates zero to the power of zero, which can\U2019t be computed.</key>
+	<string>The formula calculates zero to the power of zero, which can’t be computed.</string>
+	<key>The formula can\U2019t be calculated because the resulting text would be too long.</key>
+	<string>The formula can’t be calculated because the resulting text would be too long.</string>
+	<key>The formula compares %@ to %@.</key>
+	<string>The formula compares %1$@ to %2$@.</string>
+	<key>The formula contained a 2D array and was replaced by the last calculated value.</key>
+	<string>The formula contained a 2D array and was replaced by the last calculated value.</string>
+	<key>The formula contained a 3D reference and was replaced by the last calculated value.</key>
+	<string>The formula contained a 3D reference and was replaced by the last calculated value.</string>
+	<key>The formula contained a reference to a cell that wasn\U2019t imported and was replaced by the last calculated value.</key>
+	<string>The formula contained a reference to a cell that wasn’t imported and was replaced by the last calculated value.</string>
+	<key>The formula contained a reference to another document which was replaced by the last calculated value.</key>
+	<string>The formula contained a reference to another document which was replaced by the last calculated value.</string>
+	<key>The formula contained an undefined range and was replaced by the last calculated value.</key>
+	<string>The formula contained an undefined range and was replaced by the last calculated value.</string>
+	<key>The formula contains a list where a single argument is expected.</key>
+	<string>The formula contains a list where a single argument is expected.</string>
+	<key>The formula contains a number outside the valid range.</key>
+	<string>The formula contains a number outside the valid range.</string>
+	<key>The formula contains a page number or page count, which aren\U2019t allowed in formulas.</key>
+	<string>The formula contains a page number or page count, which aren’t allowed in formulas.</string>
+	<key>The formula contains a syntax error.</key>
+	<string>The formula contains a syntax error.</string>
+	<key>The formula contains an invalid reference.</key>
+	<string>The formula contains an invalid reference.</string>
+	<key>The formula couldn\U2019t be imported. The last calculated value was used.</key>
+	<string>The formula couldn’t be imported. The last calculated value was used.</string>
+	<key>The formula refers to %@, which contains a cell without a number.</key>
+	<string>The formula refers to %@, which contains a cell without a number.</string>
+	<key>The formula refers to %@, which contains cells without numbers.</key>
+	<string>The formula refers to %@, which contains cells without numbers.</string>
+	<key>The formula refers to %@, which contains empty cells.</key>
+	<string>The formula refers to %@, which contains empty cells.</string>
+	<key>The formula refers to %@, which is empty.</key>
+	<string>The formula refers to %@, which is empty.</string>
+	<key>The formula refers to a cell which contains an error.</key>
+	<string>The formula refers to a cell which contains an error.</string>
+	<key>The formula refers to a cell with a shape or media file. This isn\U2019t supported.</key>
+	<string>The formula refers to a cell with a shape or media file. This isn’t supported.</string>
+	<key>The formula refers to cells without numbers.</key>
+	<string>The formula refers to cells without numbers.</string>
+	<key>The formula uses a Boolean in place of a number.</key>
+	<string>The formula uses a Boolean in place of a number.</string>
+	<key>The formula\U2019s arguments can only include one date value.</key>
+	<string>The formula’s arguments can only include one date value.</string>
+	<key>The function \U201C%@\U201D</key>
+	<string>The function “%@”</string>
+	<key>The function \U201C%@\U201D expects %@ but found a duration.</key>
+	<string>The function “%1$@” expects %2$@ but found a duration.</string>
+	<key>The function doesn\U2019t allow empty arguments.</key>
+	<string>The function doesn’t allow empty arguments.</string>
+	<key>The index position in the array must contain data.</key>
+	<string>The index position in the array must contain data.</string>
+	<key>The latitude and longitude values are invalid</key>
+	<string>The latitude and longitude values are invalid</string>
+	<key>The link is invalid.</key>
+	<string>The link is invalid.</string>
+	<key>The name \U201C%@\U201D in the formula couldn\U2019t be imported because cell references can\U2019t be part of a constant array. The last calculated value was used.</key>
+	<string>The name “%@” in the formula couldn’t be imported because cell references can’t be part of a constant array. The last calculated value was used.</string>
+	<key>The name \U201C%@\U201D in the formula couldn\U2019t be imported. The last calculated value was used.</key>
+	<string>The name “%@” in the formula couldn’t be imported. The last calculated value was used.</string>
+	<key>The natural language formula was replaced by the last calculated value.</key>
+	<string>The natural language formula was replaced by the last calculated value.</string>
+	<key>The network was unavailable or a network error occurred.</key>
+	<string>The network was unavailable or a network error occurred.</string>
+	<key>The number to convert has units that conflict with the units to convert from.</key>
+	<string>The number to convert has units that conflict with the units to convert from.</string>
+	<key>The operator \U201C%@\U201D</key>
+	<string>The operator “%@”</string>
+	<key>The operator \U201C-\U201D can\U2019t subtract a date from a number.</key>
+	<string>The operator “-” can’t subtract a date from a number.</string>
+	<key>The range %@ can\U2019t be used as a single value.</key>
+	<string>The range %@ can’t be used as a single value.</string>
+	<key>The ranges given to SUMIF have different sizes.</key>
+	<string>The ranges given to SUMIF have different sizes.</string>
+	<key>The time returned by the formula isn\U2019t valid.</key>
+	<string>The time returned by the formula isn’t valid.</string>
+	<key>The two ranges in %@ must be the same size.</key>
+	<string>The two ranges in %@ must be the same size.</string>
+	<key>The units of all arguments were converted to match the units of the first argument.</key>
+	<string>The units of all arguments were converted to match the units of the first argument.</string>
+	<key>The unsupported conditional formatting rule \U201CContains Blanks\U201D was removed.</key>
+	<string>The unsupported conditional formatting rule “Contains Blanks” was removed.</string>
+	<key>The unsupported conditional formatting rule \U201CContains Errors\U201D was removed.</key>
+	<string>The unsupported conditional formatting rule “Contains Errors” was removed.</string>
+	<key>The unsupported conditional formatting rule \U201CNot Contains Blanks\U201D was removed.</key>
+	<string>The unsupported conditional formatting rule “Not Contains Blanks” was removed.</string>
+	<key>The unsupported conditional formatting rule \U201CNot Contains Errors\U201D was removed.</key>
+	<string>The unsupported conditional formatting rule “Not Contains Errors” was removed.</string>
+	<key>The unsupported conditional formatting rules \U201CEqual or Above Average\U201D or \U201CEqual or Below Average\U201D were removed.</key>
+	<string>The unsupported conditional formatting rules “Equal or Above Average” or “Equal or Below Average” were removed.</string>
+	<key>The unsupported conditional formatting rules using standard deviation were removed.</key>
+	<string>The unsupported conditional formatting rules using standard deviation were removed.</string>
+	<key>The unsupported conditional formatting was removed.</key>
+	<string>The unsupported conditional formatting was removed.</string>
+	<key>The unsupported number formatting was removed.</key>
+	<string>The unsupported number formatting was removed.</string>
+	<key>The x and y arrays must have the same length and width.</key>
+	<string>The x and y arrays must have the same length and width.</string>
+	<key>The x and y arrays must have the same length.</key>
+	<string>The x and y arrays must have the same length.</string>
+	<key>The x and y arrays must have the same width.</key>
+	<string>The x and y arrays must have the same width.</string>
+	<key>There are no cells in the intersection of the ranges \U201C%@.\U201D</key>
+	<string>There are no cells in the intersection of the ranges “%@.”</string>
+	<key>This formula can\U2019t reference its own cell, or depend on another formula that references this cell.</key>
+	<string>This formula can’t reference its own cell, or depend on another formula that references this cell.</string>
+	<key>Trigonometric</key>
+	<string>Trigonometric</string>
+	<key>UNION.RANGES</key>
+	<string>UNION.RANGES</string>
+	<key>UPPER</key>
+	<string>UPPER</string>
+	<key>Unable to contact remote data provider. Using cached value, which was retrieved %@.</key>
+	<string>Unable to contact remote data provider. Using cached value, which was retrieved %@.</string>
+	<key>VALUE</key>
+	<string>VALUE</string>
+	<key>VAR</key>
+	<string>VAR</string>
+	<key>VARA</key>
+	<string>VARA</string>
+	<key>VARP</key>
+	<string>VARP</string>
+	<key>VARPA</key>
+	<string>VARPA</string>
+	<key>VDB</key>
+	<string>VDB</string>
+	<key>VLOOKUP</key>
+	<string>VLOOKUP</string>
+	<key>Values being summed by %@ must be either all durations or all numbers, unless one value is a date.</key>
+	<string>Values being summed by %@ must be either all durations or all numbers, unless one value is a date.</string>
+	<key>Vector arguments can contain only one row or column.</key>
+	<string>Vector arguments can contain only one row or column.</string>
+	<key>WEEKDAY</key>
+	<string>WEEKDAY</string>
+	<key>WEEKNUM</key>
+	<string>WEEKNUM</string>
+	<key>WEIBULL</key>
+	<string>WEIBULL</string>
+	<key>WORKDAY</key>
+	<string>WORKDAY</string>
+	<key>When using duration values with NORMDIST, the cumulative argument must be TRUE.</key>
+	<string>When using duration values with NORMDIST, the cumulative argument must be TRUE.</string>
+	<key>YEAR</key>
+	<string>YEAR</string>
+	<key>YEARFRAC</key>
+	<string>YEARFRAC</string>
+	<key>YIELD</key>
+	<string>YIELD</string>
+	<key>YIELDDISC</key>
+	<string>YIELDDISC</string>
+	<key>YIELDMAT</key>
+	<string>YIELDMAT</string>
+	<key>You can\U2019t compare %@ with %@ because their data types are different.</key>
+	<string>You can’t compare %1$@ with %2$@ because their data types are different.</string>
+	<key>You must specify a value for all the required arguments.</key>
+	<string>You must specify a value for all the required arguments.</string>
+	<key>ZTEST</key>
+	<string>ZTEST</string>
+	<key>\U2018%@\U2019 isn\U2019t a valid character in the base %d numeral system.</key>
+	<string>‘%1$@’ isn’t a valid character in the base %2$d numeral system.</string>
+	<key>\U201C%@\U201D is an unsupported function. The last calculated value was used.</key>
+	<string>“%@” is an unsupported function. The last calculated value was used.</string>
+	<key>\U201C%@\U201D isn\U2019t a valid cell reference.</key>
+	<string>“%@” isn’t a valid cell reference.</string>
+	<key>\U201C%@\U201D isn\U2019t a valid function name.</key>
+	<string>“%@” isn’t a valid function name.</string>
+	<key>\U201C%@\U201D isn\U2019t a valid reference.</key>
+	<string>“%@” isn’t a valid reference.</string>
+	<key>\U201C%@\U201D isn\U2019t a valid unit.</key>
+	<string>“%@” isn’t a valid unit.</string>
+	<key>a Boolean</key>
+	<string>a Boolean</string>
+	<key>a category cell</key>
+	<string>a category cell</string>
+	<key>a date</key>
+	<string>a date</string>
+	<key>a duration</key>
+	<string>a duration</string>
+	<key>a number</key>
+	<string>a number</string>
+	<key>a number, date, or duration</key>
+	<string>a number, date, or duration</string>
+	<key>a reference</key>
+	<string>a reference</string>
+	<key>a string</key>
+	<string>a string</string>
+	<key>a vector</key>
+	<string>a vector</string>
+	<key>an empty cell</key>
+	<string>an empty cell</string>
+	<key>an error</key>
+	<string>an error</string>
+	<key>anything</key>
+	<string>anything</string>
+	<key>at least as big as</key>
+	<string>at least as big as</string>
+	<key>empty</key>
+	<string>empty</string>
+	<key>larger than</key>
+	<string>larger than</string>
+	<key>no bigger than</key>
+	<string>no bigger than</string>
+	<key>one argument</key>
+	<string>one argument</string>
+	<key>or omitted</key>
+	<string>or omitted</string>
+	<key>smaller than</key>
+	<string>smaller than</string>
+</dict>
+</plist>

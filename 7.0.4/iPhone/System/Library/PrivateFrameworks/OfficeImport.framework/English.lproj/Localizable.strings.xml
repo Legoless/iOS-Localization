@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>An error occurred while reading the document.</key>
+	<string>An error occurred while reading the document.</string>
+	<key>Loading...</key>
+	<string>Loading...</string>
+	<key>The XML document isn't in Word format.</key>
+	<string>The XML document isn't in Word format.</string>
+	<key>The document is not in PowerPoint format.</key>
+	<string>The document is not in PowerPoint format.</string>
+	<key>The document is password protected.</key>
+	<string>The document is password protected.</string>
+	<key>The document was created with an unsupported version of Excel.</key>
+	<string>The document was created with an unsupported version of Excel.</string>
+	<key>The document was created with an unsupported version of Word.</key>
+	<string>The document was created with an unsupported version of Word.</string>
+	<key>The file format is invalid.</key>
+	<string>The file format is invalid.</string>
+	<key>This document is only partially previewed.</key>
+	<string>This document is only partially previewed.</string>
+</dict>
+</plist>

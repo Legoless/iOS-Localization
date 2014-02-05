@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABDatePlural</key>
+	<string>Dates</string>
+	<key>ABRelatedNamePlural</key>
+	<string>Related Names</string>
+	<key>AIM IM_SERVICE_NAME</key>
+	<string>AIM</string>
+	<key>Address</key>
+	<string>Address</string>
+	<key>Afghanistan</key>
+	<string>Afghanistan</string>
+	<key>Albania</key>
+	<string>Albania</string>
+	<key>Algeria</key>
+	<string>Algeria</string>
+	<key>Andorra</key>
+	<string>Andorra</string>
+	<key>Angola</key>
+	<string>Angola</string>
+	<key>Antigua and Barbuda</key>
+	<string>Antigua and Barbuda</string>
+	<key>Argentina</key>
+	<string>Argentina</string>
+	<key>Armenia</key>
+	<string>Armenia</string>
+	<key>Australia</key>
+	<string>Australia</string>
+	<key>Austria</key>
+	<string>Austria</string>
+	<key>Azerbaijan</key>
+	<string>Azerbaijan</string>
+	<key>Bahrain</key>
+	<string>Bahrain</string>
+	<key>Bangladesh</key>
+	<string>Bangladesh</string>
+	<key>Barbados</key>
+	<string>Barbados</string>
+	<key>Belarus</key>
+	<string>Belarus</string>
+	<key>Belgium</key>
+	<string>Belgium</string>
+	<key>Belize</key>
+	<string>Belize</string>
+	<key>Benin</key>
+	<string>Benin</string>
+	<key>Bermuda</key>
+	<string>Bermuda</string>
+	<key>Bhutan</key>
+	<string>Bhutan</string>
+	<key>Birthday</key>
+	<string>Birthday</string>
+	<key>Bolivia</key>
+	<string>Bolivia</string>
+	<key>Bosnia and Herzegovina</key>
+	<string>Bosnia and Herzegovina</string>
+	<key>Botswana</key>
+	<string>Botswana</string>
+	<key>Brazil</key>
+	<string>Brazil</string>
+	<key>Brunei Darussalam</key>
+	<string>Brunei Darussalam</string>
+	<key>Bulgaria</key>
+	<string>Bulgaria</string>
+	<key>Burkina Faso</key>
+	<string>Burkina Faso</string>
+	<key>Burundi</key>
+	<string>Burundi</string>
+	<key>Cambodia</key>
+	<string>Cambodia</string>
+	<key>Cameroon</key>
+	<string>Cameroon</string>
+	<key>Canada</key>
+	<string>Canada</string>
+	<key>Cape Verde</key>
+	<string>Cape Verde</string>
+	<key>Cayman Islands</key>
+	<string>Cayman Islands</string>
+	<key>Central African Republic</key>
+	<string>Central African Republic</string>
+	<key>Chad</key>
+	<string>Chad</string>
+	<key>Chile</key>
+	<string>Chile</string>
+	<key>China</key>
+	<string>China</string>
+	<key>City</key>
+	<string>City</string>
+	<key>City/Region</key>
+	<string>City/Region</string>
+	<key>Colombia</key>
+	<string>Colombia</string>
+	<key>Comoros</key>
+	<string>Comoros</string>
+	<key>Costa Rica</key>
+	<string>Costa Rica</string>
+	<key>Country</key>
+	<string>Country</string>
+	<key>CountryCode</key>
+	<string>Country Code</string>
+	<key>County</key>
+	<string>County</string>
+	<key>County/City Japan</key>
+	<string>County/City</string>
+	<key>County/City Taiwan</key>
+	<string>County/City</string>
+	<key>Croatia</key>
+	<string>Croatia</string>
+	<key>Cuba</key>
+	<string>Cuba</string>
+	<key>Cyprus</key>
+	<string>Cyprus</string>
+	<key>Czech Republic</key>
+	<string>Czech Republic</string>
+	<key>Côte d’Ivoire</key>
+	<string>Côte d’Ivoire</string>
+	<key>Date</key>
+	<string>Date</string>
+	<key>Democratic Republic of the Congo</key>
+	<string>Democratic Republic of the Congo</string>
+	<key>Denmark</key>
+	<string>Denmark</string>
+	<key>Department</key>
+	<string>Department</string>
+	<key>District</key>
+	<string>District</string>
+	<key>District/Subdivision</key>
+	<string>District/Subdivision</string>
+	<key>DistrictTown</key>
+	<string>District Town</string>
+	<key>Djibouti</key>
+	<string>Djibouti</string>
+	<key>Dominica</key>
+	<string>Dominica</string>
+	<key>Dominican Republic</key>
+	<string>Dominican Republic</string>
+	<key>Ecuador</key>
+	<string>Ecuador</string>
+	<key>Egypt</key>
+	<string>Egypt</string>
+	<key>El Salvador</key>
+	<string>El Salvador</string>
+	<key>Email</key>
+	<string>Email</string>
+	<key>Equatorial Guinea</key>
+	<string>Equatorial Guinea</string>
+	<key>Eritrea</key>
+	<string>Eritrea</string>
+	<key>Estonia</key>
+	<string>Estonia</string>
+	<key>Ethiopia</key>
+	<string>Ethiopia</string>
+	<key>Facebook IM_SERVICE_NAME</key>
+	<string>Facebook Messenger</string>
+	<key>Falkland Islands</key>
+	<string>Falkland Islands</string>
+	<key>Faroe Islands</key>
+	<string>Faroe Islands</string>
+	<key>Fiji</key>
+	<string>Fiji</string>
+	<key>Finland</key>
+	<string>Finland</string>
+	<key>First</key>
+	<string>First</string>
+	<key>FirstPhonetic</key>
+	<string>Phonetic First Name</string>
+	<key>France</key>
+	<string>France</string>
+	<key>French Polynesia</key>
+	<string>French Polynesia</string>
+	<key>Further Divisions</key>
+	<string>Further Divisions</string>
+	<key>Gabon</key>
+	<string>Gabon</string>
+	<key>GaduGadu IM_SERVICE_NAME</key>
+	<string>Gadu-Gadu</string>
+	<key>GeographicalDepartment</key>
+	<string>Department</string>
+	<key>Georgia</key>
+	<string>Georgia</string>
+	<key>Germany</key>
+	<string>Germany</string>
+	<key>Ghana</key>
+	<string>Ghana</string>
+	<key>GoogleTalk IM_SERVICE_NAME</key>
+	<string>Google Talk</string>
+	<key>Governorate</key>
+	<string>Governorate</string>
+	<key>Greece</key>
+	<string>Greece</string>
+	<key>Greenland</key>
+	<string>Greenland</string>
+	<key>Grenada</key>
+	<string>Grenada</string>
+	<key>GroupDescription</key>
+	<string>Group Description</string>
+	<key>GroupName</key>
+	<string>Group Name</string>
+	<key>Guadeloupe</key>
+	<string>Guadeloupe</string>
+	<key>Guatemala</key>
+	<string>Guatemala</string>
+	<key>Guinea</key>
+	<string>Guinea</string>
+	<key>Guinea-Bissau</key>
+	<string>Guinea-Bissau</string>
+	<key>Guyana</key>
+	<string>Guyana</string>
+	<key>Haiti</key>
+	<string>Haiti</string>
+	<key>HomePage</key>
+	<string>Homepage</string>
+	<key>Honduras</key>
+	<string>Honduras</string>
+	<key>Hong Kong</key>
+	<string>Hong Kong</string>
+	<key>Hungary</key>
+	<string>Hungary</string>
+	<key>ICQ IM_SERVICE_NAME</key>
+	<string>ICQ</string>
+	<key>IM</key>
+	<string>Instant Message</string>
+	<key>Iceland</key>
+	<string>Iceland</string>
+	<key>India</key>
+	<string>India</string>
+	<key>Indonesia</key>
+	<string>Indonesia</string>
+	<key>Iran</key>
+	<string>Iran</string>
+	<key>Iraq</key>
+	<string>Iraq</string>
+	<key>Ireland</key>
+	<string>Ireland</string>
+	<key>Island Name</key>
+	<string>Island Name</string>
+	<key>Isle of Man</key>
+	<string>Isle of Man</string>
+	<key>Israel</key>
+	<string>Israel</string>
+	<key>Italy</key>
+	<string>Italy</string>
+	<key>Jabber IM_SERVICE_NAME</key>
+	<string>Jabber</string>
+	<key>Jamaica</key>
+	<string>Jamaica</string>
+	<key>Japan</key>
+	<string>Japan</string>
+	<key>JobTitle</key>
+	<string>Job Title</string>
+	<key>Jordan</key>
+	<string>Jordan</string>
+	<key>Kazakhstan</key>
+	<string>Kazakhstan</string>
+	<key>Kenya</key>
+	<string>Kenya</string>
+	<key>Kiribati</key>
+	<string>Kiribati</string>
+	<key>Kuwait</key>
+	<string>Kuwait</string>
+	<key>Kyrgyzstan</key>
+	<string>Kyrgyzstan</string>
+	<key>Laos</key>
+	<string>Laos</string>
+	<key>Last</key>
+	<string>Last</string>
+	<key>LastPhonetic</key>
+	<string>Phonetic Last Name</string>
+	<key>Latvia</key>
+	<string>Latvia</string>
+	<key>Lebanon</key>
+	<string>Lebanon</string>
+	<key>Lesotho</key>
+	<string>Lesotho</string>
+	<key>Liberia</key>
+	<string>Liberia</string>
+	<key>Libya</key>
+	<string>Libya</string>
+	<key>Liechtenstein</key>
+	<string>Liechtenstein</string>
+	<key>Lithuania</key>
+	<string>Lithuania</string>
+	<key>Luxembourg</key>
+	<string>Luxembourg</string>
+	<key>MSN IM_SERVICE_NAME</key>
+	<string>MSN Messenger</string>
+	<key>Macau</key>
+	<string>Macau</string>
+	<key>Macedonia</key>
+	<string>Macedonia</string>
+	<key>Madagascar</key>
+	<string>Madagascar</string>
+	<key>MaidenName</key>
+	<string>Maiden Name</string>
+	<key>Malawi</key>
+	<string>Malawi</string>
+	<key>Malaysia</key>
+	<string>Malaysia</string>
+	<key>Maldives</key>
+	<string>Maldives</string>
+	<key>Mali</key>
+	<string>Mali</string>
+	<key>Malta</key>
+	<string>Malta</string>
+	<key>Marshall Islands</key>
+	<string>Marshall Islands</string>
+	<key>Martinique</key>
+	<string>Martinique</string>
+	<key>Mauritania</key>
+	<string>Mauritania</string>
+	<key>Mauritius</key>
+	<string>Mauritius</string>
+	<key>Mexico</key>
+	<string>Mexico</string>
+	<key>Micronesia</key>
+	<string>Micronesia</string>
+	<key>Middle</key>
+	<string>Middle</string>
+	<key>MiddlePhonetic</key>
+	<string>Phonetic Middle Name</string>
+	<key>Moldova</key>
+	<string>Moldova</string>
+	<key>Monaco</key>
+	<string>Monaco</string>
+	<key>Mongolia</key>
+	<string>Mongolia</string>
+	<key>Montenegro</key>
+	<string>Montenegro</string>
+	<key>Morocco</key>
+	<string>Morocco</string>
+	<key>Mozambique</key>
+	<string>Mozambique</string>
+	<key>Myanmar</key>
+	<string>Myanmar</string>
+	<key>NOTES_APPLE_FLOOR_FORMAT</key>
+	<string>Floor: %@</string>
+	<key>NOTES_BUILDING_NAME_FORMAT</key>
+	<string>Building Name: %@</string>
+	<key>Name Sama</key>
+	<string>Name Sama</string>
+	<key>Namibia</key>
+	<string>Namibia</string>
+	<key>Nauru</key>
+	<string>Nauru</string>
+	<key>Nepal</key>
+	<string>Nepal</string>
+	<key>Netherlands</key>
+	<string>Netherlands</string>
+	<key>New Caledonia</key>
+	<string>New Caledonia</string>
+	<key>New Zealand</key>
+	<string>New Zealand</string>
+	<key>Nicaragua</key>
+	<string>Nicaragua</string>
+	<key>Nickname</key>
+	<string>Nickname</string>
+	<key>Niger</key>
+	<string>Niger</string>
+	<key>Nigeria</key>
+	<string>Nigeria</string>
+	<key>North Korea</key>
+	<string>North Korea</string>
+	<key>Norway</key>
+	<string>Norway</string>
+	<key>Note</key>
+	<string>Notes</string>
+	<key>Oman</key>
+	<string>Oman</string>
+	<key>Organization</key>
+	<string>Company</string>
+	<key>PINCode</key>
+	<string>PIN Code</string>
+	<key>Pakistan</key>
+	<string>Pakistan</string>
+	<key>Palau</key>
+	<string>Palau</string>
+	<key>Palestinian Territories</key>
+	<string>Palestinian Territories</string>
+	<key>Panama</key>
+	<string>Panama</string>
+	<key>Papua New Guinea</key>
+	<string>Papua New Guinea</string>
+	<key>Paraguay</key>
+	<string>Paraguay</string>
+	<key>Peru</key>
+	<string>Peru</string>
+	<key>Philippines</key>
+	<string>Philippines</string>
+	<key>Phone</key>
+	<string>Phone</string>
+	<key>Phonetic Afghanistan</key>
+	<string>Afghanistan</string>
+	<key>Phonetic Albania</key>
+	<string>Albania</string>
+	<key>Phonetic Algeria</key>
+	<string>Algeria</string>
+	<key>Phonetic Andorra</key>
+	<string>Andorra</string>
+	<key>Phonetic Angola</key>
+	<string>Angola</string>
+	<key>Phonetic Antigua and Barbuda</key>
+	<string>Antigua and Barbuda</string>
+	<key>Phonetic Argentina</key>
+	<string>Argentina</string>
+	<key>Phonetic Armenia</key>
+	<string>Armenia</string>
+	<key>Phonetic Australia</key>
+	<string>Australia</string>
+	<key>Phonetic Austria</key>
+	<string>Austria</string>
+	<key>Phonetic Azerbaijan</key>
+	<string>Azerbaijan</string>
+	<key>Phonetic Bahrain</key>
+	<string>Bahrain</string>
+	<key>Phonetic Bangladesh</key>
+	<string>Bangladesh</string>
+	<key>Phonetic Barbados</key>
+	<string>Barbados</string>
+	<key>Phonetic Belarus</key>
+	<string>Belarus</string>
+	<key>Phonetic Belgium</key>
+	<string>Belgium</string>
+	<key>Phonetic Belize</key>
+	<string>Belize</string>
+	<key>Phonetic Benin</key>
+	<string>Benin</string>
+	<key>Phonetic Bermuda</key>
+	<string>Bermuda</string>
+	<key>Phonetic Bhutan</key>
+	<string>Bhutan</string>
+	<key>Phonetic Bolivia</key>
+	<string>Bolivia</string>
+	<key>Phonetic Bosnia and Herzegovina</key>
+	<string>Bosnia and Herzegovina</string>
+	<key>Phonetic Botswana</key>
+	<string>Botswana</string>
+	<key>Phonetic Brazil</key>
+	<string>Brazil</string>
+	<key>Phonetic Brunei Darussalam</key>
+	<string>Brunei Darussalam</string>
+	<key>Phonetic Bulgaria</key>
+	<string>Bulgaria</string>
+	<key>Phonetic Burkina Faso</key>
+	<string>Burkina Faso</string>
+	<key>Phonetic Burundi</key>
+	<string>Burundi</string>
+	<key>Phonetic Cambodia</key>
+	<string>Cambodia</string>
+	<key>Phonetic Cameroon</key>
+	<string>Cameroon</string>
+	<key>Phonetic Canada</key>
+	<string>Canada</string>
+	<key>Phonetic Cape Verde</key>
+	<string>Cape Verde</string>
+	<key>Phonetic Cayman Islands</key>
+	<string>Cayman Islands</string>
+	<key>Phonetic Central African Republic</key>
+	<string>Central African Republic</string>
+	<key>Phonetic Chad</key>
+	<string>Chad</string>
+	<key>Phonetic Chile</key>
+	<string>Chile</string>
+	<key>Phonetic China</key>
+	<string>China</string>
+	<key>Phonetic Colombia</key>
+	<string>Colombia</string>
+	<key>Phonetic Comoros</key>
+	<string>Comoros</string>
+	<key>Phonetic Costa Rica</key>
+	<string>Costa Rica</string>
+	<key>Phonetic Croatia</key>
+	<string>Croatia</string>
+	<key>Phonetic Cuba</key>
+	<string>Cuba</string>
+	<key>Phonetic Cyprus</key>
+	<string>Cyprus</string>
+	<key>Phonetic Czech Republic</key>
+	<string>Czech Republic</string>
+	<key>Phonetic Côte d’Ivoire</key>
+	<string>Côte d’Ivoire</string>
+	<key>Phonetic Democratic Republic of the Congo</key>
+	<string>Congo, Democratic Republic of the</string>
+	<key>Phonetic Denmark</key>
+	<string>Denmark</string>
+	<key>Phonetic Djibouti</key>
+	<string>Djibouti</string>
+	<key>Phonetic Dominica</key>
+	<string>Dominica</string>
+	<key>Phonetic Dominican Republic</key>
+	<string>Dominican Republic</string>
+	<key>Phonetic Ecuador</key>
+	<string>Ecuador</string>
+	<key>Phonetic Egypt</key>
+	<string>Egypt</string>
+	<key>Phonetic El Salvador</key>
+	<string>El Salvador</string>
+	<key>Phonetic Equatorial Guinea</key>
+	<string>Equatorial Guinea</string>
+	<key>Phonetic Eritrea</key>
+	<string>Eritrea</string>
+	<key>Phonetic Estonia</key>
+	<string>Estonia</string>
+	<key>Phonetic Ethiopia</key>
+	<string>Ethiopia</string>
+	<key>Phonetic Falkland Islands</key>
+	<string>Falkland Islands</string>
+	<key>Phonetic Faroe Islands</key>
+	<string>Faroe Islands</string>
+	<key>Phonetic Fiji</key>
+	<string>Fiji</string>
+	<key>Phonetic Finland</key>
+	<string>Finland</string>
+	<key>Phonetic France</key>
+	<string>France</string>
+	<key>Phonetic French Polynesia</key>
+	<string>French Polynesia</string>
+	<key>Phonetic Gabon</key>
+	<string>Gabon</string>
+	<key>Phonetic Georgia</key>
+	<string>Georgia</string>
+	<key>Phonetic Germany</key>
+	<string>Germany</string>
+	<key>Phonetic Ghana</key>
+	<string>Ghana</string>
+	<key>Phonetic Greece</key>
+	<string>Greece</string>
+	<key>Phonetic Greenland</key>
+	<string>Greenland</string>
+	<key>Phonetic Grenada</key>
+	<string>Grenada</string>
+	<key>Phonetic Guadeloupe</key>
+	<string>Guadeloupe</string>
+	<key>Phonetic Guatemala</key>
+	<string>Guatemala</string>
+	<key>Phonetic Guinea</key>
+	<string>Guinea</string>
+	<key>Phonetic Guinea-Bissau</key>
+	<string>Guinea-Bissau</string>
+	<key>Phonetic Guyana</key>
+	<string>Guyana</string>
+	<key>Phonetic Haiti</key>
+	<string>Haiti</string>
+	<key>Phonetic Honduras</key>
+	<string>Honduras</string>
+	<key>Phonetic Hong Kong</key>
+	<string>Hong Kong</string>
+	<key>Phonetic Hungary</key>
+	<string>Hungary</string>
+	<key>Phonetic Iceland</key>
+	<string>Iceland</string>
+	<key>Phonetic India</key>
+	<string>India</string>
+	<key>Phonetic Indonesia</key>
+	<string>Indonesia</string>
+	<key>Phonetic Iran</key>
+	<string>Iran</string>
+	<key>Phonetic Iraq</key>
+	<string>Iraq</string>
+	<key>Phonetic Ireland</key>
+	<string>Ireland</string>
+	<key>Phonetic Isle of Man</key>
+	<string>Isle of Man</string>
+	<key>Phonetic Israel</key>
+	<string>Israel</string>
+	<key>Phonetic Italy</key>
+	<string>Italy</string>
+	<key>Phonetic Jamaica</key>
+	<string>Jamaica</string>
+	<key>Phonetic Japan</key>
+	<string>Japan</string>
+	<key>Phonetic Jordan</key>
+	<string>Jordan</string>
+	<key>Phonetic Kazakhstan</key>
+	<string>Kazakhstan</string>
+	<key>Phonetic Kenya</key>
+	<string>Kenya</string>
+	<key>Phonetic Kiribati</key>
+	<string>Kiribati</string>
+	<key>Phonetic Kuwait</key>
+	<string>Kuwait</string>
+	<key>Phonetic Kyrgyzstan</key>
+	<string>Kyrgyzstan</string>
+	<key>Phonetic Laos</key>
+	<string>Laos</string>
+	<key>Phonetic Latvia</key>
+	<string>Latvia</string>
+	<key>Phonetic Lebanon</key>
+	<string>Lebanon</string>
+	<key>Phonetic Lesotho</key>
+	<string>Lesotho</string>
+	<key>Phonetic Liberia</key>
+	<string>Liberia</string>
+	<key>Phonetic Libya</key>
+	<string>Libya</string>
+	<key>Phonetic Liechtenstein</key>
+	<string>Liechtenstein</string>
+	<key>Phonetic Lithuania</key>
+	<string>Lithuania</string>
+	<key>Phonetic Luxembourg</key>
+	<string>Luxembourg</string>
+	<key>Phonetic Macau</key>
+	<string>Macau</string>
+	<key>Phonetic Macedonia</key>
+	<string>Macedonia</string>
+	<key>Phonetic Madagascar</key>
+	<string>Madagascar</string>
+	<key>Phonetic Malawi</key>
+	<string>Malawi</string>
+	<key>Phonetic Malaysia</key>
+	<string>Malaysia</string>
+	<key>Phonetic Maldives</key>
+	<string>Maldives</string>
+	<key>Phonetic Mali</key>
+	<string>Mali</string>
+	<key>Phonetic Malta</key>
+	<string>Malta</string>
+	<key>Phonetic Marshall Islands</key>
+	<string>Marshall Islands</string>
+	<key>Phonetic Martinique</key>
+	<string>Martinique</string>
+	<key>Phonetic Mauritania</key>
+	<string>Mauritania</string>
+	<key>Phonetic Mauritius</key>
+	<string>Mauritius</string>
+	<key>Phonetic Mexico</key>
+	<string>Mexico</string>
+	<key>Phonetic Micronesia</key>
+	<string>Micronesia</string>
+	<key>Phonetic Moldova</key>
+	<string>Moldova</string>
+	<key>Phonetic Monaco</key>
+	<string>Monaco</string>
+	<key>Phonetic Mongolia</key>
+	<string>Mongolia</string>
+	<key>Phonetic Montenegro</key>
+	<string>Montenegro</string>
+	<key>Phonetic Morocco</key>
+	<string>Morocco</string>
+	<key>Phonetic Mozambique</key>
+	<string>Mozambique</string>
+	<key>Phonetic Myanmar</key>
+	<string>Myanmar</string>
+	<key>Phonetic Namibia</key>
+	<string>Namibia</string>
+	<key>Phonetic Nauru</key>
+	<string>Nauru</string>
+	<key>Phonetic Nepal</key>
+	<string>Nepal</string>
+	<key>Phonetic Netherlands</key>
+	<string>Netherlands</string>
+	<key>Phonetic New Caledonia</key>
+	<string>New Caledonia</string>
+	<key>Phonetic New Zealand</key>
+	<string>New Zealand</string>
+	<key>Phonetic Nicaragua</key>
+	<string>Nicaragua</string>
+	<key>Phonetic Niger</key>
+	<string>Niger</string>
+	<key>Phonetic Nigeria</key>
+	<string>Nigeria</string>
+	<key>Phonetic North Korea</key>
+	<string>Korea, North</string>
+	<key>Phonetic Norway</key>
+	<string>Norway</string>
+	<key>Phonetic Oman</key>
+	<string>Oman</string>
+	<key>Phonetic Pakistan</key>
+	<string>Pakistan</string>
+	<key>Phonetic Palau</key>
+	<string>Palau</string>
+	<key>Phonetic Palestinian Territories</key>
+	<string>Palestinian Territories</string>
+	<key>Phonetic Panama</key>
+	<string>Panama</string>
+	<key>Phonetic Papua New Guinea</key>
+	<string>Papua New Guinea</string>
+	<key>Phonetic Paraguay</key>
+	<string>Paraguay</string>
+	<key>Phonetic Peru</key>
+	<string>Peru</string>
+	<key>Phonetic Philippines</key>
+	<string>Philippines</string>
+	<key>Phonetic Poland</key>
+	<string>Poland</string>
+	<key>Phonetic Portugal</key>
+	<string>Portugal</string>
+	<key>Phonetic Puerto Rico</key>
+	<string>Puerto Rico</string>
+	<key>Phonetic Qatar</key>
+	<string>Qatar</string>
+	<key>Phonetic Republic of the Congo</key>
+	<string>Congo, Republic of the</string>
+	<key>Phonetic Romania</key>
+	<string>Romania</string>
+	<key>Phonetic Russia</key>
+	<string>Russia</string>
+	<key>Phonetic Rwanda</key>
+	<string>Rwanda</string>
+	<key>Phonetic Réunion</key>
+	<string>Réunion</string>
+	<key>Phonetic Saint Barthélemy</key>
+	<string>Saint Barthélemy</string>
+	<key>Phonetic Saint Helena</key>
+	<string>Saint Helena</string>
+	<key>Phonetic Saint Kitts and Nevis</key>
+	<string>Saint Kitts and Nevis</string>
+	<key>Phonetic Saint Lucia</key>
+	<string>Saint Lucia</string>
+	<key>Phonetic Saint Martin</key>
+	<string>Saint Martin</string>
+	<key>Phonetic Saint Vincent and the Grenadines</key>
+	<string>Saint Vincent and the Grenadines</string>
+	<key>Phonetic Samoa</key>
+	<string>Samoa</string>
+	<key>Phonetic San Marino</key>
+	<string>San Marino</string>
+	<key>Phonetic Sao Tome and Principe</key>
+	<string>Sao Tome and Principe</string>
+	<key>Phonetic Saudi Arabia</key>
+	<string>Saudi Arabia</string>
+	<key>Phonetic Senegal</key>
+	<string>Senegal</string>
+	<key>Phonetic Serbia</key>
+	<string>Serbia</string>
+	<key>Phonetic Serbia and Montenegro</key>
+	<string>Serbia and Montenegro</string>
+	<key>Phonetic Seychelles</key>
+	<string>Seychelles</string>
+	<key>Phonetic Sierra Leone</key>
+	<string>Sierra Leone</string>
+	<key>Phonetic Singapore</key>
+	<string>Singapore</string>
+	<key>Phonetic Slovakia</key>
+	<string>Slovakia</string>
+	<key>Phonetic Slovenia</key>
+	<string>Slovenia</string>
+	<key>Phonetic Solomon Islands</key>
+	<string>Solomon Islands</string>
+	<key>Phonetic Somalia</key>
+	<string>Somalia</string>
+	<key>Phonetic South Africa</key>
+	<string>South Africa</string>
+	<key>Phonetic South Georgia and South Sandwich Islands</key>
+	<string>South Georgia and South Sandwich Islands</string>
+	<key>Phonetic South Korea</key>
+	<string>Korea, South</string>
+	<key>Phonetic South Sudan</key>
+	<string>South Sudan</string>
+	<key>Phonetic Spain</key>
+	<string>Spain</string>
+	<key>Phonetic Sri Lanka</key>
+	<string>Sri Lanka</string>
+	<key>Phonetic Sudan</key>
+	<string>Sudan</string>
+	<key>Phonetic Suriname</key>
+	<string>Suriname</string>
+	<key>Phonetic Swaziland</key>
+	<string>Swaziland</string>
+	<key>Phonetic Sweden</key>
+	<string>Sweden</string>
+	<key>Phonetic Switzerland</key>
+	<string>Switzerland</string>
+	<key>Phonetic Syria</key>
+	<string>Syria</string>
+	<key>Phonetic Taiwan</key>
+	<string>Taiwan</string>
+	<key>Phonetic Tajikistan</key>
+	<string>Tajikistan</string>
+	<key>Phonetic Tanzania</key>
+	<string>Tanzania</string>
+	<key>Phonetic Thailand</key>
+	<string>Thailand</string>
+	<key>Phonetic The Bahamas</key>
+	<string>Bahamas, The</string>
+	<key>Phonetic The Gambia</key>
+	<string>Gambia, The</string>
+	<key>Phonetic Timor-Leste</key>
+	<string>Timor-Leste</string>
+	<key>Phonetic Togo</key>
+	<string>Togo</string>
+	<key>Phonetic Tonga</key>
+	<string>Tonga</string>
+	<key>Phonetic Trinidad and Tobago</key>
+	<string>Trinidad and Tobago</string>
+	<key>Phonetic Tunisia</key>
+	<string>Tunisia</string>
+	<key>Phonetic Turkey</key>
+	<string>Turkey</string>
+	<key>Phonetic Turkmenistan</key>
+	<string>Turkmenistan</string>
+	<key>Phonetic Tuvalu</key>
+	<string>Tuvalu</string>
+	<key>Phonetic U.S. Virgin Islands</key>
+	<string>U.S. Virgin Islands</string>
+	<key>Phonetic Uganda</key>
+	<string>Uganda</string>
+	<key>Phonetic Ukraine</key>
+	<string>Ukraine</string>
+	<key>Phonetic United Arab Emirates</key>
+	<string>United Arab Emirates</string>
+	<key>Phonetic United Kingdom</key>
+	<string>United Kingdom</string>
+	<key>Phonetic United States</key>
+	<string>United States</string>
+	<key>Phonetic Uruguay</key>
+	<string>Uruguay</string>
+	<key>Phonetic Uzbekistan</key>
+	<string>Uzbekistan</string>
+	<key>Phonetic Vanuatu</key>
+	<string>Vanuatu</string>
+	<key>Phonetic Vatican</key>
+	<string>Vatican</string>
+	<key>Phonetic Venezuela</key>
+	<string>Venezuela</string>
+	<key>Phonetic Vietnam</key>
+	<string>Vietnam</string>
+	<key>Phonetic Yemen</key>
+	<string>Yemen</string>
+	<key>Phonetic Zambia</key>
+	<string>Zambia</string>
+	<key>Phonetic Zimbabwe</key>
+	<string>Zimbabwe</string>
+	<key>Poland</key>
+	<string>Poland</string>
+	<key>Portugal</key>
+	<string>Portugal</string>
+	<key>PostalCode</key>
+	<string>Postal Code</string>
+	<key>PostalDistrict</key>
+	<string>Postal District</string>
+	<key>Postcode</key>
+	<string>Post Code</string>
+	<key>Prefecture</key>
+	<string>Prefecture</string>
+	<key>Prefix</key>
+	<string>Prefix</string>
+	<key>Province</key>
+	<string>Province</string>
+	<key>Puerto Rico</key>
+	<string>Puerto Rico</string>
+	<key>QQ IM_SERVICE_NAME</key>
+	<string>QQ</string>
+	<key>Qatar</key>
+	<string>Qatar</string>
+	<key>Region</key>
+	<string>Region</string>
+	<key>RelatedNames</key>
+	<string>Related Names</string>
+	<key>Republic of the Congo</key>
+	<string>Republic of the Congo</string>
+	<key>Romania</key>
+	<string>Romania</string>
+	<key>Russia</key>
+	<string>Russia</string>
+	<key>Rwanda</key>
+	<string>Rwanda</string>
+	<key>Réunion</key>
+	<string>Réunion</string>
+	<key>Saint Barthélemy</key>
+	<string>Saint Barthélemy</string>
+	<key>Saint Helena</key>
+	<string>Saint Helena</string>
+	<key>Saint Kitts and Nevis</key>
+	<string>Saint Kitts and Nevis</string>
+	<key>Saint Lucia</key>
+	<string>Saint Lucia</string>
+	<key>Saint Martin</key>
+	<string>Saint Martin</string>
+	<key>Saint Vincent and the Grenadines</key>
+	<string>Saint Vincent and the Grenadines</string>
+	<key>Samoa</key>
+	<string>Samoa</string>
+	<key>San Marino</key>
+	<string>San Marino</string>
+	<key>Sao Tome and Principe</key>
+	<string>Sao Tome and Principe</string>
+	<key>Saudi Arabia</key>
+	<string>Saudi Arabia</string>
+	<key>Senegal</key>
+	<string>Senegal</string>
+	<key>Serbia</key>
+	<string>Serbia</string>
+	<key>Serbia and Montenegro</key>
+	<string>Serbia and Montenegro</string>
+	<key>Seychelles</key>
+	<string>Seychelles</string>
+	<key>Sierra Leone</key>
+	<string>Sierra Leone</string>
+	<key>Singapore</key>
+	<string>Singapore</string>
+	<key>Skype IM_SERVICE_NAME</key>
+	<string>Skype</string>
+	<key>Slovakia</key>
+	<string>Slovakia</string>
+	<key>Slovenia</key>
+	<string>Slovenia</string>
+	<key>SocialProfile</key>
+	<string>Social Profile</string>
+	<key>Solomon Islands</key>
+	<string>Solomon Islands</string>
+	<key>Somalia</key>
+	<string>Somalia</string>
+	<key>Sound</key>
+	<string>Ringtone</string>
+	<key>South Africa</key>
+	<string>South Africa</string>
+	<key>South Georgia and South Sandwich Islands</key>
+	<string>South Georgia and South Sandwich Islands</string>
+	<key>South Korea</key>
+	<string>South Korea</string>
+	<key>South Sudan</key>
+	<string>South Sudan</string>
+	<key>Spain</key>
+	<string>Spain</string>
+	<key>Sri Lanka</key>
+	<string>Sri Lanka</string>
+	<key>State</key>
+	<string>State</string>
+	<key>State/Republic</key>
+	<string>State/Republic</string>
+	<key>Street</key>
+	<string>Street</string>
+	<key>Suburb</key>
+	<string>Suburb</string>
+	<key>Sudan</key>
+	<string>Sudan</string>
+	<key>Suffix</key>
+	<string>Suffix</string>
+	<key>Suriname</key>
+	<string>Suriname</string>
+	<key>Swaziland</key>
+	<string>Swaziland</string>
+	<key>Sweden</key>
+	<string>Sweden</string>
+	<key>Switzerland</key>
+	<string>Switzerland</string>
+	<key>Syria</key>
+	<string>Syria</string>
+	<key>Taiwan</key>
+	<string>Taiwan</string>
+	<key>Tajikistan</key>
+	<string>Tajikistan</string>
+	<key>Tanzania</key>
+	<string>Tanzania</string>
+	<key>Territorial Subdivision</key>
+	<string>Territorial Subdivision</string>
+	<key>Thailand</key>
+	<string>Thailand</string>
+	<key>The Bahamas</key>
+	<string>The Bahamas</string>
+	<key>The Gambia</key>
+	<string>The Gambia</string>
+	<key>Timor-Leste</key>
+	<string>Timor-Leste</string>
+	<key>Togo</key>
+	<string>Togo</string>
+	<key>Tonga</key>
+	<string>Tonga</string>
+	<key>Township/District</key>
+	<string>Township/District</string>
+	<key>Trinidad and Tobago</key>
+	<string>Trinidad and Tobago</string>
+	<key>Tunisia</key>
+	<string>Tunisia</string>
+	<key>Turkey</key>
+	<string>Turkey</string>
+	<key>Turkmenistan</key>
+	<string>Turkmenistan</string>
+	<key>Tuvalu</key>
+	<string>Tuvalu</string>
+	<key>U.S. Virgin Islands</key>
+	<string>U.S. Virgin Islands</string>
+	<key>URLs</key>
+	<string>URL</string>
+	<key>Uganda</key>
+	<string>Uganda</string>
+	<key>Ukraine</key>
+	<string>Ukraine</string>
+	<key>United Arab Emirates</key>
+	<string>United Arab Emirates</string>
+	<key>United Kingdom</key>
+	<string>United Kingdom</string>
+	<key>United States</key>
+	<string>United States</string>
+	<key>Uruguay</key>
+	<string>Uruguay</string>
+	<key>Uzbekistan</key>
+	<string>Uzbekistan</string>
+	<key>Vanuatu</key>
+	<string>Vanuatu</string>
+	<key>Vatican</key>
+	<string>Vatican</string>
+	<key>Venezuela</key>
+	<string>Venezuela</string>
+	<key>Vietnam</key>
+	<string>Vietnam</string>
+	<key>Village</key>
+	<string>Village</string>
+	<key>Yahoo IM_SERVICE_NAME</key>
+	<string>Yahoo! Messenger</string>
+	<key>Yemen</key>
+	<string>Yemen</string>
+	<key>ZIP</key>
+	<string>ZIP</string>
+	<key>Zambia</key>
+	<string>Zambia</string>
+	<key>Zimbabwe</key>
+	<string>Zimbabwe</string>
+	<key>_$!&lt;Anniversary&gt;!$_</key>
+	<string>anniversary</string>
+	<key>_$!&lt;Assistant&gt;!$_</key>
+	<string>assistant</string>
+	<key>_$!&lt;AssistantPhone&gt;!$_</key>
+	<string>assistant</string>
+	<key>_$!&lt;Birthday&gt;!$_</key>
+	<string>birthday</string>
+	<key>_$!&lt;Brother&gt;!$_</key>
+	<string>brother</string>
+	<key>_$!&lt;Car&gt;!$_</key>
+	<string>car</string>
+	<key>_$!&lt;Child&gt;!$_</key>
+	<string>child</string>
+	<key>_$!&lt;CompanyMain&gt;!$_</key>
+	<string>company main</string>
+	<key>_$!&lt;EX-Anniversary&gt;!$_</key>
+	<string>anniversary</string>
+	<key>_$!&lt;EX-AssistantName&gt;!$_</key>
+	<string>assistant</string>
+	<key>_$!&lt;EX-AssistantPhone&gt;!$_</key>
+	<string>assistant</string>
+	<key>_$!&lt;EX-Birthday&gt;!$_</key>
+	<string>birthday</string>
+	<key>_$!&lt;EX-Business&gt;!$_</key>
+	<string>work</string>
+	<key>_$!&lt;EX-BusinessFax&gt;!$_</key>
+	<string>work fax</string>
+	<key>_$!&lt;EX-BusinessHomePage&gt;!$_</key>
+	<string>homepage</string>
+	<key>_$!&lt;EX-BusinessPhone2&gt;!$_</key>
+	<string>alternate work</string>
+	<key>_$!&lt;EX-BusinessPhone&gt;!$_</key>
+	<string>work</string>
+	<key>_$!&lt;EX-Callback&gt;!$_</key>
+	<string>callback</string>
+	<key>_$!&lt;EX-CarPhone&gt;!$_</key>
+	<string>car phone</string>
+	<key>_$!&lt;EX-CompanyMainPhone&gt;!$_</key>
+	<string>main corporate</string>
+	<key>_$!&lt;EX-EmailAddress1&gt;!$_</key>
+	<string>email 1</string>
+	<key>_$!&lt;EX-EmailAddress2&gt;!$_</key>
+	<string>email 2</string>
+	<key>_$!&lt;EX-EmailAddress3&gt;!$_</key>
+	<string>email 3</string>
+	<key>_$!&lt;EX-Home&gt;!$_</key>
+	<string>home</string>
+	<key>_$!&lt;EX-HomeFax&gt;!$_</key>
+	<string>home fax</string>
+	<key>_$!&lt;EX-HomePhone2&gt;!$_</key>
+	<string>alternate home</string>
+	<key>_$!&lt;EX-HomePhone&gt;!$_</key>
+	<string>home</string>
+	<key>_$!&lt;EX-ImAddress1&gt;!$_</key>
+	<string>messaging 1</string>
+	<key>_$!&lt;EX-ImAddress2&gt;!$_</key>
+	<string>messaging 2</string>
+	<key>_$!&lt;EX-ImAddress3&gt;!$_</key>
+	<string>messaging 3</string>
+	<key>_$!&lt;EX-Isdn&gt;!$_</key>
+	<string>ISDN</string>
+	<key>_$!&lt;EX-Manager&gt;!$_</key>
+	<string>manager</string>
+	<key>_$!&lt;EX-MobilePhone&gt;!$_</key>
+	<string>mobile</string>
+	<key>_$!&lt;EX-Other&gt;!$_</key>
+	<string>other</string>
+	<key>_$!&lt;EX-OtherFax&gt;!$_</key>
+	<string>other fax</string>
+	<key>_$!&lt;EX-OtherTelephone&gt;!$_</key>
+	<string>other</string>
+	<key>_$!&lt;EX-Pager&gt;!$_</key>
+	<string>pager</string>
+	<key>_$!&lt;EX-PrimaryPhone&gt;!$_</key>
+	<string>primary</string>
+	<key>_$!&lt;EX-RadioPhone&gt;!$_</key>
+	<string>radio</string>
+	<key>_$!&lt;EX-SpouseName&gt;!$_</key>
+	<string>partner</string>
+	<key>_$!&lt;EX-Telex&gt;!$_</key>
+	<string>Telex</string>
+	<key>_$!&lt;EX-TtyTddPhone&gt;!$_</key>
+	<string>TDD/TTY</string>
+	<key>_$!&lt;Father&gt;!$_</key>
+	<string>father</string>
+	<key>_$!&lt;Friend&gt;!$_</key>
+	<string>friend</string>
+	<key>_$!&lt;Home&gt;!$_</key>
+	<string>home</string>
+	<key>_$!&lt;HomeFAX&gt;!$_</key>
+	<string>home fax</string>
+	<key>_$!&lt;HomePage&gt;!$_</key>
+	<string>home page</string>
+	<key>_$!&lt;Main&gt;!$_</key>
+	<string>main</string>
+	<key>_$!&lt;Manager&gt;!$_</key>
+	<string>manager</string>
+	<key>_$!&lt;Mobile&gt;!$_</key>
+	<string>mobile</string>
+	<key>_$!&lt;Mother&gt;!$_</key>
+	<string>mother</string>
+	<key>_$!&lt;Other&gt;!$_</key>
+	<string>other</string>
+	<key>_$!&lt;OtherFAX&gt;!$_</key>
+	<string>other fax</string>
+	<key>_$!&lt;Pager&gt;!$_</key>
+	<string>pager</string>
+	<key>_$!&lt;Parent&gt;!$_</key>
+	<string>parent</string>
+	<key>_$!&lt;Partner&gt;!$_</key>
+	<string>partner</string>
+	<key>_$!&lt;Radio&gt;!$_</key>
+	<string>radio</string>
+	<key>_$!&lt;Sister&gt;!$_</key>
+	<string>sister</string>
+	<key>_$!&lt;Spouse&gt;!$_</key>
+	<string>spouse</string>
+	<key>_$!&lt;Work&gt;!$_</key>
+	<string>work</string>
+	<key>_$!&lt;WorkFAX&gt;!$_</key>
+	<string>work fax</string>
+	<key>facebook SERVICE_NAME</key>
+	<string>Facebook</string>
+	<key>flickr SERVICE_NAME</key>
+	<string>Flickr</string>
+	<key>gamecenter SERVICE_NAME</key>
+	<string>Game Center</string>
+	<key>linkedin SERVICE_NAME</key>
+	<string>LinkedIn</string>
+	<key>myspace SERVICE_NAME</key>
+	<string>Myspace</string>
+	<key>ping SERVICE_NAME</key>
+	<string>Ping</string>
+	<key>service</key>
+	<string>Service</string>
+	<key>sinaweibo SERVICE_NAME</key>
+	<string>Sina Weibo</string>
+	<key>twitter SERVICE_NAME</key>
+	<string>Twitter</string>
+	<key>username</key>
+	<string>User Name</string>
+</dict>
+</plist>

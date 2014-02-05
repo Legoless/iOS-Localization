@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Check Wi-Fi connection and try again later.</key>
+	<string>Check Wi-Fi connection and try again later.</string>
+	<key>Font Download failed.</key>
+	<string>Font Download failed.</string>
+</dict>
+</plist>

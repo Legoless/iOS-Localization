@@ -1,0 +1,3063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>!mta</key>
+	<string>Block outbound SMTP connections</string>
+	<key>2.4GHz</key>
+	<string>2.4 GHz</string>
+	<key>5Ghz</key>
+	<string>5 GHz</string>
+	<key>6Lad</key>
+	<string>IPv6 LAN Address</string>
+	<key>6Lad.placeholder</key>
+	<string>0000:000:a:00::0</string>
+	<key>6Lfw</key>
+	<string>LAN forwarding</string>
+	<key>6Lfx</key>
+	<string>LAN Prefix Length</string>
+	<key>6NS1</key>
+	<string>Primary</string>
+	<key>6NS2</key>
+	<string>Secondary</string>
+	<key>6PDa</key>
+	<string>IPv6 Prefix Delegate Address</string>
+	<key>6PDl</key>
+	<string>IPv6 Prefix Delegate Length</string>
+	<key>6Wad</key>
+	<string>IPv6 Address</string>
+	<key>6Wfx</key>
+	<string>IPv6 Delegated Prefix</string>
+	<key>6Wgw</key>
+	<string>IPv6 Default Route</string>
+	<key>6Wgw.placeholder</key>
+	<string>0000:000:a:00::0</string>
+	<key>6Wte</key>
+	<string>Remote IPv4 Address</string>
+	<key>6Wte.placeholder</key>
+	<string>0.0.0.0</string>
+	<key>6aut</key>
+	<string>Configure IPv6</string>
+	<key>6aut.0</key>
+	<string>Manually</string>
+	<key>6aut.1</key>
+	<string>Automatically</string>
+	<key>6cfg</key>
+	<string>IPv6 Mode</string>
+	<key>6cfg.0</key>
+	<string>Link-local only</string>
+	<key>6cfg.1</key>
+	<string>Host</string>
+	<key>6cfg.3</key>
+	<string>Tunnel</string>
+	<key>6cfg.5</key>
+	<string>Router</string>
+	<key>6fwl.addbutton</key>
+	<string>New Entry…</string>
+	<key>6fwl.count</key>
+	<string>IPv6 Mapping</string>
+	<key>6fwl.count.0</key>
+	<string>None</string>
+	<key>6fwl.count.1</key>
+	<string>%@ entry</string>
+	<key>6fwl.count.2+</key>
+	<string>%@ entries</string>
+	<key>6fwl.deletebutton</key>
+	<string>Delete Entry</string>
+	<key>6gdn</key>
+	<string>IPv6 Tunnel Error</string>
+	<key>6gdn.description</key>
+	<string>There was an error with the IPv6 tunnel endpoint. Wait for the service to be restored and try again. Contact your service provider if the problem persists.</string>
+	<key>6gdn.remedy</key>
+	<string>IPv6 Settings…</string>
+	<key>6rEr</key>
+	<string>IPv6 Settings Incorrect</string>
+	<key>6rEr.description</key>
+	<string>Check with your service provider to make sure you’ve entered the correct IPv6 settings.</string>
+	<key>6rEr.remedy</key>
+	<string>IPv6 Settings…</string>
+	<key>6rdn</key>
+	<string>IPv6 Relay Error</string>
+	<key>6rdn.description</key>
+	<string>There was an error with the IPv6 relay router. Wait for the service to be restored and try again. Contact your service provider if the problem persists.</string>
+	<key>6rdn.remedy</key>
+	<string>IPv6 Settings…</string>
+	<key>6sec</key>
+	<string>Allow incoming IPSec authentication</string>
+	<key>6sec.short</key>
+	<string>Allow incoming IPSec</string>
+	<key>6sfw</key>
+	<string>Block incoming IPv6 connections</string>
+	<key>6sfw.short</key>
+	<string>Block incoming IPv6</string>
+	<key>6trd</key>
+	<string>Allow Teredo tunnels</string>
+	<key>802.11a</key>
+	<string>802.11a</string>
+	<key>802.11a/n</key>
+	<string>802.11a/n</string>
+	<key>802.11b</key>
+	<string>802.11b</string>
+	<key>802.11b/g</key>
+	<string>802.11b/g</string>
+	<key>802.11b/g/n</key>
+	<string>802.11b/g/n</string>
+	<key>802.11g</key>
+	<string>802.11g</string>
+	<key>802.11n (2.4GHz)</key>
+	<string>802.11n (2.4GHz)</string>
+	<key>802.11n (5GHz)</key>
+	<string>802.11n (5GHz)</string>
+	<key>80211Mode.automatic</key>
+	<string>Automatic</string>
+	<key>80211Mode.automatic.0</key>
+	<string>Off</string>
+	<key>80211Mode.automatic.1</key>
+	<string>On</string>
+	<key>80211Mode2_4GHz</key>
+	<string>2.4GHz Mode</string>
+	<key>80211Mode5GHz</key>
+	<string>5GHz Mode</string>
+	<key>80211Settings</key>
+	<string>Wi-Fi Settings</string>
+	<key>ABOUT_DIAGNOSTICS_INFO_TEXT_IOS</key>
+	<string>Apple would like your help to improve the quality and performance of its products and services. Your AirPort Base Station can automatically collect diagnostic and usage information and send it to Apple for analysis — but only with your explicit consent.
+
+Diagnostic and usage information may include details about hardware and operating system specifications, performance statistics, and data about how you use your device. None of the collected information identifies you personally. Information from which you can be personally identified is either not logged at all or is removed from any reports before they’re sent to Apple. You can review the information by downloading and opening AirPort Utility, viewing this base station and looking under Diagnostics &amp; Usage.
+
+You may also choose to turn off Diagnostics altogether. To do so, open AirPort Utility, viewing this base station and choose “Don’t Send” under Diagnostics &amp; Usage.
+
+For more information, see Apple’s Privacy Policy at www.apple.com/privacy</string>
+	<key>ABOUT_DIAGNOSTICS_INFO_TEXT_MAC</key>
+	<string>Apple would like your help to improve the quality and performance of its products and services. Your AirPort Base Station can automatically collect diagnostic and usage information and send it to Apple for analysis — but only with your explicit consent.
+
+Diagnostic and usage information may include details about hardware and operating system specifications, performance statistics, and data about how you use your device. None of the collected information identifies you personally. Information from which you can be personally identified is either not logged at all or is removed from any reports before they’re sent to Apple. You can review the information by opening AirPort Utility, viewing this base station and looking under Diagnostics &amp; Usage.
+
+You may also choose to turn off Diagnostics altogether. To do so, open AirPort Utility, viewing this base station and deselect “Send diagnostic &amp; usage data to Apple” under Diagnostics &amp; Usage.
+
+For more information, see Apple’s Privacy Policy at www.apple.com/privacy</string>
+	<key>AU56Availability</key>
+	<string>AirPort Utility 5.6 is available at %@.</string>
+	<key>AccessControl</key>
+	<string>Access Control</string>
+	<key>Account.access</key>
+	<string>Sharing Access</string>
+	<key>Account.name</key>
+	<string>Name</string>
+	<key>Account.password</key>
+	<string>Password</string>
+	<key>Actions</key>
+	<string>Actions</string>
+	<key>AddressBookAccessRequested</key>
+	<string>This software would like to access your address book to personalize your network name.</string>
+	<key>AddressBookAccessRequestedAU</key>
+	<string>AirPort Utility would like to access your address book to personalize your network name.</string>
+	<key>AirPlay</key>
+	<string>AirPlay</string>
+	<key>AirPlayFooterText</key>
+	<string>If this %@ is connected to your stereo or powered speakers, you can play iTunes music using AirPlay.</string>
+	<key>AirPortSupportWebsiteDescription</key>
+	<string>Go to %@ for more information.</string>
+	<key>AirPortSupportWebsiteTitle</key>
+	<string>AirPort Service and Support</string>
+	<key>AirPortSupportWebsiteURL</key>
+	<string>http://apple.com/support/airport</string>
+	<key>AllowSetup</key>
+	<string>Allow Setup</string>
+	<key>AlsoExtend1Prompt</key>
+	<string>Would you also like to extend “%@”?</string>
+	<key>AlsoExtend2Prompt</key>
+	<string>Would you also like to extend “%1$@” and “%2$@”?</string>
+	<key>AlsoExtendCancel</key>
+	<string>Don’t Extend</string>
+	<key>AlsoExtendConfirm</key>
+	<string>Extend</string>
+	<key>AlsoExtendPrompt</key>
+	<string>You’re extending “%@”</string>
+	<key>ArcI</key>
+	<string>Archiving the AirPort Time Capsule disk</string>
+	<key>ArcI.description</key>
+	<string>The AirPort Time Capsule disk %1$@ is being archived to the AirPort disk %2$@. Cancel to stop archiving the disk.</string>
+	<key>AreYouSureContinue</key>
+	<string>Are you sure you want to continue?</string>
+	<key>AreYouSureExtend</key>
+	<string> Are you sure you want to extend this network?</string>
+	<key>BTMMAccountNeedsToBeAnEmailAddress</key>
+	<string>An Apple ID that is an email address is required to use iCloud.</string>
+	<key>BTMMAccountNeedsToBeUpdated</key>
+	<string>Reenter your Apple ID and password to use Back to My Mac with iCloud.</string>
+	<key>BTMMAccountsNeedToBeUpdated</key>
+	<string>Reenter your Apple ID and password to use Back to My Mac with iCloud.</string>
+	<key>BTMMCantConnectToiCloud</key>
+	<string>This AirPort base station cannot connect to iCloud.</string>
+	<key>BTMMOff</key>
+	<string>Off</string>
+	<key>BTMMOn</key>
+	<string>On</string>
+	<key>BTMMRequiresPPPoEAlwaysOn</key>
+	<string>Back to My Mac requires that the PPPoE connection be set to an Always On.</string>
+	<key>BTMMSignInFailed</key>
+	<string>An error occurred signing in.</string>
+	<key>BTMMSignInFailedNoInternet</key>
+	<string>You can’t sign in because you are not connected to the internet.</string>
+	<key>BTMMSigningIn</key>
+	<string>Signing in…</string>
+	<key>BTMMStarting</key>
+	<string>Starting…</string>
+	<key>BTMMStatusNotAvailable</key>
+	<string>Status is not available.</string>
+	<key>BTMMValidatingPassword</key>
+	<string>Validating Password…</string>
+	<key>BTMMiCloudRequiresNewerFirmware</key>
+	<string>Back to My Mac with iCloud requires a newer version of the base station firmware.</string>
+	<key>Band</key>
+	<string>Band</string>
+	<key>BaseStation</key>
+	<string>Base Station</string>
+	<key>BaseStationNotSupportedCancel</key>
+	<string>Cancel</string>
+	<key>BaseStationNotSupportedContinue</key>
+	<string>Continue</string>
+	<key>BaseStationNotSupportedTitle</key>
+	<string>Newer AirPort Utility Required</string>
+	<key>BaseStationNotSupportedWarning</key>
+	<string>This version of AirPort Utility doesn’t support this AirPort base station and might improperly configure the device if you continue to use it.</string>
+	<key>BaseStationResetting</key>
+	<string>Your base station is restored to default settings.</string>
+	<key>BaseStationRestarting</key>
+	<string>Your base station is restarting and will be available shortly.</string>
+	<key>BaseStationStatusTitle</key>
+	<string>Base Station Status</string>
+	<key>BaseStationUpdating</key>
+	<string>Your base station is being updated and will be available shortly.</string>
+	<key>BytesSuffix</key>
+	<string>Bytes</string>
+	<key>CheckAppStoreForAUUpdate</key>
+	<string>Check the App Store for the latest version of AirPort Utility.</string>
+	<key>CheckURLForAUUpdate</key>
+	<string>Check %@ for the latest version of AirPort Utility.</string>
+	<key>ConflictingPortTCPACP</key>
+	<string>A public TCP port number conflicts with the configuration port on the base station. Choose a different port number.</string>
+	<key>ConflictingPortTCPFileSharing</key>
+	<string>A public TCP port number conflicts with a file sharing port on the base station. Disable file sharing or choose a different port number.</string>
+	<key>ConflictingPortTCPFileSharingNoDisable</key>
+	<string>A public TCP port number conflicts with a file sharing port on the base station. Choose a different port number.</string>
+	<key>ConflictingPortUDP</key>
+	<string>A public UDP port number conflicts with a port in use by a service on the base station. Choose a different public port number.</string>
+	<key>ConflictingPortUDPFileSharing</key>
+	<string>A public UDP port number conflicts with a file sharing port on the base station. Disable file sharing or choose a different port number.</string>
+	<key>ConflictingPortUDPFileSharingNoDisable</key>
+	<string>A public UDP port number conflicts with a file sharing port on the base station. Choose a different port number.</string>
+	<key>ConflictingPortUDPSNMP</key>
+	<string>A public UDP port conflicts with the SNMP port on the base station. Disable SNMP or choose a different port number.</string>
+	<key>ConflictingPortUDPiCloud</key>
+	<string>A public UDP port conflicts with the iCloud ports on the base station. Disable iCloud or choose a different port number.</string>
+	<key>Connection</key>
+	<string>Connection Info</string>
+	<key>ContinueAnyways</key>
+	<string>Are you sure you want to continue?</string>
+	<key>DHCPGuestRange.selector</key>
+	<string>DHCP Guest Range</string>
+	<key>DHCPPrivateRange.0</key>
+	<string>10.0</string>
+	<key>DHCPPrivateRange.1</key>
+	<string>172.16</string>
+	<key>DHCPPrivateRange.2</key>
+	<string>192.168</string>
+	<key>DHCPPrivateRange.label.0</key>
+	<string>10.0.x.x</string>
+	<key>DHCPPrivateRange.label.1</key>
+	<string>172.16.x.x</string>
+	<key>DHCPPrivateRange.label.2</key>
+	<string>192.168.x.x</string>
+	<key>DHCPRange.selector</key>
+	<string>DHCP Range</string>
+	<key>DHCPServer</key>
+	<string>DHCP Server</string>
+	<key>DRes</key>
+	<string>DHCP Reservations</string>
+	<key>DRes.addbutton</key>
+	<string>New Reservation…</string>
+	<key>DRes.count</key>
+	<string>Reservations</string>
+	<key>DRes.count.0</key>
+	<string>None</string>
+	<key>DRes.count.1</key>
+	<string>On (%@ reservation)</string>
+	<key>DRes.count.2+</key>
+	<string>On (%@ reservations)</string>
+	<key>DRes.deletebutton</key>
+	<string>Delete Reservation</string>
+	<key>DRes.description.placeholder</key>
+	<string>Description</string>
+	<key>DRes.ip.placeholder</key>
+	<string>10.0.1.2</string>
+	<key>DRes.mac.placeholder</key>
+	<string>00:11:00:11:00:11</string>
+	<key>DRes.title</key>
+	<string>DHCP Reservations</string>
+	<key>DRes.type</key>
+	<string>Reserve address by</string>
+	<key>DRes.type.0</key>
+	<string>Disabled</string>
+	<key>DRes.type.1</key>
+	<string>DHCP Client ID</string>
+	<key>DRes.type.2</key>
+	<string>MAC Address</string>
+	<key>DataRate</key>
+	<string>Data Rate</string>
+	<key>DateTime</key>
+	<string>Date &amp; Time</string>
+	<key>Device</key>
+	<string>Device</string>
+	<key>DiagsAndUsageAnonUUID</key>
+	<string>Anonymous UUID</string>
+	<key>DiagsAndUsageAnonUUIDFormat</key>
+	<string>%1$@ : %2$@</string>
+	<key>DiagsAndUsageApplePrivacyHelpTitle</key>
+	<string>About Diagnostics and Privacy</string>
+	<key>DiagsAndUsageApplePrivacyHelpTitle.short</key>
+	<string>Diagnostics</string>
+	<key>DiagsAndUsageApplePrivacyLink</key>
+	<string>http://www.apple.com/privacy</string>
+	<key>DiagsAndUsageDataTitle</key>
+	<string>Diagnostics &amp; Usage Data</string>
+	<key>DiagsAndUsageDataTitle.short</key>
+	<string>Diagnostics</string>
+	<key>DiagsAndUsageDataWontBeSent</key>
+	<string>Diagnostics &amp; usage data will not be sent to Apple.</string>
+	<key>DiagsAndUsageDontSend</key>
+	<string>Don’t Send</string>
+	<key>DiagsAndUsageHelpAppleText</key>
+	<string>Help Apple improve its products and services by having your AirPort base station automatically send Apple information from time to time about how it’s working and how you use it.</string>
+	<key>DiagsAndUsageNoEntries</key>
+	<string>No Information has been collected</string>
+	<key>DiagsAndUsageSend</key>
+	<string>Automatically Send</string>
+	<key>DiagsAndUsageSendMac</key>
+	<string>Send diagnostics &amp; usage data to Apple</string>
+	<key>DiagsAndUsageTitle</key>
+	<string>Diagnostics &amp; Usage</string>
+	<key>DiagsAndUsageTitle.short</key>
+	<string>Diagnostics</string>
+	<key>Disk</key>
+	<string>Disks</string>
+	<key>DiskArchiveFreeSpaceFormat</key>
+	<string>%@ available</string>
+	<key>DiskArchiveFreeSpaceInsufficientSpace</key>
+	<string>Insufficient Space (%@)</string>
+	<key>DiskArchiveNameDiskIsLocked</key>
+	<string>%@ (disk is locked)</string>
+	<key>DiskArchiveNameFreeSpaceFormat</key>
+	<string>%1$@ (%2$@ available)</string>
+	<key>DiskArchiveNameFreeSpaceInsufficientSpace</key>
+	<string>%@ (%@ available - insufficient space)</string>
+	<key>DiskArchiveNoDestDescription</key>
+	<string>Make sure the storage device has enough space for the archive before connecting it to the base station’s USB Port.</string>
+	<key>DiskArchiveNoDestPartitions</key>
+	<string>No AirPort disks available</string>
+	<key>DiskFunctions</key>
+	<string>Disk Management</string>
+	<key>DubN</key>
+	<string>Double NAT</string>
+	<key>DubN.description</key>
+	<string>This AirPort base station has a private IP address on its Ethernet WAN port. It is connected to a device or network that is using Network Address Translation (NAT) to provide private IP addresses. Change your AirPort base station from using DHCP and NAT to bridge mode.</string>
+	<key>DubN.remedy</key>
+	<string>Internet…</string>
+	<key>EditHostnameTitle</key>
+	<string>Dynamic Global Hostname</string>
+	<key>EditLocalHostnameTitle</key>
+	<string>Local Hostname</string>
+	<key>EditProblemButtonTitle</key>
+	<string>Edit Setting</string>
+	<key>EnablingBTMMPortConflict</key>
+	<string>Enabling Back to My Mac conflicts with one or more of your port mappings.</string>
+	<key>EnablingFileSharingPortConflict</key>
+	<string>Enabling file sharing conflicts with one or more of your port mappings.</string>
+	<key>EnablingSNMPPortConflict</key>
+	<string>Enabling SNMP conflicts with one or more of your port mappings.</string>
+	<key>EraD</key>
+	<string>Erasing the AirPort disk</string>
+	<key>EraD.description</key>
+	<string>The AirPort disk %@ is being erased. Erasing cannot be canceled.</string>
+	<key>EraI</key>
+	<string>Erasing the AirPort Time Capsule disk</string>
+	<key>EraI.description</key>
+	<string>Erasing the AirPort Time Capsule disk cannot be canceled.</string>
+	<key>EveryoneElse</key>
+	<string>(default)</string>
+	<key>Expired</key>
+	<string>(Expired)</string>
+	<key>ExtendingANonExtensibleEnabledNetwork</key>
+	<string>The network you selected isn’t set up to be extended.</string>
+	<key>ExtendingANonExtensibleEnabledNetwork.Specific</key>
+	<string>“%@” isn’t set up to be extended.</string>
+	<key>ExtendingANonExtensibleNetwork</key>
+	<string>The network you selected cannot be extended.</string>
+	<key>ExtendingANonExtensibleNetwork.Specific</key>
+	<string>“%@” cannot be extended.</string>
+	<key>FindAppForAccessory</key>
+	<string>Find App for Accessory</string>
+	<key>Firewall</key>
+	<string>Firewall</string>
+	<key>FullAccess</key>
+	<string>Unlimited</string>
+	<key>GHz.0.0.format</key>
+	<string>%@</string>
+	<key>GHz.0.1.format</key>
+	<string>%@
+2.4GHz</string>
+	<key>GHz.0.2.format</key>
+	<string>%@
+5GHz</string>
+	<key>GHz.0.3.format</key>
+	<string>%@
+2.4 &amp; 5GHz</string>
+	<key>GHz.1.0.format</key>
+	<string>%@
+Secure</string>
+	<key>GHz.1.1.format</key>
+	<string>%@
+2.4GHz Secure</string>
+	<key>GHz.1.2.format</key>
+	<string>%@
+5GHz Secure</string>
+	<key>GHz.1.3.format</key>
+	<string>%@
+2.4 &amp; 5GHz Secure</string>
+	<key>GHz.root.format</key>
+	<string>GHz.%1$@.%2$@.format</string>
+	<key>General</key>
+	<string>bsSP.%@</string>
+	<key>General.nonApple</key>
+	<string>Non Apple Router</string>
+	<key>GenericACPError</key>
+	<string>Make sure your base station is plugged in and in range of your computer or connected via Ethernet and try again. (%d)</string>
+	<key>GigaBytesSuffix</key>
+	<string>GB</string>
+	<key>GuestNetworkFooterText</key>
+	<string>A guest network allows wireless clients to connect to the Internet without accessing your private network.</string>
+	<key>GuestNetworkNameDefault</key>
+	<string>Guest Network</string>
+	<key>HiddenNetworkFooterText</key>
+	<string>To join a hidden network, a user must know the name of the network.</string>
+	<key>Hostnames</key>
+	<string>Hostnames</string>
+	<key>IDNm</key>
+	<string>Name</string>
+	<key>IDNm.placeholder</key>
+	<string>Disk name</string>
+	<key>IGMP</key>
+	<string>IGMP Snooping</string>
+	<key>IPv4</key>
+	<string>IPv4</string>
+	<key>IPv4PortMapping</key>
+	<string>IPv4 Port Mapping</string>
+	<key>IPv6</key>
+	<string>IPv6</string>
+	<key>IPv6Firewall</key>
+	<string>IPv6 Firewall Entry</string>
+	<key>Ifsc</key>
+	<string>Internal disk needs repair</string>
+	<key>Ifsc.description</key>
+	<string>There is a problem with your AirPort Time Capsule disk.</string>
+	<key>Ifsc.remedy</key>
+	<string>Disks…</string>
+	<key>Ifsl</key>
+	<string>Internal disk space is low</string>
+	<key>Ifsl.description</key>
+	<string>Your AirPort Time Capsule disk is low on storage space.</string>
+	<key>Ifsl.remedy</key>
+	<string>Disks…</string>
+	<key>InternalDiskDefaultPartitionName</key>
+	<string>AirPort Disk</string>
+	<key>Internet</key>
+	<string>Internet</string>
+	<key>KiloBytesSuffix</key>
+	<string>KB</string>
+	<key>LabelColon</key>
+	<string>:</string>
+	<key>LaunchAppStoreButtonTitle</key>
+	<string>App Store</string>
+	<key>LessSecureCommunication</key>
+	<string>Communicating with this AirPort base station may expose the password you enter to any other device on the network.</string>
+	<key>LessSecureCommunication.specific</key>
+	<string>Communicating with “%@” may expose the password you enter to any other device on the network.</string>
+	<key>MaSt</key>
+	<string>Disks</string>
+	<key>MaSt.value</key>
+	<string>%@ free</string>
+	<key>MegaBytesSuffix</key>
+	<string>MB</string>
+	<key>MoreInfoButtonTitle</key>
+	<string>More Info</string>
+	<key>NATFooterText</key>
+	<string>Use Network Address Translation (NAT) to share a single public IP address with computers and devices on your network.</string>
+	<key>NATService</key>
+	<string>NAT Service</string>
+	<key>NoAccess</key>
+	<string>No Access</string>
+	<key>NotSupported</key>
+	<string>Not Supported</string>
+	<key>PPPoE_COD_ID_WAB_Conflict</key>
+	<string>PPPoE automatic connection/idle disconnection cannot be used with a global hostname.</string>
+	<key>PasswordsSectionTitle</key>
+	<string>Passwords</string>
+	<key>PortMappingFooterText</key>
+	<string>Use port settings if you want computers outside your network to access specific devices on your network.</string>
+	<key>PortWillBeDeleted</key>
+	<string>The conflicting port mappings will be deleted. Do you want to continue?</string>
+	<key>PreShared5GHzKey</key>
+	<string>5GHz Pre-Shared Key</string>
+	<key>PreSharedKey</key>
+	<string>Pre-Shared Key</string>
+	<key>PrimaryRADIUSHeaderText</key>
+	<string>Primary RADIUS Server</string>
+	<key>PrinterDescription</key>
+	<string>Printer Description</string>
+	<key>PrinterName</key>
+	<string>Printer Name</string>
+	<key>Printers</key>
+	<string>Printers</string>
+	<key>Prof</key>
+	<string>Current Profile</string>
+	<key>Prof.addbutton</key>
+	<string>New Profile…</string>
+	<key>Prof.alert</key>
+	<string>Delete Profile</string>
+	<key>Prof.alertbody</key>
+	<string>If you delete this profile, current settings will no longer be saved on this %@.</string>
+	<key>Prof.alertcancel</key>
+	<string>Cancel</string>
+	<key>Prof.alertok</key>
+	<string>Delete</string>
+	<key>Prof.defaultname</key>
+	<string>%@ copy</string>
+	<key>Prof.delete</key>
+	<string>Delete Profile</string>
+	<key>Prof.deletebutton</key>
+	<string>Delete Profile</string>
+	<key>Prof.footer</key>
+	<string>This %@ supports multiple configurations. You can add, delete, or make a profile active.</string>
+	<key>Prof.header</key>
+	<string>Profiles</string>
+	<key>Prof.name</key>
+	<string>Profile Name</string>
+	<key>Prof.summary</key>
+	<string>Profile</string>
+	<key>ProfileFooterText</key>
+	<string>Profiles contain base station settings, such as names and passwords, and network configuration information, such as the way the base station connects to the Internet.</string>
+	<key>Profiles</key>
+	<string>Profiles</string>
+	<key>RUdv</key>
+	<string>USB Sharing</string>
+	<key>RUfl</key>
+	<string>USB Sharing</string>
+	<key>RadioSTAList80211Mode</key>
+	<string>802.11 Mode</string>
+	<key>RadioSTAListClientType</key>
+	<string>Client Type</string>
+	<key>RadioSTAListOpmodeDWDS</key>
+	<string>Wireless Extender</string>
+	<key>RadioSTAListOpmodePSTA</key>
+	<string>Ethernet</string>
+	<key>RadioSTAListOpmodeSTA</key>
+	<string>Wireless</string>
+	<key>RadioSTAListOpmodeWDS</key>
+	<string>WDS</string>
+	<key>RestoreDefaultsReplaced</key>
+	<string>If you plan to use the device you’re replacing again, restore it to factory settings.</string>
+	<key>RestoreDefaultsReplacedNamed</key>
+	<string>If you plan to use “%@” again, restore it to factory settings.</string>
+	<key>RestoreDefaultsUseAU56</key>
+	<string>Use AirPort Utility 5.6 to restore this AirPort base station to factory settings.</string>
+	<key>RestoreDefaultsUseAU56Replaced</key>
+	<string>If you plan to use the device you’re replacing again, use AirPort Utility 5.6 to restore it to factory settings.</string>
+	<key>RestoreDefaultsUseAU56ReplacedNamed</key>
+	<string>If you plan to use “%@” again, use AirPort Utility 5.6 to restore it to factory settings.</string>
+	<key>SMBs</key>
+	<string>WINS Server</string>
+	<key>SMBw</key>
+	<string>Workgroup</string>
+	<key>SNMP</key>
+	<string>SNMP</string>
+	<key>SSdF</key>
+	<string>AirPort Time Capsule disk is failing</string>
+	<key>SSdF.description</key>
+	<string>There’s a problem with your AirPort Time Capsule disk. Connect a USB hard disk to your AirPort Time Capsule and archive to back up its data. For repair, visit the Genius Bar at your local Apple Store or an Apple Authorized Service Provider.</string>
+	<key>SSdF.remedy</key>
+	<string>Disks…</string>
+	<key>SUEn</key>
+	<string>Check for updates</string>
+	<key>SUEn.0</key>
+	<string>Disabled</string>
+	<key>SUEn.1</key>
+	<string>Enabled</string>
+	<key>SUEn.description</key>
+	<string>If “Check for firmware updates” is selected, the status light will blink amber if a firmware update is available.</string>
+	<key>SUFq</key>
+	<string>Update frequency</string>
+	<key>SUFq.2592000</key>
+	<string>Monthly</string>
+	<key>SUFq.2678400</key>
+	<string>Monthly</string>
+	<key>SUFq.3600</key>
+	<string>Hourly</string>
+	<key>SUFq.604800</key>
+	<string>Weekly</string>
+	<key>SUFq.86400</key>
+	<string>Daily</string>
+	<key>SecondaryRADIUSHeaderText</key>
+	<string>Secondary RADIUS Server</string>
+	<key>SelectPPPoEAlwaysOn</key>
+	<string>Select “Always On” from the Connection menu.</string>
+	<key>SelectPPPoEAlwaysOnOrManual</key>
+	<string>Select “Always On” or “Manual” from the Connection menu.</string>
+	<key>SelectPPPoEIdleNever</key>
+	<string>Select “Never” from the Disconnect if Idle menu.</string>
+	<key>SpecialChannelExtra.format</key>
+	<string>%@, %@</string>
+	<key>Status</key>
+	<string>Status</string>
+	<key>Summary</key>
+	<string>Summary</string>
+	<key>SystemLogging</key>
+	<string>System Logging</string>
+	<key>TCPIP</key>
+	<string>TCP/IP</string>
+	<key>TaIP</key>
+	<string>This AirPort base station is busy</string>
+	<key>TaIP.description</key>
+	<string>Do not unplug or reset this AirPort base station until it is available.</string>
+	<key>TeraBytesSuffix</key>
+	<string>TB</string>
+	<key>TimeCapsuleArchive</key>
+	<string>AirPort Time Capsule Archive</string>
+	<key>TimeCapsuleArchiveWithDate</key>
+	<string>AirPort Time Capsule Archive %@</string>
+	<key>TimeCapsuleArchiveWithName</key>
+	<string>%@ Archive</string>
+	<key>TimeCapsuleArchiveWithNameAndDate</key>
+	<string>%1$@ Archive - %2$@</string>
+	<key>TimedAccessFooterText</key>
+	<string>Timed access specifies times and days that a client can join the network based on their wireless MAC address.</string>
+	<key>TurnOffNamedDeviceBeingReplaced</key>
+	<string>Unplug “%@”, enter names and passwords, and then click Next.</string>
+	<key>TurnOffNetworkBeingReplaced</key>
+	<string>Unplug the device you’re replacing before continuing.</string>
+	<key>UnitizedSizeNumericalFormat</key>
+	<string>%1$@ %2$@</string>
+	<key>UnsupportedBaseStation</key>
+	<string>This version of AirPort Utility doesn’t support this base station. Use AirPort Utility 5.6 to configure or manage this base station.</string>
+	<key>UnsupportedBaseStationFWBaseName</key>
+	<string>This version of AirPort Utility requires “%@” use firmware version 7.3.1 or later.</string>
+	<key>UnsupportedBaseStationFWProductName</key>
+	<string>This version of AirPort Utility requires this %@ use firmware version 7.3.1 or later.</string>
+	<key>UnsupportedBaseStationFWRecommendation</key>
+	<string>Use AirPort Utility 5.6 to update this base station.</string>
+	<key>UnsupportedBaseStationFWReplace</key>
+	<string>To use settings from “%@”, first use AirPort Utility 5.6 to update its firmware. To create a new network click Next.</string>
+	<key>UnsupportedBaseStationMtLionPlus</key>
+	<string>This version of AirPort Utility doesn’t support this base station.</string>
+	<key>ValidationError.title</key>
+	<string>Invalid value</string>
+	<key>WABHostnameMissingError.description</key>
+	<string>Please enter a global hostname for this AirPort base station.</string>
+	<key>WABHostnameMissingError.title</key>
+	<string>Hostname Required</string>
+	<key>WEPKey</key>
+	<string>WEP Key</string>
+	<key>WPS.Canceling</key>
+	<string>Canceling…</string>
+	<key>WPS.CleaningUp</key>
+	<string>Finishing…</string>
+	<key>WPS.Done.Failed</key>
+	<string>An error occurred while a wireless client was trying to join your network. Please try again.</string>
+	<key>WPS.Done.Failed.Printer</key>
+	<string>An error occurred while a WPS printer was trying to join your network. Please try again.</string>
+	<key>WPS.Done.Success</key>
+	<string>The new wireless client successfully joined your network.</string>
+	<key>WPS.Done.Success.Printer</key>
+	<string>The new WPS printer successfully joined your network.</string>
+	<key>WPS.Panel.0.LimitMessage.0</key>
+	<string>Not limiting the client’s access to 24 hours will give the client unlimited access to your network.</string>
+	<key>WPS.Panel.0.LimitMessage.1</key>
+	<string> </string>
+	<key>WPS.Panel.1.Description</key>
+	<string>Enter the client’s PIN</string>
+	<key>WPS.Panel.1.Description.Printer</key>
+	<string>Enter the WPS printer’s PIN</string>
+	<key>WPS.Panel.1.Explanation</key>
+	<string>The PIN will either be shown on the client’s display or printed on the device if the client doesn’t have a display.</string>
+	<key>WPS.Panel.1.Explanation.Printer</key>
+	<string>The PIN will either be shown on the printer’s display, on a label affixed to the printer or on a page printed by the printer.</string>
+	<key>WPS.Panel.1.PINLabel</key>
+	<string>PIN</string>
+	<key>WPS.Panel.2.Description</key>
+	<string>When a wireless client successfully joins your network, it will appear below.</string>
+	<key>WPS.Panel.2.Description.Above</key>
+	<string>When a wireless client successfully joins your network, it will appear above.</string>
+	<key>WPS.Panel.2.Description.Above.Printer</key>
+	<string>When a WPS printer successfully joins your network, it will appear above.</string>
+	<key>WPS.Panel.2.Description.Printer</key>
+	<string>When a WPS printer successfully joins your network, it will appear below.</string>
+	<key>WPS.Panel.2.WaitingForLabel</key>
+	<string>Waiting for a wireless client…</string>
+	<key>WPS.Panel.2.WaitingForLabel.Printer</key>
+	<string>Waiting for a WPS printer…</string>
+	<key>WPS.title</key>
+	<string>Add Client</string>
+	<key>WPS.title.Printer</key>
+	<string>Add WPS Printer</string>
+	<key>WPSClientDescription</key>
+	<string>Description</string>
+	<key>WPSClientMacAddress</key>
+	<string>MAC Address</string>
+	<key>WPSFirstAttempt</key>
+	<string>On First Attempt</string>
+	<key>WPSLimitClientAccess24Hours</key>
+	<string>Limit client’s access to 24 hours</string>
+	<key>WPSPIN</key>
+	<string>With PIN</string>
+	<key>WPSPanel.0.Header.title</key>
+	<string>Allow wireless client</string>
+	<key>WPSPanel.0.Header.title.Printer</key>
+	<string>Allow WPS printer</string>
+	<key>WiFi</key>
+	<string>Network Info</string>
+	<key>WiFiChannelDetailFormat</key>
+	<string>(Channel %@)</string>
+	<key>WiFiDetailsFormat</key>
+	<string>%1$@ (Channel %2$@)</string>
+	<key>WiFiNetwork</key>
+	<string>Wi-Fi Network</string>
+	<key>WiFiPasswords</key>
+	<string>Wi-Fi Password</string>
+	<key>WindowsFileSharing</key>
+	<string>Windows File Sharing</string>
+	<key>YouShouldUpdateFirmware</key>
+	<string>You should update this AirPort base station to the latest firmware.</string>
+	<key>YouShouldUpdateFirmware.specific</key>
+	<string>You should update “%@” to the latest firmware.</string>
+	<key>aWan</key>
+	<string>Over WAN</string>
+	<key>acTa</key>
+	<string>Access Control</string>
+	<key>addClientWithWPS</key>
+	<string>Add Client</string>
+	<key>addClientWithWPS.Printer</key>
+	<string>Add WPS Printer</string>
+	<key>advanced.label</key>
+	<string>Advanced</string>
+	<key>advertiseService</key>
+	<string>Advertise globally</string>
+	<key>allowAll</key>
+	<string>Allow</string>
+	<key>allowAll.0</key>
+	<string>Specific TCP and UDP ports</string>
+	<key>allowAll.1</key>
+	<string>All services and ports</string>
+	<key>allowAllIPv6</key>
+	<string>Allow traffic to all IPv6 hosts</string>
+	<key>and</key>
+	<string>and</string>
+	<key>auNN</key>
+	<string>Speaker Name</string>
+	<key>auNN.off</key>
+	<string>Off</string>
+	<key>auNN.on</key>
+	<string>%@</string>
+	<key>auNN.summary</key>
+	<string>AirPlay</string>
+	<key>auNP</key>
+	<string>Password</string>
+	<key>auNP.0</key>
+	<string>None</string>
+	<key>auNP.placeholder</key>
+	<string>Password</string>
+	<key>auRR</key>
+	<string>Enable AirPlay</string>
+	<key>basePassword</key>
+	<string>Base Station</string>
+	<key>bs2M</key>
+	<string>Wi-Fi 2.4GHz</string>
+	<key>bs2N</key>
+	<string>2.4GHz Name</string>
+	<key>bs5M</key>
+	<string>Wi-Fi 5GHz</string>
+	<key>bs5S</key>
+	<string>5GHz Name</string>
+	<key>bs5S.extension</key>
+	<string> 5GHz</string>
+	<key>bs6A</key>
+	<string>IPv6 Address</string>
+	<key>bs6A.placeholder</key>
+	<string>0000:000:a:00::0/0</string>
+	<key>bs6A.router</key>
+	<string>IPv6 WAN Address</string>
+	<key>bs6C</key>
+	<string>Configure IPv6</string>
+	<key>bs6C.0</key>
+	<string>Link-local only</string>
+	<key>bs6C.1</key>
+	<string>Automatically</string>
+	<key>bs6C.2</key>
+	<string>Manually</string>
+	<key>bs6M</key>
+	<string>IPv6 Mode</string>
+	<key>bs6M.0</key>
+	<string>Native</string>
+	<key>bs6M.1</key>
+	<string>Tunnel</string>
+	<key>bs6M.2</key>
+	<string>Native Host</string>
+	<key>bs6P</key>
+	<string>IPv6 Delegated Prefix</string>
+	<key>bs6P.placeholder</key>
+	<string>0000:000:a:00::0/0</string>
+	<key>bs6S</key>
+	<string>Share IPv6 Connection</string>
+	<key>bs6S.off</key>
+	<string>Off</string>
+	<key>bs6S.on</key>
+	<string>On</string>
+	<key>bs8M</key>
+	<string>Radio Mode</string>
+	<key>bs8M.1</key>
+	<string>802.11b only</string>
+	<key>bs8M.2</key>
+	<string>802.11b/g compatible</string>
+	<key>bs8M.262145</key>
+	<string>802.11a - 802.11b</string>
+	<key>bs8M.262146</key>
+	<string>802.11a - 802.11b/g</string>
+	<key>bs8M.262147</key>
+	<string>802.11a - 802.11g only</string>
+	<key>bs8M.262150</key>
+	<string>802.11a - 802.11b/g/n</string>
+	<key>bs8M.262151</key>
+	<string>802.11a - 802.11n only (2.4GHz)</string>
+	<key>bs8M.3</key>
+	<string>802.11g only</string>
+	<key>bs8M.327681</key>
+	<string>802.11a/n - 802.11b</string>
+	<key>bs8M.327682</key>
+	<string>802.11a/n - 802.11b/g</string>
+	<key>bs8M.327683</key>
+	<string>802.11a/n - 802.11g only</string>
+	<key>bs8M.327686</key>
+	<string>802.11a/n - 802.11b/g/n</string>
+	<key>bs8M.327687</key>
+	<string>802.11a/n - 802.11n only (2.4GHz)</string>
+	<key>bs8M.4</key>
+	<string>802.11a only</string>
+	<key>bs8M.5</key>
+	<string>802.11n (802.11a compatible)</string>
+	<key>bs8M.524289</key>
+	<string>802.11n only (5GHz) - 802.11b</string>
+	<key>bs8M.524290</key>
+	<string>802.11n only (5GHz) - 802.11b/g</string>
+	<key>bs8M.524291</key>
+	<string>802.11n only (5GHz) - 802.11g only</string>
+	<key>bs8M.524294</key>
+	<string>802.11n only (5GHz) - 802.11b/g/n</string>
+	<key>bs8M.524295</key>
+	<string>802.11n only (5GHz) - 802.11n only (2.4GHz)</string>
+	<key>bs8M.6</key>
+	<string>802.11n (802.11b/g compatible)</string>
+	<key>bs8M.655361</key>
+	<string>802.11a/n/ac (5GHz) - 802.11b</string>
+	<key>bs8M.655362</key>
+	<string>802.11a/n/ac (5GHz) - 802.11b/g</string>
+	<key>bs8M.655363</key>
+	<string>802.11a/n/ac (5GHz) - 802.11g only</string>
+	<key>bs8M.655366</key>
+	<string>802.11a/n/ac (5GHz) - 802.11b/g/n</string>
+	<key>bs8M.655367</key>
+	<string>802.11a/n/ac (5GHz) - 802.11n only (2.4GHz)</string>
+	<key>bs8M.7</key>
+	<string>802.11n only (2.4GHz)</string>
+	<key>bs8M.8</key>
+	<string>802.11n only (5GHz)</string>
+	<key>bs8M.description.327686</key>
+	<string>802.11a/n - 802.11b/g/n</string>
+	<key>bs8M.labelValue.0</key>
+	<string>Manual</string>
+	<key>bs8M.labelValue.1</key>
+	<string>Automatic</string>
+	<key>bsAC</key>
+	<string>Allow wireless clients</string>
+	<key>bsAE.tsnDescription</key>
+	<string>A Transitional Security Network (TSN) is a WEP network that also allows TKIP and AES clients to join. Clients that support AES will be able to achieve faster data rates.</string>
+	<key>bsAE.wpaOneDescription</key>
+	<string>WPA clients can join this network using TKIP.</string>
+	<key>bsAE.wpaOneTwoDescription</key>
+	<string>WPA and WPA2 clients can join this network.</string>
+	<key>bsAE.wpaTwoDescription</key>
+	<string>WPA2 clients can join this network using AES-CCMP.</string>
+	<key>bsAI</key>
+	<string>5GHz / 2.4GHz AirPort IDs</string>
+	<key>bsAT</key>
+	<string>Access Control</string>
+	<key>bsAT.0</key>
+	<string>Not Enabled</string>
+	<key>bsAT.1</key>
+	<string>Local</string>
+	<key>bsAT.2</key>
+	<string>RADIUS</string>
+	<key>bsAT.3</key>
+	<string>Timed Access</string>
+	<key>bsBT</key>
+	<string>Back to My Mac</string>
+	<key>bsBT.appleID</key>
+	<string>Apple ID</string>
+	<key>bsBT.count</key>
+	<string>Back To My Mac</string>
+	<key>bsBT.count.0</key>
+	<string>Disabled</string>
+	<key>bsBT.count.1</key>
+	<string>Enabled</string>
+	<key>bsBT.count.2+</key>
+	<string>Enabled</string>
+	<key>bsBT.password</key>
+	<string>Password</string>
+	<key>bsBU</key>
+	<string>Share Over Internet</string>
+	<key>bsCA</key>
+	<string>IPv6 Address</string>
+	<key>bsCA.router</key>
+	<string>IPv6 WAN Address</string>
+	<key>bsCC</key>
+	<string>Country Code</string>
+	<key>bsCC.1</key>
+	<string>Australia</string>
+	<key>bsCC.10</key>
+	<string>Germany</string>
+	<key>bsCC.11</key>
+	<string>Greece</string>
+	<key>bsCC.12</key>
+	<string>Guam</string>
+	<key>bsCC.13</key>
+	<string>Hong Kong S.A.R., China</string>
+	<key>bsCC.14</key>
+	<string>Iceland</string>
+	<key>bsCC.15</key>
+	<string>India</string>
+	<key>bsCC.16</key>
+	<string>Ireland</string>
+	<key>bsCC.17</key>
+	<string>Italy</string>
+	<key>bsCC.18</key>
+	<string>Japan</string>
+	<key>bsCC.19</key>
+	<string>Republic of Korea</string>
+	<key>bsCC.2</key>
+	<string>Austria</string>
+	<key>bsCC.20</key>
+	<string>Latin America</string>
+	<key>bsCC.21</key>
+	<string>Malaysia</string>
+	<key>bsCC.22</key>
+	<string>Netherlands</string>
+	<key>bsCC.23</key>
+	<string>New Zealand</string>
+	<key>bsCC.24</key>
+	<string>Norway</string>
+	<key>bsCC.25</key>
+	<string>Philippines</string>
+	<key>bsCC.26</key>
+	<string>Poland</string>
+	<key>bsCC.27</key>
+	<string>Portugal</string>
+	<key>bsCC.28</key>
+	<string>Singapore</string>
+	<key>bsCC.29</key>
+	<string>Slovak Republic</string>
+	<key>bsCC.3</key>
+	<string>Belgium</string>
+	<key>bsCC.30</key>
+	<string>South Africa</string>
+	<key>bsCC.31</key>
+	<string>Spain</string>
+	<key>bsCC.32</key>
+	<string>Sweden</string>
+	<key>bsCC.33</key>
+	<string>Switzerland</string>
+	<key>bsCC.34</key>
+	<string>Taiwan</string>
+	<key>bsCC.35</key>
+	<string>Thailand</string>
+	<key>bsCC.36</key>
+	<string>United Kingdom</string>
+	<key>bsCC.37</key>
+	<string>United States</string>
+	<key>bsCC.4</key>
+	<string>Canada</string>
+	<key>bsCC.5</key>
+	<string>China</string>
+	<key>bsCC.6</key>
+	<string>Czech Republic</string>
+	<key>bsCC.7</key>
+	<string>Denmark</string>
+	<key>bsCC.8</key>
+	<string>Finland</string>
+	<key>bsCC.9</key>
+	<string>France</string>
+	<key>bsCP</key>
+	<string>IPv6 Delegated Prefix</string>
+	<key>bsDA</key>
+	<string>Allow wireless clients</string>
+	<key>bsDI</key>
+	<string>PPP Dial-in</string>
+	<key>bsDN</key>
+	<string>Disk Name</string>
+	<key>bsDP</key>
+	<string>Password</string>
+	<key>bsDP.placeholder</key>
+	<string>Password</string>
+	<key>bsDS</key>
+	<string>Capacity</string>
+	<key>bsDS.value</key>
+	<string>%1$@ (%2$@ Free)</string>
+	<key>bsEC</key>
+	<string>Authorize wireless clients</string>
+	<key>bsEC.description</key>
+	<string>You can set up this base station to allow wireless clients to access your secured network without entering a password. You’ll be notified when a client requests access to your network.</string>
+	<key>bsEP</key>
+	<string>Require base station password to authorize client access</string>
+	<key>bsEP.description</key>
+	<string>Select “Require base station password to authorize client access” if you want to enter the password to allow the client access.</string>
+	<key>bsFE</key>
+	<string>Port Settings</string>
+	<key>bsFE.addbutton</key>
+	<string>New Entry…</string>
+	<key>bsFE.count</key>
+	<string>Port Settings</string>
+	<key>bsFE.count.0</key>
+	<string>None</string>
+	<key>bsFE.count.1</key>
+	<string>%@ entry</string>
+	<key>bsFE.count.2+</key>
+	<string>%@ entries</string>
+	<key>bsFE.deletebutton</key>
+	<string>Delete Entry</string>
+	<key>bsFM</key>
+	<string>Secure Disks</string>
+	<key>bsFM.0</key>
+	<string>With accounts</string>
+	<key>bsFM.1</key>
+	<string>With a disk password</string>
+	<key>bsFM.2</key>
+	<string>With device password</string>
+	<key>bsFS</key>
+	<string>File Sharing</string>
+	<key>bsFS.0</key>
+	<string>Off</string>
+	<key>bsFS.1</key>
+	<string>On (%@ user)</string>
+	<key>bsFS.2+</key>
+	<string>On (%@ users)</string>
+	<key>bsGA</key>
+	<string>Guest Access</string>
+	<key>bsGA.0</key>
+	<string>Not allowed</string>
+	<key>bsGA.1</key>
+	<string>Read only</string>
+	<key>bsGA.2</key>
+	<string>Read and write</string>
+	<key>bsGD</key>
+	<string>Guest Network DHCP Range</string>
+	<key>bsGE</key>
+	<string>Guest Network</string>
+	<key>bsGE.0</key>
+	<string>Disabled</string>
+	<key>bsGE.1</key>
+	<string>Enabled</string>
+	<key>bsGK</key>
+	<string>Rotate WPA Key</string>
+	<key>bsGM</key>
+	<string>Limit Access</string>
+	<key>bsGN</key>
+	<string>Guest Network</string>
+	<key>bsGN.off</key>
+	<string>Off</string>
+	<key>bsGN.on</key>
+	<string>%@</string>
+	<key>bsGN.summary</key>
+	<string>Guest Network</string>
+	<key>bsGP</key>
+	<string>Password</string>
+	<key>bsGP.placeholder</key>
+	<string>Password</string>
+	<key>bsGS</key>
+	<string>Security</string>
+	<key>bsGS.1</key>
+	<string>None</string>
+	<key>bsGS.5</key>
+	<string>WPA/WPA2 Personal</string>
+	<key>bsGS.7</key>
+	<string>WPA2 Personal</string>
+	<key>bsIC</key>
+	<string>Connect Using</string>
+	<key>bsIC.1</key>
+	<string>Ethernet</string>
+	<key>bsIC.2</key>
+	<string>PPPoE</string>
+	<key>bsIC.3</key>
+	<string>Modem</string>
+	<key>bsIC.4</key>
+	<string>AirPort (WDS)</string>
+	<key>bsIC.5</key>
+	<string>Wireless Network</string>
+	<key>bsIC.6</key>
+	<string>DHCP</string>
+	<key>bsIC.7</key>
+	<string>Static</string>
+	<key>bsMu</key>
+	<string>Multicast Rate</string>
+	<key>bsMu.1</key>
+	<string>1 Mbps</string>
+	<key>bsMu.1000</key>
+	<string>Low</string>
+	<key>bsMu.17</key>
+	<string>11 Mbps</string>
+	<key>bsMu.18</key>
+	<string>12 Mbps</string>
+	<key>bsMu.2</key>
+	<string>2 Mbps</string>
+	<key>bsMu.2000</key>
+	<string>Medium</string>
+	<key>bsMu.24</key>
+	<string>18 Mbps</string>
+	<key>bsMu.3000</key>
+	<string>High</string>
+	<key>bsMu.36</key>
+	<string>24 Mbps</string>
+	<key>bsMu.6</key>
+	<string>6 Mbps</string>
+	<key>bsMu.85</key>
+	<string>5.5 Mbps</string>
+	<key>bsMu.9</key>
+	<string>9 Mbps</string>
+	<key>bsNM</key>
+	<string>Wi-Fi Mode</string>
+	<key>bsNM.0</key>
+	<string>Create a wireless network</string>
+	<key>bsNM.1</key>
+	<string>Join a wireless network</string>
+	<key>bsNM.10</key>
+	<string>Participate in a WDS network</string>
+	<key>bsNM.20</key>
+	<string>Extend a wireless network</string>
+	<key>bsNM.3</key>
+	<string>Off</string>
+	<key>bsNM.DWDSDescription</key>
+	<string>Set up this AirPort base station to automatically extend the range of an existing AirPort 802.11n network.</string>
+	<key>bsNM.WDSDescription</key>
+	<string>Set up this AirPort base station to participate in a wireless distribution system to extend a wireless network.</string>
+	<key>bsNM.createDescription</key>
+	<string>Set up this AirPort base station to create a new wireless network.</string>
+	<key>bsNM.joinDescription</key>
+	<string>Set up this AirPort base station to join an existing wireless network.</string>
+	<key>bsNP</key>
+	<string>Network Time Server</string>
+	<key>bsNP.1</key>
+	<string>time.apple.com</string>
+	<key>bsNP.2</key>
+	<string>time.euro.apple.com</string>
+	<key>bsNP.3</key>
+	<string>time.asia.apple.com</string>
+	<key>bsNV</key>
+	<string>Available Version</string>
+	<key>bsP1</key>
+	<string>Port</string>
+	<key>bsP1.1</key>
+	<string>1645</string>
+	<key>bsP1.2</key>
+	<string>1812</string>
+	<key>bsP2</key>
+	<string>Port</string>
+	<key>bsP2.1</key>
+	<string>1645</string>
+	<key>bsP2.2</key>
+	<string>1812</string>
+	<key>bsPC</key>
+	<string>Connection</string>
+	<key>bsPC.0</key>
+	<string>Always On</string>
+	<key>bsPC.1</key>
+	<string>Automatic</string>
+	<key>bsPC.2</key>
+	<string>Manual</string>
+	<key>bsPE</key>
+	<string>Allow Ethernet clients</string>
+	<key>bsRC</key>
+	<string>Radio Channel</string>
+	<key>bsRC.1</key>
+	<string>1</string>
+	<key>bsRC.10</key>
+	<string>10</string>
+	<key>bsRC.100</key>
+	<string>100</string>
+	<key>bsRC.1000</key>
+	<string>Automatic</string>
+	<key>bsRC.104</key>
+	<string>104</string>
+	<key>bsRC.108</key>
+	<string>108</string>
+	<key>bsRC.11</key>
+	<string>11</string>
+	<key>bsRC.112</key>
+	<string>112</string>
+	<key>bsRC.116</key>
+	<string>116</string>
+	<key>bsRC.12</key>
+	<string>12</string>
+	<key>bsRC.120</key>
+	<string>120</string>
+	<key>bsRC.124</key>
+	<string>124</string>
+	<key>bsRC.128</key>
+	<string>128</string>
+	<key>bsRC.13</key>
+	<string>13</string>
+	<key>bsRC.132</key>
+	<string>132</string>
+	<key>bsRC.136</key>
+	<string>136</string>
+	<key>bsRC.14</key>
+	<string>14</string>
+	<key>bsRC.140</key>
+	<string>140</string>
+	<key>bsRC.149</key>
+	<string>149</string>
+	<key>bsRC.153</key>
+	<string>153</string>
+	<key>bsRC.157</key>
+	<string>157</string>
+	<key>bsRC.161</key>
+	<string>161</string>
+	<key>bsRC.165</key>
+	<string>165</string>
+	<key>bsRC.2</key>
+	<string>2</string>
+	<key>bsRC.2000</key>
+	<string>Manual</string>
+	<key>bsRC.2_4GHz.control</key>
+	<string>2.4GHz Channel</string>
+	<key>bsRC.2_4GHz.label</key>
+	<string>(2.4GHz)</string>
+	<key>bsRC.3</key>
+	<string>3</string>
+	<key>bsRC.34</key>
+	<string>34</string>
+	<key>bsRC.36</key>
+	<string>36</string>
+	<key>bsRC.38</key>
+	<string>38</string>
+	<key>bsRC.4</key>
+	<string>4</string>
+	<key>bsRC.40</key>
+	<string>40</string>
+	<key>bsRC.42</key>
+	<string>42</string>
+	<key>bsRC.44</key>
+	<string>44</string>
+	<key>bsRC.46</key>
+	<string>46</string>
+	<key>bsRC.48</key>
+	<string>48</string>
+	<key>bsRC.5</key>
+	<string>5</string>
+	<key>bsRC.52</key>
+	<string>52</string>
+	<key>bsRC.56</key>
+	<string>56</string>
+	<key>bsRC.5GHz.control</key>
+	<string>5GHz Channel</string>
+	<key>bsRC.5GHz.label</key>
+	<string>(5GHz)</string>
+	<key>bsRC.6</key>
+	<string>6</string>
+	<key>bsRC.60</key>
+	<string>60</string>
+	<key>bsRC.64</key>
+	<string>64</string>
+	<key>bsRC.7</key>
+	<string>7</string>
+	<key>bsRC.8</key>
+	<string>8</string>
+	<key>bsRC.9</key>
+	<string>9</string>
+	<key>bsRC.dual</key>
+	<string>Radio Channel Selection</string>
+	<key>bsRF</key>
+	<string>Share On WAN Port</string>
+	<key>bsRF.0</key>
+	<string>Disabled</string>
+	<key>bsRF.1</key>
+	<string>Enabled</string>
+	<key>bsRM</key>
+	<string>Router Mode</string>
+	<key>bsRM.0</key>
+	<string>DHCP and NAT</string>
+	<key>bsRM.1</key>
+	<string>DHCP Only</string>
+	<key>bsRM.2</key>
+	<string>NAT Only</string>
+	<key>bsRM.3</key>
+	<string>Off (Bridge Mode)</string>
+	<key>bsRM.DHCPAndNAT</key>
+	<string>This AirPort base station shares a single IP address with wireless clients using DHCP and NAT.</string>
+	<key>bsRM.description</key>
+	<string>Choose if you want this AirPort base station to share a single IP address with wireless clients using DHCP and NAT, distribute a range of static IP addresses using only DHCP, or act as a bridge.</string>
+	<key>bsRP</key>
+	<string>Printing On WAN</string>
+	<key>bsRP.0</key>
+	<string>Disabled</string>
+	<key>bsRP.1</key>
+	<string>Enabled</string>
+	<key>bsSK</key>
+	<string>Password</string>
+	<key>bsSK.placeholder</key>
+	<string>Password</string>
+	<key>bsSM</key>
+	<string>Security</string>
+	<key>bsSM.1</key>
+	<string>None</string>
+	<key>bsSM.10</key>
+	<string>WPA/WPA2 Enterprise</string>
+	<key>bsSM.11</key>
+	<string>WPA Enterprise</string>
+	<key>bsSM.12</key>
+	<string>WPA2 Enterprise</string>
+	<key>bsSM.2</key>
+	<string>WEP 40 bit</string>
+	<key>bsSM.3</key>
+	<string>WEP 128 bit</string>
+	<key>bsSM.4</key>
+	<string>WPA Personal</string>
+	<key>bsSM.5</key>
+	<string>WPA/WPA2 Personal</string>
+	<key>bsSM.6</key>
+	<string>WPA Personal</string>
+	<key>bsSM.7</key>
+	<string>WPA2 Personal</string>
+	<key>bsSM.8</key>
+	<string>WEP (Transitional Security Network)</string>
+	<key>bsSM.9</key>
+	<string>WPA Enterprise</string>
+	<key>bsSM.description</key>
+	<string>Choose wireless security to protect your network. “WPA/WPA2 Personal” is recommended.</string>
+	<key>bsSN</key>
+	<string>Allow SNMP</string>
+	<key>bsSN.0</key>
+	<string>Disabled</string>
+	<key>bsSN.1</key>
+	<string>Enabled</string>
+	<key>bsSP</key>
+	<string>Product Name</string>
+	<key>bsSP.0</key>
+	<string>AirPort base station</string>
+	<key>bsSP.1</key>
+	<string>AirPort Base Station</string>
+	<key>bsSP.102</key>
+	<string>AirPort Express</string>
+	<key>bsSP.104</key>
+	<string>AirPort Extreme</string>
+	<key>bsSP.105</key>
+	<string>AirPort Extreme</string>
+	<key>bsSP.106</key>
+	<string>AirPort Time Capsule</string>
+	<key>bsSP.107</key>
+	<string>AirPort Express</string>
+	<key>bsSP.108</key>
+	<string>AirPort Extreme</string>
+	<key>bsSP.109</key>
+	<string>AirPort Time Capsule</string>
+	<key>bsSP.113</key>
+	<string>AirPort Time Capsule</string>
+	<key>bsSP.114</key>
+	<string>AirPort Extreme</string>
+	<key>bsSP.115</key>
+	<string>AirPort Express</string>
+	<key>bsSP.116</key>
+	<string>AirPort Time Capsule</string>
+	<key>bsSP.117</key>
+	<string>AirPort Extreme</string>
+	<key>bsSP.119</key>
+	<string>AirPort Time Capsule</string>
+	<key>bsSP.120</key>
+	<string>AirPort Extreme</string>
+	<key>bsSP.3</key>
+	<string>AirPort Extreme</string>
+	<key>bsSS</key>
+	<string>Status</string>
+	<key>bsSW</key>
+	<string>SNMP On WAN Port</string>
+	<key>bsSW.0</key>
+	<string>Disabled</string>
+	<key>bsSW.1</key>
+	<string>Enabled</string>
+	<key>bsTP</key>
+	<string>Dialing</string>
+	<key>bsTP.1</key>
+	<string>Tone</string>
+	<key>bsTP.2</key>
+	<string>Pulse</string>
+	<key>bsTZ</key>
+	<string>Time Zone</string>
+	<key>bsUA</key>
+	<string>Use AOL</string>
+	<key>bsUS</key>
+	<string>Enable USB Sharing</string>
+	<key>bsWC</key>
+	<string>Allow Setup over WAN</string>
+	<key>bsWC.0</key>
+	<string>Disabled</string>
+	<key>bsWC.1</key>
+	<string>Enabled</string>
+	<key>bsWD</key>
+	<string>Extended Network</string>
+	<key>bsWD.description</key>
+	<string>This AirPort base station was unable to extend the wireless network. Make sure the wireless network you’re trying to extend was set up and is working correctly, that you entered a matching wireless network password into this device, and that this device is in range of the wireless network.</string>
+	<key>bsWD.remedy</key>
+	<string>Wireless…</string>
+	<key>bsWF</key>
+	<string>Share Disks Using Global Hostname</string>
+	<key>bsWF.0</key>
+	<string>Disabled</string>
+	<key>bsWF.1</key>
+	<string>Enabled</string>
+	<key>bsWM</key>
+	<string>WDS Mode</string>
+	<key>bsWM.0</key>
+	<string>WDS not enabled</string>
+	<key>bsWM.1</key>
+	<string>WDS main</string>
+	<key>bsWM.2</key>
+	<string>WDS relay</string>
+	<key>bsWM.3</key>
+	<string>WDS remote</string>
+	<key>bsWP</key>
+	<string>Printing Over Internet</string>
+	<key>bsWU</key>
+	<string>Share On WAN</string>
+	<key>bsrT</key>
+	<string>RADIUS Type</string>
+	<key>bsrT.0</key>
+	<string>Default</string>
+	<key>bsrT.1</key>
+	<string>Alternate</string>
+	<key>connected</key>
+	<string>Connection</string>
+	<key>connected.0</key>
+	<string>Disconnected</string>
+	<key>connected.1</key>
+	<string>Connected</string>
+	<key>connectedClient.hwaddress</key>
+	<string>Hardware Address</string>
+	<key>connectedClient.ipaddress</key>
+	<string>IP Address</string>
+	<key>connectedClient.model</key>
+	<string>Model</string>
+	<key>connectedClient.name</key>
+	<string>Name</string>
+	<key>connectedClients</key>
+	<string>Connected Devices</string>
+	<key>connectedClients.0</key>
+	<string>0</string>
+	<key>connectedClients.1</key>
+	<string>%@</string>
+	<key>connectedClients.2+</key>
+	<string>%@</string>
+	<key>connectedClients.header</key>
+	<string>Connected Devices</string>
+	<key>connectedClientsNew</key>
+	<string>Wireless Clients</string>
+	<key>connectionStats.Duplex</key>
+	<string>Duplex</string>
+	<key>connectionStats.Duplex.0</key>
+	<string>half-duplex</string>
+	<key>connectionStats.Duplex.1</key>
+	<string>full-duplex</string>
+	<key>connectionStats.PHYMode</key>
+	<string>Mode</string>
+	<key>connectionStats.PHYMode.format</key>
+	<string>%@</string>
+	<key>connectionStats.Quality</key>
+	<string>Connection</string>
+	<key>connectionStats.Quality.0</key>
+	<string>Poor</string>
+	<key>connectionStats.Quality.1</key>
+	<string>Fair</string>
+	<key>connectionStats.Quality.2</key>
+	<string>Average</string>
+	<key>connectionStats.Quality.3</key>
+	<string>Good</string>
+	<key>connectionStats.Quality.4</key>
+	<string>Excellent</string>
+	<key>connectionStats.SignalStrength</key>
+	<string>RSSI</string>
+	<key>connectionStats.SignalStrength.format</key>
+	<string>%@ dBm</string>
+	<key>connectionStats.UnknownValue</key>
+	<string>Unknown</string>
+	<key>connectionStats.XmitSpeed</key>
+	<string>Data Rate</string>
+	<key>connectionStats.XmitSpeed.format</key>
+	<string>%@ Mb/s</string>
+	<key>connectionStats.XmitSpeedMax</key>
+	<string>Maximum Data Rate</string>
+	<key>connectionStats.XmitSpeedMax.format</key>
+	<string>%@ Mb/s</string>
+	<key>connectionType</key>
+	<string>Type</string>
+	<key>connectionType.0</key>
+	<string>Unknown</string>
+	<key>connectionType.1</key>
+	<string>Wi-Fi</string>
+	<key>connectionType.2</key>
+	<string>Ethernet</string>
+	<key>ctim</key>
+	<string>Default Settings</string>
+	<key>ctim.description</key>
+	<string>This AirPort base station has default settings. Configure your AirPort base station to connect to the Internet, secure the wireless network, and provide a password.</string>
+	<key>dMCR</key>
+	<string>MobileMe is no longer available</string>
+	<key>dMCR.description</key>
+	<string>Update to the latest firmware.</string>
+	<key>dMac.count</key>
+	<string>Back To My Mac</string>
+	<key>dMac.count.0</key>
+	<string>Disabled</string>
+	<key>dMac.count.1</key>
+	<string>Enabled</string>
+	<key>dMac.count.2+</key>
+	<string>Enabled</string>
+	<key>dWDS</key>
+	<string>Allow this network to be extended</string>
+	<key>dayPeriod.1</key>
+	<string>day</string>
+	<key>dayPeriod.30</key>
+	<string>month</string>
+	<key>dayPeriod.365</key>
+	<string>year</string>
+	<key>dayPeriod.7</key>
+	<string>week</string>
+	<key>days.0</key>
+	<string>No Access</string>
+	<key>days.1</key>
+	<string>Mondays</string>
+	<key>days.127</key>
+	<string>Everyday</string>
+	<key>days.16</key>
+	<string>Fridays</string>
+	<key>days.2</key>
+	<string>Tuesdays</string>
+	<key>days.31</key>
+	<string>Weekdays</string>
+	<key>days.32</key>
+	<string>Saturdays</string>
+	<key>days.4</key>
+	<string>Wednesdays</string>
+	<key>days.64</key>
+	<string>Sundays</string>
+	<key>days.8</key>
+	<string>Thursdays</string>
+	<key>days.96</key>
+	<string>Weekends</string>
+	<key>days.weekdaysFormat</key>
+	<string>%1$@ through %2$@</string>
+	<key>days.weekendFormat</key>
+	<string>%1$@ and %2$@</string>
+	<key>description</key>
+	<string>Description</string>
+	<key>deviceNotFound</key>
+	<string>Device Not Found</string>
+	<key>deviceNotFound.body</key>
+	<string>%@ was previously part of your network. Check that it is still in range of your network and is plugged into a power outlet. Forgetting this device removes it from this network.</string>
+	<key>deviceNotFound.footer</key>
+	<string>Device is missing from your network.</string>
+	<key>deviceNotFound.forget</key>
+	<string>Forget</string>
+	<key>deviceNotFound.moreinfo</key>
+	<string>More Info</string>
+	<key>dh95</key>
+	<string>LDAP Server</string>
+	<key>dhBg</key>
+	<string>Range Beginning</string>
+	<key>dhEn</key>
+	<string>Range Ending</string>
+	<key>dhLe</key>
+	<string>Lease</string>
+	<key>dhLe.14400</key>
+	<string>4 Hours</string>
+	<key>dhLe.2592000</key>
+	<string>1 Month</string>
+	<key>dhLe.28800</key>
+	<string>8 Hours</string>
+	<key>dhLe.31536000</key>
+	<string>1 Year</string>
+	<key>dhLe.3600</key>
+	<string>1 Hour</string>
+	<key>dhLe.43200</key>
+	<string>12 Hours</string>
+	<key>dhLe.604800</key>
+	<string>1 Week</string>
+	<key>dhLe.7200</key>
+	<string>2 Hours</string>
+	<key>dhLe.86400</key>
+	<string>1 Day</string>
+	<key>dhLe.placeholder</key>
+	<string>Lease not set</string>
+	<key>dhMg</key>
+	<string>Message</string>
+	<key>dhcpnat.label</key>
+	<string>DHCP and NAT</string>
+	<key>diskArchive</key>
+	<string>Archive Disk</string>
+	<key>diskArchiveTitle</key>
+	<string>Archive Disk</string>
+	<key>diskErase</key>
+	<string>Erase Disk</string>
+	<key>diskEraseTitle</key>
+	<string>Erase Disk</string>
+	<key>diskPassword</key>
+	<string>Disk Password</string>
+	<key>duplicatePortMapping</key>
+	<string>The port mapping entry you entered already exists.</string>
+	<key>duplicatePortMappingTitle</key>
+	<string>Port Mapping Error</string>
+	<key>enterBasePassword</key>
+	<string>Enter Password</string>
+	<key>enterBasePassword.footer</key>
+	<string>Enter the password to view more information about this base station.</string>
+	<key>entryEnabled</key>
+	<string>Enabled</string>
+	<key>filesharing.label</key>
+	<string>File Sharing and Disks</string>
+	<key>fire</key>
+	<string>IPv4 Mapping</string>
+	<key>fire.addbutton</key>
+	<string>New Entry…</string>
+	<key>fire.count</key>
+	<string>IPv4 Mapping</string>
+	<key>fire.count.0</key>
+	<string>None</string>
+	<key>fire.count.1</key>
+	<string>%@ entry</string>
+	<key>fire.count.2+</key>
+	<string>%@ entries</string>
+	<key>fire.deletebutton</key>
+	<string>Delete Entry</string>
+	<key>fire.description.placeholder</key>
+	<string>Personal Web Sharing</string>
+	<key>fire.ip.placeholder</key>
+	<string>10.0.1.2</string>
+	<key>fire.privateTCPPort.placeholder</key>
+	<string>80</string>
+	<key>fire.publicTCPPort.placeholder</key>
+	<string>80</string>
+	<key>firewall.service.Apple Remote Desktop</key>
+	<string>Apple Remote Desktop</string>
+	<key>firewall.service.CustomService</key>
+	<string> </string>
+	<key>firewall.service.FTP Access</key>
+	<string>FTP Access</string>
+	<key>firewall.service.IMAP Mail</key>
+	<string>IMAP Mail</string>
+	<key>firewall.service.IMAP Mail with SSL</key>
+	<string>IMAP Mail with SSL</string>
+	<key>firewall.service.Lights Out Monitoring</key>
+	<string>Lights Out Monitoring</string>
+	<key>firewall.service.Mac OS X Server VPN - ISAKMP/IKE</key>
+	<string>Mac OS X Server VPN - ISAKMP/IKE</string>
+	<key>firewall.service.Mac OS X Server VPN - L2TP</key>
+	<string>Mac OS X Server VPN - L2TP</string>
+	<key>firewall.service.Mac OS X Server VPN - NAT Traversal</key>
+	<string>Mac OS X Server VPN - NAT Traversal</string>
+	<key>firewall.service.Mac OS X Server VPN - PPTP</key>
+	<string>Mac OS X Server VPN - PPTP</string>
+	<key>firewall.service.POP Mail</key>
+	<string>POP Mail</string>
+	<key>firewall.service.POP Mail with SSL</key>
+	<string>POP Mail with SSL</string>
+	<key>firewall.service.Personal File Sharing</key>
+	<string>Personal File Sharing</string>
+	<key>firewall.service.Personal Web Sharing</key>
+	<string>Personal Web Sharing</string>
+	<key>firewall.service.Printer Sharing</key>
+	<string>Printer Sharing</string>
+	<key>firewall.service.QuickTime Streaming Server</key>
+	<string>QuickTime Streaming Server</string>
+	<key>firewall.service.Remote Apple Events</key>
+	<string>Remote Apple Events</string>
+	<key>firewall.service.Remote Directory Access</key>
+	<string>Remote Directory Access</string>
+	<key>firewall.service.Remote Login - SSH</key>
+	<string>Remote Login - SSH</string>
+	<key>firewall.service.Remote Server Administration</key>
+	<string>Remote Server Administration</string>
+	<key>firewall.service.SMTP Mail</key>
+	<string>SMTP Mail</string>
+	<key>firewall.service.Screen Sharing - VNC</key>
+	<string>Screen Sharing - VNC</string>
+	<key>firewall.service.Windows Remote Desktop</key>
+	<string>Windows Remote Desktop</string>
+	<key>firewall.service.Windows Sharing</key>
+	<string>Windows Sharing</string>
+	<key>firewall.service.XMPP - Jabber</key>
+	<string>XMPP - Jabber</string>
+	<key>firewall.service.iChat File Transfer Proxy</key>
+	<string>iChat File Transfer Proxy</string>
+	<key>firewallEntryIsIPv6</key>
+	<string>Entry Type</string>
+	<key>firewallEntryIsIPv6.0</key>
+	<string>IPv4</string>
+	<key>firewallEntryIsIPv6.1</key>
+	<string>IPv6</string>
+	<key>fsck</key>
+	<string>Disk needs repair</string>
+	<key>fsck.description</key>
+	<string>There is a problem with the disk connected to your AirPort base station. Connect the disk to your computer to repair the disk.</string>
+	<key>fsck.remedy</key>
+	<string>Disks…</string>
+	<key>fslo</key>
+	<string>Disk space is low</string>
+	<key>fslo.description</key>
+	<string>A disk connected to your AirPort base station is low on storage space.</string>
+	<key>fslo.remedy</key>
+	<string>Disks…</string>
+	<key>fssp</key>
+	<string>Disk Password</string>
+	<key>fssp.placeholder</key>
+	<string>Password</string>
+	<key>gErA</key>
+	<string>A value for “%@” is required.</string>
+	<key>gErB</key>
+	<string>The value for “%@” is too short.</string>
+	<key>gErC</key>
+	<string>The value for “%@” is too long.</string>
+	<key>gErD</key>
+	<string>The setting “%@” is not supported on this base station.</string>
+	<key>gErE</key>
+	<string>The value for “%@” is invalid.</string>
+	<key>gErF</key>
+	<string>The value for “%@” is too high.</string>
+	<key>gErG</key>
+	<string>The value for “%@” is too low.</string>
+	<key>gErH</key>
+	<string>There are too many entries in the “%@” table.</string>
+	<key>gErI</key>
+	<string>There are not enough entries in the “%@” table.</string>
+	<key>gErJ</key>
+	<string>The password and verify values for “%@” don’t match.</string>
+	<key>genericBasicOwnership</key>
+	<string>New %@</string>
+	<key>genericUserOwnership</key>
+	<string>%1$@'s %2$@</string>
+	<key>genericWiFiNetwork</key>
+	<string>Wi-Fi Network</string>
+	<key>gnBg</key>
+	<string>Guest Range Beginning</string>
+	<key>gnEn</key>
+	<string>Guest Range Ending</string>
+	<key>guestLabel</key>
+	<string>Guest</string>
+	<key>hardwareInfo.label</key>
+	<string>Hardware Info</string>
+	<key>hosts</key>
+	<string>Private IP Address</string>
+	<key>hosts.ipv6</key>
+	<string>IPv6 Address</string>
+	<key>iCPW</key>
+	<string>Unrecognized Apple ID or password</string>
+	<key>iCPW.description</key>
+	<string>An Apple ID or password is incorrect or couldn’t be authenticated. Enter the correct Apple ID and password and try again.</string>
+	<key>info</key>
+	<string>Info</string>
+	<key>infoHardResetAirPortDisk</key>
+	<string>Files on AirPort disks will not be affected, but you’ll need to set up file sharing access for the disks.</string>
+	<key>infoHardResetConfirm</key>
+	<string>Are you sure you want to restore default settings?</string>
+	<key>infoHardResetMore</key>
+	<string>You’ll need to set up this device again after restoring it to default settings.</string>
+	<key>internet.label</key>
+	<string>Internet Connection</string>
+	<key>ipAddress</key>
+	<string>IP Address</string>
+	<key>ipAddress.placeholder</key>
+	<string>IP Address</string>
+	<key>ipv4Address</key>
+	<string>IPv4 Address</string>
+	<key>ipv4DNS.header</key>
+	<string>DNS Server</string>
+	<key>ipv6DNS.header</key>
+	<string>IPv6 DNS Server</string>
+	<key>ipv6config.label</key>
+	<string>IPv6</string>
+	<key>ipv6firewall.label</key>
+	<string>IPv6 Firewall</string>
+	<key>isAC</key>
+	<string>Power</string>
+	<key>isAC.0</key>
+	<string>Ethernet (802.3af)</string>
+	<key>isAC.1</key>
+	<string>External AC Adapter</string>
+	<key>keychainAirDiskDescription</key>
+	<string>AirPort Disk password</string>
+	<key>keychainBaseStationDescription</key>
+	<string>AirPort base station password</string>
+	<key>keychainBaseStationType</key>
+	<string>AirPort Base Station</string>
+	<key>keychainNetworkDescription</key>
+	<string>AirPort network password</string>
+	<key>keychainNetworkType</key>
+	<string>AirPort Network</string>
+	<key>keychainSpeakerDescription</key>
+	<string>application password</string>
+	<key>keychainSpeakerType</key>
+	<string>Remote Speaker</string>
+	<key>laIP</key>
+	<string>LAN IP Address</string>
+	<key>laMA</key>
+	<string>Ethernet LAN ID</string>
+	<key>laSM</key>
+	<string>LAN Subnet Mask</string>
+	<key>leAc</key>
+	<string>Status Light</string>
+	<key>leAc.1</key>
+	<string>Always On</string>
+	<key>leAc.2</key>
+	<string>Flash On Activity</string>
+	<key>leAc.subtext</key>
+	<string>The status light will always blink amber if this AirPort base station reports a problem.</string>
+	<key>longGenericAirPlayDeviceName</key>
+	<string>AirPlay speaker</string>
+	<key>macAddress</key>
+	<string>Hardware Address</string>
+	<key>mgEr</key>
+	<string>Migration Complete</string>
+	<key>mgEr.description</key>
+	<string>Disk migration is complete. Continue to erase the previous AirPort Time Capsule disk.</string>
+	<key>mgrt</key>
+	<string>Migration Interrupted</string>
+	<key>mgrt.description</key>
+	<string>The AirPort Time Capsule disk migration has been interrupted.</string>
+	<key>mgrt.remedy</key>
+	<string>Disks…</string>
+	<key>moAD</key>
+	<string>Automatically Dial</string>
+	<key>moAP</key>
+	<string>Secondary Phone Number</string>
+	<key>moDT</key>
+	<string>Ignore Dial Tone</string>
+	<key>moID</key>
+	<string>Disconnect if Idle</string>
+	<key>moID.0</key>
+	<string>Never</string>
+	<key>moID.120</key>
+	<string>2 minutes</string>
+	<key>moID.1200</key>
+	<string>20 minutes</string>
+	<key>moID.1800</key>
+	<string>30 minutes</string>
+	<key>moID.30</key>
+	<string>30 seconds</string>
+	<key>moID.300</key>
+	<string>5 minutes</string>
+	<key>moID.60</key>
+	<string>1 minute</string>
+	<key>moID.600</key>
+	<string>10 minutes</string>
+	<key>moID.900</key>
+	<string>15 minutes</string>
+	<key>moMP</key>
+	<string>Protocol</string>
+	<key>moMP.1</key>
+	<string>v.90</string>
+	<key>moMP.2</key>
+	<string>v.34</string>
+	<key>moPN</key>
+	<string>Phone Number(s)</string>
+	<key>moPW</key>
+	<string>Password</string>
+	<key>moUN</key>
+	<string>Account Name</string>
+	<key>nDMZ</key>
+	<string>Default Host</string>
+	<key>nDMZ.placeholder</key>
+	<string>No host set</string>
+	<key>nDNS</key>
+	<string>No DNS Servers</string>
+	<key>nDNS.description</key>
+	<string>This AirPort base station doesn’t have any DNS server addresses and might have trouble connecting to the Internet.</string>
+	<key>nDNS.remedy</key>
+	<string>Internet…</string>
+	<key>naAF</key>
+	<string>Enable AOL Parental Controls</string>
+	<key>naFl</key>
+	<string>NAT Port Mapping</string>
+	<key>naFl.0</key>
+	<string>Disabled</string>
+	<key>naFl.1</key>
+	<string>Enabled</string>
+	<key>naFl.short</key>
+	<string>Enable NAT-PMP</string>
+	<key>naFl.subtext</key>
+	<string>(requires Mac OS X 10.4 or later)</string>
+	<key>name.enter</key>
+	<string>Enter name</string>
+	<key>ntSV</key>
+	<string>Network Time Server</string>
+	<key>oTMP</key>
+	<string>This device may be overheating</string>
+	<key>oTMP.description</key>
+	<string>Check the AirPort base station and if it feels hot, try changing its location or removing anything that is obstructing its ventilation.</string>
+	<key>opNW</key>
+	<string>Unsecured Wireless Network</string>
+	<key>opNW.assistDescription</key>
+	<string>If you don’t change the security mode, this AirPort base station’s status light will blink amber. Are you sure you want to continue?</string>
+	<key>opNW.description</key>
+	<string>This AirPort base station doesn’t have any security on the wireless network. It is recommended that you use WPA2 Personal to secure your wireless network.</string>
+	<key>opNW.remedy</key>
+	<string>Change Security…</string>
+	<key>optionChanged</key>
+	<string>(Changed)</string>
+	<key>optionHidden</key>
+	<string>••••••</string>
+	<key>optionOff</key>
+	<string>Off</string>
+	<key>optionOn</key>
+	<string>On</string>
+	<key>optionVariable</key>
+	<string>(Variable)</string>
+	<key>password.enter</key>
+	<string>Enter password</string>
+	<key>pdAR</key>
+	<string>Answer on ring</string>
+	<key>pdID</key>
+	<string>Idle Disconnect After</string>
+	<key>pdID.0</key>
+	<string>Never</string>
+	<key>pdID.120</key>
+	<string>2 minutes</string>
+	<key>pdID.1200</key>
+	<string>20 minutes</string>
+	<key>pdID.1800</key>
+	<string>30 minutes</string>
+	<key>pdID.30</key>
+	<string>30 seconds</string>
+	<key>pdID.300</key>
+	<string>5 minutes</string>
+	<key>pdID.60</key>
+	<string>1 minute</string>
+	<key>pdID.600</key>
+	<string>10 minutes</string>
+	<key>pdID.900</key>
+	<string>15 minutes</string>
+	<key>pdMC</key>
+	<string>Maximum Connect Time</string>
+	<key>pdMC.0</key>
+	<string>Never Disconnect</string>
+	<key>pdMC.14400</key>
+	<string>4 hours</string>
+	<key>pdMC.1800</key>
+	<string>30 minutes</string>
+	<key>pdMC.28800</key>
+	<string>8 hours</string>
+	<key>pdMC.3600</key>
+	<string>1 hour</string>
+	<key>pdMC.7200</key>
+	<string>2 hours</string>
+	<key>pdMC.900</key>
+	<string>15 minutes</string>
+	<key>pdPW</key>
+	<string>Password</string>
+	<key>pdUN</key>
+	<string>Account Name</string>
+	<key>peAC</key>
+	<string>Automatically connect</string>
+	<key>peID</key>
+	<string>Disconnect if Idle</string>
+	<key>peID.0</key>
+	<string>Never</string>
+	<key>peID.120</key>
+	<string>2 minutes</string>
+	<key>peID.1200</key>
+	<string>20 minutes</string>
+	<key>peID.1800</key>
+	<string>30 minutes</string>
+	<key>peID.30</key>
+	<string>30 seconds</string>
+	<key>peID.300</key>
+	<string>5 minutes</string>
+	<key>peID.60</key>
+	<string>1 minute</string>
+	<key>peID.600</key>
+	<string>10 minutes</string>
+	<key>peID.900</key>
+	<string>15 minutes</string>
+	<key>pePW</key>
+	<string>Password</string>
+	<key>peSC</key>
+	<string>Always stay connected</string>
+	<key>peSN</key>
+	<string>Service Name</string>
+	<key>peUN</key>
+	<string>Account Name</string>
+	<key>placeholder.notfound</key>
+	<string>Not found</string>
+	<key>placeholder.optional</key>
+	<string>Optional</string>
+	<key>pmTa</key>
+	<string>Port Mapping</string>
+	<key>pmTa.count</key>
+	<string>Port Mapping</string>
+	<key>pmTa.count.0</key>
+	<string>None</string>
+	<key>pmTa.count.1</key>
+	<string>On (%@ port)</string>
+	<key>pmTa.count.2+</key>
+	<string>On (%@ ports)</string>
+	<key>pmTa.privateip</key>
+	<string>Private IP</string>
+	<key>pmTa.privateport</key>
+	<string>Private Port</string>
+	<key>pmTa.publicport</key>
+	<string>Public Port</string>
+	<key>ppBP</key>
+	<string>PPPoE Password</string>
+	<key>ppBP.description</key>
+	<string>This AirPort base station is set up to connect to the Internet using PPPoE and the password you entered is not correct. Enter the correct password and try again. If you still cannot connect, contact your service provider.</string>
+	<key>ppBP.remedy</key>
+	<string>PPPoE…</string>
+	<key>ppNS</key>
+	<string>PPPoE Server</string>
+	<key>ppNS.description</key>
+	<string>This AirPort base station is set up to connect to the Internet using PPPoE but no PPPoE server can be found. Make sure your Internet service provider requires that you use PPPoE, and then make sure the modem is turned on and connected to this AirPort base station’s WAN port and try again. If you still can’t connect to the server, contact your service provider.</string>
+	<key>ppNS.remedy</key>
+	<string>PPPoE…</string>
+	<key>privatePort</key>
+	<string>Private Port</string>
+	<key>prnI</key>
+	<string>USB Printers</string>
+	<key>prnR.count</key>
+	<string>USB Printers</string>
+	<key>prnR.count.0</key>
+	<string>None connected</string>
+	<key>prnR.count.1</key>
+	<string>%@ connected</string>
+	<key>prnR.count.2+</key>
+	<string>%@ connected</string>
+	<key>problemCodes.0</key>
+	<string>No</string>
+	<key>problemCodes.1</key>
+	<string>Yes</string>
+	<key>pubP</key>
+	<string>Default Password</string>
+	<key>pubP.assistDescription</key>
+	<string>If you don’t change the password, this AirPort base station’s status light will blink amber. Are you sure you want to continue?</string>
+	<key>pubP.description</key>
+	<string>This AirPort base station is protected by the default password. It is recommended that you change your password to protect your AirPort base station.</string>
+	<key>pubP.remedy</key>
+	<string>Change Password…</string>
+	<key>raCh</key>
+	<string>Radio Channel</string>
+	<key>raCl</key>
+	<string>Hidden Network</string>
+	<key>raCl.0</key>
+	<string>No</string>
+	<key>raCl.1</key>
+	<string>Yes</string>
+	<key>raCl.short</key>
+	<string>Hidden network</string>
+	<key>raDS</key>
+	<string>Provide Addresses</string>
+	<key>raDS.0</key>
+	<string>Disabled</string>
+	<key>raDS.1</key>
+	<string>Enabled</string>
+	<key>raI1</key>
+	<string>IP Address</string>
+	<key>raI2</key>
+	<string>IP Address</string>
+	<key>raKT</key>
+	<string>Rotate WPA Key</string>
+	<key>raKT.14400</key>
+	<string>4 Hours</string>
+	<key>raKT.2592000</key>
+	<string>1 Month</string>
+	<key>raKT.28800</key>
+	<string>8 Hours</string>
+	<key>raKT.31536000</key>
+	<string>1 Year</string>
+	<key>raKT.3600</key>
+	<string>1 Hour</string>
+	<key>raKT.43200</key>
+	<string>12 Hours</string>
+	<key>raKT.604800</key>
+	<string>1 Week</string>
+	<key>raKT.7200</key>
+	<string>2 Hours</string>
+	<key>raKT.86400</key>
+	<string>1 Day</string>
+	<key>raMA</key>
+	<string>Wi-Fi</string>
+	<key>raMd</key>
+	<string>Radio Mode</string>
+	<key>raMd.1</key>
+	<string>802.11b only</string>
+	<key>raMd.2</key>
+	<string>802.11b/g</string>
+	<key>raMd.3</key>
+	<string>802.11g only</string>
+	<key>raMd.4</key>
+	<string>802.11a only</string>
+	<key>raMd.5</key>
+	<string>802.11n (802.11a)</string>
+	<key>raMd.6</key>
+	<string>802.11n (802.11b/g)</string>
+	<key>raMd.7</key>
+	<string>802.11n only (2.4GHz)</string>
+	<key>raMd.8</key>
+	<string>802.11n only (5GHz)</string>
+	<key>raMu</key>
+	<string>Multicast Rate</string>
+	<key>raMu.1</key>
+	<string>1 Mbps</string>
+	<key>raMu.1000</key>
+	<string>Low</string>
+	<key>raMu.17</key>
+	<string>11 Mbps</string>
+	<key>raMu.18</key>
+	<string>12 Mbps</string>
+	<key>raMu.2</key>
+	<string>2 Mbps</string>
+	<key>raMu.2000</key>
+	<string>Medium</string>
+	<key>raMu.24</key>
+	<string>18 Mbps</string>
+	<key>raMu.3000</key>
+	<string>High</string>
+	<key>raMu.36</key>
+	<string>24 Mbps</string>
+	<key>raMu.6</key>
+	<string>6 Mbps</string>
+	<key>raMu.85</key>
+	<string>5.5 Mbps</string>
+	<key>raMu.9</key>
+	<string>9 Mbps</string>
+	<key>raNA</key>
+	<string>NAT Service</string>
+	<key>raNA.0</key>
+	<string>Disabled</string>
+	<key>raNA.1</key>
+	<string>Enabled</string>
+	<key>raNN</key>
+	<string>Wireless Network</string>
+	<key>raNN.description</key>
+	<string>This AirPort base station is set up to join a specific wireless network that can’t be found. If you don’t see the network you want to join, make sure the wireless device is plugged in and in range of this AirPort base station.</string>
+	<key>raNN.remedy</key>
+	<string>Wireless…</string>
+	<key>raNm</key>
+	<string>Network</string>
+	<key>raNm.choose</key>
+	<string>Choose a Network</string>
+	<key>raNm.longLabel</key>
+	<string>Wireless Network Name</string>
+	<key>raNm.off</key>
+	<string>Off</string>
+	<key>raNm.on</key>
+	<string>%@</string>
+	<key>raNm.summary</key>
+	<string>Network</string>
+	<key>raPo</key>
+	<string>Transmit Power</string>
+	<key>raPo.10</key>
+	<string>10%</string>
+	<key>raPo.100</key>
+	<string>100%</string>
+	<key>raPo.25</key>
+	<string>25%</string>
+	<key>raPo.50</key>
+	<string>50%</string>
+	<key>raRo</key>
+	<string>Use interference robustness</string>
+	<key>raS2</key>
+	<string>Shared Secret</string>
+	<key>raS2.placeholder</key>
+	<string>Secret</string>
+	<key>raSe</key>
+	<string>Shared Secret</string>
+	<key>raSe.placeholder</key>
+	<string>Secret</string>
+	<key>raSt</key>
+	<string>Network Mode</string>
+	<key>raSt.0</key>
+	<string>Create a network</string>
+	<key>raSt.1</key>
+	<string>Join a network</string>
+	<key>raSt.3</key>
+	<string>Wi-Fi disabled</string>
+	<key>raWC</key>
+	<string>Use wide channels</string>
+	<key>raWC.0</key>
+	<string>Disabled</string>
+	<key>raWC.1</key>
+	<string>Enabled</string>
+	<key>raWC.subtext</key>
+	<string>Wide channels provide higher throughput in your network, but might interfere with nearby networks.</string>
+	<key>radioChannel2_4GHz</key>
+	<string>2.4GHz Channel</string>
+	<key>radioChannel2_4GHz.automatic</key>
+	<string>Automatic Channel</string>
+	<key>radioChannel2_4GHz.automatic.0</key>
+	<string>Off</string>
+	<key>radioChannel2_4GHz.automatic.1</key>
+	<string>On</string>
+	<key>radioChannel2_4GHz.header</key>
+	<string>2.4GHz Channel</string>
+	<key>radioChannel5GHz</key>
+	<string>5GHz Channel</string>
+	<key>radioChannel5GHz.automatic</key>
+	<string>Automatic Channel</string>
+	<key>radioChannel5GHz.automatic.0</key>
+	<string>Off</string>
+	<key>radioChannel5GHz.automatic.1</key>
+	<string>On</string>
+	<key>radioChannel5GHz.header</key>
+	<string>5GHz Channel</string>
+	<key>rdNS</key>
+	<string>RADIUS Server</string>
+	<key>rdNS.description</key>
+	<string>This AirPort base station is set up to connect to the Internet using WPA Enterprise or RADIUS based access control, and no RADIUS server can be found. Make sure the server settings are correct and try again.</string>
+	<key>rdNS.remedy</key>
+	<string>Access Control…</string>
+	<key>renewDHCPLease</key>
+	<string>Renew DHCP Lease</string>
+	<key>restartBaseStation</key>
+	<string>Restart Base Station</string>
+	<key>restoreBaseToDefaults</key>
+	<string>Restore Defaults</string>
+	<key>serviceName</key>
+	<string>Service Name</string>
+	<key>serviceType</key>
+	<string>Service Type</string>
+	<key>shareDisks.label</key>
+	<string>Share Disks</string>
+	<key>shortGenericAirPlayDeviceName</key>
+	<string>AirPlay Speaker</string>
+	<key>showPasswords</key>
+	<string>Show Passwords</string>
+	<key>slCl</key>
+	<string>Syslog Destination</string>
+	<key>slvl</key>
+	<string>Syslog Level</string>
+	<key>slvl.0</key>
+	<string>0 - Emergency</string>
+	<key>slvl.1</key>
+	<string>1 - Alert</string>
+	<key>slvl.2</key>
+	<string>2 - Critical</string>
+	<key>slvl.3</key>
+	<string>3 - Error</string>
+	<key>slvl.4</key>
+	<string>4 - Warning</string>
+	<key>slvl.5</key>
+	<string>5 - Notice</string>
+	<key>slvl.6</key>
+	<string>6 - Informational</string>
+	<key>slvl.7</key>
+	<string>7 - Debug</string>
+	<key>snCS</key>
+	<string>SNMP Community String</string>
+	<key>soft</key>
+	<string>Soft Reset</string>
+	<key>soft.description</key>
+	<string>This AirPort base station has been reset, and you have temporary access to change the settings that may have prevented you from accessing the network.</string>
+	<key>syAP</key>
+	<string>Model</string>
+	<key>syAP.0</key>
+	<string>AirPort Base Station</string>
+	<key>syAP.1</key>
+	<string>AirPort Base Station</string>
+	<key>syAP.102</key>
+	<string>AirPort Express 802.11g</string>
+	<key>syAP.104</key>
+	<string>AirPort Extreme 802.11n (1st Generation)</string>
+	<key>syAP.105</key>
+	<string>AirPort Extreme 802.11n (2nd Generation)</string>
+	<key>syAP.106</key>
+	<string>AirPort Time Capsule 802.11n (1st Generation)</string>
+	<key>syAP.107</key>
+	<string>AirPort Express 802.11n (1st Generation)</string>
+	<key>syAP.108</key>
+	<string>AirPort Extreme 802.11n (3rd Generation)</string>
+	<key>syAP.109</key>
+	<string>AirPort Time Capsule 802.11n (2nd Generation)</string>
+	<key>syAP.113</key>
+	<string>AirPort Time Capsule 802.11n (3rd Generation)</string>
+	<key>syAP.114</key>
+	<string>AirPort Extreme 802.11n (4th Generation)</string>
+	<key>syAP.115</key>
+	<string>AirPort Express 802.11n (2nd Generation)</string>
+	<key>syAP.116</key>
+	<string>AirPort Time Capsule 802.11n (4th Generation)</string>
+	<key>syAP.117</key>
+	<string>AirPort Extreme 802.11n (5th Generation)</string>
+	<key>syAP.119</key>
+	<string>AirPort Time Capsule 802.11ac</string>
+	<key>syAP.120</key>
+	<string>AirPort Extreme 802.11ac</string>
+	<key>syAP.3</key>
+	<string>AirPort Extreme 802.11g</string>
+	<key>syAP.3.</key>
+	<string>0</string>
+	<key>syAP.80211nFormat</key>
+	<string>%@ with 802.11n</string>
+	<key>syCt</key>
+	<string>Contact</string>
+	<key>syDN</key>
+	<string>Local</string>
+	<key>syDN.description</key>
+	<string>Enter a local hostname for this AirPort base station. Computers on your local subnet will be able to connect to this AirPort base station using this hostname.</string>
+	<key>syLo</key>
+	<string>Location</string>
+	<key>syNm</key>
+	<string>Name</string>
+	<key>syNm.placeholder</key>
+	<string>Base Station Name</string>
+	<key>syNm.summary</key>
+	<string>Base Station</string>
+	<key>syPW</key>
+	<string>Password</string>
+	<key>syPW.placeholder</key>
+	<string>Password</string>
+	<key>syRe</key>
+	<string>Country</string>
+	<key>syRe.0</key>
+	<string>United States</string>
+	<key>syRe.1</key>
+	<string>Canada</string>
+	<key>syRe.10</key>
+	<string>Cyprus</string>
+	<key>syRe.100</key>
+	<string>Costa Rica</string>
+	<key>syRe.101</key>
+	<string>Ivory Coast</string>
+	<key>syRe.102</key>
+	<string>Croatia</string>
+	<key>syRe.103</key>
+	<string>Djibouti</string>
+	<key>syRe.104</key>
+	<string>Dominica</string>
+	<key>syRe.105</key>
+	<string>Dominican Republic</string>
+	<key>syRe.106</key>
+	<string>East Timor</string>
+	<key>syRe.107</key>
+	<string>Ecuador</string>
+	<key>syRe.108</key>
+	<string>Egypt</string>
+	<key>syRe.109</key>
+	<string>El Salvador</string>
+	<key>syRe.11</key>
+	<string>Czech Republic</string>
+	<key>syRe.110</key>
+	<string>Equatorial Guinea</string>
+	<key>syRe.111</key>
+	<string>Eritrea</string>
+	<key>syRe.112</key>
+	<string>Ethiopia</string>
+	<key>syRe.113</key>
+	<string>Falkland Islands</string>
+	<key>syRe.114</key>
+	<string>Faroe Islands</string>
+	<key>syRe.115</key>
+	<string>Fiji</string>
+	<key>syRe.116</key>
+	<string>French Guiana</string>
+	<key>syRe.117</key>
+	<string>French Polynesia</string>
+	<key>syRe.118</key>
+	<string>French Southern Territories</string>
+	<key>syRe.119</key>
+	<string>Gabon</string>
+	<key>syRe.12</key>
+	<string>Denmark</string>
+	<key>syRe.120</key>
+	<string>Gambia</string>
+	<key>syRe.121</key>
+	<string>Georgia</string>
+	<key>syRe.122</key>
+	<string>Ghana</string>
+	<key>syRe.123</key>
+	<string>Gibraltar</string>
+	<key>syRe.124</key>
+	<string>Greenland</string>
+	<key>syRe.125</key>
+	<string>Grenada</string>
+	<key>syRe.126</key>
+	<string>Guadeloupe</string>
+	<key>syRe.127</key>
+	<string>Guam</string>
+	<key>syRe.128</key>
+	<string>Guatemala</string>
+	<key>syRe.129</key>
+	<string>Guinea</string>
+	<key>syRe.13</key>
+	<string>Estonia</string>
+	<key>syRe.130</key>
+	<string>Guinea Bissau</string>
+	<key>syRe.131</key>
+	<string>Guyana</string>
+	<key>syRe.132</key>
+	<string>Haiti</string>
+	<key>syRe.133</key>
+	<string>Honduras</string>
+	<key>syRe.134</key>
+	<string>Indonesia</string>
+	<key>syRe.135</key>
+	<string>Iran</string>
+	<key>syRe.136</key>
+	<string>Iraq</string>
+	<key>syRe.137</key>
+	<string>Israel</string>
+	<key>syRe.138</key>
+	<string>Jamaica</string>
+	<key>syRe.139</key>
+	<string>Jordan</string>
+	<key>syRe.14</key>
+	<string>France</string>
+	<key>syRe.140</key>
+	<string>Kazakhstan</string>
+	<key>syRe.141</key>
+	<string>Kenya</string>
+	<key>syRe.142</key>
+	<string>North Korea</string>
+	<key>syRe.143</key>
+	<string>Kuwait</string>
+	<key>syRe.144</key>
+	<string>Lebanon</string>
+	<key>syRe.145</key>
+	<string>Libya</string>
+	<key>syRe.146</key>
+	<string>Macau</string>
+	<key>syRe.147</key>
+	<string>Macedonia</string>
+	<key>syRe.148</key>
+	<string>Monaco</string>
+	<key>syRe.149</key>
+	<string>Morocco</string>
+	<key>syRe.15</key>
+	<string>Finland</string>
+	<key>syRe.150</key>
+	<string>Nicaragua</string>
+	<key>syRe.151</key>
+	<string>Oman</string>
+	<key>syRe.152</key>
+	<string>Qatar</string>
+	<key>syRe.153</key>
+	<string>Saudi Arabia</string>
+	<key>syRe.154</key>
+	<string>South Africa</string>
+	<key>syRe.155</key>
+	<string>Syria</string>
+	<key>syRe.156</key>
+	<string>Trinidad And Tobago</string>
+	<key>syRe.157</key>
+	<string>Tunisia</string>
+	<key>syRe.158</key>
+	<string>Turkey</string>
+	<key>syRe.159</key>
+	<string>United Arab Emirates</string>
+	<key>syRe.16</key>
+	<string>Germany</string>
+	<key>syRe.160</key>
+	<string>Ukraine</string>
+	<key>syRe.161</key>
+	<string>Uruguay</string>
+	<key>syRe.162</key>
+	<string>Uzbekistan</string>
+	<key>syRe.163</key>
+	<string>Yemen</string>
+	<key>syRe.164</key>
+	<string>Zimbabwe</string>
+	<key>syRe.165</key>
+	<string> </string>
+	<key>syRe.166</key>
+	<string>Serbia</string>
+	<key>syRe.167</key>
+	<string>Laos</string>
+	<key>syRe.168</key>
+	<string>Maldives</string>
+	<key>syRe.169</key>
+	<string>Mongolia</string>
+	<key>syRe.17</key>
+	<string>Greece</string>
+	<key>syRe.170</key>
+	<string>US Virgin Islands</string>
+	<key>syRe.171</key>
+	<string>Panama</string>
+	<key>syRe.172</key>
+	<string>Myanmar</string>
+	<key>syRe.18</key>
+	<string>Hungary</string>
+	<key>syRe.19</key>
+	<string>Iceland</string>
+	<key>syRe.2</key>
+	<string>Mexico</string>
+	<key>syRe.20</key>
+	<string>Italy</string>
+	<key>syRe.21</key>
+	<string>Ireland</string>
+	<key>syRe.22</key>
+	<string>Latvia</string>
+	<key>syRe.23</key>
+	<string>Liechtenstein</string>
+	<key>syRe.24</key>
+	<string>Lithuania</string>
+	<key>syRe.25</key>
+	<string>Luxembourg</string>
+	<key>syRe.26</key>
+	<string>Malta</string>
+	<key>syRe.27</key>
+	<string>Netherlands</string>
+	<key>syRe.28</key>
+	<string>Norway</string>
+	<key>syRe.29</key>
+	<string>Poland</string>
+	<key>syRe.3</key>
+	<string>Colombia</string>
+	<key>syRe.30</key>
+	<string>Portugal</string>
+	<key>syRe.31</key>
+	<string>Slovak Republic</string>
+	<key>syRe.32</key>
+	<string>Slovenia</string>
+	<key>syRe.33</key>
+	<string>Spain</string>
+	<key>syRe.34</key>
+	<string>Sweden</string>
+	<key>syRe.35</key>
+	<string>Switzerland</string>
+	<key>syRe.36</key>
+	<string>United Kingdom</string>
+	<key>syRe.37</key>
+	<string>Australia</string>
+	<key>syRe.38</key>
+	<string>Hong Kong S.A.R., China</string>
+	<key>syRe.39</key>
+	<string>New Zealand</string>
+	<key>syRe.4</key>
+	<string>Puerto Rico</string>
+	<key>syRe.40</key>
+	<string>Singapore</string>
+	<key>syRe.41</key>
+	<string>Philippines</string>
+	<key>syRe.42</key>
+	<string>China</string>
+	<key>syRe.43</key>
+	<string>Malaysia</string>
+	<key>syRe.44</key>
+	<string>Taiwan</string>
+	<key>syRe.45</key>
+	<string>South Korea</string>
+	<key>syRe.46</key>
+	<string>Thailand</string>
+	<key>syRe.47</key>
+	<string>Argentina</string>
+	<key>syRe.48</key>
+	<string>Venezuela</string>
+	<key>syRe.49</key>
+	<string>Russia</string>
+	<key>syRe.5</key>
+	<string>Brazil</string>
+	<key>syRe.50</key>
+	<string>United States</string>
+	<key>syRe.51</key>
+	<string>Canada</string>
+	<key>syRe.52</key>
+	<string>Bulgaria</string>
+	<key>syRe.53</key>
+	<string>Romania</string>
+	<key>syRe.54</key>
+	<string>India</string>
+	<key>syRe.55</key>
+	<string>Vietnam</string>
+	<key>syRe.56</key>
+	<string>Sri Lanka</string>
+	<key>syRe.57</key>
+	<string>Brunei</string>
+	<key>syRe.58</key>
+	<string>Pakistan</string>
+	<key>syRe.59</key>
+	<string>Nepal</string>
+	<key>syRe.6</key>
+	<string>Chile</string>
+	<key>syRe.60</key>
+	<string>Bangladesh</string>
+	<key>syRe.61</key>
+	<string>Peru</string>
+	<key>syRe.62</key>
+	<string>Afghanistan</string>
+	<key>syRe.63</key>
+	<string>Albania</string>
+	<key>syRe.64</key>
+	<string>Algeria</string>
+	<key>syRe.65</key>
+	<string>American Samoa</string>
+	<key>syRe.66</key>
+	<string>Andorra</string>
+	<key>syRe.67</key>
+	<string>Angola</string>
+	<key>syRe.68</key>
+	<string>Anguilla</string>
+	<key>syRe.69</key>
+	<string>Antarctica</string>
+	<key>syRe.7</key>
+	<string>Japan</string>
+	<key>syRe.70</key>
+	<string>Antigua And Barbuda</string>
+	<key>syRe.71</key>
+	<string>Armenia</string>
+	<key>syRe.72</key>
+	<string>Aruba</string>
+	<key>syRe.73</key>
+	<string>Azerbaijan</string>
+	<key>syRe.74</key>
+	<string>Bahamas</string>
+	<key>syRe.75</key>
+	<string>Bahrain</string>
+	<key>syRe.76</key>
+	<string>Barbados</string>
+	<key>syRe.77</key>
+	<string>Belarus</string>
+	<key>syRe.78</key>
+	<string>Belize</string>
+	<key>syRe.79</key>
+	<string>Benin</string>
+	<key>syRe.8</key>
+	<string>Austria</string>
+	<key>syRe.80</key>
+	<string>Bermuda</string>
+	<key>syRe.81</key>
+	<string>Bhutan</string>
+	<key>syRe.82</key>
+	<string>Bolivia</string>
+	<key>syRe.83</key>
+	<string>Bosnia Herzegovina</string>
+	<key>syRe.84</key>
+	<string>Botswana</string>
+	<key>syRe.85</key>
+	<string>Bouvet Island</string>
+	<key>syRe.86</key>
+	<string>British Indian Ocean Territory</string>
+	<key>syRe.87</key>
+	<string>Burkina Faso</string>
+	<key>syRe.88</key>
+	<string>Burundi</string>
+	<key>syRe.89</key>
+	<string>Cambodia</string>
+	<key>syRe.9</key>
+	<string>Belgium</string>
+	<key>syRe.90</key>
+	<string>Cameroon</string>
+	<key>syRe.91</key>
+	<string>Cape Verde</string>
+	<key>syRe.92</key>
+	<string>Cayman Islands</string>
+	<key>syRe.93</key>
+	<string>Central African Republic</string>
+	<key>syRe.94</key>
+	<string>Chad</string>
+	<key>syRe.95</key>
+	<string>Christmas Island</string>
+	<key>syRe.96</key>
+	<string>Cocos Islands</string>
+	<key>syRe.97</key>
+	<string>Comoros</string>
+	<key>syRe.98</key>
+	<string>Congo</string>
+	<key>syRe.99</key>
+	<string>Cook Islands</string>
+	<key>sySN</key>
+	<string>Serial Number</string>
+	<key>sySt</key>
+	<string>Status Messages</string>
+	<key>sySt.header</key>
+	<string>Issues needing your attention</string>
+	<key>sySt.ignore</key>
+	<string>Ignore this issue</string>
+	<key>sySt.ignoredCount</key>
+	<string>%@</string>
+	<key>sySt.issueCount</key>
+	<string>%@</string>
+	<key>sySt.ok</key>
+	<string> </string>
+	<key>syVs</key>
+	<string>Version</string>
+	<key>syVs.format</key>
+	<string>%1$@ (%2$@) available</string>
+	<key>tACL</key>
+	<string>Timed Access Control</string>
+	<key>tACL.addbutton</key>
+	<string>New Entry…</string>
+	<key>tACL.applyToGuestNetwork</key>
+	<string>Apply to Guest Network</string>
+	<key>tACL.count</key>
+	<string>Timed Access</string>
+	<key>tACL.count.0</key>
+	<string>No entries</string>
+	<key>tACL.count.1</key>
+	<string>%@ entry</string>
+	<key>tACL.count.2+</key>
+	<string>%@ entries</string>
+	<key>tACL.deletebutton</key>
+	<string>Delete Entry</string>
+	<key>tACL.macAddress</key>
+	<string>MAC Address</string>
+	<key>tcDW</key>
+	<string>Downstream Bandwidth</string>
+	<key>tcUW</key>
+	<string>Upstream Bandwidth</string>
+	<key>tcpPorts</key>
+	<string>TCP Port(s)</string>
+	<key>tcpPrivatePorts</key>
+	<string>Private TCP Port(s)</string>
+	<key>tcpPublicPorts</key>
+	<string>Public TCP Port(s)</string>
+	<key>time</key>
+	<string>Base Station Time</string>
+	<key>time.0</key>
+	<string>Before</string>
+	<key>time.1</key>
+	<string>After</string>
+	<key>time.2</key>
+	<string>Between</string>
+	<key>time.3</key>
+	<string>All-day</string>
+	<key>time.3600</key>
+	<string>hours</string>
+	<key>time.60</key>
+	<string>minutes</string>
+	<key>time.86400</key>
+	<string>days</string>
+	<key>time.durationFormatter</key>
+	<string>%1$@ %2$@ %3$@</string>
+	<key>time.formatter</key>
+	<string>%1$@ %2$@</string>
+	<key>timedesc.day</key>
+	<string>Days</string>
+	<key>timedesc.time</key>
+	<string>Time</string>
+	<key>timedesc.time.allday</key>
+	<string>All-day</string>
+	<key>timedesc.time.display</key>
+	<string>Time</string>
+	<key>timedesc.time.end</key>
+	<string>End</string>
+	<key>timedesc.time.start</key>
+	<string>Start</string>
+	<key>timz</key>
+	<string>Time Zone</string>
+	<key>tooNew</key>
+	<string>Unknown Problem (%@)</string>
+	<key>tooNew.description</key>
+	<string>This AirPort base station is reporting an unknown problem. Make sure you are using the latest version of AirPort Utility.</string>
+	<key>tooNew.remedy</key>
+	<string>Software Update…</string>
+	<key>type</key>
+	<string>Choose a service</string>
+	<key>udpPorts</key>
+	<string>UDP Port(s)</string>
+	<key>udpPrivatePorts</key>
+	<string>Private UDP Port(s)</string>
+	<key>udpPublicPorts</key>
+	<string>Public UDP Port(s)</string>
+	<key>unkn</key>
+	<string>Unknown Problem</string>
+	<key>unkn.description</key>
+	<string>This AirPort base station is reporting an unknown problem. Try turning it off and back on again, check for newer firmware, or perform a hard reset. A hard reset will erase all settings and require setting it up again.</string>
+	<key>unsD</key>
+	<string>Unsupported Disk</string>
+	<key>unsD.description</key>
+	<string>A disk connected to your AirPort base station is not supported and can not be used. Try a different disk.</string>
+	<key>unsD.remedy</key>
+	<string>Disks…</string>
+	<key>unsupportedDevice.footer</key>
+	<string>This AirPort base station is not supported by this utility.  If you need to change settings, you must use the configuration software that came with the device.</string>
+	<key>unsupported_waIP</key>
+	<string>IP Address</string>
+	<key>untitled</key>
+	<string>untitled</string>
+	<key>upAv</key>
+	<string>Firmware update available</string>
+	<key>upAv.description</key>
+	<string>Update the firmware for this AirPort base station.</string>
+	<key>upAv.remedy</key>
+	<string>Update Firmware…</string>
+	<key>usbp</key>
+	<string>USB Power</string>
+	<key>usbp.description</key>
+	<string>A device connected to this AirPort base station’s USB port requires more power than this AirPort base station can provide. Plug the device into a power supply if possible, or connect it to a powered USB hub.</string>
+	<key>usbp.remedy</key>
+	<string>Disks…</string>
+	<key>usrd</key>
+	<string>Accounts</string>
+	<key>usrd.addbutton</key>
+	<string>New Account…</string>
+	<key>usrd.count</key>
+	<string>Accounts</string>
+	<key>usrd.count.0</key>
+	<string>None</string>
+	<key>usrd.count.1</key>
+	<string>%@ user</string>
+	<key>usrd.count.2+</key>
+	<string>%@ users</string>
+	<key>usrd.defaultname</key>
+	<string>Name</string>
+	<key>usrd.deletebutton</key>
+	<string>Delete Account</string>
+	<key>usrd.fileSharingAccess.0</key>
+	<string>Read and write</string>
+	<key>usrd.fileSharingAccess.1</key>
+	<string>Read only</string>
+	<key>usrd.fileSharingAccess.2</key>
+	<string>Not allowed</string>
+	<key>usrd.title</key>
+	<string>Sharing Accounts</string>
+	<key>vErr.DHSt</key>
+	<string>Sharing a range of IP addresses using DHCP Only requires manually configuring your WAN IP address. If your ISP gives you a range of static IP addresses, you should manually configure your base station with the first IP address and distribute the rest via DHCP.</string>
+	<key>vErr.acEm</key>
+	<string>MAC Address Access Control is enabled, but there are no entries. Disable MAC Address Access Control or add entries to the list.</string>
+	<key>vErr.acNS</key>
+	<string>Auto channel selection is not supported by this base station.</string>
+	<key>vErr.dcWW</key>
+	<string>The DHCP range you have entered conflicts with the WAN IP address of your base station.</string>
+	<key>vErr.dhGN</key>
+	<string>The main wireless network DHCP range you entered conflicts with the DHCP range you chose for your guest network. Select a different DHCP range.</string>
+	<key>vErr.dhRa</key>
+	<string>The DHCP range beginning address or ending address is invalid.</string>
+	<key>vErr.gnDh</key>
+	<string>The guest network DHCP range you entered conflicts with the DHCP range you chose for your main wireless network. Select a different DHCP range.</string>
+	<key>vErr.gnRn</key>
+	<string>The guest network name cannot be the same as the main network name. Choose a different guest network name.</string>
+	<key>vErr.iTSN</key>
+	<string>The wireless password for a Transitional Security Network must be exactly 13 characters in length.</string>
+	<key>vErr.iWPA</key>
+	<string>The wireless password for a WPA Personal network must be between 8 and 63 characters in length. It may also be 64 hexadecimal characters.</string>
+	<key>vErr.iw1K</key>
+	<string>You did not enter a valid 128 bit WEP key.</string>
+	<key>vErr.iw4K</key>
+	<string>You did not enter a valid 40 bit WEP key.</string>
+	<key>vErr.ktTL</key>
+	<string>The group key timeout you have entered is too long. It must be less than or equal to 9999999 minutes.</string>
+	<key>vErr.ktTS</key>
+	<string>The group key timeout you have entered is too short. It must be greater than or equal to 10 minutes.</string>
+	<key>vErr.nvBN</key>
+	<string>The multicast rate you have selected is not valid for an 802.11b or 802.11 b/g compatible network.</string>
+	<key>vErr.nvGN</key>
+	<string>The multicast rate you have selected is not valid for an 802.11g network.</string>
+	<key>vErr.nvHD</key>
+	<string>The multicast rate you have selected is not valid for high radio density.</string>
+	<key>vErr.nvLD</key>
+	<string>The multicast rate you have selected is not valid for low radio density.</string>
+	<key>vErr.nvMD</key>
+	<string>The multicast rate you have selected is not valid for medium radio density.</string>
+	<key>vErr.pcDE</key>
+	<string>Disabling the WAN port is not supported by this base station.</string>
+	<key>vErr.pwPu</key>
+	<string>For maximum protection, create a password other than “public”.</string>
+	<key>vErr.rWAB</key>
+	<string>Advertising a service globally using Bonjour requires a global hostname.</string>
+	<key>vErr.rmBP</key>
+	<string>If you are using PPPoE or a modem to connect via PPP, you need to select DHCP/NAT.</string>
+	<key>vErr.rmST</key>
+	<string>Sharing your Internet connection is not supported when your base station is configured to join a wireless network.</string>
+	<key>vErr.rsMM</key>
+	<string>The router address you have entered is not compatible with your WAN IP address.</string>
+	<key>vErr.slCI</key>
+	<string>The syslog destination IP address is invalid.</string>
+	<key>vErr.slLI</key>
+	<string>The syslog level is invalid.</string>
+	<key>vErr.smNS</key>
+	<string>Client mode is not supported by this base station.</string>
+	<key>vErr.v6TM</key>
+	<string>A manually configured IPv6 tunnel requires a static WAN IP address</string>
+	<key>vErr.w1Nd</key>
+	<string>WDS requires multiple base stations. Add at least one WDS peer.</string>
+	<key>vErr.waNM</key>
+	<string>Allowing remote management over the WAN Port requires enabling the WAN port.</string>
+	<key>vErr.wdEn</key>
+	<string>WDS and WPA Enterprise are not compatible. If you want to set up a WDS network, you should use WPA personal.</string>
+	<key>vErr.wdFi</key>
+	<string>WDS is not compatible with radio modes that operate in 5GHz. Change your radio mode and try again.</string>
+	<key>vErr.wdNS</key>
+	<string>Disabling the radio is not supported on this base station.</string>
+	<key>vErr.wnSR</key>
+	<string>Your WAN IP address cannot be the same as your router IP address.</string>
+	<key>vErr.wsMU</key>
+	<string>The wireless security mode you have selected is not supported by this base station.</string>
+	<key>vErr.wwNS</key>
+	<string>WPA with WDS is not supported by this base station. Make sure you are using the latest firmware.</string>
+	<key>vrfy</key>
+	<string>Verify Password</string>
+	<key>waC1</key>
+	<string>DNS Server</string>
+	<key>waC2</key>
+	<string>DNS Server</string>
+	<key>waC3</key>
+	<string>DNS Server</string>
+	<key>waCD</key>
+	<string>Domain Name</string>
+	<key>waCF</key>
+	<string>Setup over WAN</string>
+	<key>waCF.description</key>
+	<string>This AirPort base station is set up to allow setup over the Ethernet WAN port, which decreases network security.</string>
+	<key>waCF.remedy</key>
+	<string>Base Station…</string>
+	<key>waCV</key>
+	<string>Configure IPv4</string>
+	<key>waCV.1024</key>
+	<string>Manually</string>
+	<key>waCV.768</key>
+	<string>Using DHCP</string>
+	<key>waD1</key>
+	<string>Primary</string>
+	<key>waD2</key>
+	<string>Secondary</string>
+	<key>waDC</key>
+	<string>DHCP Client ID</string>
+	<key>waDN</key>
+	<string>Domain Name</string>
+	<key>waIP</key>
+	<string>IP Address</string>
+	<key>waMA</key>
+	<string>Ethernet</string>
+	<key>waNI</key>
+	<string>Internet Connection</string>
+	<key>waNI.description</key>
+	<string>Your AirPort base station does not have a valid IP address. Make sure your AirPort base station is connected to your broadband modem or local network, verify your settings, and try again. If you still can’t connect, contact your Internet service provider.</string>
+	<key>waNI.fixed.description</key>
+	<string>Your AirPort base station now has a valid IP address.</string>
+	<key>waNI.furtherInfo</key>
+	<string>The most common solution for this problem is to reset your broadband modem. To do this, turn off your broadband modem, wait at least 5 minutes and then turn it back on again.</string>
+	<key>waNI.remedy</key>
+	<string>Internet…</string>
+	<key>waNL</key>
+	<string>Ethernet Unplugged</string>
+	<key>waNL.description</key>
+	<string>Nothing is connected to the Ethernet WAN port. If you are using a DSL, cable, or other broadband modem to connect to the Internet, or you are using a network that is connected to the Internet, connect the broadband modem or network to the Ethernet WAN port.</string>
+	<key>waNL.fixed.description</key>
+	<string>A cable has been connected to the Ethernet WAN port of your AirPort base station.</string>
+	<key>waNM</key>
+	<string>Block Remote Configuration</string>
+	<key>waRA</key>
+	<string>Router Address</string>
+	<key>waRg</key>
+	<string>Conflicting Guest DHCP Range</string>
+	<key>waRg.description</key>
+	<string>This AirPort base station rejected a DHCP address in the same subnet as its internal DHCP guest network server. Try switching your AirPort base station from using DHCP and NAT to bridge mode. If you still want to use DHCP and NAT to share a single IP address, change your DHCP Range.</string>
+	<key>waRg.remedy</key>
+	<string>Internet…</string>
+	<key>waRj</key>
+	<string>Conflicting DHCP Range</string>
+	<key>waRj.description</key>
+	<string>This AirPort base station rejected a DHCP address in the same subnet as its internal DHCP server. Try switching your AirPort base station from using DHCP and NAT to bridge mode. If you still want to use DHCP and NAT to share a single IP address, change your DHCP Range.</string>
+	<key>waRj.remedy</key>
+	<string>Internet…</string>
+	<key>waSD</key>
+	<string>Ethernet WAN Port</string>
+	<key>waSD.0</key>
+	<string>Automatic</string>
+	<key>waSD.15</key>
+	<string>Ethernet Disabled</string>
+	<key>waSD.2</key>
+	<string>10 Mbps/Half Duplex</string>
+	<key>waSD.3</key>
+	<string>10 Mbps/Full Duplex</string>
+	<key>waSD.5</key>
+	<string>100 Mbps/Half Duplex</string>
+	<key>waSD.6</key>
+	<string>100 Mbps/Full Duplex</string>
+	<key>waSD.8</key>
+	<string>1000 Mbps/Half Duplex</string>
+	<key>waSD.9</key>
+	<string>1000 Mbps/Full Duplex</string>
+	<key>waSM</key>
+	<string>Subnet Mask</string>
+	<key>waSN</key>
+	<string>SNMP over WAN</string>
+	<key>waSN.description</key>
+	<string>This AirPort base station is set up to allow SNMP on the Ethernet WAN port, which decreases network security.</string>
+	<key>waSN.remedy</key>
+	<string>Logging &amp; SNMP…</string>
+	<key>wbAC</key>
+	<string>Allow Setup Using Global Hostname</string>
+	<key>wbAC.0</key>
+	<string>Enabled</string>
+	<key>wbAC.1</key>
+	<string>Disabled</string>
+	<key>wbAu</key>
+	<string>Bonjour Authentication</string>
+	<key>wbAu.description</key>
+	<string>The name or password used to authenticate with your DNS server is incorrect. Correct the name or password and try again. If you still have problems, contact the administrator of the DNS server.</string>
+	<key>wbAu.remedy</key>
+	<string>Bonjour…</string>
+	<key>wbEn</key>
+	<string>Global Hostname</string>
+	<key>wbEn.0</key>
+	<string>Disabled</string>
+	<key>wbEn.1</key>
+	<string>Enabled</string>
+	<key>wbEn.description</key>
+	<string>Enter a global hostname for this AirPort base station. Computers on the Internet will be able to connect to this AirPort base station using this hostname.</string>
+	<key>wbEn.label</key>
+	<string>Use Dynamic Global Hostname</string>
+	<key>wbHN</key>
+	<string>Hostname</string>
+	<key>wbHP</key>
+	<string>Password</string>
+	<key>wbHP.placeholder</key>
+	<string>Password</string>
+	<key>wbHU</key>
+	<string>User</string>
+	<key>wbRD</key>
+	<string>Domain</string>
+	<key>wbRP</key>
+	<string>Password</string>
+	<key>wbRP.placeholder</key>
+	<string>Password</string>
+	<key>wbRU</key>
+	<string>User</string>
+	<key>wdLs</key>
+	<string>WDS Nodes</string>
+	<key>wdsP</key>
+	<string>WDS Error</string>
+	<key>wdsP.description</key>
+	<string>This AirPort base station is set up as part of a WDS network but no other AirPort base stations were found.</string>
+	<key>wdsP.furtherInfo</key>
+	<string>Verify that the wireless MAC addresses of the WDS wireless devices are correct. Make sure the wireless devices are plugged in and in range of this AirPort base station.</string>
+	<key>wdsP.remedy</key>
+	<string>WDS…</string>
+	<key>wifiGuestPassword</key>
+	<string>Guest Network</string>
+	<key>wifiPassword</key>
+	<string>Main Network</string>
+	<key>wifisettings.label</key>
+	<string>Wi-Fi Settings</string>
+	<key>wirelessAccessTimes</key>
+	<string>Access Restrictions</string>
+	<key>wirelessAccessTimes.addbutton</key>
+	<string>New Access Restriction…</string>
+	<key>wirelessAccessTimes.deletebutton</key>
+	<string>Delete Access Restriction</string>
+	<key>wpsDescription</key>
+	<string>There are two ways you can allow a client to join your password-protected network without entering a password. You can either enter a PIN for the user, or allow access to the first client that attempts to join your network.</string>
+	<key>wpsDescription.Printer</key>
+	<string>There are two ways you can allow a WPS printer to join your password-protected network without entering a password. You can either enter a PIN for the printer, or allow access to the first printer that attempts to join your network.</string>
+</dict>
+</plist>

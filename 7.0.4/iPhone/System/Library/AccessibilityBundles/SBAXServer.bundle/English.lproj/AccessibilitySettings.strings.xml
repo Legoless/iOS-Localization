@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>No</key>
+	<string>No</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>SHAKE_TO_ENABLE</key>
+	<string>Shake the iPhone to start VoiceOver</string>
+	<key>SWIPE_TO_ENABLE</key>
+	<string>Swipe up to
+start VoiceOver</string>
+	<key>SWITCH_USAGE_CONFIMED_MESSAGE_IPAD</key>
+	<string>Switch control changes the gestures used to control your iPad.
+Are you sure you want to continue?
+
+Press the home button to cancel.</string>
+	<key>SWITCH_USAGE_CONFIMED_MESSAGE_IPHONE</key>
+	<string>Switch control changes the gestures used to control your iPhone.
+Are you sure you want to continue?
+
+Press the home button to cancel.</string>
+	<key>SWITCH_USAGE_CONFIMED_MESSAGE_IPOD</key>
+	<string>Switch control changes the gestures used to control your iPod touch.
+Are you sure you want to continue?
+
+Press the home button to cancel.</string>
+	<key>SWITCH_USAGE_CONFIMED_TITLE</key>
+	<string>Important</string>
+	<key>TripleClickEnableTitle</key>
+	<string>Enable Triple-click</string>
+	<key>TripleClickMessage</key>
+	<string>Do you want to enable Triple-click of the home button to toggle System Zoom?</string>
+	<key>Yes</key>
+	<string>Yes</string>
+	<key>ZoomConflictMessage</key>
+	<string>%@ and Zoom both use similar gestures. Do you want to continue using System Zoom with %@?</string>
+	<key>ZoomConflictTitle</key>
+	<string>Gesture conflict with System Zoom</string>
+	<key>ask.sheet.option.AssistiveTouch.on</key>
+	<string>AssistiveTouch</string>
+	<key>ask.sheet.option.GuidedAccess.on</key>
+	<string>Guided Access</string>
+	<key>ask.sheet.option.HearingAidControl.on</key>
+	<string>Hearing Aids</string>
+	<key>ask.sheet.option.SwitchOver.on</key>
+	<string>Switch Control</string>
+	<key>ask.sheet.option.VoiceOver.on</key>
+	<string>VoiceOver</string>
+	<key>ask.sheet.option.WhiteOnBlack.on</key>
+	<string>Invert Colors</string>
+	<key>ask.sheet.option.Zoom.on</key>
+	<string>Zoom</string>
+	<key>ask.sheet.option.cancel</key>
+	<string>Cancel</string>
+	<key>ask.sheet.title</key>
+	<string>Accessibility Options</string>
+	<key>cancel</key>
+	<string>Cancel</string>
+	<key>enable</key>
+	<string>Enable</string>
+	<key>enable.zoom.purple.buddy.message</key>
+	<string>Zoom magnifies the entire screen with a three finger double-tap. Do you want to enable Zoom?</string>
+	<key>enable.zoom.purple.buddy.title</key>
+	<string>Enable Zoom</string>
+</dict>
+</plist>

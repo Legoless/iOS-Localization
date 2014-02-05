@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Typographic Features</key>
+	<string>All Typographic Features</string>
+	<key>Alternate Half Width</key>
+	<string>Alternate Half Width</string>
+	<key>Alternate Proportional Widths</key>
+	<string>Alternate Proportional Widths</string>
+	<key>Alternative Stylistic Sets</key>
+	<string>Alternative Stylistic Sets</string>
+	<key>Capital Forms</key>
+	<string>Capital Forms</string>
+	<key>Capital Spacing</key>
+	<string>Capital Spacing</string>
+	<key>Case-Sensitive Layout</key>
+	<string>Case-Sensitive Layout</string>
+	<key>Character Shape</key>
+	<string>Character Shape</string>
+	<key>Common Ligatures</key>
+	<string>Common Ligatures</string>
+	<key>Contextual Alternates</key>
+	<string>Contextual Alternates</string>
+	<key>Contextual Fractional Forms</key>
+	<string>Contextual Fractional Forms</string>
+	<key>Contextual Ligatures</key>
+	<string>Contextual Ligatures</string>
+	<key>Contextual Swash Alternates</key>
+	<string>Contextual Swash Alternates</string>
+	<key>Expert Forms</key>
+	<string>Expert Forms</string>
+	<key>Full Width</key>
+	<string>Full Width</string>
+	<key>Half Width</key>
+	<string>Half Width</string>
+	<key>Hanja to Hangul</key>
+	<string>Hanja to Hangul</string>
+	<key>Historical Forms &amp; Ligatures</key>
+	<string>Historical Forms &amp; Ligatures</string>
+	<key>Hojo Kanji Forms</key>
+	<string>Hojo Kanji Forms</string>
+	<key>Horizontal Alternates</key>
+	<string>Horizontal Alternates</string>
+	<key>Inferiors/Subscripts</key>
+	<string>Inferiors/Subscripts</string>
+	<key>Italics</key>
+	<string>Italics</string>
+	<key>JIS1978 Forms</key>
+	<string>JIS1978 Forms</string>
+	<key>JIS1983 Forms</key>
+	<string>JIS1983 Forms</string>
+	<key>JIS1990 Forms</key>
+	<string>JIS1990 Forms</string>
+	<key>JIS2004 Forms</key>
+	<string>JIS2004 Forms</string>
+	<key>Ligatures</key>
+	<string>Ligatures</string>
+	<key>Lining Figures</key>
+	<string>Lining Figures</string>
+	<key>Lower Case</key>
+	<string>Lower Case</string>
+	<key>Mathematical Extras</key>
+	<string>Mathematical Extras</string>
+	<key>Mathematical Greek Letter Forms</key>
+	<string>Mathematical Greek Letter Forms</string>
+	<key>Monospaced Numbers</key>
+	<string>Monospaced Numbers</string>
+	<key>NLC Kanji Forms</key>
+	<string>NLC Kanji Forms</string>
+	<key>No Change</key>
+	<string>No Change</string>
+	<key>No Style Options</key>
+	<string>No Style Options</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Normal Vertical Position</key>
+	<string>Normal Vertical Position</string>
+	<key>Number Case</key>
+	<string>Number Case</string>
+	<key>Number Spacing</key>
+	<string>Number Spacing</string>
+	<key>Old-Style Figures</key>
+	<string>Old-Style Figures</string>
+	<key>On</key>
+	<string>On</string>
+	<key>Optimized Kana Alternates</key>
+	<string>Optimized Kana Alternates</string>
+	<key>Ordinals</key>
+	<string>Ordinals</string>
+	<key>Petite Capitals</key>
+	<string>Petite Capitals</string>
+	<key>Proportional Numbers</key>
+	<string>Proportional Numbers</string>
+	<key>Proportional Widths</key>
+	<string>Proportional Widths</string>
+	<key>Quarter Width</key>
+	<string>Quarter Width</string>
+	<key>Rare Ligatures</key>
+	<string>Rare Ligatures</string>
+	<key>Ruby Glyphs</key>
+	<string>Ruby Glyphs</string>
+	<key>Scientific Inferiors</key>
+	<string>Scientific Inferiors</string>
+	<key>Simplified Forms</key>
+	<string>Simplified Forms</string>
+	<key>Slashed Zero</key>
+	<string>Slashed Zero</string>
+	<key>Small Capitals</key>
+	<string>Small Capitals</string>
+	<key>Style Options</key>
+	<string>Style Options</string>
+	<key>Stylistic Set 1</key>
+	<string>Stylistic Set 1</string>
+	<key>Stylistic Set 10</key>
+	<string>Stylistic Set 10</string>
+	<key>Stylistic Set 11</key>
+	<string>Stylistic Set 11</string>
+	<key>Stylistic Set 12</key>
+	<string>Stylistic Set 12</string>
+	<key>Stylistic Set 13</key>
+	<string>Stylistic Set 13</string>
+	<key>Stylistic Set 14</key>
+	<string>Stylistic Set 14</string>
+	<key>Stylistic Set 15</key>
+	<string>Stylistic Set 15</string>
+	<key>Stylistic Set 16</key>
+	<string>Stylistic Set 16</string>
+	<key>Stylistic Set 17</key>
+	<string>Stylistic Set 17</string>
+	<key>Stylistic Set 18</key>
+	<string>Stylistic Set 18</string>
+	<key>Stylistic Set 19</key>
+	<string>Stylistic Set 19</string>
+	<key>Stylistic Set 2</key>
+	<string>Stylistic Set 2</string>
+	<key>Stylistic Set 20</key>
+	<string>Stylistic Set 20</string>
+	<key>Stylistic Set 3</key>
+	<string>Stylistic Set 3</string>
+	<key>Stylistic Set 4</key>
+	<string>Stylistic Set 4</string>
+	<key>Stylistic Set 5</key>
+	<string>Stylistic Set 5</string>
+	<key>Stylistic Set 6</key>
+	<string>Stylistic Set 6</string>
+	<key>Stylistic Set 7</key>
+	<string>Stylistic Set 7</string>
+	<key>Stylistic Set 8</key>
+	<string>Stylistic Set 8</string>
+	<key>Stylistic Set 9</key>
+	<string>Stylistic Set 9</string>
+	<key>Superiors/Superscripts</key>
+	<string>Superiors/Superscripts</string>
+	<key>Swash Alternates</key>
+	<string>Swash Alternates</string>
+	<key>Text Spacing</key>
+	<string>Text Spacing</string>
+	<key>Third Width</key>
+	<string>Third Width</string>
+	<key>Titling Capitals</key>
+	<string>Titling Capitals</string>
+	<key>Traditional Forms</key>
+	<string>Traditional Forms</string>
+	<key>Traditional Name Forms</key>
+	<string>Traditional Name Forms</string>
+	<key>Transliteration</key>
+	<string>Transliteration</string>
+	<key>Typographic Extras</key>
+	<string>Typographic Extras</string>
+	<key>Upper Case</key>
+	<string>Upper Case</string>
+	<key>Vertical Alternates</key>
+	<string>Vertical Alternates</string>
+	<key>Vertical Position</key>
+	<string>Vertical Position</string>
+	<key>Vertical Substitution Forms</key>
+	<string>Vertical Substitution Forms</string>
+</dict>
+</plist>

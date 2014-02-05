@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> Etisalat_MYACCOUNTURLTITLE</key>
+	<string>Etisalat</string>
+	<key>Balance / Bill Inquiry_SERVICE_NAME</key>
+	<string>Balance / Bill Inquiry</string>
+	<key>Customer Care_SERVICE_NAME</key>
+	<string>Customer Care</string>
+	<key>Directory_SERVICE_NAME</key>
+	<string>Directory</string>
+	<key>Ring Back Tone_SERVICE_NAME</key>
+	<string>Ring Back Tone</string>
+	<key>Voice Mail_SERVICE_NAME</key>
+	<string>Voice Mail</string>
+</dict>
+</plist>

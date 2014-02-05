@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A remote user is connected. That prevents system sleep.</key>
+	<string>A remote user is connected. That prevents system sleep.</string>
+	<key>WARNING!</key>
+	<string>Warning!</string>
+	<key>YOUR COMPUTER IS NOW RUNNING ON UPS BACKUP BATTERY. SAVE YOUR DOCUMENTS AND SHUTDOWN SOON.</key>
+	<string>Your computer is now running on UPS backup battery power. Save your documents and shut down soon.</string>
+</dict>
+</plist>

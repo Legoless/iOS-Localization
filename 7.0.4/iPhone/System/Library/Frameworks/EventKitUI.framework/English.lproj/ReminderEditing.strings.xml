@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALARM_PROXIMITY_ENTER</key>
+	<string>When I Arrive</string>
+	<key>ALARM_PROXIMITY_FORMAT</key>
+	<string>%@: %@</string>
+	<key>ALARM_PROXIMITY_FORMAT_ARG_ENTER</key>
+	<string>Arriving</string>
+	<key>ALARM_PROXIMITY_FORMAT_ARG_LEAVE</key>
+	<string>Leaving</string>
+	<key>ALARM_PROXIMITY_LEAVE</key>
+	<string>When I Leave</string>
+	<key>AT_A_LOCATION</key>
+	<string>Remind Me At a Location</string>
+	<key>AT_A_LOCATION_LARGE_TEXT</key>
+	<string>At a Location</string>
+	<key>CANNOT_DETERMINE_LOCATION</key>
+	<string>Cannot Determine Location</string>
+	<key>CANNOT_SAVE_REMINDER</key>
+	<string>Cannot Save Reminder</string>
+	<key>CHOOSE_ADDRESS</key>
+	<string>Choose a Contact…</string>
+	<key>CONTACT_ADDRESS_WITHOUT_LABEL_FORMAT</key>
+	<string>%@'s Address</string>
+	<key>CONTACT_ADDRESS_WITH_LABEL_FORMAT</key>
+	<string>%@'s %@</string>
+	<key>CURRENT_LOCATION</key>
+	<string>Current Location</string>
+	<key>DETAIL_NAV_TITLE</key>
+	<string>Details</string>
+	<key>DETERMINING_LOCATION</key>
+	<string>Determining Location…</string>
+	<key>DUE</key>
+	<string>Due</string>
+	<key>DUE_ALL_DAY_FORMAT</key>
+	<string>%@ (all day)</string>
+	<key>DUE_AND_LOCATION_EXPLANATORY_FORMAT</key>
+	<string>On %@, you will be reminded
+%@, or by %@
+that day at the latest.</string>
+	<key>DUE_AND_LOCATION_EXPLANATORY_FORMAT_PROXIMITY_ENTER</key>
+	<string>when you arrive at this location</string>
+	<key>DUE_AND_LOCATION_EXPLANATORY_FORMAT_PROXIMITY_LEAVE</key>
+	<string>when you leave this location</string>
+	<key>DUE_DATE_DETAIL_NAV_TITLE</key>
+	<string>Due Date</string>
+	<key>HAS_DUE_DATE_SWITCH_TITLE</key>
+	<string>Due</string>
+	<key>HIGH_PRIORITY</key>
+	<string>High</string>
+	<key>LIST_TITLE_DISAMBIGUATION_FORMAT</key>
+	<string>%@ (%@)</string>
+	<key>LOCATION</key>
+	<string>Location</string>
+	<key>LOCATION_DEGREES_EAST</key>
+	<string>E</string>
+	<key>LOCATION_DEGREES_FORMAT</key>
+	<string>%d°%d'%.0f'' %@</string>
+	<key>LOCATION_DEGREES_NORTH</key>
+	<string>N</string>
+	<key>LOCATION_DEGREES_SOUTH</key>
+	<string>S</string>
+	<key>LOCATION_DEGREES_WEST</key>
+	<string>W</string>
+	<key>LOCATION_PEOPLE_PICKER_PROMPT</key>
+	<string>Choose a contact location</string>
+	<key>LOCATION_SERVICES_DISABLED_SUBTEXT</key>
+	<string>Enable Location Services in Settings to use location based reminders.</string>
+	<key>LOCATION_STRING_FORMAT</key>
+	<string>%@, %@</string>
+	<key>LOW_PRIORITY</key>
+	<string>Low</string>
+	<key>MAP</key>
+	<string>Map</string>
+	<key>MEDIUM_PRIORITY</key>
+	<string>Medium</string>
+	<key>ME_CARD_ALERT_BODY</key>
+	<string>Reminders can use your contact info to offer you location choices such as “home” or “work”. Which contact should be used?</string>
+	<key>ME_CARD_ALERT_CHOOSE_BUTTON</key>
+	<string>Choose</string>
+	<key>ME_CARD_ALERT_TITLE</key>
+	<string>My Locations</string>
+	<key>MY_ADDRESS_WITHOUT_LABEL</key>
+	<string>My Address</string>
+	<key>NONE_DUE_DATE</key>
+	<string>None</string>
+	<key>NONE_LOCATION</key>
+	<string>None</string>
+	<key>NONE_PRIORITY</key>
+	<string>None</string>
+	<key>NONE_REMINDER_ALERT</key>
+	<string>Never</string>
+	<key>ON_A_DAY</key>
+	<string>Remind Me On a Day</string>
+	<key>ON_DUE_DATE_FORMAT</key>
+	<string>%@</string>
+	<key>PRIORITY</key>
+	<string>Priority</string>
+	<key>PRIORITY_DETAIL_NAV_TITLE</key>
+	<string>Priority</string>
+	<key>REMINDER_LIST</key>
+	<string>List</string>
+	<key>REMIND_ME</key>
+	<string>Remind Me</string>
+	<key>REMIND_ME_EXPLANATORY_SEPARATOR</key>
+	<string>
+
+</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SHOW_IN_MAP</key>
+	<string>Show on Map</string>
+	<key>SHOW_LESS</key>
+	<string>Show Less…</string>
+	<key>SHOW_MORE</key>
+	<string>Show More…</string>
+	<key>TYPED_LOCATION_GEOCODE_FAILURE</key>
+	<string>The location of this address cannot be determined.  Please check your spelling and try again.</string>
+	<key>TYPED_LOCATION_PLACEHOLDER</key>
+	<string>Enter an Address…</string>
+	<key>UNTITLED_REMINDER</key>
+	<string>Untitled</string>
+	<key>WIFI_DISABLED_PROMPT</key>
+	<string>Enabling Wi-Fi in Settings will improve your location accuracy.</string>
+	<key>WIFI_DISABLED_SUBTEXT</key>
+	<string>Enable Wi-Fi in Settings to improve the accuracy of location based reminders.</string>
+	<key>WLAN_DISABLED_PROMPT</key>
+	<string>Enabling WLAN in Settings will improve your location accuracy.</string>
+	<key>WLAN_DISABLED_SUBTEXT</key>
+	<string>Enable WLAN in Settings to improve the accuracy of location based reminders.</string>
+</dict>
+</plist>

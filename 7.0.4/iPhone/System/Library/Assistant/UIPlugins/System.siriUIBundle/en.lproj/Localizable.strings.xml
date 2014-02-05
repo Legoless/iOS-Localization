@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>PLAY_OPTION_N</key>
+	<string>Play option %@</string>
+	<key>PRONOUNCE_SUBTITLE_QUOTED_ORTHOGRAPHY_FORMAT</key>
+	<string>“%@”</string>
+	<key>PRONOUNCE_TITLE</key>
+	<string>Pronounce</string>
+	<key>SELECT_BUTTON_TITLE</key>
+	<string>Select</string>
+	<key>SIRI_SUGGESTION_TITLE</key>
+	<string>Some things you can ask me:</string>
+	<key>SIRI_SUGGESTION_TITLE_PAD</key>
+	<string>Some things you
+can ask me:</string>
+	<key>SIRI_USER_UTTERANCE_LEADING_QUOTE_MARK</key>
+	<string>“</string>
+	<key>SIRI_USER_UTTERANCE_TRAILING_QUOTE_MARK</key>
+	<string>”</string>
+	<key>TAP_TO_EDIT</key>
+	<string>tap to edit</string>
+</dict>
+</plist>

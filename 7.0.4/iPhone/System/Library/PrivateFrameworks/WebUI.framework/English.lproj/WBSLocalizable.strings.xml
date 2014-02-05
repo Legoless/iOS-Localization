@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ (%u)</key>
+	<string>%@ (%u)</string>
+	<key>%@’s %@</key>
+	<string>%@’s %@</string>
+	<key>American Express</key>
+	<string>American Express</string>
+	<key>American Express,AMEX</key>
+	<string>American Express,AMEX</string>
+	<key>Carte Blanche,CarteBlanche</key>
+	<string>Carte Blanche,CarteBlanche</string>
+	<key>China UnionPay card</key>
+	<string>China UnionPay card</string>
+	<key>ChinaUnionPay,China UnionPay</key>
+	<string>ChinaUnionPay,China UnionPay</string>
+	<key>Diners Club, Diner's Club, Diners Club International, Diner's Club International</key>
+	<string>Diners Club, Diner's Club, Diners Club International, Diner's Club International</string>
+	<key>Discover card</key>
+	<string>Discover card</string>
+	<key>Discover,Discover Card</key>
+	<string>Discover,Discover Card</string>
+	<key>EnRoute,En Route</key>
+	<string>EnRoute,En Route</string>
+	<key>InstaPayment</key>
+	<string>InstaPayment</string>
+	<key>InstaPayment card</key>
+	<string>InstaPayment card</string>
+	<key>JCB (comma-separated list)</key>
+	<string>JCB</string>
+	<key>JCB card</key>
+	<string>JCB card</string>
+	<key>Laser</key>
+	<string>Laser</string>
+	<key>Laser card</key>
+	<string>Laser card</string>
+	<key>LinkedIn</key>
+	<string>LinkedIn</string>
+	<key>Maestro card</key>
+	<string>Maestro card</string>
+	<key>Maestro,Switch</key>
+	<string>Maestro,Switch</string>
+	<key>MasterCard</key>
+	<string>MasterCard</string>
+	<key>MasterCard,Master Card</key>
+	<string>MasterCard,Master Card</string>
+	<key>Safari Credit Card AutoFill Metadata</key>
+	<string>Safari Credit Card AutoFill Metadata</string>
+	<key>Safari Credit Card Entry: %@</key>
+	<string>Safari Credit Card Entry: %@</string>
+	<key>Sina Weibo</key>
+	<string>Sina Weibo</string>
+	<key>Tencent Weibo</key>
+	<string>Tencent Weibo</string>
+	<key>This keychain item is used by Safari to automatically fill credit card information in web forms.</key>
+	<string>This keychain item is used by Safari to automatically fill credit card information in web forms.</string>
+	<key>This keychain item is used by Safari to store information used by Credit Card AutoFill.</key>
+	<string>This keychain item is used by Safari to store information used by Credit Card AutoFill.</string>
+	<key>Twitter</key>
+	<string>Twitter</string>
+	<key>Visa</key>
+	<string>Visa</string>
+	<key>Visa (credit card name)</key>
+	<string>Visa</string>
+	<key>card number,cardnumber,cardnum,ccnum,ccnumber,cc num,creditcardnumber,credit card number,newcreditcardnumber,new credit card number,creditcardno,credit card no,card#,card #</key>
+	<string>card number,cardnumber,cardnum,ccnum,ccnumber,cc num,creditcardnumber,credit card number,newcreditcardnumber,new credit card number,creditcardno,credit card no,card#,card #</string>
+	<key>card type,cardtype,cc type,cctype,payment type</key>
+	<string>card type,cardtype,cc type,cctype,payment type</string>
+	<key>cvv,cvc,cvc2,cvv2,ccv2,cid,cvn,security code</key>
+	<string>cvv,cvc,cvc2,cvv2,ccv2,cid,cvn,security code</string>
+	<key>day</key>
+	<string>day</string>
+	<key>gift card,giftcard,rewards card,rewardscard,loyalty card,loyaltycard</key>
+	<string>gift card,giftcard,rewards card,rewardscard,loyalty card,loyaltycard</string>
+	<key>month,date m,date mo</key>
+	<string>month,date m,date mo</string>
+	<key>name on credit card,name on card,nameoncard,cardholder,card holder</key>
+	<string>name on credit card,name on card,nameoncard,cardholder,card holder</string>
+	<key>the ,a ,an </key>
+	<string>the ,a ,an </string>
+	<key>title shown for URL completion entries with no HTML title</key>
+	<string>(no title)</string>
+	<key>year,date y,date yr</key>
+	<string>year,date y,date yr</string>
+</dict>
+</plist>

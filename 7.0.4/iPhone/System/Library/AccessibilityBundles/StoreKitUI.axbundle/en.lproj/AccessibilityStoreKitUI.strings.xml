@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.rating.label</key>
+	<string>Rating, over %@</string>
+	<key>app.screenshot.label</key>
+	<string>App Screenshot</string>
+	<key>circle.progress.indicator</key>
+	<string>Loading</string>
+	<key>close.button.for.website.app.download</key>
+	<string>Close app download offer</string>
+	<key>facebook.friend.string.plural</key>
+	<string>%@ Facebook friends like this</string>
+	<key>facebook.friend.string.singular</key>
+	<string>%@ Facebook friend likes this</string>
+	<key>featured.showcase.item</key>
+	<string>Showcase item: %@</string>
+	<key>featured.showcase.status</key>
+	<string>%@, %d of %d</string>
+	<key>gift.recipient.table.cell.hint</key>
+	<string>Double tap to choose recipients</string>
+	<key>histogram.star.rating</key>
+	<string>Rating histogram</string>
+	<key>icon.image.with.title</key>
+	<string>App icon for %@</string>
+	<key>item.connecting</key>
+	<string>Connecting</string>
+	<key>item.download</key>
+	<string>Download</string>
+	<key>item.download.paused</key>
+	<string>Paused</string>
+	<key>item.downloading</key>
+	<string>Downloading</string>
+	<key>item.downloading.cancelable</key>
+	<string>Cancel download</string>
+	<key>item.downloading.pausable</key>
+	<string>Pause download</string>
+	<key>item.offer.button.progress</key>
+	<string>%@ downloaded</string>
+	<key>item.offer.button.text.confirm.hint</key>
+	<string>Double tap to confirm download</string>
+	<key>loading.status</key>
+	<string>Loading</string>
+	<key>redeem.code.validation</key>
+	<string>Validating code</string>
+	<key>send.gift.date.hint</key>
+	<string>Double tap to choose the date the gift will be sent.</string>
+	<key>share.button</key>
+	<string>Share</string>
+	<key>showcaseview.hint</key>
+	<string>Scroll left or right to view more showcase items</string>
+	<key>user.rating.count.plural</key>
+	<string>%@ user reviews</string>
+	<key>user.rating.count.singular</key>
+	<string>%@ user review</string>
+</dict>
+</plist>

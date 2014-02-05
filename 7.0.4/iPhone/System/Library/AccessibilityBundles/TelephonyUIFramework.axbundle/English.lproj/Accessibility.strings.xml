@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0.key.hint</key>
+	<string>Hold to enter the plus symbol</string>
+	<key>audio.route.button</key>
+	<string>Audio Route</string>
+	<key>bottombar.lockbar.hint</key>
+	<string>Slide or double tap</string>
+	<key>emergencyCallButton.title</key>
+	<string>Place emergency call</string>
+	<key>emergencyCancelButton.title</key>
+	<string>Cancel</string>
+	<key>end.current</key>
+	<string>End Current Call</string>
+	<key>end.held</key>
+	<string>End Call on Hold</string>
+	<key>flip.camera</key>
+	<string>Camera chooser</string>
+	<key>flip.camera.back</key>
+	<string>Back facing</string>
+	<key>flip.camera.front</key>
+	<string>Front facing</string>
+	<key>hold.current.call</key>
+	<string>Hold Current Call</string>
+	<key>mute.button</key>
+	<string>Mute</string>
+	<key>number.pad.0</key>
+	<string>0</string>
+	<key>number.pad.1</key>
+	<string>1</string>
+	<key>number.pad.2</key>
+	<string>2</string>
+	<key>number.pad.3</key>
+	<string>3</string>
+	<key>number.pad.4</key>
+	<string>4</string>
+	<key>number.pad.5</key>
+	<string>5</string>
+	<key>number.pad.6</key>
+	<string>6</string>
+	<key>number.pad.7</key>
+	<string>7</string>
+	<key>number.pad.8</key>
+	<string>8</string>
+	<key>number.pad.9</key>
+	<string>9</string>
+	<key>number.pad.delete</key>
+	<string>Delete</string>
+	<key>number.pad.octothorpe</key>
+	<string>Pound</string>
+	<key>number.pad.star</key>
+	<string>Star</string>
+	<key>phone.action.answer</key>
+	<string>Answer</string>
+	<key>phone.grabber.hide.hint</key>
+	<string>Hide call options</string>
+	<key>phone.grabber.label</key>
+	<string>Call options</string>
+	<key>phone.grabber.show.hint</key>
+	<string>Show call options</string>
+</dict>
+</plist>

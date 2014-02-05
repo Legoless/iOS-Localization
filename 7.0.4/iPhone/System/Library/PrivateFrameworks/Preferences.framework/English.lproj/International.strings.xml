@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUDDHIST_CALENDAR</key>
+	<string>Buddhist</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>GREGORIAN_CALENDAR</key>
+	<string>Gregorian</string>
+	<key>INTERNATIONAL</key>
+	<string>International</string>
+	<key>JAPANESE_CALENDAR</key>
+	<string>Japanese</string>
+	<key>LANGUAGE</key>
+	<string>Language</string>
+	<key>LOCALE</key>
+	<string>Region Format</string>
+	<key>ROC_CALENDAR</key>
+	<string>Republic of China</string>
+	<key>SETTING_LANGUAGE</key>
+	<string>Setting Language…</string>
+	<key>VOICECONTROL</key>
+	<string>Voice Control</string>
+</dict>
+</plist>

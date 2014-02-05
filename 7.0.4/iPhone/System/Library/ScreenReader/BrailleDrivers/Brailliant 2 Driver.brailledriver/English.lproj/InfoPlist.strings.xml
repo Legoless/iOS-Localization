@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2011-2012 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.65537</key>
+	<string>C1</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.65793</key>
+	<string>C2</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.66049</key>
+	<string>C3</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.66305</key>
+	<string>C4</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.66561</key>
+	<string>C5</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.66817</key>
+	<string>C6</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.67073</key>
+	<string>Up</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.67329</key>
+	<string>Left</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.67585</key>
+	<string>Right</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.67841</key>
+	<string>Down</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.80</key>
+	<string>Humanware Brailliant 80</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.BI.32</key>
+	<string>Humanware Brailliant BI 32</string>
+	<key>com.apple.scrod.braille.driver.humanware.brailliant.2.BI.40</key>
+	<string>Humanware Brailliant BI 40</string>
+</dict>
+</plist>

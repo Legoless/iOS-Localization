@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BASIC_WORKOUT</key>
+	<string>Basic</string>
+	<key>BASIC_WORKOUT_DESCRIPTION</key>
+	<string>An open-ended workout</string>
+	<key>BEST_10K</key>
+	<string>Best 10K</string>
+	<key>BEST_5K</key>
+	<string>Best 5K</string>
+	<key>BEST_HALF_MARATHON</key>
+	<string>Best Half Marathon</string>
+	<key>BEST_KILOMETER</key>
+	<string>Best Kilometer</string>
+	<key>BEST_MARATHON</key>
+	<string>Best Marathon</string>
+	<key>BEST_MILE</key>
+	<string>Best Mile</string>
+	<key>BEST_TITLE</key>
+	<string>Personal Best</string>
+	<key>CALIBRATE_ELIGIBLE</key>
+	<string>This workout is eligible for calibration.</string>
+	<key>CALIBRATE_NOT_ELIGIBLE</key>
+	<string>This workout cannot be used for calibration.</string>
+	<key>CALIBRATE_PROMPT_FORMAT</key>
+	<string>Select the actual distance of your %@ %@ run</string>
+	<key>CALIBRATE_RESET</key>
+	<string>Reset to Default</string>
+	<key>CALIBRATE_RESET_CANCEL</key>
+	<string>Cancel</string>
+	<key>CALIBRATE_RESET_CONFIRM</key>
+	<string>Reset</string>
+	<key>CALIBRATE_RUN</key>
+	<string>Run</string>
+	<key>CALIBRATE_RUN_400M</key>
+	<string>400 Meters</string>
+	<key>CALIBRATE_RUN_CHOOSE</key>
+	<string>Choose the distance from which to calibrate</string>
+	<key>CALIBRATE_RUN_CUSTOM</key>
+	<string>Custom Distance</string>
+	<key>CALIBRATE_RUN_TITLE</key>
+	<string>Calibrate Run</string>
+	<key>CALIBRATE_TITLE</key>
+	<string>Calibrate</string>
+	<key>CALIBRATE_WALK</key>
+	<string>Walk</string>
+	<key>CALIBRATE_WALK_TITLE</key>
+	<string>Calibrate Walk</string>
+	<key>CALIBRATE_WORKOUT</key>
+	<string>Calibration</string>
+	<key>CALIBRATE_WORKOUT_DESCRIPTION</key>
+	<string>Improve the accuracy of your workout</string>
+	<key>CALIBRATION</key>
+	<string>Calibration</string>
+	<key>CALIBRATION_CHOOSE</key>
+	<string>Choose the type of workout to calibrate</string>
+	<key>CALIBRATION_SUCCESSFUL</key>
+	<string>Calibration was successful for this workout.</string>
+	<key>CALORIES_CHOOSE</key>
+	<string>Choose the calorie burning goal</string>
+	<key>CALORIES_CUSTOM_CALORIE_UNIT</key>
+	<string>cal</string>
+	<key>CALORIES_CUSTOM_CHOOSE</key>
+	<string>Choose a custom calorie burning goal</string>
+	<key>CALORIES_CUSTOM_SELECT</key>
+	<string>Custom Calorie</string>
+	<key>CALORIES_CUSTOM_SELECT_BUTTON</key>
+	<string>Select</string>
+	<key>CALORIES_FIXED_SELECT</key>
+	<string>Calorie</string>
+	<key>CALORIES_WORKOUT</key>
+	<string>Calorie</string>
+	<key>CALORIES_WORKOUT_DESCRIPTION</key>
+	<string>A workout with a calorie burning goal</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CLEAR_BESTS</key>
+	<string>Clear Bests</string>
+	<key>CLEAR_BUTTON_TITLE</key>
+	<string>Clear</string>
+	<key>CLEAR_CONFIRMATION_CANCEL</key>
+	<string>Cancel</string>
+	<key>CLEAR_CONFIRMATION_OK</key>
+	<string>Clear History</string>
+	<key>CLEAR_TOTALS</key>
+	<string>Clear Totals</string>
+	<key>DISTANCE_CHOOSE</key>
+	<string>Choose the distance of your workout</string>
+	<key>DISTANCE_CUSTOM_CHOOSE</key>
+	<string>Choose a custom distance</string>
+	<key>DISTANCE_CUSTOM_KILOMETER</key>
+	<string>km</string>
+	<key>DISTANCE_CUSTOM_MILE</key>
+	<string>mi</string>
+	<key>DISTANCE_CUSTOM_SELECT</key>
+	<string>Custom Distance</string>
+	<key>DISTANCE_CUSTOM_SELECT_BUTTON</key>
+	<string>Select</string>
+	<key>DISTANCE_FIXED_SELECT</key>
+	<string>Distance</string>
+	<key>DISTANCE_WORKOUT</key>
+	<string>Distance</string>
+	<key>DISTANCE_WORKOUT_DESCRIPTION</key>
+	<string>A workout with a distance goal</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>FARTHEST_WORKOUT</key>
+	<string>Farthest</string>
+	<key>HISTORY_TITLE</key>
+	<string>History</string>
+	<key>KG_FORMAT</key>
+	<string>%@ kg</string>
+	<key>LOADING</key>
+	<string>Loading...</string>
+	<key>LOW_BATTERY_MESSAGE</key>
+	<string>The sensor will need to be replaced</string>
+	<key>LOW_BATTERY_TITLE</key>
+	<string>Nike+ Sensor Battery
+Running Low</string>
+	<key>MUSIC_CHOOSE</key>
+	<string>Choose music to accompany your workout</string>
+	<key>MUSIC_FIXED_SELECT</key>
+	<string>Music</string>
+	<key>MUSIC_NIKE_WORKOUT_MIXES</key>
+	<string>Nike+ Workout Mixes</string>
+	<key>MUSIC_NONE</key>
+	<string>None</string>
+	<key>MUSIC_NOW_PLAYING</key>
+	<string>Now Playing</string>
+	<key>MUSIC_PLAYLISTS</key>
+	<string>Playlists</string>
+	<key>MUSIC_SHUFFLE_SONGS</key>
+	<string>Shuffle Songs</string>
+	<key>MY_WORKOUTS_TITLE</key>
+	<string>My Workouts</string>
+	<key>NO_HISTORY</key>
+	<string>No History</string>
+	<key>NO_WORKOUTS</key>
+	<string>No Custom Workouts</string>
+	<key>NUMBER_OF_WORKOUTS</key>
+	<string>Number of Workouts</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PLAYLIST_CHOOSE</key>
+	<string>Choose a playlist</string>
+	<key>PLAYLIST_FIXED_SELECT</key>
+	<string>Playlists</string>
+	<key>POUNDS_FORMAT</key>
+	<string>%@ lbs</string>
+	<key>RUN_CALIBRATION</key>
+	<string>Calibrate for running</string>
+	<key>RUN_SUMMARY_DATE_FORMAT</key>
+	<string>%@, %@</string>
+	<key>RUN_WORKOUT_CALIBRATED</key>
+	<string>Run Workout Calibrated</string>
+	<key>RUN_WORKOUT_UNCALIBRATED</key>
+	<string>Run Workout Uncalibrated</string>
+	<key>SYSTEM_STATUS_BAR_PREAMBLE</key>
+	<string>Touch to return to workout</string>
+	<key>TIME_CHOOSE</key>
+	<string>Choose the length of your workout</string>
+	<key>TIME_CUSTOM_CHOOSE</key>
+	<string>Choose a custom time</string>
+	<key>TIME_CUSTOM_HOURS_MINUTES_FORMAT</key>
+	<string>%d:%02d</string>
+	<key>TIME_CUSTOM_SELECT</key>
+	<string>Custom Time</string>
+	<key>TIME_CUSTOM_SELECT_BUTTON</key>
+	<string>Select</string>
+	<key>TIME_FIXED_SELECT</key>
+	<string>Time</string>
+	<key>TIME_WORKOUT</key>
+	<string>Time</string>
+	<key>TIME_WORKOUT_DESCRIPTION</key>
+	<string>A workout with a timed goal</string>
+	<key>TODAY</key>
+	<string>Today</string>
+	<key>TOTALS_TITLE</key>
+	<string>Totals</string>
+	<key>TOTAL_CALORIES</key>
+	<string>Total Calories</string>
+	<key>TOTAL_DISTANCE</key>
+	<string>Total Distance</string>
+	<key>TOTAL_TIME</key>
+	<string>Total Time</string>
+	<key>TO_CALIBRATE</key>
+	<string>To calibrate, complete a workout and press the Calibrate button.</string>
+	<key>TO_RECALIBRATE</key>
+	<string>To re-calibrate, complete a workout and press the Calibrate button.</string>
+	<key>UNCALIBRATED</key>
+	<string>Sensor Uncalibrated</string>
+	<key>WALK_CALIBRATION</key>
+	<string>Calibrate for walking</string>
+	<key>WALK_WORKOUT_CALIBRATED</key>
+	<string>Walk Workout Calibrated</string>
+	<key>WALK_WORKOUT_UNCALIBRATED</key>
+	<string>Walk Workout Uncalibrated</string>
+	<key>WEIGHT_TITLE</key>
+	<string>Weight</string>
+	<key>WORKOUT_CHOOSE</key>
+	<string>Choose a workout</string>
+	<key>WORKOUT_MIX_CHOOSE</key>
+	<string>Choose a workout mix</string>
+	<key>WORKOUT_MIX_FIXED_SELECT</key>
+	<string>Workout Mixes</string>
+	<key>WORKOUT_NAME_PROMPT</key>
+	<string>Enter a name for your workout</string>
+	<key>WORKOUT_NAME_TITLE</key>
+	<string>Workout Name</string>
+	<key>WORKOUT_PLACEHOLDER_NAME</key>
+	<string>Workout</string>
+	<key>WORKOUT_TITLE</key>
+	<string>Workouts</string>
+	<key>YESTERDAY</key>
+	<string>Yesterday</string>
+</dict>
+</plist>

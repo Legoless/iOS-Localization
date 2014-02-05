@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASSISTANT_INITIAL_QUERY</key>
+	<string>What can I help
+you with?</string>
+	<key>ASSISTANT_INITIAL_QUERY_IPAD</key>
+	<string>What can I help you with?</string>
+	<key>ASSISTANT_NOT_AVAILABLE_SUBTITLE</key>
+	<string>Connect to the Internet.</string>
+	<key>ASSISTANT_NOT_AVAILABLE_TITLE</key>
+	<string>Siri not available</string>
+	<key>SIRI_SUGGESTION_TITLE</key>
+	<string>Some things you
+can ask me:</string>
+	<key>SIRI_SUGGESTION_TITLE_IPAD</key>
+	<string>Some things you can ask me:</string>
+</dict>
+</plist>

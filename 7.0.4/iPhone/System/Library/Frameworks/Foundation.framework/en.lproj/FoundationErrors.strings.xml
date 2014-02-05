@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Err1024-C</key>
+	<string>The value is invalid.</string>
+	<key>Err1024-C.a</key>
+	<string>The value %@ is invalid.</string>
+	<key>Err1024-R</key>
+	<string>Please provide a valid value.</string>
+	<key>Err2048-C</key>
+	<string>The value is invalid.</string>
+	<key>Err2048-C.a</key>
+	<string>The value %@ is invalid.</string>
+	<key>Err2048-C.an</key>
+	<string>The value is too small.</string>
+	<key>Err2048-C.ax</key>
+	<string>The value is too large.</string>
+	<key>Err2048-R</key>
+	<string>Please provide a valid value.</string>
+	<key>Err2048-R.n</key>
+	<string>Please provide a number no less than %@.</string>
+	<key>Err2048-R.nx</key>
+	<string>Please provide a number between %1$@ and %2$@.</string>
+	<key>Err2048-R.x</key>
+	<string>Please provide a number no greater than %@.</string>
+	<key>Err2048.an</key>
+	<string>The value %@ is too small.</string>
+	<key>Err2048.ax</key>
+	<string>The value %@ is too large.</string>
+	<key>Err255-C</key>
+	<string>The file couldn’t be locked.</string>
+	<key>Err255-R</key>
+	<string>The file might already be locked, or you may not have permission to lock it.</string>
+	<key>Err255.f</key>
+	<string>The file “%@” couldn’t be locked.</string>
+	<key>Err256</key>
+	<string>The file couldn’t be opened.</string>
+	<key>Err256.f</key>
+	<string>The file “%@” couldn’t be opened.</string>
+	<key>Err257</key>
+	<string>The file couldn’t be opened because you don’t have permission to view it.</string>
+	<key>Err257-C</key>
+	<string>You don’t have permission.</string>
+	<key>Err257-R</key>
+	<string>To view or change permissions, select the item in the Finder and choose File &gt; Get Info.</string>
+	<key>Err257.f</key>
+	<string>The file “%@” couldn’t be opened because you don’t have permission to view it.</string>
+	<key>Err258-C</key>
+	<string>The file name is invalid.</string>
+	<key>Err258.f</key>
+	<string>The item couldn’t be opened because the file name “%@” is invalid.</string>
+	<key>Err259</key>
+	<string>The file couldn’t be opened because it isn’t in the correct format.</string>
+	<key>Err259-C</key>
+	<string>The file isn’t in the correct format.</string>
+	<key>Err259-R</key>
+	<string>The file might be corrupted, truncated, or in an unexpected format.</string>
+	<key>Err259.f</key>
+	<string>The file “%@” couldn’t be opened because it isn’t in the correct format.</string>
+	<key>Err260</key>
+	<string>The file couldn’t be opened because it doesn’t exist.</string>
+	<key>Err260(Folder).f</key>
+	<string>The folder “%@” doesn’t exist.</string>
+	<key>Err260-C</key>
+	<string>The file doesn’t exist.</string>
+	<key>Err260-C(Folder)</key>
+	<string>The folder doesn’t exist.</string>
+	<key>Err260.f</key>
+	<string>The file “%@” couldn’t be opened because there is no such file.</string>
+	<key>Err261</key>
+	<string>The file couldn’t be opened using the specified text encoding.</string>
+	<key>Err261-C</key>
+	<string>The specified text encoding isn’t applicable.</string>
+	<key>Err261-C.e</key>
+	<string>Text encoding %@ isn’t applicable.</string>
+	<key>Err261-R</key>
+	<string>The file may have been saved using a different text encoding, or it may not be a text file.</string>
+	<key>Err261.e</key>
+	<string>The file couldn’t be opened using text encoding %@.</string>
+	<key>Err261.ef</key>
+	<string>The file “%2$@” couldn’t be opened using text encoding %1$@.</string>
+	<key>Err262</key>
+	<string>The file couldn’t be opened because the specified URL type isn’t supported.</string>
+	<key>Err262-C</key>
+	<string>The specified URL type isn’t supported.</string>
+	<key>Err262.fu</key>
+	<string>The file “%1$@” couldn’t be opened because URL type %2$@ isn’t supported.</string>
+	<key>Err262.u</key>
+	<string>The file couldn’t be opened because URL type %@ isn’t supported.</string>
+	<key>Err263</key>
+	<string>The item couldn’t be opened because it is too large.</string>
+	<key>Err263-C</key>
+	<string>The item is too large.</string>
+	<key>Err263.f</key>
+	<string>The item “%@” couldn’t be opened because it is too large.</string>
+	<key>Err264</key>
+	<string>The file couldn’t be opened because the text encoding of the contents couldn’t be determined.</string>
+	<key>Err264-C</key>
+	<string>The text encoding of the contents couldn’t be determined.</string>
+	<key>Err264-R</key>
+	<string>You may be able to open the file by specifying a text encoding.</string>
+	<key>Err264.f</key>
+	<string>The file “%@” couldn’t be opened because the text encoding of its contents can’t be determined.</string>
+	<key>Err3072-C</key>
+	<string>The operation was cancelled.</string>
+	<key>Err3328</key>
+	<string>The requested operation couldn’t be completed because the feature is not supported.</string>
+	<key>Err3328(Trash).f</key>
+	<string>“%@” couldn’t be moved to the trash because the volume doesn’t have one.</string>
+	<key>Err3328(Trash).fv</key>
+	<string>“%1$@” couldn’t be moved to the trash because the volume “%2$@” doesn’t have one.</string>
+	<key>Err3328-C</key>
+	<string>The requested operation is not supported.</string>
+	<key>Err3328-C(Trash)</key>
+	<string>The volume doesn’t have a trash.</string>
+	<key>Err3840</key>
+	<string>The data couldn’t be read because it isn’t in the correct format.</string>
+	<key>Err3840-C</key>
+	<string>The data is not in the correct format.</string>
+	<key>Err3841</key>
+	<string>The data couldn’t be read because it is in a format that this application doesn’t understand.</string>
+	<key>Err3841-C</key>
+	<string>The data is in a format that this application doesn’t understand.</string>
+	<key>Err3842</key>
+	<string>The data couldn’t be read because of an error in the source of the data.</string>
+	<key>Err3842-C</key>
+	<string>An error occurred in the source of the data.</string>
+	<key>Err3851</key>
+	<string>The data couldn’t be written because of an error in the destination for the data.</string>
+	<key>Err3851-C</key>
+	<string>An error occurred in the destination for the data.</string>
+	<key>Err4(Folder).f</key>
+	<string>The folder “%@” doesn’t exist.</string>
+	<key>Err4(Move).fp</key>
+	<string>“%1$@” couldn’t be moved to “%2$@” because either the former doesn't exist, or the folder containing the latter doesn't exist.</string>
+	<key>Err4(Remove).f</key>
+	<string>“%@” couldn’t be removed.</string>
+	<key>Err4-C</key>
+	<string>The file doesn’t exist.</string>
+	<key>Err4-C(Folder)</key>
+	<string>The folder doesn’t exist.</string>
+	<key>Err4.f</key>
+	<string>The file “%@” doesn’t exist.</string>
+	<key>Err4097</key>
+	<string>Couldn’t communicate with a helper application.</string>
+	<key>Err4097-R</key>
+	<string>Try your operation again. If that fails, quit and relaunch the application and try again.</string>
+	<key>Err4099</key>
+	<string>Couldn’t communicate with a helper application.</string>
+	<key>Err4099-R</key>
+	<string>Try your operation again. If that fails, quit and relaunch the application and try again.</string>
+	<key>Err4101</key>
+	<string>Couldn’t communicate with a helper application.</string>
+	<key>Err4101-R</key>
+	<string>Try your operation again. If that fails, quit and relaunch the application and try again.</string>
+	<key>Err4353</key>
+	<string>Couldn’t retrieve the contents of the file because it is not available on iCloud yet.</string>
+	<key>Err4353-C</key>
+	<string>The file is not available on iCloud yet.</string>
+	<key>Err4353-R</key>
+	<string>Please wait for the device which created this document to upload it to iCloud.</string>
+	<key>Err4353.f</key>
+	<string>Couldn’t retrieve the contents of “%@” because it is not available on iCloud yet.</string>
+	<key>Err4354</key>
+	<string>Couldn’t upload the file to iCloud because there isn’t enough space in your account.</string>
+	<key>Err4354-C</key>
+	<string>There isn’t enough space in your account.</string>
+	<key>Err4354-R</key>
+	<string>Please visit iCloud Settings to make more space available on your account.</string>
+	<key>Err4354.f</key>
+	<string>Couldn’t upload “%@” to iCloud because there isn’t enough space in your account.</string>
+	<key>Err4355</key>
+	<string>Couldn’t access your iCloud account. The iCloud servers might be unreachable or your settings might be incorrect.</string>
+	<key>Err4355-C</key>
+	<string>The iCloud servers might be unreachable or your settings might be incorrect.</string>
+	<key>Err4355-R</key>
+	<string>Please check your network and your iCloud settings.</string>
+	<key>Err512</key>
+	<string>The file couldn’t be saved.</string>
+	<key>Err512(Backup).f</key>
+	<string>The file “%1$@” couldn’t be saved because the backup file couldn’t be updated.</string>
+	<key>Err512(Copy).fp</key>
+	<string>“%1$@” couldn’t be copied to “%2$@”.</string>
+	<key>Err512(Link).fp</key>
+	<string>“%1$@” couldn’t be linked to “%2$@”.</string>
+	<key>Err512(Move).fp</key>
+	<string>“%1$@” couldn’t be moved to “%2$@”.</string>
+	<key>Err512(Remove).f</key>
+	<string>“%@” couldn’t be removed.</string>
+	<key>Err512(Trash).f</key>
+	<string>“%@” couldn’t be moved to the trash.</string>
+	<key>Err512-C(Backup)</key>
+	<string>The backup file couldn’t be saved.</string>
+	<key>Err512-R(Backup)</key>
+	<string>The backup file might be locked, or you may not have permission to save it. To view or change permissions, select the item in the Finder and choose File &gt; Get Info.</string>
+	<key>Err512.df</key>
+	<string>The file “%2$@” couldn’t be saved in the folder “%1$@”.</string>
+	<key>Err512.f</key>
+	<string>The file “%@” couldn’t be saved.</string>
+	<key>Err513</key>
+	<string>The file couldn’t be saved because you don’t have permission.</string>
+	<key>Err513(Copy).fp</key>
+	<string>“%1$@” couldn’t be copied because you don’t have permission to access “%2$@”.</string>
+	<key>Err513(Link).fp</key>
+	<string>“%1$@” couldn’t be linked because you don’t have permission to access “%2$@”.</string>
+	<key>Err513(Move).fp</key>
+	<string>“%1$@” couldn’t be moved because you don’t have permission to access “%2$@”.</string>
+	<key>Err513(Remove).f</key>
+	<string>“%@” couldn’t be removed because you don’t have permission to access it.</string>
+	<key>Err513(Trash).f</key>
+	<string>“%@” couldn’t be moved to the trash because you don’t have permission to access it.</string>
+	<key>Err513-C</key>
+	<string>You don’t have permission.</string>
+	<key>Err513-R</key>
+	<string>To view or change permissions, select the item in the Finder and choose File &gt; Get Info.</string>
+	<key>Err513.df</key>
+	<string>You don’t have permission to save the file “%2$@” in the folder “%1$@”.</string>
+	<key>Err513.f</key>
+	<string>You don’t have permission to save the file “%@”.</string>
+	<key>Err514</key>
+	<string>The item couldn’t be saved because the file name is invalid.</string>
+	<key>Err514(Remove).f</key>
+	<string>The item couldn’t be removed because the file name “%@” is invalid.</string>
+	<key>Err514-C</key>
+	<string>The file name is invalid.</string>
+	<key>Err514.f</key>
+	<string>The item couldn’t be saved because the file name “%@” is invalid.</string>
+	<key>Err516</key>
+	<string>The file couldn’t be saved because a file with the same name already exists.</string>
+	<key>Err516(Copy).fp</key>
+	<string>“%1$@” couldn’t be copied to “%2$@” because an item with the same name already exists.</string>
+	<key>Err516(Link).fp</key>
+	<string>“%1$@” couldn’t be linked to “%2$@” because an item with the same name already exists.</string>
+	<key>Err516(Move).fp</key>
+	<string>“%1$@” couldn’t be moved to “%2$@” because an item with the same name already exists.</string>
+	<key>Err516-C</key>
+	<string>A file with the same name already exists.</string>
+	<key>Err516-C.f</key>
+	<string>A file with the name “%@” already exists.</string>
+	<key>Err516-R</key>
+	<string>To save the file, either provide a different name, or move aside or delete the existing file, and try again.</string>
+	<key>Err516.df</key>
+	<string>The file “%2$@” couldn’t be saved in the folder “%1$@” because a file with the same name already exists.</string>
+	<key>Err516.f</key>
+	<string>The file “%@” couldn’t be saved because a file with the same name already exists.</string>
+	<key>Err517</key>
+	<string>The file couldn’t be saved using the specified text encoding.</string>
+	<key>Err517-C</key>
+	<string>The specified text encoding isn’t applicable.</string>
+	<key>Err517-C.e</key>
+	<string>Text encoding %@ isn’t applicable.</string>
+	<key>Err517-R</key>
+	<string>If possible, select a different text encoding.</string>
+	<key>Err517.e</key>
+	<string>The file couldn’t be saved using text encoding %@.</string>
+	<key>Err517.ef</key>
+	<string>The file “%2$@” couldn’t be saved using text encoding %1$@.</string>
+	<key>Err518</key>
+	<string>The file couldn’t be saved because the specified URL type isn’t supported.</string>
+	<key>Err518-C</key>
+	<string>The specified URL type isn’t supported.</string>
+	<key>Err518.fu</key>
+	<string>The file “%1$@” couldn’t be saved because URL type %2$@ isn’t supported.</string>
+	<key>Err518.u</key>
+	<string>The file couldn’t be saved because URL type %@ isn’t supported.</string>
+	<key>Err640</key>
+	<string>The file couldn’t be saved because there isn’t enough space.</string>
+	<key>Err640(Copy).fp</key>
+	<string>“%1$@” couldn’t be copied to “%2$@” because there isn’t enough space.</string>
+	<key>Err640(Link).fp</key>
+	<string>“%1$@” couldn’t be linked to “%2$@” because there isn’t enough space.</string>
+	<key>Err640(Move).fp</key>
+	<string>“%1$@” couldn’t be moved to “%2$@” because there isn’t enough space.</string>
+	<key>Err640(Trash).f</key>
+	<string>“%@” couldn’t be moved to the trash because there isn’t enough space.</string>
+	<key>Err640-C</key>
+	<string>There isn’t enough space.</string>
+	<key>Err640-C.v</key>
+	<string>The volume “%@” is out of space.</string>
+	<key>Err640-R</key>
+	<string>Remove some files from the volume, and then try again.</string>
+	<key>Err640.f</key>
+	<string>You can’t save the file “%@” because there isn’t enough space.</string>
+	<key>Err640.fv</key>
+	<string>You can’t save the file “%1$@” because the volume “%2$@” is out of space.</string>
+	<key>Err642</key>
+	<string>The file couldn’t be saved because the volume is read only.</string>
+	<key>Err642(Trash).f</key>
+	<string>“%@” couldn’t be moved to the trash because the volume is read only.</string>
+	<key>Err642-C</key>
+	<string>The volume is read only.</string>
+	<key>Err642-C.v</key>
+	<string>The volume “%@” is read only.</string>
+	<key>Err642-R</key>
+	<string>Try saving the file to another volume.</string>
+	<key>Err642.f</key>
+	<string>You can’t save the file “%@” because the volume is read only.</string>
+	<key>Err642.fv</key>
+	<string>You can’t save the file “%1$@” because the volume “%2$@” is read only.</string>
+	<key>The operation couldn\U2019t be completed. (%1$@ error %2$ld.)</key>
+	<string>The operation couldn’t be completed. (%1$@ error %2$ld.)</string>
+	<key>\U201c%@\U201d</key>
+	<string>“%@”</string>
+</dict>
+</plist>

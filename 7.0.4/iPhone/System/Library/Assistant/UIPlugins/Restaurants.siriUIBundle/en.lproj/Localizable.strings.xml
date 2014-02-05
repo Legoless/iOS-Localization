@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_PHOTO</key>
+	<string>Add Photo</string>
+	<key>ADD_REVIEW</key>
+	<string>Add Review</string>
+	<key>CATEGORIES_SEPARATOR</key>
+	<string>, </string>
+	<key>CHECK_IN</key>
+	<string>Check In</string>
+	<key>CLOSED</key>
+	<string>Closed</string>
+	<key>CLOSING_SOON_FORMAT</key>
+	<string>Closing in %@ min</string>
+	<key>DAY_SEPARATOR</key>
+	<string> – </string>
+	<key>DISTANCE_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>MAKE_RESERVATION</key>
+	<string>Make Reservation</string>
+	<key>MORE_ON_PREFIX</key>
+	<string>More on </string>
+	<key>NO_REVIEWS</key>
+	<string>No Reviews</string>
+	<key>OPEN</key>
+	<string>Open</string>
+	<key>OPENING_SOON_FORMAT</key>
+	<string>Opens in %@ min</string>
+	<key>OPEN_HOURS_TIME_FORMAT</key>
+	<string>%1$@ – %2$@</string>
+	<key>OPEN_HOURS_TIME_SEPARATOR</key>
+	<string> –</string>
+	<key>OPEN_HOURS_TIME_WITH_STATUS_FORMAT</key>
+	<string>%1$@ %2$@ – %3$@</string>
+	<key>OPEN_TABLES</key>
+	<string>Open tables: </string>
+	<key>OPEN_TABLES_TIME_SEPARATOR</key>
+	<string>, </string>
+	<key>OPEN_TABLE_APP_DISPLAY_NAME</key>
+	<string>OpenTable</string>
+	<key>PHOTOS_PLURAL_FORMAT</key>
+	<string>%@ Photos</string>
+	<key>PHOTO_SINGULAR</key>
+	<string>1 Photo</string>
+	<key>RESTAURANT_DETAILS_TITLE</key>
+	<string>Details</string>
+	<key>RESTAURANT_LIST_TITLE_FORMAT</key>
+	<string>%@ Restaurants</string>
+	<key>RESTAURANT_LIST_TITLE_SINGULAR</key>
+	<string>1 Restaurant</string>
+	<key>RESTAURANT_PHOTOS_TITLE</key>
+	<string>Photos</string>
+	<key>RESTAURANT_REVIEWS_TITLE</key>
+	<string>Reviews</string>
+	<key>REVIEWS_PLURAL_FORMAT</key>
+	<string>%@ Reviews</string>
+	<key>REVIEW_SINGULAR</key>
+	<string>1 Review</string>
+	<key>UNKNOWN_CATEGORY</key>
+	<string>Unknown Category</string>
+	<key>WRITE_A_TIP</key>
+	<string>Write a Tip</string>
+	<key>YELP_APP_DISPLAY_NAME</key>
+	<string>Yelp</string>
+</dict>
+</plist>

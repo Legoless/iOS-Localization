@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CLOSE_BUTTON</key>
+	<string>Close</string>
+	<key>CUSTOM_LABEL</key>
+	<string>Custom</string>
+	<key>CUSTOM_NAVIGATION_TITLE</key>
+	<string>Custom</string>
+	<key>DEFAULT_NAVIGATION_TITLE</key>
+	<string>Voice Memos</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_MEMO_FORMAT</key>
+	<string>Delete “%@”</string>
+	<key>DELETE_MEMO_NO_LABEL</key>
+	<string>Delete Memo</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EDIT_NAVIGATION_TITLE</key>
+	<string>Edit</string>
+	<key>IDEA_LABEL</key>
+	<string>Idea</string>
+	<key>INFO_NAVIGATION_TITLE</key>
+	<string>Info</string>
+	<key>INTERVIEW_LABEL</key>
+	<string>Interview</string>
+	<key>LABEL_NAVIGATION_TITLE</key>
+	<string>Label</string>
+	<key>LECTURE_LABEL</key>
+	<string>Lecture</string>
+	<key>LOW_DISK_SPACE_ALERT_BODY</key>
+	<string>There is not enough disk space to continue recording voice memos. Make room by deleting existing videos or photos.</string>
+	<key>LOW_DISK_SPACE_ALERT_TITLE</key>
+	<string>Low Disk Space</string>
+	<key>MEETING_LABEL</key>
+	<string>Meeting</string>
+	<key>MEMO_FILENAME</key>
+	<string>Memo</string>
+	<key>MEMO_LABEL</key>
+	<string>Memo</string>
+	<key>MEMO_TOO_LONG_ALERT_BODY</key>
+	<string>Would you like to select a shorter version of this memo to send?</string>
+	<key>MEMO_TOO_LONG_ALERT_TITLE</key>
+	<string>Memo Is Too Long</string>
+	<key>NEW_VOICE_MEMO</key>
+	<string>New Voice Memo</string>
+	<key>NEW_VOICE_MEMO_MESSAGE</key>
+	<string>Enter a name for this voice memo.</string>
+	<key>NONE_LABEL</key>
+	<string>None</string>
+	<key>NO_MAIL_ACCOUNT_ALERT_TITLE</key>
+	<string>Please set up a Mail account in order to email voice memos.</string>
+	<key>NO_NEW_RECORDINGS_LABEL</key>
+	<string>No new recordings</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OK_BUTTON</key>
+	<string>OK</string>
+	<key>PAUSE</key>
+	<string>Pause</string>
+	<key>PLAY</key>
+	<string>Play</string>
+	<key>PODCAST_LABEL</key>
+	<string>Podcast</string>
+	<key>RECORDED_ON_FORMAT</key>
+	<string>Recorded on %@</string>
+	<key>RECORDED_ON_FORMAT_EXTENDED</key>
+	<string>Recorded on %@ at %@</string>
+	<key>RECORDING_ACTIVE_LOCKSCREEN_LABEL</key>
+	<string>Recording</string>
+	<key>RECORDING_COPY_FORMAT</key>
+	<string>%@ Copy</string>
+	<key>RECORDING_DURATION_HMS_NO_UNITS_FORMAT</key>
+	<string>%@:%@:%@</string>
+	<key>RECORDING_DURATION_HMS_UNITS_FORMAT</key>
+	<string>%@h %@m %@s</string>
+	<key>RECORDING_DURATION_MSMSEC_NO_UNITS_FORMAT</key>
+	<string>%@:%@.%@</string>
+	<key>RECORDING_DURATION_MS_NO_UNITS_FORMAT</key>
+	<string>%@:%@</string>
+	<key>RECORDING_DURATION_MS_UNITS_FORMAT</key>
+	<string>%@m %@s</string>
+	<key>RECORDING_DURATION_S_UNITS_FORMAT</key>
+	<string>%@s</string>
+	<key>RECORDING_LABEL_UNIQUENESS_FORMAT_1</key>
+	<string>%@</string>
+	<key>RECORDING_LABEL_UNIQUENESS_FORMAT_2_N</key>
+	<string>%@ %@</string>
+	<key>RECORDING_PAUSED_LOCKSCREEN_LABEL</key>
+	<string>Paused</string>
+	<key>RECORDING_PAUSED_STATUS_BAR_FORMAT</key>
+	<string>Recording Paused  %@</string>
+	<key>RECORDING_STATUS_BAR_FORMAT</key>
+	<string>Recording  %@</string>
+	<key>RECORDING_STATUS_BAR_TIME_HMS_FORMAT</key>
+	<string>%@:%@:%@</string>
+	<key>RECORDING_STATUS_BAR_TIME_MS_FORMAT</key>
+	<string>%@:%@</string>
+	<key>RECORD_A_NEW_NOTE</key>
+	<string>Record a new note</string>
+	<key>RECORD_NAVIGATION_TITLE</key>
+	<string>Record</string>
+	<key>RENAME_MEMO_LABEL_PLACEHOLDER</key>
+	<string>Label</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SEND_MAIL_BUTTON</key>
+	<string>Email</string>
+	<key>SEND_MMS_BUTTON</key>
+	<string>Message</string>
+	<key>SEND_TRIMMED_MAIL_BUTTON</key>
+	<string>Send Mail</string>
+	<key>SEND_TRIMMED_MMS_BUTTON</key>
+	<string>Send Message</string>
+	<key>SHARE</key>
+	<string>Share</string>
+	<key>SHARE_DETAILS_BUTTON</key>
+	<string>Share</string>
+	<key>SHARE_PROMPT</key>
+	<string>Share Voice Memo Using:</string>
+	<key>SPEAKER</key>
+	<string>Speaker</string>
+	<key>SPEAKER_BUTTON</key>
+	<string>Speaker</string>
+	<key>TRIM</key>
+	<string>Trim</string>
+	<key>TRIMMING_MODE_NAVIGATION_TITLE</key>
+	<string>Trim</string>
+	<key>TRIM_BUTTON</key>
+	<string>Trim Voice Memo</string>
+	<key>TRIM_DETAILS_BUTTON</key>
+	<string>Trim Memo</string>
+	<key>TRIM_SAVE_OPTION_TRIM_ORIGINAL</key>
+	<string>Trim Original</string>
+	<key>TRIM_SAVE_OPTION_TRIM_SAVE_AS_NEW</key>
+	<string>Save As New Recording</string>
+	<key>UNABLE_TO_INTERRUPT_ALERT_BODY</key>
+	<string>To record voice memos, end call.</string>
+	<key>UNABLE_TO_INTERRUPT_ALERT_TITLE</key>
+	<string>Recording Disabled</string>
+	<key>UNABLE_TO_RECORD_ALERT_BODY</key>
+	<string>Connect a microphone to record voice memos.</string>
+	<key>UNABLE_TO_RECORD_ALERT_TITLE</key>
+	<string>No Microphone Available</string>
+	<key>UNTITLED_NEW_RECORDING_LABEL</key>
+	<string>New Recording</string>
+	<key>VOICE_MEMO</key>
+	<string>Voice Memo</string>
+</dict>
+</plist>

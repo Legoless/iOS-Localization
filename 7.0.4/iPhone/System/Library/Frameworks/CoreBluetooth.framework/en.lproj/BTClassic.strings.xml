@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OLD_DEVICE_MESSAGE</key>
+	<string>Please go to Settings to pair with “%@”</string>
+	<key>OLD_DEVICE_TITLE</key>
+	<string>Unsupported Legacy Device</string>
+</dict>
+</plist>

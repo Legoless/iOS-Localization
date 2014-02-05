@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCESSORY_BUSY_ALERT_MESSAGE_FORMAT</key>
+	<string>%@ is being used by someone else.</string>
+	<key>ACCESSORY_BUSY_ALERT_TITLE</key>
+	<string>Accessory Not Available</string>
+	<key>ACCESSORY_LOAD_FAULT_MSG</key>
+	<string>The attached accessory uses too much power.</string>
+	<key>ACCESSORY_LOAD_FAULT_TITLE</key>
+	<string>Accessory Unavailable</string>
+	<key>ACCESSORY_THROUGH_VPORT_LOAD_FAULT_MSG</key>
+	<string>The accessory attached to the dock uses too much power.</string>
+	<key>ACCESSORY_UNRELIABLE</key>
+	<string>This cable or accessory is not certified and may not work reliably with this device.</string>
+	<key>ACCESSORY_UNRELIABLE_IPAD</key>
+	<string>This cable or accessory is not certified and may not work reliably with this iPad.</string>
+	<key>ACCESSORY_UNRELIABLE_IPHONE</key>
+	<string>This cable or accessory is not certified and may not work reliably with this iPhone.</string>
+	<key>ACCESSORY_UNRELIABLE_IPOD</key>
+	<string>This cable or accessory is not certified and may not work reliably with this iPod.</string>
+	<key>ACCESSORY_UNSUPPORTED</key>
+	<string>This accessory is not supported by this device.</string>
+	<key>ACCESSORY_UNSUPPORTED_BY_IPAD</key>
+	<string>This accessory is not supported by this iPad.</string>
+	<key>ACCESSORY_UNSUPPORTED_BY_IPHONE</key>
+	<string>This accessory is not supported by this iPhone.</string>
+	<key>ACCESSORY_UNSUPPORTED_BY_IPOD</key>
+	<string>This accessory is not supported by this iPod touch.</string>
+	<key>ACC_AUTH_LOCKOUT_DESCRIPTION</key>
+	<string>%@ on port %@ is locked out.</string>
+	<key>ACC_LAUNCH_APP_DESCRIPTION</key>
+	<string>%@ would like to communicate with the %@ %@.</string>
+	<key>ALLOW_STRING</key>
+	<string>Allow</string>
+	<key>APP_STORE_STRING</key>
+	<string>App Store</string>
+	<key>DEMO_MODE_ACTIVATED_MSG</key>
+	<string>Demo mode is now enabled and can be disabled in the Settings application.</string>
+	<key>DEMO_MODE_ACTIVATED_TITLE</key>
+	<string>Demo Mode Unlocked</string>
+	<key>DISMISS_STRING</key>
+	<string>Dismiss</string>
+	<key>FIND_APP_FOR_ACCESSORY_MSG</key>
+	<string>The accessory "%@" uses an app you do not have installed. Would you like to get it from the App Store?</string>
+	<key>FIND_APP_FOR_ACCESSORY_TITLE</key>
+	<string>App Not Installed</string>
+	<key>GYM_WORKOUT_COMPLETED_MSG</key>
+	<string>You can send your workouts to the Nike+ website in Settings.</string>
+	<key>GYM_WORKOUT_COMPLETED_TITLE</key>
+	<string>Workout Completed</string>
+	<key>IAP_ALBUMS</key>
+	<string>Albums</string>
+	<key>IAP_ALL</key>
+	<string>All</string>
+	<key>IAP_ARTISTS</key>
+	<string>Artists</string>
+	<key>IAP_AUDIOBOOKS</key>
+	<string>Audiobooks</string>
+	<key>IAP_COMPOSERS</key>
+	<string>Composers</string>
+	<key>IAP_GENIUS_MIX</key>
+	<string>Genius Mix</string>
+	<key>IAP_GENRES</key>
+	<string>Genres</string>
+	<key>IAP_ITUNESU</key>
+	<string>iTunesU</string>
+	<key>IAP_ITUNES_GENIUS_MIX</key>
+	<string>iTunes Genius Mix</string>
+	<key>IAP_ITUNES_RADIO</key>
+	<string>iTunes Radio</string>
+	<key>IAP_MOVIES</key>
+	<string>Movies</string>
+	<key>IAP_MUSICVIDEOS</key>
+	<string>Music Videos</string>
+	<key>IAP_NESTEDPLAYLISTS</key>
+	<string>Nested Playlists</string>
+	<key>IAP_PLAYLISTS</key>
+	<string>Playlists</string>
+	<key>IAP_PODCASTS</key>
+	<string>Podcasts</string>
+	<key>IAP_RADIO</key>
+	<string>Radio</string>
+	<key>IAP_RENTALS</key>
+	<string>Rented Movies</string>
+	<key>IAP_SEASON</key>
+	<string>Season</string>
+	<key>IAP_SONGS</key>
+	<string>Songs</string>
+	<key>IAP_TVSHOWS</key>
+	<string>TV Shows</string>
+	<key>IAP_UNKNOWN</key>
+	<string>Unknown</string>
+	<key>IAP_UNKNOWN_COMPOSER</key>
+	<string>Unknown composer</string>
+	<key>IAP_UNKNOWN_GENRE</key>
+	<string>Unknown genre</string>
+	<key>IAP_VIDEOPODCASTS</key>
+	<string>Video Podcasts</string>
+	<key>IGNORE_STRING</key>
+	<string>Ignore</string>
+	<key>INVALID_VPORT_ACCESSORY_MSG_IPAD</key>
+	<string>This accessory only works when directly connected to iPad.</string>
+	<key>INVALID_VPORT_ACCESSORY_MSG_IPHONE</key>
+	<string>This accessory only works when directly connected to iPhone.</string>
+	<key>INVALID_VPORT_ACCESSORY_MSG_IPOD</key>
+	<string>This accessory only works when directly connected to iPod touch.</string>
+	<key>INVALID_VPORT_ACCESSORY_TITLE</key>
+	<string>Accessory Not Supported</string>
+	<key>NO_RECEIVER_REQUIRED_MSG_FOR_DEVICE_IPAD</key>
+	<string>The Nike + iPod receiver is not required for this iPad because it has a built-in receiver.</string>
+	<key>NO_RECEIVER_REQUIRED_MSG_FOR_DEVICE_IPHONE</key>
+	<string>The Nike + iPod receiver is not required for this iPhone because it has a built-in receiver.</string>
+	<key>NO_RECEIVER_REQUIRED_MSG_FOR_DEVICE_IPOD</key>
+	<string>The Nike + iPod receiver is not required for this iPod touch because it has a built-in receiver.</string>
+	<key>NO_RECEIVER_REQUIRED_TITLE</key>
+	<string>No Receiver Required</string>
+	<key>OKAY_STRING</key>
+	<string>OK</string>
+	<key>SETTINGS_STRING</key>
+	<string>Settings</string>
+	<key>TOO_MANY_ACCESSORIES_MSG</key>
+	<string>Only one accessory can be used at a time.</string>
+	<key>TOO_MANY_ACCESSORIES_TITLE</key>
+	<string>Cannot Use Accessory</string>
+	<key>WIFI_CONNECTION_INFO_ASK_MSG</key>
+	<string>Do you want to share your Wi-Fi settings so this accessory can connect to the Wi-Fi network?</string>
+	<key>WIFI_CONNECTION_INFO_ASK_TITLE</key>
+	<string>Share Wi-Fi Settings?</string>
+	<key>WIFI_CONNECTION_INFO_NO_WIFI_MSG_IPAD</key>
+	<string>This accessory would like to use a Wi-Fi network. Connect this iPad to Wi-Fi if you want to share Wi-Fi settings with this accessory.</string>
+	<key>WIFI_CONNECTION_INFO_NO_WIFI_MSG_IPHONE</key>
+	<string>This accessory would like to use a Wi-Fi network. Connect this iPhone to Wi-Fi if you want to share Wi-Fi settings with this accessory.</string>
+	<key>WIFI_CONNECTION_INFO_NO_WIFI_MSG_IPOD</key>
+	<string>This accessory would like to use a Wi-Fi network. Connect this iPod to Wi-Fi if you want to share Wi-Fi settings with this accessory.</string>
+	<key>WIFI_CONNECTION_INFO_NO_WIFI_TITLE</key>
+	<string>Connect to Wi-Fi</string>
+	<key>WIFI_CONNECTION_INFO_UNABLE_TO_SHARE_MSG</key>
+	<string>This network’s settings are not available for sharing with accessories.</string>
+	<key>WIFI_CONNECTION_INFO_UNABLE_TO_SHARE_TITLE</key>
+	<string>Wi-Fi Settings</string>
+	<key>WIFI_CONNECTION_INFO_UNLOCK_MSG_IPAD</key>
+	<string>This accessory would like to use the Wi-Fi network. Unlock your iPad to configure Wi-Fi settings.</string>
+	<key>WIFI_CONNECTION_INFO_UNLOCK_MSG_IPHONE</key>
+	<string>This accessory would like to use the Wi-Fi network. Unlock your iPhone to configure Wi-Fi settings.</string>
+	<key>WIFI_CONNECTION_INFO_UNLOCK_MSG_IPOD</key>
+	<string>This accessory would like to use the Wi-Fi network. Unlock your iPod to configure Wi-Fi settings.</string>
+	<key>WIFI_CONNECTION_INFO_UNLOCK_TITLE_IPAD</key>
+	<string>iPad is Locked</string>
+	<key>WIFI_CONNECTION_INFO_UNLOCK_TITLE_IPHONE</key>
+	<string>iPhone is Locked</string>
+	<key>WIFI_CONNECTION_INFO_UNLOCK_TITLE_IPOD</key>
+	<string>iPod is Locked</string>
+</dict>
+</plist>

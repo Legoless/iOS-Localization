@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLEAR_LABEL</key>
+	<string>Reset All Settings</string>
+	<key>CLEAR_SETTINGS_MSG</key>
+	<string>This will reset all settings. No data or media will be deleted.</string>
+	<key>CLEAR_SETTINGS_MSG_CONFIRM</key>
+	<string>Are you sure you want to continue? This will reset all settings. No data or media will be deleted.</string>
+	<key>CLEAR_TITLE</key>
+	<string>Reset All Settings</string>
+	<key>ERASE</key>
+	<string>Erase</string>
+	<key>ERASE_ACCOUNT_CONFIRMATION_ALERT_ACCEPT</key>
+	<string>Reset</string>
+	<key>ERASE_ACCOUNT_CONFIRMATION_CANCEL</key>
+	<string>Cancel</string>
+	<key>ERASE_ACCOUNT_MSG_CONFIRM</key>
+	<string>Your iPad will not be able to access the Internet over the cellular network until you set up another account.</string>
+	<key>ERASE_ACCOUNT_TITLE</key>
+	<string>Reset Account</string>
+	<key>ERASE_CONFIRMATION_ALERT_ACCEPT</key>
+	<string>Erase</string>
+	<key>ERASE_DEVICE_IPHONE</key>
+	<string>Enter your Apple ID password to erase this iPhone and remove it from your account.
+
+%@</string>
+	<key>ERASE_DEVICE_IPOD</key>
+	<string>Enter your Apple ID password to erase this iPod and remove it from your account.
+
+%@</string>
+	<key>ERASE_LABEL</key>
+	<string>Erase All Content and Settings</string>
+	<key>ERASE_OK_IPAD</key>
+	<string>Erase iPad</string>
+	<key>ERASE_OK_IPHONE</key>
+	<string>Erase iPhone</string>
+	<key>ERASE_OK_IPOD</key>
+	<string>Erase iPod</string>
+	<key>FULL_RESET_MULTI_HOUR_CONFIRMATION_MSG</key>
+	<string>Are you sure you want to continue? All media, data, and settings will be erased. This cannot be undone and will take about %@ hours.</string>
+	<key>FULL_RESET_MULTI_HOUR_MSG</key>
+	<string>This will delete all media and data, and reset all settings. This will take about %@ hours.</string>
+	<key>FULL_RESET_QUICK_CONFIRMATION_MSG</key>
+	<string>Are you sure you want to continue? All media, data, and settings will be erased.
+This cannot be undone.</string>
+	<key>FULL_RESET_QUICK_MSG</key>
+	<string>This will delete all media and data,
+and reset all settings.</string>
+	<key>FULL_RESET_SINGLE_HOUR_CONFIRMATION_MSG</key>
+	<string>Are you sure you want to continue? All media, data, and settings will be erased. This cannot be undone and will take about an hour.</string>
+	<key>FULL_RESET_SINGLE_HOUR_MSG</key>
+	<string>This will delete all media and data, and reset all settings. This will take about an hour.</string>
+	<key>REPROVISION_ACCOUNT</key>
+	<string>Reprovision Account</string>
+	<key>RESET</key>
+	<string>Reset</string>
+	<key>RESET_ACCOUNT</key>
+	<string>Reset Account</string>
+	<key>RESET_AKEY</key>
+	<string>Reset Authentication Key</string>
+	<key>RESET_CONFIRMATION_ALERT_ACCEPT</key>
+	<string>Reset</string>
+	<key>RESET_CONFIRMATION_CANCEL</key>
+	<string>Cancel</string>
+	<key>RESET_ICONS_LABEL</key>
+	<string>Reset Home Screen Layout</string>
+	<key>RESET_ICONS_MSG</key>
+	<string>This will reset your home screen layout to factory defaults.</string>
+	<key>RESET_ICONS_TITLE</key>
+	<string>Reset Home Screen</string>
+	<key>RESET_KEYBOARD_DICTIONARY_LABEL</key>
+	<string>Reset Keyboard Dictionary</string>
+	<key>RESET_KEYBOARD_DICTIONARY_MSG</key>
+	<string>This will delete all custom words you have typed on the keyboard, returning the keyboard dictionary to factory defaults.</string>
+	<key>RESET_KEYBOARD_DICTIONARY_TITLE</key>
+	<string>Reset Dictionary</string>
+	<key>RESET_LOCATION_MSG</key>
+	<string>This will reset your location and privacy settings to factory defaults.</string>
+	<key>RESET_LOCATION_TITLE</key>
+	<string>Reset Settings</string>
+	<key>RESET_NETWORK_LABEL</key>
+	<string>Reset Network Settings</string>
+	<key>RESET_NETWORK_MSG</key>
+	<string>This will delete all network settings, returning them to factory defaults.</string>
+	<key>RESET_NETWORK_TITLE</key>
+	<string>Reset Network Settings</string>
+	<key>RESET_PRIVACY_LABEL</key>
+	<string>Reset Location &amp; Privacy</string>
+	<key>SUBSCRIBER_SERVICES</key>
+	<string>Subscriber Services</string>
+	<key>SUBSCRIBER_SERVICES_CANCEL</key>
+	<string>Cancel</string>
+</dict>
+</plist>

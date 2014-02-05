@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BLOCKED</key>
+	<string>No Caller ID</string>
+	<key>CALLING</key>
+	<string>calling…</string>
+	<key>CALLING_LABEL_FORMAT</key>
+	<string>calling %@…</string>
+	<key>CALL_ENDING</key>
+	<string>call ending…</string>
+	<key>CONFERENCE_CALL</key>
+	<string>Conference</string>
+	<key>MULTIPLE_CALLS</key>
+	<string>Multiple Calls</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+</dict>
+</plist>

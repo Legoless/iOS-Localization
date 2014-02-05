@@ -1,0 +1,2894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>06 02 55 04</key>
+	<string>X.520 Attribute Types</string>
+	<key>06 02 55 06</key>
+	<string>X.520 Object Class</string>
+	<key>06 02 55 08</key>
+	<string>X.500 Algorithms</string>
+	<key>06 02 55 1D</key>
+	<string>X.509 Certificate Extensions</string>
+	<key>06 03 2B 24 01</key>
+	<string>Document</string>
+	<key>06 03 2B 24 02</key>
+	<string>SIO</string>
+	<key>06 03 2B 24 03</key>
+	<string>Algorithm</string>
+	<key>06 03 2B 24 04</key>
+	<string>Attribute</string>
+	<key>06 03 2B 24 05</key>
+	<string>Policy</string>
+	<key>06 03 2B 24 06</key>
+	<string>API</string>
+	<key>06 03 2B 24 07</key>
+	<string>Key Management</string>
+	<key>06 03 55 04 00</key>
+	<string>Object Class</string>
+	<key>06 03 55 04 01</key>
+	<string>Aliased Entry Name</string>
+	<key>06 03 55 04 02</key>
+	<string>Knowledge Information</string>
+	<key>06 03 55 04 03</key>
+	<string>Common Name</string>
+	<key>06 03 55 04 04</key>
+	<string>Surname</string>
+	<key>06 03 55 04 05</key>
+	<string>Serial Number</string>
+	<key>06 03 55 04 06</key>
+	<string>Country Name</string>
+	<key>06 03 55 04 07</key>
+	<string>Locality Name</string>
+	<key>06 03 55 04 08</key>
+	<string>State or Province Name</string>
+	<key>06 03 55 04 09</key>
+	<string>Street Address</string>
+	<key>06 03 55 04 0A</key>
+	<string>Organization Name</string>
+	<key>06 03 55 04 0B</key>
+	<string>Organizational Unit Name</string>
+	<key>06 03 55 04 0C</key>
+	<string>Title</string>
+	<key>06 03 55 04 0D</key>
+	<string>Description</string>
+	<key>06 03 55 04 0E</key>
+	<string>Search Guide</string>
+	<key>06 03 55 04 0F</key>
+	<string>Business Category</string>
+	<key>06 03 55 04 10</key>
+	<string>Postal Address</string>
+	<key>06 03 55 04 11</key>
+	<string>Postal Code</string>
+	<key>06 03 55 04 12</key>
+	<string>Post Office Box</string>
+	<key>06 03 55 04 13</key>
+	<string>Physical Delivery Office Name</string>
+	<key>06 03 55 04 14</key>
+	<string>Telephone Number</string>
+	<key>06 03 55 04 15</key>
+	<string>Telex Number</string>
+	<key>06 03 55 04 16</key>
+	<string>Teletex Terminal Identifier</string>
+	<key>06 03 55 04 17</key>
+	<string>Facsimile Telephone Number</string>
+	<key>06 03 55 04 18</key>
+	<string>X.121 Address</string>
+	<key>06 03 55 04 19</key>
+	<string>International ISDN Number</string>
+	<key>06 03 55 04 1A</key>
+	<string>Registered Address</string>
+	<key>06 03 55 04 1B</key>
+	<string>Destination Indicator</string>
+	<key>06 03 55 04 1C</key>
+	<string>Preferred Delivery Method</string>
+	<key>06 03 55 04 1D</key>
+	<string>Presentation Address</string>
+	<key>06 03 55 04 1E</key>
+	<string>Supported Application Context</string>
+	<key>06 03 55 04 1F</key>
+	<string>Member</string>
+	<key>06 03 55 04 20</key>
+	<string>Owner</string>
+	<key>06 03 55 04 21</key>
+	<string>Role Occupant</string>
+	<key>06 03 55 04 22</key>
+	<string>See Also</string>
+	<key>06 03 55 04 23</key>
+	<string>User Password</string>
+	<key>06 03 55 04 24</key>
+	<string>User Certificate</string>
+	<key>06 03 55 04 25</key>
+	<string>CA Certificate</string>
+	<key>06 03 55 04 26</key>
+	<string>Authority Revocation List</string>
+	<key>06 03 55 04 27</key>
+	<string>Certificate Revocation List</string>
+	<key>06 03 55 04 28</key>
+	<string>Cross Certificate Pair</string>
+	<key>06 03 55 04 29</key>
+	<string>Name</string>
+	<key>06 03 55 04 2A</key>
+	<string>Given Name</string>
+	<key>06 03 55 04 2B</key>
+	<string>Initials</string>
+	<key>06 03 55 04 2C</key>
+	<string>Generation Qualifier</string>
+	<key>06 03 55 04 2D</key>
+	<string>Unique Identifier</string>
+	<key>06 03 55 04 2E</key>
+	<string>DN Qualifier</string>
+	<key>06 03 55 04 2F</key>
+	<string>Enhanced Search Guide</string>
+	<key>06 03 55 04 30</key>
+	<string>Protocol Information</string>
+	<key>06 03 55 04 31</key>
+	<string>Distinguished Name</string>
+	<key>06 03 55 04 32</key>
+	<string>Unique Member</string>
+	<key>06 03 55 04 33</key>
+	<string>House Identifier</string>
+	<key>06 03 55 04 34</key>
+	<string>Supported Algorithms</string>
+	<key>06 03 55 04 35</key>
+	<string>Delta Revocation List</string>
+	<key>06 03 55 04 36</key>
+	<string>Clearance</string>
+	<key>06 03 55 04 3A</key>
+	<string>Cross Certificate Pair</string>
+	<key>06 03 55 06 00</key>
+	<string>Top</string>
+	<key>06 03 55 06 01</key>
+	<string>Alias</string>
+	<key>06 03 55 06 02</key>
+	<string>Country</string>
+	<key>06 03 55 06 03</key>
+	<string>Locality</string>
+	<key>06 03 55 06 04</key>
+	<string>Organization</string>
+	<key>06 03 55 06 05</key>
+	<string>Organizational Unit</string>
+	<key>06 03 55 06 06</key>
+	<string>Person</string>
+	<key>06 03 55 06 07</key>
+	<string>Organizational Person</string>
+	<key>06 03 55 06 08</key>
+	<string>Organizational Role</string>
+	<key>06 03 55 06 09</key>
+	<string>Group of Names</string>
+	<key>06 03 55 06 0A</key>
+	<string>Residential Person</string>
+	<key>06 03 55 06 0B</key>
+	<string>Application Process</string>
+	<key>06 03 55 06 0C</key>
+	<string>Application Entity</string>
+	<key>06 03 55 06 0D</key>
+	<string>DSA</string>
+	<key>06 03 55 06 0E</key>
+	<string>Device</string>
+	<key>06 03 55 06 0F</key>
+	<string>Strong Authentication User</string>
+	<key>06 03 55 06 10</key>
+	<string>Certificate Authority</string>
+	<key>06 03 55 06 11</key>
+	<string>Group of Unique Names</string>
+	<key>06 03 55 06 15</key>
+	<string>PKI User</string>
+	<key>06 03 55 06 16</key>
+	<string>PKI CA</string>
+	<key>06 03 55 08 01</key>
+	<string>X.500 Encryption Algorithms</string>
+	<key>06 03 55 1D 01</key>
+	<string>Authority Key Identifier (old)</string>
+	<key>06 03 55 1D 02</key>
+	<string>Primary Key Attributes (old)</string>
+	<key>06 03 55 1D 03</key>
+	<string>Certificate Policies (old)</string>
+	<key>06 03 55 1D 04</key>
+	<string>Key Usage Restriction (old)</string>
+	<key>06 03 55 1D 05</key>
+	<string>Policy Mapping (old)</string>
+	<key>06 03 55 1D 06</key>
+	<string>Subtrees Constraint</string>
+	<key>06 03 55 1D 07</key>
+	<string>Subject Alternative Name (old)</string>
+	<key>06 03 55 1D 08</key>
+	<string>Issuer Alternative Name (old)</string>
+	<key>06 03 55 1D 09</key>
+	<string>Subject Directory Attributes</string>
+	<key>06 03 55 1D 0A</key>
+	<string>Basic Constraints (old 2.5.29.10)</string>
+	<key>06 03 55 1D 0B</key>
+	<string>Name Constraints (old)</string>
+	<key>06 03 55 1D 0C</key>
+	<string>Policy Constraints (old)</string>
+	<key>06 03 55 1D 0D</key>
+	<string>Basic Constraints (old 2.5.29.13)</string>
+	<key>06 03 55 1D 0E</key>
+	<string>Subject Key Identifier</string>
+	<key>06 03 55 1D 0F</key>
+	<string>Key Usage</string>
+	<key>06 03 55 1D 10</key>
+	<string>Private Key Usage Period</string>
+	<key>06 03 55 1D 11</key>
+	<string>Subject Alternative Name</string>
+	<key>06 03 55 1D 12</key>
+	<string>Issuer Alternative Name</string>
+	<key>06 03 55 1D 13</key>
+	<string>Basic Constraints</string>
+	<key>06 03 55 1D 14</key>
+	<string>Certificate Revocation List Number</string>
+	<key>06 03 55 1D 15</key>
+	<string>CRL Reason Code</string>
+	<key>06 03 55 1D 16</key>
+	<string>Expiration Date (old)</string>
+	<key>06 03 55 1D 17</key>
+	<string>Hold Instruction Code</string>
+	<key>06 03 55 1D 18</key>
+	<string>Invalidity Date</string>
+	<key>06 03 55 1D 19</key>
+	<string>CRL Distribution Points (old)</string>
+	<key>06 03 55 1D 1A</key>
+	<string>Issuing Distribution Point (old)</string>
+	<key>06 03 55 1D 1B</key>
+	<string>Delta CRL Indicator</string>
+	<key>06 03 55 1D 1C</key>
+	<string>Issuing Distribution Point</string>
+	<key>06 03 55 1D 1D</key>
+	<string>Certificate Issuer</string>
+	<key>06 03 55 1D 1E</key>
+	<string>Name Constraints</string>
+	<key>06 03 55 1D 1F</key>
+	<string>CRL Distribution Points</string>
+	<key>06 03 55 1D 20</key>
+	<string>Certificate Policies</string>
+	<key>06 03 55 1D 21</key>
+	<string>Policy Mappings</string>
+	<key>06 03 55 1D 22</key>
+	<string>Policy Constraints</string>
+	<key>06 03 55 1D 23</key>
+	<string>Authority Key Identifier</string>
+	<key>06 03 55 1D 24</key>
+	<string>Policy Constraints</string>
+	<key>06 03 55 1D 25</key>
+	<string>Extended Key Usage</string>
+	<key>06 03 67 2A 00</key>
+	<string>Content Type</string>
+	<key>06 03 67 2A 01</key>
+	<string>Message Extension</string>
+	<key>06 03 67 2A 02</key>
+	<string>Field</string>
+	<key>06 03 67 2A 03</key>
+	<string>Attribute</string>
+	<key>06 03 67 2A 04</key>
+	<string>Algorithm</string>
+	<key>06 03 67 2A 05</key>
+	<string>Policy</string>
+	<key>06 03 67 2A 06</key>
+	<string>Module</string>
+	<key>06 03 67 2A 07</key>
+	<string>Certificate Extension</string>
+	<key>06 03 67 2A 08</key>
+	<string>Brand</string>
+	<key>06 03 67 2A 09</key>
+	<string>Vendor</string>
+	<key>06 03 67 2A 0A</key>
+	<string>National</string>
+	<key>06 04 2B 24 01 01</key>
+	<string>Final Version</string>
+	<key>06 04 2B 24 01 02</key>
+	<string>Draft</string>
+	<key>06 04 2B 24 02 01</key>
+	<string>SEDU</string>
+	<key>06 04 2B 24 03 01</key>
+	<string>Encryption Algorithm</string>
+	<key>06 04 2B 24 03 02</key>
+	<string>Hash Algorithm</string>
+	<key>06 04 2B 24 03 03</key>
+	<string>Signature Algorithm</string>
+	<key>06 04 2B 24 03 04</key>
+	<string>Signature Scheme</string>
+	<key>06 04 2B 24 06 01</key>
+	<string>Manufacturer-Specific API</string>
+	<key>06 04 2B 24 06 02</key>
+	<string>Functionality-Specific API</string>
+	<key>06 04 2B 24 07 01</key>
+	<string>Key Agreement</string>
+	<key>06 04 2B 24 07 02</key>
+	<string>Key Transfer</string>
+	<key>06 04 2B 65 01 04</key>
+	<string>Thawte Certificate Extension</string>
+	<key>06 04 55 04 07 01</key>
+	<string>Collective Locality Name</string>
+	<key>06 04 55 04 08 01</key>
+	<string>Collective State or Province Name</string>
+	<key>06 04 55 04 09 01</key>
+	<string>Collective Street Address</string>
+	<key>06 04 55 04 0A 01</key>
+	<string>Collective Organization Name</string>
+	<key>06 04 55 04 0B 01</key>
+	<string>Collective Organizational Unit Name</string>
+	<key>06 04 55 04 10 01</key>
+	<string>Collective Postal Address</string>
+	<key>06 04 55 04 11 01</key>
+	<string>Collective Postal Code</string>
+	<key>06 04 55 04 12 01</key>
+	<string>Collective Post Office Box</string>
+	<key>06 04 55 04 13 01</key>
+	<string>Collective Physical Delivery Office Name</string>
+	<key>06 04 55 04 14 01</key>
+	<string>Collective Telephone Number</string>
+	<key>06 04 55 04 15 01</key>
+	<string>Collective Telex Number</string>
+	<key>06 04 55 04 16 01</key>
+	<string>Collective Teletex Terminal Identifier</string>
+	<key>06 04 55 04 17 01</key>
+	<string>Collective Facsimile Telephone Number</string>
+	<key>06 04 55 04 19 01</key>
+	<string>Collective International ISDN Number</string>
+	<key>06 04 55 08 01 01</key>
+	<string>RSA</string>
+	<key>06 04 55 1D 20 00</key>
+	<string>Any Policy Identifier</string>
+	<key>06 04 55 1D 25 00</key>
+	<string>Any Extended Key Usage</string>
+	<key>06 04 55 1D 25 03</key>
+	<string>Code Signing</string>
+	<key>06 04 67 2A 00 00</key>
+	<string>PAN Data</string>
+	<key>06 04 67 2A 00 01</key>
+	<string>PAN Token</string>
+	<key>06 04 67 2A 00 02</key>
+	<string>PAN Only</string>
+	<key>06 04 67 2A 02 00</key>
+	<string>Full Name</string>
+	<key>06 04 67 2A 02 01</key>
+	<string>Given Name</string>
+	<key>06 04 67 2A 02 02</key>
+	<string>Family Name</string>
+	<key>06 04 67 2A 02 03</key>
+	<string>Birth Family Name</string>
+	<key>06 04 67 2A 02 04</key>
+	<string>Place Name</string>
+	<key>06 04 67 2A 02 05</key>
+	<string>Identification Number</string>
+	<key>06 04 67 2A 02 06</key>
+	<string>Month</string>
+	<key>06 04 67 2A 02 07</key>
+	<string>Date</string>
+	<key>06 04 67 2A 02 08</key>
+	<string>Address</string>
+	<key>06 04 67 2A 02 09</key>
+	<string>Telephone</string>
+	<key>06 04 67 2A 02 0A</key>
+	<string>Amount</string>
+	<key>06 04 67 2A 02 0B</key>
+	<string>Account Number</string>
+	<key>06 04 67 2A 02 0C</key>
+	<string>Passphrase</string>
+	<key>06 04 67 2A 03 00</key>
+	<string>Certificate</string>
+	<key>06 04 67 2A 05 00</key>
+	<string>Root</string>
+	<key>06 04 67 2A 07 00</key>
+	<string>Hashed Root Key</string>
+	<key>06 04 67 2A 07 01</key>
+	<string>Certificate Type</string>
+	<key>06 04 67 2A 07 02</key>
+	<string>Merchant Data</string>
+	<key>06 04 67 2A 07 03</key>
+	<string>Card Cert Required</string>
+	<key>06 04 67 2A 07 04</key>
+	<string>Tunneling</string>
+	<key>06 04 67 2A 07 05</key>
+	<string>SET Extensions</string>
+	<key>06 04 67 2A 07 06</key>
+	<string>SET Qualifier</string>
+	<key>06 04 67 2A 08 01</key>
+	<string>IATA-ATA</string>
+	<key>06 04 67 2A 08 04</key>
+	<string>VISA</string>
+	<key>06 04 67 2A 08 05</key>
+	<string>MasterCard</string>
+	<key>06 04 67 2A 08 1E</key>
+	<string>Diners</string>
+	<key>06 04 67 2A 08 22</key>
+	<string>American Express</string>
+	<key>06 04 67 2A 09 00</key>
+	<string>GlobeSet</string>
+	<key>06 04 67 2A 09 01</key>
+	<string>IBM</string>
+	<key>06 04 67 2A 09 02</key>
+	<string>CyberCash</string>
+	<key>06 04 67 2A 09 03</key>
+	<string>Terisa</string>
+	<key>06 04 67 2A 09 04</key>
+	<string>RSADSI</string>
+	<key>06 04 67 2A 09 05</key>
+	<string>VeriFone</string>
+	<key>06 04 67 2A 09 06</key>
+	<string>TrinTech</string>
+	<key>06 04 67 2A 09 07</key>
+	<string>BankGate</string>
+	<key>06 04 67 2A 09 08</key>
+	<string>GTE</string>
+	<key>06 04 67 2A 09 09</key>
+	<string>CompuSource</string>
+	<key>06 04 67 2A 09 0A</key>
+	<string>Griffin</string>
+	<key>06 04 67 2A 09 0B</key>
+	<string>Certicom</string>
+	<key>06 04 67 2A 09 0C</key>
+	<string>OSS</string>
+	<key>06 04 67 2A 09 0D</key>
+	<string>TenthMountain</string>
+	<key>06 04 67 2A 09 0E</key>
+	<string>Antares</string>
+	<key>06 04 67 2A 09 0F</key>
+	<string>ECC</string>
+	<key>06 04 67 2A 09 10</key>
+	<string>Maithean</string>
+	<key>06 04 67 2A 09 11</key>
+	<string>Netscape</string>
+	<key>06 04 67 2A 09 12</key>
+	<string>Verisign</string>
+	<key>06 04 67 2A 09 13</key>
+	<string>BlueMoney</string>
+	<key>06 04 67 2A 09 14</key>
+	<string>Lacerte</string>
+	<key>06 04 67 2A 09 15</key>
+	<string>Fujitsu</string>
+	<key>06 04 67 2A 09 16</key>
+	<string>eLab</string>
+	<key>06 04 67 2A 09 17</key>
+	<string>Entrust</string>
+	<key>06 04 67 2A 09 18</key>
+	<string>VIAnet</string>
+	<key>06 04 67 2A 09 19</key>
+	<string>III</string>
+	<key>06 04 67 2A 09 1A</key>
+	<string>OpenMarket</string>
+	<key>06 04 67 2A 09 1B</key>
+	<string>Lexem</string>
+	<key>06 04 67 2A 09 1C</key>
+	<string>Intertrader</string>
+	<key>06 04 67 2A 09 1D</key>
+	<string>Persimmon</string>
+	<key>06 04 67 2A 09 1E</key>
+	<string>NABLE</string>
+	<key>06 04 67 2A 09 1F</key>
+	<string>espace-net</string>
+	<key>06 04 67 2A 09 20</key>
+	<string>Hitachi</string>
+	<key>06 04 67 2A 09 21</key>
+	<string>Microsoft</string>
+	<key>06 04 67 2A 09 22</key>
+	<string>NEC</string>
+	<key>06 04 67 2A 09 23</key>
+	<string>Mitsubishi</string>
+	<key>06 04 67 2A 09 24</key>
+	<string>NCR</string>
+	<key>06 04 67 2A 09 25</key>
+	<string>e-COMM</string>
+	<key>06 04 67 2A 09 26</key>
+	<string>Gemplus</string>
+	<key>06 04 86 8D 6F 02</key>
+	<string>Hashed Root Key</string>
+	<key>06 04 86 8D 6F 03</key>
+	<string>Certificate Type</string>
+	<key>06 04 86 8D 6F 04</key>
+	<string>Merchant Data</string>
+	<key>06 04 86 8D 6F 05</key>
+	<string>Card Certificate Required</string>
+	<key>06 04 86 8D 6F 06</key>
+	<string>Tunneling</string>
+	<key>06 04 86 8D 6F 07</key>
+	<string>SET Qualifier</string>
+	<key>06 04 86 8D 6F 63</key>
+	<string>SET Data</string>
+	<key>06 05 02 82 06 01 0A</key>
+	<string>Telesec</string>
+	<key>06 05 2A 85 70 22 01</key>
+	<string>SEIS CP</string>
+	<key>06 05 2A 85 70 22 02</key>
+	<string>SEIS PE</string>
+	<key>06 05 2A 85 70 22 03</key>
+	<string>SEIS AT</string>
+	<key>06 05 2B 06 01 05 02</key>
+	<string>Kerberos v5</string>
+	<key>06 05 2B 0E 02 1A 05</key>
+	<string>SHA</string>
+	<key>06 05 2B 0E 03 02 02</key>
+	<string>MD4 with RSA</string>
+	<key>06 05 2B 0E 03 02 03</key>
+	<string>MD5 with RSA</string>
+	<key>06 05 2B 0E 03 02 04</key>
+	<string>MD4 with RSA Encryption</string>
+	<key>06 05 2B 0E 03 02 06</key>
+	<string>DES-ECB</string>
+	<key>06 05 2B 0E 03 02 07</key>
+	<string>DES-CBC</string>
+	<key>06 05 2B 0E 03 02 08</key>
+	<string>DES-OFB</string>
+	<key>06 05 2B 0E 03 02 09</key>
+	<string>DES-CFB</string>
+	<key>06 05 2B 0E 03 02 0A</key>
+	<string>DES-MAC</string>
+	<key>06 05 2B 0E 03 02 0B</key>
+	<string>RSA Signature</string>
+	<key>06 05 2B 0E 03 02 0C</key>
+	<string>DSA</string>
+	<key>06 05 2B 0E 03 02 0D</key>
+	<string>DSA with SHA</string>
+	<key>06 05 2B 0E 03 02 0E</key>
+	<string>MDC2 with RSA Signature</string>
+	<key>06 05 2B 0E 03 02 0F</key>
+	<string>SHA with RSA Signature</string>
+	<key>06 05 2B 0E 03 02 10</key>
+	<string>Diffie-Hellman with Common Modulus</string>
+	<key>06 05 2B 0E 03 02 11</key>
+	<string>DES-EDE</string>
+	<key>06 05 2B 0E 03 02 12</key>
+	<string>SHA</string>
+	<key>06 05 2B 0E 03 02 13</key>
+	<string>MDC-2</string>
+	<key>06 05 2B 0E 03 02 14</key>
+	<string>DSA Common</string>
+	<key>06 05 2B 0E 03 02 15</key>
+	<string>DSA Common with SHA</string>
+	<key>06 05 2B 0E 03 02 16</key>
+	<string>RSA Key Transport</string>
+	<key>06 05 2B 0E 03 02 17</key>
+	<string>Keyed-hash-seal</string>
+	<key>06 05 2B 0E 03 02 18</key>
+	<string>MD2 with RSA Signature</string>
+	<key>06 05 2B 0E 03 02 19</key>
+	<string>MD5 with RSA Signature</string>
+	<key>06 05 2B 0E 03 02 1A</key>
+	<string>SHA-1</string>
+	<key>06 05 2B 0E 03 02 1B</key>
+	<string>DSA with SHA-1</string>
+	<key>06 05 2B 0E 03 02 1C</key>
+	<string>DSA with Common SHA-1</string>
+	<key>06 05 2B 0E 03 02 1D</key>
+	<string>SHA-1 with RSA Encryption</string>
+	<key>06 05 2B 0E 03 03 01</key>
+	<string>Simple-strong-auth-mechanism</string>
+	<key>06 05 2B 24 03 01 01</key>
+	<string>DES</string>
+	<key>06 05 2B 24 03 01 02</key>
+	<string>IDEA</string>
+	<key>06 05 2B 24 03 01 03</key>
+	<string>DES3</string>
+	<key>06 05 2B 24 03 01 04</key>
+	<string>RSA Encryption</string>
+	<key>06 05 2B 24 03 01 05</key>
+	<string>BSI-1</string>
+	<key>06 05 2B 24 03 02 01</key>
+	<string>RIPEMD-160</string>
+	<key>06 05 2B 24 03 02 02</key>
+	<string>RIPEMD-128</string>
+	<key>06 05 2B 24 03 02 03</key>
+	<string>RIPEMD-256</string>
+	<key>06 05 2B 24 03 02 04</key>
+	<string>MDC2 Single Length</string>
+	<key>06 05 2B 24 03 02 05</key>
+	<string>MDC2 Double Length</string>
+	<key>06 05 2B 24 03 03 01</key>
+	<string>RSA Signature</string>
+	<key>06 05 2B 24 03 03 02</key>
+	<string>ECSIE Signature</string>
+	<key>06 05 2B 24 03 04 01</key>
+	<string>ISO9796-1</string>
+	<key>06 05 2B 24 03 04 02</key>
+	<string>ISO9796-2</string>
+	<key>06 05 2B 24 03 04 02 01</key>
+	<string>ISO9796-2 with RED</string>
+	<key>06 05 2B 24 06 01 01</key>
+	<string>UTIMACO-API</string>
+	<key>06 05 2B 24 07 01 01</key>
+	<string>BSI PKE</string>
+	<key>06 05 2B 24 07 02 01</key>
+	<string>ISO9796-2 with RSA Encryption</string>
+	<key>06 05 2B 24 08 01 01</key>
+	<string>Teletrust SigiSigConform Policy Identifier</string>
+	<key>06 05 2B 24 08 02 01</key>
+	<string>Directory Service</string>
+	<key>06 05 2B 24 08 03 01</key>
+	<string>Date of Certificate Generation</string>
+	<key>06 05 2B 24 08 03 02</key>
+	<string>Procuration</string>
+	<key>06 05 2B 24 08 03 03</key>
+	<string>Admission</string>
+	<key>06 05 2B 24 08 03 04</key>
+	<string>Monetary Limit</string>
+	<key>06 05 2B 24 08 03 05</key>
+	<string>Declaration of Majority</string>
+	<key>06 05 2B 24 08 03 06</key>
+	<string>Integrated Circuit Card Serial Number</string>
+	<key>06 05 2B 24 08 03 07</key>
+	<string>Public Key Reference</string>
+	<key>06 05 2B 24 08 03 08</key>
+	<string>Restriction</string>
+	<key>06 05 2B 24 08 03 09</key>
+	<string>Retrieve If Allowed</string>
+	<key>06 05 2B 24 08 03 0A</key>
+	<string>Requested Certificate</string>
+	<key>06 05 2B 24 08 03 0B</key>
+	<string>Naming Authorities</string>
+	<key>06 05 2B 24 08 03 0C</key>
+	<string>Certificate In Directory Since</string>
+	<key>06 05 2B 24 08 03 0D</key>
+	<string>Certificate Hash</string>
+	<key>06 05 2B 24 08 04 01</key>
+	<string>Personal Data</string>
+	<key>06 05 2B 24 08 04 08</key>
+	<string>Restriction</string>
+	<key>06 05 2B 24 08 06 01</key>
+	<string>Certificate</string>
+	<key>06 05 2B 24 08 06 02</key>
+	<string>Certificate Reference</string>
+	<key>06 05 2B 24 08 06 03</key>
+	<string>Attribute Certificate</string>
+	<key>06 05 2B 24 08 06 04</key>
+	<string>Attribute Reference</string>
+	<key>06 05 2B 24 08 06 05</key>
+	<string>File Name</string>
+	<key>06 05 2B 24 08 06 06</key>
+	<string>Storage Time</string>
+	<key>06 05 2B 24 08 06 07</key>
+	<string>File Size</string>
+	<key>06 05 2B 24 08 06 08</key>
+	<string>Location</string>
+	<key>06 05 2B 24 08 06 09</key>
+	<string>Signature Number</string>
+	<key>06 05 2B 24 08 06 0A</key>
+	<string>Autogenerated</string>
+	<key>06 05 2B 24 08 07 01</key>
+	<string>Teletrust Presentation Types</string>
+	<key>06 05 2B 65 01 04 01</key>
+	<string>Strong Extranet</string>
+	<key>06 05 67 2A 03 00 00</key>
+	<string>Root Key Thumbprint</string>
+	<key>06 05 67 2A 03 00 01</key>
+	<string>Additional Policy</string>
+	<key>06 05 67 2A 08 AE 7B</key>
+	<string>Novus</string>
+	<key>06 05 67 2A 0A E2 00</key>
+	<string>Japan</string>
+	<key>06 06 02 82 06 01 0A 00</key>
+	<string>Telesec Extension</string>
+	<key>06 06 02 82 06 01 0A 01</key>
+	<string>Telesec Mechanism</string>
+	<key>06 06 02 82 06 01 0A 02</key>
+	<string>Telesec Module</string>
+	<key>06 06 02 82 06 01 0A 03</key>
+	<string>Object Class</string>
+	<key>06 06 02 82 06 01 0A 04</key>
+	<string>Package</string>
+	<key>06 06 02 82 06 01 0A 05</key>
+	<string>Parameter</string>
+	<key>06 06 02 82 06 01 0A 06</key>
+	<string>Name Binding</string>
+	<key>06 06 02 82 06 01 0A 07</key>
+	<string>Attribute</string>
+	<key>06 06 02 82 06 01 0A 08</key>
+	<string>Attribute Group</string>
+	<key>06 06 02 82 06 01 0A 09</key>
+	<string>Action</string>
+	<key>06 06 02 82 06 01 0A 0A</key>
+	<string>Notification</string>
+	<key>06 06 02 82 06 01 0A 0B</key>
+	<string>SNMP-MIBS</string>
+	<key>06 06 02 82 06 01 0A 0C</key>
+	<string>Cert and CRL Extension Definitions</string>
+	<key>06 06 2A 24 01 82 4D 01</key>
+	<string>Australian Business Number</string>
+	<key>06 06 2A 85 70 22 01 01</key>
+	<string>SEIS High-Assurance Policy Identifier</string>
+	<key>06 06 2A 85 70 22 01 02</key>
+	<string>SEIS GAK Policy Identifier</string>
+	<key>06 06 2A 85 70 22 03 01</key>
+	<string>SEIS AT Personal Identifier</string>
+	<key>06 06 2A 86 48 86 F7 63</key>
+	<string>Apple</string>
+	<key>06 06 2A 86 48 CE 38 01</key>
+	<string>ANSI X9.57 Module</string>
+	<key>06 06 2A 86 48 CE 38 02</key>
+	<string>Hold Instruction</string>
+	<key>06 06 2A 86 48 CE 38 03</key>
+	<string>Attribute</string>
+	<key>06 06 2A 86 48 CE 38 03 01</key>
+	<string>Countersignature</string>
+	<key>06 06 2A 86 48 CE 38 03 02</key>
+	<string>Attribute Certificate</string>
+	<key>06 06 2A 86 48 CE 38 04</key>
+	<string>Algorithm</string>
+	<key>06 06 2A 86 48 CE 3D 01</key>
+	<string>ANSI X9.62 Field Type</string>
+	<key>06 06 2A 86 48 CE 3D 02</key>
+	<string>Public Key Type</string>
+	<key>06 06 2A 86 48 CE 3E 01</key>
+	<string>ANSI X9.42 Field Type</string>
+	<key>06 06 2A 86 48 CE 3E 02</key>
+	<string>Number Type</string>
+	<key>06 06 2A 86 48 CE 3E 03</key>
+	<string>Scheme</string>
+	<key>06 06 2B 06 01 05 02 03</key>
+	<string>Kerberos PKINIT</string>
+	<key>06 06 2B 06 01 05 05 01</key>
+	<string>Simple Public Key Mechanism (SPKM)</string>
+	<key>06 06 2B 06 01 05 05 02</key>
+	<string>SPNEGO</string>
+	<key>06 06 2B 06 01 05 05 07</key>
+	<string>Public Key Infrastructure</string>
+	<key>06 06 2B 0E 03 02 01 01</key>
+	<string>RSA</string>
+	<key>06 06 2B 0E 03 02 02 01</key>
+	<string>SqMod-N</string>
+	<key>06 06 2B 0E 03 02 03 01</key>
+	<string>SqMod-N with RSA</string>
+	<key>06 06 2B 0E 07 02 01 01</key>
+	<string>ElGamal</string>
+	<key>06 06 2B 0E 07 02 03 01</key>
+	<string>MD2 with RSA</string>
+	<key>06 06 2B 0E 07 02 03 02</key>
+	<string>MD2 with ElGamal</string>
+	<key>06 06 2B 24 03 01 01 01</key>
+	<string>DES-ECB Pad</string>
+	<key>06 06 2B 24 03 01 02 01</key>
+	<string>IDEA-ECB</string>
+	<key>06 06 2B 24 03 01 02 02</key>
+	<string>IDEA-CBC</string>
+	<key>06 06 2B 24 03 01 02 03</key>
+	<string>IDEA-OFB</string>
+	<key>06 06 2B 24 03 01 02 04</key>
+	<string>IDEA-CFB</string>
+	<key>06 06 2B 24 03 01 05 01</key>
+	<string>BSI-1-ECB Pad</string>
+	<key>06 06 2B 24 03 01 05 02</key>
+	<string>BSI-1-CBC Pad</string>
+	<key>06 06 2B 24 03 03 01 01</key>
+	<string>RSA Signature with SHA-1</string>
+	<key>06 06 2B 24 03 03 01 02</key>
+	<string>RSA Signature with RIPEMD-160</string>
+	<key>06 06 2B 24 03 03 01 03</key>
+	<string>RSA Signature with RIPEMD-128</string>
+	<key>06 06 2B 24 03 03 01 04</key>
+	<string>RSA Signature with RIPEMD-256</string>
+	<key>06 06 2B 24 03 03 02 01</key>
+	<string>ECSIE Signature with SHA-1</string>
+	<key>06 06 2B 24 03 03 02 02</key>
+	<string>ECSIE Signature with RIPEMD-160</string>
+	<key>06 06 2B 24 03 03 02 03</key>
+	<string>ECSIE Signature with MD2</string>
+	<key>06 06 2B 24 03 03 02 04</key>
+	<string>ECSIE Signature with MD5</string>
+	<key>06 06 2B 24 03 04 02 02</key>
+	<string>ISO9796-2 with RSA</string>
+	<key>06 06 2B 24 03 04 02 03</key>
+	<string>ISO9796-2 with RND</string>
+	<key>06 06 2B 24 08 07 01 01</key>
+	<string>Adobe Illustrator</string>
+	<key>06 06 2B 24 08 07 01 02</key>
+	<string>AmiPro</string>
+	<key>06 06 2B 24 08 07 01 03</key>
+	<string>AutoCAD</string>
+	<key>06 06 2B 24 08 07 01 04</key>
+	<string>Binary</string>
+	<key>06 06 2B 24 08 07 01 05</key>
+	<string>BMP</string>
+	<key>06 06 2B 24 08 07 01 06</key>
+	<string>CGM</string>
+	<key>06 06 2B 24 08 07 01 07</key>
+	<string>CorelCRT</string>
+	<key>06 06 2B 24 08 07 01 08</key>
+	<string>CorelDRW</string>
+	<key>06 06 2B 24 08 07 01 09</key>
+	<string>CorelEXC</string>
+	<key>06 06 2B 24 08 07 01 0A</key>
+	<string>CorelPHT</string>
+	<key>06 06 2B 24 08 07 01 0B</key>
+	<string>Draw</string>
+	<key>06 06 2B 24 08 07 01 0C</key>
+	<string>DVI</string>
+	<key>06 06 2B 24 08 07 01 0D</key>
+	<string>EPS</string>
+	<key>06 06 2B 24 08 07 01 0E</key>
+	<string>Excel</string>
+	<key>06 06 2B 24 08 07 01 0F</key>
+	<string>GEM</string>
+	<key>06 06 2B 24 08 07 01 10</key>
+	<string>GIF</string>
+	<key>06 06 2B 24 08 07 01 11</key>
+	<string>HPGL</string>
+	<key>06 06 2B 24 08 07 01 12</key>
+	<string>JPEG</string>
+	<key>06 06 2B 24 08 07 01 13</key>
+	<string>Kodak</string>
+	<key>06 06 2B 24 08 07 01 14</key>
+	<string>LaTeX</string>
+	<key>06 06 2B 24 08 07 01 15</key>
+	<string>Lotus</string>
+	<key>06 06 2B 24 08 07 01 16</key>
+	<string>LotusPIC</string>
+	<key>06 06 2B 24 08 07 01 17</key>
+	<string>MacPICT</string>
+	<key>06 06 2B 24 08 07 01 18</key>
+	<string>MacWord</string>
+	<key>06 06 2B 24 08 07 01 19</key>
+	<string>MSWfD</string>
+	<key>06 06 2B 24 08 07 01 1A</key>
+	<string>MSWord</string>
+	<key>06 06 2B 24 08 07 01 1B</key>
+	<string>MSWord2</string>
+	<key>06 06 2B 24 08 07 01 1C</key>
+	<string>MSWord6</string>
+	<key>06 06 2B 24 08 07 01 1D</key>
+	<string>MSWord8</string>
+	<key>06 06 2B 24 08 07 01 1E</key>
+	<string>PDF</string>
+	<key>06 06 2B 24 08 07 01 1F</key>
+	<string>PIF</string>
+	<key>06 06 2B 24 08 07 01 20</key>
+	<string>Postscript</string>
+	<key>06 06 2B 24 08 07 01 21</key>
+	<string>RTF</string>
+	<key>06 06 2B 24 08 07 01 22</key>
+	<string>SCITEX</string>
+	<key>06 06 2B 24 08 07 01 23</key>
+	<string>TAR</string>
+	<key>06 06 2B 24 08 07 01 24</key>
+	<string>Targa</string>
+	<key>06 06 2B 24 08 07 01 25</key>
+	<string>TeX</string>
+	<key>06 06 2B 24 08 07 01 26</key>
+	<string>Text</string>
+	<key>06 06 2B 24 08 07 01 27</key>
+	<string>TIFF</string>
+	<key>06 06 2B 24 08 07 01 28</key>
+	<string>TIFF-FC</string>
+	<key>06 06 2B 24 08 07 01 29</key>
+	<string>UID</string>
+	<key>06 06 2B 24 08 07 01 2A</key>
+	<string>UUEncode</string>
+	<key>06 06 2B 24 08 07 01 2B</key>
+	<string>WMF</string>
+	<key>06 06 2B 24 08 07 01 2C</key>
+	<string>WordPerfect</string>
+	<key>06 06 2B 24 08 07 01 2D</key>
+	<string>WPGrph</string>
+	<key>06 07 02 82 06 01 0A 01 00</key>
+	<string>Telesec Authentication</string>
+	<key>06 07 02 82 06 01 0A 01 01</key>
+	<string>Telesec Signature</string>
+	<key>06 07 02 82 06 01 0A 01 02</key>
+	<string>Telesec Encryption</string>
+	<key>06 07 02 82 06 01 0A 01 03</key>
+	<string>One-Way Function</string>
+	<key>06 07 02 82 06 01 0A 01 04</key>
+	<string>FEC Function</string>
+	<key>06 07 02 82 06 01 0A 02 00</key>
+	<string>Algorithms</string>
+	<key>06 07 02 82 06 01 0A 02 01</key>
+	<string>Attribute Types</string>
+	<key>06 07 02 82 06 01 0A 02 02</key>
+	<string>Certificate Types</string>
+	<key>06 07 02 82 06 01 0A 02 03</key>
+	<string>Message Types</string>
+	<key>06 07 02 82 06 01 0A 02 04</key>
+	<string>PL Protocol</string>
+	<key>06 07 02 82 06 01 0A 02 05</key>
+	<string>SME and Components of SME</string>
+	<key>06 07 02 82 06 01 0A 02 06</key>
+	<string>FEC</string>
+	<key>06 07 02 82 06 01 0A 02 07</key>
+	<string>Useful Definitions</string>
+	<key>06 07 02 82 06 01 0A 02 08</key>
+	<string>STE Files</string>
+	<key>06 07 02 82 06 01 0A 02 09</key>
+	<string>SAdmin</string>
+	<key>06 07 02 82 06 01 0A 02 0A</key>
+	<string>Electronic Order</string>
+	<key>06 07 02 82 06 01 0A 02 0B</key>
+	<string>Telesec TTP Asymmetric Application</string>
+	<key>06 07 02 82 06 01 0A 02 0C</key>
+	<string>Telesec TTP Basis Application</string>
+	<key>06 07 02 82 06 01 0A 02 0D</key>
+	<string>Telesec TTP Messages</string>
+	<key>06 07 02 82 06 01 0A 02 0E</key>
+	<string>Telesec TTP Time Stamp Application</string>
+	<key>06 07 02 82 06 01 0A 03 00</key>
+	<string>Telesec Other Name</string>
+	<key>06 07 02 82 06 01 0A 03 01</key>
+	<string>Directory</string>
+	<key>06 07 02 82 06 01 0A 03 02</key>
+	<string>Directory Type</string>
+	<key>06 07 02 82 06 01 0A 03 03</key>
+	<string>Directory Group</string>
+	<key>06 07 02 82 06 01 0A 03 04</key>
+	<string>Directory User</string>
+	<key>06 07 02 82 06 01 0A 03 05</key>
+	<string>Symmetric Key Entry</string>
+	<key>06 07 02 82 06 01 0A 07 00</key>
+	<string>Application Group Identifier</string>
+	<key>06 07 02 82 06 01 0A 07 01</key>
+	<string>Certificate Type</string>
+	<key>06 07 02 82 06 01 0A 07 02</key>
+	<string>Telesec Certificate</string>
+	<key>06 07 02 82 06 01 0A 07 03</key>
+	<string>Certificate Number</string>
+	<key>06 07 02 82 06 01 0A 07 04</key>
+	<string>Certificate Revocation List</string>
+	<key>06 07 02 82 06 01 0A 07 05</key>
+	<string>Creation Date</string>
+	<key>06 07 02 82 06 01 0A 07 06</key>
+	<string>Issuer</string>
+	<key>06 07 02 82 06 01 0A 07 07</key>
+	<string>Naming Authority</string>
+	<key>06 07 02 82 06 01 0A 07 08</key>
+	<string>Public Key Directory</string>
+	<key>06 07 02 82 06 01 0A 07 09</key>
+	<string>Security Domain</string>
+	<key>06 07 02 82 06 01 0A 07 0A</key>
+	<string>Subject</string>
+	<key>06 07 02 82 06 01 0A 07 0B</key>
+	<string>Time of Revocation</string>
+	<key>06 07 02 82 06 01 0A 07 0C</key>
+	<string>User Group Reference</string>
+	<key>06 07 02 82 06 01 0A 07 0D</key>
+	<string>Validity</string>
+	<key>06 07 02 82 06 01 0A 07 0E</key>
+	<string>ZERT93</string>
+	<key>06 07 02 82 06 01 0A 07 0F</key>
+	<string>Security Message Environment</string>
+	<key>06 07 02 82 06 01 0A 07 10</key>
+	<string>Anonymized Public Key Directory</string>
+	<key>06 07 02 82 06 01 0A 07 11</key>
+	<string>Telesec Given Name</string>
+	<key>06 07 02 82 06 01 0A 07 12</key>
+	<string>Name Additions</string>
+	<key>06 07 02 82 06 01 0A 07 13</key>
+	<string>Telesec Postal Code</string>
+	<key>06 07 02 82 06 01 0A 07 14</key>
+	<string>Name Distinguisher</string>
+	<key>06 07 02 82 06 01 0A 07 15</key>
+	<string>Telesec Certificate List</string>
+	<key>06 07 02 82 06 01 0A 07 16</key>
+	<string>Teletrust Certificate List</string>
+	<key>06 07 02 82 06 01 0A 07 17</key>
+	<string>X.509 Certificate List</string>
+	<key>06 07 02 82 06 01 0A 07 18</key>
+	<string>Time of Issue</string>
+	<key>06 07 02 82 06 01 0A 07 19</key>
+	<string>Physical Card Number</string>
+	<key>06 07 02 82 06 01 0A 07 1A</key>
+	<string>File Type</string>
+	<key>06 07 02 82 06 01 0A 07 1B</key>
+	<string>Ctl File is Archive</string>
+	<key>06 07 02 82 06 01 0A 07 1C</key>
+	<string>Email Address</string>
+	<key>06 07 02 82 06 01 0A 07 1D</key>
+	<string>Certificate Template List</string>
+	<key>06 07 02 82 06 01 0A 07 1E</key>
+	<string>Directory Name</string>
+	<key>06 07 02 82 06 01 0A 07 1F</key>
+	<string>Directory Type Name</string>
+	<key>06 07 02 82 06 01 0A 07 20</key>
+	<string>Directory Group Name</string>
+	<key>06 07 02 82 06 01 0A 07 21</key>
+	<string>Directory User Name</string>
+	<key>06 07 02 82 06 01 0A 07 22</key>
+	<string>Revocation Flag</string>
+	<key>06 07 02 82 06 01 0A 07 23</key>
+	<string>Symmetric Key Entry Name</string>
+	<key>06 07 02 82 06 01 0A 07 24</key>
+	<string>GL Number</string>
+	<key>06 07 02 82 06 01 0A 07 25</key>
+	<string>GO Number</string>
+	<key>06 07 02 82 06 01 0A 07 26</key>
+	<string>G Key Data</string>
+	<key>06 07 02 82 06 01 0A 07 27</key>
+	<string>Z Key Data</string>
+	<key>06 07 02 82 06 01 0A 07 28</key>
+	<string>KT Key Data</string>
+	<key>06 07 02 82 06 01 0A 07 2A</key>
+	<string>KT Key Number</string>
+	<key>06 07 02 82 06 01 0A 07 33</key>
+	<string>Time of Revocation Generation</string>
+	<key>06 07 02 82 06 01 0A 07 34</key>
+	<string>Liability Text</string>
+	<key>06 07 02 82 06 01 0A 0B 01</key>
+	<string>Security Application</string>
+	<key>06 07 02 82 06 01 0A 0C 00</key>
+	<string>Cert Extension Liability Limitation Extension</string>
+	<key>06 07 02 82 06 01 0A 0C 01</key>
+	<string>Telesec Certificate ID Extension</string>
+	<key>06 07 02 82 06 01 0A 0C 02</key>
+	<string>Telesec Policy Identifier</string>
+	<key>06 07 02 82 06 01 0A 0C 03</key>
+	<string>Telesec Policy Qualifier ID</string>
+	<key>06 07 02 82 06 01 0A 0C 04</key>
+	<string>Telesec CRL Filtered Extension</string>
+	<key>06 07 02 82 06 01 0A 0C 05</key>
+	<string>Telesec CRL Filter Extension</string>
+	<key>06 07 02 82 06 01 0A 0C 06</key>
+	<string>Telesec Naming Authority Extension</string>
+	<key>06 07 2A 86 48 86 F6 7D 07</key>
+	<string>NSN</string>
+	<key>06 07 2A 86 48 86 F7 14 04</key>
+	<string>Microsoft file formats</string>
+	<key>06 07 2A 86 48 86 F7 63 64</key>
+	<string>Apple Data Security</string>
+	<key>06 07 2A 86 48 CE 38 01 01</key>
+	<string>X9F1 Certificate Management</string>
+	<key>06 07 2A 86 48 CE 38 02 01</key>
+	<string>Hold Instruction-None</string>
+	<key>06 07 2A 86 48 CE 38 02 02</key>
+	<string>Call Issuer</string>
+	<key>06 07 2A 86 48 CE 38 02 03</key>
+	<string>Reject</string>
+	<key>06 07 2A 86 48 CE 38 02 04</key>
+	<string>Pickup Token</string>
+	<key>06 07 2A 86 48 CE 38 04 01</key>
+	<string>DSA</string>
+	<key>06 07 2A 86 48 CE 38 04 02</key>
+	<string>DSA Match</string>
+	<key>06 07 2A 86 48 CE 38 04 03</key>
+	<string>DSA with SHA-1</string>
+	<key>06 07 2A 86 48 CE 3D 01 01</key>
+	<string>Prime Field</string>
+	<key>06 07 2A 86 48 CE 3D 01 02</key>
+	<string>Characteristic-Two Field</string>
+	<key>06 07 2A 86 48 CE 3D 02 01</key>
+	<string>Elliptic Curve Public Key</string>
+	<key>06 07 2A 86 48 CE 3E 01 01</key>
+	<string>Galois Field Prime</string>
+	<key>06 07 2A 86 48 CE 3E 02 01</key>
+	<string>Diffie-Hellman Public Key</string>
+	<key>06 07 2A 86 48 CE 3E 03 01</key>
+	<string>Diffie-Hellman Static</string>
+	<key>06 07 2A 86 48 CE 3E 03 02</key>
+	<string>Diffie-Hellman Ephemeral</string>
+	<key>06 07 2A 86 48 CE 3E 03 03</key>
+	<string>Diffie-Hellman Hybrid 1</string>
+	<key>06 07 2A 86 48 CE 3E 03 04</key>
+	<string>Diffie-Hellman Hybrid 2</string>
+	<key>06 07 2A 86 48 CE 3E 03 05</key>
+	<string>MQV2</string>
+	<key>06 07 2A 86 48 CE 3E 03 06</key>
+	<string>MQV1</string>
+	<key>06 07 2B 06 01 04 01 AA 60</key>
+	<string>Timeproof</string>
+	<key>06 07 2B 06 01 05 02 03 01</key>
+	<string>Kerberos Authentication Data</string>
+	<key>06 07 2B 06 01 05 02 03 02</key>
+	<string>Kerberos Diffie-Hellman Key Data</string>
+	<key>06 07 2B 06 01 05 02 03 03</key>
+	<string>Kerberos Reply Key Data</string>
+	<key>06 07 2B 06 01 05 02 03 04</key>
+	<string>Kerberos Client Authentication</string>
+	<key>06 07 2B 06 01 05 02 03 05</key>
+	<string>Kerberos Key Distribution Center (KDC)</string>
+	<key>06 07 2B 06 01 05 05 07 01</key>
+	<string>PKIX Private Certificate Extensions</string>
+	<key>06 07 2B 06 01 05 05 07 02</key>
+	<string>Policy Qualifier Types</string>
+	<key>06 07 2B 06 01 05 05 07 03</key>
+	<string>Key Purpose</string>
+	<key>06 07 2B 06 01 05 05 07 04</key>
+	<string>CMP Information Types</string>
+	<key>06 07 2B 06 01 05 05 07 05</key>
+	<string>CRMF Registration</string>
+	<key>06 07 2B 06 01 05 05 07 06</key>
+	<string>Algorithms</string>
+	<key>06 07 2B 06 01 05 05 07 07</key>
+	<string>CMC Controls</string>
+	<key>06 07 2B 06 01 05 05 07 08</key>
+	<string>Other Names</string>
+	<key>06 07 2B 06 01 05 05 07 09</key>
+	<string>Personal Data</string>
+	<key>06 07 2B 06 01 05 05 07 0A</key>
+	<string>Attribute Certificate</string>
+	<key>06 07 2B 0C 02 87 73 07 01</key>
+	<string>DEC Encryption Algorithm</string>
+	<key>06 07 2B 0C 02 87 73 07 02</key>
+	<string>DEC Hash Algorithm</string>
+	<key>06 07 2B 0C 02 87 73 07 02 01</key>
+	<string>DEC MD2</string>
+	<key>06 07 2B 0C 02 87 73 07 02 02</key>
+	<string>DEC MD4</string>
+	<key>06 07 2B 0C 02 87 73 07 03</key>
+	<string>DEC Signature Algorithm</string>
+	<key>06 07 2B 0C 02 87 73 07 03 01</key>
+	<string>DEC MD2 with RSA</string>
+	<key>06 07 2B 0C 02 87 73 07 03 02</key>
+	<string>DEC MD4 with RSA</string>
+	<key>06 07 2B 0C 02 87 73 07 03 03</key>
+	<string>DEC DEA-MAC</string>
+	<key>06 07 2B 24 03 01 01 01 01</key>
+	<string>DES-ECB ISO Pad</string>
+	<key>06 07 2B 24 03 01 01 02 01</key>
+	<string>DES-CBC Pad</string>
+	<key>06 07 2B 24 03 01 02 01 01</key>
+	<string>IDEA-ECB Pad</string>
+	<key>06 07 2B 24 03 01 02 02 01</key>
+	<string>IDEA-CBC Pad</string>
+	<key>06 07 2B 24 03 01 03 01 01</key>
+	<string>DES3-ECB Pad</string>
+	<key>06 07 2B 24 03 01 03 02 01</key>
+	<string>DES3-CBC Pad</string>
+	<key>06 07 2B 24 03 01 05 02 01</key>
+	<string>BSI-1-CBC PEM Pad</string>
+	<key>06 07 2B 24 08 05 01 01 01</key>
+	<string>RSA Indicate SHA-1</string>
+	<key>06 07 2B 24 08 05 01 01 02</key>
+	<string>RSA Indicate RIPEMD-160</string>
+	<key>06 07 2B 24 08 05 01 01 03</key>
+	<string>RSA with SHA-1</string>
+	<key>06 07 2B 24 08 05 01 01 04</key>
+	<string>RSA with RIPEMD-160</string>
+	<key>06 07 2B 24 08 05 01 02 01</key>
+	<string>DSA Extended</string>
+	<key>06 07 2B 24 08 05 01 02 02</key>
+	<string>DSA with RIPEMD-160</string>
+	<key>06 07 60 86 48 01 65 03 01</key>
+	<string>Label</string>
+	<key>06 07 60 86 48 01 65 03 02</key>
+	<string>PKI</string>
+	<key>06 07 60 86 48 01 65 03 03</key>
+	<string>ARPA</string>
+	<key>06 07 60 86 48 01 65 03 04</key>
+	<string>NIST Algorithm</string>
+	<key>06 07 60 86 48 01 86 F8 42</key>
+	<string>Netscape Object Identifier</string>
+	<key>06 07 60 86 48 01 86 F8 4D</key>
+	<string>Intel</string>
+	<key>06 08 02 82 06 01 0A 01 00 01</key>
+	<string>Password Authentication</string>
+	<key>06 08 02 82 06 01 0A 01 00 02</key>
+	<string>Protected Password Authentication</string>
+	<key>06 08 02 82 06 01 0A 01 00 03</key>
+	<string>One-Way X.509 Authentication</string>
+	<key>06 08 02 82 06 01 0A 01 00 04</key>
+	<string>Two-Way X.509 Authentication</string>
+	<key>06 08 02 82 06 01 0A 01 00 05</key>
+	<string>Three-Way X.509 Authentication</string>
+	<key>06 08 02 82 06 01 0A 01 00 06</key>
+	<string>One-Way ISO9798 Authentication</string>
+	<key>06 08 02 82 06 01 0A 01 00 07</key>
+	<string>Two-Way ISO9798 Authentication</string>
+	<key>06 08 02 82 06 01 0A 01 00 08</key>
+	<string>Telekom Authentication</string>
+	<key>06 08 02 82 06 01 0A 01 01 01</key>
+	<string>MD4 with RSA and ISO9697</string>
+	<key>06 08 02 82 06 01 0A 01 01 02</key>
+	<string>MD4 with RSA and Telesec Signature Standard</string>
+	<key>06 08 02 82 06 01 0A 01 01 03</key>
+	<string>MD5 with RSA and ISO9697</string>
+	<key>06 08 02 82 06 01 0A 01 01 04</key>
+	<string>MD5 with RSA and Telesec Signature Standard</string>
+	<key>06 08 02 82 06 01 0A 01 01 05</key>
+	<string>RIPEMD-160 with RSA and Telekom Signature Standard</string>
+	<key>06 08 02 82 06 01 0A 01 01 09</key>
+	<string>HBCI RSA Signature</string>
+	<key>06 08 02 82 06 01 0A 01 02 00</key>
+	<string>none</string>
+	<key>06 08 02 82 06 01 0A 01 02 01</key>
+	<string>RSA Telesec</string>
+	<key>06 08 02 82 06 01 0A 01 02 02</key>
+	<string>DES</string>
+	<key>06 08 02 82 06 01 0A 01 02 03</key>
+	<string>3DES</string>
+	<key>06 08 02 82 06 01 0A 01 02 04</key>
+	<string>Magenta</string>
+	<key>06 08 02 82 06 01 0A 01 02 05</key>
+	<string>IDEA</string>
+	<key>06 08 02 82 06 01 0A 01 03 01</key>
+	<string>MD4</string>
+	<key>06 08 02 82 06 01 0A 01 03 02</key>
+	<string>MD5</string>
+	<key>06 08 02 82 06 01 0A 01 03 03</key>
+	<string>SqModN-X509</string>
+	<key>06 08 02 82 06 01 0A 01 03 04</key>
+	<string>SqModN-ISO</string>
+	<key>06 08 02 82 06 01 0A 01 03 05</key>
+	<string>RIPEMD-128</string>
+	<key>06 08 02 82 06 01 0A 01 03 06</key>
+	<string>Hash using Block Cipher</string>
+	<key>06 08 02 82 06 01 0A 01 03 07</key>
+	<string>MAC</string>
+	<key>06 08 02 82 06 01 0A 01 03 08</key>
+	<string>RIPEMD-160</string>
+	<key>06 08 02 82 06 01 0A 01 04 01</key>
+	<string>Reed Solomon</string>
+	<key>06 08 2A 86 48 86 F6 7D 07 41</key>
+	<string>NSN-CE</string>
+	<key>06 08 2A 86 48 86 F6 7D 07 42</key>
+	<string>NSN-Alg</string>
+	<key>06 08 2A 86 48 86 F6 7D 07 43</key>
+	<string>NSN-OC</string>
+	<key>06 08 2A 86 48 86 F6 7D 07 44</key>
+	<string>NSN-AT</string>
+	<key>06 08 2A 86 48 86 F7 0D 01 01</key>
+	<string>PKCS-1</string>
+	<key>06 08 2A 86 48 86 F7 0D 01 02</key>
+	<string>BSAFE RSA Encryption</string>
+	<key>06 08 2A 86 48 86 F7 0D 01 03</key>
+	<string>PKCS-3</string>
+	<key>06 08 2A 86 48 86 F7 0D 01 05</key>
+	<string>PKCS-5</string>
+	<key>06 08 2A 86 48 86 F7 0D 01 07</key>
+	<string>PKCS-7</string>
+	<key>06 08 2A 86 48 86 F7 0D 01 09</key>
+	<string>PKCS-9</string>
+	<key>06 08 2A 86 48 86 F7 0D 01 0C</key>
+	<string>PKCS-12 Personal Information Exchange Syntax</string>
+	<key>06 08 2A 86 48 86 F7 0D 02</key>
+	<string>RSADSI Digest Algorithm</string>
+	<key>06 08 2A 86 48 86 F7 0D 02 02</key>
+	<string>MD2</string>
+	<key>06 08 2A 86 48 86 F7 0D 02 04</key>
+	<string>MD4</string>
+	<key>06 08 2A 86 48 86 F7 0D 02 05</key>
+	<string>MD5</string>
+	<key>06 08 2A 86 48 86 F7 0D 02 07</key>
+	<string>HMAC with SHA-1</string>
+	<key>06 08 2A 86 48 86 F7 0D 03</key>
+	<string>RSADSI Encryption Algorithm</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 02</key>
+	<string>RC2-CBC</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 03</key>
+	<string>RC2-ECB</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 04</key>
+	<string>RC4</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 05</key>
+	<string>RC4 with MAC</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 06</key>
+	<string>DESX-CBC</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 07</key>
+	<string>DES-EDE3-CBC</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 08</key>
+	<string>RC5-CBC</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 09</key>
+	<string>RC5-CBC Pad</string>
+	<key>06 08 2A 86 48 86 F7 0D 03 0A</key>
+	<string>DES-CDMF</string>
+	<key>06 08 2A 86 48 86 F7 14 01 03</key>
+	<string>Microsoft Exchange Server object class</string>
+	<key>06 08 2A 86 48 86 F7 14 04 02</key>
+	<string>Microsoft Word</string>
+	<key>06 08 2A 86 48 86 F7 14 04 03</key>
+	<string>Microsoft Excel</string>
+	<key>06 08 2A 86 48 86 F7 14 04 04</key>
+	<string>Microsoft Project</string>
+	<key>06 08 2A 86 48 86 F7 14 04 05</key>
+	<string>Microsoft PowerPoint</string>
+	<key>06 08 2A 86 48 86 F7 14 04 06</key>
+	<string>Microsoft Works</string>
+	<key>06 08 2A 86 48 86 F7 63 64 01</key>
+	<string>Apple Trust Policy Identifier</string>
+	<key>06 08 2A 86 48 86 F7 63 64 02</key>
+	<string>Apple Security Algorithm Identifier</string>
+	<key>06 08 2A 86 48 86 F7 63 64 03</key>
+	<string>Apple .Mac Certificate Identifier</string>
+	<key>06 08 2A 86 48 86 F7 63 64 04</key>
+	<string>Apple Extended Key Usage</string>
+	<key>06 08 2A 86 48 86 F7 63 64 05</key>
+	<string>Apple Certificate Policies</string>
+	<key>06 08 2A 86 48 86 FA 65 04 01</key>
+	<string>Identrus OCSP</string>
+	<key>06 08 2B 06 01 04 01 82 37 02</key>
+	<string>Authenticode</string>
+	<key>06 08 2B 06 01 04 01 82 37 0D</key>
+	<string>Microsoft PKCS-10 Object Identifiers</string>
+	<key>06 08 2B 06 01 04 01 82 37 0F</key>
+	<string>Microsoft Java</string>
+	<key>06 08 2B 06 01 04 01 82 37 10</key>
+	<string>Microsoft Outlook/Exchange</string>
+	<key>06 08 2B 06 01 04 01 82 37 11</key>
+	<string>Microsoft PKCS-12 Attributes</string>
+	<key>06 08 2B 06 01 04 01 82 37 14</key>
+	<string>Microsoft Enrollment Infrastructure</string>
+	<key>06 08 2B 06 01 04 01 82 37 15</key>
+	<string>Microsoft Certificate Server Infrastructure</string>
+	<key>06 08 2B 06 01 04 01 82 37 58</key>
+	<string>CAPICOM</string>
+	<key>06 08 2B 06 01 04 01 95 18 0A</key>
+	<string>ICE-TEL Policy Identifier</string>
+	<key>06 08 2B 06 01 04 01 AA 60 01</key>
+	<string>Time Signature System</string>
+	<key>06 08 2B 06 01 05 05 07 01 01</key>
+	<string>Certificate Authority Information Access</string>
+	<key>06 08 2B 06 01 05 05 07 01 02</key>
+	<string>Biometric Information</string>
+	<key>06 08 2B 06 01 05 05 07 01 03</key>
+	<string>Qualified Certificate Statements</string>
+	<key>06 08 2B 06 01 05 05 07 01 04</key>
+	<string>Attribute Certificate Audit Identity</string>
+	<key>06 08 2B 06 01 05 05 07 01 05</key>
+	<string>Attribute Certificate Targeting</string>
+	<key>06 08 2B 06 01 05 05 07 01 06</key>
+	<string>Attribute Certificate Authority Controls</string>
+	<key>06 08 2B 06 01 05 05 07 01 07</key>
+	<string>SBGP IP Address Block</string>
+	<key>06 08 2B 06 01 05 05 07 01 08</key>
+	<string>SBGP Autonomous System Identifier</string>
+	<key>06 08 2B 06 01 05 05 07 01 09</key>
+	<string>SBGP Router Identifier</string>
+	<key>06 08 2B 06 01 05 05 07 01 0A</key>
+	<string>Attribute Certificate Proxying</string>
+	<key>06 08 2B 06 01 05 05 07 01 0B</key>
+	<string>Subject Information Access</string>
+	<key>06 08 2B 06 01 05 05 07 01 0C</key>
+	<string>Logotype</string>
+	<key>06 08 2B 06 01 05 05 07 02 01</key>
+	<string>Certification Practice Statement</string>
+	<key>06 08 2B 06 01 05 05 07 02 02</key>
+	<string>User Notice</string>
+	<key>06 08 2B 06 01 05 05 07 02 03</key>
+	<string>Text Notice</string>
+	<key>06 08 2B 06 01 05 05 07 03 01</key>
+	<string>Server Authentication</string>
+	<key>06 08 2B 06 01 05 05 07 03 02</key>
+	<string>Client Authentication</string>
+	<key>06 08 2B 06 01 05 05 07 03 03</key>
+	<string>Code Signing</string>
+	<key>06 08 2B 06 01 05 05 07 03 04</key>
+	<string>Email Protection</string>
+	<key>06 08 2B 06 01 05 05 07 03 05</key>
+	<string>IPSEC End System</string>
+	<key>06 08 2B 06 01 05 05 07 03 06</key>
+	<string>IPSEC Tunnel</string>
+	<key>06 08 2B 06 01 05 05 07 03 07</key>
+	<string>IPSEC User</string>
+	<key>06 08 2B 06 01 05 05 07 03 08</key>
+	<string>Time Stamping</string>
+	<key>06 08 2B 06 01 05 05 07 03 09</key>
+	<string>OCSP Signing</string>
+	<key>06 08 2B 06 01 05 05 07 03 0A</key>
+	<string>DVCS</string>
+	<key>06 08 2B 06 01 05 05 07 03 0B</key>
+	<string>SBGP AA Server Authentication</string>
+	<key>06 08 2B 06 01 05 05 07 04 01</key>
+	<string>CA Protocol Encryption Certificate</string>
+	<key>06 08 2B 06 01 05 05 07 04 02</key>
+	<string>Signing Key Pair Types</string>
+	<key>06 08 2B 06 01 05 05 07 04 03</key>
+	<string>Encryption Key Pair Types</string>
+	<key>06 08 2B 06 01 05 05 07 04 04</key>
+	<string>Preferred Symmetric Algorithm</string>
+	<key>06 08 2B 06 01 05 05 07 04 05</key>
+	<string>CA Key Update Info</string>
+	<key>06 08 2B 06 01 05 05 07 04 06</key>
+	<string>Current CRL</string>
+	<key>06 08 2B 06 01 05 05 07 04 07</key>
+	<string>Unsupported OIDs</string>
+	<key>06 08 2B 06 01 05 05 07 04 08</key>
+	<string>Subscription Request</string>
+	<key>06 08 2B 06 01 05 05 07 04 09</key>
+	<string>Subscription Response</string>
+	<key>06 08 2B 06 01 05 05 07 04 0A</key>
+	<string>Key Pair Parameter Request</string>
+	<key>06 08 2B 06 01 05 05 07 04 0B</key>
+	<string>Key Pair Parameter Response</string>
+	<key>06 08 2B 06 01 05 05 07 04 0C</key>
+	<string>revPassphrase</string>
+	<key>06 08 2B 06 01 05 05 07 04 0D</key>
+	<string>implicitConfirm</string>
+	<key>06 08 2B 06 01 05 05 07 04 0E</key>
+	<string>confirmWaitTime</string>
+	<key>06 08 2B 06 01 05 05 07 04 0F</key>
+	<string>origPKIMessage</string>
+	<key>06 08 2B 06 01 05 05 07 04 10</key>
+	<string>suppLangTags</string>
+	<key>06 08 2B 06 01 05 05 07 05 01</key>
+	<string>Registration Control</string>
+	<key>06 08 2B 06 01 05 05 07 05 02</key>
+	<string>CRMF Registration Info</string>
+	<key>06 08 2B 06 01 05 05 07 06 01</key>
+	<string>DES-40</string>
+	<key>06 08 2B 06 01 05 05 07 06 02</key>
+	<string>No Signature</string>
+	<key>06 08 2B 06 01 05 05 07 06 03</key>
+	<string>dh-sig-hmac-sha1</string>
+	<key>06 08 2B 06 01 05 05 07 06 04</key>
+	<string>dh-pop</string>
+	<key>06 08 2B 06 01 05 05 07 08 01</key>
+	<string>Personal Data</string>
+	<key>06 08 2B 06 01 05 05 07 08 02</key>
+	<string>User Group</string>
+	<key>06 08 2B 06 01 05 05 07 09 01</key>
+	<string>Date of Birth</string>
+	<key>06 08 2B 06 01 05 05 07 09 02</key>
+	<string>Place of Birth</string>
+	<key>06 08 2B 06 01 05 05 07 09 03</key>
+	<string>Pseudonym</string>
+	<key>06 08 2B 06 01 05 05 07 09 04</key>
+	<string>Gender</string>
+	<key>06 08 2B 06 01 05 05 07 09 05</key>
+	<string>Country of Citizenship</string>
+	<key>06 08 2B 06 01 05 05 07 09 06</key>
+	<string>Country of Residence</string>
+	<key>06 08 2B 06 01 05 05 07 0A 01</key>
+	<string>Authentication Information</string>
+	<key>06 08 2B 06 01 05 05 07 0A 02</key>
+	<string>Access Identity</string>
+	<key>06 08 2B 06 01 05 05 07 0A 03</key>
+	<string>Charging Identity</string>
+	<key>06 08 2B 06 01 05 05 07 0A 04</key>
+	<string>Group</string>
+	<key>06 08 2B 06 01 05 05 07 0A 05</key>
+	<string>Role</string>
+	<key>06 08 2B 06 01 05 05 07 0A 06</key>
+	<string>WLAN SSID</string>
+	<key>06 08 2B 06 01 05 05 07 30 01</key>
+	<string>Online Certificate Status Protocol</string>
+	<key>06 08 2B 06 01 05 05 07 30 02</key>
+	<string>CA Issuers</string>
+	<key>06 08 2B 06 01 05 05 07 30 03</key>
+	<string>Time Stamping</string>
+	<key>06 08 2B 06 01 05 05 08 01 01</key>
+	<string>HMAC MD5</string>
+	<key>06 08 2B 06 01 05 05 08 01 02</key>
+	<string>HMAC SHA-1</string>
+	<key>06 08 2B 06 01 05 05 08 01 03</key>
+	<string>HMAC Tiger</string>
+	<key>06 08 2B 06 01 05 05 08 02 02</key>
+	<string>IKE Intermediate</string>
+	<key>06 08 2B 0C 02 87 73 07 01 02</key>
+	<string>DEC DEA</string>
+	<key>06 08 2B 24 03 01 01 02 01 01</key>
+	<string>DES-CBC ISO Pad</string>
+	<key>06 08 2B 24 03 01 02 01 01 01</key>
+	<string>IDEA-ECB ISO Pad</string>
+	<key>06 08 2B 24 03 01 02 02 01 01</key>
+	<string>IDEA-CBC ISO Pad</string>
+	<key>06 08 2B 24 03 01 03 01 01 01</key>
+	<string>DES3-ECB ISO Pad</string>
+	<key>06 08 2B 24 03 01 03 02 01 01</key>
+	<string>DES3-CBC ISO Pad</string>
+	<key>06 08 60 86 48 01 65 03 02 01</key>
+	<string>GAK Policy Identifier</string>
+	<key>06 08 60 86 48 01 65 03 02 02</key>
+	<string>GAK</string>
+	<key>06 08 60 86 48 01 65 03 02 03</key>
+	<string>Extensions</string>
+	<key>06 08 60 86 48 01 65 03 02 04</key>
+	<string>Key Recovery Schemes</string>
+	<key>06 08 60 86 48 01 65 03 02 05</key>
+	<string>CSOR GAK Extension</string>
+	<key>06 08 60 86 48 01 65 03 04 01</key>
+	<string>AES</string>
+	<key>06 08 60 86 48 01 65 03 04 02</key>
+	<string>SHA</string>
+	<key>06 08 60 86 48 01 86 F8 42 01</key>
+	<string>Netscape Certificate Extension</string>
+	<key>06 08 60 86 48 01 86 F8 42 02</key>
+	<string>Netscape Data Type</string>
+	<key>06 08 60 86 48 01 86 F8 42 03</key>
+	<string>Netscape Directory Object Identifier</string>
+	<key>06 08 60 86 48 01 86 F8 4D 02</key>
+	<string>Intel CDSA Security</string>
+	<key>06 09 02 82 06 01 0A 01 02 02 01</key>
+	<string>DES ECB</string>
+	<key>06 09 02 82 06 01 0A 01 02 02 02</key>
+	<string>DES CBC</string>
+	<key>06 09 02 82 06 01 0A 01 02 02 03</key>
+	<string>DES OFB</string>
+	<key>06 09 02 82 06 01 0A 01 02 02 04</key>
+	<string>DES CFB8</string>
+	<key>06 09 02 82 06 01 0A 01 02 02 05</key>
+	<string>DES CFB64</string>
+	<key>06 09 02 82 06 01 0A 01 02 03 01</key>
+	<string>3DES ECB</string>
+	<key>06 09 02 82 06 01 0A 01 02 03 02</key>
+	<string>3DES CBC</string>
+	<key>06 09 02 82 06 01 0A 01 02 03 03</key>
+	<string>3DES OFB</string>
+	<key>06 09 02 82 06 01 0A 01 02 03 04</key>
+	<string>3DES CFB8</string>
+	<key>06 09 02 82 06 01 0A 01 02 03 05</key>
+	<string>3DES CFB64</string>
+	<key>06 09 02 82 06 01 0A 01 02 05 01</key>
+	<string>IDEA ECB</string>
+	<key>06 09 02 82 06 01 0A 01 02 05 02</key>
+	<string>IDEA CBC</string>
+	<key>06 09 02 82 06 01 0A 01 02 05 03</key>
+	<string>IDEA OFB</string>
+	<key>06 09 02 82 06 01 0A 01 02 05 04</key>
+	<string>IDEA CFB8</string>
+	<key>06 09 02 82 06 01 0A 01 02 05 05</key>
+	<string>IDEA CFB64</string>
+	<key>06 09 2A 24 A0 F2 A0 7D 01 01 02</key>
+	<string>Signet Personal</string>
+	<key>06 09 2A 24 A0 F2 A0 7D 01 01 03</key>
+	<string>Signet Business</string>
+	<key>06 09 2A 24 A0 F2 A0 7D 01 01 04</key>
+	<string>Signet Legal</string>
+	<key>06 09 2A 24 A0 F2 A0 7D 01 01 0A</key>
+	<string>Signet Pilot</string>
+	<key>06 09 2A 24 A0 F2 A0 7D 01 01 0B</key>
+	<string>Signet IntraNet</string>
+	<key>06 09 2A 24 A0 F2 A0 7D 01 01 14</key>
+	<string>Signet Policy Identifier</string>
+	<key>06 09 2A 86 48 82 F7 12 01 02 02</key>
+	<string>Microsoft Kerberos</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 41 00</key>
+	<string>Entrust Version Info</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 42 03</key>
+	<string>CAST3-CBC</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 42 0A</key>
+	<string>CAST5-CBC</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 42 0B</key>
+	<string>CAST5-MAC</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 42 0C</key>
+	<string>PBE with MD5 and CAST5-CBC</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 42 0D</key>
+	<string>Password-Based MAC</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 43 0C</key>
+	<string>Entrust User</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 44 00</key>
+	<string>Entrust CA Info</string>
+	<key>06 09 2A 86 48 86 F6 7D 07 44 0A</key>
+	<string>Attribute Certificate</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 01</key>
+	<string>RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 02</key>
+	<string>MD2 with RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 03</key>
+	<string>MD4 with RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 04</key>
+	<string>MD5 with RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 05</key>
+	<string>SHA-1 with RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 06</key>
+	<string>RSA-OAEP Encryption (SET)</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 07</key>
+	<string>RSA-OAEP Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 08</key>
+	<string>RSA-OAEP-MGF</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 09</key>
+	<string>RSA-OAEP Label Specified</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 0A</key>
+	<string>RSA-PSS Signature Scheme</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 0B</key>
+	<string>SHA-256 with RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 0C</key>
+	<string>SHA-384 with RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 0D</key>
+	<string>SHA-512 with RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 01 0E</key>
+	<string>SHA-224 with RSA Encryption</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 03 01</key>
+	<string>Diffie-Hellman Key Agreement</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 01</key>
+	<string>PBE with MD2 and DES-CBC</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 03</key>
+	<string>PBE with MD5 and DES-CBC</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 04</key>
+	<string>PBE with MD2 and RC2-CBC</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 06</key>
+	<string>PBE with MD5 and RC2-CBC</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 09</key>
+	<string>PBE with MD5 and XOR</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 0A</key>
+	<string>PBE with SHA and DES-CBC</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 0C</key>
+	<string>PKCS-5 PBKDF2</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 0D</key>
+	<string>PKCS-5 PBES2</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 05 0E</key>
+	<string>PKCS-5 PBMAC1</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 07 01</key>
+	<string>Data</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 07 02</key>
+	<string>Signed Data</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 07 03</key>
+	<string>Enveloped Data</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 07 04</key>
+	<string>Signed and Enveloped Data</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 07 05</key>
+	<string>Digested Data</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 07 06</key>
+	<string>Encrypted Data</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 07 07</key>
+	<string>Data with Attributes</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 07 08</key>
+	<string>Encrypted Private Key Info</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 01</key>
+	<string>Email Address</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 02</key>
+	<string>Unstructured Name</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 03</key>
+	<string>Content Type</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 04</key>
+	<string>Message Digest</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 05</key>
+	<string>Signing Time</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 06</key>
+	<string>Countersignature</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 07</key>
+	<string>Challenge Password</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 08</key>
+	<string>Unstructured Address</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 09</key>
+	<string>Extended Certificate Attributes</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 0A</key>
+	<string>Issuer and Serial Number</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 0B</key>
+	<string>Password Check</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 0C</key>
+	<string>Public Key</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 0D</key>
+	<string>Signing Description</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 0E</key>
+	<string>Extension Request</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 0F</key>
+	<string>S/MIME Capabilities</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 10</key>
+	<string>S/MIME</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 14</key>
+	<string>Friendly Name (for PKCS-12)</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 15</key>
+	<string>Local Key ID (for PKCS-12)</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 16</key>
+	<string>Certificate Types (for PKCS-12)</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 09 17</key>
+	<string>CRL Types (for PKCS-12)</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0C 01</key>
+	<string>PKCS-12 Password-Based Encryption IDs</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0C 02</key>
+	<string>PKCS-12 ESPVK IDs</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0C 03</key>
+	<string>PKCS-12 Bag IDs</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0C 04</key>
+	<string>PKCS-12 Certificate Bag ID</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0C 05</key>
+	<string>PKCS-12 OID</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0C 0A</key>
+	<string>PKCS-12 Version 1</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0F 01</key>
+	<string>PKCS-15 Modules</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0F 02</key>
+	<string>PKCS-15 Attributes</string>
+	<key>06 09 2A 86 48 86 F7 0D 01 0F 03</key>
+	<string>PKCS-15 Content Type</string>
+	<key>06 09 2A 86 48 86 F7 12 01 02 02</key>
+	<string>MIT Kerberos V5</string>
+	<key>06 09 2A 86 48 86 F7 14 01 02 81 71</key>
+	<string>Delivery Mechanism</string>
+	<key>06 09 2A 86 48 86 F7 14 01 03 00</key>
+	<string>Site-Addressing</string>
+	<key>06 09 2A 86 48 86 F7 14 01 03 0D</key>
+	<string>Class Schema</string>
+	<key>06 09 2A 86 48 86 F7 14 01 03 0E</key>
+	<string>Attribute Schema</string>
+	<key>06 09 2A 86 48 86 F7 14 01 03 11</key>
+	<string>Mailbox-Agent</string>
+	<key>06 09 2A 86 48 86 F7 14 01 03 16</key>
+	<string>Mailbox</string>
+	<key>06 09 2A 86 48 86 F7 14 01 03 17</key>
+	<string>Container</string>
+	<key>06 09 2A 86 48 86 F7 14 01 03 2E</key>
+	<string>Mail Recipient</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 01</key>
+	<string>Apple iSign Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 02</key>
+	<string>Apple X.509 Basic Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 03</key>
+	<string>Apple SSL Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 04</key>
+	<string>Apple Local Certificate Generation Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 05</key>
+	<string>Apple Local CSR Generation Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 06</key>
+	<string>Apple CRL Revocation Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 07</key>
+	<string>Apple OCSP Revocation Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 08</key>
+	<string>Apple S/MIME Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 09</key>
+	<string>Apple Extensible Authentication Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 0A</key>
+	<string>Apple Software Update Signing Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 0B</key>
+	<string>Apple IPsec Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 0C</key>
+	<string>Apple iChat Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 0D</key>
+	<string>Apple Resource Signing Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 0E</key>
+	<string>Apple Kerberos Client Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 0F</key>
+	<string>Apple Kerberos Server Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 10</key>
+	<string>Apple Code Signing Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 01 11</key>
+	<string>Apple Package Signing Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 02 01</key>
+	<string>Fast Elliptic Encryption (FEE)</string>
+	<key>06 09 2A 86 48 86 F7 63 64 02 02</key>
+	<string>Apple Secure Compression (ASC)</string>
+	<key>06 09 2A 86 48 86 F7 63 64 02 03</key>
+	<string>FEE with MD5 Signature</string>
+	<key>06 09 2A 86 48 86 F7 63 64 02 04</key>
+	<string>FEE with SHA-1 Signature</string>
+	<key>06 09 2A 86 48 86 F7 63 64 02 05</key>
+	<string>Apple FEED Encryption</string>
+	<key>06 09 2A 86 48 86 F7 63 64 02 06</key>
+	<string>Apple FEED (Experimental)</string>
+	<key>06 09 2A 86 48 86 F7 63 64 02 07</key>
+	<string>FEE with ECDSA Signature</string>
+	<key>06 09 2A 86 48 86 F7 63 64 03 01</key>
+	<string>Apple .Mac Certificate Request</string>
+	<key>06 09 2A 86 48 86 F7 63 64 03 02</key>
+	<string>Apple .Mac Certificate Extension</string>
+	<key>06 09 2A 86 48 86 F7 63 64 03 03</key>
+	<string>Apple .Mac Certificate Request Value</string>
+	<key>06 09 2A 86 48 86 F7 63 64 04 01</key>
+	<string>Apple Code Signing</string>
+	<key>06 09 2A 86 48 86 F7 63 64 04 02</key>
+	<string>Apple iChat Signing</string>
+	<key>06 09 2A 86 48 86 F7 63 64 04 03</key>
+	<string>Apple iChat Encryption</string>
+	<key>06 09 2A 86 48 86 F7 63 64 04 04</key>
+	<string>Apple System Identity</string>
+	<key>06 09 2A 86 48 86 F7 63 64 05 01</key>
+	<string>Apple Certificate Policy</string>
+	<key>06 09 2A 86 48 86 F7 63 64 05 02</key>
+	<string>Apple .Mac Certificate Policy</string>
+	<key>06 09 2A 86 48 86 FA 65 01 06 01</key>
+	<string>Identrus unknown policy identifier</string>
+	<key>06 09 2A 86 48 CE 3D 01 02 03</key>
+	<string>Characteristic-Two Basis</string>
+	<key>06 09 2B 06 01 04 01 82 37 0A 01</key>
+	<string>Certificate Trust List</string>
+	<key>06 09 2B 06 01 04 01 82 37 0A 02</key>
+	<string>Next Update Location</string>
+	<key>06 09 2B 06 01 04 01 82 37 0A 03</key>
+	<string>Enhanced Key Usage</string>
+	<key>06 09 2B 06 01 04 01 82 37 0A 04</key>
+	<string>Attribute Object Identifiers</string>
+	<key>06 09 2B 06 01 04 01 82 37 0D 01</key>
+	<string>Renewal Certificate</string>
+	<key>06 09 2B 06 01 04 01 82 37 10 04</key>
+	<string>Microsoft Outlook Express</string>
+	<key>06 09 2B 06 01 04 01 82 37 11 01</key>
+	<string>Local Machine Keyset</string>
+	<key>06 09 2B 06 01 04 01 82 37 14 01</key>
+	<string>Auto-Enroll CTL Usage</string>
+	<key>06 09 2B 06 01 04 01 82 37 14 02</key>
+	<string>Enrollment Certificate Type</string>
+	<key>06 09 2B 06 01 04 01 82 37 15 01</key>
+	<string>Microsoft CA Renewal Version</string>
+	<key>06 09 2B 06 01 04 01 82 37 58 01</key>
+	<string>CAPICOM Version</string>
+	<key>06 09 2B 06 01 04 01 82 37 58 02</key>
+	<string>CAPICOM Attribute</string>
+	<key>06 09 2B 06 01 04 01 82 37 58 03</key>
+	<string>Encrypted Data</string>
+	<key>06 09 2B 06 01 04 01 97 55 03 01</key>
+	<string>cryptlib Attributes</string>
+	<key>06 09 2B 06 01 04 01 97 55 04 01</key>
+	<string>cryptlib Content</string>
+	<key>06 09 2B 06 01 04 01 AA 60 01 01</key>
+	<string>Time Signature System 80</string>
+	<key>06 09 2B 06 01 04 01 AA 60 01 02</key>
+	<string>Time Signature System 380</string>
+	<key>06 09 2B 06 01 04 01 AA 60 01 03</key>
+	<string>Time Signature System 400</string>
+	<key>06 09 2B 06 01 04 01 AD 0A 00 03</key>
+	<string>Secondary Practices</string>
+	<key>06 09 2B 06 01 04 01 AD 0A 00 04</key>
+	<string>Physician Identifiers</string>
+	<key>06 09 2B 06 01 05 05 07 05 01 01</key>
+	<string>Registration Token</string>
+	<key>06 09 2B 06 01 05 05 07 05 01 02</key>
+	<string>Authenticator</string>
+	<key>06 09 2B 06 01 05 05 07 05 01 03</key>
+	<string>PKI Publication Info</string>
+	<key>06 09 2B 06 01 05 05 07 05 01 04</key>
+	<string>PKI Archive Options</string>
+	<key>06 09 2B 06 01 05 05 07 05 01 05</key>
+	<string>Old Certificate ID</string>
+	<key>06 09 2B 06 01 05 05 07 05 01 06</key>
+	<string>Protocol Encryption Key</string>
+	<key>06 09 2B 06 01 05 05 07 05 01 07</key>
+	<string>Alternate Certificate Template</string>
+	<key>06 09 2B 06 01 05 05 07 05 01 08</key>
+	<string>WAP WTLS Template</string>
+	<key>06 09 2B 06 01 05 05 07 05 02 01</key>
+	<string>UTF-8 Pairs</string>
+	<key>06 09 2B 06 01 05 05 07 05 02 02</key>
+	<string>Certificate Request</string>
+	<key>06 09 2B 06 01 05 05 07 30 01 01</key>
+	<string>OCSP Basic Response</string>
+	<key>06 09 2B 06 01 05 05 07 30 01 02</key>
+	<string>OCSP Nonce Extension</string>
+	<key>06 09 2B 06 01 05 05 07 30 01 03</key>
+	<string>OCSP CRL Reference</string>
+	<key>06 09 2B 06 01 05 05 07 30 01 04</key>
+	<string>OCSP Response</string>
+	<key>06 09 2B 06 01 05 05 07 30 01 05</key>
+	<string>OCSP No Revocation Check</string>
+	<key>06 09 2B 06 01 05 05 07 30 01 06</key>
+	<string>OCSP Archive Cutoff</string>
+	<key>06 09 2B 06 01 05 05 07 30 01 07</key>
+	<string>OCSP Service Locator</string>
+	<key>06 09 2B 24 03 03 01 01 84 00 02</key>
+	<string>RSA Signature with SHA-1 512/L2</string>
+	<key>06 09 2B 24 03 03 01 01 84 00 03</key>
+	<string>RSA Signature with SHA-1 512/L3</string>
+	<key>06 09 2B 24 03 03 01 01 84 00 05</key>
+	<string>RSA Signature with SHA-1 512/L5</string>
+	<key>06 09 2B 24 03 03 01 01 84 00 09</key>
+	<string>RSA Signature with SHA-1 512/L9</string>
+	<key>06 09 2B 24 03 03 01 01 84 00 11</key>
+	<string>RSA Signature with SHA-1 512/L11</string>
+	<key>06 09 2B 24 03 03 01 01 85 00 02</key>
+	<string>RSA Signature with SHA-1 640/L2</string>
+	<key>06 09 2B 24 03 03 01 01 85 00 03</key>
+	<string>RSA Signature with SHA-1 640/L3</string>
+	<key>06 09 2B 24 03 03 01 01 85 00 05</key>
+	<string>RSA Signature with SHA-1 640/L5</string>
+	<key>06 09 2B 24 03 03 01 01 85 00 09</key>
+	<string>RSA Signature with SHA-1 640/L9</string>
+	<key>06 09 2B 24 03 03 01 01 85 00 11</key>
+	<string>RSA Signature with SHA-1 640/L11</string>
+	<key>06 09 2B 24 03 03 01 01 86 00 02</key>
+	<string>RSA Signature with SHA-1 768/L2</string>
+	<key>06 09 2B 24 03 03 01 01 86 00 03</key>
+	<string>RSA Signature with SHA-1 768/L3</string>
+	<key>06 09 2B 24 03 03 01 01 86 00 05</key>
+	<string>RSA Signature with SHA-1 768/L5</string>
+	<key>06 09 2B 24 03 03 01 01 86 00 09</key>
+	<string>RSA Signature with SHA-1 768/L9</string>
+	<key>06 09 2B 24 03 03 01 01 86 00 11</key>
+	<string>RSA Signature with SHA-1 768/L11</string>
+	<key>06 09 2B 24 03 03 01 01 87 00 02</key>
+	<string>RSA Signature with SHA-1 896/L2</string>
+	<key>06 09 2B 24 03 03 01 01 87 00 03</key>
+	<string>RSA Signature with SHA-1 896/L3</string>
+	<key>06 09 2B 24 03 03 01 01 87 00 05</key>
+	<string>RSA Signature with SHA-1 896/L5</string>
+	<key>06 09 2B 24 03 03 01 01 87 00 09</key>
+	<string>RSA Signature with SHA-1 896/L9</string>
+	<key>06 09 2B 24 03 03 01 01 87 00 11</key>
+	<string>RSA Signature with SHA-1 896/L11</string>
+	<key>06 09 2B 24 03 03 01 01 88 00 02</key>
+	<string>RSA Signature with SHA-1 1024/L2</string>
+	<key>06 09 2B 24 03 03 01 01 88 00 03</key>
+	<string>RSA Signature with SHA-1 1024/L3</string>
+	<key>06 09 2B 24 03 03 01 01 88 00 05</key>
+	<string>RSA Signature with SHA-1 1024/L5</string>
+	<key>06 09 2B 24 03 03 01 01 88 00 09</key>
+	<string>RSA Signature with SHA-1 1024/L9</string>
+	<key>06 09 2B 24 03 03 01 01 88 00 11</key>
+	<string>RSA Signature with SHA-1 1024/L11</string>
+	<key>06 09 2B 24 03 03 01 02 84 00 02</key>
+	<string>RSA Signature with RIPEMD-160 512/L2</string>
+	<key>06 09 2B 24 03 03 01 02 84 00 03</key>
+	<string>RSA Signature with RIPEMD-160 512/L3</string>
+	<key>06 09 2B 24 03 03 01 02 84 00 05</key>
+	<string>RSA Signature with RIPEMD-160 512/L5</string>
+	<key>06 09 2B 24 03 03 01 02 84 00 09</key>
+	<string>RSA Signature with RIPEMD-160 512/L9</string>
+	<key>06 09 2B 24 03 03 01 02 84 00 11</key>
+	<string>RSA Signature with RIPEMD-160 512/L11</string>
+	<key>06 09 2B 24 03 03 01 02 85 00 02</key>
+	<string>RSA Signature with RIPEMD-160 640/L2</string>
+	<key>06 09 2B 24 03 03 01 02 85 00 03</key>
+	<string>RSA Signature with RIPEMD-160 640/L3</string>
+	<key>06 09 2B 24 03 03 01 02 85 00 05</key>
+	<string>RSA Signature with RIPEMD-160 640/L5</string>
+	<key>06 09 2B 24 03 03 01 02 85 00 09</key>
+	<string>RSA Signature with RIPEMD-160 640/L9</string>
+	<key>06 09 2B 24 03 03 01 02 85 00 11</key>
+	<string>RSA Signature with RIPEMD-160 640/L11</string>
+	<key>06 09 2B 24 03 03 01 02 86 00 02</key>
+	<string>RSA Signature with RIPEMD-160 768/L2</string>
+	<key>06 09 2B 24 03 03 01 02 86 00 03</key>
+	<string>RSA Signature with RIPEMD-160 768/L3</string>
+	<key>06 09 2B 24 03 03 01 02 86 00 05</key>
+	<string>RSA Signature with RIPEMD-160 768/L5</string>
+	<key>06 09 2B 24 03 03 01 02 86 00 09</key>
+	<string>RSA Signature with RIPEMD-160 768/L9</string>
+	<key>06 09 2B 24 03 03 01 02 86 00 11</key>
+	<string>RSA Signature with RIPEMD-160 768/L11</string>
+	<key>06 09 2B 24 03 03 01 02 87 00 02</key>
+	<string>RSA Signature with RIPEMD-160 896/L2</string>
+	<key>06 09 2B 24 03 03 01 02 87 00 03</key>
+	<string>RSA Signature with RIPEMD-160 896/L3</string>
+	<key>06 09 2B 24 03 03 01 02 87 00 05</key>
+	<string>RSA Signature with RIPEMD-160 896/L5</string>
+	<key>06 09 2B 24 03 03 01 02 87 00 09</key>
+	<string>RSA Signature with RIPEMD-160 896/L9</string>
+	<key>06 09 2B 24 03 03 01 02 87 00 11</key>
+	<string>RSA Signature with RIPEMD-160 896/L11</string>
+	<key>06 09 2B 24 03 03 01 02 88 00 02</key>
+	<string>RSA Signature with RIPEMD-160 1024/L2</string>
+	<key>06 09 2B 24 03 03 01 02 88 00 03</key>
+	<string>RSA Signature with RIPEMD-160 1024/L3</string>
+	<key>06 09 2B 24 03 03 01 02 88 00 05</key>
+	<string>RSA Signature with RIPEMD-160 1024/L5</string>
+	<key>06 09 2B 24 03 03 01 02 88 00 09</key>
+	<string>RSA Signature with RIPEMD-160 1024/L9</string>
+	<key>06 09 2B 24 03 03 01 02 88 00 11</key>
+	<string>RSA Signature with RIPEMD-160 1024/L11</string>
+	<key>06 09 60 86 48 01 65 02 01 01 01</key>
+	<string>SDNS Signature Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 02</key>
+	<string>Fortezza Signature Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 03</key>
+	<string>SDNS Confidentiality Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 04</key>
+	<string>Fortezza Confidentiality Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 05</key>
+	<string>SDNS Integrity Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 06</key>
+	<string>Fortezza Integrity Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 07</key>
+	<string>SDNS Token Protection Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 08</key>
+	<string>Fortezza Token Protection Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 09</key>
+	<string>SDNS Key Management Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 0A</key>
+	<string>Fortezza Key Management Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 0B</key>
+	<string>SDNS Key Management and Signature Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 0C</key>
+	<string>Fortezza Key Management and Signature Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 0D</key>
+	<string>Suite A Signature Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 0E</key>
+	<string>Suite A Confidentiality Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 0F</key>
+	<string>Suite A Integrity Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 10</key>
+	<string>Suite A Token Protection Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 11</key>
+	<string>Suite A Key Management Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 12</key>
+	<string>Suite A Key Management and Signature Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 13</key>
+	<string>Fortezza Updated Signature Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 14</key>
+	<string>Fortezza Key Management and Updated Signature Algorithms</string>
+	<key>06 09 60 86 48 01 65 02 01 01 15</key>
+	<string>Fortezza Updated Integrity Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 16</key>
+	<string>Key Exchange Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 17</key>
+	<string>Fortezza Wrap80 Algorithm</string>
+	<key>06 09 60 86 48 01 65 02 01 01 18</key>
+	<string>Key Encryption Algorithm (KEA)</string>
+	<key>06 09 60 86 48 01 65 02 01 02 01</key>
+	<string>RFC 822 Message Format</string>
+	<key>06 09 60 86 48 01 65 02 01 02 02</key>
+	<string>Empty Content</string>
+	<key>06 09 60 86 48 01 65 02 01 02 03</key>
+	<string>CSP Content Type</string>
+	<key>06 09 60 86 48 01 65 02 01 02 2A</key>
+	<string>MSP Rev 3 Content Type</string>
+	<key>06 09 60 86 48 01 65 02 01 02 30</key>
+	<string>MSP Content Type</string>
+	<key>06 09 60 86 48 01 65 02 01 02 31</key>
+	<string>MSP Rekey Agent Protocol</string>
+	<key>06 09 60 86 48 01 65 02 01 02 32</key>
+	<string>MSP MMP</string>
+	<key>06 09 60 86 48 01 65 02 01 02 42</key>
+	<string>MSP Rev 3.1 Content Type</string>
+	<key>06 09 60 86 48 01 65 02 01 02 48</key>
+	<string>Forwarded MSP Message Body Part</string>
+	<key>06 09 60 86 48 01 65 02 01 02 49</key>
+	<string>MSP Forwarded Message Parameters</string>
+	<key>06 09 60 86 48 01 65 02 01 02 50</key>
+	<string>Forwarded CSP Message Body Part</string>
+	<key>06 09 60 86 48 01 65 02 01 02 51</key>
+	<string>CSP Forwarded Message Parameters</string>
+	<key>06 09 60 86 48 01 65 02 01 02 52</key>
+	<string>MSP MMP2</string>
+	<key>06 09 60 86 48 01 65 02 01 03 01</key>
+	<string>SDNS Security Policy</string>
+	<key>06 09 60 86 48 01 65 02 01 03 02</key>
+	<string>SDNS PRBAC</string>
+	<key>06 09 60 86 48 01 65 02 01 03 03</key>
+	<string>Mosaic PRBAC</string>
+	<key>06 09 60 86 48 01 65 02 01 03 0A</key>
+	<string>Security Policy</string>
+	<key>06 09 60 86 48 01 65 02 01 03 0B</key>
+	<string>genser</string>
+	<key>06 09 60 86 48 01 65 02 01 03 0C</key>
+	<string>Default Security Policy</string>
+	<key>06 09 60 86 48 01 65 02 01 03 0D</key>
+	<string>capcoMarkings</string>
+	<key>06 09 60 86 48 01 65 02 01 05 01</key>
+	<string>SDNS Key Management Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 02</key>
+	<string>SDNS User Signature Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 03</key>
+	<string>SDNS Key Management and Signature Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 04</key>
+	<string>Fortezza Key Management Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 05</key>
+	<string>Fortezza Key Management and Signature Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 06</key>
+	<string>Fortezza User Signature Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 07</key>
+	<string>Fortezza CA Signature Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 08</key>
+	<string>SDNS CA Signature Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 0A</key>
+	<string>Auxiliary Vector</string>
+	<key>06 09 60 86 48 01 65 02 01 05 0B</key>
+	<string>Receipt Policy</string>
+	<key>06 09 60 86 48 01 65 02 01 05 0C</key>
+	<string>Membership</string>
+	<key>06 09 60 86 48 01 65 02 01 05 0D</key>
+	<string>Administrators</string>
+	<key>06 09 60 86 48 01 65 02 01 05 0E</key>
+	<string>alid</string>
+	<key>06 09 60 86 48 01 65 02 01 05 14</key>
+	<string>janUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 15</key>
+	<string>febUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 16</key>
+	<string>marUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 17</key>
+	<string>aprUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 18</key>
+	<string>mayUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 19</key>
+	<string>junUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 1A</key>
+	<string>julUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 1B</key>
+	<string>augUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 1C</key>
+	<string>sepUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 1D</key>
+	<string>octUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 1E</key>
+	<string>novUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 1F</key>
+	<string>decUKMs</string>
+	<key>06 09 60 86 48 01 65 02 01 05 28</key>
+	<string>Meta SDNS CKL</string>
+	<key>06 09 60 86 48 01 65 02 01 05 29</key>
+	<string>SDNS CKL</string>
+	<key>06 09 60 86 48 01 65 02 01 05 2A</key>
+	<string>Meta SDNS Signature CKL</string>
+	<key>06 09 60 86 48 01 65 02 01 05 2B</key>
+	<string>SDNS Signature CKL</string>
+	<key>06 09 60 86 48 01 65 02 01 05 2C</key>
+	<string>SDNS Certificate Revocation List</string>
+	<key>06 09 60 86 48 01 65 02 01 05 2D</key>
+	<string>Fortezza Certificate Revocation List</string>
+	<key>06 09 60 86 48 01 65 02 01 05 2E</key>
+	<string>Fortezza CKL</string>
+	<key>06 09 60 86 48 01 65 02 01 05 2F</key>
+	<string>Exempted Address Processor</string>
+	<key>06 09 60 86 48 01 65 02 01 05 30</key>
+	<string>Guard</string>
+	<key>06 09 60 86 48 01 65 02 01 05 31</key>
+	<string>Algorithms Supported</string>
+	<key>06 09 60 86 48 01 65 02 01 05 32</key>
+	<string>Suite A Key Management Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 33</key>
+	<string>Suite A Key Management and Signature Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 34</key>
+	<string>Suite A User Signature Certificate</string>
+	<key>06 09 60 86 48 01 65 02 01 05 35</key>
+	<string>PRBAC Info</string>
+	<key>06 09 60 86 48 01 65 02 01 05 36</key>
+	<string>PRBAC CA Constraints</string>
+	<key>06 09 60 86 48 01 65 02 01 05 37</key>
+	<string>Signature or Key Management Privileges</string>
+	<key>06 09 60 86 48 01 65 02 01 05 38</key>
+	<string>Comm Privileges</string>
+	<key>06 09 60 86 48 01 65 02 01 05 39</key>
+	<string>Labeled Attribute</string>
+	<key>06 09 60 86 48 01 65 02 01 05 3A</key>
+	<string>Policy Information File</string>
+	<key>06 09 60 86 48 01 65 02 01 05 3B</key>
+	<string>Sec Policy Information File</string>
+	<key>06 09 60 86 48 01 65 02 01 05 3C</key>
+	<string>CA Clearance Constraint</string>
+	<key>06 09 60 86 48 01 65 02 01 07 01</key>
+	<string>CSP Extensions</string>
+	<key>06 09 60 86 48 01 65 02 01 08 01</key>
+	<string>ISSI Security Categories</string>
+	<key>06 09 60 86 48 01 65 02 01 08 02</key>
+	<string>Standard Security Label Privileges</string>
+	<key>06 09 60 86 48 01 65 02 01 0A 01</key>
+	<string>Signature Privileges</string>
+	<key>06 09 60 86 48 01 65 02 01 0A 02</key>
+	<string>Key Management Privileges</string>
+	<key>06 09 60 86 48 01 65 02 01 0A 03</key>
+	<string>Named Tag Set Privilege</string>
+	<key>06 09 60 86 48 01 65 02 01 0B 01</key>
+	<string>UK Demo</string>
+	<key>06 09 60 86 48 01 65 02 01 0B 02</key>
+	<string>US Department of Defense Class 2</string>
+	<key>06 09 60 86 48 01 65 02 01 0B 03</key>
+	<string>US Medium Pilot</string>
+	<key>06 09 60 86 48 01 65 02 01 0B 04</key>
+	<string>US Department of Defense Class 4</string>
+	<key>06 09 60 86 48 01 65 02 01 0B 05</key>
+	<string>US Department of Defense Class 3</string>
+	<key>06 09 60 86 48 01 65 02 01 0B 06</key>
+	<string>US Department of Defense Class 5</string>
+	<key>06 09 60 86 48 01 65 02 01 0B 09</key>
+	<string>US Department of Defense PKI Class 3</string>
+	<key>06 09 60 86 48 01 65 02 01 0C 00</key>
+	<string>Test Security Policy</string>
+	<key>06 09 60 86 48 01 65 02 01 0C 02</key>
+	<string>Test CRL Entry</string>
+	<key>06 09 60 86 48 01 65 03 02 02 01</key>
+	<string>KRA Key</string>
+	<key>06 09 60 86 48 01 65 03 02 03 01</key>
+	<string>Key Recovery Technique</string>
+	<key>06 09 60 86 48 01 65 03 02 03 02</key>
+	<string>Key Recovery Capable</string>
+	<key>06 09 60 86 48 01 65 03 02 03 03</key>
+	<string>Key Recovery</string>
+	<key>06 09 60 86 48 01 65 03 04 01 01</key>
+	<string>AES 128-ECB</string>
+	<key>06 09 60 86 48 01 65 03 04 01 02</key>
+	<string>AES 128-CBC</string>
+	<key>06 09 60 86 48 01 65 03 04 01 03</key>
+	<string>AES 128-OFB</string>
+	<key>06 09 60 86 48 01 65 03 04 01 04</key>
+	<string>AES 128-CFB</string>
+	<key>06 09 60 86 48 01 65 03 04 01 15</key>
+	<string>AES 192-ECB</string>
+	<key>06 09 60 86 48 01 65 03 04 01 16</key>
+	<string>AES 192-CBC</string>
+	<key>06 09 60 86 48 01 65 03 04 01 17</key>
+	<string>AES 192-OFB</string>
+	<key>06 09 60 86 48 01 65 03 04 01 18</key>
+	<string>AES 192-CFB</string>
+	<key>06 09 60 86 48 01 65 03 04 01 29</key>
+	<string>AES 256-ECB</string>
+	<key>06 09 60 86 48 01 65 03 04 01 2A</key>
+	<string>AES 256-CBC</string>
+	<key>06 09 60 86 48 01 65 03 04 01 2B</key>
+	<string>AES 256-OFB</string>
+	<key>06 09 60 86 48 01 65 03 04 01 2C</key>
+	<string>AES 256-CFB</string>
+	<key>06 09 60 86 48 01 65 03 04 02 01</key>
+	<string>SHA-256</string>
+	<key>06 09 60 86 48 01 65 03 04 02 02</key>
+	<string>SHA-384</string>
+	<key>06 09 60 86 48 01 65 03 04 02 03</key>
+	<string>SHA-512</string>
+	<key>06 09 60 86 48 01 65 03 04 02 04</key>
+	<string>SHA-224</string>
+	<key>06 09 60 86 48 01 86 F8 37 01 09</key>
+	<string>PKI</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 01</key>
+	<string>Netscape Certificate Type</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 02</key>
+	<string>Netscape Base URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 03</key>
+	<string>Netscape Revocation URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 04</key>
+	<string>Netscape CA Revocation URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 05</key>
+	<string>Netscape CRL Download URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 06</key>
+	<string>Netscape CA Certificate Download URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 07</key>
+	<string>Netscape Certificate Renewal URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 08</key>
+	<string>Netscape CA Policy URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 09</key>
+	<string>Netscape Certificate Homepage URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 0A</key>
+	<string>Netscape Certificate Entity Logo</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 0B</key>
+	<string>Netscape Certificate User Picture</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 0C</key>
+	<string>Netscape SSL Server Name</string>
+	<key>06 09 60 86 48 01 86 F8 42 01 0D</key>
+	<string>Netscape Certificate Comment</string>
+	<key>06 09 60 86 48 01 86 F8 42 02 01</key>
+	<string>image/GIF</string>
+	<key>06 09 60 86 48 01 86 F8 42 02 02</key>
+	<string>image/JPEG</string>
+	<key>06 09 60 86 48 01 86 F8 42 02 03</key>
+	<string>URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 02 04</key>
+	<string>text/HTML</string>
+	<key>06 09 60 86 48 01 86 F8 42 02 05</key>
+	<string>Netscape Certificate Sequence</string>
+	<key>06 09 60 86 48 01 86 F8 42 02 06</key>
+	<string>Netscape Certificate URL</string>
+	<key>06 09 60 86 48 01 86 F8 42 03 01</key>
+	<string>LDAP Definitions</string>
+	<key>06 09 60 86 48 01 86 F8 42 04 01</key>
+	<string>Server Gated Crypto</string>
+	<key>06 09 60 86 48 01 86 F8 4D 02 01</key>
+	<string>Intel CDSA Security Formats</string>
+	<key>06 0A 09 92 26 89 93 F2 2C 64 01 01</key>
+	<string>User ID</string>
+	<key>06 0A 09 92 26 89 93 F2 2C 64 01 03</key>
+	<string>RFC822 Mailbox</string>
+	<key>06 0A 09 92 26 89 93 F2 2C 64 01 19</key>
+	<string>Domain Component</string>
+	<key>06 0A 2A 24 A4 97 A3 53 01 64 01 01</key>
+	<string>Certificates Australia Policy Identifier</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 0F 01</key>
+	<string>Prefer Signed Data</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 0F 02</key>
+	<string>Cannot Decrypt Any</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 0F 03</key>
+	<string>Receipt Request</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 0F 04</key>
+	<string>Receipt</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 0F 05</key>
+	<string>Content Hints</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 0F 06</key>
+	<string>Mail List Expansion History</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 10 00</key>
+	<string>S/MIME Modules</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 10 01</key>
+	<string>S/MIME Content Types</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 10 02</key>
+	<string>S/MIME Authenticated Attributes</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 10 03</key>
+	<string>S/MIME Algorithms</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 10 04</key>
+	<string>S/MIME Certificate Distribution</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 10 05</key>
+	<string>S/MIME Signature Policy Qualifier</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 10 09</key>
+	<string>S/MIME Signature Type Identifier</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 10 0B</key>
+	<string>S/MIME Capabilities</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 16 01</key>
+	<string>X.509 Certificate (for PKCS-12)</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 16 02</key>
+	<string>SDSI Certificate (for PKCS-12)</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 09 17 01</key>
+	<string>X.509 CRL (for PKCS-12)</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 01 01</key>
+	<string>PBE with SHA-1 and 128-Bit RC4</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 01 02</key>
+	<string>PBE with SHA-1 and 40-Bit RC4</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 01 03</key>
+	<string>PBE with SHA-1 and 3-Key Triple DES-CBC</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 01 04</key>
+	<string>PBE with SHA-1 and 2-Key Triple DES-CBC</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 01 05</key>
+	<string>PBE with SHA-1 and 128-Bit RC2-CBC</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 01 06</key>
+	<string>PBE with SHA-1 and 40-Bit RC2-CBC</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 02 01</key>
+	<string>PKCS-12 PKCS-8 Key Shrouding</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 03 01</key>
+	<string>PKCS-12 Key Bag ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 03 02</key>
+	<string>PKCS-12 Certificate and CRL Bag ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 03 03</key>
+	<string>PKCS-12 Secret Bag ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 03 04</key>
+	<string>PKCS-12 Safe Contents ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 03 05</key>
+	<string>PKCS-12 PKCS-8 Shrouded Key Bag ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 04 01</key>
+	<string>PKCS-12 X.509 Certificate and CRL Bag ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 04 02</key>
+	<string>PKCS-12 SDSI Certificate Bag ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 05 01</key>
+	<string>PKCS-12 Password-Based Encryption ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 05 02</key>
+	<string>PKCS-12 Enveloping IDs</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 05 03</key>
+	<string>PKCS-12 Signature ID</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0C 0A 01</key>
+	<string>PKCS-12 Bag IDs</string>
+	<key>06 0A 2A 86 48 86 F7 0D 01 0F 03 01</key>
+	<string>PKCS-15 Content</string>
+	<key>06 0A 2A 86 48 86 F7 12 01 02 02 03</key>
+	<string>MIT User-to-User Kerberos</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 01 01</key>
+	<string>Apple .Mac Identity Cert Request</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 01 02</key>
+	<string>Apple .Mac Email Signing Cert Request</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 01 03</key>
+	<string>Apple .Mac Email Encryption Cert Request</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 01 04</key>
+	<string>Apple .Mac Archive List Request</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 01 05</key>
+	<string>Apple .Mac Archive Store Request</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 01 06</key>
+	<string>Apple .Mac Archive Fetch Request</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 01 07</key>
+	<string>Apple .Mac Archive Remove Request</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 02 01</key>
+	<string>Apple .Mac Identity</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 02 02</key>
+	<string>Apple .Mac Email Signing</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 02 03</key>
+	<string>Apple .Mac Email Encryption</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 03 01</key>
+	<string>User Name</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 03 02</key>
+	<string>Password</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 03 03</key>
+	<string>Host Name</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 03 04</key>
+	<string>Renew Flag</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 03 03 05</key>
+	<string>Asynchronous Flag</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 04 01 01</key>
+	<string>Apple Code Signing (Development)</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 04 01 02</key>
+	<string>Apple Software Update Signing</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 04 01 03</key>
+	<string>Apple Code Signing (Reserved)</string>
+	<key>06 0A 2A 86 48 86 F7 63 64 04 01 04</key>
+	<string>Apple Resource Signing</string>
+	<key>06 0A 2A 86 48 CE 3D 01 02 03 01</key>
+	<string>Null Basis</string>
+	<key>06 0A 2A 86 48 CE 3D 01 02 03 02</key>
+	<string>Trinomial Basis</string>
+	<key>06 0A 2A 86 48 CE 3D 01 02 03 03</key>
+	<string>Pentanomial Basis</string>
+	<key>06 0A 2B 06 01 04 01 81 3C 07 01 01</key>
+	<string>Ascom</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 04</key>
+	<string>SPC Indirect Data Context</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 0A</key>
+	<string>SPC Agency Info</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 0B</key>
+	<string>SPC Statement Type</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 0C</key>
+	<string>SPC Opus Info</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 0E</key>
+	<string>SPC Certificate Extensions</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 0F</key>
+	<string>SPC PE lmage Data</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 14</key>
+	<string>SPC Link (type 1)</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 15</key>
+	<string>Individual Code Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 16</key>
+	<string>Commercial Code Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 19</key>
+	<string>SPC Link (type 2)</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 1A</key>
+	<string>SPC Minimal Criteria</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 1B</key>
+	<string>SPC Financial Criteria</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 01 1C</key>
+	<string>SPC Link (type 3)</string>
+	<key>06 0A 2B 06 01 04 01 82 37 02 02 0A</key>
+	<string>NTLM Security Support Provider</string>
+	<key>06 0A 2B 06 01 04 01 82 37 03 02 01</key>
+	<string>Time Stamp Countersignature</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 01 01</key>
+	<string>Sorted CTL Extension</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 01</key>
+	<string>Certificate Trust List Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 02</key>
+	<string>Time Stamp Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 03</key>
+	<string>Server Gated Crypto</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 04</key>
+	<string>Encrypted File Systems</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 05</key>
+	<string>Windows Hardware Compatible</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 06</key>
+	<string>NT5 Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 07</key>
+	<string>Windows Hardware OEM Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 08</key>
+	<string>Embedded NT Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 09</key>
+	<string>Trusted Root List Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 0A</key>
+	<string>Qualified Subordination</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 0B</key>
+	<string>Key Recovery</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 03 0C</key>
+	<string>Document Signing</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 04 01</key>
+	<string>Yes/No Trust Attribute</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 05 01</key>
+	<string>Microsoft Music DRM</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 05 02</key>
+	<string>Microsoft DRM Individualization</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 06 01</key>
+	<string>Microsoft Licenses</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0A 06 02</key>
+	<string>Microsoft License Server</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0D 02 01</key>
+	<string>Enrollment Name/Value Pair</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0D 02 02</key>
+	<string>Enrollment CSP</string>
+	<key>06 0A 2B 06 01 04 01 82 37 0D 02 03</key>
+	<string>OS Version</string>
+	<key>06 0A 2B 06 01 04 01 82 37 14 02 01</key>
+	<string>Enrollment Agent</string>
+	<key>06 0A 2B 06 01 04 01 82 37 14 02 02</key>
+	<string>Smartcard Logon</string>
+	<key>06 0A 2B 06 01 04 01 82 37 14 02 03</key>
+	<string>NT Principal Name</string>
+	<key>06 0A 2B 06 01 04 01 82 37 58 02 01</key>
+	<string>Document Name</string>
+	<key>06 0A 2B 06 01 04 01 82 37 58 02 02</key>
+	<string>Document Description</string>
+	<key>06 0A 2B 06 01 04 01 82 37 58 03 01</key>
+	<string>Encrypted Content</string>
+	<key>06 0A 2B 06 01 04 01 92 7C 0A 01 01</key>
+	<string>UNINETT Policy Identifier</string>
+	<key>06 0A 2B 06 01 04 01 95 62 01 01 01</key>
+	<string>ICE-TEL CA Policy Identifier</string>
+	<key>06 0A 2B 06 01 04 01 97 55 01 01 01</key>
+	<string>Blowfish-ECB</string>
+	<key>06 0A 2B 06 01 04 01 97 55 01 01 02</key>
+	<string>Blowfish-CBC</string>
+	<key>06 0A 2B 06 01 04 01 97 55 01 01 03</key>
+	<string>Blowfish-CFB</string>
+	<key>06 0A 2B 06 01 04 01 97 55 01 01 04</key>
+	<string>Blowfish-OFB</string>
+	<key>06 0A 2B 06 01 04 01 97 55 01 02 01</key>
+	<string>ElGamal</string>
+	<key>06 0A 2B 06 01 04 01 97 55 03 01 01</key>
+	<string>cryptlib Presence Check</string>
+	<key>06 0A 2B 06 01 04 01 97 55 03 01 02</key>
+	<string>OCSP Response RTCS</string>
+	<key>06 0A 2B 06 01 04 01 97 55 03 01 03</key>
+	<string>OCSP Response RTCS Extended</string>
+	<key>06 0A 2B 06 01 04 01 97 55 03 01 04</key>
+	<string>CRL Extended Reason</string>
+	<key>06 0A 2B 06 01 04 01 97 55 03 01 05</key>
+	<string>Key Features</string>
+	<key>06 0A 2B 06 01 04 01 97 55 03 01 06</key>
+	<string>PKI Boot</string>
+	<key>06 0A 2B 06 01 04 01 97 55 04 01 01</key>
+	<string>cryptlib Configuration Data</string>
+	<key>06 0A 2B 06 01 04 01 97 55 04 01 02</key>
+	<string>cryptlib User Index</string>
+	<key>06 0A 2B 06 01 04 01 97 55 04 01 03</key>
+	<string>cryptlib User Info</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 00</key>
+	<string>NASP</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 01</key>
+	<string>ELCO</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 02</key>
+	<string>TK</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 03</key>
+	<string>DSAP</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 04</key>
+	<string>SSSS</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 05</key>
+	<string>DNASP</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 06</key>
+	<string>BYEMAN</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 07</key>
+	<string>REL-US</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 08</key>
+	<string>REL-AUS</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 09</key>
+	<string>REL-CAN</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 0A</key>
+	<string>REL-UK</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 0B</key>
+	<string>REL-NZ</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0A 0C</key>
+	<string>Generic</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0B 00</key>
+	<string>genserNations</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0B 01</key>
+	<string>genserComsec</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0B 02</key>
+	<string>genserAcquisition</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0B 03</key>
+	<string>genserSecurityCategories</string>
+	<key>06 0A 60 86 48 01 65 02 01 03 0D 00</key>
+	<string>capcoSecurityCategories</string>
+	<key>06 0A 60 86 48 01 65 02 01 07 01 00</key>
+	<string>cspCsExtn</string>
+	<key>06 0A 60 86 48 01 65 02 01 0C 00 01</key>
+	<string>TSP1</string>
+	<key>06 0A 60 86 48 01 65 02 01 0C 00 02</key>
+	<string>TSP2</string>
+	<key>06 0A 60 86 48 01 65 02 01 0C 00 03</key>
+	<string>Kafka</string>
+	<key>06 0A 60 86 48 01 65 02 01 0C 01 01</key>
+	<string>TCP1</string>
+	<key>06 0A 60 86 48 01 65 03 02 01 03 01</key>
+	<string>FBCA Rudimentary Policy Identifier</string>
+	<key>06 0A 60 86 48 01 65 03 02 01 03 02</key>
+	<string>FBCA Basic Policy Identifier</string>
+	<key>06 0A 60 86 48 01 65 03 02 01 03 03</key>
+	<string>FBCA Medium Policy Identifier</string>
+	<key>06 0A 60 86 48 01 65 03 02 01 03 04</key>
+	<string>FBCA High Policy Identifier</string>
+	<key>06 0A 60 86 48 01 86 F8 37 01 02 08</key>
+	<string>Novell Algorithm</string>
+	<key>06 0A 60 86 48 01 86 F8 37 01 09 04</key>
+	<string>PKI Attribute Type</string>
+	<key>06 0A 60 86 48 01 86 F8 42 03 01 01</key>
+	<string>Car License</string>
+	<key>06 0A 60 86 48 01 86 F8 42 03 01 02</key>
+	<string>Department Number</string>
+	<key>06 0A 60 86 48 01 86 F8 42 03 01 03</key>
+	<string>Employee Number</string>
+	<key>06 0A 60 86 48 01 86 F8 42 03 01 04</key>
+	<string>Employee Type</string>
+	<key>06 0A 60 86 48 01 86 F8 42 03 02 02</key>
+	<string>Intranet Organizational Person</string>
+	<key>06 0A 60 86 48 01 86 F8 45 01 06 03</key>
+	<string>Verisign CZAG</string>
+	<key>06 0A 60 86 48 01 86 F8 45 01 06 06</key>
+	<string>Verisign InBox</string>
+	<key>06 0A 60 86 48 01 86 F8 45 01 06 0B</key>
+	<string>Unknown Verisign VPN extension</string>
+	<key>06 0A 60 86 48 01 86 F8 45 01 06 0D</key>
+	<string>Unknown Verisign VPN extension</string>
+	<key>06 0A 60 86 48 01 86 F8 45 01 08 01</key>
+	<string>Verisign SGC CA</string>
+	<key>06 0A 60 86 48 01 86 F8 4D 02 02 05</key>
+	<string>Intel CDSA Security Algorithms</string>
+	<key>06 0B 2A 83 08 8C 1A 4B 3D 01 01 01</key>
+	<string>Symmetric Encryption Algorithm</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 01</key>
+	<string>Cryptographic Message Syntax</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 02</key>
+	<string>Enhanced Security Services</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 03</key>
+	<string>S/MIME Object Identifier</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 04</key>
+	<string>S/MIME V3 Message</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 05</key>
+	<string>ETS Electronic Signature 88</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 06</key>
+	<string>ETS Electronic Signature 97</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 07</key>
+	<string>ETS Electronic Signature Policy 88</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 08</key>
+	<string>ETS Electronic Signature Policy 97</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 09</key>
+	<string>id-mod-certdist</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 0A</key>
+	<string>id-mod-domsec</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 0B</key>
+	<string>id-mod-compress</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 0C</key>
+	<string>id-mod-symkeydist</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 0D</key>
+	<string>id-mod-cek-reuse</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 0E</key>
+	<string>id-mod-cms-2001</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 0F</key>
+	<string>id-mod-v1AttrCert</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 10</key>
+	<string>id-mod-cmsalg-2001</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 11</key>
+	<string>id-mod-cms-pwri-88</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 12</key>
+	<string>id-mod-cms-pwri-97</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 13</key>
+	<string>id-mod-cms-aes</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 14</key>
+	<string>id-mod-cms-rsaes-oaep</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 00 15</key>
+	<string>id-mod-msg-v3dot1</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 01</key>
+	<string>id-ct-receipt</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 02</key>
+	<string>id-ct-authData</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 03</key>
+	<string>id-ct-publishCert</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 04</key>
+	<string>id-ct-TSTInfo</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 05</key>
+	<string>id-ct-TDTInfo</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 06</key>
+	<string>id-ct-contentInfo</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 07</key>
+	<string>id-ct-DVCSRequestData</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 08</key>
+	<string>id-ct-DVCSResponseData</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 09</key>
+	<string>id-ct-compressedData</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 0A</key>
+	<string>id-ct-svcp-certValRequest</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 0B</key>
+	<string>id-ct-svcp-certValResponse</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 0C</key>
+	<string>id-ct-svcp-valPolRequest</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 0D</key>
+	<string>id-ct-svcp-valPolResponse</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 0E</key>
+	<string>id-ct-attrCertEncAttrs</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 01 0F</key>
+	<string>id-ct-TSReq</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 01</key>
+	<string>id-aa-receiptRequest</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 02</key>
+	<string>id-aa-securityLabel</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 03</key>
+	<string>id-aa-mlExpandHistory</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 04</key>
+	<string>id-aa-contentHint</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 05</key>
+	<string>id-aa-msgSigDigest</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 06</key>
+	<string>id-aa-encapContentType</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 07</key>
+	<string>id-aa-contentIdentifier</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 08</key>
+	<string>id-aa-macValue</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 09</key>
+	<string>id-aa-equivalentLabels</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 0A</key>
+	<string>id-aa-contentReference</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 0B</key>
+	<string>id-aa-encrypKeyPref</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 0C</key>
+	<string>id-aa-signingCertificate</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 0D</key>
+	<string>id-aa-smimeEncryptCerts</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 0E</key>
+	<string>id-aa-timeStampToken</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 0F</key>
+	<string>id-aa-ets-sigPolicyId</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 10</key>
+	<string>id-aa-ets-commitmentType</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 11</key>
+	<string>id-aa-ets-signerLocation</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 12</key>
+	<string>id-aa-ets-signerAttr</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 13</key>
+	<string>id-aa-ets-otherSigCert</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 14</key>
+	<string>id-aa-ets-contentTimestamp</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 15</key>
+	<string>id-aa-ets-CertificateRefs</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 16</key>
+	<string>id-aa-ets-RevocationRefs</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 17</key>
+	<string>id-aa-ets-certValues</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 18</key>
+	<string>id-aa-ets-revocationValues</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 19</key>
+	<string>id-aa-ets-escTimeStamp</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 1A</key>
+	<string>id-aa-ets-certCRLTimestamp</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 1B</key>
+	<string>id-aa-ets-archiveTimeStamp</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 1C</key>
+	<string>id-aa-signatureType</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 1D</key>
+	<string>id-aa-dvcs-dvc</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 1E</key>
+	<string>id-aa-CEKReference</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 1F</key>
+	<string>id-aa-maxCEKDecrypts</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 20</key>
+	<string>id-aa-KEKDerivationAlg</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 21</key>
+	<string>id-aa-intendedRecipients</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 02 22</key>
+	<string>id-aa-cmc-unsignedData</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 01</key>
+	<string>id-alg-ESDHwith3DES</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 02</key>
+	<string>id-alg-ESDHwithRC2</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 03</key>
+	<string>id-alg-3DESwrap</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 04</key>
+	<string>id-alg-RC2wrap</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 05</key>
+	<string>id-alg-ESDH</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 06</key>
+	<string>id-alg-CMS3DESwrap</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 07</key>
+	<string>id-alg-CMSRC2wrap</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 08</key>
+	<string>id-alg-zlib</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 09</key>
+	<string>id-alg-PWRI-KEK</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 0A</key>
+	<string>id-alg-SSDH</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 0B</key>
+	<string>id-alg-HMACwith3DESwrap</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 03 0C</key>
+	<string>id-alg-HMACwithAESwrap</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 04 01</key>
+	<string>LDAP Certificate Distribution</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 05 01</key>
+	<string>id-spq-ets-sqt-uri</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 05 02</key>
+	<string>id-spq-ets-sqt-unotice</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 06 01</key>
+	<string>id-cti-ets-proofOfOrigin</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 06 02</key>
+	<string>id-cti-ets-proofOfReceipt</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 06 03</key>
+	<string>id-cti-ets-proofOfDelivery</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 06 04</key>
+	<string>id-cti-ets-proofOfSender</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 06 05</key>
+	<string>id-cti-ets-proofOfApproval</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 06 06</key>
+	<string>id-cti-ets-proofOfCreation</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 09 01</key>
+	<string>Originator Signature</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 09 02</key>
+	<string>Domain Signature</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 09 03</key>
+	<string>Additional Attributes Signature</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 09 04</key>
+	<string>Review Signature</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 09 10 0B 01</key>
+	<string>Prefer Binary Inside</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 01 01</key>
+	<string>PKCS-12 PBE with SHA-1 and 128-Bit RC4</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 01 02</key>
+	<string>PKCS-12 PBE with SHA-1 and 40-Bit RC4</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 01 03</key>
+	<string>PKCS-12 PBE with SHA-1 and Triple DES-CBC</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 01 04</key>
+	<string>PKCS-12 PBE with SHA-1 and 128-Bit RC2-CBC</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 01 05</key>
+	<string>PKCS-12 PBE with SHA-1 and 40-Bit RC2-CBC</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 01 06</key>
+	<string>PKCS-12 PBE with SHA-1 and RC4</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 01 07</key>
+	<string>PKCS-12 PBE with SHA-1 and RC2-CBC</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 02 01</key>
+	<string>PKCS-12 RSA Encryption with 128-Bit RC4</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 02 02</key>
+	<string>PKCS-12 RSA Encryption with 40-Bit RC4</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 02 03</key>
+	<string>PKCS-12 RSA Encryption with Triple DES</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 05 03 01</key>
+	<string>PKCS-12 RSA Signature with SHA-1 Digest</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 0A 01 01</key>
+	<string>PKCS-12 Key Bag</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 0A 01 02</key>
+	<string>PKCS-12 PKCS-8 Shrouded Key Bag</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 0A 01 03</key>
+	<string>PKCS-12 Certificate Bag</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 0A 01 04</key>
+	<string>PKCS-12 CRL Bag</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 0A 01 05</key>
+	<string>PKCS-12 Secret Bag</string>
+	<key>06 0B 2A 86 48 86 F7 0D 01 0C 0A 01 06</key>
+	<string>PKCS-12 Safe Contents Bag</string>
+	<key>06 0B 2B 06 01 04 01 81 3C 07 01 01 01</key>
+	<string>IDEA-ECB</string>
+	<key>06 0B 2B 06 01 04 01 81 3C 07 01 01 02</key>
+	<string>IDEA-CBC</string>
+	<key>06 0B 2B 06 01 04 01 81 3C 07 01 01 03</key>
+	<string>IDEA-CFB</string>
+	<key>06 0B 2B 06 01 04 01 81 3C 07 01 01 04</key>
+	<string>IDEA-OFB</string>
+	<key>06 0B 2B 06 01 04 01 82 37 0A 03 03 01</key>
+	<string>Serialized Encryption</string>
+	<key>06 0B 2B 06 01 04 01 82 37 0A 03 04 01</key>
+	<string>Encrypted File Systems Recovery</string>
+	<key>06 0B 2B 06 01 04 01 97 55 01 02 01 01</key>
+	<string>ElGamal with SHA-1</string>
+	<key>06 0B 2B 06 01 04 01 97 55 01 02 01 02</key>
+	<string>ElGamal with RIPEMD-160</string>
+	<key>06 0B 2B 06 01 04 01 97 55 2A D7 24 01</key>
+	<string>MPEG-1</string>
+	<key>06 0B 60 86 48 01 65 02 01 03 0B 03 00</key>
+	<string>genserTagSetName</string>
+	<key>06 0B 60 86 48 01 65 02 01 03 0D 00 01</key>
+	<string>capcoTagSetName1</string>
+	<key>06 0B 60 86 48 01 65 02 01 03 0D 00 02</key>
+	<string>capcoTagSetName2</string>
+	<key>06 0B 60 86 48 01 65 02 01 03 0D 00 03</key>
+	<string>capcoTagSetName3</string>
+	<key>06 0B 60 86 48 01 65 02 01 03 0D 00 04</key>
+	<string>capcoTagSetName4</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 01 00</key>
+	<string>TSP1 SecurityCategories</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 01 00 00</key>
+	<string>TSP1 Tag Set Zero</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 01 00 01</key>
+	<string>TSP1 Tag Set One</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 01 00 02</key>
+	<string>TSP1 Tag Set Two</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 02 00</key>
+	<string>TSP2 Security Categories</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 02 00 00</key>
+	<string>TSP2 Tag Set Zero</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 02 00 01</key>
+	<string>TSP2 Tag Set One</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 02 00 02</key>
+	<string>TSP2 Tag Set Two</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 03 00</key>
+	<string>Kafka Security Categories</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 03 00 01</key>
+	<string>Kafka Tag Set Name 1</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 03 00 02</key>
+	<string>Kafka Tag Set Name 2</string>
+	<key>06 0B 60 86 48 01 65 02 01 0C 00 03 00 03</key>
+	<string>Kafka Tag Set Name 3</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 16</key>
+	<string>DES-CBC IV8</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 17</key>
+	<string>DES-CBC Pad IV8</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 18</key>
+	<string>DES-EDE2-CBC IV8</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 19</key>
+	<string>DES-EDE2-CBC Pad IV8</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 1A</key>
+	<string>DES-EDE3-CBC IV8</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 1B</key>
+	<string>DES-EDE3-CBC Pad IV8</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 1C</key>
+	<string>RC5-CBC Pad</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 1D</key>
+	<string>MD2 with RSA Encryption BSAFE1</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 1E</key>
+	<string>MD5 with RSA Encryption BSAFE1</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 1F</key>
+	<string>SHA-1 with RSA Encryption BSAFE1</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 20</key>
+	<string>LM Digest</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 28</key>
+	<string>MD2</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 32</key>
+	<string>MD5</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 33</key>
+	<string>IKE HMAC with SHA1-RSA</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 34</key>
+	<string>IKE HMAC with MD5-RSA</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 45</key>
+	<string>RC2-CBC Pad</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 52</key>
+	<string>SHA-1</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 5C</key>
+	<string>RC2-CBC BSAFE1</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 5F</key>
+	<string>MD4</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 81 02</key>
+	<string>MD4 Packet</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 02 08 81 05</key>
+	<string>Novell Obfuscate-1</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 09 04 01</key>
+	<string>Security Attributes</string>
+	<key>06 0B 60 86 48 01 86 F8 37 01 09 04 02</key>
+	<string>Reliance Limit</string>
+	<key>06 0B 60 86 48 01 86 F8 45 01 07 01 01</key>
+	<string>Verisign Policy Identifier</string>
+	<key>06 0B 60 86 48 01 86 F8 4D 02 01 01 01</key>
+	<string>X.509v3 Certificate Extensions</string>
+	<key>06 0B 60 86 48 01 86 F8 4D 02 02 05 51</key>
+	<string>SHA-1 with ECDSA</string>
+	<key>06 0C 2A 83 08 8C 9A 4B 3D 01 01 01 01</key>
+	<string>MISTY1-CBC</string>
+	<key>06 0C 2B 06 01 04 01 97 55 58 59 5A 5A 59</key>
+	<string>XYZZY Policy Identifier</string>
+	<key>06 0C 60 86 48 01 86 F8 37 01 02 08 81 03</key>
+	<string>RSA Encryption BSAFE1</string>
+	<key>06 0C 60 86 48 01 86 F8 37 01 02 08 81 04</key>
+	<string>NW Password</string>
+	<key>06 0C 60 86 48 01 86 F8 45 01 07 01 01 01</key>
+	<string>Verisign CPS v1 Notice</string>
+	<key>06 0C 60 86 48 01 86 F8 45 01 07 01 01 02</key>
+	<string>Verisign CPS v1 NSI</string>
+	<key>06 0C 60 86 48 01 86 F8 4D 02 01 01 01 32</key>
+	<string>X.509v3 Private Certificate Extensions</string>
+	<key>06 0D 60 86 48 01 86 F8 4D 02 01 01 01 32 01</key>
+	<string>Subject Signature Bitmap</string>
+	<key>06 0D 60 86 48 01 86 F8 4D 02 01 01 01 32 02</key>
+	<string>Subject Picture</string>
+	<key>06 0D 60 86 48 01 86 F8 4D 02 01 01 01 32 03</key>
+	<string>Subject Email Address</string>
+	<key>06 0D 60 86 48 01 86 F8 4D 02 01 01 01 32 04</key>
+	<string>Use Exemptions</string>
+</dict>
+</plist>

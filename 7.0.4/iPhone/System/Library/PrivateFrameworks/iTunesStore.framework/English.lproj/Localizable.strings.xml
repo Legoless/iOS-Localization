@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTH_FAILED</key>
+	<string>Cannot Sign In</string>
+	<key>BUY</key>
+	<string>Buy</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANNOT_PLAY_ON_IPAD</key>
+	<string>This item cannot be played on this iPad</string>
+	<key>CANNOT_PLAY_ON_IPHONE</key>
+	<string>This item cannot be played on this iPhone</string>
+	<key>CANNOT_PLAY_ON_IPOD</key>
+	<string>This item cannot be played on this iPod</string>
+	<key>CANNOT_PLAY_SPECIFIC_ON_IPAD_FORMAT</key>
+	<string>“%@” cannot be played on this iPad</string>
+	<key>CANNOT_PLAY_SPECIFIC_ON_IPHONE_FORMAT</key>
+	<string>“%@” cannot be played on this iPhone</string>
+	<key>CANNOT_PLAY_SPECIFIC_ON_IPOD_FORMAT</key>
+	<string>“%@” cannot be played on this iPod</string>
+	<key>CREATE_NEW_ACCOUNT</key>
+	<string>Create New Apple ID</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>DOWNLOAD_FAILED_BODY_FORMAT</key>
+	<string>“%@” could not be downloaded at this time.</string>
+	<key>DOWNLOAD_FAILED_BODY_FORMAT_ONE</key>
+	<string>“%@” and 1 other item could not be downloaded at this time.</string>
+	<key>DOWNLOAD_FAILED_BODY_FORMAT_PLURAL</key>
+	<string>“%@” and %d other items could not be downloaded at this time.</string>
+	<key>DOWNLOAD_FAILED_DONE</key>
+	<string>Done</string>
+	<key>DOWNLOAD_FAILED_RETRY</key>
+	<string>Retry</string>
+	<key>DOWNLOAD_FAILED_TITLE_APPLICATION</key>
+	<string>Unable to Download App</string>
+	<key>DOWNLOAD_FAILED_TITLE_APPLICATION_PLURAL</key>
+	<string>Unable to Download Apps</string>
+	<key>DOWNLOAD_FAILED_TITLE_AUDIOBOOK</key>
+	<string>Unable to Download Audiobook</string>
+	<key>DOWNLOAD_FAILED_TITLE_AUDIOBOOK_PLURAL</key>
+	<string>Unable to Download Audiobooks</string>
+	<key>DOWNLOAD_FAILED_TITLE_GENERIC</key>
+	<string>Unable to Download Item</string>
+	<key>DOWNLOAD_FAILED_TITLE_GENERIC_PLURAL</key>
+	<string>Unable to Download Items</string>
+	<key>DOWNLOAD_FAILED_TITLE_MOVIE</key>
+	<string>Unable to Download Movie</string>
+	<key>DOWNLOAD_FAILED_TITLE_MOVIE_PLURAL</key>
+	<string>Unable to Download Movies</string>
+	<key>DOWNLOAD_FAILED_TITLE_MUSIC_VIDEO</key>
+	<string>Unable to Download
+Music Video</string>
+	<key>DOWNLOAD_FAILED_TITLE_MUSIC_VIDEO_PLURAL</key>
+	<string>Unable to Download
+Music Videos</string>
+	<key>DOWNLOAD_FAILED_TITLE_PODCAST</key>
+	<string>Unable to Download Podcast</string>
+	<key>DOWNLOAD_FAILED_TITLE_PODCAST_PLURAL</key>
+	<string>Unable to Download Podcasts</string>
+	<key>DOWNLOAD_FAILED_TITLE_RINGTONE</key>
+	<string>Unable to Download Ringtone</string>
+	<key>DOWNLOAD_FAILED_TITLE_RINGTONE_PLURAL</key>
+	<string>Unable to Download Ringtones</string>
+	<key>DOWNLOAD_FAILED_TITLE_SONG</key>
+	<string>Unable to Download Song</string>
+	<key>DOWNLOAD_FAILED_TITLE_SONG_PLURAL</key>
+	<string>Unable to Download Songs</string>
+	<key>DOWNLOAD_FAILED_TITLE_TONE</key>
+	<string>Unable to Download Tone</string>
+	<key>DOWNLOAD_FAILED_TITLE_TONE_PLURAL</key>
+	<string>Unable to Download Tones</string>
+	<key>DOWNLOAD_FAILED_TITLE_TV</key>
+	<string>Unable to Download Episode</string>
+	<key>DOWNLOAD_FAILED_TITLE_TV_PLURAL</key>
+	<string>Unable to Download Episodes</string>
+	<key>DOWNLOAD_FATAL_MESSAGE</key>
+	<string>“%@” cannot be downloaded.  Please try again later.</string>
+	<key>DOWNLOAD_FATAL_MESSAGE_ONE</key>
+	<string>“%@” and one other item cannot be downloaded.  Please try again later.</string>
+	<key>DOWNLOAD_FATAL_MESSAGE_PLURAL</key>
+	<string>“%@” and %d other items cannot be downloaded.  Please try again later.</string>
+	<key>EMAIL</key>
+	<string>email</string>
+	<key>ENTER_PASSWORD</key>
+	<string>Apple ID Password</string>
+	<key>EXPIRING_MESSAGE_PAIR</key>
+	<string>The licenses for “%@” and another app will expire in %d days.</string>
+	<key>EXPIRING_MESSAGE_PLURAL</key>
+	<string>The licenses for “%@” and %d other applications will expire in %d days.</string>
+	<key>EXPIRING_MESSAGE_PLURAL_ANON</key>
+	<string>The licenses for %d applications will expire in %d days.</string>
+	<key>EXPIRING_MESSAGE_SINGLE</key>
+	<string>The license for “%@” will expire in %d days.</string>
+	<key>EXPIRING_MESSAGE_SINGLE_ANON</key>
+	<string>The license for one app will expire in %d days.</string>
+	<key>EXPIRING_OK</key>
+	<string>OK</string>
+	<key>EXPIRING_TITLE_PLURAL</key>
+	<string>Licenses Expiring</string>
+	<key>EXPIRING_TITLE_SINGLE</key>
+	<string>License Expiring</string>
+	<key>FORGOT_PASSWORD</key>
+	<string>iForgot</string>
+	<key>GENERIC_PURCHASE_ERROR</key>
+	<string>Unable to purchase</string>
+	<key>INCOMPATIBLE_PURCHASE_BODY_IPAD</key>
+	<string>“%@” is not compatible with this iPad.</string>
+	<key>INCOMPATIBLE_PURCHASE_BODY_IPHONE</key>
+	<string>“%@” is not compatible with this iPhone.</string>
+	<key>INCOMPATIBLE_PURCHASE_BODY_IPOD</key>
+	<string>“%@” is not compatible with this iPod.</string>
+	<key>INCOMPATIBLE_PURCHASE_TITLE</key>
+	<string>Unable to Purchase</string>
+	<key>INSECURE_AUTH</key>
+	<string>Password will be sent in the clear</string>
+	<key>INSTALL_FAILED_BODY_FORMAT</key>
+	<string>“%@” could not be installed at this time.</string>
+	<key>INSTALL_FAILED_BODY_FORMAT_ONE</key>
+	<string>“%@” and 1 other application could not be installed at this time.</string>
+	<key>INSTALL_FAILED_BODY_FORMAT_PLURAL</key>
+	<string>“%@” and %d other applications could not be installed at this time.</string>
+	<key>ITUNES_STORE</key>
+	<string>iTunes Store</string>
+	<key>MICRO_PAYMENTS_RESTRICTED_BODY</key>
+	<string>In-app purchases are not allowed.</string>
+	<key>MICRO_PAYMENTS_RESTRICTED_TITLE</key>
+	<string>Purchase</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>password</string>
+	<key>RESTORE_CANCEL_RETRY_BODY</key>
+	<string>Not all purchased apps and media have been downloaded. Would you like to download these purchases, or delete them along with any app data?</string>
+	<key>RESTORE_CANCEL_RETRY_DELETE_BUTTON</key>
+	<string>Delete</string>
+	<key>RESTORE_CANCEL_RETRY_DOWNLOAD_BUTTON</key>
+	<string>Download</string>
+	<key>RESTORE_CANCEL_RETRY_TITLE</key>
+	<string>Download Remaining Purchases?</string>
+	<key>RESTORE_ITEMS_NOT_AVAILABLE_BODY</key>
+	<string>Some items could not be downloaded from the Store. If they are on your computer, you can restore them by syncing with iTunes.</string>
+	<key>RESTORE_ITEMS_NOT_AVAILABLE_TITLE</key>
+	<string>Restore Incomplete</string>
+	<key>RETRY</key>
+	<string>Retry</string>
+	<key>REVIEW_POST_FAILED_ERROR</key>
+	<string>Unable to post review.  Please try again later.</string>
+	<key>REVOKED_MESSAGE_PAIR</key>
+	<string>The licenses for “%@” and “%@” were revoked.</string>
+	<key>REVOKED_MESSAGE_PAIR_ANON</key>
+	<string>The licenses for “%@” and another app were revoked.</string>
+	<key>REVOKED_MESSAGE_PLURAL</key>
+	<string>The licenses for “%@” and %d other applications were revoked.</string>
+	<key>REVOKED_MESSAGE_PLURAL_ANON</key>
+	<string>The licenses for %d applications were revoked.</string>
+	<key>REVOKED_MESSAGE_SINGLE</key>
+	<string>The license for “%@” was revoked.</string>
+	<key>REVOKED_MESSAGE_SINGLE_ANON</key>
+	<string>The license for one app was revoked.</string>
+	<key>REVOKED_OK</key>
+	<string>OK</string>
+	<key>REVOKED_TITLE_PLURAL</key>
+	<string>Licenses Revoked</string>
+	<key>REVOKED_TITLE_SINGLE</key>
+	<string>License Revoked</string>
+	<key>SECURE_AUTH</key>
+	<string>Password will be sent securely</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SPECIFIC_PURCHASE_ERROR_BODY</key>
+	<string>“%@” could not be purchased at this time.  Please try again later.</string>
+	<key>SPECIFIC_PURCHASE_ERROR_BODY_PLURAL</key>
+	<string>“%@” and %d other items could not be purchased at this time.  Please try again later.</string>
+	<key>SPECIFIC_PURCHASE_ERROR_BODY_PLUS_ONE</key>
+	<string>“%@” and 1 other item could not be purchased at this time.  Please try again later.</string>
+	<key>SPECIFIC_PURCHASE_ERROR_TITLE</key>
+	<string>Unable to Purchase</string>
+	<key>UNTRUSTED_CERT_BODY</key>
+	<string>A secure connection could not be established.  Please check your Date &amp; Time settings.</string>
+	<key>UNTRUSTED_CERT_TITLE</key>
+	<string>Cannot connect to the Store</string>
+	<key>USERNAME</key>
+	<string>username</string>
+	<key>USE_EXISTING_ACCOUNT</key>
+	<string>Use Existing Apple ID</string>
+</dict>
+</plist>

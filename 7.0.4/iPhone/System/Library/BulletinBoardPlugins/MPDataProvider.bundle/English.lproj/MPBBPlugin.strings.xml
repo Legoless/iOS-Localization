@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BLOCKED_CALLER</key>
+	<string>No Caller ID</string>
+	<key>CLOSE_BUTTON</key>
+	<string>Close</string>
+	<key>LISTEN_BUTTON</key>
+	<string>Listen</string>
+	<key>MISSED_BLOCKED_CALL_FULL_UNLOCK_ACTION</key>
+	<string>slide to view</string>
+	<key>MISSED_BLOCKED_CALL_UNLOCK_ACTION</key>
+	<string>view</string>
+	<key>MISSED_CALL</key>
+	<string>Missed Call</string>
+	<key>MISSED_CALL_BANNER_FORMAT</key>
+	<string>%@ missed calls</string>
+	<key>MISSED_CALL_FULL_UNLOCK_ACTION</key>
+	<string>slide to call</string>
+	<key>MISSED_CALL_UNLOCK_ACTION</key>
+	<string>call</string>
+	<key>MISSED_FACETIME_AUDIO_BANNER_FORMAT</key>
+	<string>%@ missed FaceTime Audio calls</string>
+	<key>MISSED_FACETIME_AUDIO_CALL</key>
+	<string>Missed FaceTime Audio call</string>
+	<key>MISSED_FACETIME_AUDIO_FULL_UNLOCK_ACTION</key>
+	<string>slide to FaceTime Audio</string>
+	<key>MISSED_FACETIME_AUDIO_UNLOCK_ACTION</key>
+	<string>FaceTime Audio</string>
+	<key>MISSED_FACETIME_BANNER_FORMAT</key>
+	<string>%@ missed FaceTime calls</string>
+	<key>MISSED_FACETIME_CALL</key>
+	<string>Missed FaceTime call</string>
+	<key>MISSED_FACETIME_FULL_UNLOCK_ACTION</key>
+	<string>slide to FaceTime</string>
+	<key>MISSED_FACETIME_UNLOCK_ACTION</key>
+	<string>FaceTime</string>
+	<key>NEW_VOICEMAIL_MESSAGES_WITHOUT_COUNT</key>
+	<string>New voicemail(s)</string>
+	<key>NEW_VOICEMAIL_MESSAGES_WITH_COUNT</key>
+	<string>%d new voicemails</string>
+	<key>SINGLE_NEW_VOICEMAIL_MESSAGE</key>
+	<string>1 new voicemail</string>
+	<key>UNKNOWN_CALLER</key>
+	<string>Unknown</string>
+	<key>VOICEMAIL</key>
+	<string>Voicemail</string>
+	<key>VOICEMAIL_FULL_UNLOCK_ACTION</key>
+	<string>slide to listen</string>
+	<key>VOICEMAIL_MESSAGES_BANNER_FORMAT</key>
+	<string>%@ new voicemails</string>
+	<key>VOICEMAIL_UNLOCK_ACTION</key>
+	<string>listen</string>
+</dict>
+</plist>

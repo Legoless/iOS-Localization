@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENTER_PASSCODE_SUBTITLE_TOUCHID</key>
+	<string>Enter a passcode to use when Touch ID is not available.</string>
+	<key>IDENTITY_NAME_FORMAT</key>
+	<string>Finger %@</string>
+	<key>SETUP_TOUCHID</key>
+	<string>Set Up Now</string>
+	<key>SETUP_TOUCHID_LATER</key>
+	<string>Set Up Later</string>
+	<key>SETUP_TOUCHID_PURCHASES_LATER</key>
+	<string>Set Up Later</string>
+	<key>TOUCHID_DESCRIPTION</key>
+	<string>Touch ID allows you to use your fingerprint in place of your passcode or Apple ID password for purchases.</string>
+	<key>TOUCHID_PURCHASES_DESCRIPTION</key>
+	<string>Use your fingerprint instead of your Apple ID password when buying from the iTunes &amp; App Store.</string>
+	<key>TOUCHID_PURCHASES_TITLE</key>
+	<string>Touch ID for Purchases</string>
+	<key>TOUCHID_TITLE</key>
+	<string>Touch ID</string>
+	<key>USE_TOUCHID_FOR_PURCHASES</key>
+	<string>Use Touch ID for Purchases</string>
+</dict>
+</plist>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCCOUNT_ACCESS_WRITE</key>
+	<string>post %@</string>
+	<key>ACCOUNT_ACCESS_ALLOW_BUTTON_TITLE</key>
+	<string>OK</string>
+	<key>ACCOUNT_ACCESS_BASIC_MESSAGE</key>
+	<string>“%@” would like to access your basic profile info and list of friends.</string>
+	<key>ACCOUNT_ACCESS_DO_NOT_ALLOW_BUTTON_TITLE</key>
+	<string>Don’t Allow</string>
+	<key>ACCOUNT_ACCESS_EXTENDED_READ</key>
+	<string>access %@</string>
+	<key>ACCOUNT_ACCESS_EXTENDED_READ_FRIENDS</key>
+	<string>your friends’ %@</string>
+	<key>ACCOUNT_ACCESS_EXTENDED_READ_FRIENDS_MULTIPLE</key>
+	<string>your friends’ %@ and %@</string>
+	<key>ACCOUNT_ACCESS_EXTENDED_READ_MULTIPLE</key>
+	<string>access %@ as well as %@</string>
+	<key>ACCOUNT_ACCESS_EXTENDED_READ_USER</key>
+	<string>your %@</string>
+	<key>ACCOUNT_ACCESS_EXTENDED_READ_USER_MULTIPLE</key>
+	<string>your %@ and %@</string>
+	<key>ACCOUNT_ACCESS_MANAGE</key>
+	<string>manage %@</string>
+	<key>ACCOUNT_ACCESS_MANAGE_MULTIPLE</key>
+	<string>manage %@ and %@</string>
+	<key>ACCOUNT_ACCESS_ONE_PERMISSION_FORMAT</key>
+	<string>“%@” would like to %@ on your behalf.</string>
+	<key>ACCOUNT_ACCESS_ONE_PERMISSION_SHORT_FORMAT</key>
+	<string>“%@” would like to %@.</string>
+	<key>ACCOUNT_ACCESS_REQUEST_TITLE</key>
+	<string>Facebook</string>
+	<key>ACCOUNT_ACCESS_THREE_PERMISSION_FORMAT</key>
+	<string>“%@” would like to %@. It would also like to %@ and %@ on your behalf.</string>
+	<key>ACCOUNT_ACCESS_TWO_PERMISSION_FORMAT</key>
+	<string>“%@” would like to %@, and %@ on your behalf.</string>
+	<key>ACCOUNT_ACCESS_UNKNOWN_ADDITIONAL_FORMAT</key>
+	<string>In addition, it would like to %@.</string>
+	<key>ACCOUNT_ACCESS_UNKNOWN_FORMAT</key>
+	<string>“%@” would like to %@.</string>
+	<key>FACEBOOK_MANAGE_PERMISSION_ADS_MANAGEMENT</key>
+	<string>ads</string>
+	<key>FACEBOOK_MANAGE_PERMISSION_CREATE_EVENT</key>
+	<string>events</string>
+	<key>FACEBOOK_MANAGE_PERMISSION_MANAGE_FRIENDLISTS</key>
+	<string>custom friend lists</string>
+	<key>FACEBOOK_MANAGE_PERMISSION_MANAGE_NOTIFICATIONS</key>
+	<string>notifications</string>
+	<key>FACEBOOK_MANAGE_PERMISSION_MANAGE_PAGES</key>
+	<string>Pages</string>
+	<key>FACEBOOK_MANAGE_PERMISSION_RSVP_EVENT</key>
+	<string>events</string>
+	<key>FACEBOOK_MANAGE_PERMISSION_XMPP_LOGIN</key>
+	<string>messages</string>
+	<key>FACEBOOK_READ_PERMISSION_BASIC_PROFILE</key>
+	<string>basic profile info</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS</key>
+	<string>list of friends</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_ABOUT_ME</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_ACTIVITIES</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_BIRTHDAY</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_CHECKINS</key>
+	<string>checkins</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_EDUCATION_HISTORY</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_EVENTS</key>
+	<string>events</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_GROUPS</key>
+	<string>groups</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_HOMETOWN</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_INTERESTS</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_LIKES</key>
+	<string>likes</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_LOCATION</key>
+	<string>current cities</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_NOTES</key>
+	<string>notes</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_ONLINE_PRESENCE</key>
+	<string>chat statuses</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_PHOTOS</key>
+	<string>photos</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_QUESTIONS</key>
+	<string>questions</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_RELATIONSHIPS</key>
+	<string>relationships</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_RELATIONSHIP_DETAILS</key>
+	<string>relationship interests</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_RELIGION_POLITICS</key>
+	<string>religious and political views</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_STATUS</key>
+	<string>status updates</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_SUBSCRIPTIONS</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_VIDEOS</key>
+	<string>videos</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_WEBSITE</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_FRIENDS_WORK_HISTORY</key>
+	<string>profiles</string>
+	<key>FACEBOOK_READ_PERMISSION_READ_FRIENDLISTS</key>
+	<string>custom friend lists</string>
+	<key>FACEBOOK_READ_PERMISSION_READ_INSIGHTS</key>
+	<string>insights</string>
+	<key>FACEBOOK_READ_PERMISSION_READ_MAILBOX</key>
+	<string>messages</string>
+	<key>FACEBOOK_READ_PERMISSION_READ_REQUESTS</key>
+	<string>friend requests</string>
+	<key>FACEBOOK_READ_PERMISSION_READ_STREAM</key>
+	<string>News Feed</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_ABOUT_ME</key>
+	<string>profile</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_ACTIVITIES</key>
+	<string>profile</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_CHECKINS</key>
+	<string>checkins</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_EDUCATION_HISTORY</key>
+	<string>profile</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_EVENTS</key>
+	<string>events</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_GROUPS</key>
+	<string>groups</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_HOMETOWN</key>
+	<string>profile</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_INTERESTS</key>
+	<string>profile</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_LIKES</key>
+	<string>likes</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_NOTES</key>
+	<string>notes</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_ONLINE_PRESENCE</key>
+	<string>chat status</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_PHOTOS</key>
+	<string>photos</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_QUESTIONS</key>
+	<string>questions</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_RELATIONSHIPS</key>
+	<string>relationships</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_RELATIONSHIP_DETAILS</key>
+	<string>relationship interests</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_RELIGION_POLITICS</key>
+	<string>religious and political views</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_STATUS</key>
+	<string>status updates</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_SUBSCRIPTIONS</key>
+	<string>profile</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_VIDEOS</key>
+	<string>videos</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_WEBSITE</key>
+	<string>profile</string>
+	<key>FACEBOOK_READ_PERMISSION_USER_WORK_HISTORY</key>
+	<string>profile</string>
+	<key>POST_PRIVATELY</key>
+	<string>privately</string>
+	<key>POST_PUBLICALLY</key>
+	<string>publicly</string>
+	<key>POST_TO_FRIENDS</key>
+	<string>to your friends</string>
+	<key>WORD_LIST_SEPARATOR</key>
+	<string>, </string>
+</dict>
+</plist>

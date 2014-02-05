@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTH_NOT_SUPPORTED_FORMAT</key>
+	<string>The %1$@ server “%2$@” doesn’t support %3$@ authentication. Please check your account settings and try again.</string>
+	<key>BAD_CHARSET_FORMAT</key>
+	<string>Some characters in your message could not be converted to the “%@” text encoding. Please choose a different entry from the “Text Encoding” menu.</string>
+	<key>BAD_CHARSET_TITLE</key>
+	<string>Invalid Text Encoding</string>
+	<key>CANNOT_DECODE_MULTIPART_MESSAGE</key>
+	<string>This message cannot be displayed because of the way it is formatted. Ask the sender to send it again using a different format or email program.
+
+%1$@/%2$@</string>
+	<key>CASTLE_FULL_NAME_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>CASTLE_SMTP_SERVER</key>
+	<string>iCloud SMTP Server</string>
+	<key>CONNECTION_FAILED</key>
+	<string>The mail server “%@” is not responding. Verify that you have entered the correct account info in Mail settings.</string>
+	<key>CONNECTION_REFUSED</key>
+	<string>The server “%1$@” refused to allow a connection on port %2$d.</string>
+	<key>CONNECTION_TIMED_OUT</key>
+	<string>The connection to the server “%1$@” on port %2$d timed out.</string>
+	<key>CONNECT_FAILED_NO_REASON_FORMAT</key>
+	<string>There may be a problem with the mail server or network. Check the settings for account “%@” or try again.</string>
+	<key>DELETE_FAILED_FORMAT</key>
+	<string>Unable to delete “%@”.</string>
+	<key>DELETING_ACCOUNT_FORMAT</key>
+	<string>Deleting account “%@”</string>
+	<key>DISABLING_ACCOUNT_TASK_NAME_FORMAT</key>
+	<string>Disabling account “%@”</string>
+	<key>DONT_KNOW_SERVICE_PORT</key>
+	<string>Can’t determine port to use for the TCP/IP service “%@”.</string>
+	<key>DOWNLOADABLE_STATUS</key>
+	<string>Tap to Download</string>
+	<key>DOWNLOADING_STATUS</key>
+	<string>Downloading</string>
+	<key>DOWNLOADING_STATUS_FORMAT</key>
+	<string>Downloading %1$@ of %2$@</string>
+	<key>DUP_ACCOUNT_DIFFERENT_TYPES_FORMAT</key>
+	<string>The account “%@” already has this hostname and username, but it is of a different type.</string>
+	<key>DUP_ACCOUNT_FORMAT</key>
+	<string>The account “%@” already has this hostname and username.</string>
+	<key>DUP_ACCOUNT_TITLE</key>
+	<string>Duplicate Account</string>
+	<key>ERROR_TITLE</key>
+	<string>Error</string>
+	<key>FAILED_FETCH_TITLE</key>
+	<string>Cannot Get Mail</string>
+	<key>FAILED_LOGIN</key>
+	<string>The user name or password for “%@” is incorrect.</string>
+	<key>FAILED_SEND</key>
+	<string>Check the account settings for the outgoing server “%@”.</string>
+	<key>FAILED_SEND_SSL_NEEDED</key>
+	<string>Check the SSL setting for the outgoing server “%@”.</string>
+	<key>FAILED_SEND_TITLE</key>
+	<string>Cannot Send Mail</string>
+	<key>FORWARDED_MESSAGE_PREFIX</key>
+	<string>Begin forwarded message:
+
+</string>
+	<key>GMAIL_DELIVERY_HOSTNAME</key>
+	<string>Gmail SMTP Server</string>
+	<key>HOST_UNREACHABLE</key>
+	<string>The server “%1$@” cannot be contacted on port %2$d.</string>
+	<key>IMAP_COMMAND_FAILED_FORMAT1</key>
+	<string>IMAP command “%@” failed.</string>
+	<key>IMAP_COMPACT_FAILED</key>
+	<string>Mail was unable to remove the deleted messages in the mailbox “%1$@” on server “%2$@”.</string>
+	<key>IMAP_OPEN_FAILED_MSG_FORMAT</key>
+	<string>Mail was unable to open this mailbox on the server “%@”.</string>
+	<key>IMAP_OPEN_FAILED_TITLE_FORMAT</key>
+	<string>Unable to open “%@”</string>
+	<key>IMAP_SERVER_ALERT_FORMAT</key>
+	<string>The IMAP server for “%1$@” wishes to alert you to the following:
+
+%2$@</string>
+	<key>IMAP_UNAVAILABLE_SERVER</key>
+	<string>%@ is currently unavailable.</string>
+	<key>INTERNAL_DELIVERY_ERROR_FORMAT</key>
+	<string>This message couldn’t be delivered because the following internal error occurred: %@</string>
+	<key>INVALID_ACCOUNT_DIR_MESSAGE_FORMAT</key>
+	<string>The account path %1$@ is already being used by the account “%2$@”</string>
+	<key>INVALID_ACCOUNT_NAME_MESSAGE_FORMAT</key>
+	<string>You already have an account named “%@”.</string>
+	<key>INVALID_DIRECTORY_TITLE</key>
+	<string>Invalid Directory</string>
+	<key>INVALID_HOST_MESSAGE_FORMAT</key>
+	<string>The “Incoming Mail Server” field cannot be empty.</string>
+	<key>INVALID_HOST_TITLE</key>
+	<string>Invalid Incoming Mail Server</string>
+	<key>INVALID_PASSWORD_FORMAT</key>
+	<string>Enter the password for the %1$@ account “%2$@”</string>
+	<key>INVALID_PASSWORD_TITLE</key>
+	<string>Password Incorrect</string>
+	<key>INVALID_USER_MESSAGE</key>
+	<string>The “User Name” field cannot be empty.</string>
+	<key>INVALID_USER_TITLE</key>
+	<string>Invalid User Name</string>
+	<key>MAILBOX_EXISTS_FORMAT</key>
+	<string>The mailbox “%@” already exists.</string>
+	<key>MAILBOX_NAME_INCLUDES_PATH_SEPARATOR</key>
+	<string>Mailbox names may not include “%@”.</string>
+	<key>MAILBOX_NAME_INCLUDES_SPECIAL_CHARACTERS</key>
+	<string>This account does not allow mailbox names containing “%@”.</string>
+	<key>MESSAGE_AUTH_APOP</key>
+	<string>Authenticated POP (APOP)</string>
+	<key>MESSAGE_AUTH_ATOKEN</key>
+	<string>Apple Token</string>
+	<key>MESSAGE_AUTH_CRAM_MD5</key>
+	<string>MD5 Challenge-Response</string>
+	<key>MESSAGE_AUTH_GMAIL_CLIENTTOKEN</key>
+	<string>Gmail Client Token</string>
+	<key>MESSAGE_AUTH_NTLM</key>
+	<string>NTLM</string>
+	<key>MESSAGE_AUTH_PLAIN_TEXT</key>
+	<string>Password</string>
+	<key>MF_FAILED_SEND_INACTIVE_ACCOUNT</key>
+	<string>This account is inactive. Check the settings in Settings &gt; Mail, Contacts, Calendars.</string>
+	<key>MF_FAILED_SEND_MESSAGE_REJECTED</key>
+	<string>The message was rejected by the server.</string>
+	<key>MF_FAILED_SEND_MESSAGE_TOO_LARGE</key>
+	<string>The message was rejected by the server because it is too large.</string>
+	<key>MF_FAILED_SEND_NO_SERVER</key>
+	<string>Check the settings for the outgoing servers in Settings &gt; Mail, Contacts, Calendars.</string>
+	<key>MF_SMTP_RECIPIENT_INVALID_ADDRESS</key>
+	<string>The recipient “%@” was rejected by the server because it is not a valid email address.</string>
+	<key>MF_SMTP_RECIPIENT_RELAYING_NOT_ALLOWED</key>
+	<string>The recipient “%@” was rejected by the server because it does not allow relaying.</string>
+	<key>MF_SMTP_RECIPIENT_UNKNOWN</key>
+	<string>The recipient “%@” was rejected by the server because the user is unknown.</string>
+	<key>MF_SMTP_SENDING_LIMIT_EXCEEDED</key>
+	<string>Sending the message failed because you exceeded your sending limit.</string>
+	<key>MF_SSL_CERT_VERIFICATION_FAILED_MESSAGE</key>
+	<string>Mail was unable to verify the identity of this server, which has a certificate issued to “%1$@”. The error was:
+
+%2$@
+
+You might be connecting to a computer that is pretending to be “%3$@”, and putting your confidential information at risk.</string>
+	<key>MF_SSL_CONNECTION_FAILURE</key>
+	<string>Mail was unable to connect to server “%1$@” using SSL on port %2$d. Verify that this server supports SSL and that your account settings are correct.</string>
+	<key>MF_YAHOO_ACCOUNT_LOCKED_TITLE</key>
+	<string>Yahoo! Account Locked</string>
+	<key>MF_YAHOO_BAD_CHALLENGE_TITLE</key>
+	<string>Yahoo! Server Unavailable</string>
+	<key>MF_YAHOO_NONEXISTENT_ID_TITLE</key>
+	<string>Yahoo! Account Invalid</string>
+	<key>MF_YAHOO_SERVER_ISSUES_TITLE</key>
+	<string>Server Unavailable</string>
+	<key>MF_YAHOO_SPECIAL_ID_TITLE</key>
+	<string>Verification Required</string>
+	<key>MF_YAHOO_SYSTEM_DOWN_ERROR</key>
+	<string>Please try again later.</string>
+	<key>MF_YAHOO_SYSTEM_DOWN_TITLE</key>
+	<string>Yahoo! Server Unavailable</string>
+	<key>MIME_GENERIC_REMOTE_ENCRYPTION_CERT_MESSAGE</key>
+	<string>An error occurred while retrieving the encryption certificate.</string>
+	<key>MSG_SERVER_ERROR</key>
+	<string>%1$@
+
+The server error encountered was: %2$@</string>
+	<key>NO_OFFLINE_MAILBOX_RENAMING</key>
+	<string>You can’t rename mailboxes while an account is offline.</string>
+	<key>NO_RECIPIENTS</key>
+	<string>This message couldn’t be delivered because you haven't specified any recipients.</string>
+	<key>NO_SMTP_HOST</key>
+	<string>You have not specified an SMTP server in Mail Preferences. You must specify a server before you can send mail.</string>
+	<key>PASSWORD_CANCEL</key>
+	<string>Cancel</string>
+	<key>PASSWORD_CONTINUE</key>
+	<string>Continue</string>
+	<key>PASSWORD_OK</key>
+	<string>OK</string>
+	<key>PASSWORD_PLACEHOLDER</key>
+	<string>Password</string>
+	<key>PASSWORD_REQUIRED_TITLE</key>
+	<string>Password Required</string>
+	<key>POP_BAD_USERNAME_FORMAT</key>
+	<string>POP user name “%@” unrecognized.</string>
+	<key>READONLY_ACCOUNT_DIR_MESSAGE_FORMAT</key>
+	<string>The account path %@ is not writable. Please change the Account Directory field in the Account Options tab to a writable directory</string>
+	<key>RENAME_FAILED</key>
+	<string>Mail was unable to rename “%@”.</string>
+	<key>REPLY_ATTRIBUTION</key>
+	<string>On %1$@, at %2$@, %3$@ wrote:
+
+</string>
+	<key>SMIME_CANT_DECRYPT_MESSAGE</key>
+	<string>This message is encrypted.  Install a profile containing your encryption identity to decrypt this message.</string>
+	<key>SMIME_CANT_DECRYPT_TITLE</key>
+	<string>Unable to decrypt message</string>
+	<key>SMIME_CANT_ENCRYPT_FOR_USER_MESSAGE</key>
+	<string>An error occurred while trying to encrypt your message for “%@”. Verify that you have a valid certificate in your keychain for this address.</string>
+	<key>SMIME_CANT_ENCRYPT_MESSAGE</key>
+	<string>An error occurred while trying to encrypt your message. Verify that you have valid certificates in your keychain for all of the recipients.</string>
+	<key>SMIME_CANT_ENCRYPT_TITLE</key>
+	<string>Unable to Encrypt</string>
+	<key>SMIME_CANT_SIGN_MESSAGE</key>
+	<string>An error occurred while trying to sign this message with a certificate from “%@”. Verify that your certificate for this address is correct, and that its private key is in your keychain.</string>
+	<key>SMIME_CANT_SIGN_OR_ENCRYPT_TITLE</key>
+	<string>Unable to Sign or Encrypt</string>
+	<key>SMIME_CANT_SIGN_TITLE</key>
+	<string>Unable to Sign</string>
+	<key>SMIME_CONFIRM_SIGNATURE_FORMAT</key>
+	<string>Mail was unable to verify the authenticity of the S/MIME certificate provided by “%@”. Messages signed by this user may be coming from a different source.</string>
+	<key>SMIME_DAMAGED_SIG</key>
+	<string>The digital signature for this message is incorrect. The message may have been tampered with or corrupted since being signed by “%@”.</string>
+	<key>SMIME_MISSING_ENCRYPTION_CERT_MESSAGE</key>
+	<string>You can’t send encrypted messages because an encryption certificate for the address “%@” could not be found.</string>
+	<key>SMIME_MISSING_ENCRYPTION_CERT_MESSAGES</key>
+	<string>You don’t have certificates in your keychain matching the following email addresses:
+
+%@
+
+Without certificates, you can't encrypt messages sent to these addresses.</string>
+	<key>SMIME_MISSING_ENCRYPTION_IDENTITY_FORMAT</key>
+	<string>You can’t send encrypted messages because an encryption identity for the address “%@” could not be found.  Go to the Advanced settings for this account to choose an encryption identity.</string>
+	<key>SMIME_MISSING_REMOTE_ENCRYPTION_CERT_MESSAGE</key>
+	<string>An encryption certificate for “%@” could not be found on the server. Without a certificate, you can’t encrypt messages sent to this address.</string>
+	<key>SMIME_MISSING_SIGNING_AND_ENCRYPTION_IDENTITY_FORMAT</key>
+	<string>You can’t send signed or encrypted messages because identities for the address “%@” could not be found.  Go to the Advanced settings for this account to choose signing and encryption identities.</string>
+	<key>SMIME_MISSING_SIGNING_IDENTITY_FORMAT</key>
+	<string>You can’t send signed messages because a signing identity for the address “%@” could not be found.  Go to the Advanced settings for this account to choose a signing identity.</string>
+	<key>SMIME_NO_RECIPIENTS</key>
+	<string>There are no recipients in this message.</string>
+	<key>SMIME_OTHER_ENCRYPTION_CERT_ERROR_MESSAGE</key>
+	<string>An error occurred while searching for an encryption certificate for “%@” in your keychain.</string>
+	<key>SMIME_SIG_TITLE</key>
+	<string>Unable to verify message signature</string>
+	<key>SMIME_UNREADABLE_SIG</key>
+	<string>There was a problem reading the digital signature for this message.</string>
+	<key>SMIME_UNTRUSTED_SIGNING_CERT_MESSAGE</key>
+	<string>You have chosen not to trust the S/MIME certificate used by “%@” to sign this message.</string>
+	<key>SMTP_1_BAD_RECIPIENT</key>
+	<string>The recipient “%@” was rejected by the server.</string>
+	<key>SMTP_BAD_RECIPIENTS</key>
+	<string>The recipients were rejected by the server.</string>
+	<key>SMTP_GENERIC_ERROR_FORMAT</key>
+	<string>An error occurred while delivering this message via the SMTP server “%@”</string>
+	<key>SMTP_INVALID_SENDER_ADDRESS</key>
+	<string>The sender address “%@” was rejected by the server.</string>
+	<key>SMTP_NO_CONNECTION</key>
+	<string>The connection to the outgoing server “%@” failed. Additional Outgoing Mail Servers can be configured in Settings &gt; Mail, Contacts, Calendars.</string>
+	<key>SMTP_RECIPIENTS_UNRECOGNIZED</key>
+	<string>Verify that you have addressed this message correctly. Check your SMTP server settings in Mail Preferences and verify any advanced settings with your system administrator.</string>
+	<key>SMTP_SENDING_CONTENT_FAILED</key>
+	<string>Sending the message content to the server failed.</string>
+	<key>SMTP_SENDING_CONTENT_LATER</key>
+	<string>Mail will try to send the message again later.</string>
+	<key>SMTP_SENDING_FAILED_TITLE</key>
+	<string>Unable to Send Email</string>
+	<key>SSL_ALERT_TITLE_FORMAT</key>
+	<string>Unable to verify SSL server %@</string>
+	<key>SSL_BAD_CERT_FORMAT</key>
+	<string>The format of the certificate for the server is bad.</string>
+	<key>SSL_CERT_CHAIN_INVALID_FORMAT</key>
+	<string>The certificate for the server is invalid.</string>
+	<key>SSL_CERT_EXPIRED_FORMAT</key>
+	<string>The certificate for this server has expired.</string>
+	<key>SSL_GENERIC_READ_ERROR</key>
+	<string>An SSL error occurred while trying to read data from the server “%@”. Verify that this server supports SSL and that your account settings are correct.</string>
+	<key>SSL_GENERIC_WRITE_ERROR</key>
+	<string>An SSL error occurred while trying to provide data to the server “%@”. Verify that this server supports SSL and that your account settings are correct.</string>
+	<key>SSL_HOST_MISMATCH_MESSAGE</key>
+	<string>The certificate hostname does not match “%@”.</string>
+	<key>SSL_NO_ROOT_CERT_FORMAT</key>
+	<string>There is no root certificate for this server.</string>
+	<key>SSL_UNKNOWN_ROOT_CERT_FORMAT</key>
+	<string>The root certificate for this server could not be verified.</string>
+	<key>TLS_FAILED_FORMAT</key>
+	<string>Starting TLS failed on %1$@ server “%2$@”. Please check your account settings and try again.</string>
+	<key>TLS_NOT_SUPPORTED_FORMAT</key>
+	<string>The %1$@ server “%2$@” doesn’t support TLS (SSL) on port %3$u. Please check your account settings and try again.</string>
+	<key>VERIFICATION_REQUIRED_TITLE</key>
+	<string>Verification Required</string>
+	<key>WARNING_TITLE</key>
+	<string>Warning</string>
+	<key>WEBLOGIN_PROMPT_FORMAT</key>
+	<string>Log into your %@ account</string>
+	<key>YAHOO_ACCOUNT_LOCKED_ERROR</key>
+	<string>This account will unlock in 48 hours.</string>
+	<key>YAHOO_ANTIBOT_ERROR</key>
+	<string>Log into your Yahoo! Account at www.yahoo.com</string>
+	<key>YAHOO_ANTIBOT_TITLE</key>
+	<string>Verification Required</string>
+	<key>YAHOO_BAD_CHALLENGE_ERROR</key>
+	<string>Please try again later.</string>
+	<key>YAHOO_DELIVERY_HOSTNAME</key>
+	<string>Yahoo! SMTP Server</string>
+	<key>YAHOO_NONEXISTENT_ID_ERROR</key>
+	<string>Verify your account settings in Mail, Contacts, Calendars.</string>
+	<key>YAHOO_SERVER_ISSUES_ERROR</key>
+	<string>Please try again later.</string>
+	<key>YAHOO_SPECIAL_ID_ERROR</key>
+	<string>Log into your Yahoo! Account at www.yahoo.com</string>
+	<key>YAHOO_UDB_DOWN_ERROR</key>
+	<string>Please try again later.</string>
+	<key>YAHOO_UDB_DOWN_TITLE</key>
+	<string>Yahoo! Account Unavailable</string>
+</dict>
+</plist>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_VERIFICATION_FAILED</key>
+	<string>Unable to verify account information.</string>
+	<key>ACCOUNT_VERIFICATION_FAILED_FORMAT</key>
+	<string>%@ account verification failed</string>
+	<key>ACCOUNT_VERIFIED_FORMAT</key>
+	<string>%@ account verified</string>
+	<key>ADVANCED_SETTINGS</key>
+	<string>Advanced Settings</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_ACCOUNT</key>
+	<string>Delete Account</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DONT_SYNC</key>
+	<string>Don't Sync</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>ENABLED</key>
+	<string>Account</string>
+	<key>HOST</key>
+	<string>Server</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PROFILE_ACCOUNT_DESCRIPTION</key>
+	<string>These settings are installed by the profile '%@'</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SETUP_WITHOUT_SSL_BODY</key>
+	<string>Do you want to try setting up the account without SSL?</string>
+	<key>SETUP_WITHOUT_SSL_TITLE</key>
+	<string>Cannot Connect Using SSL</string>
+	<key>SYNC</key>
+	<string>Sync</string>
+	<key>USERNAME</key>
+	<string>User Name</string>
+	<key>USE_SSL</key>
+	<string>Use SSL</string>
+	<key>VERIFYING</key>
+	<string>Verifying</string>
+</dict>
+</plist>

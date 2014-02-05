@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>#%@# %@</key>
+	<string>#%1$@# %2$@</string>
+	<key>%@ &amp; Others</key>
+	<string>‎%@ &amp; Others</string>
+	<key>%@ - %@</key>
+	<string>%1$@ - %2$@</string>
+	<key>%@ Songs</key>
+	<string>%@ Songs</string>
+	<key>%@ remaining</key>
+	<string>%@ remaining</string>
+	<key>%@ · %@</key>
+	<string>%1$@ · %2$@</string>
+	<key>,
+</key>
+	<string>,
+</string>
+	<key>1 Song</key>
+	<string>1 Song</string>
+	<key>Add to my iTunes wish list</key>
+	<string>Add to my iTunes wish list</string>
+	<key>Albums</key>
+	<string>Albums</string>
+	<key>Artists</key>
+	<string>Artists</string>
+	<key>Audiobooks</key>
+	<string>Audiobooks</string>
+	<key>Based on music by:</key>
+	<string>Based on music by:</string>
+	<key>Compilations</key>
+	<string>Compilations</string>
+	<key>Composers</key>
+	<string>Composers</string>
+	<key>Create</key>
+	<string>Create</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Featured Stations</key>
+	<string>Featured Stations</string>
+	<key>Genius Mixes</key>
+	<string>Genius Mixes</string>
+	<key>Genres</key>
+	<string>Genres</string>
+	<key>Music</key>
+	<string>Music</string>
+	<key>Never Play This Song</key>
+	<string>Never Play This Song</string>
+	<key>Now Playing</key>
+	<string>Now Playing</string>
+	<key>Now Playing tab</key>
+	<string>Now
+Playing</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Part %@ of %@</key>
+	<string>Part %1$@ of %2$@</string>
+	<key>Part %@ of %@: Chapter %@</key>
+	<string>Part %1$@ of %2$@: Chapter %3$@</string>
+	<key>Part %@ of %@: Chapters %@ to %@</key>
+	<string>Part %1$@ of %2$@: Chapters %3$@ to %4$@</string>
+	<key>Play More Like This</key>
+	<string>Play More Like This</string>
+	<key>Playlists</key>
+	<string>Playlists</string>
+	<key>Podcasts</key>
+	<string>Podcasts</string>
+	<key>Radio</key>
+	<string>Radio</string>
+	<key>Remove from iTunes Wish List</key>
+	<string>Remove from iTunes Wish List</string>
+	<key>Repeat all</key>
+	<string>Repeat #all#</string>
+	<key>Repeat off</key>
+	<string>Repeat #off#</string>
+	<key>Repeat song</key>
+	<string>Repeat #song#</string>
+	<key>Resume</key>
+	<string>Resume</string>
+	<key>STATION_UNAVAILABLE_ALERT_BODY_FORMAT</key>
+	<string>%@ is temporarily unavailable. Try again later.</string>
+	<key>STATION_UNAVAILABLE_ALERT_TITLE</key>
+	<string>Station Unavailable</string>
+	<key>Shuffle</key>
+	<string>Shuffle</string>
+	<key>Shuffle all</key>
+	<string>Shuffle #all#</string>
+	<key>Shuffle off</key>
+	<string>Shuffle #off#</string>
+	<key>Songs</key>
+	<string>Songs</string>
+	<key>Start Genius</key>
+	<string>Start Genius</string>
+	<key>Stations List Delimiter</key>
+	<string>, </string>
+	<key>Unknown Album</key>
+	<string>Unknown Album</string>
+	<key>Unknown Artist</key>
+	<string>Unknown Artist</string>
+	<key>Unknown Title</key>
+	<string>Unknown Title</string>
+	<key>iAd</key>
+	<string>iAd</string>
+	<key>iTunes U</key>
+	<string>iTunes U</string>
+</dict>
+</plist>

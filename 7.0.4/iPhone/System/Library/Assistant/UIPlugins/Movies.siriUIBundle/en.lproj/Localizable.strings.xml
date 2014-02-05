@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUY_ON_ITUNES</key>
+	<string>Buy</string>
+	<key>BUY_TICKETS_TITLE</key>
+	<string>Buy Tickets</string>
+	<key>BUY_TICKETS_TITLE_ADULT_PLURAL_FORMAT</key>
+	<string>%1$@ adult</string>
+	<key>BUY_TICKETS_TITLE_ADULT_SINGULAR_FORMAT</key>
+	<string>%1$@ adult</string>
+	<key>BUY_TICKETS_TITLE_CHILD_PLURAL_FORMAT</key>
+	<string>%1$@ child</string>
+	<key>BUY_TICKETS_TITLE_CHILD_SINGULAR_FORMAT</key>
+	<string>%1$@ child</string>
+	<key>BUY_TICKETS_TITLE_ONE_TYPE_FORMAT</key>
+	<string>%1$@</string>
+	<key>BUY_TICKETS_TITLE_PLURAL_FORMAT</key>
+	<string>Buy Tickets (%1$@)</string>
+	<key>BUY_TICKETS_TITLE_SENIOR_PLURAL_FORMAT</key>
+	<string>%1$@ senior</string>
+	<key>BUY_TICKETS_TITLE_SENIOR_SINGULAR_FORMAT</key>
+	<string>%1$@ senior</string>
+	<key>BUY_TICKETS_TITLE_SINGULAR_FORMAT</key>
+	<string>Buy Ticket (%1$@)</string>
+	<key>BUY_TICKETS_TITLE_THREE_TYPES_FORMAT</key>
+	<string>%1$@ %2$@ %3$@</string>
+	<key>BUY_TICKETS_TITLE_TWO_TYPES_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>DIRECTOR_HEADING_TITLE</key>
+	<string>Director</string>
+	<key>DIRECTOR_HEADING_TITLE_MULTIPLE</key>
+	<string>Directors</string>
+	<key>LESS_THAN_ONE_DISTANCE</key>
+	<string>&lt; 1</string>
+	<key>MOVIE_DETAILS_TITLE</key>
+	<string>Details</string>
+	<key>MOVIE_DETAIL_RELEASE_DATE_DESCRIPTION</key>
+	<string>Release Date:</string>
+	<key>MOVIE_DETAIL_RELEASE_DATE_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>MOVIE_DETAIL_RUNTIME_DESCRIPTION</key>
+	<string>Runtime: </string>
+	<key>MOVIE_DETAIL_RUNTIME_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>MOVIE_DETAIL_RUNTIME_LENGTH_HOURS_AND_MINUTES_FORMAT</key>
+	<string>%1$@h %2$@m</string>
+	<key>MOVIE_DETAIL_RUNTIME_LENGTH_HOURS_FORMAT</key>
+	<string>%1$@h</string>
+	<key>MOVIE_DETAIL_RUNTIME_LENGTH_LESS_THAN_A_MINUTE</key>
+	<string>&lt; 1m</string>
+	<key>MOVIE_DETAIL_RUNTIME_LENGTH_MINUTES_FORMAT</key>
+	<string>%1$@m</string>
+	<key>MOVIE_DISAMBIGUATION_RELEASE_YEAR_FORMAT</key>
+	<string>(%1$@)</string>
+	<key>MOVIE_LIST_NOW_PLAYING</key>
+	<string>NOW PLAYING</string>
+	<key>MOVIE_LIST_NUMBER_OF_MOVIES_FORMAT</key>
+	<string>%1$@ MOVIES</string>
+	<key>MOVIE_LIST_RELEASE_DATE_FORMAT</key>
+	<string>Released %1$@</string>
+	<key>MOVIE_LIST_RELEASE_DATE_FORMAT_TEMPLATE_CURRENT_YEAR</key>
+	<string>MMMM d</string>
+	<key>MOVIE_LIST_RELEASE_DATE_FORMAT_TEMPLATE_OTHER_YEAR</key>
+	<string>MMMM d, yyyy</string>
+	<key>MOVIE_LIST_RELEASE_DATE_FUTURE_FORMAT</key>
+	<string>Coming %1$@</string>
+	<key>MOVIE_LIST_RELEASE_DATE_TODAY</key>
+	<string>Today</string>
+	<key>MOVIE_LIST_TITLE</key>
+	<string>Movies</string>
+	<key>MOVIE_REVIEWS_TITLE</key>
+	<string>Reviews</string>
+	<key>MOVIE_SHOWTIMES_ALL_3D</key>
+	<string>All 3D</string>
+	<key>MOVIE_SHOWTIMES_ALL_IMAX</key>
+	<string>All IMAX</string>
+	<key>MOVIE_SHOWTIMES_ALL_IMAX_3D</key>
+	<string>All IMAX 3D</string>
+	<key>MOVIE_SHOWTIMES_MORE_INDICATOR</key>
+	<string>…</string>
+	<key>MOVIE_SHOWTIMES_TITLE</key>
+	<string>Showtimes</string>
+	<key>MOVIE_SHOWTIME_3D</key>
+	<string>3D</string>
+	<key>MOVIE_SHOWTIME_IMAX</key>
+	<string>IMAX</string>
+	<key>MOVIE_SHOWTIME_IMAX_3D</key>
+	<string>IMAX 3D</string>
+	<key>MOVIE_THEATERS_TITLE</key>
+	<string>Theaters</string>
+	<key>ON_PROVIDER_FORMAT</key>
+	<string> on %1$@</string>
+	<key>RENT_ON_ITUNES</key>
+	<string>Rent</string>
+	<key>ROTTEN_TOMATOES_PROVIDER_NAME</key>
+	<string>Rotten Tomatoes</string>
+	<key>SHOWTIME_COUNT_PLURAL</key>
+	<string>%1$@ Showtimes</string>
+	<key>SHOWTIME_COUNT_SINGULAR</key>
+	<string>%1$@ Showtime</string>
+	<key>SHOWTIME_REGION_DESCRIPTION_THEATER_PLURAL_FORMAT</key>
+	<string>Playing at %1$@ theaters</string>
+	<key>SHOWTIME_REGION_DESCRIPTION_THEATER_SINGULAR_FORMAT</key>
+	<string>%1$@</string>
+	<key>SHOWTIME_SELECTION_AM_SYMBOL</key>
+	<string>A</string>
+	<key>SHOWTIME_SELECTION_DATE_FORMAT_TEMPLATE</key>
+	<string>MMMM d, yyyy</string>
+	<key>SHOWTIME_SELECTION_DATE_HEADING_NAME</key>
+	<string>DATE</string>
+	<key>SHOWTIME_SELECTION_DATE_TOMORROW</key>
+	<string>Tomorrow</string>
+	<key>SHOWTIME_SELECTION_PM_SYMBOL</key>
+	<string>P</string>
+	<key>SHOWTIME_SELECTION_SHOWTIME_HEADING_NAME</key>
+	<string>SHOWING</string>
+	<key>SHOWTIME_SELECTION_THEATER_HEADING_NAME</key>
+	<string>AT</string>
+	<key>STARRING_TITLE</key>
+	<string>Starring</string>
+	<key>THEATER_ADDRESS_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>THEATER_LIST_MARQUEE_DISTANCE_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>THEATER_LIST_MARQUEE_HEADER_DATE_FORMAT_TEMPLATE</key>
+	<string>MMM d</string>
+	<key>THEATER_LIST_MARQUEE_HEADER_DATE_TOMORROW</key>
+	<string>Tomorrow</string>
+	<key>THEATER_LIST_MARQUEE_HEADER_FORMAT_WITHOUT_DATE</key>
+	<string>Playing at %1$@ Theaters</string>
+	<key>THEATER_LIST_MARQUEE_HEADER_FORMAT_WITH_DATE</key>
+	<string>%1$@ Theaters - %2$@</string>
+	<key>THEATER_LIST_RED_CARPET_DISTANCE_FORMAT</key>
+	<string>(%1$@ %2$@)</string>
+	<key>TRAILER_PLAYBACK_BUTTON_TITLE</key>
+	<string>Watch Trailer</string>
+	<key>TRAILER_UNAVAILABLE_SPEAKABLE_TEXT</key>
+	<string>I’m sorry… @{tts#\pause=500\}for some reason, I can’t play the trailer for this movie.</string>
+	<key>TRAILER_UNAVAILABLE_SPEAKABLE_TEXT_FORMAT</key>
+	<string>I’m sorry… @{tts#\pause=500\}for some reason, I can’t play the trailer for ‘%1$@’.</string>
+	<key>TRAILER_UNAVAILABLE_TEXT</key>
+	<string>I’m sorry… for some reason, I can’t play the trailer for this movie.</string>
+	<key>TRAILER_UNAVAILABLE_TEXT_FORMAT</key>
+	<string>I’m sorry… for some reason, I can’t play the trailer for ‘%1$@’.</string>
+	<key>UNKNOWN_DIRECTOR_NAME</key>
+	<string>UNKNOWN</string>
+</dict>
+</plist>

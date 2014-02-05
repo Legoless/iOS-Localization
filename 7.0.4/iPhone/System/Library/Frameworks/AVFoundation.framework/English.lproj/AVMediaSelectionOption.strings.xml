@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CC_SUBTITLE_FORMAT</key>
+	<string>%1$@ CC</string>
+	<key>EASYTOREAD_SUBTITLE_FORMAT</key>
+	<string>%1$@ Easy Reader</string>
+	<key>FORCEDONLY_SUBTITLE_FORMAT</key>
+	<string>%1$@ Forced</string>
+	<key>SDH_SUBTITLE_FORMAT</key>
+	<string>%1$@ SDH</string>
+	<key>SUBTITLE_TRACK_DISPLAY_FORMAT</key>
+	<string>%1$@ - %2$@</string>
+	<key>UNKNOWN_LANGUAGE</key>
+	<string>Unknown</string>
+</dict>
+</plist>

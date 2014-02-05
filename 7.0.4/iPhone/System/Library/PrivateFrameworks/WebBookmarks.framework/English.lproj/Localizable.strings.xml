@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Allowed Sites</key>
+	<string>Allowed Sites</string>
+	<key>Bookmarks</key>
+	<string>Bookmarks</string>
+	<key>Bookmarks Menu</key>
+	<string>Bookmarks Menu</string>
+	<key>Favorites</key>
+	<string>Favorites</string>
+	<key>History (bookmark proxy)</key>
+	<string>History</string>
+	<key>Reading List</key>
+	<string>Reading List</string>
+</dict>
+</plist>

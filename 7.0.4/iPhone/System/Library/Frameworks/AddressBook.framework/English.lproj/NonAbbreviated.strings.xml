@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_$!&lt;Anniversary&gt;!$_</key>
+	<string>anniversary</string>
+	<key>_$!&lt;Assistant&gt;!$_</key>
+	<string>assistant</string>
+	<key>_$!&lt;AssistantPhone&gt;!$_</key>
+	<string>assistant</string>
+	<key>_$!&lt;Birthday&gt;!$_</key>
+	<string>birthday</string>
+	<key>_$!&lt;Brother&gt;!$_</key>
+	<string>brother</string>
+	<key>_$!&lt;Car&gt;!$_</key>
+	<string>car</string>
+	<key>_$!&lt;Child&gt;!$_</key>
+	<string>child</string>
+	<key>_$!&lt;CompanyMain&gt;!$_</key>
+	<string>company main</string>
+	<key>_$!&lt;EX-Anniversary&gt;!$_</key>
+	<string>anniversary</string>
+	<key>_$!&lt;EX-AssistantName&gt;!$_</key>
+	<string>assistant</string>
+	<key>_$!&lt;EX-AssistantPhone&gt;!$_</key>
+	<string>assistant</string>
+	<key>_$!&lt;EX-Birthday&gt;!$_</key>
+	<string>birthday</string>
+	<key>_$!&lt;EX-Business&gt;!$_</key>
+	<string>work</string>
+	<key>_$!&lt;EX-BusinessFax&gt;!$_</key>
+	<string>work fax</string>
+	<key>_$!&lt;EX-BusinessHomePage&gt;!$_</key>
+	<string>homepage</string>
+	<key>_$!&lt;EX-BusinessPhone2&gt;!$_</key>
+	<string>alternate work</string>
+	<key>_$!&lt;EX-BusinessPhone&gt;!$_</key>
+	<string>work</string>
+	<key>_$!&lt;EX-Callback&gt;!$_</key>
+	<string>callback</string>
+	<key>_$!&lt;EX-CarPhone&gt;!$_</key>
+	<string>car phone</string>
+	<key>_$!&lt;EX-CompanyMainPhone&gt;!$_</key>
+	<string>main corporate</string>
+	<key>_$!&lt;EX-EmailAddress1&gt;!$_</key>
+	<string>email 1</string>
+	<key>_$!&lt;EX-EmailAddress2&gt;!$_</key>
+	<string>email 2</string>
+	<key>_$!&lt;EX-EmailAddress3&gt;!$_</key>
+	<string>email 3</string>
+	<key>_$!&lt;EX-Home&gt;!$_</key>
+	<string>home</string>
+	<key>_$!&lt;EX-HomeFax&gt;!$_</key>
+	<string>home fax</string>
+	<key>_$!&lt;EX-HomePhone2&gt;!$_</key>
+	<string>alternate home</string>
+	<key>_$!&lt;EX-HomePhone&gt;!$_</key>
+	<string>home</string>
+	<key>_$!&lt;EX-ImAddress1&gt;!$_</key>
+	<string>messaging 1</string>
+	<key>_$!&lt;EX-ImAddress2&gt;!$_</key>
+	<string>messaging 2</string>
+	<key>_$!&lt;EX-ImAddress3&gt;!$_</key>
+	<string>messaging 3</string>
+	<key>_$!&lt;EX-Isdn&gt;!$_</key>
+	<string>ISDN</string>
+	<key>_$!&lt;EX-Manager&gt;!$_</key>
+	<string>manager</string>
+	<key>_$!&lt;EX-MobilePhone&gt;!$_</key>
+	<string>mobile</string>
+	<key>_$!&lt;EX-Other&gt;!$_</key>
+	<string>other</string>
+	<key>_$!&lt;EX-OtherFax&gt;!$_</key>
+	<string>other fax</string>
+	<key>_$!&lt;EX-OtherTelephone&gt;!$_</key>
+	<string>other</string>
+	<key>_$!&lt;EX-Pager&gt;!$_</key>
+	<string>pager</string>
+	<key>_$!&lt;EX-PrimaryPhone&gt;!$_</key>
+	<string>primary</string>
+	<key>_$!&lt;EX-RadioPhone&gt;!$_</key>
+	<string>radio</string>
+	<key>_$!&lt;EX-SpouseName&gt;!$_</key>
+	<string>partner</string>
+	<key>_$!&lt;EX-Telex&gt;!$_</key>
+	<string>Telex</string>
+	<key>_$!&lt;EX-TtyTddPhone&gt;!$_</key>
+	<string>TDD/TTY</string>
+	<key>_$!&lt;Father&gt;!$_</key>
+	<string>father</string>
+	<key>_$!&lt;Friend&gt;!$_</key>
+	<string>friend</string>
+	<key>_$!&lt;Home&gt;!$_</key>
+	<string>home</string>
+	<key>_$!&lt;HomeFAX&gt;!$_</key>
+	<string>home fax</string>
+	<key>_$!&lt;HomePage&gt;!$_</key>
+	<string>home page</string>
+	<key>_$!&lt;Main&gt;!$_</key>
+	<string>main</string>
+	<key>_$!&lt;Manager&gt;!$_</key>
+	<string>manager</string>
+	<key>_$!&lt;Mobile&gt;!$_</key>
+	<string>mobile</string>
+	<key>_$!&lt;Mother&gt;!$_</key>
+	<string>mother</string>
+	<key>_$!&lt;Other&gt;!$_</key>
+	<string>other</string>
+	<key>_$!&lt;OtherFAX&gt;!$_</key>
+	<string>other fax</string>
+	<key>_$!&lt;Pager&gt;!$_</key>
+	<string>pager</string>
+	<key>_$!&lt;Parent&gt;!$_</key>
+	<string>parent</string>
+	<key>_$!&lt;Partner&gt;!$_</key>
+	<string>partner</string>
+	<key>_$!&lt;Radio&gt;!$_</key>
+	<string>radio</string>
+	<key>_$!&lt;Sister&gt;!$_</key>
+	<string>sister</string>
+	<key>_$!&lt;Spouse&gt;!$_</key>
+	<string>spouse</string>
+	<key>_$!&lt;Work&gt;!$_</key>
+	<string>work</string>
+	<key>_$!&lt;WorkFAX&gt;!$_</key>
+	<string>work fax</string>
+</dict>
+</plist>

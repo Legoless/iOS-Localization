@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_VALIDATION_INVALID_CREDENTIALS_DESCRIPTION</key>
+	<string>Username or Password are incorrect</string>
+	<key>ACCOUNT_VALIDATION_INVALID_CREDENTIALS_SUGGESTION</key>
+	<string>Without them no information will be downloaded when the installation finishes.</string>
+	<key>ACCOUNT_VALIDATION_UNKNOWN_ERROR_DESCRIPTION</key>
+	<string>An error occurred while contacting the server.</string>
+	<key>ACCOUNT_VALIDATION_UNKNOWN_ERROR_SUGGESTION</key>
+	<string>Without verifying the account, no information will be downloaded when the installation finishes.</string>
+	<key>APN_ERROR_ALREADY_INSTALLED</key>
+	<string>Only one APN configuration can be installed at a time.</string>
+	<key>APN_ERROR_COULD_NOT_INSTALL_P_PAYLOAD</key>
+	<string>The APN configuration “%@” could not be installed.</string>
+	<key>APPWHITE_TOO_MANY_APPS</key>
+	<string>The payload specifies too many Apps.</string>
+	<key>CALDAV_ACCT_CREATION_FAILED</key>
+	<string>Could not create new CalDAV account.</string>
+	<key>CALDAV_ACCT_NOT_UNIQUE</key>
+	<string>An identical CalDAV account already exists.</string>
+	<key>CALDAV_ACCT_NO_HOST_NAME</key>
+	<string>CalDAV account missing host name.</string>
+	<key>CANT_RETRIEVE_POLICY_TITLE</key>
+	<string>Cannot retrieve policy</string>
+	<key>CARDDAV_ACCT_CREATION_FAILED</key>
+	<string>Could not create new CardDAV account.</string>
+	<key>CARDDAV_ACCT_NOT_UNIQUE</key>
+	<string>An identical CardDAV account already exists.</string>
+	<key>CARDDAV_ACCT_NO_HOST_NAME</key>
+	<string>CardDAV account missing host name.</string>
+	<key>CELLULAR_ALREADY_CONFIGURED</key>
+	<string>A cellular configuration profile is already installed.</string>
+	<key>CELLULAR_CANNOT_CONNECT</key>
+	<string>The cellular configuration cannot be applied.</string>
+	<key>CHAPERONE_BAD_CERT_DATA_P_PAYLOAD</key>
+	<string>The payload “%@” contains an invalid certificate.</string>
+	<key>CHAPERONE_DEVICE_NOT_CHAPERONED</key>
+	<string>This profile can only be installed on a Supervised device.</string>
+	<key>CHAPERONE_MISMATCHED_CERT_DATA_IPAD</key>
+	<string>This iPad has already been Supervised by a different host.</string>
+	<key>CHAPERONE_MISMATCHED_CERT_DATA_IPHONE</key>
+	<string>This iPhone has already been Supervised by a different host.</string>
+	<key>CHAPERONE_MISMATCHED_CERT_DATA_IPHONE SIMULATOR</key>
+	<string>This iPhone Simulator has already been Supervised by a different host.</string>
+	<key>CHAPERONE_MISMATCHED_CERT_DATA_IPOD</key>
+	<string>This iPod touch has already been Supervised by a different host.</string>
+	<key>CHAPERONE_PROFILE_IS_REMOVABLE</key>
+	<string>The profile must be marked as unremovable.</string>
+	<key>CLOUD_CONFIG_ABSINTHE_ERROR_P_OSSTATUS</key>
+	<string>The device could not sign the configuration request. Error: %@.</string>
+	<key>CLOUD_CONFIG_BAD_FORMAT_ERROR</key>
+	<string>The cloud configuration for this device is invalid.</string>
+	<key>CLOUD_CONFIG_DAEMON_BUSY_ERROR</key>
+	<string>A cloud configuration fetch is already in progress.</string>
+	<key>CLOUD_CONFIG_INTERNAL_ERROR</key>
+	<string>The device failed to request configuration from the cloud.</string>
+	<key>CLOUD_CONFIG_INVALID_DEVICE_ERROR</key>
+	<string>The cloud configuration service could not verify the identity of this device.</string>
+	<key>CLOUD_CONFIG_INVALID_PROFILE</key>
+	<string>The configuration is invalid.</string>
+	<key>CLOUD_CONFIG_INVALID_USERNAME_PASSWORD</key>
+	<string>The username or password was incorrect.</string>
+	<key>CLOUD_CONFIG_MAX_RETRIES_EXCEEDED</key>
+	<string>The cloud configuration server is unavailable.</string>
+	<key>CLOUD_CONFIG_NOT_AVAILABLE</key>
+	<string>The configuration is not available.</string>
+	<key>CLOUD_CONFIG_SERVER_BUSY_ERROR</key>
+	<string>The cloud configuration server is busy. Please try again later.</string>
+	<key>CLOUD_CONFIG_SERVER_DOWN_ERROR</key>
+	<string>The cloud configuration server is unavailable or busy.</string>
+	<key>CLOUD_CONFIG_SERVER_TRUST_ERROR</key>
+	<string>The cloud configuration server could not be verified.</string>
+	<key>CLOUD_CONFIG_XPC_FAILURE</key>
+	<string>Unable to communicate with the local cloud configuration service.</string>
+	<key>DECRYPTION_FAILED</key>
+	<string>Profile could not be decrypted</string>
+	<key>DECRYPTION_FAILED_SUGGESTION</key>
+	<string>Decryption key for this profile is not installed.</string>
+	<key>DEFAULTS_COULD_NOT_INSTALL</key>
+	<string>Defaults could not be set for an unexpected reason.</string>
+	<key>EAS_ACCT_CANNOT_DECRYPT_CERTIFICATE</key>
+	<string>The certificate cannot be decrypted.</string>
+	<key>EAS_ACCT_CREATION_FAILED</key>
+	<string>Could not create new Exchange account.</string>
+	<key>EAS_ACCT_NOT_UNIQUE</key>
+	<string>An identical Exchange account already exists.</string>
+	<key>EAS_ACCT_NO_HOST_NAME</key>
+	<string>Exchange account missing host name.</string>
+	<key>EAS_ACCT_VERIFICATION_FAIL</key>
+	<string>The account cannot be verified</string>
+	<key>EMAIL_ERROR_IMAP_BAD_P_PAYLOAD</key>
+	<string>The IMAP account settings for the payload “%@” is invalid.</string>
+	<key>EMAIL_ERROR_POP_BAD_P_PAYLOAD</key>
+	<string>The POP account settings for the payload “%@” is invalid.</string>
+	<key>EMAIL_ERROR_SMIME_ENCRYPTION_CERT_BAD_P_PAYLOAD</key>
+	<string>The S/MIME encryption certificate for the payload “%@” is invalid.</string>
+	<key>EMAIL_ERROR_SMIME_ENCRYPTION_CERT_NOT_FOUND_P_PAYLOAD</key>
+	<string>The S/MIME encryption certificate for the payload “%@” cannot be found.</string>
+	<key>EMAIL_ERROR_SMIME_SIGNING_CERT_BAD_P_PAYLOAD</key>
+	<string>The S/MIME signing certificate for the payload “%@” is invalid.</string>
+	<key>EMAIL_ERROR_SMIME_SIGNING_CERT_NOT_FOUND_P_PAYLOAD</key>
+	<string>The S/MIME signing certificate for the payload “%@” cannot be found.</string>
+	<key>EMAIL_ERROR_SMTP_BAD_P_PAYLOAD</key>
+	<string>The SMTP account settings for the payload “%@” is invalid.</string>
+	<key>EMPTY_PAYLOAD_ERROR_DESCRIPTION</key>
+	<string>Empty profile</string>
+	<key>ENCRYPTION_POLICY_CLIENT_FAILURE_TEXT_IPAD</key>
+	<string>The %1$@ requires encryption which is not supported on this iPad.</string>
+	<key>ENCRYPTION_POLICY_CLIENT_FAILURE_TEXT_IPHONE</key>
+	<string>The %1$@ requires encryption which is not supported on this iPhone.</string>
+	<key>ENCRYPTION_POLICY_CLIENT_FAILURE_TEXT_IPHONE SIMULATOR</key>
+	<string>The %1$@ requires encryption which is not supported on this iPhone Simulator.</string>
+	<key>ENCRYPTION_POLICY_CLIENT_FAILURE_TEXT_IPOD</key>
+	<string>The %1$@ requires encryption which is not supported on this iPod.</string>
+	<key>ENCRYPTION_POLICY_PAYLOAD_FAILURE_TEXT_IPAD</key>
+	<string>The payload “%1$@” requires encryption which is not supported on this iPad.</string>
+	<key>ENCRYPTION_POLICY_PAYLOAD_FAILURE_TEXT_IPHONE</key>
+	<string>The payload “%1$@” requires encryption which is not supported on this iPhone.</string>
+	<key>ENCRYPTION_POLICY_PAYLOAD_FAILURE_TEXT_IPHONE SIMULATOR</key>
+	<string>The payload “%1$@” requires encryption which is not supported on this iPhone Simulator.</string>
+	<key>ENCRYPTION_POLICY_PAYLOAD_FAILURE_TEXT_IPOD</key>
+	<string>The payload “%1$@” requires encryption which is not supported on this iPod.</string>
+	<key>ERROR_CERTIFICATE_CANNOT_STORE</key>
+	<string>The certificate could not be stored.</string>
+	<key>ERROR_CERTIFICATE_CANNOT_STORE_PEM_DATA_P_FILE</key>
+	<string>Unable to store the data contained in certificate “%@”.</string>
+	<key>ERROR_CERTIFICATE_CANNOT_STORE_P_FILE</key>
+	<string>The certificate “%@” could not be imported.</string>
+	<key>ERROR_CERTIFICATE_CANNOT_STORE_ROOT_P_FILE</key>
+	<string>The root certificate “%@” could not be imported.</string>
+	<key>ERROR_CERTIFICATE_MALFORMED</key>
+	<string>The certificate appears to be malformed</string>
+	<key>ERROR_CERTIFICATE_MALFORMED_P_FILE</key>
+	<string>The certificate “%@” appears to be invalid.</string>
+	<key>ERROR_CERTIFICATE_NOT_IDENTITY_P_NAME</key>
+	<string>The payload “%@” does not contain an identity certificate.</string>
+	<key>ERROR_CERTIFICATE_TOO_MANY_CERTIFICATES_P_FILE</key>
+	<string>The container “%@” must contain only one certificate and its private key.</string>
+	<key>ERROR_CERTIFICATE_WRONG_PASSWORD_P_FILE</key>
+	<string>The password for the certificate “%@” is incorrect.</string>
+	<key>ERROR_DEVICE_LOCKED</key>
+	<string>The device is locked.</string>
+	<key>ERROR_INSTALL_NO_IDENTITY_IPAD</key>
+	<string>Your iPad is not activated.</string>
+	<key>ERROR_INSTALL_NO_IDENTITY_IPHONE</key>
+	<string>Your iPhone is not activated.</string>
+	<key>ERROR_INSTALL_NO_IDENTITY_IPHONE SIMULATOR</key>
+	<string>Your iPhone Simulator is not activated.</string>
+	<key>ERROR_INSTALL_NO_IDENTITY_IPOD</key>
+	<string>Your iPod is not activated.</string>
+	<key>ERROR_INVALID_SUPERVISION</key>
+	<string>The profile may not contain a Supervision payload.</string>
+	<key>ERROR_MISMATCHED_CERTIFICATES_P_ID</key>
+	<string>The profile “%@” does not have the expected certificate for removal.</string>
+	<key>ERROR_MISMATCHED_SIGNERS_P_ID</key>
+	<string>Remove the profile “%@” before installing this profile.</string>
+	<key>ERROR_PAYLOAD_FAILED_P_ID</key>
+	<string>The payload “%@” could not be installed.</string>
+	<key>ERROR_PAYLOAD_FIELD_BAD_VALUE_P_FIELD</key>
+	<string>The field “%@” contains an invalid value.</string>
+	<key>ERROR_PAYLOAD_FIELD_INVALID_P_FIELD</key>
+	<string>The field “%@” is invalid.</string>
+	<key>ERROR_PAYLOAD_MALFORMED</key>
+	<string>Invalid payload.</string>
+	<key>ERROR_PAYLOAD_MALFORMED_P_ID</key>
+	<string>The payload “%@” is invalid.</string>
+	<key>ERROR_PAYLOAD_MULTIPLE_REMOVAL_PASSCODES</key>
+	<string>There are more than one removal passcodes in the profile.</string>
+	<key>ERROR_PAYLOAD_REQUIRED_FIELD_MISSING_P_FIELD</key>
+	<string>The required field “%@” is missing.</string>
+	<key>ERROR_PAYLOAD_UNSUPPORTED_TYPE</key>
+	<string>The payload type “%@” is not supported.</string>
+	<key>ERROR_PAYLOAD_UNSUPPORTED_VERSION</key>
+	<string>The payload version is not supported.</string>
+	<key>ERROR_PROFILE_DEFAULTS_BAD_SIGNATURE_P_ID</key>
+	<string>Profile “%@” has an invalid signature.</string>
+	<key>ERROR_PROFILE_EMPTY</key>
+	<string>The profile does not contain any data</string>
+	<key>ERROR_PROFILE_FIELD_INVALID_P_FIELD</key>
+	<string>The field “%@” is invalid.</string>
+	<key>ERROR_PROFILE_FIELD_INVALID_VALUE_P_FIELD</key>
+	<string>The field “%@” contains an invalid value.</string>
+	<key>ERROR_PROFILE_FIELD_INVALID_VALUE_P_FIELD_P_VALUE</key>
+	<string>The field “%@” contains the invalid value “%@”.</string>
+	<key>ERROR_PROFILE_INSTALLATION_FAILED_TITLE</key>
+	<string>Profile Installation Failed</string>
+	<key>ERROR_PROFILE_INSTALLATION_FAIL_P_ID</key>
+	<string>The profile “%@” could not be installed.</string>
+	<key>ERROR_PROFILE_MALFORMED_P_ID</key>
+	<string>The profile “%@” is invalid.</string>
+	<key>ERROR_PROFILE_MDM_AND_LOCKED</key>
+	<string>A profile containing an MDM payload must be removable.</string>
+	<key>ERROR_PROFILE_MDM_ONLY</key>
+	<string>The profile must be installed using a Mobile Device Management tool.</string>
+	<key>ERROR_PROFILE_MDM_REPLACEMENT_P_OLD_ID</key>
+	<string>Remove the profile “%@” before installing this profile.</string>
+	<key>ERROR_PROFILE_MULTIPLE_APN_P_ID</key>
+	<string>The profile “%@” contains more than one Cellular Settings payloads.</string>
+	<key>ERROR_PROFILE_MULTIPLE_APN_P_OLD_ID</key>
+	<string>Remove the profile “%@” before installing this profile.</string>
+	<key>ERROR_PROFILE_MULTIPLE_APP_LOCK_P_ID</key>
+	<string>The profile “%@” contains more than one App Lock payloads.</string>
+	<key>ERROR_PROFILE_MULTIPLE_APP_LOCK_P_OLD_ID</key>
+	<string>Remove the profile “%@” before installing this profile.</string>
+	<key>ERROR_PROFILE_MULTIPLE_GLOBAL_HTTP_PROXY_P_OLD_ID</key>
+	<string>Remove the profile “%@” before installing this profile.</string>
+	<key>ERROR_PROFILE_MULTIPLE_GLOBAL_HTTP_P_ID</key>
+	<string>The profile “%@” contains more than one Global HTTP Proxy payloads.</string>
+	<key>ERROR_PROFILE_MUST_BE_CONFIGURATION</key>
+	<string>Only configuration profiles can be installed.</string>
+	<key>ERROR_PROFILE_NONUNIQUE_UUID_P_ID</key>
+	<string>The UUID for the profile “%@” is not unique.</string>
+	<key>ERROR_PROFILE_NOT_FOUND</key>
+	<string>The profile could not be found.</string>
+	<key>ERROR_PROFILE_NO_INTERACTIVE_INSTALLATION</key>
+	<string>The profile must be installed using a device management tool.</string>
+	<key>ERROR_PROFILE_PAYLOAD_NONUNIQUE_UUIDS</key>
+	<string>The payloads in this profile do not have unique UUIDs.</string>
+	<key>ERROR_PROFILE_REMOVAL_DATE_PAST_P_ID</key>
+	<string>The profile “%@” is no longer valid.</string>
+	<key>ERROR_PROFILE_REQUIRED_FIELD_MISSING_P_FIELD</key>
+	<string>The required field “%@” is missing.</string>
+	<key>ERROR_PROFILE_TOO_MANY_APN_P_ID</key>
+	<string>The profile “%@” contains more than one APN payloads.</string>
+	<key>ERROR_PROFILE_TOO_MANY_CHAPERONE_P_ID</key>
+	<string>The profile “%@” contains more than one Supervised payloads.</string>
+	<key>ERROR_PROFILE_TOO_MANY_GLOBAL_PROXY_P_ID</key>
+	<string>The profile “%@” contains more than one Global HTTP Proxy payloads.</string>
+	<key>ERROR_PROFILE_TOO_MANY_MDM_P_ID</key>
+	<string>The profile “%@” contains more than one MDM payloads.</string>
+	<key>ERROR_PROFILE_TOO_MANY_SINGLE_APP_P_ID</key>
+	<string>The profile “%@” contains more than one Single App Mode whitelist payloads.</string>
+	<key>ERROR_PROFILE_UPDATE_FAILED</key>
+	<string>The profile could not be updated.</string>
+	<key>ERROR_PROFILE_UPDATE_FAILED_P_ID</key>
+	<string>The profile “%@” could not be updated.</string>
+	<key>ERROR_PROFILE_UPDATE_NOT_ELIGIBLE_P_ID</key>
+	<string>The profile “%@” must be updated manually.</string>
+	<key>ERROR_PROFILE_UPDATE_NOT_SAME_IDENTIFIER</key>
+	<string>The updated profile has a different identifier.</string>
+	<key>ERROR_PROFILE_USER_CANCELLED</key>
+	<string>The user cancelled profile installation.</string>
+	<key>ERROR_PROFILE_USER_CANCELLED_P_ID</key>
+	<string>The user cancelled the installation of profile “%@”.</string>
+	<key>ERROR_UIOP_CANNOT_DISPLAY_P_IDENTIFIER</key>
+	<string>The profile “%@” cannot be displayed.</string>
+	<key>ERROR_UIOP_IDENTIFIER_NOT_FOUND_P_IDENTIFIER</key>
+	<string>A profile with the identifier “%@” cannot be found.</string>
+	<key>ERROR_UIOP_NULL_IDENTIFIER</key>
+	<string>The profile cannot be found.</string>
+	<key>ERROR_UNNACEPTABLE_PAYLOAD_P_TYPE</key>
+	<string>The payload type “%@” is not permitted.</string>
+	<key>ERROR_UNSUPPORTED_VERSION</key>
+	<string>The profile version is not supported.</string>
+	<key>ERROR_USER_INPUT_INVALID</key>
+	<string>The user input is invalid.</string>
+	<key>ERROR_VPN_COULD_NOT_INSTALL</key>
+	<string>The VPN service “%@” could not be installed.</string>
+	<key>ERROR_VPN_COULD_NOT_REMOVE</key>
+	<string>The VPN service “%@” could not be removed.</string>
+	<key>ERROR_WIFI_COULD_NOT_CREATE</key>
+	<string>The Wi-Fi network “%@” could not be created.</string>
+	<key>ERROR_WIFI_COULD_NOT_CREATE_CH</key>
+	<string>The WLAN “%@” could not be created.</string>
+	<key>ERROR_WIFI_COULD_NOT_INSTALL</key>
+	<string>The Wi-Fi network “%@” could not be installed.</string>
+	<key>ERROR_WIFI_COULD_NOT_INSTALL_CH</key>
+	<string>The WLAN “%@” could not be installed.</string>
+	<key>ERROR_WIFI_COULD_NOT_SETUP_EAP</key>
+	<string>The Wi-Fi network “%@” could not be configured for EAP.</string>
+	<key>ERROR_WIFI_COULD_NOT_SETUP_EAP_CH</key>
+	<string>The WLAN “%@” could not be configured for EAP.</string>
+	<key>ERROR_WIFI_COULD_NOT_SETUP_PROXY</key>
+	<string>Proxy settings for the Wi-Fi network “%@” could not be applied.</string>
+	<key>ERROR_WIFI_COULD_NOT_SETUP_PROXY_CH</key>
+	<string>Proxy settings for the WLAN “%@” could not be applied.</string>
+	<key>FONT_BAD_DATA</key>
+	<string>The font is invalid.</string>
+	<key>FONT_COLLECTION</key>
+	<string>The payload contains more than one font.</string>
+	<key>FONT_FAIL_INSTALLATION</key>
+	<string>The font could not be installed.</string>
+	<key>GLOBAL_HTTP_PROXY_ERROR_CANNOT_APPLY</key>
+	<string>The global HTTP proxy settings could not be applied.</string>
+	<key>GLOBAL_HTTP_PROXY_ERROR_CANNOT_APPLY_CREDENTIALS</key>
+	<string>The credentials for the global HTTP proxy could not be stored.</string>
+	<key>HTTP_ERROR_INVALID_IDENTITY_P_URL</key>
+	<string>The identity needed to authenticate with the server at “%@” is missing.</string>
+	<key>HTTP_ERROR_INVALID_SERVER_CERT_P_URL</key>
+	<string>The server certificate for “%@” is invalid.</string>
+	<key>HTTP_ERROR_TRANSACTION_FAILED</key>
+	<string>A connection to the server could not be established.</string>
+	<key>INSTALLATION_FAILED</key>
+	<string>Profile Failed to Install</string>
+	<key>INSTALLATION_MULTIPLE_CHAPERONE_PAYLOADS_IPAD</key>
+	<string>Your iPad is already Supervised.</string>
+	<key>INSTALLATION_MULTIPLE_CHAPERONE_PAYLOADS_IPHONE</key>
+	<string>Your iPhone is already Supervised.</string>
+	<key>INSTALLATION_MULTIPLE_CHAPERONE_PAYLOADS_IPHONE SIMULATOR</key>
+	<string>Your iPhone Simulator is already Supervised.</string>
+	<key>INSTALLATION_MULTIPLE_CHAPERONE_PAYLOADS_IPOD</key>
+	<string>Your iPod touch is already Supervised.</string>
+	<key>KEYCHAIN_ERROR_CANNOT_CREATE_QUERY</key>
+	<string>Cannot create a Keychain query.</string>
+	<key>KEYCHAIN_ERROR_CODE_P_CODE</key>
+	<string>Keychain reported error code %@.</string>
+	<key>KEYCHAIN_ERROR_EMPTY_DATA</key>
+	<string>Cannot store empty data into the keychain.</string>
+	<key>LDAP_ACCT_CREATION_FAILED</key>
+	<string>Could not create new LDAP account.</string>
+	<key>LDAP_ACCT_NOT_UNIQUE</key>
+	<string>An identical LDAP account already exists.</string>
+	<key>LDAP_ACCT_NO_HOST_NAME</key>
+	<string>LDAP account missing host name.</string>
+	<key>MACH_ERROR_P_CODE</key>
+	<string>An internal messaging error has occurred (%@)</string>
+	<key>MALFORMED_PAYLOAD_ERROR_DESCRIPTION</key>
+	<string>Invalid Profile</string>
+	<key>MDM_APP_INSTALL_FAIL_ALERT_P_APP_P_MESSAGE</key>
+	<string>The app “%@” could not be purchased. %@</string>
+	<key>MDM_APP_INSTALL_FAIL_P_APP</key>
+	<string>The app “%@” could not be installed.</string>
+	<key>MDM_APP_UPDATE_FAIL_P_APP</key>
+	<string>The app “%@” could not be updated.</string>
+	<key>MDM_ERROR_ALREADY_INSTALLED</key>
+	<string>Mobile Device Management is already installed.</string>
+	<key>MDM_ERROR_ALREADY_INSTALLED_P_APP_ID</key>
+	<string>The app “%@” is already installed.</string>
+	<key>MDM_ERROR_ALREADY_QUEUED_P_APP_ID</key>
+	<string>The app “%@” is already scheduled for management.</string>
+	<key>MDM_ERROR_APP_NOT_MANAGED_P_APP_ID</key>
+	<string>The app “%@” is not managed.</string>
+	<key>MDM_ERROR_APP_STORE_DISABLED</key>
+	<string>The App Store is disabled.</string>
+	<key>MDM_ERROR_BAD_INSTALLATION</key>
+	<string>The MDM service was not installed correctly.</string>
+	<key>MDM_ERROR_CANNOT_CHECK_IN_P_NAME</key>
+	<string>The server for MDM payload “%@” could not be validated.</string>
+	<key>MDM_ERROR_CANNOT_COPY_ESCROW_KEYBAG_DATA_P_CODE</key>
+	<string>The data for the MDM Unlock Token could not be copied (%@).</string>
+	<key>MDM_ERROR_CANNOT_COPY_ESCROW_SECRET</key>
+	<string>MDM is not configured to accept an Unlock Token.</string>
+	<key>MDM_ERROR_CANNOT_CREATE_ESCROW_KEYBAG_P_CODE</key>
+	<string>The MDM Unlock Token could not be created (%@).</string>
+	<key>MDM_ERROR_CANNOT_PURCHASE_P_APP_ID</key>
+	<string>The app “%@” could not be purchased.</string>
+	<key>MDM_ERROR_CANNOT_REMOVE_APP_P_APP_ID</key>
+	<string>The app “%@” cannot be removed while it is being installed.</string>
+	<key>MDM_ERROR_CERT_NOT_FOUND_P_NAME</key>
+	<string>The identity certificate for “%@” could not be found.</string>
+	<key>MDM_ERROR_COULD_NOT_VALIDATE_APP_ID</key>
+	<string>The iTunes Store ID of the application could not be validated.</string>
+	<key>MDM_ERROR_COULD_NOT_VALIDATE_MANIFEST_P_URL</key>
+	<string>The manifest for the app at %@ could not be validated.</string>
+	<key>MDM_ERROR_FIELD_NOT_HTTPS_P_FIELD</key>
+	<string>The URL specified in the field “%@” must have an https:// scheme.</string>
+	<key>MDM_ERROR_INVALID_MANIFEST</key>
+	<string>The app manifest is invalid.</string>
+	<key>MDM_ERROR_INVALID_REDEMPTION_CODE</key>
+	<string>The redemption code is invalid.</string>
+	<key>MDM_ERROR_INVALID_REQUEST_TYPE_P_REQUEST</key>
+	<string>“%@” is not a valid request type.</string>
+	<key>MDM_ERROR_INVALID_RIGHTS_P_NAME</key>
+	<string>The MDM payload “%@” contains invalid access rights.</string>
+	<key>MDM_ERROR_INVALID_TOPIC_P_NAME</key>
+	<string>The MDM payload “%@” contains an invalid topic.</string>
+	<key>MDM_ERROR_INVALID_URL</key>
+	<string>The URL is invalid.</string>
+	<key>MDM_ERROR_MALFORMED_REQUEST</key>
+	<string>The MDM request is invalid.</string>
+	<key>MDM_ERROR_MISSING_IDENTITY</key>
+	<string>The MDM identity is not available.</string>
+	<key>MDM_ERROR_MUST_LOGIN</key>
+	<string>Please log in to your iTunes Store account.</string>
+	<key>MDM_ERROR_NOT_AN_APP</key>
+	<string>The iTunes Store ID does not refer to an application.</string>
+	<key>MDM_ERROR_NOT_AUTHORIZED</key>
+	<string>The MDM server is not authorized to perform this operation.</string>
+	<key>MDM_ERROR_NOT_MANAGED_P_APP_ID</key>
+	<string>The app “%@” is not managed.</string>
+	<key>MDM_ERROR_NOT_WAITING_FOR_REDEMPTION_P_APP_ID</key>
+	<string>The app “%@” does not require a redemption code.</string>
+	<key>MDM_ERROR_PROFILE_UNMANAGED_REMOVE_P_ID</key>
+	<string>The profile “%@” is not managed by MDM.</string>
+	<key>MDM_ERROR_PROVISIONING_UNMANAGED_REMOVE</key>
+	<string>The provisioning profile “%@” is not managed by MDM.</string>
+	<key>MDM_ERROR_REPLACEMENT_MISMATCH</key>
+	<string>The new MDM payload does not match the old payload.</string>
+	<key>MDM_ERROR_REPLACEMENT_TOO_MUCH_RIGHTS</key>
+	<string>The new MDM payload contains more access rights than the old payload.</string>
+	<key>MDM_ERROR_TOO_MANY_APPS_IN_MANIFEST</key>
+	<string>Only one app may be installed at a time.</string>
+	<key>MDM_ERROR_UNAUTHORIZED_BY_SERVER</key>
+	<string>The MDM server has not authorized this device for MDM service.</string>
+	<key>MDM_ERROR_UNKNOWN_LANGUAGE</key>
+	<string>The language is not supported.</string>
+	<key>MDM_ERROR_UNKNOWN_LOCALE</key>
+	<string>The locale is not supported.</string>
+	<key>OTA_CANNOT_CREATE_ATTRIBUTE_DICT</key>
+	<string>An attribute list for this device could not be created.</string>
+	<key>OTA_CANNOT_SIGN_ATTRIBUTE_DICT_P_OSSTATUS</key>
+	<string>The device could not sign the attribute dictionary. Error: %@</string>
+	<key>OTA_SERVER_RETURNED_BAD_IDENTITY</key>
+	<string>The enrollment server did not provision a valid identity certificate.</string>
+	<key>OTA_SERVER_RETURNED_BAD_PROFILE</key>
+	<string>The server returned an invalid profile.</string>
+	<key>PASSCODE_ERROR_CANNOT_CLEAR_PASSCODE_P_CODE</key>
+	<string>The passcode cannot be cleared (%@)</string>
+	<key>PASSCODE_ERROR_CANNOT_RETRIEVE</key>
+	<string>The current passcode cannot be retrieved.</string>
+	<key>PASSCODE_ERROR_CANNOT_SET_FINGERPRINT_UNLOCK_P_CODE</key>
+	<string>Fingerprint unlock cannot be set (%@)</string>
+	<key>PASSCODE_ERROR_CANNOT_SET_GRACE_PERIOD_P_CODE</key>
+	<string>The passcode grace period cannot be set (%@)</string>
+	<key>PASSCODE_ERROR_CANNOT_SET_P_CODE</key>
+	<string>The passcode cannot be set (%@)</string>
+	<key>PASSCODE_ERROR_DEVICE_CPLOCKED_IPAD</key>
+	<string>Your iPad is locked.</string>
+	<key>PASSCODE_ERROR_DEVICE_CPLOCKED_IPHONE</key>
+	<string>Your iPhone is locked.</string>
+	<key>PASSCODE_ERROR_DEVICE_CPLOCKED_IPHONE SIMULATOR</key>
+	<string>Your iPhone Simulator is locked.</string>
+	<key>PASSCODE_ERROR_DEVICE_CPLOCKED_IPOD</key>
+	<string>Your iPod is locked.</string>
+	<key>PASSCODE_ERROR_WRONG_PASSCODE</key>
+	<string>Wrong passcode.</string>
+	<key>PASSCODE_QUALITY_ALPHA</key>
+	<string>The passcode must include letters.</string>
+	<key>PASSCODE_QUALITY_ASCENDING_DESCENDING</key>
+	<string>The passcode must not have ascending or descending characters.</string>
+	<key>PASSCODE_QUALITY_COMPLEX</key>
+	<string>The passcode must have more complex (special) characters.</string>
+	<key>PASSCODE_QUALITY_EXPIRED</key>
+	<string>This passcode has expired.</string>
+	<key>PASSCODE_QUALITY_NUMBER</key>
+	<string>The passcode must include numbers.</string>
+	<key>PASSCODE_QUALITY_REPEAT</key>
+	<string>The passcode must not have repeating characters.</string>
+	<key>PASSCODE_QUALITY_SHORT</key>
+	<string>The passcode must be longer.</string>
+	<key>PASSCODE_QUALITY_TOORECENT</key>
+	<string>This passcode has been used too recently.</string>
+	<key>PROVISIONING_ERROR_BAD_PROFILE</key>
+	<string>The provisioning profile is invalid.</string>
+	<key>PROVISIONING_ERROR_CANNOT_INSTALL</key>
+	<string>The provisioning profile could not be installed.</string>
+	<key>PROVISIONING_ERROR_CANNOT_INSTALL_P_CODE</key>
+	<string>The provisioning profile could not be installed (Error: %@).</string>
+	<key>PROVISIONING_ERROR_CANNOT_REMOVE_P_CODE</key>
+	<string>The provisioning profile could not be removed (Error: %@).</string>
+	<key>RESTRICTION_ERROR_BAD_PASSWORD_P_EMAIL</key>
+	<string>The password for the iCloud account “%@” is incorrect.</string>
+	<key>RESTRICTION_ERROR_CANNOT_DISABLE_ACTIVATION_LOCK</key>
+	<string>Activation Lock cannot be turned off.</string>
+	<key>RESTRICTION_ERROR_INCONSISTENT_SENSE_P_KEY</key>
+	<string>The restriction “%@” is invalid.</string>
+	<key>SCEP_ERROR_CANNOT_CREATE_CSR</key>
+	<string>A Certificate Signing Request could not be generated.</string>
+	<key>SCEP_ERROR_CANNOT_CREATE_TEMP_IDENTITY</key>
+	<string>Unable to create temporary identity.</string>
+	<key>SCEP_ERROR_CANNOT_GENERATE_KEY_PAIR</key>
+	<string>Cannot generate key pair.</string>
+	<key>SCEP_ERROR_CANNOT_STORE_CA_CERT</key>
+	<string>Unable to store Certification Authority certificate.</string>
+	<key>SCEP_ERROR_CANNOT_STORE_TEMP_IDENTITY</key>
+	<string>Unable to store temporary identity.</string>
+	<key>SCEP_ERROR_INSUFFICIENT_CA_CAPS</key>
+	<string>The Certification Authority does not have the required capability.</string>
+	<key>SCEP_ERROR_INVALID_CA_RESPONSE</key>
+	<string>The Certification Authority’s response is invalid.</string>
+	<key>SCEP_ERROR_INVALID_CSR_RESPONSE</key>
+	<string>The Certification Authority has sent an invalid Certificate Signing response.</string>
+	<key>SCEP_ERROR_INVALID_IDENTITY</key>
+	<string>The certificate returned by the Certification Authority could not be used to create an identity certificate.</string>
+	<key>SCEP_ERROR_INVALID_PKI_RESPONSE</key>
+	<string>The SCEP server returned an invalid response.</string>
+	<key>SCEP_ERROR_INVALID_RA_RESPONSE</key>
+	<string>The Registration Authority’s response is invalid.</string>
+	<key>SCEP_ERROR_INVALID_USAGE_FLAG_P_FIELD</key>
+	<string>The SCEP payload “%@” contains invalid certificate usage flags.</string>
+	<key>SCEP_ERROR_NETWORK</key>
+	<string>A network error has occurred.</string>
+	<key>SCEP_ERROR_UNSUPPORTED_SERVER_CONFIGURATION</key>
+	<string>The SCEP server configuration is not supported.</string>
+	<key>SETTINGS_UNKNOWN_ITEM_P_ITEM</key>
+	<string>The setting item “%@” is invalid.</string>
+	<key>SETTINGS_WALLPAPER_BAD_IMAGE</key>
+	<string>The wallpaper image is invalid.</string>
+	<key>SETTINGS_WALLPAPER_CANNOT_SET</key>
+	<string>The wallpaper image could not be applied.</string>
+	<key>SINGLE_APP_TOO_MANY_APPS</key>
+	<string>There are more than one app in the whitelist.</string>
+	<key>SSO_BAD_APP_IDENTIFIER_MATCH_P_PATTERN</key>
+	<string>The App Identifier matching pattern “%@” is invalid.</string>
+	<key>SSO_BAD_URL_MATCH_PATTERN_P_PATTERN</key>
+	<string>The URL matching pattern “%@” is invalid.</string>
+	<key>SSO_MISSING_PRINCIPAL_NAME_P_SSO</key>
+	<string>The Kerberos principal name for “%@” is missing.</string>
+	<key>SSO_PRINCIPAL_NAME_INVALID</key>
+	<string>The principal name must not contain the “@” character.</string>
+	<key>STORE_LOGIN_FAILED</key>
+	<string>The iTunes Store account could not be validated.</string>
+	<key>STORE_TIMEOUT</key>
+	<string>The iTunes Store operation has taken too long to complete.</string>
+	<key>SUBCAL_ACCT_CREATION_FAILED</key>
+	<string>Could not create new calendar subscription.</string>
+	<key>SUBCAL_ACCT_NOT_UNIQUE</key>
+	<string>An identical calendar subscription already exists.</string>
+	<key>SUBCAL_ACCT_NO_HOST_NAME</key>
+	<string>Calendar subscriptions missing host name.</string>
+	<key>TUNNEL_ERROR_CLOUD_CONFIG_EXISTS</key>
+	<string>A cloud configuration is already present on this device.</string>
+	<key>TUNNEL_ERROR_INVALID_FIELD_P_FIELD</key>
+	<string>The field “%@” is invalid.</string>
+	<key>UNKNOWN_ERROR</key>
+	<string>An unrecoverable error occurred while validating the account information. [%d]</string>
+	<key>WEBCLIP_PAYLOAD_CANNOT_INSTALL</key>
+	<string>The web clip cannot be installed.</string>
+</dict>
+</plist>

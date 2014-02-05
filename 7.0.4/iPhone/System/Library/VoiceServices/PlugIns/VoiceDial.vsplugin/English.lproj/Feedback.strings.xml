@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AIRPLANE_MODE_ON</key>
+	<string>Voice dialing is unavailable when in airplane mode.</string>
+	<key>AMBIGUOUS_LABELS_SPOKEN_FORMAT</key>
+	<string>%@.  %@?</string>
+	<key>AMBIGUOUS_LABEL_STATUS_STRING</key>
+	<string>Multiple Numbers</string>
+	<key>AMBIGUOUS_NAMES_SPOKEN_FORMAT</key>
+	<string>Multiple matches found.  %@?</string>
+	<key>AMBIGUOUS_NAMES_STATUS_STRING</key>
+	<string>Multiple Matches</string>
+	<key>CONFIRMED_DISPLAY_NAME_LABEL_FORMAT</key>
+	<string>calling %@…</string>
+	<key>CONFIRMED_DISPLAY_STRING</key>
+	<string>calling…</string>
+	<key>CONFIRMED_FACETIME_DISPLAY_NAME_LABEL_FORMAT</key>
+	<string>FaceTime %@…</string>
+	<key>CONFIRMED_FACETIME_DISPLAY_STRING</key>
+	<string>FaceTime…</string>
+	<key>CONFIRMED_FACETIME_SPOKEN_NAME_FORMAT</key>
+	<string>starting FaceTime with %@</string>
+	<key>CONFIRMED_FACETIME_SPOKEN_NAME_LABEL_FORMAT</key>
+	<string>starting FaceTime with %@, %@</string>
+	<key>CONFIRMED_FACETIME_SPOKEN_STRING</key>
+	<string>starting FaceTime</string>
+	<key>CONFIRMED_SPOKEN_DIGIT_DIAL_FORMAT</key>
+	<string>calling %@</string>
+	<key>CONFIRMED_SPOKEN_NAME_FORMAT</key>
+	<string>calling %@</string>
+	<key>CONFIRMED_SPOKEN_NAME_LABEL_FORMAT</key>
+	<string>calling %@, %@</string>
+	<key>CONFIRMED_SPOKEN_STRING</key>
+	<string>calling</string>
+	<key>CONFIRMED_SPOKEN_VOICEMAIL</key>
+	<string>calling voicemail</string>
+	<key>FACETIME_NOT_ENABLED</key>
+	<string>You must enable FaceTime before you can make video calls.</string>
+	<key>MANY_AMBIGUOUS_NAMES_SPOKEN_FORMAT</key>
+	<string>Multiple matches found for %@.  Be more specific.</string>
+	<key>MULTIPLE_ITEM_SEPARATOR_CHAR</key>
+	<string>, </string>
+	<key>MULTIPLE_ITEM_SEPARATOR_WORD</key>
+	<string>, or </string>
+	<key>NOT_REGISTERED</key>
+	<string>Voice dialing is unavailable when there is no cellular connection.</string>
+	<key>SENSITIVE_ACTIONS_OFF</key>
+	<string>Voice dialing is disabled.</string>
+	<key>SPOKEN_LABEL_WITH_EMAIL</key>
+	<string>%@ email</string>
+	<key>SPOKEN_LABEL_WITH_PHONE</key>
+	<string>%@ phone</string>
+	<key>SPOKEN_PLUS_AT_BEGINNING_OF_PHONE_NUMBER</key>
+	<string>plus</string>
+	<key>VOICEMAIL</key>
+	<string>Voicemail</string>
+</dict>
+</plist>

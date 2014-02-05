@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controls.hidden</key>
+	<string>Controls hidden</string>
+	<key>controls.shown</key>
+	<string>Controls shown</string>
+	<key>download.button</key>
+	<string>Download</string>
+	<key>expires.days</key>
+	<string>Expires in %@ days</string>
+	<key>expires.hours</key>
+	<string>Expires in %@ hours</string>
+	<key>expires.minutes</key>
+	<string>Expires in %@ minutes</string>
+	<key>expires.single.day</key>
+	<string>Expires in %@ day</string>
+	<key>expires.single.hour</key>
+	<string>Expires in %@ hour</string>
+	<key>expires.single.minute</key>
+	<string>Expires in %@ minute</string>
+	<key>play.button</key>
+	<string>Play</string>
+	<key>tv.episode.info.button</key>
+	<string>Show more info</string>
+	<key>video.poster.button</key>
+	<string>Video poster</string>
+	<key>video.poster.button.hint</key>
+	<string>Plays the video</string>
+	<key>video.thumbnail.delete</key>
+	<string>Delete %@</string>
+	<key>video.thumbnail.delete.hint</key>
+	<string>Double tap to delete video</string>
+	<key>video.thumbnail.hint</key>
+	<string>Double tap to view details</string>
+</dict>
+</plist>

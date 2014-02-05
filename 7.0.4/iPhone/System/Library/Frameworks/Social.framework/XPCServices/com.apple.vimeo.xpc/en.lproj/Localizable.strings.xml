@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OVER_UPLOAD_BANDWIDTH_LIMIT_FORMAT</key>
+	<string>The Vimeo account “%@” does not have enough storage available to upload this video.</string>
+	<key>OVER_UPLOAD_DAILY_COUNT_LIMIT_FORMAT</key>
+	<string>The Vimeo account “%@” has no video uploads remaining today.</string>
+	<key>OVER_UPLOAD_WEEKLY_COUNT_LIMIT_FORMAT</key>
+	<string>The Vimeo account “%@” has no HD video uploads remaining this week. Your video will be converted to SD only.</string>
+	<key>RETRY</key>
+	<string>Retry</string>
+	<key>VIMEO_UPLOAD_FAILED</key>
+	<string>Vimeo Upload Failed</string>
+</dict>
+</plist>

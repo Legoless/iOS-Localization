@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>52w High:</key>
+	<string>52 week high:</string>
+	<key>52w Low:</key>
+	<string>52 week low:</string>
+	<key>Avg Vol:</key>
+	<string>Average volume:</string>
+	<key>High:</key>
+	<string>High:</string>
+	<key>Low:</key>
+	<string>Low:</string>
+	<key>Mkt Cap:</key>
+	<string>Market cap:</string>
+	<key>Open:</key>
+	<string>Open:</string>
+	<key>P/E:</key>
+	<string>Price to earnings ratio:</string>
+	<key>Vol:</key>
+	<string>Volume:</string>
+	<key>Yield:</key>
+	<string>Yield:</string>
+	<key>application.name</key>
+	<string>Stocks</string>
+	<key>down.text</key>
+	<string>down</string>
+	<key>info.button.text</key>
+	<string>Edit stocks</string>
+	<key>nextDetailViewButton</key>
+	<string>Next detail view</string>
+	<key>one.day.button</key>
+	<string>one day</string>
+	<key>one.month.button</key>
+	<string>one month</string>
+	<key>one.week.button</key>
+	<string>one week</string>
+	<key>one.year.button</key>
+	<string>one year</string>
+	<key>previousDetailViewButton</key>
+	<string>Previous detail view</string>
+	<key>six.months.button</key>
+	<string>six months</string>
+	<key>stock.info.title</key>
+	<string>Stock info: %@</string>
+	<key>three.months.button</key>
+	<string>three months</string>
+	<key>ticker.cell.format.down</key>
+	<string>%1$@, %2$@, down %3$@, change of %4$@, market cap: %5$@</string>
+	<key>ticker.cell.format.down.nomarketcap</key>
+	<string>%1$@, %2$@, down %3$@, change of %4$@</string>
+	<key>ticker.cell.format.up</key>
+	<string>%1$@, %2$@, up %3$@, change of %4$@, market cap: %5$@</string>
+	<key>ticker.cell.format.up.nomarketcap</key>
+	<string>%1$@, %2$@, up %3$@, change of %4$@</string>
+	<key>two.years.button</key>
+	<string>two years</string>
+	<key>up.text</key>
+	<string>up</string>
+	<key>yahoo.button.text</key>
+	<string>Yahoo Finance</string>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CALENDAR_LOCK_LABEL</key>
+	<string>slide to view</string>
+	<key>CALL</key>
+	<string>Call</string>
+	<key>CLOSE</key>
+	<string>Close</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>FACETIME</key>
+	<string>FaceTime</string>
+	<key>INVITATION</key>
+	<string>Invitation</string>
+	<key>INVITATION_COUNT_FORMAT</key>
+	<string>%@ Invitations</string>
+	<key>MARK_COMPLETED</key>
+	<string>Mark as Completed</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OPTIONS</key>
+	<string>Options</string>
+	<key>REMIND_ME_IN_15_MINUTES</key>
+	<string>Remind me in 15 minutes</string>
+	<key>SNOOZE_ALARM</key>
+	<string>Snooze</string>
+	<key>VIEW</key>
+	<string>View</string>
+	<key>VIEW_EVENT</key>
+	<string>View Event</string>
+	<key>VIEW_REMINDER</key>
+	<string>View Reminder</string>
+</dict>
+</plist>

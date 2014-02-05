@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10_MINUTES</key>
+	<string>%@ Minutes</string>
+	<key>15_MINUTES</key>
+	<string>%@ Minutes</string>
+	<key>1_MINUTES</key>
+	<string>%@ Minute</string>
+	<key>2_MINUTES</key>
+	<string>%@ Minutes</string>
+	<key>3_MINUTES</key>
+	<string>%@ Minutes</string>
+	<key>4_MINUTES</key>
+	<string>%@ Minutes</string>
+	<key>5_MINUTES</key>
+	<string>%@ Minutes</string>
+	<key>ACCESSIBILITY</key>
+	<string>Accessibility</string>
+	<key>AFTER_15_MIN</key>
+	<string>After 15 Minutes</string>
+	<key>AFTER_1_HOUR</key>
+	<string>After 1 Hour</string>
+	<key>AFTER_1_MIN</key>
+	<string>After 1 Minute</string>
+	<key>AFTER_4_HOURS</key>
+	<string>After 4 Hours</string>
+	<key>AFTER_5_MIN</key>
+	<string>After 5 Minutes</string>
+	<key>AUTOLOCK</key>
+	<string>Auto-Lock</string>
+	<key>AUTO_CONTENT_DOWNLOAD</key>
+	<string>Background App Refresh</string>
+	<key>About</key>
+	<string>About</string>
+	<key>Advertising</key>
+	<string>Advertising</string>
+	<key>BACKUP</key>
+	<string>Backup</string>
+	<key>BOTH</key>
+	<string>Both</string>
+	<key>Backlight</key>
+	<string>Backlight</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DATE_AND_TIME</key>
+	<string>Date &amp; Time</string>
+	<key>Device_Name</key>
+	<string>Name</string>
+	<key>Enable Caps Lock</key>
+	<string>Enable Caps Lock</string>
+	<key>General</key>
+	<string>General</string>
+	<key>HEADPHONES</key>
+	<string>Headphones</string>
+	<key>IMMEDIATELY</key>
+	<string>Immediately</string>
+	<key>INTERNATIONAL</key>
+	<string>International</string>
+	<key>Keyboard</key>
+	<string>Keyboard</string>
+	<key>Learn More...</key>
+	<string>• Learn More...</string>
+	<key>Legal</key>
+	<string>Legal</string>
+	<key>Lock_Rotation</key>
+	<string>Lock Rotation</string>
+	<key>Mute</key>
+	<string>Mute</string>
+	<key>NEVER</key>
+	<string>Never</string>
+	<key>NO_DIGIT_NEEDED_1_MINUTE</key>
+	<string>1 Minute</string>
+	<key>Network</key>
+	<string>Network</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>OK</key>
+	<string>Save</string>
+	<key>ON</key>
+	<string>On</string>
+	<key>PASSCODE</key>
+	<string>Passcode Lock</string>
+	<key>PROFILES</key>
+	<string>Profiles</string>
+	<key>RESTRICTIONS</key>
+	<string>Restrictions</string>
+	<key>Reset</key>
+	<string>Reset</string>
+	<key>Rotation_Switch_Action_Group_Label</key>
+	<string>Use Side Switch to:</string>
+	<key>SHOW_BATTERY_PERCENTAGE</key>
+	<string>Battery Percentage</string>
+	<key>SOFTWARE_UPDATE</key>
+	<string>Software Update</string>
+	<key>SOUND_EFFECTS</key>
+	<string>Sound Effects</string>
+	<key>SPEAKER</key>
+	<string>Speaker</string>
+	<key>SUPERVISION_IPHONE</key>
+	<string>This iPhone is supervised.</string>
+	<key>SUPERVISION_IPOD</key>
+	<string>This iPod is supervised.</string>
+	<key>SUPERVISION_WITH_ORG_IPHONE</key>
+	<string>This iPhone is supervised by %@</string>
+	<key>SUPERVISION_WITH_ORG_IPOD</key>
+	<string>This iPod is supervised by %@</string>
+	<key>Siri</key>
+	<string>Siri</string>
+	<key>Sounds</key>
+	<string>Sounds</string>
+	<key>TEXT_SIZE</key>
+	<string>Text Size</string>
+	<key>TRUST_STORE_ABOUT</key>
+	<string>Learn more about trusted certificates</string>
+	<key>TRUST_STORE_URL</key>
+	<string>http://support.apple.com/kb/HT5012</string>
+	<key>TV_OUT</key>
+	<string>TV Out</string>
+	<key>USAGE</key>
+	<string>Usage</string>
+	<key>USER_GUIDE</key>
+	<string>User Guide</string>
+	<key>VOLUME_LIMIT</key>
+	<string>Volume Limit</string>
+	<key>Videos...</key>
+	<string>• Videos...</string>
+	<key>WIFI_CONFIG</key>
+	<string>Configure your Wi-Fi Network</string>
+	<key>Wallpaper</key>
+	<string>Wallpaper</string>
+	<key>d_MINUTES</key>
+	<string>%@ Minutes</string>
+</dict>
+</plist>

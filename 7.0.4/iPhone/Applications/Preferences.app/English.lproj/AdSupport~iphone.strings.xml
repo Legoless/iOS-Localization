@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT_AD_SUPPORT_TITLE</key>
+	<string>About Ad Tracking</string>
+	<key>AD_SUPPORT_LINK</key>
+	<string>Learn More</string>
+	<key>AD_SUPPORT_TITLE</key>
+	<string>Limit Ad Tracking</string>
+	<key>LIMIT_TRACKING_CONNECT_MESSAGE</key>
+	<string>Connect to the Internet to view Advertising settings.</string>
+	<key>LOADING_FAILED_TITLE</key>
+	<string>Connect to the Internet to View This Information</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>RESET_AD_ID</key>
+	<string>Reset Advertising Identifier</string>
+	<key>RESET_CANCEL_TITLE</key>
+	<string>Cancel</string>
+	<key>RESET_CONFIRMATION_TITLE</key>
+	<string>Reset</string>
+	<key>RESET_PROMPT_TITLE</key>
+	<string>Reset Advertising Identifier?</string>
+</dict>
+</plist>

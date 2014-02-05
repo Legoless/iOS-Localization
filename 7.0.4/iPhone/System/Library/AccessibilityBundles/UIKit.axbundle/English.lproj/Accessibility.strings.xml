@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AXTextOperationActionBold</key>
+	<string>bold</string>
+	<key>AXTextOperationActionCopy</key>
+	<string>copied</string>
+	<key>AXTextOperationActionCut</key>
+	<string>cut</string>
+	<key>AXTextOperationActionDefine</key>
+	<string>define</string>
+	<key>AXTextOperationActionItalics</key>
+	<string>italic</string>
+	<key>AXTextOperationActionPaste</key>
+	<string>paste</string>
+	<key>AXTextOperationActionRedo</key>
+	<string>redo</string>
+	<key>AXTextOperationActionSelectAll</key>
+	<string>select all</string>
+	<key>AXTextOperationActionUnderline</key>
+	<string>underline</string>
+	<key>AXTextOperationActionUndo</key>
+	<string>undo</string>
+	<key>accessibility.asview.listen.button.hint</key>
+	<string>Double tap and then speak to use Siri.</string>
+	<key>accessibility.asview.thinking</key>
+	<string>Siri thinking</string>
+	<key>action.button</key>
+	<string>Share</string>
+	<key>activity.indicator.inprogress.label</key>
+	<string>In progress</string>
+	<key>activity.indicator.progresshalted.label</key>
+	<string>Progress halted</string>
+	<key>airplay.audio.route</key>
+	<string>Audio route</string>
+	<key>airplay.video.route</key>
+	<string>Video route</string>
+	<key>airplay.wirelessdisplay.route</key>
+	<string>Display route</string>
+	<key>airtunes.text</key>
+	<string>AirPlay</string>
+	<key>badge.count.plural</key>
+	<string>%@ items</string>
+	<key>badge.count.singular</key>
+	<string>%@ item</string>
+	<key>bold.disabled</key>
+	<string>Bold off</string>
+	<key>bold.enabled</key>
+	<string>Bold on</string>
+	<key>bookmarks.button</key>
+	<string>Bookmarks</string>
+	<key>camera.button</key>
+	<string>Camera</string>
+	<key>cancel.toolbar.button.text</key>
+	<string>Cancel</string>
+	<key>caps.lock.enabled</key>
+	<string>Caps lock on</string>
+	<key>clear.button.text</key>
+	<string>Clear text</string>
+	<key>close.button</key>
+	<string>close</string>
+	<key>collapse.active.item.hint</key>
+	<string>Double tap to collapse the active item</string>
+	<key>collapse.suggestions</key>
+	<string>Close more suggestions</string>
+	<key>collection.view.reorder.after</key>
+	<string>After %@</string>
+	<key>collection.view.reorder.before</key>
+	<string>Before %@</string>
+	<key>compose.button</key>
+	<string>Compose</string>
+	<key>control.center.hint</key>
+	<string>Swipe up with three fingers to reveal the control center</string>
+	<key>current.position.slider</key>
+	<string>Current position</string>
+	<key>custom.action.delete</key>
+	<string>Delete</string>
+	<key>date.picker.hours</key>
+	<string>%@ o'clock</string>
+	<key>date.picker.minutes.plural</key>
+	<string>minutes</string>
+	<key>date.picker.minutes.singular</key>
+	<string>minute</string>
+	<key>date.picker.row.format</key>
+	<string>%@ %@</string>
+	<key>delete.key</key>
+	<string>Delete</string>
+	<key>dictation.key</key>
+	<string>Dictate</string>
+	<key>dictation.key.hint</key>
+	<string>Double tap to start dictation.  Two finger double tap when finished</string>
+	<key>dismiss.accessibility.asview.hint</key>
+	<string>Double tap to dismiss Siri</string>
+	<key>dismiss.accessibility.asview.label</key>
+	<string>Dismiss Siri</string>
+	<key>done.button</key>
+	<string>Done</string>
+	<key>done.toolbar.button.text</key>
+	<string>Done</string>
+	<key>double.tap.dismiss</key>
+	<string>Double-tap to dismiss</string>
+	<key>edit.toolbar.button.text</key>
+	<string>Edit</string>
+	<key>emoji.category.nature</key>
+	<string>nature</string>
+	<key>emoji.category.object</key>
+	<string>objects</string>
+	<key>emoji.category.people</key>
+	<string>people</string>
+	<key>emoji.category.places</key>
+	<string>places</string>
+	<key>emoji.category.recents</key>
+	<string>recents</string>
+	<key>emoji.category.symbols</key>
+	<string>symbols</string>
+	<key>empty.candidate.cell</key>
+	<string>Empty box</string>
+	<key>empty.table.cell</key>
+	<string>spacer</string>
+	<key>end.quietly.hint</key>
+	<string>Two-finger double tap to end dictation</string>
+	<key>face.count.plural</key>
+	<string>%@ faces</string>
+	<key>face.count.singular</key>
+	<string>%@ face</string>
+	<key>face.marks.keyboard.button</key>
+	<string>Face marks</string>
+	<key>fastforward.button</key>
+	<string>Fast forward</string>
+	<key>filetype.audio</key>
+	<string>Audio</string>
+	<key>filetype.calendar.event</key>
+	<string>Calendar event</string>
+	<key>filetype.configuration.profile</key>
+	<string>Configuration profile</string>
+	<key>filetype.contact.card</key>
+	<string>Contact card</string>
+	<key>filetype.csv.file</key>
+	<string>CSV file</string>
+	<key>filetype.excel</key>
+	<string>Excel document</string>
+	<key>filetype.html.file</key>
+	<string>HTML file</string>
+	<key>filetype.image</key>
+	<string>Image</string>
+	<key>filetype.keynote</key>
+	<string>Keynote file</string>
+	<key>filetype.media</key>
+	<string>Media file</string>
+	<key>filetype.number</key>
+	<string>Numbers file</string>
+	<key>filetype.pages</key>
+	<string>Pages file</string>
+	<key>filetype.pdf</key>
+	<string>PDF document</string>
+	<key>filetype.powerpoint</key>
+	<string>PowerPoint document</string>
+	<key>filetype.rtf.document</key>
+	<string>RTF document</string>
+	<key>filetype.text.file</key>
+	<string>Text file</string>
+	<key>filetype.video</key>
+	<string>Video</string>
+	<key>filetype.word</key>
+	<string>Word document</string>
+	<key>fullscreen.zoom</key>
+	<string>Switch to full screen mode</string>
+	<key>garbage.toolbar.button.text</key>
+	<string>Delete</string>
+	<key>global.keyboard.key</key>
+	<string>Next keyboard</string>
+	<key>globe.keyboard.key.hint</key>
+	<string>Double-tap and hold, then drag up to select another keyboard</string>
+	<key>handwriting.input.area</key>
+	<string>Handwriting Input</string>
+	<key>handwriting.input.hint</key>
+	<string>Draw characters, then select the correct character from above.</string>
+	<key>help.button</key>
+	<string>help</string>
+	<key>image.text</key>
+	<string>Image</string>
+	<key>image.type.screenshot</key>
+	<string>Screenshot</string>
+	<key>index.with.total.count</key>
+	<string>%1$@ of %2$@</string>
+	<key>insert.control.text</key>
+	<string>Insert</string>
+	<key>insert.control.text.with.label</key>
+	<string>Insert %@</string>
+	<key>inserted.text</key>
+	<string>Inserted %@</string>
+	<key>italic.disabled</key>
+	<string>Italic off</string>
+	<key>italic.enabled</key>
+	<string>Italic on</string>
+	<key>item.list.button</key>
+	<string>Item List</string>
+	<key>keyboard</key>
+	<string>Keyboard</string>
+	<key>keyboard.chinese.fullwidth.toggle</key>
+	<string>Switch to full width</string>
+	<key>keyboard.chinese.regularwidth.toggle</key>
+	<string>Switch to default width</string>
+	<key>keyboard.complete.key</key>
+	<string>Complete</string>
+	<key>keyboard.dismiss.hint</key>
+	<string>Double tap and hold to alter keyboard</string>
+	<key>keyboard.dismiss.key.default</key>
+	<string>Hide keyboard</string>
+	<key>keyboard.emoji.keyplane</key>
+	<string>Emoji</string>
+	<key>keyboard.emoticon.key</key>
+	<string>Emoticons</string>
+	<key>keyboard.hidden</key>
+	<string>Keyboard hidden</string>
+	<key>keyboard.key.accents</key>
+	<string>Accents</string>
+	<key>keyboard.key.chinese.stroke.punctuation</key>
+	<string>Punctuation</string>
+	<key>keyboard.key.chinese.stroke.wildcard</key>
+	<string>Any stroke…</string>
+	<key>keyboard.menu.visible</key>
+	<string>Menu visible</string>
+	<key>keyboard.return.key.default</key>
+	<string>Return</string>
+	<key>keyboard.return.key.done</key>
+	<string>Done</string>
+	<key>keyboard.return.key.emergency</key>
+	<string>Emergency call</string>
+	<key>keyboard.return.key.go</key>
+	<string>Go</string>
+	<key>keyboard.return.key.google</key>
+	<string>Google</string>
+	<key>keyboard.return.key.join</key>
+	<string>Join</string>
+	<key>keyboard.return.key.next</key>
+	<string>Next</string>
+	<key>keyboard.return.key.route</key>
+	<string>Route</string>
+	<key>keyboard.return.key.search</key>
+	<string>Search</string>
+	<key>keyboard.return.key.send</key>
+	<string>Send</string>
+	<key>keyboard.return.key.yahoo</key>
+	<string>Yahoo</string>
+	<key>keyboard.reverse.key</key>
+	<string>Reverse</string>
+	<key>keyboard.split</key>
+	<string>Keyboard split</string>
+	<key>keyboard.turn.capslock.off.hint</key>
+	<string>Double-tap to exit caps lock</string>
+	<key>keyboard.turn.capslock.on.hint</key>
+	<string>Triple-tap to enter caps lock</string>
+	<key>keyboard.type</key>
+	<string>%@ keyboard</string>
+	<key>keyboard.unsplit</key>
+	<string>Keyboard merged</string>
+	<key>keyboard.variants.alert</key>
+	<string>Alternative characters available.</string>
+	<key>keyboard.variants.hint</key>
+	<string>Slide your finger to discover alternative characters. Lift to select a character.</string>
+	<key>keyboard.visible</key>
+	<string>Keyboard visible</string>
+	<key>keyboardMinimized.tabButton</key>
+	<string>show keyboard</string>
+	<key>links</key>
+	<string>Links</string>
+	<key>ltr.menu.button</key>
+	<string>Left to right</string>
+	<key>more.candidates</key>
+	<string>More suggestions</string>
+	<key>more.glyph.key</key>
+	<string>more, glyphs</string>
+	<key>more.handwriting.key</key>
+	<string>more, handwriting</string>
+	<key>more.info.button</key>
+	<string>More info</string>
+	<key>more.key</key>
+	<string>more</string>
+	<key>more.letters.key</key>
+	<string>more, letters</string>
+	<key>more.numbers.key</key>
+	<string>more, numbers</string>
+	<key>more.phone.key</key>
+	<string>more, phone pad</string>
+	<key>more.symbols.key</key>
+	<string>more, symbols</string>
+	<key>navbar.container.description</key>
+	<string>nav bar</string>
+	<key>new.toolbar.button.text</key>
+	<string>New</string>
+	<key>next.international.keyboard.key</key>
+	<string>Switch to %@ keyboard</string>
+	<key>next.international.keyboard.key.fallback</key>
+	<string>Next international keyboard</string>
+	<key>no.search.results</key>
+	<string>No search results</string>
+	<key>non.editing.tab.bar.item.hint</key>
+	<string>In edit mode.</string>
+	<key>normal.zoom</key>
+	<string>Switch to normal mode</string>
+	<key>notification.center.hint</key>
+	<string>Swipe down with three fingers to reveal the notification center.</string>
+	<key>opens.preferences</key>
+	<string>Double-tap to open Settings</string>
+	<key>organize.button</key>
+	<string>Organize</string>
+	<key>page.control.format.text</key>
+	<string>page %1$@ of %2$@</string>
+	<key>page.control.indicator.text</key>
+	<string>page %@</string>
+	<key>page.control.text</key>
+	<string>page control</string>
+	<key>parentheses</key>
+	<string>Parentheses</string>
+	<key>pause.button</key>
+	<string>Pause</string>
+	<key>percent.value.formatter</key>
+	<string>%@</string>
+	<key>play.button</key>
+	<string>Play</string>
+	<key>popover.view.dimiss.region</key>
+	<string>dismiss popup</string>
+	<key>popover.view.dimiss.region.hint</key>
+	<string>Double-tap to dismiss pop-up window.</string>
+	<key>progress.text</key>
+	<string>Progress</string>
+	<key>refresh.button</key>
+	<string>Refresh</string>
+	<key>refreshing.content</key>
+	<string>Refreshing content</string>
+	<key>remove.control.text</key>
+	<string>Delete </string>
+	<key>remove.control.text.with.label</key>
+	<string>Delete %@</string>
+	<key>replace.menu.button</key>
+	<string>Replace…</string>
+	<key>replacing.tabbar.icon</key>
+	<string>Replacing %@ at position %@</string>
+	<key>reply.button</key>
+	<string>Reply</string>
+	<key>return.to.keyboard</key>
+	<string>Return to keyboard</string>
+	<key>rewind.button</key>
+	<string>Rewind</string>
+	<key>row.collapsed</key>
+	<string>Row collapsed</string>
+	<key>row.expanded</key>
+	<string>Row expanded</string>
+	<key>row.reorder.moved.above</key>
+	<string>moved above %@</string>
+	<key>row.reorder.moved.below</key>
+	<string>moved below %@</string>
+	<key>row.with.total.count</key>
+	<string>row %1$@ of %2$@</string>
+	<key>rtl.menu.button</key>
+	<string>Right to left</string>
+	<key>save.toolbar.button.text</key>
+	<string>Save</string>
+	<key>scroll.page.summary</key>
+	<string>page %1$@ of %2$@</string>
+	<key>search.button</key>
+	<string>Search</string>
+	<key>search.results</key>
+	<string>Search results</string>
+	<key>searchfield.list.button</key>
+	<string>Display results</string>
+	<key>secure.password.field</key>
+	<string>Password field.</string>
+	<key>secure.password.field.empty</key>
+	<string>Empty password field</string>
+	<key>secure.password.field.numchars.required.plural</key>
+	<string>%@ values required</string>
+	<key>secure.password.field.numchars.required.singular</key>
+	<string>%@ value required</string>
+	<key>select.control.text</key>
+	<string>Select</string>
+	<key>select.control.text.with.label</key>
+	<string>Select %@</string>
+	<key>share.button</key>
+	<string>Share</string>
+	<key>shift.key</key>
+	<string>shift</string>
+	<key>show.next.items.menu.button</key>
+	<string>Show more items</string>
+	<key>show.previous.items.menu.button</key>
+	<string>Show previous items</string>
+	<key>slider.time.position</key>
+	<string>%1$@ of %2$@</string>
+	<key>spacebar.key</key>
+	<string>space</string>
+	<key>star.count.five</key>
+	<string>five stars</string>
+	<key>star.count.four</key>
+	<string>four stars</string>
+	<key>star.count.fourandhalf</key>
+	<string>four and a half stars</string>
+	<key>star.count.one</key>
+	<string>one star</string>
+	<key>star.count.oneandhalf</key>
+	<string>one and a half stars</string>
+	<key>star.count.onehalf</key>
+	<string>half star</string>
+	<key>star.count.plural</key>
+	<string>%@ stars</string>
+	<key>star.count.plural.float</key>
+	<string>%@ stars</string>
+	<key>star.count.singular</key>
+	<string>%@ star</string>
+	<key>star.count.three</key>
+	<string>three stars</string>
+	<key>star.count.threeandhalf</key>
+	<string>three and a half stars</string>
+	<key>star.count.two</key>
+	<string>two stars</string>
+	<key>star.count.twoandhalf</key>
+	<string>two and a half stars</string>
+	<key>star.count.zero</key>
+	<string>0 stars</string>
+	<key>start.button</key>
+	<string>Start</string>
+	<key>started.moving.tabbar.icon</key>
+	<string>Moving %@</string>
+	<key>status.airplane.mode</key>
+	<string>Airplane mode on</string>
+	<key>status.airplay.icon</key>
+	<string>AirPlay active</string>
+	<key>status.alarm.clock.icon</key>
+	<string>Alarm set</string>
+	<key>status.bar.scroll.to.top.hint</key>
+	<string>Double-tap to scroll to top</string>
+	<key>status.battery.capacity</key>
+	<string>%@ battery power</string>
+	<key>status.battery.charging</key>
+	<string>Charging</string>
+	<key>status.battery.onAC</key>
+	<string>On AC Power</string>
+	<key>status.bluetooth.battery.format</key>
+	<string>Bluetooth battery %@</string>
+	<key>status.bluetooth.connected</key>
+	<string>Bluetooth connected</string>
+	<key>status.bluetooth.on</key>
+	<string>Bluetooth on</string>
+	<key>status.call.forward.icon</key>
+	<string>Call forwarding on</string>
+	<key>status.icon.quiet.time</key>
+	<string>Do not disturb</string>
+	<key>status.location.geofence</key>
+	<string>Region tracking on</string>
+	<key>status.location.icon</key>
+	<string>Location tracking on</string>
+	<key>status.network.1x</key>
+	<string>1 X</string>
+	<key>status.network.4g</key>
+	<string>4G</string>
+	<key>status.network.connection.inprogress</key>
+	<string>Network connection in progress</string>
+	<key>status.network.edge</key>
+	<string>Edge</string>
+	<key>status.network.gprs</key>
+	<string>GPRS</string>
+	<key>status.network.ios.hotspot</key>
+	<string>Hotspot connection</string>
+	<key>status.network.lte</key>
+	<string>LTE</string>
+	<key>status.network.umts</key>
+	<string>3G</string>
+	<key>status.network.wifi.no.signal</key>
+	<string>No Wi-Fi signal</string>
+	<key>status.network.wifi.rssi.strength</key>
+	<string>%@ Wi-Fi signal</string>
+	<key>status.network.wifi.signal.bars</key>
+	<string>%@ of %@ Wi-Fi bars</string>
+	<key>status.network.wlan.signal.bars</key>
+	<string>%@ of %@ WLAN bars</string>
+	<key>status.nike.plus.icon</key>
+	<string>Nike+</string>
+	<key>status.not.charging</key>
+	<string>Not charging</string>
+	<key>status.play.icon</key>
+	<string>Playing Music</string>
+	<key>status.rotationlock.icon</key>
+	<string>Orientation Locked</string>
+	<key>status.service.ipad</key>
+	<string>iPad</string>
+	<key>status.service.ipod</key>
+	<string>iPod</string>
+	<key>status.service.network.format</key>
+	<string>%@ network</string>
+	<key>status.signal.bars</key>
+	<string>%@ of %@ bars, signal strength</string>
+	<key>status.signal.no.signal</key>
+	<string>No signal</string>
+	<key>status.signal.rssi</key>
+	<string>%@ signal strength</string>
+	<key>status.synching.inprogress</key>
+	<string>Sync in progress</string>
+	<key>status.thermal.normal</key>
+	<string>Thermal level normal</string>
+	<key>status.thermal.warning</key>
+	<string>Thermal warning</string>
+	<key>status.thermal.warning.app.terminate</key>
+	<string>Thermal warning: quitting application</string>
+	<key>status.thermal.warning.device.restart</key>
+	<string>Thermal warning: restarting iPhone</string>
+	<key>status.thermal.warning.severe</key>
+	<string>Thermal warning: severe</string>
+	<key>status.tty.icon</key>
+	<string>TTY on</string>
+	<key>status.vpn.icon</key>
+	<string>VPN on</string>
+	<key>stop.button</key>
+	<string>Stop</string>
+	<key>style.menu.button</key>
+	<string>Style options</string>
+	<key>table.index.label</key>
+	<string>table index</string>
+	<key>table.scrollbypage.status</key>
+	<string>rows %1$@ to %2$@ of %3$@</string>
+	<key>table.view.reorder.control</key>
+	<string>Reorder</string>
+	<key>table.view.reorder.control.label</key>
+	<string>Reorder %@</string>
+	<key>textfield.example.placeholder</key>
+	<string>Example: %@.</string>
+	<key>textfield.with.label</key>
+	<string>%1$@: %2$@</string>
+	<key>thinking.about.dictation</key>
+	<string>Thinking...</string>
+	<key>trash.button</key>
+	<string>Trash</string>
+	<key>trim.beginning.slider</key>
+	<string>Trim beginning</string>
+	<key>trim.end.slider</key>
+	<string>Trim end</string>
+	<key>typing.correction.view.hint</key>
+	<string>Double tap to cancel the auto-correction.</string>
+	<key>ui.stepper.decrement</key>
+	<string>Decrement</string>
+	<key>ui.stepper.increment</key>
+	<string>Increment</string>
+	<key>uibutton.navbar.add.button.title</key>
+	<string>Add</string>
+	<key>uibutton.navbar.back.button.title</key>
+	<string>Back</string>
+	<key>uibutton.table.next.button.title</key>
+	<string>Next</string>
+	<key>uibutton.table.previous.button.title</key>
+	<string>Previous</string>
+	<key>uiremove.control.text.button.text</key>
+	<string>Confirm Deletion for %@</string>
+	<key>uiremove.control.text.button.text.nolabel</key>
+	<string>Confirm Deletion</string>
+	<key>uitable.emptytable.text</key>
+	<string>Empty list</string>
+	<key>underline.disabled</key>
+	<string>Underline off</string>
+	<key>underline.enabled</key>
+	<string>Underline on</string>
+	<key>viewlist.toolbar.button.text</key>
+	<string>View list</string>
+	<key>webarea.container.description</key>
+	<string>HTML content</string>
+	<key>wifi.alert.instructions</key>
+	<string>Select a Wi-Fi Network or Cancel</string>
+	<key>zoom.level</key>
+	<string>zoom %d x</string>
+</dict>
+</plist>

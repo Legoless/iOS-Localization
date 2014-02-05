@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASSISTANT_AVAILABLE_CONTENT</key>
+	<string>Siri and dictation are now available in %@. Press and hold the home button to start using Siri.</string>
+	<key>ASSISTANT_AVAILABLE_TITLE</key>
+	<string>Can Siri Help You?</string>
+	<key>ASSISTANT_EDUCATION_DISMISS</key>
+	<string>Dismiss</string>
+	<key>ASSISTANT_GUIDE_BACK_BUTTON_TITLE</key>
+	<string>Guide</string>
+	<key>ASSISTANT_GUIDE_HEADER</key>
+	<string>Tap the mic to say things like:</string>
+	<key>ASSISTANT_INITIAL_QUERY</key>
+	<string>What can I help you with?</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>SIRI_LANGUAGE_AVAILABLE_LIST_SEPARATOR_MIDDLE</key>
+	<string>, </string>
+	<key>SIRI_LANGUAGE_AVAILABLE_LIST_SEPARATOR_TERMINAL</key>
+	<string>, and </string>
+	<key>SIRI_LANGUAGE_AVAILABLE_LIST_SEPARATOR_TWO</key>
+	<string> and </string>
+	<key>SIRI_ROUTE_PICKER_CANCEL_BUTTON_TITLE</key>
+	<string>Cancel</string>
+	<key>SIRI_ROUTE_PICKER_SHEET_TITLE</key>
+	<string>Siri</string>
+</dict>
+</plist>

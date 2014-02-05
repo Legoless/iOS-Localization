@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASIAN_FONT</key>
+	<string>Asian Font</string>
+	<key>BUDDHIST_CALENDAR</key>
+	<string>Buddhist</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CHINESE</key>
+	<string>Chinese</string>
+	<key>CustomLocaleFormat</key>
+	<string>%@ (%@)</string>
+	<key>CustomLocaleVariantFormat</key>
+	<string>%@ (%@, %@)</string>
+	<key>DATE</key>
+	<string>Date</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EXAMPLE</key>
+	<string>Region Format Example</string>
+	<key>EXAMPLE_PHONE_NUMBER</key>
+	<string>4085551212</string>
+	<key>GREGORIAN_CALENDAR</key>
+	<string>Gregorian</string>
+	<key>HONG_KONG_SHORT_COUNTRY_NAME</key>
+	<string>Hong Kong</string>
+	<key>INTERNATIONAL</key>
+	<string>International</string>
+	<key>JAPANESE</key>
+	<string>Japanese</string>
+	<key>JAPANESE_CALENDAR</key>
+	<string>Japanese</string>
+	<key>LANGUAGE</key>
+	<string>Language</string>
+	<key>LANGUAGE_WITH_REGION</key>
+	<string>%@ (%@)</string>
+	<key>LANGUAGE_WITH_REGION_AND_DIALECT</key>
+	<string>%@ (%@ - %@)</string>
+	<key>LOCALE</key>
+	<string>Region Format</string>
+	<key>MANDARIN_SPOKEN_DIALECT</key>
+	<string>Mandarin</string>
+	<key>PHONE</key>
+	<string>Phone</string>
+	<key>ROC_CALENDAR</key>
+	<string>Republic of China</string>
+	<key>SETTING_ASIAN_FONT</key>
+	<string>Setting Asian Font…</string>
+	<key>SETTING_LANGUAGE</key>
+	<string>Setting Language…</string>
+	<key>Sample Day</key>
+	<string>5</string>
+	<key>Sample Month</key>
+	<string>1</string>
+	<key>TIME</key>
+	<string>Time</string>
+	<key>VariantFormat</key>
+	<string>%@ (%@)</string>
+	<key>ar</key>
+	<string>العربية</string>
+	<key>bg</key>
+	<string>Български</string>
+	<key>ca</key>
+	<string>Català</string>
+	<key>cs</key>
+	<string>Čeština</string>
+	<key>da</key>
+	<string>Dansk</string>
+	<key>de</key>
+	<string>Deutsch</string>
+	<key>de-AT</key>
+	<string>Österreichisches Deutsch</string>
+	<key>de-CH</key>
+	<string>Deutsch (Schweiz)</string>
+	<key>el</key>
+	<string>Ελληνικά</string>
+	<key>en</key>
+	<string>English</string>
+	<key>en-AU</key>
+	<string>Australian English</string>
+	<key>en-CA</key>
+	<string>Canadian English</string>
+	<key>en-GB</key>
+	<string>British English</string>
+	<key>en-US</key>
+	<string>U.S. English</string>
+	<key>es</key>
+	<string>Español</string>
+	<key>es-MX</key>
+	<string>Español (México)</string>
+	<key>et</key>
+	<string>Eesti</string>
+	<key>fi</key>
+	<string>Suomi</string>
+	<key>fr</key>
+	<string>Français</string>
+	<key>fr-CA</key>
+	<string>Français canadien</string>
+	<key>fr-CH</key>
+	<string>Français suisse</string>
+	<key>he</key>
+	<string>עברית</string>
+	<key>hr</key>
+	<string>Hrvatski</string>
+	<key>hu</key>
+	<string>Magyar</string>
+	<key>id</key>
+	<string>Bahasa Indonesia</string>
+	<key>it</key>
+	<string>Italiano</string>
+	<key>ja</key>
+	<string>日本語</string>
+	<key>ko</key>
+	<string>한국어</string>
+	<key>lt</key>
+	<string>Lietuvių</string>
+	<key>lv</key>
+	<string>Latviešu</string>
+	<key>ms</key>
+	<string>Bahasa Melayu</string>
+	<key>nb</key>
+	<string>Norsk (bokmål)</string>
+	<key>nl</key>
+	<string>Nederlands</string>
+	<key>pl</key>
+	<string>Polski</string>
+	<key>pt</key>
+	<string>Português</string>
+	<key>pt-BR</key>
+	<string>Português (Brasil)</string>
+	<key>pt-PT</key>
+	<string>Português (Portugal)</string>
+	<key>ro</key>
+	<string>Română</string>
+	<key>ru</key>
+	<string>Русский</string>
+	<key>sk</key>
+	<string>Slovenčina</string>
+	<key>sv</key>
+	<string>Svenska</string>
+	<key>th</key>
+	<string>ภาษาไทย</string>
+	<key>tr</key>
+	<string>Türkçe</string>
+	<key>uk</key>
+	<string>Українська</string>
+	<key>vi</key>
+	<string>Tiếng Việt</string>
+	<key>zh-Hans</key>
+	<string>简体中文</string>
+	<key>zh-Hant</key>
+	<string>繁體中文</string>
+</dict>
+</plist>

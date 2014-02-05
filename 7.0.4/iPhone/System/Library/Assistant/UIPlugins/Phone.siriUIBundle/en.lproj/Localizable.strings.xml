@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CALL_HISTORY_HEADER</key>
+	<string>Call History</string>
+	<key>EMERGENCY_CALL_COUNTDOWN</key>
+	<string>In %@ second.</string>
+	<key>EMERGENCY_CALL_COUNTDOWN_CANCELED</key>
+	<string>Canceled</string>
+	<key>EMERGENCY_CALL_COUNTDOWN_CONFIRMED</key>
+	<string>Call placed</string>
+	<key>EMERGENCY_CALL_COUNTDOWN_PLURAL</key>
+	<string>In %@ seconds.</string>
+	<key>EMERGENCY_CALL_COUNTDOWN_WILL_CANCEL</key>
+	<string>Canceling</string>
+	<key>EMERGENCY_CALL_COUNTDOWN_WILL_CONFIRM</key>
+	<string>Calling…</string>
+	<key>EMERGENCY_CALL_HEADER</key>
+	<string>Emergency Call</string>
+	<key>MISSED_CALL_COUNT_FORMAT %@</key>
+	<string>(%@)</string>
+	<key>UNKNOWN_CALLER</key>
+	<string>Unknown</string>
+	<key>UNKNOWN_LABEL</key>
+	<string>unknown</string>
+	<key>VOICEMAIL_HEADER</key>
+	<string>Voicemail</string>
+</dict>
+</plist>

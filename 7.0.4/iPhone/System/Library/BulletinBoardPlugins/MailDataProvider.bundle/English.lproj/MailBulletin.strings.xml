@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALERT_DISMISS</key>
+	<string>Dismiss</string>
+	<key>ALERT_READ</key>
+	<string>Read</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>MISSED_BANNERS</key>
+	<string>You have %@ new mail messages</string>
+	<key>NO_FROM</key>
+	<string>(No Sender)</string>
+	<key>NO_SUBJECT</key>
+	<string>(No Subject)</string>
+	<key>NO_SUMMARY</key>
+	<string>This message has no content.</string>
+	<key>PREVIEW_TOPIC</key>
+	<string>Mail message</string>
+	<key>READ</key>
+	<string>read</string>
+	<key>SLIDE_TO_READ</key>
+	<string>slide to read</string>
+	<key>VIP_MISSED_BANNERS</key>
+	<string>You have %@ new VIP mail messages</string>
+	<key>VIP_SECTION_DISPLAY_NAME</key>
+	<string>VIP</string>
+</dict>
+</plist>

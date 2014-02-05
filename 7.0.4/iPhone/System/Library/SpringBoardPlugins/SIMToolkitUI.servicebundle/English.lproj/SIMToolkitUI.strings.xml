@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT</key>
+	<string>Accept</string>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DIAL</key>
+	<string>Dial</string>
+	<key>DISMISS_SIM_TOOLKIT</key>
+	<string>Dismiss</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>SEND</key>
+	<string>Send</string>
+	<key>SIMTK_CALL_ALERT</key>
+	<string>Your SIM would like to place a phone call.</string>
+	<key>SIMTK_DTMF_MESSAGE_SENT</key>
+	<string>Your SIM sent DTMF tones.</string>
+	<key>SIMTK_HIGH_PRIORITY_CALL_ALERT</key>
+	<string>Your SIM would like to place a phone call.  Your current phone calls will be disconnected.</string>
+	<key>SIMTK_MEDIUM_PRIORITY_CALL_ALERT</key>
+	<string>Your SIM would like to place a phone call.  Your current phone calls will be placed on hold.</string>
+	<key>SIMTK_PLAY_TONE</key>
+	<string>Your SIM played a tone.</string>
+	<key>SIMTK_SMS_MESSAGE_SENT</key>
+	<string>Your SIM sent a text message.</string>
+	<key>SIMTK_SS_MESSAGE_SENT</key>
+	<string>Your SIM sent a supplementary service message.</string>
+	<key>SIMTK_USSD_MESSAGE_SENT</key>
+	<string>Your SIM sent a USSD message.</string>
+	<key>YES</key>
+	<string>Yes</string>
+</dict>
+</plist>

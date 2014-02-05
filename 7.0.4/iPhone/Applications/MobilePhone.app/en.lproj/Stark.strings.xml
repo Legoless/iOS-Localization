@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>CALL_BACK</key>
+	<string>Call Back</string>
+	<key>CONTACTS</key>
+	<string>Contacts</string>
+	<key>DOWNLOAD_PENDING</key>
+	<string>Download pending</string>
+	<key>END</key>
+	<string>End</string>
+	<key>FAVORITES</key>
+	<string>Favorites</string>
+	<key>KEYPAD</key>
+	<string>Keypad</string>
+	<key>MESSAGE</key>
+	<string>Message</string>
+	<key>MISSED</key>
+	<string>Missed</string>
+	<key>NO FAVORITES</key>
+	<string>No Favorites</string>
+	<key>NO RECENTS</key>
+	<string>No Recents</string>
+	<key>NO VOICEMAIL</key>
+	<string>No Voicemail</string>
+	<key>PHONE</key>
+	<string>Phone</string>
+	<key>RECENTS</key>
+	<string>Recents</string>
+	<key>RESUME</key>
+	<string>Resume</string>
+	<key>STARK_VOICEMAIL_ACTIONSHEET_HEADER_FORMAT</key>
+	<string>%@ Voicemail</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+	<key>VOICEMAIL</key>
+	<string>Voicemail</string>
+</dict>
+</plist>

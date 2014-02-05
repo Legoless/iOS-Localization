@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@\U2019s %@ Birthday</key>
+	<string>%@’s %@ Birthday</string>
+	<key>%@\U2019s Birthday</key>
+	<string>%@’s Birthday</string>
+	<key>ACTIONS_NOT_SUPPORTED</key>
+	<string>Actions are not supported by this account.</string>
+	<key>ALARM_EXCEEDS_RECURRENCE_ERROR</key>
+	<string>The event repeats before the alert occurs.</string>
+	<key>ALARM_PROXIMITY_NOT_SUPPORTED</key>
+	<string>Proximity-based alarms are not supported by this account.</string>
+	<key>Birthday</key>
+	<string>Birthday</string>
+	<key>CALENDAR_DOES_NOT_ALLOW_EVENTS</key>
+	<string>That calendar does not allow events to be added.</string>
+	<key>CALENDAR_DOES_NOT_ALLOW_REMINDERS</key>
+	<string>That calendar does not allow reminders to be added.</string>
+	<key>CALENDAR_HAS_NO_SOURCE</key>
+	<string>Calendar has no source</string>
+	<key>CALENDAR_IMMUTABLE</key>
+	<string>That calendar can not be changed or deleted.</string>
+	<key>CALENDAR_READ_ONLY_ERROR</key>
+	<string>The calendar is read only.</string>
+	<key>CALENDAR_SOURCE_CANNOT_BE_MODIFIED</key>
+	<string>That calendar may not be moved to another account.</string>
+	<key>CANNOT_GEOCODE_LOCATION_ERROR</key>
+	<string>The reminder's location could not be geocoded to an address for firing the alarm.</string>
+	<key>DATES_INVERTED_ERROR</key>
+	<string>The start date must be before the end date.</string>
+	<key>DEFAULT_CALENDAR_NAME</key>
+	<string>Calendar</string>
+	<key>DEFAULT_REMINDER_NAME</key>
+	<string>Reminder</string>
+	<key>DEFAULT_TASK_CALENDAR_NAME</key>
+	<string>Reminders</string>
+	<key>DOES_NOT_ALLOW_ALARM_CHANGES</key>
+	<string>Alarms cannot be changed.</string>
+	<key>DOES_NOT_ALLOW_ATTENDEE_CHANGES</key>
+	<string>Attendees cannot be changed</string>
+	<key>DOES_NOT_ALLOW_RECURRENCE_CHANGES</key>
+	<string>The repeat field cannot be changed.</string>
+	<key>DURATION_EXCEEDS_RECURRENCE_ERROR</key>
+	<string>The event is too long to repeat this often.</string>
+	<key>EVENT_NOT_MUTABLE_ERROR</key>
+	<string>The event cannot be edited.</string>
+	<key>FACEBOOK_CALENDAR_NAME</key>
+	<string>Facebook Events</string>
+	<key>INVALID_ENTITY_TYPE</key>
+	<string>This is not a valid EKEntityType.</string>
+	<key>INVITES_CANNOT_MOVE_ERROR</key>
+	<string>Invites cannot be moved to another calendar.</string>
+	<key>NO_CALENDAR_ERROR</key>
+	<string>No calendar has been set.</string>
+	<key>NO_END_DATE_ERROR</key>
+	<string>No end date has been set.</string>
+	<key>NO_START_DATE_ERROR</key>
+	<string>No start date has been set.</string>
+	<key>OCCURRENCE_COLLISION_ERROR</key>
+	<string>Another instance of this event occurs on this date.</string>
+	<key>PRIORITY_IS_INVALID</key>
+	<string>Priorities must be between 0 and 9.</string>
+	<key>RECURRING_TASK_REQUIRES_DUE_DATE_ERROR</key>
+	<string>A repeating reminder must have a due date.</string>
+	<key>REMINDER_LOCATIONS_NOT_SUPPORTED</key>
+	<string>Locations for reminders are not supported by this account.</string>
+	<key>Reminders</key>
+	<string>Reminders</string>
+	<key>SOURCE_DOES_NOT_ALLOW_REMINDERS</key>
+	<string>That account does not support reminders.</string>
+	<key>SOURCE_PROHIBITS_CALENDAR_ADD_DELETE</key>
+	<string>That account does not allow calendars to be added or removed.</string>
+	<key>SPAN_ERROR</key>
+	<string>An invalid span was specified.</string>
+	<key>START_DATE_FUTURE_ERROR</key>
+	<string>The event is too far in the future.</string>
+	<key>STRUCTURED_LOCATIONS_NOT_SUPPORTED</key>
+	<string>Locations with geo information are not supported by this account.</string>
+	<key>UNEXPECTED_ERROR</key>
+	<string>An unexpected error occurred.</string>
+	<key>Use ordinal age</key>
+	<string>yes</string>
+	<key>WRONG_STORE_ERROR</key>
+	<string>That event does not belong to that event store.</string>
+</dict>
+</plist>

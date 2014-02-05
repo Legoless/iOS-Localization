@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Authentication for %@ proxy
+%@:%d</key>
+	<string>Authentication for %@ proxy
+%@:%d</string>
+	<key>CONNECTION_DOWN</key>
+	<string>This computer's Internet connection appears to be offline.</string>
+	<key>CONNECTION_INDETERMINATE</key>
+	<string>This computer's Internet connection may be offline.</string>
+	<key>CONNECTION_UP</key>
+	<string>This computer's Internet connection appears to be online.</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Err-1000</key>
+	<string>bad URL</string>
+	<key>Err-1001</key>
+	<string>The request timed out.</string>
+	<key>Err-1002</key>
+	<string>unsupported URL</string>
+	<key>Err-1003</key>
+	<string>A server with the specified hostname could not be found.</string>
+	<key>Err-1004</key>
+	<string>Could not connect to the server.</string>
+	<key>Err-1005</key>
+	<string>The network connection was lost.</string>
+	<key>Err-1006</key>
+	<string>DNS lookup error</string>
+	<key>Err-1007</key>
+	<string>too many HTTP redirects</string>
+	<key>Err-1008</key>
+	<string>resource unavailable</string>
+	<key>Err-1009</key>
+	<string>The Internet connection appears to be offline.</string>
+	<key>Err-1010</key>
+	<string>redirected to nowhere</string>
+	<key>Err-1011</key>
+	<string>There was a bad response from the server.</string>
+	<key>Err-1014</key>
+	<string>zero byte resource</string>
+	<key>Err-1015</key>
+	<string>cannot decode raw data</string>
+	<key>Err-1016</key>
+	<string>cannot decode content data</string>
+	<key>Err-1017</key>
+	<string>cannot parse response</string>
+	<key>Err-1018</key>
+	<string>International roaming is currently off.</string>
+	<key>Err-1019</key>
+	<string>A data connection cannot be established since a call is currently active.</string>
+	<key>Err-1020</key>
+	<string>A data connection is not currently allowed.</string>
+	<key>Err-1021</key>
+	<string>request body stream exhausted</string>
+	<key>Err-1100</key>
+	<string>The requested URL was not found on this server.</string>
+	<key>Err-1101</key>
+	<string>file is directory</string>
+	<key>Err-1102</key>
+	<string>You do not have permission to access the requested resource.</string>
+	<key>Err-1103</key>
+	<string>resource exceeds maximum size</string>
+	<key>Err-1200</key>
+	<string>An SSL error has occurred and a secure connection to the server cannot be made.</string>
+	<key>Err-1201</key>
+	<string>The certificate for this server has expired.</string>
+	<key>Err-1201.w</key>
+	<string>The certificate for this server has expired. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</string>
+	<key>Err-1202</key>
+	<string>The certificate for this server is invalid.</string>
+	<key>Err-1202.w</key>
+	<string>The certificate for this server is invalid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</string>
+	<key>Err-1203</key>
+	<string>The certificate for this server was signed by an unknown certifying authority.</string>
+	<key>Err-1203.w</key>
+	<string>The certificate for this server was signed by an unknown certifying authority. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</string>
+	<key>Err-1204</key>
+	<string>The certificate for this server is not yet valid.</string>
+	<key>Err-1204.w</key>
+	<string>The certificate for this server is not yet valid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</string>
+	<key>Err-1205</key>
+	<string>The server did not accept the certificate.</string>
+	<key>Err-1205.w</key>
+	<string>The server “%@” did not accept the certificate.</string>
+	<key>Err-1206</key>
+	<string>The server requires a client certificate.</string>
+	<key>Err-1206.w</key>
+	<string>The server “%@” requires a client certificate.</string>
+	<key>Err-2000</key>
+	<string>can’t load from network</string>
+	<key>Err-3000</key>
+	<string>Cannot create file</string>
+	<key>Err-3001</key>
+	<string>Cannot open file</string>
+	<key>Err-3002</key>
+	<string>Failure occurred while closing file</string>
+	<key>Err-3003</key>
+	<string>Cannot write file</string>
+	<key>Err-3004</key>
+	<string>Cannot remove file</string>
+	<key>Err-3005</key>
+	<string>Cannot move file</string>
+	<key>Err-3006</key>
+	<string>Download decoding failed</string>
+	<key>Err-3007</key>
+	<string>Download decoding failed</string>
+	<key>Err-998</key>
+	<string>unknown error</string>
+	<key>Err-999</key>
+	<string>cancelled</string>
+	<key>Err306</key>
+	<string>There was a problem communicating with the web proxy server (HTTP).</string>
+	<key>Err310</key>
+	<string>There was a problem communicating with the secure web proxy server (HTTPS).</string>
+	<key>KEYCHAIN_LABEL_FORMAT</key>
+	<string>%@ (%@)</string>
+	<key>KEYCHAIN_WEB_FORM_PASSWORD</key>
+	<string>Web form password</string>
+	<key>NAMELOOKUP_FAILED</key>
+	<string>The DNS server could not find the server name.</string>
+	<key>NAMESERVER_DOWN</key>
+	<string>This computer's DNS server is not responding.</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>Please check your proxy settings. For help with this problem, contact your system administrator.</key>
+	<string>Please check your proxy settings. For help with this problem, contact your system administrator.</string>
+	<key>Proxy Authentication Required</key>
+	<string>Proxy Authentication Required</string>
+	<key>ROUTER_DOWN</key>
+	<string>This computer's router is not responding.</string>
+	<key>SERVER_DOWN</key>
+	<string>The server this computer is attempting to connect to is not responding.</string>
+	<key>SERVER_UP</key>
+	<string>This computer's Internet connection appears to be online.</string>
+	<key>Username</key>
+	<string>Username</string>
+	<key>Would you like to connect to the server anyway?</key>
+	<string>Would you like to connect to the server anyway?</string>
+	<key>accepted</key>
+	<string>accepted</string>
+	<key>bad gateway</key>
+	<string>bad gateway</string>
+	<key>bad request</key>
+	<string>bad request</string>
+	<key>client error</key>
+	<string>client error</string>
+	<key>conflict</key>
+	<string>conflict</string>
+	<key>continue</key>
+	<string>continue</string>
+	<key>created</key>
+	<string>created</string>
+	<key>expectation failed</key>
+	<string>expectation failed</string>
+	<key>forbidden</key>
+	<string>forbidden</string>
+	<key>found</key>
+	<string>found</string>
+	<key>gateway timed out</key>
+	<string>gateway timed out</string>
+	<key>informational</key>
+	<string>informational</string>
+	<key>internal server error</key>
+	<string>internal server error</string>
+	<key>length required</key>
+	<string>length required</string>
+	<key>method not allowed</key>
+	<string>method not allowed</string>
+	<key>moved permanently</key>
+	<string>moved permanently</string>
+	<key>multiple choices</key>
+	<string>multiple choices</string>
+	<key>needs proxy</key>
+	<string>needs proxy</string>
+	<key>no content</key>
+	<string>no content</string>
+	<key>no error</key>
+	<string>no error</string>
+	<key>no longer exists</key>
+	<string>no longer exists</string>
+	<key>non-authoritative information</key>
+	<string>non-authoritative information</string>
+	<key>not found</key>
+	<string>not found</string>
+	<key>not modified</key>
+	<string>not modified</string>
+	<key>partial content</key>
+	<string>partial content</string>
+	<key>payment required</key>
+	<string>payment required</string>
+	<key>precondition failed</key>
+	<string>precondition failed</string>
+	<key>proxy authentication required</key>
+	<string>proxy authentication required</string>
+	<key>redirected</key>
+	<string>redirected</string>
+	<key>request timed out</key>
+	<string>request timed out</string>
+	<key>request too large</key>
+	<string>request too large</string>
+	<key>requested URL too long</key>
+	<string>requested URL too long</string>
+	<key>requested range not satisfiable</key>
+	<string>requested range not satisfiable</string>
+	<key>reset content</key>
+	<string>reset content</string>
+	<key>see other</key>
+	<string>see other</string>
+	<key>server error</key>
+	<string>server error</string>
+	<key>service unavailable</key>
+	<string>service unavailable</string>
+	<key>success</key>
+	<string>success</string>
+	<key>switching protocols</key>
+	<string>switching protocols</string>
+	<key>temporarily redirected</key>
+	<string>temporarily redirected</string>
+	<key>unacceptable</key>
+	<string>unacceptable</string>
+	<key>unauthorized</key>
+	<string>unauthorized</string>
+	<key>unimplemented</key>
+	<string>unimplemented</string>
+	<key>unsupported media type</key>
+	<string>unsupported media type</string>
+	<key>unsupported version</key>
+	<string>unsupported version</string>
+</dict>
+</plist>

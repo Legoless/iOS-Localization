@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALERT_CLOSE</key>
+	<string>Close</string>
+	<key>ALERT_SETTINGS</key>
+	<string>Settings</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>COMMUNICATIONS_ERROR</key>
+	<string>Could not communicate with the server.</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_ACCOUNT_TITLE</key>
+	<string>Delete iCloud Account</string>
+	<key>DEVICE_LOCATOR_TITLE_IPAD</key>
+	<string>Find My iPad</string>
+	<key>DEVICE_LOCATOR_TITLE_IPHONE</key>
+	<string>Find My iPhone</string>
+	<key>DEVICE_LOCATOR_TITLE_IPOD</key>
+	<string>Find My iPod</string>
+	<key>DISABLE_DEVICE_LOCATOR_BUTTON</key>
+	<string>Turn Off</string>
+	<key>DISABLE_DEVICE_LOCATOR_MESSAGE_IPAD</key>
+	<string>Enter the Apple ID password for “%@” to turn off Find My iPad.</string>
+	<key>DISABLE_DEVICE_LOCATOR_MESSAGE_IPHONE</key>
+	<string>Enter the Apple ID password for “%@” to turn off Find My iPhone.</string>
+	<key>DISABLE_DEVICE_LOCATOR_MESSAGE_IPOD</key>
+	<string>Enter the Apple ID password for “%@” to turn off Find My iPod touch.</string>
+	<key>ENABLE_DEVICE_LOCATOR_BUTTON</key>
+	<string>OK</string>
+	<key>ENABLE_DEVICE_LOCATOR_EXTENDED_MESSAGE_IPAD</key>
+	<string>This enables Find My iPad features. Turn on Location Services to show the location of this iPad on a map.</string>
+	<key>ENABLE_DEVICE_LOCATOR_EXTENDED_MESSAGE_IPHONE</key>
+	<string>This enables Find My iPhone features. Turn on Location Services to show the location of this iPhone on a map.</string>
+	<key>ENABLE_DEVICE_LOCATOR_EXTENDED_MESSAGE_IPOD</key>
+	<string>This enables Find My iPod touch features. Turn on Location Services to show the location of this iPod on a map.</string>
+	<key>ENABLE_DEVICE_LOCATOR_MESSAGE_IPAD</key>
+	<string>This enables Find My iPad features, including the ability to show the location of this iPad on a map.</string>
+	<key>ENABLE_DEVICE_LOCATOR_MESSAGE_IPHONE</key>
+	<string>This enables Find My iPhone features, including the ability to show the location of this iPhone on a map.</string>
+	<key>ENABLE_DEVICE_LOCATOR_MESSAGE_IPOD</key>
+	<string>This enables Find My iPod touch features, including the ability to show the location of this iPod touch on a map.</string>
+	<key>ERASE</key>
+	<string>Erase</string>
+	<key>FULL_NAME_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>INVALID_PASSWORD</key>
+	<string>User name or password is incorrect.</string>
+	<key>LATER</key>
+	<string>Later</string>
+	<key>MIGRATE_ACCOUNT_BUTTON</key>
+	<string>OK</string>
+	<key>MIGRATE_ACCOUNT_TEXT</key>
+	<string>Open Settings and complete your move from MobileMe to iCloud.</string>
+	<key>MIGRATE_ACCOUNT_TITLE</key>
+	<string>Complete Your Move to iCloud</string>
+	<key>MOBILEME_ACCOUNT_DISABLED</key>
+	<string>This account has been disabled.</string>
+	<key>MOBILEME_ACCOUNT_MISSING_INFO</key>
+	<string>The Apple ID %@ is missing information needed for iCloud setup.</string>
+	<key>MOBILEME_AUTHENTICATION_FAILED_MESSAGE</key>
+	<string>Your Apple ID or password is incorrect.</string>
+	<key>MOBILEME_CREATE_UNAVAILABLE_IPAD</key>
+	<string>The maximum number of free accounts have been activated on this iPad.</string>
+	<key>MOBILEME_CREATE_UNAVAILABLE_IPHONE</key>
+	<string>The maximum number of free accounts have been activated on this iPhone.</string>
+	<key>MOBILEME_CREATE_UNAVAILABLE_IPOD</key>
+	<string>The maximum number of free accounts have been activated on this iPod touch.</string>
+	<key>MOBILEME_INVALID_SIGNATURE_IPAD</key>
+	<string>The identity of this iPad could not be validated.</string>
+	<key>MOBILEME_INVALID_SIGNATURE_IPHONE</key>
+	<string>The identity of this iPhone could not be validated.</string>
+	<key>MOBILEME_INVALID_SIGNATURE_IPOD</key>
+	<string>The identity of this iPod touch could not be validated.</string>
+	<key>MOBILEME_PAID_ACCOUNT_LAPSED</key>
+	<string>This paid MobileMe account has expired.</string>
+	<key>MOBILEME_REGION_DENIED</key>
+	<string>iCloud is not available in your country.</string>
+	<key>MOBILEME_TERMS_OF_SERVICE_UPDATE</key>
+	<string>The iCloud Terms of Service have changed.</string>
+	<key>MOBILEME_UNSUPPORTED_DEVICE_IPAD</key>
+	<string>Your Apple ID is valid, but this iPad is not qualified for iCloud.</string>
+	<key>MOBILEME_UNSUPPORTED_DEVICE_IPHONE</key>
+	<string>Your Apple ID is valid, but this iPhone is not qualified for iCloud.</string>
+	<key>MOBILEME_UNSUPPORTED_DEVICE_IPOD</key>
+	<string>Your Apple ID is valid, but this iPod touch is not qualified for iCloud.</string>
+	<key>NOT_VERIFIED</key>
+	<string>Not Verified</string>
+	<key>PASSWORD</key>
+	<string>password</string>
+	<key>PASSWORD_PLACEHOLDER</key>
+	<string>password</string>
+	<key>PASSWORD_REQUIRED_TITLE</key>
+	<string>Password Required</string>
+	<key>QUOTA_ALERT_BACKUP_MESSAGE_IPAD</key>
+	<string>This iPad cannot be backed up because there is not enough iCloud storage available.
+You can manage your storage in Settings.</string>
+	<key>QUOTA_ALERT_BACKUP_MESSAGE_IPHONE</key>
+	<string>This iPhone cannot be backed up because there is not enough iCloud storage available.
+You can manage your storage in Settings.</string>
+	<key>QUOTA_ALERT_BACKUP_MESSAGE_IPOD</key>
+	<string>This iPod touch cannot be backed up because there is not enough iCloud storage available.
+You can manage your storage in Settings.</string>
+	<key>QUOTA_ALERT_BACKUP_TITLE</key>
+	<string>Not Enough Storage</string>
+	<key>QUOTA_ALERT_MESSAGE</key>
+	<string>Some of your documents or data can’t be saved to iCloud. You can manage your iCloud storage in Settings.</string>
+	<key>QUOTA_ALERT_TITLE</key>
+	<string>Not Enough iCloud Storage</string>
+	<key>RETRY</key>
+	<string>Retry</string>
+	<key>SCHEDULED_MAINTENENCE</key>
+	<string>Could not communicate with the server.</string>
+	<key>SET_UP</key>
+	<string>Set Up</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>TURN OFF</key>
+	<string>Turn Off</string>
+	<key>VERIFICATION_FAILED_TITLE</key>
+	<string>Verification Failed</string>
+</dict>
+</plist>

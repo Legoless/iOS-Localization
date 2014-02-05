@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Arabic (DOS)</key>
+	<string>Arabic (DOS)</string>
+	<key>Arabic (ISO 8859-6)</key>
+	<string>Arabic (ISO 8859-6)</string>
+	<key>Arabic (Mac OS)</key>
+	<string>Arabic (Mac OS)</string>
+	<key>Arabic (Windows)</key>
+	<string>Arabic (Windows)</string>
+	<key>Baltic (DOS)</key>
+	<string>Baltic (DOS)</string>
+	<key>Baltic (ISO Latin 7)</key>
+	<string>Baltic (ISO Latin 7)</string>
+	<key>Baltic (Windows)</key>
+	<string>Baltic (Windows)</string>
+	<key>Canadian French (DOS)</key>
+	<string>Canadian French (DOS)</string>
+	<key>Celtic (ISO Latin 8)</key>
+	<string>Celtic (ISO Latin 8)</string>
+	<key>Celtic (Mac OS)</key>
+	<string>Celtic (Mac OS)</string>
+	<key>Central European (DOS Latin 2)</key>
+	<string>Central European (DOS Latin 2)</string>
+	<key>Central European (ISO Latin 2)</key>
+	<string>Central European (ISO Latin 2)</string>
+	<key>Central European (ISO Latin 4)</key>
+	<string>Central European (ISO Latin 4)</string>
+	<key>Central European (Mac OS)</key>
+	<string>Central European (Mac OS)</string>
+	<key>Central European (Windows Latin 2)</key>
+	<string>Central European (Windows Latin 2)</string>
+	<key>Chinese (GB 18030)</key>
+	<string>Chinese (GB 18030)</string>
+	<key>Chinese (GBK)</key>
+	<string>Chinese (GBK)</string>
+	<key>Chinese (ISO 2022-CN)</key>
+	<string>Chinese (ISO 2022-CN)</string>
+	<key>Croatian (Mac OS)</key>
+	<string>Croatian (Mac OS)</string>
+	<key>Cyrillic (DOS)</key>
+	<string>Cyrillic (DOS)</string>
+	<key>Cyrillic (ISO 8859-5)</key>
+	<string>Cyrillic (ISO 8859-5)</string>
+	<key>Cyrillic (KOI8-R)</key>
+	<string>Cyrillic (KOI8-R)</string>
+	<key>Cyrillic (Mac OS Ukrainian)</key>
+	<string>Cyrillic (Mac OS Ukrainian)</string>
+	<key>Cyrillic (Mac OS)</key>
+	<string>Cyrillic (Mac OS)</string>
+	<key>Cyrillic (Windows)</key>
+	<string>Cyrillic (Windows)</string>
+	<key>Devanagari (Mac OS)</key>
+	<string>Devanagari (Mac OS)</string>
+	<key>Dingbats (Mac OS)</key>
+	<string>Dingbats (Mac OS)</string>
+	<key>Farsi (Mac OS)</key>
+	<string>Farsi (Mac OS)</string>
+	<key>Gaelic (Mac OS)</key>
+	<string>Gaelic (Mac OS)</string>
+	<key>Greek (DOS Greek 1)</key>
+	<string>Greek (DOS Greek 1)</string>
+	<key>Greek (DOS Greek 2)</key>
+	<string>Greek (DOS Greek 2)</string>
+	<key>Greek (DOS)</key>
+	<string>Greek (DOS)</string>
+	<key>Greek (ISO 8859-7)</key>
+	<string>Greek (ISO 8859-7)</string>
+	<key>Greek (Mac OS)</key>
+	<string>Greek (Mac OS)</string>
+	<key>Greek (Windows)</key>
+	<string>Greek (Windows)</string>
+	<key>Gujarati (Mac OS)</key>
+	<string>Gujarati (Mac OS)</string>
+	<key>Gurmukhi (Mac OS)</key>
+	<string>Gurmukhi (Mac OS)</string>
+	<key>Hebrew (DOS)</key>
+	<string>Hebrew (DOS)</string>
+	<key>Hebrew (ISO 8859-8)</key>
+	<string>Hebrew (ISO 8859-8)</string>
+	<key>Hebrew (Mac OS)</key>
+	<string>Hebrew (Mac OS)</string>
+	<key>Hebrew (Windows)</key>
+	<string>Hebrew (Windows)</string>
+	<key>Icelandic (DOS)</key>
+	<string>Icelandic (DOS)</string>
+	<key>Icelandic (Mac OS)</key>
+	<string>Icelandic (Mac OS)</string>
+	<key>Inuit (Mac OS)</key>
+	<string>Inuit (Mac OS)</string>
+	<key>Japanese (Auto Detect)</key>
+	<string>Japanese (Auto Detect)</string>
+	<key>Japanese (EUC)</key>
+	<string>Japanese (EUC)</string>
+	<key>Japanese (ISO 2022-JP)</key>
+	<string>Japanese (ISO 2022-JP)</string>
+	<key>Japanese (ISO 2022-JP-1)</key>
+	<string>Japanese (ISO 2022-JP-1)</string>
+	<key>Japanese (ISO 2022-JP-2)</key>
+	<string>Japanese (ISO 2022-JP-2)</string>
+	<key>Japanese (Mac OS)</key>
+	<string>Japanese (Mac OS)</string>
+	<key>Japanese (Shift JIS X0213)</key>
+	<string>Japanese (Shift JIS X0213)</string>
+	<key>Japanese (Shift JIS)</key>
+	<string>Japanese (Shift JIS)</string>
+	<key>Japanese (Windows, DOS)</key>
+	<string>Japanese (Windows, DOS)</string>
+	<key>Keyboard Symbols (Mac OS)</key>
+	<string>Keyboard Symbols (Mac OS)</string>
+	<key>Korean (EUC)</key>
+	<string>Korean (EUC)</string>
+	<key>Korean (ISO 2022-KR)</key>
+	<string>Korean (ISO 2022-KR)</string>
+	<key>Korean (Mac OS)</key>
+	<string>Korean (Mac OS)</string>
+	<key>Korean (Windows, DOS)</key>
+	<string>Korean (Windows, DOS)</string>
+	<key>Latin-US (DOS)</key>
+	<string>Latin-US (DOS)</string>
+	<key>Non-lossy ASCII</key>
+	<string>Non-lossy ASCII</string>
+	<key>Nordic (DOS)</key>
+	<string>Nordic (DOS)</string>
+	<key>Nordic (ISO Latin 6)</key>
+	<string>Nordic (ISO Latin 6)</string>
+	<key>Portuguese (DOS)</key>
+	<string>Portuguese (DOS)</string>
+	<key>Romanian (ISO Latin 10)</key>
+	<string>Romanian (ISO Latin 10)</string>
+	<key>Romanian (Mac OS)</key>
+	<string>Romanian (Mac OS)</string>
+	<key>Russian (DOS)</key>
+	<string>Russian (DOS)</string>
+	<key>Simplified Chinese (GB 2312)</key>
+	<string>Simplified Chinese (GB 2312)</string>
+	<key>Simplified Chinese (HZ GB 2312)</key>
+	<string>Simplified Chinese (HZ GB 2312)</string>
+	<key>Simplified Chinese (Mac OS)</key>
+	<string>Simplified Chinese (Mac OS)</string>
+	<key>Simplified Chinese (Windows, DOS)</key>
+	<string>Simplified Chinese (Windows, DOS)</string>
+	<key>Symbol (Mac OS)</key>
+	<string>Symbol (Mac OS)</string>
+	<key>Thai (ISO 8859-11)</key>
+	<string>Thai (ISO 8859-11)</string>
+	<key>Thai (Mac OS)</key>
+	<string>Thai (Mac OS)</string>
+	<key>Thai (Windows, DOS)</key>
+	<string>Thai (Windows, DOS)</string>
+	<key>Tibetan (Mac OS)</key>
+	<string>Tibetan (Mac OS)</string>
+	<key>Traditional Chinese (Big 5 HKSCS)</key>
+	<string>Traditional Chinese (Big 5 HKSCS)</string>
+	<key>Traditional Chinese (Big 5)</key>
+	<string>Traditional Chinese (Big 5)</string>
+	<key>Traditional Chinese (Big 5-E)</key>
+	<string>Traditional Chinese (Big 5-E)</string>
+	<key>Traditional Chinese (EUC)</key>
+	<string>Traditional Chinese (EUC)</string>
+	<key>Traditional Chinese (Mac OS)</key>
+	<string>Traditional Chinese (Mac OS)</string>
+	<key>Traditional Chinese (Windows, DOS)</key>
+	<string>Traditional Chinese (Windows, DOS)</string>
+	<key>Turkish (DOS)</key>
+	<string>Turkish (DOS)</string>
+	<key>Turkish (ISO Latin 5)</key>
+	<string>Turkish (ISO Latin 5)</string>
+	<key>Turkish (Mac OS)</key>
+	<string>Turkish (Mac OS)</string>
+	<key>Turkish (Windows Latin 5)</key>
+	<string>Turkish (Windows Latin 5)</string>
+	<key>Ukrainian (KOI8-U)</key>
+	<string>Ukrainian (KOI8-U)</string>
+	<key>Unicode (UTF-16)</key>
+	<string>Unicode (UTF-16)</string>
+	<key>Unicode (UTF-16BE)</key>
+	<string>Unicode (UTF-16BE)</string>
+	<key>Unicode (UTF-16LE)</key>
+	<string>Unicode (UTF-16LE)</string>
+	<key>Unicode (UTF-32)</key>
+	<string>Unicode (UTF-32)</string>
+	<key>Unicode (UTF-32BE)</key>
+	<string>Unicode (UTF-32BE)</string>
+	<key>Unicode (UTF-32LE)</key>
+	<string>Unicode (UTF-32LE)</string>
+	<key>Unicode (UTF-7)</key>
+	<string>Unicode (UTF-7)</string>
+	<key>Unicode (UTF-8)</key>
+	<string>Unicode (UTF-8)</string>
+	<key>Vietnamese (Windows)</key>
+	<string>Vietnamese (Windows)</string>
+	<key>Western (ASCII)</key>
+	<string>Western (ASCII)</string>
+	<key>Western (DOS Latin 1)</key>
+	<string>Western (DOS Latin 1)</string>
+	<key>Western (EBCDIC Latin 1)</key>
+	<string>Western (EBCDIC Latin 1)</string>
+	<key>Western (EBCDIC Latin Core)</key>
+	<string>Western (EBCDIC Latin Core)</string>
+	<key>Western (ISO Latin 1)</key>
+	<string>Western (ISO Latin 1)</string>
+	<key>Western (ISO Latin 3)</key>
+	<string>Western (ISO Latin 3)</string>
+	<key>Western (ISO Latin 9)</key>
+	<string>Western (ISO Latin 9)</string>
+	<key>Western (Mac Mail)</key>
+	<string>Western (Mac Mail)</string>
+	<key>Western (Mac OS Roman)</key>
+	<string>Western (Mac OS Roman)</string>
+	<key>Western (NextStep)</key>
+	<string>Western (NextStep)</string>
+	<key>Western (Windows Latin 1)</key>
+	<string>Western (Windows Latin 1)</string>
+</dict>
+</plist>

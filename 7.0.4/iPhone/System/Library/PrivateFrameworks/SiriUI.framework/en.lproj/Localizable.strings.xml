@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCELED</key>
+	<string>Canceled</string>
+	<key>CHOOSE_CONTACT_BUTTON_TITLE</key>
+	<string>Other…</string>
+	<key>ERROR_SNIPPET_TITLE_GENERIC</key>
+	<string>Content Not Available</string>
+	<key>LESS_THAN_ONE_DAY_HOURS_FORMAT</key>
+	<string>%@ Hours ago</string>
+	<key>LESS_THAN_ONE_HOUR_MINUTES_FORMAT</key>
+	<string>%@ Minutes ago</string>
+	<key>LESS_THAN_ONE_MINUTE_AGO</key>
+	<string>Less than 1 minute ago</string>
+	<key>REVIEWS_PLURAL_FORMAT</key>
+	<string>%@ Reviews</string>
+	<key>REVIEWS_PLURAL_ON_PROVIDER_FORMAT</key>
+	<string>%1$@ Reviews on %2$@</string>
+	<key>REVIEWS_PLURAL_ON_PROVIDER_LOGO_FORMAT</key>
+	<string>%@ Reviews on </string>
+	<key>REVIEW_SINGULAR</key>
+	<string>1 Review</string>
+	<key>REVIEW_SINGULAR_ON_PROVIDER_FORMAT</key>
+	<string>1 Review on %@</string>
+	<key>REVIEW_SINGULAR_ON_PROVIDER_LOGO</key>
+	<string>1 Review on </string>
+	<key>REVIEW_TEXT_FORMAT</key>
+	<string>“%@”</string>
+	<key>SIRI_ROUTE_PICKER_CANCEL_BUTTON_TITLE</key>
+	<string>Cancel</string>
+	<key>SIRI_ROUTE_PICKER_SHEET_TITLE</key>
+	<string>Siri</string>
+</dict>
+</plist>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUDIO</key>
+	<string>Audio</string>
+	<key>AUDIO_NAV</key>
+	<string>Audio</string>
+	<key>BLOCKED</key>
+	<string>Blocked</string>
+	<key>BLOCKED_MESSAGES</key>
+	<string>Blocked Messages</string>
+	<key>CALLBACK_ALERT_TITLE</key>
+	<string>This caller left a callback number.</string>
+	<key>CALLBACK_AND_SENDER_ALERT_TITLE</key>
+	<string>This caller left a callback number different from their phone number.</string>
+	<key>CALL_BACK</key>
+	<string>Call Back</string>
+	<key>CALL_VOICEMAIL</key>
+	<string>Call Voicemail</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CHANGE_AUDIO_SOURCE</key>
+	<string>Audio device:</string>
+	<key>CHANGE_NOW</key>
+	<string>Change</string>
+	<key>CLEAR</key>
+	<string>Clear</string>
+	<key>CLEAR_ALL</key>
+	<string>Clear All</string>
+	<key>CLEAR_ALL_ALERT_TITLE</key>
+	<string>Permanently clear deleted voicemails?</string>
+	<key>CLEAR_ALL_CANCEL_BUTTON_TITLE</key>
+	<string>Cancel</string>
+	<key>CLEAR_ALL_OK_BUTTON_TITLE</key>
+	<string>Clear All</string>
+	<key>CUSTOM_GREETING_TITLE</key>
+	<string>Custom</string>
+	<key>DEFAULT_GREETING_TITLE</key>
+	<string>Default</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETED</key>
+	<string>Deleted</string>
+	<key>DELETED_MESSAGES</key>
+	<string>Deleted Messages</string>
+	<key>DELETE_ALL</key>
+	<string>Delete All</string>
+	<key>DELETE_ALL_ALERT_TITLE</key>
+	<string>Move all blocked voicemails to the deleted folder?</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>ENTER_PASSWORD_DESCRIPTION</key>
+	<string>Enter voicemail password</string>
+	<key>ENTER_PASSWORD_TITLE</key>
+	<string>Password Incorrect</string>
+	<key>GREETING</key>
+	<string>Greeting</string>
+	<key>GREETING_FETCH_FAILED</key>
+	<string>Greeting fetch failed</string>
+	<key>GREETING_FETCH_FAILED_DETAIL</key>
+	<string>Failed to fetch your voicemail greeting from the server.</string>
+	<key>GREETING_NAV</key>
+	<string>Greeting|Speaker</string>
+	<key>GREETING_PROMPT</key>
+	<string>Set your outgoing message.</string>
+	<key>GREETING_SAVE_FAILED</key>
+	<string>Greeting save failed</string>
+	<key>GREETING_SAVE_FAILED_DETAIL</key>
+	<string>Failed to save your greeting.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSCODE</key>
+	<string>Password</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PASSWORD_EXPIRED_DESCRIPTION</key>
+	<string>You must change your password to retrieve messages.</string>
+	<key>PASSWORD_EXPIRED_TITLE</key>
+	<string>Voicemail Password Expired</string>
+	<key>PASSWORD_PROMPT_PLACEHOLDER</key>
+	<string>password</string>
+	<key>PASSWORD_RESET_CALL_BUTTON_TITLE</key>
+	<string>Call</string>
+	<key>PASSWORD_RESET_INFO</key>
+	<string>If you forgot your password, call %@ for assistance.</string>
+	<key>PLAY</key>
+	<string>Play</string>
+	<key>RECORD</key>
+	<string>Record</string>
+	<key>RECORDING_PERSONAL</key>
+	<string>Recording Personal</string>
+	<key>RECORD_A_GREETING</key>
+	<string>Record a greeting</string>
+	<key>RETRIEVING_GREETING</key>
+	<string>Retrieving greeting…</string>
+	<key>SAVE</key>
+	<string>Save</string>
+	<key>SAVE_SUCCESS</key>
+	<string>Greeting saved.</string>
+	<key>SAVING_GREETING</key>
+	<string>Saving greeting…</string>
+	<key>SAVING_PASSWORD</key>
+	<string>Saving Password…</string>
+	<key>SETUP_GREETING_PROMPT</key>
+	<string>Choose your voicemail greeting.</string>
+	<key>SETUP_NOW</key>
+	<string>Set Up Now</string>
+	<key>SETUP_PASSCODE_CONFIRM_ENTRY_PROMPT</key>
+	<string>Re-enter voicemail password</string>
+	<key>SETUP_PASSCODE_FIRST_ENTRY_PROMPT</key>
+	<string>Enter a voicemail password</string>
+	<key>SETUP_PASSCODE_MISMATCH_PROMPT</key>
+	<string>Password mismatch.  Try again.</string>
+	<key>SETUP_PENDING_TITLE</key>
+	<string>Setting up voicemail...</string>
+	<key>SETUP_TITLE</key>
+	<string>To retrieve a voicemail
+first set a password
+and greeting.</string>
+	<key>SPEAKER</key>
+	<string>Speaker</string>
+	<key>SPEAKER_NAV</key>
+	<string>Speaker|Greeting</string>
+	<key>STOP</key>
+	<string>Stop</string>
+	<key>UNDELETE</key>
+	<string>Undelete</string>
+	<key>UNKNOWN_LOCATION</key>
+	<string>Unknown Location</string>
+	<key>VOICEMAIL_ERROR_MAILBOX_FULL</key>
+	<string>You will not receive new messages until you delete some.</string>
+	<key>VOICEMAIL_ERROR_MAILBOX_USAGE</key>
+	<string>Delete messages to free up space.</string>
+	<key>VOICEMAIL_ERROR_MSG_CONNECTIVITY</key>
+	<string>Unable to connect.
+Try again later.</string>
+	<key>VOICEMAIL_ERROR_MSG_CONNECT_FAIL</key>
+	<string>Could not connect to the mailbox.</string>
+	<key>VOICEMAIL_ERROR_MSG_COULD_NOT_AUTHORIZE</key>
+	<string>Could not authorize access.</string>
+	<key>VOICEMAIL_ERROR_MSG_FILE_WRITE_ERROR</key>
+	<string>Unable to store message locally.  Delete messages to free up space.</string>
+	<key>VOICEMAIL_ERROR_MSG_GREETING_FAIL</key>
+	<string>The greeting could not be saved.</string>
+	<key>VOICEMAIL_ERROR_MSG_INVALID_GREETING</key>
+	<string>The greeting is invalid.</string>
+	<key>VOICEMAIL_ERROR_MSG_MAILBOX_LOCKED</key>
+	<string>The mailbox is locked.</string>
+	<key>VOICEMAIL_ERROR_MSG_MAILBOX_NOT_AVAILABLE</key>
+	<string>The mailbox is currently unavailable.</string>
+	<key>VOICEMAIL_ERROR_MSG_NO_CUSTOM_GRETING</key>
+	<string>There is no previously recorded greeting.</string>
+	<key>VOICEMAIL_ERROR_MSG_NO_SERVICE</key>
+	<string>This account does not include Visual Voicemail.</string>
+	<key>VOICEMAIL_ERROR_MSG_PARSE_FAIL</key>
+	<string>Unable to retrieve message.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_AGE</key>
+	<string>Password has been changed recently.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_CHANGE_FAIL</key>
+	<string>Password change failed.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_INVALID</key>
+	<string>Enter a new password.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_INVALID_OLD</key>
+	<string>The old password is incorrect.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_LONG</key>
+	<string>Password is too long.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_PREVIOUS</key>
+	<string>Password has been previously used.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_SAME</key>
+	<string>Password is already set.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_SHORT</key>
+	<string>Password is too short.</string>
+	<key>VOICEMAIL_ERROR_MSG_PASSWORD_TRIVIAL</key>
+	<string>Password is too simple.</string>
+	<key>VOICEMAIL_ERROR_MSG_PDP_DATA_OFF</key>
+	<string>Visual Voicemail is unavailable when Cellular Data is turned off. You can turn on Cellular Data in the Cellular section of Settings.</string>
+	<key>VOICEMAIL_ERROR_MSG_PDP_FAILURE</key>
+	<string>Unable to initiate connection.</string>
+	<key>VOICEMAIL_ERROR_MSG_PDP_NOT_SUBSCRIBED</key>
+	<string>Your account may not be configured properly for this feature.</string>
+	<key>VOICEMAIL_ERROR_MSG_PDP_ROAMING_OFF</key>
+	<string>Data Roaming is turned off. You can enable Data Roaming in the Cellular section of Settings.</string>
+	<key>VOICEMAIL_ERROR_MSG_PLAYBACK_FAIL</key>
+	<string>Unable to play message.</string>
+	<key>VOICEMAIL_ERROR_MSG_SECURITY</key>
+	<string>Unable to establish connection.</string>
+	<key>VOICEMAIL_ERROR_MSG_SERVICE_BUSY</key>
+	<string>The voicemail service is busy.</string>
+	<key>VOICEMAIL_ERROR_MSG_TRANSCODE_ERROR</key>
+	<string>The message could not be retrieved.</string>
+	<key>VOICEMAIL_ERROR_MSG_TRY_AGAIN_LATER</key>
+	<string>Try again later.</string>
+	<key>VOICEMAIL_ERROR_TITLE_CAPACITY_WARNING</key>
+	<string>Voicemail %d%% Full</string>
+	<key>VOICEMAIL_ERROR_TITLE_ERROR</key>
+	<string>Voicemail Error</string>
+	<key>VOICEMAIL_ERROR_TITLE_PASSWORD</key>
+	<string>Password Error</string>
+	<key>VOICEMAIL_ERROR_TITLE_PASSWORD_INVALID</key>
+	<string>Password Invalid</string>
+	<key>VOICEMAIL_ERROR_TITLE_UNAVAILABLE</key>
+	<string>Voicemail Unavailable</string>
+	<key>VOICEMAIL_MORE_AVAILABLE</key>
+	<string>You have additional messages on the server.</string>
+	<key>VOICEMAIL_OUT_OF_ORDER_CALL_BUTTON_TITLE_FORMAT</key>
+	<string>Call %@</string>
+	<key>VOICEMAIL_OUT_OF_ORDER_SUBTITLE</key>
+	<string>Call your service provider for assistance.</string>
+	<key>VOICEMAIL_OUT_OF_ORDER_TITLE</key>
+	<string>Cannot Connect to Voicemail</string>
+	<key>VOICEMAIL_UNAVAILABLE</key>
+	<string>Visual Voicemail is currently unavailable.</string>
+	<key>VOICE_MAIL</key>
+	<string>Voicemail</string>
+	<key>VOICE_MAIL_UNREAD_FORMAT</key>
+	<string>Voicemail (%d)</string>
+	<key>WARNING</key>
+	<string>Warning</string>
+</dict>
+</plist>

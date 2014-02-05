@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2010-2012 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.baum.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.baum.65537</key>
+	<string>D1</string>
+	<key>com.apple.scrod.braille.driver.baum.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.baum.65793</key>
+	<string>D2</string>
+	<key>com.apple.scrod.braille.driver.baum.66049</key>
+	<string>D3</string>
+	<key>com.apple.scrod.braille.driver.baum.66305</key>
+	<string>D4</string>
+	<key>com.apple.scrod.braille.driver.baum.66561</key>
+	<string>D5</string>
+	<key>com.apple.scrod.braille.driver.baum.66817</key>
+	<string>D6</string>
+	<key>com.apple.scrod.braille.driver.baum.67073</key>
+	<string>Joystick Up</string>
+	<key>com.apple.scrod.braille.driver.baum.67329</key>
+	<string>Joystick Left</string>
+	<key>com.apple.scrod.braille.driver.baum.67585</key>
+	<string>Joystick Down</string>
+	<key>com.apple.scrod.braille.driver.baum.67841</key>
+	<string>Joystick Right</string>
+	<key>com.apple.scrod.braille.driver.baum.68097</key>
+	<string>Joystick Press</string>
+	<key>com.apple.scrod.braille.driver.baum.68353</key>
+	<string>F1</string>
+	<key>com.apple.scrod.braille.driver.baum.68609</key>
+	<string>F2</string>
+	<key>com.apple.scrod.braille.driver.baum.68865</key>
+	<string>F3</string>
+	<key>com.apple.scrod.braille.driver.baum.69121</key>
+	<string>F4</string>
+	<key>com.apple.scrod.braille.driver.baum.82177</key>
+	<string>Left</string>
+	<key>com.apple.scrod.braille.driver.baum.82433</key>
+	<string>Right</string>
+	<key>com.apple.scrod.braille.driver.baum.82689</key>
+	<string>Power</string>
+	<key>com.apple.scrod.braille.driver.baum.aph.refreshabraille.18</key>
+	<string>APH Refreshabraille 18</string>
+	<key>com.apple.scrod.braille.driver.baum.pocketvario.24</key>
+	<string>Baum PocketVario 24</string>
+	<key>com.apple.scrod.braille.driver.baum.pronto.18</key>
+	<string>Baum Pronto! 18</string>
+	<key>com.apple.scrod.braille.driver.baum.pronto.40</key>
+	<string>Baum Pronto! 40</string>
+	<key>com.apple.scrod.braille.driver.baum.supervario.32</key>
+	<string>Baum SuperVario 24</string>
+	<key>com.apple.scrod.braille.driver.baum.supervario.40</key>
+	<string>Baum SuperVario 24</string>
+	<key>com.apple.scrod.braille.driver.baum.supervario.64</key>
+	<string>Baum SuperVario 24</string>
+	<key>com.apple.scrod.braille.driver.baum.supervario.80</key>
+	<string>Baum SuperVario 24</string>
+	<key>com.apple.scrod.braille.driver.baum.varioconnect.12</key>
+	<string>Baum VarioConnect 12</string>
+	<key>com.apple.scrod.braille.driver.baum.varioconnect.24</key>
+	<string>Baum VarioConnect 24</string>
+	<key>com.apple.scrod.braille.driver.baum.varioconnect.32</key>
+	<string>Baum VarioConnect 32</string>
+	<key>com.apple.scrod.braille.driver.baum.varioconnect.40</key>
+	<string>Baum VarioConnect 40</string>
+</dict>
+</plist>

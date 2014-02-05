@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SETTINGS_TITLE</key>
+	<string>Settings</string>
+	<key>SETTING_AIRPLANE</key>
+	<string>Airplane Mode</string>
+	<key>SETTING_ASSISTIVETOUCH</key>
+	<string>AssistiveTouch</string>
+	<key>SETTING_BLUETOOTH</key>
+	<string>Bluetooth</string>
+	<key>SETTING_BRIGHTNESS</key>
+	<string>Brightness</string>
+	<key>SETTING_CELLULAR_DATA</key>
+	<string>Cellular Data</string>
+	<key>SETTING_DND</key>
+	<string>Do Not Disturb</string>
+	<key>SETTING_GUIDED_ACCESS</key>
+	<string>Guided Access</string>
+	<key>SETTING_INVERT_COLORS</key>
+	<string>Invert Colors</string>
+	<key>SETTING_VOICEOVER</key>
+	<string>VoiceOver</string>
+	<key>SETTING_WIFI</key>
+	<string>Wi-Fi</string>
+</dict>
+</plist>

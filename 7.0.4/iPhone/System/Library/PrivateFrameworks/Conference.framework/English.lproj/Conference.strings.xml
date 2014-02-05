@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALERT_VIDEO_FAILED_BAD_NONCE_TIMESTAMP</key>
+	<string>Your Date &amp; Time settings need to be updated.</string>
+	<key>ALERT_VIDEO_FAILED_LOCAL_INCOMPATIBLE_MESSAGE</key>
+	<string>Update to a newer version of iOS to FaceTime with this person.</string>
+	<key>ALERT_VIDEO_FAILED_NOT_AVAILABLE_MESSAGE_NAME</key>
+	<string>%@ is not available for FaceTime.</string>
+	<key>ALERT_VIDEO_FAILED_NOT_AVAILABLE_MESSAGE_NUMBER</key>
+	<string>%@ is not available for FaceTime.</string>
+	<key>ALERT_VIDEO_FAILED_NO_LOCAL_NETWORK_WIFI_MESSAGE</key>
+	<string>Connect to a Wi-Fi network or cellular data to use FaceTime.</string>
+	<key>ALERT_VIDEO_FAILED_NO_LOCAL_NETWORK_WLAN_MESSAGE</key>
+	<string>Connect to a WLAN network or cellular data to use FaceTime.</string>
+	<key>ALERT_VIDEO_FAILED_NO_LOCAL_WIFI_MESSAGE</key>
+	<string>Connect to a Wi-Fi network to use FaceTime.</string>
+	<key>ALERT_VIDEO_FAILED_NO_LOCAL_WLAN_MESSAGE</key>
+	<string>Connect to a WLAN network to use FaceTime.</string>
+	<key>ALERT_VIDEO_FAILED_NO_NETWORK_CONNECTION_TITLE</key>
+	<string>No Network Connection</string>
+	<key>ALERT_VIDEO_FAILED_REGION_INFO_INSUFFICIENT</key>
+	<string>Check the phone number you called to make sure it is complete.</string>
+	<key>ALERT_VIDEO_FAILED_REMOTE_INCOMPATIBLE_MESSAGE_NAME</key>
+	<string>%@ needs to upgrade to iOS 4.1 or newer.</string>
+	<key>ALERT_VIDEO_FAILED_REMOTE_INCOMPATIBLE_MESSAGE_NUMBER</key>
+	<string>%@ needs to upgrade to iOS 4.1 or newer.</string>
+	<key>ALERT_VIDEO_FAILED_TITLE</key>
+	<string>FaceTime Failed</string>
+	<key>ALERT_VIDEO_FAILED_UNKNOWN_REASON</key>
+	<string>Unknown Reason %d</string>
+	<key>ALERT_VIDEO_FAILED_UPDATE_LOCATION_MESSAGE</key>
+	<string>Your FaceTime location information needs to be updated.</string>
+	<key>ALERT_VIDEO_FAILED_WITH_REASON_AND_ERROR_MESSAGE</key>
+	<string>FaceTime failed for reason: %@, error: %@.</string>
+	<key>ALERT_VIDEO_FAILED_WITH_REASON_MESSAGE</key>
+	<string>FaceTime failed for reason: %@.</string>
+	<key>ALERT_VIDEO_NOT_AVAILABLE_TITLE</key>
+	<string>FaceTime Unavailable</string>
+	<key>CALL_BACK</key>
+	<string>Call Back</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_VIDEO</key>
+	<string>Cancel</string>
+	<key>CELLULAR_SETTINGS</key>
+	<string>Cellular Settings</string>
+	<key>ENDED_FOR_REASON</key>
+	<string>FaceTime ended for reason: %d</string>
+	<key>FACETIME_AUDIO_DURATION_PREAMBLE</key>
+	<string>Touch to resume FaceTime Audio</string>
+	<key>FACETIME_VIDEO_DURATION_PREAMBLE</key>
+	<string>Touch to resume FaceTime</string>
+	<key>HUD_STATUS_CONNECTED</key>
+	<string>Connected</string>
+	<key>HUD_STATUS_CONNECTING</key>
+	<string>Connecting…</string>
+	<key>HUD_STATUS_WAITING</key>
+	<string>FaceTime with %@…</string>
+	<key>MUTE_OVERLAY</key>
+	<string>Mute</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PAUSE_OVERLAY</key>
+	<string>Paused</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SLIDE_TO_UNLOCK</key>
+	<string>slide to unlock</string>
+	<key>STATUS_CALL_BUSY</key>
+	<string>is busy at this time</string>
+	<key>STATUS_CALL_DECLINED</key>
+	<string>FaceTime declined</string>
+	<key>STATUS_CALL_DISCONNECTED</key>
+	<string>Connection Lost</string>
+	<key>STATUS_CALL_FAILED</key>
+	<string>FaceTime failed</string>
+	<key>STATUS_CALL_UNANSWERED</key>
+	<string>FaceTime unanswered</string>
+	<key>STATUS_CALL_UNAVAILABLE</key>
+	<string>FaceTime unavailable</string>
+	<key>STATUS_CONNECTED</key>
+	<string>connected</string>
+	<key>STATUS_CONNECTING</key>
+	<string>connecting…</string>
+	<key>STATUS_ENDED</key>
+	<string>FaceTime ended</string>
+	<key>STATUS_ENDING</key>
+	<string>FaceTime ending…</string>
+	<key>STATUS_WAITING</key>
+	<string>FaceTime…</string>
+	<key>TRY_AGAIN</key>
+	<string>Try Again</string>
+	<key>UNKNOWN_CALLER_ID</key>
+	<string>Unknown</string>
+	<key>VIDEO</key>
+	<string>FaceTime</string>
+	<key>VIDEO_DEGRADED_MESSAGE</key>
+	<string>The video will resume automatically
+when the connection improves.</string>
+	<key>VIDEO_DEGRADED_TITLE</key>
+	<string>Poor Connection</string>
+	<key>VIDEO_DURATION</key>
+	<string>FaceTime %@</string>
+	<key>VIDEO_DURATION_PREAMBLE</key>
+	<string>Touch to resume FaceTime</string>
+	<key>VIDEO_LABEL</key>
+	<string>FaceTime</string>
+	<key>VIDEO_PERMISSION_ALERT_CALL</key>
+	<string>FaceTime</string>
+	<key>VIDEO_PERMISSION_ALERT_CANCEL</key>
+	<string>Cancel</string>
+	<key>VIDEO_RECONNECTING_TITLE</key>
+	<string>Reconnecting…</string>
+	<key>WIFI_SETTINGS</key>
+	<string>Wi-Fi Settings</string>
+	<key>WLAN_SETTINGS</key>
+	<string>WLAN Settings</string>
+	<key>WOULD_LIKE_TO_VIDEO</key>
+	<string>would like FaceTime…</string>
+</dict>
+</plist>

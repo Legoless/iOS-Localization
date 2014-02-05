@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Back Camera</key>
+	<string>Back Camera</string>
+	<key>Built In Audio</key>
+	<string>Built-In Audio</string>
+	<key>Camera</key>
+	<string>Camera</string>
+	<key>Front Camera</key>
+	<string>Front Camera</string>
+	<key>Headphones</key>
+	<string>Headphones</string>
+	<key>Unknown Device</key>
+	<string>Unknown Device</string>
+	<key>iPhone Microphone</key>
+	<string>iPhone Microphone</string>
+	<key>iPod touch Microphone</key>
+	<string>iPod touch Microphone</string>
+</dict>
+</plist>

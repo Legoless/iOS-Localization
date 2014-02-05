@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application.name</key>
+	<string>iTunes</string>
+	<key>explicit.content</key>
+	<string>Explicit content</string>
+	<key>track.index</key>
+	<string>Track %@. </string>
+	<key>track.list.listen.hint</key>
+	<string>Plays a preview of the track.</string>
+</dict>
+</plist>

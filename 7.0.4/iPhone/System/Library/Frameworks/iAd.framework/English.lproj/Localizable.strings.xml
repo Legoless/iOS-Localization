@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ad inventory unavailable</key>
+	<string>Ad inventory unavailable</string>
+	<key>Ad was unloaded from this banner</key>
+	<string>Ad was unloaded from this banner</string>
+	<key>Application has iAd Network configuration error</key>
+	<string>Application has iAd Network configuration error</string>
+	<key>Banner view is visible but does not have content</key>
+	<string>Banner view is visible but does not have content</string>
+	<key>Dismiss iAd</key>
+	<string>Dismiss iAd</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Learn More</key>
+	<string>Learn More</string>
+	<key>Loading throttled</key>
+	<string>Loading throttled</string>
+	<key>More information about this iAd</key>
+	<string>More information about this iAd</string>
+	<key>Skip iAd</key>
+	<string>Skip iAd</string>
+	<key>Skip in %d</key>
+	<string>Skip in %d</string>
+	<key>Unknown error</key>
+	<string>Unknown error</string>
+	<key>iAd</key>
+	<string>iAd</string>
+</dict>
+</plist>

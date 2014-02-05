@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AT&amp;T MyAccount_MYACCOUNTURLTITLE</key>
+	<string>AT&amp;T MyAccount</string>
+	<key>Check Bill Balance_SERVICE_NAME</key>
+	<string>Check Bill Balance</string>
+	<key>Directory Assistance_SERVICE_NAME</key>
+	<string>Directory Assistance</string>
+	<key>Pay My Bill_SERVICE_NAME</key>
+	<string>Pay My Bill</string>
+	<key>View My Data and Msg_SERVICE_NAME</key>
+	<string>View My Data and Msg</string>
+	<key>View My Minutes_SERVICE_NAME</key>
+	<string>View My Minutes</string>
+	<key>Voice Connect_SERVICE_NAME</key>
+	<string>Voice Connect</string>
+</dict>
+</plist>

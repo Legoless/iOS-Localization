@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Category Title</key>
+	<string>Category Title</string>
+	<key>FALSE</key>
+	<string>FALSE</string>
+	<key>GQDTDisplayTypeAverage</key>
+	<string>Average</string>
+	<key>GQDTDisplayTypeCount</key>
+	<string>Count</string>
+	<key>GQDTDisplayTypeMaximum</key>
+	<string>Maximum</string>
+	<key>GQDTDisplayTypeMinimum</key>
+	<string>Minimum</string>
+	<key>GQDTDisplayTypeSubtotal</key>
+	<string>Subtotal</string>
+	<key>IMPORT_FAILURE_MESSAGE_FORMAT</key>
+	<string>&lt;html&gt;&lt;body style="font-family:Helvetica; font-size:14pt;"&gt;&lt;br/&gt;&lt;br/&gt;&lt;div align="center"&gt;&lt;b&gt;%1$@&lt;/b&gt;&lt;/div&gt;&lt;br&gt;&lt;div align="center"&gt;%2$@&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</string>
+	<key>IMPORT_FAILURE_MESSAGE_TEXT</key>
+	<string>The document version may be unsupported or an error occurred while reading it.</string>
+	<key>IMPORT_FAILURE_MESSAGE_TITLE</key>
+	<string>Sorry, this document can't be viewed.</string>
+	<key>IWORK_KEY_PROG_ERROR_HTML</key>
+	<string>&lt;div id="slideId_Error" class = "slideStyle" style="width:%f; height:%f"&gt;&lt;div align="center" style=" margin-left:auto; margin-right:auto; margin-top:-170px; top:50%%; position:relative; width:400px; height:340px"&gt;&lt;img align="center" src="%@" width="240" height="240"/&gt;&lt;div style=" width:400px; height:48px;"&gt;&lt;div style = "position:relative;align:center;font-family:'Helvetica';font-size:14pt;font-style:bold;color:rgb(180, 180, 180);"&gt;&lt;br&gt;%@&lt;/div &gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</string>
+	<key>IWORK_KEY_PROG_ERROR_MESSAGE</key>
+	<string>This presentation is only partially previewed.</string>
+	<key>IWORK_NUM_PROG_ERROR_HTML</key>
+	<string>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;body&gt;&lt;div style="width:%fpx; height:%fpx;"&gt;&lt;div align="center" style="margin-left:auto; margin-right:auto; margin-top:-180px; top:50%%; position:relative; width:400px; height:340px"&gt;&lt;img align="center" src="%@" width="240" height="240"/&gt;&lt;div style=" width:400px; height:48px;"&gt;	&lt;div style = "position:relative; align:center; font-family:'Helvetica'; font-size:14pt;font-style:bold;color:rgb(180, 180, 180);"&gt;&lt;br&gt;%@&lt;/div &gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</string>
+	<key>IWORK_NUM_PROG_ERROR_MESSAGE</key>
+	<string>This spreadsheet is only partially previewed.</string>
+	<key>IWORK_PAGES_PROG_ERROR_HTML</key>
+	<string>&lt;div style="background: white; margin-left: 0px; margin-top: 0px; position: relative; margin-bottom: 5px; width:%f; height:%f" &gt; &lt;div style="padding-top:0;left:50%%; margin-left:-200px; margin-top:-170px; top:50%%; position:absolute; width:400px; height:340px"&gt;&lt;img style="align:center; margin-left:80px; " src=%@ width="240" height="240"/&gt;&lt;div style=" width:400px; height:48px;"&gt;&lt;div style="position:relative; text-align:center; font-family:'Helvetica Neue'; font-size:14pt;	font-style:bold; color:rgb(180, 180, 180);"&gt;&lt;br&gt;%@&lt;/div &gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</string>
+	<key>IWORK_PAGES_PROG_ERROR_MESSAGE</key>
+	<string>This document is only partially previewed.</string>
+	<key>IWORK_READ_ERROR_MESSAGE</key>
+	<string>This document can not be previewed.</string>
+	<key>PASSWORD_PROTECTED_MESSAGE_TEXT</key>
+	<string>The document is password-protected.</string>
+	<key>TRUE</key>
+	<string>TRUE</string>
+	<key>Title</key>
+	<string>Title</string>
+	<key>Value Title</key>
+	<string>Value Title</string>
+	<key>Value Y2 Title</key>
+	<string>Value Y2 Title</string>
+	<key>d</key>
+	<string>d</string>
+	<key>day</key>
+	<string>day</string>
+	<key>days</key>
+	<string>days</string>
+	<key>h</key>
+	<string>h</string>
+	<key>hour</key>
+	<string>hour</string>
+	<key>hours</key>
+	<string>hours</string>
+	<key>hr</key>
+	<string>hr</string>
+	<key>hrs</key>
+	<string>hrs</string>
+	<key>m</key>
+	<string>m</string>
+	<key>millisecond</key>
+	<string>millisecond</string>
+	<key>milliseconds</key>
+	<string>milliseconds</string>
+	<key>min</key>
+	<string>min</string>
+	<key>mins</key>
+	<string>mins</string>
+	<key>minute</key>
+	<string>minute</string>
+	<key>minutes</key>
+	<string>minutes</string>
+	<key>ms</key>
+	<string>ms</string>
+	<key>s</key>
+	<string>s</string>
+	<key>sec</key>
+	<string>sec</string>
+	<key>second</key>
+	<string>second</string>
+	<key>seconds</key>
+	<string>seconds</string>
+	<key>secs</key>
+	<string>secs</string>
+	<key>w</key>
+	<string>w</string>
+	<key>week</key>
+	<string>week</string>
+	<key>weeks</key>
+	<string>weeks</string>
+	<key>wk</key>
+	<string>wk</string>
+	<key>wks</key>
+	<string>wks</string>
+</dict>
+</plist>

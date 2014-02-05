@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>90’s Music</key>
+	<string>90’s Music</string>
+	<key>Acoustic</key>
+	<string>Acoustic</string>
+	<key>Bass Booster</key>
+	<string>Bass Booster</string>
+	<key>Bass Reducer</key>
+	<string>Bass Reducer</string>
+	<key>Classical</key>
+	<string>Classical</string>
+	<key>Classical Music</key>
+	<string>Classical Music</string>
+	<key>Dance</key>
+	<string>Dance</string>
+	<key>Deep</key>
+	<string>Deep</string>
+	<key>Electronic</key>
+	<string>Electronic</string>
+	<key>Flat</key>
+	<string>Flat</string>
+	<key>Hip Hop</key>
+	<string>Hip Hop</string>
+	<key>Jazz</key>
+	<string>Jazz</string>
+	<key>Late Night Mode</key>
+	<string>Late Night</string>
+	<key>Latin</key>
+	<string>Latin</string>
+	<key>Loudness</key>
+	<string>Loudness</string>
+	<key>Lounge</key>
+	<string>Lounge</string>
+	<key>Music Videos</key>
+	<string>Music Videos</string>
+	<key>My Top Rated</key>
+	<string>My Top Rated</string>
+	<key>ON_THE_GO_PLAYLIST_NAME</key>
+	<string>On-The-Go</string>
+	<key>ON_THE_GO_PLAYLIST_NAME_FORMAT</key>
+	<string>New Playlist %d</string>
+	<key>PURCHASED_ITEMS_PLAYLIST_NAME</key>
+	<string>Purchased</string>
+	<key>Piano</key>
+	<string>Piano</string>
+	<key>Pop</key>
+	<string>Pop</string>
+	<key>R &amp; B</key>
+	<string>R &amp; B</string>
+	<key>Recently Added</key>
+	<string>Recently Added</string>
+	<key>Recently Played</key>
+	<string>Recently Played</string>
+	<key>Rock</key>
+	<string>Rock</string>
+	<key>Season %d</key>
+	<string>Season %d</string>
+	<key>Small Speakers</key>
+	<string>Small Speakers</string>
+	<key>Spoken Word</key>
+	<string>Spoken Word</string>
+	<key>Top 25 Most Played</key>
+	<string>Top 25 Most Played</string>
+	<key>Treble Booster</key>
+	<string>Treble Booster</string>
+	<key>Treble Reducer</key>
+	<string>Treble Reducer</string>
+	<key>VARIOUS_ARTISTS</key>
+	<string>Various Artists</string>
+	<key>Vocal Booster</key>
+	<string>Vocal Booster</string>
+</dict>
+</plist>

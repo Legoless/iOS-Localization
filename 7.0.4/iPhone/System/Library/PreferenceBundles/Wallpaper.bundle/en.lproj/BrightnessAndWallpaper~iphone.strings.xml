@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1_MIN</key>
+	<string>1 Minute</string>
+	<key>20_SEC</key>
+	<string>20 Seconds</string>
+	<key>2_MIN</key>
+	<string>2 Minutes</string>
+	<key>30_SEC</key>
+	<string>30 Seconds</string>
+	<key>3_MIN</key>
+	<string>3 Minutes</string>
+	<key>45_SEC</key>
+	<string>45 Seconds</string>
+	<key>5_MIN</key>
+	<string>5 Minutes</string>
+	<key>AUTOBRIGHTNESS</key>
+	<string>Auto-Brightness</string>
+	<key>BRIGHTNESS</key>
+	<string>Brightness</string>
+	<key>BRIGHTNESS_AND_WALLPAPER</key>
+	<string>Brightness &amp; Wallpaper</string>
+	<key>CHOOSE_WALLPAPER</key>
+	<string>Choose Wallpaper</string>
+	<key>Dimmer</key>
+	<string>Dimmer</string>
+	<key>NEVER</key>
+	<string>Never</string>
+	<key>Screen Lock</key>
+	<string>Screen Lock</string>
+	<key>WALLPAPER</key>
+	<string>Wallpaper</string>
+</dict>
+</plist>

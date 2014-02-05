@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>COMMENTS_ADDED</key>
+	<string>New comments</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>INVITATION_ACCEPTED</key>
+	<string>1 new subscriber</string>
+	<key>LIKES_ADDED_MY_PHOTO</key>
+	<string>New people like your photo</string>
+	<key>LIKES_ADDED_NOT_MY_PHOTO</key>
+	<string>New people like a photo</string>
+	<key>NEW_STREAM_INVITATION</key>
+	<string>You have been invited to a Shared Photo Stream</string>
+	<key>ONE_COMMENT_ADDED</key>
+	<string>1 new comment</string>
+	<key>ONE_LIKE_ADDED_MY_PHOTO</key>
+	<string>1 person likes your photo</string>
+	<key>ONE_LIKE_ADDED_NOT_MY_PHOTO</key>
+	<string>1 person likes a photo</string>
+	<key>ONE_PHOTO_ADDED</key>
+	<string>1 new photo</string>
+	<key>PHOTOS_ADDED</key>
+	<string>New photos</string>
+	<key>VIEW</key>
+	<string>View</string>
+</dict>
+</plist>

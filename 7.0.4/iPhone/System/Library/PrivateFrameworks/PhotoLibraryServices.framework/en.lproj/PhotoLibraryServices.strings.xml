@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALL_HORIZONTAL_PANORAMAS</key>
+	<string>Horizontal Panoramas</string>
+	<key>ALL_IMPORTED</key>
+	<string>All Imported</string>
+	<key>ALL_PANORAMAS</key>
+	<string>Panoramas</string>
+	<key>ALL_VERTICAL_PANORAMAS</key>
+	<string>Vertical Panoramas</string>
+	<key>ALL_VIDEOS</key>
+	<string>Videos</string>
+	<key>CAMERA_ROLL</key>
+	<string>Camera Roll</string>
+	<key>ENCODING_FAILED</key>
+	<string>Failed to encode image for saved photos.</string>
+	<key>ERROR_ACCESS_GLOBAL_DENIED_DESCRIPTION</key>
+	<string>Global denied access</string>
+	<key>ERROR_ACCESS_GLOBAL_DENIED_FAILURE</key>
+	<string>The user has denied all applications access to their media.</string>
+	<key>ERROR_ACCESS_GLOBAL_DENIED_RECOVERY</key>
+	<string>This setting can be changed in Preferences.</string>
+	<key>ERROR_ACCESS_USER_DENIED_DESCRIPTION</key>
+	<string>User denied access</string>
+	<key>ERROR_ACCESS_USER_DENIED_FAILURE</key>
+	<string>The user has denied the application access to their media.</string>
+	<key>ERROR_DATABASE_CORRUPT_DISMISS</key>
+	<string>Dismiss</string>
+	<key>ERROR_DATABASE_CORRUPT_HEADER</key>
+	<string>There is a problem with the Photos library.</string>
+	<key>ERROR_DATABASE_CORRUPT_MESSAGE</key>
+	<string>Please launch Photos to fix it.</string>
+	<key>ERROR_DATA_UNAVAILABLE_DESCRIPTION</key>
+	<string>Data unavailable</string>
+	<key>ERROR_DATA_UNAVAILABLE_RECOVERY</key>
+	<string>Launch the Photos application</string>
+	<key>ERROR_SECURITY_POLICY_ERROR_DESCRIPTION</key>
+	<string>A required entitlement was not present</string>
+	<key>ERROR_UNKNOWN_DESCRIPTION</key>
+	<string>Unknown error</string>
+	<key>ERROR_WRITE_BUSY_DESCRIPTION</key>
+	<string>Write busy</string>
+	<key>ERROR_WRITE_BUSY_FAILURE</key>
+	<string>There was a problem writing this asset because the writing resources are busy.</string>
+	<key>ERROR_WRITE_BUSY_RECOVERY</key>
+	<string>Try to write again</string>
+	<key>ERROR_WRITE_DISK_SPACE</key>
+	<string>There is insufficient free disk space to copy asset file.</string>
+	<key>ERROR_WRITE_ENCODING_FAILED</key>
+	<string>Failed to encode image for saved photos.</string>
+	<key>ERROR_WRITE_FAILED_DESCRIPTION</key>
+	<string>Write failed</string>
+	<key>ERROR_WRITE_FAILED_FAILURE</key>
+	<string>There was a problem writing this asset because the write failed.</string>
+	<key>ERROR_WRITE_INCOMPATIBLE</key>
+	<string>This asset is incompatible with this device's saved photos roll.</string>
+	<key>ERROR_WRITE_INVALID_DATA_DESCRIPTION</key>
+	<string>Invalid data</string>
+	<key>ERROR_WRITE_INVALID_DATA_FAILURE</key>
+	<string>There was a problem writing this asset because the data is invalid and cannot be viewed or played.</string>
+	<key>ERROR_WRITE_INVALID_DATA_RECOVERY</key>
+	<string>Try with different data</string>
+	<key>EVENTS</key>
+	<string>Events</string>
+	<key>EVENTS_FROM_MY_MAC</key>
+	<string>Events from My Mac</string>
+	<key>FACES</key>
+	<string>Faces</string>
+	<key>FACES_FROM_MY_MAC</key>
+	<string>Faces from My Mac</string>
+	<key>IMPORTED_PHOTOS_VIDEOS</key>
+	<string>Imported Photos &amp; Videos</string>
+	<key>INVITED_TO_SHARED_ALBUM_NOTIFICATION_MESSAGE</key>
+	<string>%@ invited you to join “%@”</string>
+	<key>INVITED_TO_SHARED_ALBUM_NOTIFICATION_TITLE</key>
+	<string>New Shared Photo Stream</string>
+	<key>INVITED_TO_SHARED_ALBUM_NO_INVITER_NOTIFICATION_MESSAGE</key>
+	<string>You have been invited to join “%@”</string>
+	<key>INVITED_TO_SHARED_ALBUM_NO_TITLE_NOTIFICATION_MESSAGE</key>
+	<string>%@ invited you to join a Photo Stream</string>
+	<key>INVITEE_ACCEPTED_ALBUM_NOTIFICATION_MESSAGE</key>
+	<string>%@ joined “%@”</string>
+	<key>INVITEE_DECLINED_ALBUM_NOTIFICATION_MESSAGE</key>
+	<string>%@ declined to join “%@”</string>
+	<key>LAST_IMPORT</key>
+	<string>Last Import</string>
+	<key>MANY_PHOTOS_ADDED_SHARED_ALBUM_NOTIFICATION_MESSAGE</key>
+	<string>%@ new photos from %@</string>
+	<key>MANY_PHOTOS_WITH_CAPTION_ADDED_SHARED_ALBUM_NOTIFICATION_MESSAGE</key>
+	<string>%@ new photos from %@: “%@”</string>
+	<key>MOMENT_COUNTY_END_FORMAT</key>
+	<string>%@ %@</string>
+	<key>MOMENT_COUNTY_LONG</key>
+	<string>County</string>
+	<key>MOMENT_COUNTY_SHORT</key>
+	<string>Co.</string>
+	<key>MOMENT_COUNTY_START_FORMAT</key>
+	<string>%2$@ %1$@</string>
+	<key>MOMENT_HOME</key>
+	<string>Home</string>
+	<key>MOMENT_TITLE_CONTINUATION_FORMAT</key>
+	<string>+ %@</string>
+	<key>MOMENT_TITLE_LIST_END_SEPARATOR_FORMAT_1</key>
+	<string> &amp; %@</string>
+	<key>MOMENT_TITLE_LIST_END_SEPARATOR_FORMAT_N</key>
+	<string> &amp; %@</string>
+	<key>MOMENT_TITLE_LIST_MID_SEPARATOR_FORMAT</key>
+	<string>, %@</string>
+	<key>MOMENT_TITLE_PREFIX_FORMAT</key>
+	<string>%@ - %@</string>
+	<key>MOMENT_TITLE_SUFFIX_FORMAT</key>
+	<string>%@, %@</string>
+	<key>MULTIPLE_CONTRIBUTOR_STATE_CHANGED_MESSAGE</key>
+	<string>You can now add photos and videos to this shared stream</string>
+	<key>NEW_COMMENTS_ADDED</key>
+	<string>%@ new comments</string>
+	<key>NEW_COMMENT_ADDED</key>
+	<string>1 new comment</string>
+	<key>NEW_COMMENT_WITH_TEXT_ADDED</key>
+	<string>%@: “%@”</string>
+	<key>NEW_LIKES_ADDED_MY_ITEMS</key>
+	<string>%@ people liked your items</string>
+	<key>NEW_LIKES_ADDED_MY_PHOTO</key>
+	<string>%@ people liked your photo</string>
+	<key>NEW_LIKES_ADDED_MY_PHOTOS</key>
+	<string>%@ people liked your photos</string>
+	<key>NEW_LIKES_ADDED_MY_VIDEO</key>
+	<string>%@ people liked your video</string>
+	<key>NEW_LIKES_ADDED_MY_VIDEOS</key>
+	<string>%@ people liked your videos</string>
+	<key>NEW_LIKES_ADDED_NOT_MY_ITEMS</key>
+	<string>%@ people liked these items</string>
+	<key>NEW_LIKES_ADDED_NOT_MY_PHOTO</key>
+	<string>%@ people liked this photo</string>
+	<key>NEW_LIKES_ADDED_NOT_MY_PHOTOS</key>
+	<string>%@ people liked these photos</string>
+	<key>NEW_LIKES_ADDED_NOT_MY_VIDEO</key>
+	<string>%@ people liked this video</string>
+	<key>NEW_LIKES_ADDED_NOT_MY_VIDEOS</key>
+	<string>%@ people liked these videos</string>
+	<key>NEW_LIKE_ADDED_ITEMS</key>
+	<string>%@ liked %@ items</string>
+	<key>NEW_LIKE_ADDED_MY_PHOTO</key>
+	<string>%@ liked your photo</string>
+	<key>NEW_LIKE_ADDED_MY_VIDEO</key>
+	<string>%@ liked your video</string>
+	<key>NEW_LIKE_ADDED_NOT_MY_PHOTO</key>
+	<string>%@ liked this photo</string>
+	<key>NEW_LIKE_ADDED_NOT_MY_VIDEO</key>
+	<string>%@ liked this video</string>
+	<key>NEW_LIKE_ADDED_PHOTOS</key>
+	<string>%@ liked %@ photos</string>
+	<key>NEW_LIKE_ADDED_VIDEOS</key>
+	<string>%@ liked %@ videos</string>
+	<key>ONE_PHOTO_ADDED_SHARED_ALBUM_NOTIFICATION_MESSAGE</key>
+	<string>New photo from %@</string>
+	<key>ONE_PHOTO_WITH_CAPTION_ADDED_SHARED_ALBUM_NOTIFICATION_MESSAGE</key>
+	<string>New photo from %@: “%@”</string>
+	<key>PHOTOS</key>
+	<string>Photos</string>
+	<key>PHOTOSTREAM_MY_PHOTOSTREAM</key>
+	<string>My Photo Stream</string>
+	<key>PHOTOSTREAM_SHARE_LINK_EMAIL_FORMAT</key>
+	<string>&lt;html&gt;&lt;p&gt;%@&lt;/p&gt;&lt;p&gt;&lt;a href="%@"&gt;%@&lt;/a&gt;&lt;/p&gt;&lt;/html&gt;</string>
+	<key>PHOTOSTREAM_SHARE_LINK_EMAIL_MESSAGE</key>
+	<string>You can view my shared photo stream on the web:</string>
+	<key>PHOTOSTREAM_SHARE_LINK_EMAIL_SUBJECT_FORMAT</key>
+	<string>%@</string>
+	<key>PHOTOSTREAM_SHARE_LINK_IMESSAGE_FORMAT</key>
+	<string>%@:
+%@</string>
+	<key>PHOTOSTREAM_SHARE_LINK_SOCIAL_FORMAT</key>
+	<string>%@</string>
+	<key>PHOTO_LIBRARY</key>
+	<string>Photo Library</string>
+	<key>SAVED_PHOTOS</key>
+	<string>Saved Photos</string>
+	<key>TIFFMAKE</key>
+	<string>Apple</string>
+	<key>VIDEO_DISK_SPACE_ERROR</key>
+	<string>Operation failed because there is insufficient free disk space to copy video file.</string>
+	<key>VIDEO_INVALID_ERROR</key>
+	<string>Operation failed because video file is invalid and cannot be played.</string>
+	<key>VIDEO_UNKNOWN_ERROR</key>
+	<string>Unknown error occurred while adding video to saved photos.</string>
+</dict>
+</plist>

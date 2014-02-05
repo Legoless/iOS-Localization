@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALARM_OTHER_TIMEZONE_FORMAT</key>
+	<string>%1$@ (%2$@)</string>
+	<key>CALL</key>
+	<string>Call</string>
+	<key>CLOSE</key>
+	<string>Close</string>
+	<key>DISMISS</key>
+	<string>Dismiss</string>
+	<key>INVITATION_ALERT_TITLE</key>
+	<string>Invitation</string>
+	<key>INVITATION_ORGANIZER_FORMAT</key>
+	<string>from %@</string>
+	<key>INVITATION_SUBTITLE_CANCELED_FORMAT</key>
+	<string>Canceled by %@</string>
+	<key>INVITATION_SUBTITLE_FORMAT</key>
+	<string>Invitation from %@</string>
+	<key>MISSED_EVENTS_BANNER</key>
+	<string>You have %@ upcoming calendar events</string>
+	<key>MISSED_REMINDERS_BANNER</key>
+	<string>You have %@ reminders</string>
+	<key>NO_EVENT_TITLE</key>
+	<string>Event</string>
+	<key>NO_REMINDER_TITLE</key>
+	<string>Reminder</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>RESOURCE_CHANGE_ALERT_TITLE</key>
+	<string>Shared Event Change</string>
+	<key>SHARED_CALENDAR_INVITATION_ALERT_TITLE</key>
+	<string>Shared Calendar Invitation</string>
+	<key>SHARED_CALENDAR_INVITE_MESSAGE</key>
+	<string>Invitation to share a calendar with %@.</string>
+	<key>SLIDE_TO_VIEW</key>
+	<string>slide to view</string>
+	<key>TOPIC_EVENT</key>
+	<string>Upcoming Event</string>
+	<key>TOPIC_INVITATION</key>
+	<string>Invitation</string>
+	<key>TOPIC_REMINDER</key>
+	<string>Reminder</string>
+	<key>TOPIC_RESOURCE_CHANGE</key>
+	<string>Shared Event Change</string>
+	<key>VIEW</key>
+	<string>View</string>
+	<key>VIEW_EVENT</key>
+	<string>View Event</string>
+</dict>
+</plist>

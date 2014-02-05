@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@
+has cancelled this request.</key>
+	<string>%@
+has cancelled this request.</string>
+	<key>%@
+has declined your request.</key>
+	<string>%@
+has declined your request.</string>
+	<key>%@
+would like to connect.</key>
+	<string>%@
+would like to connect.</string>
+	<key>%@ has cancelled this request.</key>
+	<string>%@ has cancelled this request.</string>
+	<key>%@ has declined your request.</key>
+	<string>%@ has declined your request.</string>
+	<key>%@ would like to connect.</key>
+	<string>%@ would like to connect.</string>
+	<key>Accept</key>
+	<string>Accept</string>
+	<key>Bluetooth Communication Error</key>
+	<string>Bluetooth Communication Error</string>
+	<key>Bluetooth must be on to connect to nearby iPads, iPhones, or iPod touches.</key>
+	<string>Bluetooth must be on to connect to nearby iPads, iPhones, or iPod touches.</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Choose an iPad, iPhone,
+or iPod touch:</key>
+	<string>Choose an iPad, iPhone,
+or iPod touch:</string>
+	<key>Connection Lost</key>
+	<string>Connection Lost</string>
+	<key>Decline</key>
+	<string>Decline</string>
+	<key>Looking for other iPads, iPhones, or iPod touches…</key>
+	<string>Looking for other iPads, iPhones, or iPod touches…</string>
+	<key>Looking for peers…</key>
+	<string>Looking for peers…</string>
+	<key>Nearby</key>
+	<string>Nearby</string>
+	<key>Not supported on this
+%@.</key>
+	<string>Not supported on this
+%@.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Online</key>
+	<string>Online</string>
+	<key>Request declined.</key>
+	<string>Request declined.</string>
+	<key>This request was cancelled.</key>
+	<string>This request was cancelled.</string>
+	<key>Waiting for
+%@…</key>
+	<string>Waiting for
+%@…</string>
+	<key>Waiting for %@…</key>
+	<string>Waiting for %@…</string>
+	<key>Waiting to connect…</key>
+	<string>Waiting to connect…</string>
+	<key>Would you like to turn on Bluetooth?</key>
+	<string>Would you like to turn on Bluetooth?</string>
+	<key>is not available.</key>
+	<string>is not available.</string>
+</dict>
+</plist>

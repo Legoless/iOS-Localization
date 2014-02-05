@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CBMessageAcceptButton</key>
+	<string>Update</string>
+	<key>CBMessageBody</key>
+	<string>New settings are available.  Would you like to update them now?</string>
+	<key>CBMessageDeclineButton</key>
+	<string>Not Now</string>
+	<key>CBMessageTitle</key>
+	<string>Carrier Settings Update</string>
+</dict>
+</plist>

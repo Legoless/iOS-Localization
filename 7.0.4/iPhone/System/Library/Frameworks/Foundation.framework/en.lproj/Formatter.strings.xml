@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fell short of minimum</key>
+	<string>Fell short of minimum</string>
+	<key>Floating Point not allowed</key>
+	<string>Floating Point not allowed</string>
+	<key>Invalid date string</key>
+	<string>Invalid date string</string>
+	<key>Invalid number</key>
+	<string>Invalid number</string>
+	<key>Maximum exceeded</key>
+	<string>Maximum exceeded</string>
+</dict>
+</plist>

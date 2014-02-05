@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT</key>
+	<string>Accept</string>
+	<key>BT_COMM_ERROR_MESSAGE</key>
+	<string>Bluetooth Communication Error</string>
+	<key>BT_TURN_ON_MESSAGE</key>
+	<string>Would You Like to Turn on Bluetooth?</string>
+	<key>BT_TURN_ON_STRING</key>
+	<string>Turn On</string>
+	<key>BT_TURN_ON_TITLE</key>
+	<string>Bluetooth must be on to connect to nearby iPhones.</string>
+	<key>BT_UNSUPPORTED_MESSAGE</key>
+	<string>Not supported on this
+%@</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONNECTION_LOST_MESSAGE</key>
+	<string>Connection Lost</string>
+	<key>DECLINE</key>
+	<string>Decline</string>
+	<key>INVITATION_CANCELLED_FALLBACK_MESSAGE</key>
+	<string>This Request Was Cancelled</string>
+	<key>INVITATION_CANCELLED_LINEBREAK_MESSAGE</key>
+	<string>'%@'
+Has Cancelled This Request</string>
+	<key>INVITATION_CANCELLED_MESSAGE</key>
+	<string>'%@' Has Cancelled This Request</string>
+	<key>INVITATION_DECLINED_FALLBACK_MESSAGE</key>
+	<string>Request declined</string>
+	<key>INVITATION_DECLINED_LINEBREAK_MESSAGE</key>
+	<string>'%@'
+Has Declined Your Request</string>
+	<key>INVITATION_DECLINED_MESSAGE</key>
+	<string>'%@' Has Declined Your Request</string>
+	<key>INVITATION_LINEBREAK_MESSAGE</key>
+	<string>'%@'
+Would Like to Connect</string>
+	<key>INVITATION_MESSAGE</key>
+	<string>%@ Would Like to Connect</string>
+	<key>NEARBY</key>
+	<string>Nearby</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ONLINE</key>
+	<string>Online</string>
+	<key>PEER_BUSY_SUBTITLE</key>
+	<string>is not available</string>
+	<key>PEER_LIST_EMPTY_MESSAGE</key>
+	<string>Looking for iPhones…</string>
+	<key>PEER_LIST_TITLE</key>
+	<string>Choose an iPhone or iPod touch:</string>
+	<key>SEARCHING_MESSAGE</key>
+	<string>Looking for other iPhones or iPod touches…</string>
+	<key>WAITING_FOR_PEER_FALLBACK_MESSAGE</key>
+	<string>Waiting to connect…</string>
+	<key>WAITING_FOR_PEER_LINEBREAK_MESSAGE</key>
+	<string>Waiting for
+'%@'…</string>
+	<key>WAITING_FOR_PEER_MESSAGE</key>
+	<string>Waiting for '%@'…</string>
+</dict>
+</plist>

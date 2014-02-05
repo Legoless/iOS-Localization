@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APP_INSTALL_FAIL_PROFILE_FORMAT</key>
+	<string>‘%@’ failed to install.</string>
+	<key>ICLOUD_RESTORE</key>
+	<string>iCloud Restore</string>
+	<key>ITUNES_SYNC</key>
+	<string>iTunes Sync</string>
+	<key>ITUNES_SYNC_IN_PROGRESS</key>
+	<string>iTunes Sync in Progress</string>
+	<key>NUM_ITEMS_FORMAT_PLURAL</key>
+	<string>%@ items could not be synced. See iTunes for more information.</string>
+	<key>NUM_ITEMS_FORMAT_SINGLE</key>
+	<string>%@ item could not be synced. See iTunes for more information.</string>
+	<key>WAIT_FOR_FINISH_FORMAT_DEVICE</key>
+	<string>Wait for iTunes to finish syncing your content before disconnecting your %@.</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advertisment.label</key>
+	<string>Advertisement</string>
+	<key>genius.play.button</key>
+	<string>Play Genius</string>
+	<key>hide.lyrics.hint</key>
+	<string>Double tap to hide lyrics</string>
+	<key>hide.rating.hint</key>
+	<string>Double tap to hide rating</string>
+	<key>info.button</key>
+	<string>Info</string>
+	<key>lyrics.title</key>
+	<string>Lyrics</string>
+	<key>more.info.ad</key>
+	<string>Advertisement Icon</string>
+	<key>movie.advertisment.label</key>
+	<string>Movie Advertisement</string>
+	<key>now.playing</key>
+	<string>Now playing</string>
+	<key>radio.station.hint</key>
+	<string>Double tap to start playing this station</string>
+	<key>show.lyrics.hint</key>
+	<string>Double tap to show lyrics</string>
+	<key>show.rating.hint</key>
+	<string>Double tap to show rating</string>
+</dict>
+</plist>

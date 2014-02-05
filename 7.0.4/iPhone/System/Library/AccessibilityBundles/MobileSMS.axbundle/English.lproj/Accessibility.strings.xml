@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.name</key>
+	<string>Messages</string>
+	<key>contact.stopped.typing.message</key>
+	<string>Buddy stopped typing</string>
+	<key>contact.stopped.typing.message.with.name</key>
+	<string>%@ stopped typing</string>
+	<key>contact.typing.message</key>
+	<string>Buddy is typing</string>
+	<key>contact.typing.message.with.name</key>
+	<string>%@ is typing</string>
+</dict>
+</plist>

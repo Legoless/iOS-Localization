@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_PASSES_TITLE</key>
+	<string>“%1$@” Would Like to Add %2$@ Passes to Passbook</string>
+	<key>ADD_PASSES_TITLE_SINGULAR</key>
+	<string>“%1$@” Would Like to Add %2$@ Pass to Passbook</string>
+	<key>APPS_FEATURED</key>
+	<string>Featured</string>
+	<key>APPS_INSTALLED</key>
+	<string>Installed</string>
+	<key>APPS_STORE_PAGE_ERROR</key>
+	<string>Could not connect to iTunes Store</string>
+	<key>APP_STORE</key>
+	<string>Apps for Passbook</string>
+	<key>BOARDING_PASS_CARD_DESCRIPTION</key>
+	<string>%@ to %@</string>
+	<key>CARD_SIGNATURE_ERROR</key>
+	<string>The pass cannot be read because it isn’t valid.</string>
+	<key>CARD_VALIDATION_ERROR</key>
+	<string>The pass cannot be read because it isn’t valid.</string>
+	<key>CARD_VERSION_ERROR</key>
+	<string>A newer version of iOS is needed to read this pass.</string>
+	<key>CODE_SCANNER_DOWNLOADING</key>
+	<string>Downloading</string>
+	<key>CODE_SCANNER_ERROR</key>
+	<string>No Pass Available for This Code</string>
+	<key>CODE_SCANNER_HELP</key>
+	<string>You can only scan Passes into Passbook.
+Look for the Add to Passbook badge.</string>
+	<key>CODE_SCANNER_INSTRUCTIONS</key>
+	<string>Point at code to scan.</string>
+	<key>CUTOFF_MESSAGE_MORE_ORGANIZATIONS</key>
+	<string>Some passes are receiving too many updates, which may affect battery life. Automatic updates for your %@ and %@ passes, among others, will be disabled. Choose Re-enable if you want automatic updates to continue.</string>
+	<key>CUTOFF_MESSAGE_ONE_ORGANIZATION</key>
+	<string>Some passes are receiving too many updates, which may affect battery life. Automatic updates for your %@ passes will be disabled. Choose Re-enable if you want automatic updates to continue.</string>
+	<key>CUTOFF_MESSAGE_TWO_ORGANIZATIONS</key>
+	<string>Some passes are receiving too many updates, which may affect battery life. Automatic updates for your %@ and %@ passes will be disabled. Choose Re-enable if you want automatic updates to continue.</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_SHEET_CANCEL</key>
+	<string>Cancel</string>
+	<key>DELETE_SHEET_CONFIRM</key>
+	<string>Delete</string>
+	<key>DELETE_SHEET_DEMO_MODE_BUTTON</key>
+	<string>OK</string>
+	<key>DELETE_SHEET_DEMO_MODE_TITLE</key>
+	<string>Deletion not enabled for this demo</string>
+	<key>DELETE_SHEET_TITLE</key>
+	<string>Are you sure you want to delete this pass?</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DOWNLOADING_CARD</key>
+	<string>Downloading</string>
+	<key>INGESTION_ADD</key>
+	<string>Add</string>
+	<key>INGESTION_ADDED</key>
+	<string>Added</string>
+	<key>INGESTION_ADD_N</key>
+	<string>Add All</string>
+	<key>INGESTION_CANCEL</key>
+	<string>Cancel</string>
+	<key>INGESTION_TITLE_N_PASSES</key>
+	<string>%1$@ %2$@</string>
+	<key>INGESTION_UPDATE</key>
+	<string>Update</string>
+	<key>INSTALLED</key>
+	<string>INSTALLED</string>
+	<key>INTERNET_OFFLINE_ERROR</key>
+	<string>Connect to the Internet to Add a Pass</string>
+	<key>LAST_UPDATED_DAYS_FORMAT</key>
+	<string>updated %d days ago</string>
+	<key>LAST_UPDATED_FAILED</key>
+	<string>Couldn’t update pass</string>
+	<key>LAST_UPDATED_FORMAT</key>
+	<string>updated %@</string>
+	<key>LAST_UPDATED_HOUR</key>
+	<string>updated 1 hour ago</string>
+	<key>LAST_UPDATED_HOURS_FORMAT</key>
+	<string>updated %d hours ago</string>
+	<key>LAST_UPDATED_JUST_UPDATED</key>
+	<string>just updated</string>
+	<key>LAST_UPDATED_MINUTES</key>
+	<string>updated %d minutes ago</string>
+	<key>LAST_UPDATED_NEVER</key>
+	<string>never updated</string>
+	<key>LAST_UPDATED_YESTERDAY</key>
+	<string>updated yesterday</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>NEARBY</key>
+	<string>Nearby</string>
+	<key>NOT_AVAILABLE</key>
+	<string>Cannot Load App Details</string>
+	<key>OK_BUTTON_TITLE</key>
+	<string>OK</string>
+	<key>OPEN_BUTTON</key>
+	<string>Open</string>
+	<key>PASSBOOK</key>
+	<string>Passbook</string>
+	<key>PASS_EXPIRED</key>
+	<string>this pass has expired</string>
+	<key>PASS_MULTIPLE_CHANGES_BULLETIN_BOARDING_PASS</key>
+	<string>Boarding pass changed</string>
+	<key>PASS_MULTIPLE_CHANGES_BULLETIN_CARD</key>
+	<string>Pass changed</string>
+	<key>PASS_MULTIPLE_CHANGES_BULLETIN_COUPON</key>
+	<string>Coupon changed</string>
+	<key>PASS_MULTIPLE_CHANGES_BULLETIN_EVENT_TICKET</key>
+	<string>Event ticket changed</string>
+	<key>PASS_MULTIPLE_CHANGES_BULLETIN_GIFT_CARD</key>
+	<string>Store card changed</string>
+	<key>PASS_REVOKED</key>
+	<string>this pass is no longer valid</string>
+	<key>PICKER_TITLE</key>
+	<string>Passes</string>
+	<key>PICKER_USE</key>
+	<string>Use</string>
+	<key>PRICE_FORMAT_STRING</key>
+	<string>%@ — On the App Store</string>
+	<key>RATING_FORMAT</key>
+	<string>(%@)</string>
+	<key>REENABLE_BUTTON_TITLE</key>
+	<string>Re-enable</string>
+	<key>REVIEW_BUTTON_TITLE</key>
+	<string>Review</string>
+	<key>SCAN_CODE</key>
+	<string>Scan Code</string>
+	<key>SCAN_CODE_CANCEL</key>
+	<string>Cancel</string>
+	<key>SETTINGS_NOTIFY_ME_DESC</key>
+	<string></string>
+	<key>SETTINGS_NOTIFY_ME_TITLE</key>
+	<string>Automatic Updates</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC</key>
+	<string>Show based on time or location.</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_BLUETOOTH</key>
+	<string>Turn on Bluetooth to ensure this pass will appear based on your location.</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_BLUETOOTH_LINK</key>
+	<string>Bluetooth Settings…</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_BTLE</key>
+	<string>Show based on time or location.
+Some locations may not appear on this device.</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_LOCATION_SERVICES</key>
+	<string>Turn on Location Services to show this pass based on your location.</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_LOCATION_SERVICES_LINK</key>
+	<string>Location Services settings…</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_RELEVANCY</key>
+	<string>Turn on Location Services and Wi-Fi to show this pass based on your location.</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_RELEVANCY_LINK</key>
+	<string>Settings…</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_WIFI</key>
+	<string>Turn on Wi-Fi to ensure this pass will appear based on your location.</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_DESC_NO_WIFI_LINK</key>
+	<string>Wi-Fi settings…</string>
+	<key>SETTINGS_SHOW_ON_LOCKSCREEN_TITLE</key>
+	<string>Show On Lock Screen</string>
+	<key>TAP_TO_OPEN</key>
+	<string>Tap to open</string>
+	<key>TEMPLATE_NAME_BOARDING_PASS</key>
+	<string>Boarding Pass</string>
+	<key>TEMPLATE_NAME_BOARDING_PASSES</key>
+	<string>Passes</string>
+	<key>TEMPLATE_NAME_CARD</key>
+	<string>Pass</string>
+	<key>TEMPLATE_NAME_CARDS</key>
+	<string>Passes</string>
+	<key>TEMPLATE_NAME_COUPON</key>
+	<string>Coupon</string>
+	<key>TEMPLATE_NAME_COUPONS</key>
+	<string>Coupons</string>
+	<key>TEMPLATE_NAME_EVENT_TICKET</key>
+	<string>Event Ticket</string>
+	<key>TEMPLATE_NAME_EVENT_TICKETS</key>
+	<string>Tickets</string>
+	<key>TEMPLATE_NAME_GIFT_CARD</key>
+	<string>Store Card</string>
+	<key>TEMPLATE_NAME_GIFT_CARDS</key>
+	<string>Cards</string>
+	<key>TEMPLATE_NAME_LOWERCASE_BOARDING_PASS</key>
+	<string>boarding pass</string>
+	<key>TEMPLATE_NAME_LOWERCASE_CARD</key>
+	<string>pass</string>
+	<key>TEMPLATE_NAME_LOWERCASE_COUPON</key>
+	<string>coupon</string>
+	<key>TEMPLATE_NAME_LOWERCASE_EVENT_TICKET</key>
+	<string>event ticket</string>
+	<key>TEMPLATE_NAME_LOWERCASE_GIFT_CARD</key>
+	<string>gift card</string>
+	<key>TODAY_AT_TIME</key>
+	<string>Today at %@</string>
+	<key>TOMORROW_AT_TIME</key>
+	<string>Tomorrow at %@</string>
+	<key>USAGE_BUNDLE_CATEGORY_PASSES</key>
+	<string>Passes</string>
+	<key>VIEW_BUTTON</key>
+	<string>View</string>
+	<key>WELCOME_HEADLINE</key>
+	<string>Passbook keeps your boarding passes, movie tickets, retail coupons, and loyalty cards in one place, and shows them on your lock screen when you need them.
+
+To get passes, you can scan Passbook barcodes with the camera, or add them from apps, emails, and websites.</string>
+	<key>WELCOME_HEADLINE_NO_SCAN_CODE</key>
+	<string>Passbook keeps your boarding passes, movie tickets, retail coupons, and loyalty cards in one place, and shows them on your lock screen when you need them.
+
+To get passes, you can add them from apps, emails, and websites.</string>
+	<key>YESTERDAY_AT_TIME</key>
+	<string>Yesterday at %@</string>
+</dict>
+</plist>

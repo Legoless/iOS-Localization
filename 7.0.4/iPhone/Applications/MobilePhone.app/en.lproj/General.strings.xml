@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADDRESS_BOOK</key>
+	<string>Contacts</string>
+	<key>BLOCKED_CALLER</key>
+	<string>No Caller ID</string>
+	<key>BLOCKED_CALLER_DETAIL</key>
+	<string>No Caller ID</string>
+	<key>CALL</key>
+	<string>Call</string>
+	<key>CALL_HISTORY</key>
+	<string>Recents</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DIALER</key>
+	<string>Keypad</string>
+	<key>FACETIME</key>
+	<string>FaceTime</string>
+	<key>I_PHONE</key>
+	<string>iPhone</string>
+	<key>SPEAKER_PHONE</key>
+	<string>Speaker Phone</string>
+	<key>SPEED_DIAL</key>
+	<string>Favorites</string>
+	<key>THIS_PHONE</key>
+	<string>My Number:</string>
+	<key>UNKNOWN_CALLER</key>
+	<string>Unknown</string>
+	<key>UNKNOWN_CALLER_DETAIL</key>
+	<string>Unknown Caller</string>
+	<key>UNKNOWN_LOCATION</key>
+	<string>Unknown Location</string>
+	<key>UPGRADE_TO_FACETIME_BUTTON_CANCEL</key>
+	<string>Cancel</string>
+	<key>UPGRADE_TO_FACETIME_BUTTON_UPGRADE</key>
+	<string>OK</string>
+	<key>UPGRADE_TO_FACETIME_FORMAT</key>
+	<string>FaceTime with %@?</string>
+	<key>VOICEMAIL</key>
+	<string>Voicemail</string>
+	<key>VOICEMAIL_CALLER</key>
+	<string>Voicemail</string>
+</dict>
+</plist>

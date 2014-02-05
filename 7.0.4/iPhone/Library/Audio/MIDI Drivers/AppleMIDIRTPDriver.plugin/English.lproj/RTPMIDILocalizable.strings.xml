@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BadHostErr</key>
+	<string>%@ couldn’t be located. Make sure you entered the address correctly.</string>
+	<key>IncompatibleProtocolErr</key>
+	<string>Due to incompatible protocol versions, %s refused the connection request.</string>
+	<key>LostConnectionErr</key>
+	<string>The connection to %@ was lost.</string>
+	<key>NetworkDevice</key>
+	<string>Network</string>
+	<key>NoConnectResponseErr</key>
+	<string>%s didn’t respond to the connection request. Check the address and port, and any firewall or router settings.</string>
+	<key>RefusedConnectionErr</key>
+	<string>%s refused the connection request.</string>
+</dict>
+</plist>

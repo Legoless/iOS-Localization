@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DEMO_MODE</key>
+	<string>Demo Mode</string>
+	<key>DISTANCES</key>
+	<string>Distances</string>
+	<key>FEMALE</key>
+	<string>Female</string>
+	<key>GO_TO_NIKE</key>
+	<string>Go to Nike+</string>
+	<key>KG_FORMAT</key>
+	<string>%@ kg</string>
+	<key>KILOMETERS</key>
+	<string>Kilometers</string>
+	<key>LANDSCAPE_LEFT</key>
+	<string>Landscape Left</string>
+	<key>LANDSCAPE_RIGHT</key>
+	<string>Landscape Right</string>
+	<key>MALE</key>
+	<string>Male</string>
+	<key>MILES</key>
+	<string>Miles</string>
+	<key>NIKE</key>
+	<string>Nike + iPod</string>
+	<key>NIKE_SWITCH</key>
+	<string>Nike + iPod</string>
+	<key>NO_RECEIVER</key>
+	<string>No Receiver</string>
+	<key>NO_SELECTED_POWERSONG</key>
+	<string>(none selected)</string>
+	<key>OFF</key>
+	<string>Off</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ORIENTATION</key>
+	<string>Lock Screen</string>
+	<key>PORTRAIT</key>
+	<string>Portrait</string>
+	<key>POUNDS_FORMAT</key>
+	<string>%@ lbs</string>
+	<key>POWERSONG</key>
+	<string>PowerSong</string>
+	<key>POWER_SONG_PICKER_PROMPT</key>
+	<string>Select a PowerSong</string>
+	<key>RECEIVER</key>
+	<string>Receiver</string>
+	<key>RELINK_CONFIRM_BODY</key>
+	<string>Do you want to link to a new sensor?</string>
+	<key>RELINK_CONFIRM_TITLE</key>
+	<string>Already Linked</string>
+	<key>REMOTE</key>
+	<string>Remote</string>
+	<key>RESET_CALIBRATION</key>
+	<string>Reset Calibration</string>
+	<key>SEND_TO_NIKE</key>
+	<string>Send Workouts to Nike+</string>
+	<key>SENSOR</key>
+	<string>Sensor</string>
+	<key>SPOKEN_FEEDBACK</key>
+	<string>Spoken Feedback</string>
+	<key>SYNC_FAILED</key>
+	<string>Cannot Sync to Nike+</string>
+	<key>UNABLE_TO_CONTACT_NIKE</key>
+	<string>Nike + iPod cannot sync workouts because Nike+ service is unavailable.</string>
+	<key>WEIGHT</key>
+	<string>Weight</string>
+</dict>
+</plist>

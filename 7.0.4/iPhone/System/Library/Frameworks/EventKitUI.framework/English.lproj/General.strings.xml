@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCESS_DENIED_EVENTS</key>
+	<string>This app does not have access to your calendars.</string>
+	<key>ACCESS_DENIED_REMINDERS</key>
+	<string>This app does not have access to your reminders.</string>
+	<key>ADD</key>
+	<string>Add</string>
+	<key>ADD_CALENDAR</key>
+	<string>Add Calendar</string>
+	<key>ADD_CALENDAR_WITH_ELLIPSIS</key>
+	<string>Add Calendar…</string>
+	<key>ADD_PERSON</key>
+	<string>Add Person</string>
+	<key>ADD_PERSON_WITH_ELLIPSIS</key>
+	<string>Add Person…</string>
+	<key>ADD_SHAREES_PROMPT</key>
+	<string>Add participants to this Calendar.</string>
+	<key>AFTER</key>
+	<string> after</string>
+	<key>ALERT</key>
+	<string>Alert</string>
+	<key>ALERT_DETAIL_NAV_TITLE</key>
+	<string>Event Alert</string>
+	<key>ALERT_LOWERCASE</key>
+	<string>alert</string>
+	<key>ALL</key>
+	<string>All</string>
+	<key>ALLOW_EDITING</key>
+	<string>Allow Editing</string>
+	<key>ALLOW_EDITING_DESCRIPTION</key>
+	<string>Allow this person to make changes to
+the calendar.</string>
+	<key>ALL_CALENDARS</key>
+	<string>All Calendars</string>
+	<key>ALL_DAY</key>
+	<string>all-day</string>
+	<key>ALL_DAY_ALARM_FORMAT</key>
+	<string>%@ (%@)</string>
+	<key>ALL_DAY_DAY_VIEW</key>
+	<string>all-day</string>
+	<key>ALL_DAY_EVENTS</key>
+	<string>all-day events</string>
+	<key>ALL_OF_STORE</key>
+	<string>All %@</string>
+	<key>ATTACHMENTS</key>
+	<string>Attachments</string>
+	<key>ATTACHMENTS_LOWERCASE</key>
+	<string>attachments</string>
+	<key>ATTACHMENT_DOWNLOAD_ERROR</key>
+	<string>An error occurred while downloading the attachment.</string>
+	<key>ATTACHMENT_DOWNLOAD_PROGRESS</key>
+	<string>%@ of %@</string>
+	<key>ATTACHMENT_FILE_TYPE_ERROR</key>
+	<string>This type of file is not supported.</string>
+	<key>BEFORE</key>
+	<string> before</string>
+	<key>BIRTHDAY_CALENDAR</key>
+	<string>Birthdays</string>
+	<key>BIWEEKLY</key>
+	<string>Biweekly</string>
+	<key>BLUE</key>
+	<string>Blue</string>
+	<key>BROWN</key>
+	<string>Brown</string>
+	<key>BUSY</key>
+	<string>Busy</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>CALENDARS</key>
+	<string>Calendars</string>
+	<key>CALENDAR_DATE_AT_TIME_FORMAT</key>
+	<string>%@ at %@</string>
+	<key>CALENDAR_LAST_WEEK_FORMAT</key>
+	<string>Last %@</string>
+	<key>CALENDAR_LAST_WEEK_LOWER_FORMAT</key>
+	<string>last %@</string>
+	<key>CALENDAR_NAME</key>
+	<string>Calendar Name</string>
+	<key>CALENDAR_NEXT_WEEK_FORMAT</key>
+	<string>This %@</string>
+	<key>CALENDAR_NEXT_WEEK_LOWER_FORMAT</key>
+	<string>this %@</string>
+	<key>CALENDAR_PRIOR_DAY_THIS_WEEK_FORMAT</key>
+	<string>Last %@</string>
+	<key>CALENDAR_PRIOR_DAY_THIS_WEEK_LOWER_FORMAT</key>
+	<string>last %@</string>
+	<key>CALENDAR_SUBSEQUENT_DAY_THIS_WEEK_FORMAT</key>
+	<string>This %@</string>
+	<key>CALENDAR_SUBSEQUENT_DAY_THIS_WEEK_LOWER_FORMAT</key>
+	<string>this %@</string>
+	<key>CALENDAR_TODAY</key>
+	<string>Today</string>
+	<key>CALENDAR_TODAY_LOWER</key>
+	<string>today</string>
+	<key>CALENDAR_TOMORROW</key>
+	<string>Tomorrow</string>
+	<key>CALENDAR_TOMORROW_LOWER</key>
+	<string>tomorrow</string>
+	<key>CALENDAR_YESTERDAY</key>
+	<string>Yesterday</string>
+	<key>CALENDAR_YESTERDAY_LOWER</key>
+	<string>yesterday</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCELELD_BY_FORMAT</key>
+	<string>Canceled by %@</string>
+	<key>CANNOT_OPEN_ATTACHMENT</key>
+	<string>Cannot Open Attachment</string>
+	<key>CELL_ENDS</key>
+	<string>ENDS</string>
+	<key>COLOR</key>
+	<string>Color</string>
+	<key>COPY_LINK</key>
+	<string>Copy Link</string>
+	<key>CREATED_BY</key>
+	<string>Created by</string>
+	<key>CREATED_BY_LOWERCASE</key>
+	<string>created by</string>
+	<key>CUSTOM</key>
+	<string>Custom</string>
+	<key>DAILY</key>
+	<string>Daily</string>
+	<key>DATE_CHANGED_TO_FORMAT</key>
+	<string>Date changed to %@</string>
+	<key>DAY_HEADER_WEEKDAY_WITH_DATE_MONTH_YEAR_FORMAT</key>
+	<string>%1$@, %2$@</string>
+	<key>DAY_TO_BETWEEN_TIMES</key>
+	<string> to </string>
+	<key>DAY_TO_NO_START_OR_LINE_BEGINNING</key>
+	<string>to </string>
+	<key>DELETE_CALENDAR</key>
+	<string>Delete Calendar</string>
+	<key>DELETE_CALENDAR_CONFIRMATION</key>
+	<string>Are you sure you want to delete this calendar? All events and reminders associated with the calendar will also be deleted.</string>
+	<key>DELETE_CALENDAR_CONFIRMATION_EVENTS_ONLY</key>
+	<string>Are you sure you want to delete this calendar? All events associated with the calendar will also be deleted.</string>
+	<key>DELETE_CALENDAR_CONFIRMATION_REMINDERS_ONLY</key>
+	<string>Are you sure you want to delete this calendar? All reminders associated with the calendar will also be deleted.</string>
+	<key>DETAIL_ALL_DAY</key>
+	<string>All day</string>
+	<key>DETAIL_DURATION_FORMAT</key>
+	<string>from %@ to %@</string>
+	<key>DETAIL_DURATION_FORMAT_NO_FROM</key>
+	<string>%@ to %@</string>
+	<key>DETAIL_DURATION_FORMAT_NO_FROM_WITH_SHORT_TIMEZONE</key>
+	<string>%@ to %@ (%@)</string>
+	<key>DETAIL_DURATION_FORMAT_WITH_SHORT_TIMEZONE</key>
+	<string>from %@ to %@ (%@)</string>
+	<key>DETAIL_MULTIPLE_ALL_DAY_END_FORMAT</key>
+	<string>to %@</string>
+	<key>DETAIL_MULTIPLE_ALL_DAY_START_FORMAT</key>
+	<string>All day from %@</string>
+	<key>DETAIL_MULTIPLE_DAYS_END_FORMAT</key>
+	<string>to %@ %@</string>
+	<key>DETAIL_MULTIPLE_DAYS_START_FORMAT</key>
+	<string>from %@ %@</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EDITED_BY</key>
+	<string>Edited by</string>
+	<key>EDITED_BY_LOWERCASE</key>
+	<string>edited by</string>
+	<key>EDIT_CALENDAR</key>
+	<string>Edit Calendar</string>
+	<key>EDIT_CALENDARS</key>
+	<string>Edit Calendars</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>ENDS</key>
+	<string>Ends</string>
+	<key>ENDS_TIME_FORMAT</key>
+	<string>ends %@</string>
+	<key>EVENT</key>
+	<string>Event</string>
+	<key>EVENTS</key>
+	<string>Events</string>
+	<key>FACEBOOK_GROUP_MID_SENTENCE_TITLE</key>
+	<string>Facebook</string>
+	<key>FACEBOOK_GROUP_TITLE</key>
+	<string>Facebook</string>
+	<key>FREE</key>
+	<string>Free</string>
+	<key>FROM_FORMAT</key>
+	<string>From: %@</string>
+	<key>GREEN</key>
+	<string>Green</string>
+	<key>HIDE_ALL_CALENDARS</key>
+	<string>Hide All Calendars</string>
+	<key>ICLOUD_HOME_CALENDAR</key>
+	<string>Home</string>
+	<key>ICLOUD_WORK_CALENDAR</key>
+	<string>Work</string>
+	<key>ICS_ADD_ALL</key>
+	<string>Add All</string>
+	<key>ICS_ADD_SOME</key>
+	<string>Add (%@)</string>
+	<key>ICS_CHOOSE_CALENDAR</key>
+	<string>Choose Calendar</string>
+	<key>ICS_EVENTS</key>
+	<string>%@ Events</string>
+	<key>ICS_EVENT_DETAILS</key>
+	<string>Event Details</string>
+	<key>INBOX</key>
+	<string>Inbox</string>
+	<key>INBOX_FORMAT</key>
+	<string>Inbox (%@)</string>
+	<key>INTERVAL_DAY</key>
+	<string>1 day</string>
+	<key>INTERVAL_DAYS</key>
+	<string>%@ days</string>
+	<key>INTERVAL_FORMAT_AFTER</key>
+	<string>%@ after</string>
+	<key>INTERVAL_FORMAT_BEFORE</key>
+	<string>%@ before</string>
+	<key>INTERVAL_HOUR</key>
+	<string>1 hour</string>
+	<key>INTERVAL_HOURS</key>
+	<string>%@ hours</string>
+	<key>INTERVAL_MINUTE</key>
+	<string>1 minute</string>
+	<key>INTERVAL_MINUTES</key>
+	<string>%@ minutes</string>
+	<key>INTERVAL_SECOND</key>
+	<string>1 second</string>
+	<key>INTERVAL_SECONDS</key>
+	<string>%@ seconds</string>
+	<key>INTERVAL_SEPARATOR</key>
+	<string>, </string>
+	<key>INTERVAL_WEEK</key>
+	<string>1 week</string>
+	<key>JOIN_CALENDAR</key>
+	<string>Join Calendar</string>
+	<key>JOIN_CALENDAR_BODY_FORMAT</key>
+	<string>%@ invited you to a shared calendar.</string>
+	<key>JOIN_CALENDAR_TITLE_FORMAT</key>
+	<string>Join “%@”?</string>
+	<key>LOCATION_CHANGED</key>
+	<string>Location changed</string>
+	<key>MESSAGE</key>
+	<string>Message</string>
+	<key>MONTHLY</key>
+	<string>Monthly</string>
+	<key>MULTIPLE_WEEK_NUMBER_FORMAT</key>
+	<string>Weeks %@ – %@</string>
+	<key>NEVER</key>
+	<string>Never</string>
+	<key>NEW_CALENDAR_WITH_ELLIPSIS</key>
+	<string>New Calendar…</string>
+	<key>NONE_ALERT</key>
+	<string>None</string>
+	<key>NONE_INVITEES</key>
+	<string>None</string>
+	<key>NOON</key>
+	<string>Noon</string>
+	<key>NOTES</key>
+	<string>Notes</string>
+	<key>NOTES_LOWERCASE</key>
+	<string>notes</string>
+	<key>NOTES_PLACEHOLDER</key>
+	<string>Notes</string>
+	<key>NO_CALENDARS</key>
+	<string>No Calendars</string>
+	<key>N_CALENDARS</key>
+	<string>%@ Calendars</string>
+	<key>ON_TIME</key>
+	<string>At time of event</string>
+	<key>ON_TIME_AT</key>
+	<string>On day of event (%@)</string>
+	<key>ORANGE</key>
+	<string>Orange</string>
+	<key>OTHER_ACCOUNT</key>
+	<string>Other</string>
+	<key>OUT_OF_OFFICE</key>
+	<string>Out of office</string>
+	<key>OWNER</key>
+	<string>Owner</string>
+	<key>PENDING</key>
+	<string>Pending</string>
+	<key>PENDING_SHARED_CALENDAR_FORMAT</key>
+	<string>%@ is pending on this shared calendar invitation.</string>
+	<key>PUBLIC_AND_SHARED</key>
+	<string>Public and Shared with %@…</string>
+	<key>PUBLIC_CALENDAR</key>
+	<string>Public Calendar</string>
+	<key>PUBLIC_CALENDAR_DESCRIPTION</key>
+	<string>Allow anyone to subscribe to a read-only version of this calendar.</string>
+	<key>PUBLISHED_CALENDAR_MESSAGE_BODY</key>
+	<string>Subscribe to my %@ Calendar at: %@</string>
+	<key>PUBLISHED_CALENDAR_MESSAGE_SUBJECT</key>
+	<string>Subscribe to my %@ Calendar</string>
+	<key>PUBLISHING_WITH_ELLIPSIS</key>
+	<string>Publishing…</string>
+	<key>PURPLE</key>
+	<string>Purple</string>
+	<key>QUOTED_FORMAT</key>
+	<string>“%@”</string>
+	<key>RED</key>
+	<string>Red</string>
+	<key>REMINDERS_CALENDAR</key>
+	<string>Reminders</string>
+	<key>REMOVE</key>
+	<string>Remove</string>
+	<key>REMOVE_ALERT_TEXT</key>
+	<string>%@ will immediately lose access to this calendar.</string>
+	<key>REPEAT</key>
+	<string>Repeat</string>
+	<key>RESEND_SHARING_INVITATION</key>
+	<string>Resend Sharing Invitation</string>
+	<key>SECOND_ALERT</key>
+	<string>Second Alert</string>
+	<key>SHARED</key>
+	<string>Shared</string>
+	<key>SHARED_ADDED_TO_CALENDAR_BY</key>
+	<string>Added to %@ by %@</string>
+	<key>SHARED_ADDED_TO_CALENDAR_BY_COALESCED</key>
+	<string>%@ events were added to %@ by %@.</string>
+	<key>SHARED_ADDED_TO_CALENDAR_COALESCED</key>
+	<string>%@ events were added to %@.</string>
+	<key>SHARED_BY_WITH_OWNER_DESCRIPTION</key>
+	<string>Shared by %@</string>
+	<key>SHARED_CALENDAR</key>
+	<string>Shared Calendar</string>
+	<key>SHARED_CALENDAR_INVITE_REPLY_ACCEPTED</key>
+	<string>%@ joined your shared calendar.</string>
+	<key>SHARED_CALENDAR_INVITE_REPLY_DECLINED</key>
+	<string>%@ declined your shared calendar.</string>
+	<key>SHARED_CALENDAR_NOW_PUBLIC</key>
+	<string>This calendar is now public.</string>
+	<key>SHARED_CALENDAR_NO_LONGER_SHARED</key>
+	<string>This calendar is no longer shared.</string>
+	<key>SHARED_DELETED_FROM_CALENDAR_BY</key>
+	<string>Deleted from %@ by %@</string>
+	<key>SHARED_DELETED_FROM_CALENDAR_BY_COALESCED</key>
+	<string>%@ events were deleted from %@ by %@.</string>
+	<key>SHARED_DELETED_FROM_CALENDAR_COALESCED</key>
+	<string>%@ events were deleted from %@.</string>
+	<key>SHARED_ONE_PROP_CHANGED_BY</key>
+	<string>%@ changed by %@</string>
+	<key>SHARED_ONE_PROP_CHANGED_TO_BY</key>
+	<string>%@ changed to %@ by %@</string>
+	<key>SHARED_PROP_DATE</key>
+	<string>date</string>
+	<key>SHARED_PROP_LOCATION</key>
+	<string>location</string>
+	<key>SHARED_PROP_TIME</key>
+	<string>time</string>
+	<key>SHARED_PROP_TITLE</key>
+	<string>title</string>
+	<key>SHARED_TWO_PROPS_CHANGED_BY</key>
+	<string>%@ and %@ changed by %@</string>
+	<key>SHARED_UPDATED_IN_CALENDAR_BY</key>
+	<string>Updated in %@ by %@</string>
+	<key>SHARED_UPDATED_IN_CALENDAR_BY_COALESCED</key>
+	<string>%@ events were updated in %@ by %@.</string>
+	<key>SHARED_UPDATED_IN_CALENDAR_COALESCED</key>
+	<string>%@ events were updated in %@.</string>
+	<key>SHARED_WITH_COLON</key>
+	<string>Shared with:</string>
+	<key>SHARED_WITH_MULTIPLE_PEOPLE</key>
+	<string>Shared with %@ and…</string>
+	<key>SHARED_WITH_SINGLE_PERSON</key>
+	<string>Shared with %@</string>
+	<key>SHARE_LINK_TO_CALENDAR_WITH</key>
+	<string>Share link to calendar with:</string>
+	<key>SHARE_LINK_WITH_ELLIPSIS</key>
+	<string>Share Link…</string>
+	<key>SHOW_ALL_CALENDARS</key>
+	<string>Show All Calendars</string>
+	<key>SHOW_ALL_NOTES</key>
+	<string>Show All Notes</string>
+	<key>SHOW_AS</key>
+	<string>Show As</string>
+	<key>SHOW_CALENDARS</key>
+	<string>Show Calendars</string>
+	<key>SHOW_IN_MAIL</key>
+	<string>Show the message in Mail</string>
+	<key>SINGLE_WEEK_NUMBER_FORMAT</key>
+	<string>Week %@</string>
+	<key>STARTS</key>
+	<string>Starts</string>
+	<key>STOP_SHARING</key>
+	<string>Stop Sharing</string>
+	<key>SUBSCRIBED</key>
+	<string>Subscribed</string>
+	<key>SUBSCRIBED_CALENDAR_GROUP_MID_SENTENCE_TITLE</key>
+	<string>Subscribed</string>
+	<key>SUBSCRIBED_CALENDAR_GROUP_TITLE</key>
+	<string>Subscribed</string>
+	<key>TENTATIVE</key>
+	<string>Tentative</string>
+	<key>TIME_CHANGED_TO_FORMAT</key>
+	<string>Time changed to %@</string>
+	<key>TIME_DISTINGUISHED_WITH_SHORT_TIMEZONE</key>
+	<string>%@ (%@)</string>
+	<key>TO_WITH_COLON</key>
+	<string>To:</string>
+	<key>TWEET</key>
+	<string>Tweet</string>
+	<key>UNKNOWN</key>
+	<string>Unknown</string>
+	<key>UNKNOWN_IDENTITY</key>
+	<string>somebody</string>
+	<key>UNKNOWN_IDENTITY_CAPITALIZED</key>
+	<string>Somebody</string>
+	<key>UNTITLED_ACCOUNT</key>
+	<string>Untitled Account</string>
+	<key>UNTITLED_ATTACHMENT</key>
+	<string>Untitled Attachment</string>
+	<key>UNTITLED_CALENDAR</key>
+	<string>Untitled Calendar</string>
+	<key>UNTITLED_EVENT</key>
+	<string>New Event</string>
+	<key>UPDATING_CALENDARS_WITH_ELLIPSIS</key>
+	<string>Updating Calendars…</string>
+	<key>URL</key>
+	<string>URL</string>
+	<key>URL_LOWERCASE</key>
+	<string>url</string>
+	<key>VIEW_AND_EDIT</key>
+	<string>View &amp; Edit</string>
+	<key>VIEW_ONLY</key>
+	<string>View Only</string>
+	<key>VIEW_ON_FACEBOOK</key>
+	<string>View on Facebook</string>
+	<key>WEEKLY</key>
+	<string>Weekly</string>
+	<key>YEARLY</key>
+	<string>Yearly</string>
+	<key>YELLOW</key>
+	<string>Yellow</string>
+</dict>
+</plist>

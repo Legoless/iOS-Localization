@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kilometers</key>
+	<string>Kilometers</string>
+	<key>kilos</key>
+	<string>Kilograms</string>
+	<key>miles</key>
+	<string>Miles</string>
+	<key>multiple.sensors.image</key>
+	<string>Multiple Sensors</string>
+	<key>new.remote.announcement</key>
+	<string>Linked to remote</string>
+	<key>new.sensor.announcement</key>
+	<string>Linked to sensor</string>
+	<key>no.remote.image</key>
+	<string>No Remote</string>
+	<key>no.sensor.image</key>
+	<string>No Sensor</string>
+	<key>pounds</key>
+	<string>Pounds</string>
+	<key>receiver.image</key>
+	<string>Receiver</string>
+	<key>receiver.unnecessary.image</key>
+	<string>Receiver Unnecessary</string>
+	<key>remote.image</key>
+	<string>Remote</string>
+	<key>sensor.image</key>
+	<string>Sensor</string>
+</dict>
+</plist>

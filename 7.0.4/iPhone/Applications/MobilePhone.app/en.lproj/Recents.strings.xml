@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALL_RECENT_CALLS</key>
+	<string>Recent Calls</string>
+	<key>ALL_TOGGLE_TITLE</key>
+	<string>all</string>
+	<key>CANCELED_FACETIME</key>
+	<string>Canceled FaceTime</string>
+	<key>CANCELED_FACETIME_AUDIO</key>
+	<string>Canceled FaceTime Audio</string>
+	<key>CANCELLED</key>
+	<string>Canceled</string>
+	<key>CLEAR</key>
+	<string>Clear</string>
+	<key>CLEAR_ALL</key>
+	<string>Clear All Recents</string>
+	<key>CNAP_STRING_FORMAT</key>
+	<string>%@ %@</string>
+	<key>FACETIME_AUDIO_LABEL</key>
+	<string>FaceTime Audio</string>
+	<key>FACETIME_LABEL</key>
+	<string>FaceTime</string>
+	<key>HOUR_UNIT</key>
+	<string>hour</string>
+	<key>HOUR_UNIT_PLURAL</key>
+	<string>hours</string>
+	<key>INCOMING</key>
+	<string>Incoming Call</string>
+	<key>INCOMING_CALLS</key>
+	<string>Incoming Calls</string>
+	<key>INCOMING_FACETIME</key>
+	<string>Incoming FaceTime</string>
+	<key>INCOMING_FACETIME_AUDIO</key>
+	<string>Incoming FaceTime Audio</string>
+	<key>MINUTE_UNIT</key>
+	<string>minute</string>
+	<key>MINUTE_UNIT_ABB</key>
+	<string>m</string>
+	<key>MINUTE_UNIT_PLURAL</key>
+	<string>minutes</string>
+	<key>MISSED</key>
+	<string>Missed</string>
+	<key>MISSED_FACETIME</key>
+	<string>Missed FaceTime</string>
+	<key>MISSED_FACETIME_AUDIO</key>
+	<string>Missed FaceTime Audio</string>
+	<key>MISSED_TOGGLE_TITLE</key>
+	<string>missed</string>
+	<key>MULTI_CALLS_FORMAT</key>
+	<string>%i Calls</string>
+	<key>MULTI_MISSED_CALLS_FORMAT</key>
+	<string>%i Missed Calls</string>
+	<key>OUTGOING</key>
+	<string>Outgoing Call</string>
+	<key>OUTGOING_CALLS</key>
+	<string>Outgoing Calls</string>
+	<key>OUTGOING_FACETIME</key>
+	<string>Outgoing FaceTime</string>
+	<key>OUTGOING_FACETIME_AUDIO</key>
+	<string>Outgoing FaceTime Audio</string>
+	<key>SECOND_UNIT</key>
+	<string>second</string>
+	<key>SECOND_UNIT_PLURAL</key>
+	<string>seconds</string>
+	<key>UNKNOWN_LABEL</key>
+	<string>unknown</string>
+</dict>
+</plist>

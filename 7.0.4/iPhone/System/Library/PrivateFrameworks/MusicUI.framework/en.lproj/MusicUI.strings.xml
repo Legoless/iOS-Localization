@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_ALL_SONGS_TO_PLAYLIST_BUTTON</key>
+	<string>Add All Songs</string>
+	<key>ADD_PLAYLIST</key>
+	<string>New Playlist…</string>
+	<key>ADD_SONGS_TO_PLAYLIST_BUTTON</key>
+	<string>Add Songs</string>
+	<key>ADD_TO_PLAYLIST_CELL_BUTTON_TITLE</key>
+	<string>Add to Playlist</string>
+	<key>ADD_TO_QUEUE_CELL_BUTTON_TITLE</key>
+	<string>Add to Queue</string>
+	<key>ALBUMS_TAB_TITLE</key>
+	<string>Albums</string>
+	<key>ALBUM_DETAIL_FORMAT_0_SONGS</key>
+	<string>no songs</string>
+	<key>ALBUM_DETAIL_FORMAT_1_SONG</key>
+	<string>#1# song</string>
+	<key>ALBUM_DETAIL_FORMAT_FULL</key>
+	<string>%@, #%li# min</string>
+	<key>ALBUM_DETAIL_FORMAT_X_SONGS</key>
+	<string>#%li# songs</string>
+	<key>ALBUM_FLIPSIDE_ALBUM</key>
+	<string>Album</string>
+	<key>ALBUM_FLIPSIDE_PLAYLIST</key>
+	<string>Playlist</string>
+	<key>ALBUM_SONGS_COUNT_FORMAT_1_ALBUM_1_SONG</key>
+	<string>#1# album, #1# song</string>
+	<key>ALBUM_SONGS_COUNT_FORMAT_1_ALBUM_X_SONGS</key>
+	<string>#1# album, #%li# songs</string>
+	<key>ALBUM_SONGS_COUNT_FORMAT_X_ALBUMS_1_SONG</key>
+	<string>#%li# albums, #1# song</string>
+	<key>ALBUM_SONGS_COUNT_FORMAT_X_ALBUMS_Y_SONGS</key>
+	<string>#%li# albums, #%li# songs</string>
+	<key>ARTISTS_TAB_TITLE</key>
+	<string>Artists</string>
+	<key>AUDIOBOOKS_DETAIL_FORMAT_0_CHAPTERS</key>
+	<string>no chapters</string>
+	<key>AUDIOBOOKS_DETAIL_FORMAT_1_CHAPTER</key>
+	<string>#1# chapter</string>
+	<key>AUDIOBOOKS_DETAIL_FORMAT_FULL</key>
+	<string>%@, #%li# min</string>
+	<key>AUDIOBOOKS_DETAIL_FORMAT_X_CHAPTERS</key>
+	<string>#%li# chapters</string>
+	<key>AUDIOBOOKS_TAB_TITLE</key>
+	<string>Audiobooks</string>
+	<key>AUDIOBOOK_CHAPTER_FORMAT</key>
+	<string>Chapters %1$@/%2$@</string>
+	<key>AUDIOBOOK_CHAPTER_INDEX_FORMAT</key>
+	<string>Chapter %@</string>
+	<key>BUY_ALBUM_FOR_AMOUNT_FORMAT</key>
+	<string>Buy Album: %@</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CLEAR_PLAYLIST</key>
+	<string>Clear Playlist</string>
+	<key>CLOUD_CONTENT_LOADING_TITLE</key>
+	<string>Loading iTunes Match…</string>
+	<key>COMPILATIONS_TAB_TITLE</key>
+	<string>Compilations</string>
+	<key>COMPLETE_MY_ALBUM</key>
+	<string>Complete My Album</string>
+	<key>COMPLETE_MY_ALBUM_FORMAT</key>
+	<string>Complete my album for %@</string>
+	<key>COMPLETE_MY_ALBUM_FOR_AMOUNT_FORMAT</key>
+	<string>Complete My Album %@</string>
+	<key>COMPOSERS_TAB_TITLE</key>
+	<string>Composers</string>
+	<key>CONTINUE_SEARCH_IN_STORE</key>
+	<string>Continue Search in Store…</string>
+	<key>COPYRIGHT_YEAR_SEPARATOR</key>
+	<string>, </string>
+	<key>CREATE</key>
+	<string>Create</string>
+	<key>CREATE_ACTION_GENIUS_PLAYLIST</key>
+	<string>Genius Playlist</string>
+	<key>CREATE_ACTION_NEW_STATION</key>
+	<string>New Station</string>
+	<key>CREATE_ACTION_NEW_STATION_FROM_ARTIST</key>
+	<string>New Station from Artist</string>
+	<key>CREATE_ACTION_NEW_STATION_FROM_SONG</key>
+	<string>New Station from Song</string>
+	<key>CREATE_GENIUS_PLAYLIST</key>
+	<string>Choose a song to create a Genius Playlist.</string>
+	<key>CREATE_PAD</key>
+	<string>Create</string>
+	<key>DEFAULT_GENIUS_PLAYLIST_NAME</key>
+	<string>Genius Playlist</string>
+	<key>DELETE_PLAYLIST</key>
+	<string>Delete Playlist</string>
+	<key>DETAIL_SCRUB_INSTRUCTIONS</key>
+	<string>Slide your finger to adjust the scrubbing rate.</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DOWNLOADING_SONGS_FOOTER_FORMAT</key>
+	<string>Downloading %u of %u songs</string>
+	<key>DOWNLOAD_ALL_BUTTON_TITLE</key>
+	<string>Download All</string>
+	<key>DOWNLOAD_ALL_DOWNLOADING</key>
+	<string>Download All</string>
+	<key>DOWNLOAD_ALL_SONGS_FOR_ARTIST</key>
+	<string>Download All Songs From This Artist</string>
+	<key>DOWNLOAD_ALL_SONGS_N</key>
+	<string>Download All #(%li songs)#</string>
+	<key>DOWNLOAD_ALL_SONGS_ONE</key>
+	<string>Download All #(%li song)#</string>
+	<key>EDIT_PLAYLIST_BUTTON</key>
+	<string>Edit</string>
+	<key>EXIT_STORE_BUTTON_TITLE</key>
+	<string>Library</string>
+	<key>GENIUS_MIXES_BASED_ON_MUSIC_BY</key>
+	<string>Based on music by</string>
+	<key>GENIUS_MIXES_MORE_ARTISTS_FORMAT</key>
+	<string>‎%@ &amp; more.</string>
+	<key>GENIUS_MIXES_NAVIGATION_TITLE</key>
+	<string>Genius Mixes</string>
+	<key>GENIUS_MIXES_SEPARATOR_COMMA_FORMAT</key>
+	<string>, </string>
+	<key>GENIUS_MIXES_TAB_TITLE</key>
+	<string>Genius</string>
+	<key>GENIUS_PLAYLIST</key>
+	<string>Genius Playlist</string>
+	<key>GENRES_TAB_TITLE</key>
+	<string>Genres</string>
+	<key>HOME_SHARING_CONNECTION_ERROR_ALERT_TITLE</key>
+	<string>Unable to turn on Home Sharing</string>
+	<key>ITUNESU_TAB_TITLE</key>
+	<string>iTunes U</string>
+	<key>LISTING_COUNT_ALBUMS_FORMAT</key>
+	<string>%d Albums</string>
+	<key>LISTING_COUNT_ARTISTS_FORMAT</key>
+	<string>%d Artists</string>
+	<key>LISTING_COUNT_AUDIBLEBOOKS_FORMAT</key>
+	<string>%d Audible Books</string>
+	<key>LISTING_COUNT_AUDIOBOOKS_FORMAT</key>
+	<string>%d Audiobooks</string>
+	<key>LISTING_COUNT_COMPILATIONS_FORMAT</key>
+	<string>%d Compilations</string>
+	<key>LISTING_COUNT_COMPOSERS_FORMAT</key>
+	<string>%d Composers</string>
+	<key>LISTING_COUNT_GENERIC_ITEMS_FORMAT</key>
+	<string>%d Items</string>
+	<key>LISTING_COUNT_GENERIC_TRACKS_FORMAT</key>
+	<string>%d Tracks</string>
+	<key>LISTING_COUNT_GENRES_FORMAT</key>
+	<string>%d Genres</string>
+	<key>LISTING_COUNT_PLAYLISTS_FORMAT</key>
+	<string>%d Playlists</string>
+	<key>LISTING_COUNT_PODCASTS_FORMAT</key>
+	<string>%d Podcasts</string>
+	<key>LISTING_COUNT_PODCAST_ITEMS_FORMAT</key>
+	<string>%d Episodes</string>
+	<key>LISTING_COUNT_SONGS_FORMAT</key>
+	<string>%d Songs</string>
+	<key>LISTING_COUNT_VOICE_MEMOS_FORMAT</key>
+	<string>%d Voice Memos</string>
+	<key>MINI_PLAYER_NOW_PLAYING</key>
+	<string>Now
+Playing</string>
+	<key>MINI_PLAYER_PLACEHOLDER_PRICE</key>
+	<string>—</string>
+	<key>MORE_TAB_TITLE</key>
+	<string>More</string>
+	<key>MUSIC_SORTED_BY_ARTIST_DESCRIPTION</key>
+	<string>Music is sorted alphabetically by artist.</string>
+	<key>MUSIC_SORTED_BY_TITLE_DESCRIPTION</key>
+	<string>Music is sorted alphabetically by title.</string>
+	<key>NAVIGATION_BUTTON_TITLE_NOW_PLAYING_PAD</key>
+	<string>Now Playing</string>
+	<key>NAVIGATION_BUTTON_TITLE_NOW_PLAYING_PHONE</key>
+	<string>Now
+Playing</string>
+	<key>NAVIGATION_BUTTON_TITLE_STORE</key>
+	<string>Store</string>
+	<key>NEW_PLAYLIST_ALERT_MESSAGE</key>
+	<string>Enter a name for this playlist.</string>
+	<key>NEW_PLAYLIST_ALERT_TITLE</key>
+	<string>New Playlist</string>
+	<key>NEW_PLAYLIST_BUTTON</key>
+	<string>New</string>
+	<key>NEW_PLAYLIST_SAVE</key>
+	<string>Save</string>
+	<key>NEW_PLAYLIST_TITLE_PLACEHOLDER</key>
+	<string>Title</string>
+	<key>NOW_PLAYING_ARTIST_ALBUM_FORMAT</key>
+	<string>%@ — %@</string>
+	<key>NOW_PLAYING_TITLE_SEPARATOR</key>
+	<string> </string>
+	<key>NO_CONTENT_STORE_BUTTON</key>
+	<string>Store</string>
+	<key>NO_CONTENT_SUBTITLE</key>
+	<string>You can download music from the iTunes Store</string>
+	<key>NO_CONTENT_TITLE</key>
+	<string>No Content</string>
+	<key>NO_MAIL_ACCOUNT_ALERT_TITLE</key>
+	<string>Please set up a Mail account in order to share podcasts.</string>
+	<key>NO_MUSIC_SUBTITLE</key>
+	<string>You can download music from the iTunes Store</string>
+	<key>NO_MUSIC_TITLE</key>
+	<string>No Music</string>
+	<key>NUMBER_OF_SONGS_FOOTER_FORMAT</key>
+	<string>%u Songs</string>
+	<key>N_ALBUMS_N_SONGS_EMPHASIZED_SUBTITLE_FORMAT</key>
+	<string>#%u# albums, #%u# songs</string>
+	<key>N_EPISODES_EMPHASIZED_SUBTITLE</key>
+	<string>#%u# Episodes</string>
+	<key>N_SONGS_N_ALBUM_SUBTITLE_FORMAT</key>
+	<string>%u Songs, %u Albums</string>
+	<key>N_SONGS_ONE_ALBUM_SUBTITLE_FORMAT</key>
+	<string>%u Songs, 1 Album</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ONE_ALBUM_N_SONGS_EMPHASIZED_SUBTITLE_FORMAT</key>
+	<string>#1# album, #%u# songs</string>
+	<key>ONE_ALBUM_ONE_SONG_EMPHASIZED_SUBTITLE</key>
+	<string>#1# album, #1# song</string>
+	<key>ONE_EPISODE_EMPHASIZED_SUBTITLE</key>
+	<string>#1# Episode</string>
+	<key>ONE_SONG_FOOTER</key>
+	<string>1 Song</string>
+	<key>ONE_SONG_ONE_ALBUM_SUBTITLE</key>
+	<string>1 Song, 1 Album</string>
+	<key>PLAYBACK_SPEED_FASTER</key>
+	<string>2x Speed</string>
+	<key>PLAYBACK_SPEED_NORMAL</key>
+	<string>1x Speed</string>
+	<key>PLAYBACK_SPEED_SLOWER</key>
+	<string>0.5x Speed</string>
+	<key>PLAYBACK_TIMEOUT_ALERT_BUTTON_CONTINUE</key>
+	<string>Continue</string>
+	<key>PLAYBACK_TIMEOUT_ALERT_BUTTON_STOP</key>
+	<string>Stop</string>
+	<key>PLAYBACK_TIMEOUT_ALERT_TITLE</key>
+	<string>Still Listening to
+iTunes Radio?</string>
+	<key>PLAYLISTS_HEADER_TITLE</key>
+	<string>Playlists</string>
+	<key>PLAYLISTS_TAB_TITLE</key>
+	<string>Playlists</string>
+	<key>PLAYLIST_ACTION_CLEAR</key>
+	<string>Clear</string>
+	<key>PLAYLIST_ACTION_DELETE</key>
+	<string>Delete</string>
+	<key>PLAYLIST_ACTION_DONE</key>
+	<string>Done</string>
+	<key>PLAYLIST_ACTION_EDIT</key>
+	<string>Edit</string>
+	<key>PLAYLIST_ACTION_NEW</key>
+	<string>New</string>
+	<key>PLAYLIST_ACTION_REFRESH</key>
+	<string>Refresh</string>
+	<key>PLAYLIST_ACTION_SAVE</key>
+	<string>Save</string>
+	<key>PLAYLIST_ADD_SONGS_TITLE_FORMAT</key>
+	<string>Add songs to “%@”</string>
+	<key>PLAYLIST_SONG_COUNT_1_DURATION_UNKNOWN_FORMAT</key>
+	<string>1 Song, -- Mins</string>
+	<key>PLAYLIST_SONG_COUNT_1_MINUTES_1_FORMAT</key>
+	<string>%u Song, %u Min</string>
+	<key>PLAYLIST_SONG_COUNT_1_MINUTES_FORMAT</key>
+	<string>%u Song, %u Mins</string>
+	<key>PLAYLIST_SONG_COUNT_DAYS_FORMAT</key>
+	<string>%u Songs, %0.1f Days</string>
+	<key>PLAYLIST_SONG_COUNT_DURATION_UNKNOWN_FORMAT</key>
+	<string>%u Songs, -- Mins</string>
+	<key>PLAYLIST_SONG_COUNT_HOURS_FORMAT</key>
+	<string>%u Songs, %0.1f Hours</string>
+	<key>PLAYLIST_SONG_COUNT_MINUTES_1_FORMAT</key>
+	<string>%u Songs, %u Min</string>
+	<key>PLAYLIST_SONG_COUNT_MINUTES_FORMAT</key>
+	<string>%u Songs, %u Mins</string>
+	<key>PLAYLIST_SONG_COUNT_UNKNOWN_DURATION_UNKNOWN_FORMAT</key>
+	<string>-- Songs, -- Mins</string>
+	<key>PLAY_NEXT_CELL_BUTTON_TITLE</key>
+	<string>Play Next</string>
+	<key>PODCASTS_TAB_TITLE</key>
+	<string>Podcasts</string>
+	<key>PODCAST_DETAIL_FORMAT</key>
+	<string>#%@# %@</string>
+	<key>PODCAST_LINK_EMAIL_FORMAT</key>
+	<string>Check out this podcast on iTunes:&lt;br/&gt;&lt;br/&gt;&lt;a href="%@"&gt;%@&lt;/a&gt;</string>
+	<key>PROGRESS_TIME_SHORT_WIDTH_HOURS_FORMAT</key>
+	<string>%@%d:%02d:%02d</string>
+	<key>PROGRESS_TIME_SHORT_WIDTH_NO_HOURS_FORMAT</key>
+	<string>%@%d:%02d</string>
+	<key>RADIO_NAVIGATION_TITLE</key>
+	<string>iTunes Radio</string>
+	<key>RADIO_OPT_IN_ALERT_MESSAGE</key>
+	<string>Turn on iTunes Radio to listen to this station.</string>
+	<key>RADIO_STATIONS_EDIT_BUTTON</key>
+	<string>Edit</string>
+	<key>RADIO_TAB_TITLE</key>
+	<string>Radio</string>
+	<key>RATING</key>
+	<string>Rating</string>
+	<key>REFRESH_PLAYLIST_BUTTON</key>
+	<string>Refresh</string>
+	<key>REGULAR_ALBUM_PRICE_FORMAT</key>
+	<string>Regular price %@</string>
+	<key>REGULAR_PRICE_FORMAT</key>
+	<string>Regular price %@</string>
+	<key>RELEASE_DATE_FORMAT</key>
+	<string>Released %@</string>
+	<key>REMOVE_FROM_PLAYLIST</key>
+	<string>Remove</string>
+	<key>REPEAT_OFF</key>
+	<string>Repeat Off</string>
+	<key>SAVE_PLAYLIST_BUTTON</key>
+	<string>Save</string>
+	<key>SEARCH_BAR_PLACEHOLDER</key>
+	<string>Search</string>
+	<key>SEARCH_LOADING_TITLE</key>
+	<string>Loading…</string>
+	<key>SEARCH_NO_ITEMS</key>
+	<string>No Items</string>
+	<key>SEARCH_NO_RESULTS_TITLE</key>
+	<string>No Results</string>
+	<key>SEARCH_N_ITEMS_FORMAT</key>
+	<string>%u Items</string>
+	<key>SEARCH_RESULTS_COUNT_FORMAT</key>
+	<string>#%@# (%li)</string>
+	<key>SEARCH_RESULTS_TITLE_ALBUMS</key>
+	<string>Albums</string>
+	<key>SEARCH_RESULTS_TITLE_ARTISTS</key>
+	<string>Artists</string>
+	<key>SEARCH_RESULTS_TITLE_AUDIOBOOKS</key>
+	<string>Audiobooks</string>
+	<key>SEARCH_RESULTS_TITLE_COMPILATIONS</key>
+	<string>Compilations</string>
+	<key>SEARCH_RESULTS_TITLE_COMPOSERS</key>
+	<string>Composers</string>
+	<key>SEARCH_RESULTS_TITLE_GENRES</key>
+	<string>Genres</string>
+	<key>SEARCH_RESULTS_TITLE_SONGS</key>
+	<string>Songs</string>
+	<key>SHARED_LIBRARIES_TITLE</key>
+	<string>Shared</string>
+	<key>SHARED_TAB_TITLE</key>
+	<string>Shared</string>
+	<key>SHOW_COMPLETE_ALBUM</key>
+	<string>Show Complete Album</string>
+	<key>SHOW_COMPLETE_ALBUM_IN_STORE_LABEL</key>
+	<string>Complete This Album</string>
+	<key>SHOW_COMPLETE_ALBUM_LABEL</key>
+	<string>Show Complete Album…</string>
+	<key>SHUFFLE</key>
+	<string>Shuffle</string>
+	<key>SHUFFLE_ARTIST</key>
+	<string>Shuffle All Songs</string>
+	<key>SHUFFLE_PLAYLIST</key>
+	<string>Shuffle Playlist</string>
+	<key>SONGS_TAB_TITLE</key>
+	<string>Songs</string>
+	<key>SORT_BY_ARTIST</key>
+	<string>Sort By Artist</string>
+	<key>START_GENIUS_CELL_BUTTON_TITLE</key>
+	<string>Start Genius</string>
+	<key>STORE_TAB_BUTTON</key>
+	<string>Store</string>
+	<key>SYNCING_COUNT_SONGS_FORMAT</key>
+	<string>Downloading %d of %d…</string>
+	<key>UNKNOWN_ALBUM</key>
+	<string>Unknown Album</string>
+	<key>UNKNOWN_ALBUM_ARTIST</key>
+	<string>Unknown Artist</string>
+	<key>UNKNOWN_AUDIOBOOK</key>
+	<string>Unknown Audiobook</string>
+	<key>UNKNOWN_COMPILATION</key>
+	<string>Unknown Compilation</string>
+	<key>UNKNOWN_COMPOSER</key>
+	<string>Unknown Composer</string>
+	<key>UNKNOWN_GENRE</key>
+	<string>Unknown Genre</string>
+	<key>UNKNOWN_PODCAST</key>
+	<string>Unknown Podcast</string>
+	<key>UNKNOWN_PODCAST_EPISODE</key>
+	<string>Unknown Podcast Episode</string>
+	<key>UNKNOWN_TITLE</key>
+	<string>Unknown Title</string>
+</dict>
+</plist>

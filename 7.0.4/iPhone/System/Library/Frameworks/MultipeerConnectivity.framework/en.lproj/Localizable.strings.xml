@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>"%@" wants to connect.</key>
+	<string>'%@' wants to connect.</string>
+	<key>Accept</key>
+	<string>Accept</string>
+	<key>Connected</key>
+	<string>Connected</string>
+	<key>Connecting</key>
+	<string>Connecting</string>
+	<key>Decline</key>
+	<string>Decline</string>
+	<key>Declined</key>
+	<string>Declined</string>
+	<key>Invitees</key>
+	<string>Invitees</string>
+	<key>Nearby</key>
+	<string>Nearby</string>
+	<key>Searching...</key>
+	<string>Searching...</string>
+</dict>
+</plist>

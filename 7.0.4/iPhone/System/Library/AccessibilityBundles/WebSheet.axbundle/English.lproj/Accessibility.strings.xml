@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>back.button</key>
+	<string>Back</string>
+	<key>forward.button</key>
+	<string>Forward</string>
+	<key>wifi.app.name</key>
+	<string>Wi-Fi Hot Spot Authentication</string>
+	<key>wlan.app.name</key>
+	<string>WLAN Hot Spot Authentication</string>
+</dict>
+</plist>

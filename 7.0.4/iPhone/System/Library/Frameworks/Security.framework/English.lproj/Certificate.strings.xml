@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ (%@)</key>
+	<string>%1$@ (%2$@)</string>
+	<key>%@, %@</key>
+	<string>%1$@, %2$@</string>
+	<key>%@; %d %@; data = %@</key>
+	<string>%1$@; %2$d %3$@; data = %4$@</string>
+	<key>%d</key>
+	<string>%d</string>
+	<key>&lt;NULL&gt;</key>
+	<string>&lt;NULL&gt;</string>
+	<key>AA Compromise</key>
+	<string>AA Compromise</string>
+	<key>Access Location</key>
+	<string>Access Location</string>
+	<key>Access Method</key>
+	<string>Access Method</string>
+	<key>Affiliation Changed</key>
+	<string>Affiliation Changed</string>
+	<key>Algorithm</key>
+	<string>Algorithm</string>
+	<key>Authority Certificate Serial Number</key>
+	<string>Authority Certificate Serial Number</string>
+	<key>Authority Information Access</key>
+	<string>Authority Information Access</string>
+	<key>Authority Key Identifier</key>
+	<string>Authority Key Identifier</string>
+	<key>Basic Constraints</key>
+	<string>Basic Constraints</string>
+	<key>Bit string</key>
+	<string>Bit string</string>
+	<key>Byte string</key>
+	<string>Byte string</string>
+	<key>CA Compromise</key>
+	<string>CA Compromise</string>
+	<key>CPS URI</key>
+	<string>CPS URI</string>
+	<key>CRL Distribution Points</key>
+	<string>CRL Distribution Points</string>
+	<key>CRL Issuer</key>
+	<string>CRL Issuer</string>
+	<key>CRL Sign</key>
+	<string>CRL Sign</string>
+	<key>Cert Sign</key>
+	<string>Cert Sign</string>
+	<key>Certificate Authority</key>
+	<string>Certificate Authority</string>
+	<key>Certificate Hold</key>
+	<string>Certificate Hold</string>
+	<key>Certificate Policies</key>
+	<string>Certificate Policies</string>
+	<key>Certificate Type</key>
+	<string>Certificate Type</string>
+	<key>Cessation Of Operation</key>
+	<string>Cessation Of Operation</string>
+	<key>Critical</key>
+	<string>Critical</string>
+	<key>DNS Name</key>
+	<string>DNS Name</string>
+	<key>Data</key>
+	<string>Data</string>
+	<key>Data Encipherment</key>
+	<string>Data Encipherment</string>
+	<key>Decipher Only</key>
+	<string>Decipher Only</string>
+	<key>Digital Signature</key>
+	<string>Digital Signature</string>
+	<key>Directory Name</key>
+	<string>Directory Name</string>
+	<key>EDI Party Name</key>
+	<string>EDI Party Name</string>
+	<key>Email Address</key>
+	<string>Email Address</string>
+	<key>Encipher Only</key>
+	<string>Encipher Only</string>
+	<key>Expired</key>
+	<string>Expired</string>
+	<key>Expires</key>
+	<string>Expires</string>
+	<key>Explicit Text</key>
+	<string>Explicit Text</string>
+	<key>Extended Key Usage</key>
+	<string>Extended Key Usage</string>
+	<key>General Name</key>
+	<string>General Name</string>
+	<key>General Names</key>
+	<string>General Names</string>
+	<key>Hostname mismatch.</key>
+	<string>Hostname mismatch.</string>
+	<key>IP Address</key>
+	<string>IP Address</string>
+	<key>Inhibit Policy Mapping</key>
+	<string>Inhibit Policy Mapping</string>
+	<key>Invalid %@</key>
+	<string>Invalid %@</string>
+	<key>Invalid certificate chain linkage.</key>
+	<string>Invalid certificate chain linkage.</string>
+	<key>Issued By</key>
+	<string>Issued By</string>
+	<key>Issuer Name</key>
+	<string>Issuer Name</string>
+	<key>Issuer Summary</key>
+	<string>Issuer Summary</string>
+	<key>Issuer Unique ID</key>
+	<string>Issuer Unique ID</string>
+	<key>Key Agreement</key>
+	<string>Key Agreement</string>
+	<key>Key Compromise</key>
+	<string>Key Compromise</string>
+	<key>Key Encipherment</key>
+	<string>Key Encipherment</string>
+	<key>Key Identifier</key>
+	<string>Key Identifier</string>
+	<key>Name Relative To CRL Issuer</key>
+	<string>Name Relative To CRL Issuer</string>
+	<key>No</key>
+	<string>No</string>
+	<key>Non-Repudiation</key>
+	<string>Non-Repudiation</string>
+	<key>Not Valid After</key>
+	<string>Not Valid After</string>
+	<key>Not Valid Before</key>
+	<string>Not Valid Before</string>
+	<key>Notice Numbers</key>
+	<string>Notice Numbers</string>
+	<key>Object Signing</key>
+	<string>Object Signing</string>
+	<key>Object Signing CA</key>
+	<string>Object Signing CA</string>
+	<key>Oid too long</key>
+	<string>Oid too long</string>
+	<key>One or more certificates have expired or are not valid yet.</key>
+	<string>One or more certificates have expired or are not valid yet.</string>
+	<key>One or more unsupported critical extensions found.</key>
+	<string>One or more unsupported critical extensions found.</string>
+	<key>Organization</key>
+	<string>Organization</string>
+	<key>Other Name</key>
+	<string>Other Name</string>
+	<key>Parameters</key>
+	<string>Parameters</string>
+	<key>Path Length Constraint</key>
+	<string>Path Length Constraint</string>
+	<key>Policy Constraints</key>
+	<string>Policy Constraints</string>
+	<key>Policy Identifier #%d</key>
+	<string>Policy Identifier #%d</string>
+	<key>Policy Qualifier #%d</key>
+	<string>Policy Qualifier #%d</string>
+	<key>Policy requirements not met.</key>
+	<string>Policy requirements not met.</string>
+	<key>Private Key Usage Period</key>
+	<string>Private Key Usage Period</string>
+	<key>Privilege Withdrawn</key>
+	<string>Privilege Withdrawn</string>
+	<key>Public Key Algorithm</key>
+	<string>Public Key Algorithm</string>
+	<key>Public Key Data</key>
+	<string>Public Key Data</string>
+	<key>Purpose</key>
+	<string>Purpose</string>
+	<key>Qualifier</key>
+	<string>Qualifier</string>
+	<key>RDN</key>
+	<string>RDN</string>
+	<key>Reasons</key>
+	<string>Reasons</string>
+	<key>Registered ID</key>
+	<string>Registered ID</string>
+	<key>Require Explicit Policy</key>
+	<string>Require Explicit Policy</string>
+	<key>Reserved</key>
+	<string>Reserved</string>
+	<key>Root certificate is not trusted.</key>
+	<string>Root certificate is not trusted.</string>
+	<key>S/MIME</key>
+	<string>S/MIME</string>
+	<key>S/MIME CA</key>
+	<string>S/MIME CA</string>
+	<key>SSL CA</key>
+	<string>SSL CA</string>
+	<key>SSL client</key>
+	<string>SSL client</string>
+	<key>SSL server</key>
+	<string>SSL server</string>
+	<key>Sequence</key>
+	<string>Sequence</string>
+	<key>Serial Number</key>
+	<string>Serial Number</string>
+	<key>Set</key>
+	<string>Set</string>
+	<key>Signature</key>
+	<string>Signature</string>
+	<key>Signature Algorithm</key>
+	<string>Signature Algorithm</string>
+	<key>Subject Key Identifier</key>
+	<string>Subject Key Identifier</string>
+	<key>Subject Name</key>
+	<string>Subject Name</string>
+	<key>Subject Unique ID</key>
+	<string>Subject Unique ID</string>
+	<key>Superseded</key>
+	<string>Superseded</string>
+	<key>This certificate has an issuer that has expired</key>
+	<string>This certificate has an issuer that has expired</string>
+	<key>This certificate has an issuer that is not yet valid</key>
+	<string>This certificate has an issuer that is not yet valid</string>
+	<key>This certificate has expired</key>
+	<string>This certificate has expired</string>
+	<key>This certificate is not yet valid</key>
+	<string>This certificate is not yet valid</string>
+	<key>This certificate is valid</key>
+	<string>This certificate is valid</string>
+	<key>URI</key>
+	<string>URI</string>
+	<key>Unparsed %@</key>
+	<string>Unparsed %@</string>
+	<key>Unused</key>
+	<string>Unused</string>
+	<key>Usage</key>
+	<string>Usage</string>
+	<key>Valid from</key>
+	<string>Valid from</string>
+	<key>Version</key>
+	<string>Version</string>
+	<key>X.400 Address</key>
+	<string>X.400 Address</string>
+	<key>X.501 Name</key>
+	<string>X.501 Name</string>
+	<key>X.509 version %d %scertificate</key>
+	<string>X.509 version %1$d %2$scertificate</string>
+	<key>Yes</key>
+	<string>Yes</string>
+	<key>bits</key>
+	<string>bits</string>
+	<key>bytes</key>
+	<string>bytes</string>
+	<key>none</key>
+	<string>none</string>
+	<key>not displayed (tag = %@; length %d)</key>
+	<string>not displayed (tag = %1$@; length %2$d)</string>
+</dict>
+</plist>

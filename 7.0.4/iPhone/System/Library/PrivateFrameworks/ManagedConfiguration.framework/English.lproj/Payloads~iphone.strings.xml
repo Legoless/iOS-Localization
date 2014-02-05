@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCESS_POLICY_DISABLE_FORMAT</key>
+	<string>Disables %@. </string>
+	<key>ACCESS_POLICY_ENFORCEMENT_FORMAT</key>
+	<string>Enforces %@. </string>
+	<key>ACCESS_POLICY_INTERSECTION_FORMAT</key>
+	<string>Limits %@. </string>
+	<key>ACCESS_POLICY_NO_RESTRICTIONS</key>
+	<string>Doesn’t specify any restrictions.</string>
+	<key>ACCESS_POLICY_RESTRICTION_FORMAT</key>
+	<string>Restricts %@. </string>
+	<key>ACCESS_POLICY_SEPARATOR</key>
+	<string>, </string>
+	<key>ACCESS_POLICY_UNION_FORMAT</key>
+	<string>Adds %@. </string>
+	<key>ACCOUNT_DESCRIPTION_PROMPT_TITLE</key>
+	<string>Enter Description</string>
+	<key>AIRPLAY_</key>
+	<string>AirPlay Configurations</string>
+	<key>AIRPLAY_PASSWORD_COUNT_ONE</key>
+	<string>one destination</string>
+	<key>AIRPLAY_PASSWORD_COUNT_P_COUNT</key>
+	<string>%@ destinations</string>
+	<key>AIRPLAY_PASSWORD_TITLE</key>
+	<string>Passwords:</string>
+	<key>AIRPLAY_SINGULAR</key>
+	<string>AirPlay Configuration</string>
+	<key>AIRPLAY_WHITELIST_COUNT_ONE</key>
+	<string>one destination</string>
+	<key>AIRPLAY_WHITELIST_COUNT_P_COUNT</key>
+	<string>%@ destinations</string>
+	<key>AIRPLAY_WHITELIST_TITLE</key>
+	<string>Whitelist:</string>
+	<key>AIRPRINT_COUNT_PLURAL_P_COUNT</key>
+	<string>%@ Devices</string>
+	<key>AIRPRINT_COUNT_SINGLE</key>
+	<string>1 Device</string>
+	<key>AIRPRINT_PLURAL</key>
+	<string>AirPrint Configurations</string>
+	<key>AIRPRINT_SINGULAR</key>
+	<string>AirPrint Configuration</string>
+	<key>AIRPRINT_TITLE</key>
+	<string>AirPrint:</string>
+	<key>ANY_ENCRYPTION</key>
+	<string>Match Network Encryption</string>
+	<key>APN_CONFIG_COUNT_PLURAL</key>
+	<string>APN Configurations:</string>
+	<key>APN_CONFIG_SINGULAR</key>
+	<string>APN:</string>
+	<key>APN_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>APNs</string>
+	<key>APN_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>APN</string>
+	<key>APPLICATION_ACCESS_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Restrictions</string>
+	<key>APPLICATION_ACCESS_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Restriction</string>
+	<key>APP_INSTALL</key>
+	<string>installing apps</string>
+	<key>APP_LAYER_VPN_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>App-layer VPN settings</string>
+	<key>APP_LAYER_VPN_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>App-layer VPN settings</string>
+	<key>APP_RATING</key>
+	<string>app rating</string>
+	<key>APP_REMOVAL</key>
+	<string>removing apps</string>
+	<key>APP_WHITELIST_</key>
+	<string>App Whitelists</string>
+	<key>APP_WHITELIST_LABEL</key>
+	<string>Apps allowed:</string>
+	<key>APP_WHITELIST_SINGULAR</key>
+	<string>App Whitelist</string>
+	<key>ATTACH_APN_LABEL</key>
+	<string>Attach APN:</string>
+	<key>CALDAV_ACCOUNT_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>CalDAV Accounts</string>
+	<key>CALDAV_ACCOUNT_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>CalDAV Account</string>
+	<key>CALDAV_PASSWORD_PROMPT_DESCRIPTION</key>
+	<string>Enter your password for the CalDAV server “%@”</string>
+	<key>CALDAV_SERVER_NAME</key>
+	<string>Server:</string>
+	<key>CALDAV_USERNAME</key>
+	<string>User Name:</string>
+	<key>CALDAV_USERNAME_PROMPT_DESCRIPTION</key>
+	<string>Enter your username for the CalDAV server “%@”</string>
+	<key>CAMERA</key>
+	<string>camera</string>
+	<key>CARDDAV_ACCOUNT_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>CardDAV Accounts</string>
+	<key>CARDDAV_ACCOUNT_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>CardDAV Account</string>
+	<key>CARDDAV_PASSWORD_PLACEHOLDER</key>
+	<string>Required</string>
+	<key>CARDDAV_PASSWORD_PROMPT_DESCRIPTION</key>
+	<string>Enter your password for the CardDAV server “%@”</string>
+	<key>CARDDAV_SERVER_NAME</key>
+	<string>Server:</string>
+	<key>CARDDAV_USERNAME</key>
+	<string>User Name:</string>
+	<key>CARDDAV_USERNAME_PLACEHOLDER</key>
+	<string>Required</string>
+	<key>CARDDAV_USERNAME_PROMPT_DESCRIPTION</key>
+	<string>Enter your username for the CardDAV server “%@”</string>
+	<key>CELLULAR_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Cellular Settings</string>
+	<key>CELLULAR_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Cellular Settings</string>
+	<key>CERTIFICATE_DESCRIPTION</key>
+	<string>%@ Certificate</string>
+	<key>CERTIFICATE_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Certificates</string>
+	<key>CERTIFICATE_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Certificate</string>
+	<key>CHAPERONE_DETAIL_ORG</key>
+	<string>Organization:</string>
+	<key>CHAPERONE_DETAIL_PAIRING</key>
+	<string>Pairing:</string>
+	<key>CHAPERONE_PAIRING_ALLOWED</key>
+	<string>Allowed</string>
+	<key>CHAPERONE_PAIRING_PROHIBITED</key>
+	<string>Prohibited</string>
+	<key>CHAPERONE_PLURAL_FORMAT</key>
+	<string>Supervision Policies</string>
+	<key>CHAPERONE_SINGULAR_FORMAT</key>
+	<string>Supervision Policy</string>
+	<key>DEFAULTS_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Default Settings</string>
+	<key>DEFAULTS_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Default Settings</string>
+	<key>DEVICE_ENROLLMENT_CHALLENGE</key>
+	<string>Device enrollment challenge</string>
+	<key>DEVICE_ENROLLMENT_CHALLENGE_PLURAL_FORMAT</key>
+	<string>Device Enrollment Challenges</string>
+	<key>DEVICE_ENROLLMENT_CHALLENGE_SINGULAR_FORMAT</key>
+	<string>Device Enrollment Challenge</string>
+	<key>DEVICE_ENROLLMENT_CHALLENGE_TITLE</key>
+	<string>Encrypted Profile Service</string>
+	<key>DEVICE_ENROLLMENT_CHALLENGE_URL</key>
+	<string>URL:</string>
+	<key>EAS_ACCOUNT_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Exchange Accounts</string>
+	<key>EAS_ACCOUNT_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Exchange Account</string>
+	<key>EAS_ADDRESS_PLACEHOLDER</key>
+	<string>example@exchange.com</string>
+	<key>EAS_CLIENT_TYPE</key>
+	<string>Exchange account “%@”</string>
+	<key>EAS_EMAIL_ADDRESS</key>
+	<string>Email:</string>
+	<key>EAS_EMAIL_PROMPT_DESCRIPTION</key>
+	<string>Enter your email address for the Exchange server %@</string>
+	<key>EAS_INSTALLATION_POLICY_WARNING</key>
+	<string>The Exchange account “%@” cannot receive new data until a new passcode is set.</string>
+	<key>EAS_PASSWORD_CERTIFICATE</key>
+	<string>Enter your password for the Exchange account “%@” certificate</string>
+	<key>EAS_PASSWORD_EMAIL_AVAILABLE_DESCRIPTION</key>
+	<string>Enter your password for the Exchange account “%@”</string>
+	<key>EAS_PASSWORD_HOST_AVAILABLE_DESCRIPTION</key>
+	<string>Enter your password for the Exchange server “%@”</string>
+	<key>EAS_PASSWORD_OPTIONAL_PLACEHOLDER</key>
+	<string>Optional</string>
+	<key>EAS_PASSWORD_REQUIRED_PLACEHOLDER</key>
+	<string>Required</string>
+	<key>EAS_SERVER_NAME</key>
+	<string>Server:</string>
+	<key>EAS_USERNAME_PROMPT_DESCRIPTION</key>
+	<string>Enter your username for the Exchange server “%@”</string>
+	<key>EAS_USER_NAME_PLACEHOLDER</key>
+	<string>Domain\User</string>
+	<key>EMAIL_ACCOUNT_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Email Accounts</string>
+	<key>EMAIL_ACCOUNT_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Email Account</string>
+	<key>EMAIL_ACCOUNT_SERVER</key>
+	<string>Server:</string>
+	<key>EMAIL_ACCOUNT_TYPE</key>
+	<string>Type:</string>
+	<key>EMAIL_INCOMING_PASSWORD_PROMPT</key>
+	<string>Enter your password for the incoming mail server “%@”</string>
+	<key>EMAIL_INCOMING_PASSWORD_P_ACCOUNT</key>
+	<string>Enter your password for the incoming mail server “%@”</string>
+	<key>EMAIL_INCOMING_USER_NAME_PROMPT</key>
+	<string>Enter your username for the incoming mail server “%@”</string>
+	<key>EMAIL_INCOMING_USER_NAME_P_ACCOUNT</key>
+	<string>Enter your username for the incoming mail server “%@”</string>
+	<key>EMAIL_OUTGOING_PASSWORD_PROMPT</key>
+	<string>Enter your password for the outgoing (SMTP) mail server “%@”</string>
+	<key>EMAIL_OUTGOING_PASSWORD_P_ACCOUNT</key>
+	<string>Enter your password for the outgoing mail server “%@”</string>
+	<key>EMAIL_OUTGOING_USER_NAME_PROMPT</key>
+	<string>Enter your username for the outgoing (SMTP) mail server “%@”</string>
+	<key>EMAIL_OUTGOING_USER_NAME_P_ACCOUNT</key>
+	<string>Enter your username for the outgoing mail server “%@”</string>
+	<key>EMAIL_PASSWORD_PLACEHOLDER</key>
+	<string>Required</string>
+	<key>EMAIL_PROMPT_DESCRIPTION</key>
+	<string>Enter your email address on “%@”</string>
+	<key>EMAIL_PROMPT_TITLE</key>
+	<string>Enter Email</string>
+	<key>ENCRYPTION</key>
+	<string>Encryption:</string>
+	<key>EXPIRES</key>
+	<string>Expires:</string>
+	<key>EXPLICIT_CONTENT</key>
+	<string>explicit content</string>
+	<key>FACETIME</key>
+	<string>FaceTime</string>
+	<key>FEATURE_ACCOUNT_MODIFICATION</key>
+	<string>changing account settings</string>
+	<key>FEATURE_ADD_GC_FRIENDS</key>
+	<string>adding Game Center friends</string>
+	<key>FEATURE_AIRDROP</key>
+	<string>AirDrop</string>
+	<key>FEATURE_APP_CELLULAR_MODIFY</key>
+	<string>changing app cellular data usage</string>
+	<key>FEATURE_ASSISTANT</key>
+	<string>Siri</string>
+	<key>FEATURE_ASSISTANT_PROF_FILTER</key>
+	<string>Siri profanity filter</string>
+	<key>FEATURE_ASSISTANT_UNCURATED</key>
+	<string>Siri uncurated content</string>
+	<key>FEATURE_ASSISTANT_WHILE_LOCKED</key>
+	<string>Siri while locked</string>
+	<key>FEATURE_AUDIO_CONFERENCE</key>
+	<string>voice conferencing</string>
+	<key>FEATURE_AUTONOMOUS_SAM_WHITELIST</key>
+	<string>Single App Mode permissions</string>
+	<key>FEATURE_BOOKSTORE</key>
+	<string>iBookstore</string>
+	<key>FEATURE_BOOKSTORE_EROTICA</key>
+	<string>erotica in iBooks</string>
+	<key>FEATURE_CHAT</key>
+	<string>iMessage</string>
+	<key>FEATURE_CLOUD_BACKUP</key>
+	<string>iCloud backup</string>
+	<key>FEATURE_DIAGNOSTIC_SUB</key>
+	<string>diagnostic submission</string>
+	<key>FEATURE_DOCUMENT_SYNC</key>
+	<string>Documents in the Cloud</string>
+	<key>FEATURE_ENCRYPTED_BACKUPS</key>
+	<string>encrypted backups</string>
+	<key>FEATURE_ENTER_ITUNES_PASSWORD</key>
+	<string>entering iTunes password</string>
+	<key>FEATURE_FINGERPRINT_MODIFICATION</key>
+	<string>Fingerprint modification</string>
+	<key>FEATURE_FINGERPRINT_UNLOCK</key>
+	<string>Fingerprint unlock</string>
+	<key>FEATURE_FIPS</key>
+	<string>FIPS compliance</string>
+	<key>FEATURE_FMF_MODIFICATION</key>
+	<string>changing Find My Friends settings</string>
+	<key>FEATURE_FORCE_LIMIT_AD_TRACKING</key>
+	<string>limited ad tracking</string>
+	<key>FEATURE_GAME_CENTER</key>
+	<string>Game Center</string>
+	<key>FEATURE_HD_VIDEO_OVER_3G</key>
+	<string>uploading HD video over 3G</string>
+	<key>FEATURE_HOST_PAIRING</key>
+	<string>pairing with iTunes</string>
+	<key>FEATURE_IN_APP_PURCHASE_APPLETV</key>
+	<string>in-app purchase</string>
+	<key>FEATURE_IN_APP_PURCHASE_IPAD</key>
+	<string>in-app purchase</string>
+	<key>FEATURE_IN_APP_PURCHASE_IPHONE</key>
+	<string>in-app purchase</string>
+	<key>FEATURE_IN_APP_PURCHASE_IPHONE SIMULATOR</key>
+	<string>in-app purchase</string>
+	<key>FEATURE_IN_APP_PURCHASE_IPOD</key>
+	<string>in-app purchase</string>
+	<key>FEATURE_KEYCHAIN_SYNC</key>
+	<string>iCloud password sync</string>
+	<key>FEATURE_LOCKSCREEN_CONTROL_CENTER</key>
+	<string>Control Center on lock screen</string>
+	<key>FEATURE_LOCKSCREEN_NOTIFICATIONS</key>
+	<string>Notifications view on lock screen</string>
+	<key>FEATURE_LOCKSCREEN_TODAY_VIEW</key>
+	<string>Today view on lock screen</string>
+	<key>FEATURE_OPEN_IN_MANAGED_TO_UNMANAGED</key>
+	<string>open documents from managed to unmanaged apps</string>
+	<key>FEATURE_OPEN_IN_UNMANAGED_TO_MANAGED</key>
+	<string>open documents from unmanaged to managed apps</string>
+	<key>FEATURE_OTA_PKI_UPDATES</key>
+	<string>updating certificate trust database</string>
+	<key>FEATURE_PASSBOOK</key>
+	<string>Passbook</string>
+	<key>FEATURE_PHOTO_STREAM</key>
+	<string>Photo Stream</string>
+	<key>FEATURE_SAFARI_AUTO_FILL</key>
+	<string>auto-fill in Safari</string>
+	<key>FEATURE_SAFARI_FRAUD_WARNING</key>
+	<string>Safari fraud warning</string>
+	<key>FEATURE_SAFARI_JAVASCRIPT</key>
+	<string>JavaScript in Safari</string>
+	<key>FEATURE_SAFARI_POPUPS</key>
+	<string>pop-ups in Safari</string>
+	<key>FEATURE_SHARED_STREAM</key>
+	<string>Shared Streams</string>
+	<key>FEATURE_UI_INSTALLATION</key>
+	<string>installing configuration profiles</string>
+	<key>FEATURE_UNTRUSTED_TLS</key>
+	<string>establishing untrusted TLS connections</string>
+	<key>FONT_NAME_TITLE</key>
+	<string>Name:</string>
+	<key>FONT_PLURAL</key>
+	<string>Fonts</string>
+	<key>FONT_SINGULAR</key>
+	<string>Font</string>
+	<key>FONT_TITLE</key>
+	<string>Font</string>
+	<key>GLOBAL_PROXY_</key>
+	<string>Global HTTP Proxies</string>
+	<key>GLOBAL_PROXY_PASSWORD_PROMPT</key>
+	<string>Enter the HTTP Proxy password</string>
+	<key>GLOBAL_PROXY_SERVER</key>
+	<string>Server:</string>
+	<key>GLOBAL_PROXY_SERVER_PORT</key>
+	<string>Port:</string>
+	<key>GLOBAL_PROXY_SINGULAR</key>
+	<string>Global HTTP Proxy</string>
+	<key>IDENTITY_CERTIFICATE_INSTALL_DESCRIPTION</key>
+	<string>Certificate details are password protected until installed</string>
+	<key>IDENTITY_PASSWORD_PROMPT_DESCRIPTION</key>
+	<string>Enter the password for the certificate “%@”</string>
+	<key>INSTALL_STATUS_INSTALLING_PROFILE</key>
+	<string>Installing Profile</string>
+	<key>INSTALL_STATUS_UPDATING_PROFILE</key>
+	<string>Updating Profile</string>
+	<key>INSTALL_WARNING_APP_INSPECT_APPLETV</key>
+	<string>The administrator may collect personal data, and list, install, and manage apps on your Apple TV.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_ERASE_APPLETV</key>
+	<string>The administrator may collect personal data, list, install, and manage apps, and remotely erase data on your Apple TV.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_ERASE_IPAD</key>
+	<string>The administrator may collect personal data, list, install, and manage apps, and remotely erase data on your iPad.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_ERASE_IPHONE</key>
+	<string>The administrator may collect personal data, list, install, and manage apps, and remotely erase data on your iPhone.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_ERASE_IPHONE SIMULATOR</key>
+	<string>The administrator may collect personal data, list, install, and manage apps, and remotely erase data on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_ERASE_IPOD</key>
+	<string>The administrator may collect personal data, list, install, and manage apps, and remotely erase data on your iPod.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_APPLETV</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, and list, install and manage apps on your Apple TV.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_ERASE_APPLETV</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, list, install, and manage apps, and remotely erase data on your Apple TV.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_ERASE_IPAD</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, list, install, and manage apps, and remotely erase data on your iPad.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_ERASE_IPHONE</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, list, install, and manage apps, and remotely erase data on your iPhone.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_ERASE_IPHONE SIMULATOR</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, list, install, and manage apps, and remotely erase data on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_ERASE_IPOD</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, list, install, and manage apps, and remotely erase data on your iPod.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_IPAD</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, and list, install and manage apps on your iPad.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_IPHONE</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, and list, install and manage apps on your iPhone.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_IPHONE SIMULATOR</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, and list, install and manage apps on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_INSTALL_IPOD</key>
+	<string>The administrator may collect personal data, add/remove accounts and restrictions, and list, install and manage apps on your iPod.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_IPAD</key>
+	<string>The administrator may collect personal data, and list, install, and manage apps on your iPad.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_IPHONE</key>
+	<string>The administrator may collect personal data, and list, install, and manage apps on your iPhone.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_IPHONE SIMULATOR</key>
+	<string>The administrator may collect personal data, and list, install, and manage apps on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_APP_INSPECT_IPOD</key>
+	<string>The administrator may collect personal data, and list, install, and manage apps on your iPod.</string>
+	<key>INSTALL_WARNING_CONSENT_TITLE</key>
+	<string>Consent</string>
+	<key>INSTALL_WARNING_INSPECT_APPLETV</key>
+	<string>The administrator may collect personal data and list apps on your Apple TV.</string>
+	<key>INSTALL_WARNING_INSPECT_ERASE_APPLETV</key>
+	<string>The administrator may collect personal data, list apps, and remotely erase data on your Apple TV.</string>
+	<key>INSTALL_WARNING_INSPECT_ERASE_IPAD</key>
+	<string>The administrator may collect personal data, list apps, and remotely erase data on your iPad.</string>
+	<key>INSTALL_WARNING_INSPECT_ERASE_IPHONE</key>
+	<string>The administrator may collect personal data, list apps, and remotely erase data on your iPhone.</string>
+	<key>INSTALL_WARNING_INSPECT_ERASE_IPHONE SIMULATOR</key>
+	<string>The administrator may collect personal data, list apps, and remotely erase data on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_INSPECT_ERASE_IPOD</key>
+	<string>The administrator may collect personal data, list apps, and remotely erase data on your iPod.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_APPLETV</key>
+	<string>The administrator may collect personal data, list apps, and add/remove accounts and restrictions on your Apple TV.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_ERASE_APPLETV</key>
+	<string>The administrator may collect personal data, list apps, add/remove accounts and restrictions, and remotely erase data on your Apple TV.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_ERASE_IPAD</key>
+	<string>The administrator may collect personal data, list apps, add/remove accounts and restrictions, and remotely erase data on your iPad.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_ERASE_IPHONE</key>
+	<string>The administrator may collect personal data, list apps, add/remove accounts and restrictions, and remotely erase data on your iPhone.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_ERASE_IPHONE SIMULATOR</key>
+	<string>The administrator may collect personal data, list apps, add/remove accounts and restrictions, and remotely erase data on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_ERASE_IPOD</key>
+	<string>The administrator may collect personal data, list apps, add/remove accounts and restrictions, and remotely erase data on your iPod.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_IPAD</key>
+	<string>The administrator may collect personal data, list apps, and add/remove accounts and restrictions on your iPad.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_IPHONE</key>
+	<string>The administrator may collect personal data, list apps, and add/remove accounts and restrictions on your iPhone.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_IPHONE SIMULATOR</key>
+	<string>The administrator may collect personal data, list apps, and add/remove accounts and restrictions on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_INSPECT_INSTALL_IPOD</key>
+	<string>The administrator may collect personal data, list apps, and add/remove accounts and restrictions on your iPod.</string>
+	<key>INSTALL_WARNING_INSPECT_IPAD</key>
+	<string>The administrator may collect personal data and list apps on your iPad.</string>
+	<key>INSTALL_WARNING_INSPECT_IPHONE</key>
+	<string>The administrator may collect personal data and list apps on your iPhone.</string>
+	<key>INSTALL_WARNING_INSPECT_IPHONE SIMULATOR</key>
+	<string>The administrator may collect personal data and list apps on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_INSPECT_IPOD</key>
+	<string>The administrator may collect personal data and list apps on your iPod.</string>
+	<key>INSTALL_WARNING_MDM_P_URL_APPLETV</key>
+	<string>Installing this profile will allow the administrator at “%@” to remotely manage your Apple TV.</string>
+	<key>INSTALL_WARNING_MDM_P_URL_IPAD</key>
+	<string>Installing this profile will allow the administrator at “%@” to remotely manage your iPad.</string>
+	<key>INSTALL_WARNING_MDM_P_URL_IPHONE</key>
+	<string>Installing this profile will allow the administrator at “%@” to remotely manage your iPhone.</string>
+	<key>INSTALL_WARNING_MDM_P_URL_IPHONE SIMULATOR</key>
+	<string>Installing this profile will allow the administrator at “%@” to remotely manage your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_MDM_P_URL_IPOD</key>
+	<string>Installing this profile will allow the administrator at “%@” to remotely manage your iPod.</string>
+	<key>INSTALL_WARNING_MDM_TITLE</key>
+	<string>Mobile Device Management</string>
+	<key>INSTALL_WARNING_NOT_REMOVABLE</key>
+	<string>Once installed, this profile can’t be removed.</string>
+	<key>INSTALL_WARNING_NOT_REMOVABLE_AUTH</key>
+	<string>Once installed, this profile can’t be removed without authorization.</string>
+	<key>INSTALL_WARNING_NOT_REMOVABLE_TITLE</key>
+	<string>Locked Profile</string>
+	<key>INSTALL_WARNING_NOT_SIGNED_APPLETV</key>
+	<string>Installing this profile will change settings on your Apple TV.</string>
+	<key>INSTALL_WARNING_NOT_SIGNED_IPAD</key>
+	<string>Installing this profile will change settings on your iPad.</string>
+	<key>INSTALL_WARNING_NOT_SIGNED_IPHONE</key>
+	<string>Installing this profile will change settings on your iPhone.</string>
+	<key>INSTALL_WARNING_NOT_SIGNED_IPHONE SIMULATOR</key>
+	<string>Installing this profile will change settings on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_NOT_SIGNED_IPOD</key>
+	<string>Installing this profile will change settings on your iPod.</string>
+	<key>INSTALL_WARNING_NOT_SIGNED_TITLE</key>
+	<string>Unsigned Profile</string>
+	<key>INSTALL_WARNING_NOT_VERIFIED_P_TITLE_APPLETV</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your Apple TV.</string>
+	<key>INSTALL_WARNING_NOT_VERIFIED_P_TITLE_IPAD</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your iPad.</string>
+	<key>INSTALL_WARNING_NOT_VERIFIED_P_TITLE_IPHONE</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your iPhone.</string>
+	<key>INSTALL_WARNING_NOT_VERIFIED_P_TITLE_IPHONE SIMULATOR</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_NOT_VERIFIED_P_TITLE_IPOD</key>
+	<string>The authenticity of “%@” cannot be verified. Installing this profile will change settings on your iPod.</string>
+	<key>INSTALL_WARNING_NOT_VERIFIED_TITLE</key>
+	<string>Unverified Profile</string>
+	<key>INSTALL_WARNING_PHOTO_STREAM_APPLETV</key>
+	<string>Installing this profile will delete all photos from your Apple TV’s Photo Stream album.</string>
+	<key>INSTALL_WARNING_PHOTO_STREAM_IPAD</key>
+	<string>Installing this profile will delete all photos from your iPad’s Photo Stream album.</string>
+	<key>INSTALL_WARNING_PHOTO_STREAM_IPHONE</key>
+	<string>Installing this profile will delete all photos from your iPhone’s Photo Stream album.</string>
+	<key>INSTALL_WARNING_PHOTO_STREAM_IPHONE SIMULATOR</key>
+	<string>Installing this profile will delete all photos from your iPhone Simulator’s Photo Stream album.</string>
+	<key>INSTALL_WARNING_PHOTO_STREAM_IPOD</key>
+	<string>Installing this profile will delete all photos from your iPod touch’s Photo Stream album.</string>
+	<key>INSTALL_WARNING_PHOTO_STREAM_RESTRICTION</key>
+	<string>Photo Stream Restriction</string>
+	<key>INSTALL_WARNING_ROOT_CERT_P_CERT_APPLETV</key>
+	<string>Installing the certificate “%@” will add it to the list of trusted certificates on your Apple TV.</string>
+	<key>INSTALL_WARNING_ROOT_CERT_P_CERT_IPAD</key>
+	<string>Installing the certificate “%@” will add it to the list of trusted certificates on your iPad.</string>
+	<key>INSTALL_WARNING_ROOT_CERT_P_CERT_IPHONE</key>
+	<string>Installing the certificate “%@” will add it to the list of trusted certificates on your iPhone.</string>
+	<key>INSTALL_WARNING_ROOT_CERT_P_CERT_IPHONE SIMULATOR</key>
+	<string>Installing the certificate “%@” will add it to the list of trusted certificates on your iPhone Simulator.</string>
+	<key>INSTALL_WARNING_ROOT_CERT_P_CERT_IPOD</key>
+	<string>Installing the certificate “%@” will add it to the list of trusted certificates on your iPod.</string>
+	<key>INSTALL_WARNING_ROOT_CERT_TITLE</key>
+	<string>Root Certificate</string>
+	<key>ISSUED_BY</key>
+	<string>Issued by:</string>
+	<key>ITUNES</key>
+	<string>iTunes Store</string>
+	<key>KERBEROS_PRINCIPAL_NAME_P_REALM</key>
+	<string>Enter the principal name for the Kerberos realm “%@”</string>
+	<key>LDAP_ACCOUNT_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>LDAP Accounts</string>
+	<key>LDAP_ACCOUNT_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>LDAP Account</string>
+	<key>LDAP_PASSWORD_PROMPT_DESCRIPTION</key>
+	<string>Enter your password for the LDAP server “%@”</string>
+	<key>LDAP_SERVER_NAME</key>
+	<string>Server:</string>
+	<key>LDAP_USERNAME</key>
+	<string>User Name:</string>
+	<key>LDAP_USERNAME_PROMPT_DESCRIPTION</key>
+	<string>Enter your username for the LDAP server “%@”</string>
+	<key>MDM_AIRPLAY_BUTTON_ACCEPT</key>
+	<string>Display</string>
+	<key>MDM_AIRPLAY_BUTTON_DECLINE</key>
+	<string>Cancel</string>
+	<key>MDM_AIRPLAY_BUTTON_DISMISS</key>
+	<string>Dismiss</string>
+	<key>MDM_AIRPLAY_MESSAGE_P_NAME_APPLETV</key>
+	<string>Would you like to display your Apple TV’s output on “%@”?</string>
+	<key>MDM_AIRPLAY_MESSAGE_P_NAME_IPAD</key>
+	<string>Would you like to display your iPad’s screen on “%@”?</string>
+	<key>MDM_AIRPLAY_MESSAGE_P_NAME_IPHONE</key>
+	<string>Would you like to display your iPhone’s screen on “%@”?</string>
+	<key>MDM_AIRPLAY_MESSAGE_P_NAME_IPHONE SIMULATOR</key>
+	<string>Would you like to display your iPhone Simulator’s screen on “%@”?</string>
+	<key>MDM_AIRPLAY_MESSAGE_P_NAME_IPOD</key>
+	<string>Would you like to display your iPod touch’s screen on “%@”?</string>
+	<key>MDM_AIRPLAY_NOT_AVAILABLE_P_NAME</key>
+	<string>“%@” is not available.</string>
+	<key>MDM_AIRPLAY_PASSWORD_FAILURE_P_NAME</key>
+	<string>AirPlay cannot connect to “%@” because the supplied password is incorrect.</string>
+	<key>MDM_AIRPLAY_TITLE</key>
+	<string>AirPlay</string>
+	<key>MDM_APPLY_SETTINGS</key>
+	<string>Apply settings</string>
+	<key>MDM_APP_INSTALL</key>
+	<string>Install and remove applications and data</string>
+	<key>MDM_APP_INSTALL_BUTTON_CANCEL</key>
+	<string>Cancel</string>
+	<key>MDM_APP_INSTALL_BUTTON_DISMISS</key>
+	<string>Dismiss</string>
+	<key>MDM_APP_INSTALL_BUTTON_INSTALL</key>
+	<string>Install</string>
+	<key>MDM_APP_INSTALL_BUTTON_LOGIN</key>
+	<string>Sign In</string>
+	<key>MDM_APP_INSTALL_BUTTON_RETRY</key>
+	<string>Retry</string>
+	<key>MDM_APP_INSTALL_BUTTON_UPDATE</key>
+	<string>Update</string>
+	<key>MDM_APP_INSTALL_ENTERPRISE_P_ORG_P_APPNAME</key>
+	<string>%1$@ is about to install and manage the app “%2$@”.
+Your iTunes account will not be charged for this app.</string>
+	<key>MDM_APP_INSTALL_ENTERPRISE_P_SERVER_P_APPNAME</key>
+	<string>“%1$@” is about to install and manage the app “%2$@”.
+Your iTunes account will not be charged for this app.</string>
+	<key>MDM_APP_INSTALL_MESSAGE_P_ORG_P_APPNAME</key>
+	<string>%1$@ is about to install and manage the app “%2$@” from the App Store.
+Your iTunes account will not be charged for this app.</string>
+	<key>MDM_APP_INSTALL_MESSAGE_P_SERVER_P_APPNAME</key>
+	<string>“%1$@” is about to install and manage the app “%2$@” from the App Store.
+Your iTunes account will not be charged for this app.</string>
+	<key>MDM_APP_INSTALL_TITLE</key>
+	<string>App Installation</string>
+	<key>MDM_APP_LOGIN_MESSAGE_P_ORG</key>
+	<string>Sign in to iTunes to allow %1$@ to manage and install apps.</string>
+	<key>MDM_APP_LOGIN_MESSAGE_P_SERVER</key>
+	<string>Sign in to iTunes to allow “%1$@” to manage and install apps.</string>
+	<key>MDM_APP_UPDATE_ENTERPRISE_P_ORG_P_APPNAME</key>
+	<string>%1$@ is about to update the app “%2$@”.</string>
+	<key>MDM_APP_UPDATE_ENTERPRISE_P_SERVER_P_APPNAME</key>
+	<string>“%1$@” is about to update the app “%2$@”.</string>
+	<key>MDM_APP_UPDATE_MESSAGE_P_ORG_P_APPNAME</key>
+	<string>%1$@ is about to update the app “%2$@” from the App Store.</string>
+	<key>MDM_APP_UPDATE_MESSAGE_P_SERVER_P_APPNAME</key>
+	<string>“%1$@” is about to update the app “%2$@” from the App Store.</string>
+	<key>MDM_APP_UPDATE_TITLE</key>
+	<string>App Update</string>
+	<key>MDM_CAD_CANCEL_BUTTON</key>
+	<string>Cancel</string>
+	<key>MDM_CAD_CONTINUE_BUTTON</key>
+	<string>Continue</string>
+	<key>MDM_CAD_INVITATION_TEXT_P_ORG</key>
+	<string>%@ would like to assign apps and books to you.</string>
+	<key>MDM_CAD_INVITATION_TEXT_P_SERVER</key>
+	<string>“%@” would like to assign apps and books to you.</string>
+	<key>MDM_CAD_INVITATION_TITLE</key>
+	<string>Allow App and Book Assignment?</string>
+	<key>MDM_ERASE</key>
+	<string>Erase all data and settings</string>
+	<key>MDM_INSPECT_PROFILE</key>
+	<string>List configuration profiles</string>
+	<key>MDM_INSTALL_REMOVE_PROFILE</key>
+	<string>Add/remove configuration profiles</string>
+	<key>MDM_INSTALL_REMOVE_PROV</key>
+	<string>Add/remove provisioning profiles</string>
+	<key>MDM_LIST_APP</key>
+	<string>List installed applications</string>
+	<key>MDM_LIST_PROV</key>
+	<string>List provisioning profiles</string>
+	<key>MDM_PLURAL_FORMAT</key>
+	<string>Mobile Device Management</string>
+	<key>MDM_QUERY_INFO</key>
+	<string>List device information</string>
+	<key>MDM_QUERY_INFO_NETWORK</key>
+	<string>List network information</string>
+	<key>MDM_QUERY_RESTRICTIONS</key>
+	<string>List restriction information</string>
+	<key>MDM_QUERY_SECURITY</key>
+	<string>List security information</string>
+	<key>MDM_REMOVE_PASSCODE_LOCK</key>
+	<string>Lock device and remove passcode</string>
+	<key>MDM_SINGULAR_FORMAT</key>
+	<string>Mobile Device Management</string>
+	<key>MDM_TOPIC</key>
+	<string>Topic:</string>
+	<key>MDM_URL</key>
+	<string>URL:</string>
+	<key>MOVIE_RATING</key>
+	<string>movie rating</string>
+	<key>MULTIPLAYER</key>
+	<string>multiplayer gaming</string>
+	<key>MULTIPLE_DOMAINS_DETAILS</key>
+	<string>%@ domains included</string>
+	<key>NAG_UI_ACCOUNT_UNKNOWN</key>
+	<string>Unknown</string>
+	<key>NAG_UI_COMPLIANCE_TITLE</key>
+	<string>Passcode Requirement</string>
+	<key>NAG_UI_COUNTDOWN_MESSAGE_P_MINUTES</key>
+	<string>You must change your passcode within %@ minutes.</string>
+	<key>NAG_UI_COUNTDOWN_NOPASS_MESSAGE_P_MINUTES</key>
+	<string>You must set a passcode within %@ minutes.</string>
+	<key>NAG_UI_EXPIRY_MESSAGE</key>
+	<string>Your passcode has expired.</string>
+	<key>NAG_UI_EXPIRY_TITLE</key>
+	<string>Passcode Expired</string>
+	<key>NAG_UI_GENERIC_WARNING</key>
+	<string>One or more accounts will not download new data until a new passcode is set.</string>
+	<key>NAG_UI_MANDATORY_MESSAGE</key>
+	<string>You must change your passcode at this time.</string>
+	<key>NAG_UI_MANDATORY_NOPASS_MESSAGE</key>
+	<string>You must set a passcode at this time.</string>
+	<key>NAG_UI_MORE_ACCOUNTS_WARNING_P_ACCOUNT_P_COUNT</key>
+	<string>The account “%1$@” and %2$@ other accounts will not download new data until a new passcode is set.</string>
+	<key>NAG_UI_ONE_ACCOUNT_WARNING_P_ACCOUNT</key>
+	<string>The account “%@” will not download new data until a new passcode is set.</string>
+	<key>NAG_UI_PASSCODE_REMINDER_MESSAGE_APPLETV</key>
+	<string>This Apple TV has been successfully restored. Would you like to set a passcode now?</string>
+	<key>NAG_UI_PASSCODE_REMINDER_MESSAGE_IPAD</key>
+	<string>This iPad has been successfully restored. Would you like to set a passcode now?</string>
+	<key>NAG_UI_PASSCODE_REMINDER_MESSAGE_IPHONE</key>
+	<string>This iPhone has been successfully restored. Would you like to set a passcode now?</string>
+	<key>NAG_UI_PASSCODE_REMINDER_MESSAGE_IPHONE SIMULATOR</key>
+	<string>This iPhone Simulator has been successfully restored. Would you like to set a passcode now?</string>
+	<key>NAG_UI_PASSCODE_REMINDER_MESSAGE_IPOD</key>
+	<string>This iPod has been successfully restored. Would you like to set a passcode now?</string>
+	<key>NAG_UI_PASSCODE_REMINDER_TITLE</key>
+	<string>No Passcode</string>
+	<key>NAG_UI_TWO_ACCOUNTS_WARNING_P_ACCOUNT</key>
+	<string>The account “%@” and one other account will not download new data until a new passcode is set.</string>
+	<key>NAME</key>
+	<string>Name:</string>
+	<key>NETWORK</key>
+	<string>Network:</string>
+	<key>NEW_POLICY_ACCEPT_MISMATCH_DESCRIPTION</key>
+	<string>Passcodes did not match.
+Try again.</string>
+	<key>NEW_POLICY_ACCEPT_PROMPT_DESCRIPTION</key>
+	<string>Enter a passcode</string>
+	<key>NEW_POLICY_ACCEPT_PROMPT_TITLE</key>
+	<string>Set Passcode</string>
+	<key>NEW_POLICY_ACCEPT_RETYPE_DESCRIPTION</key>
+	<string>Re-enter your passcode</string>
+	<key>NONE</key>
+	<string>None</string>
+	<key>OPTIONAL_PROMPT</key>
+	<string>Optional</string>
+	<key>PASSCODE_4_DIGIT</key>
+	<string>Enter a four-digit passcode.</string>
+	<key>PASSCODE_CHARACTERS_MULTI_SPECIAL</key>
+	<string>Enter %1$@ or more letters and numbers including %2$@ special characters (#&amp;!).</string>
+	<key>PASSCODE_CHARACTERS_MULTI_SPECIAL_STRONG</key>
+	<string>Enter a strong passcode with %1$@ or more letters/numbers including %2$@ special characters (#&amp;!).</string>
+	<key>PASSCODE_CHARACTERS_NO_RESTRICTIONS</key>
+	<string>Enter %@ or more letters and numbers.</string>
+	<key>PASSCODE_CHARACTERS_SINGLE_SPECIAL</key>
+	<string>Enter %@ or more letters and numbers including one special character (#&amp;!).</string>
+	<key>PASSCODE_CHARACTERS_SINGLE_SPECIAL_STRONG</key>
+	<string>Enter a strong passcode with %@ or more letters/numbers including one special character (#&amp;!).</string>
+	<key>PASSCODE_CHARACTERS_STRONG</key>
+	<string>Enter a strong passcode with %@ or more letters and numbers.</string>
+	<key>PASSCODE_DIGITS_MULTI_SPECIAL</key>
+	<string>Enter %1$@ or more characters including %2$@ special characters (#&amp;!).</string>
+	<key>PASSCODE_DIGITS_MULTI_SPECIAL_STRONG</key>
+	<string>Enter a strong passcode with %1$@ or more characters including %2$@ special characters (#&amp;!).</string>
+	<key>PASSCODE_DIGITS_NO_RESTRICTIONS</key>
+	<string>Enter %@ or more characters.</string>
+	<key>PASSCODE_DIGITS_SINGLE_SPECIAL</key>
+	<string>Enter %@ or more characters including one special character (#&amp;!).</string>
+	<key>PASSCODE_DIGITS_SINGLE_SPECIAL_STRONG</key>
+	<string>Enter a strong passcode with %@ or more characters including one special character (#&amp;!).</string>
+	<key>PASSCODE_DIGITS_STRONG</key>
+	<string>Enter a strong passcode with %@ or more characters.</string>
+	<key>PASSCODE_TITLE</key>
+	<string>Passcode</string>
+	<key>PASSWORD_POLICY_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Password Policies</string>
+	<key>PASSWORD_POLICY_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Password Policy</string>
+	<key>PASSWORD_PROMPT_TITLE</key>
+	<string>Enter Password</string>
+	<key>PAYLOAD_PAREN_PLURAL_FORMAT</key>
+	<string>%2$@ (%1$@)</string>
+	<key>PAYLOAD_PLURAL_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>PAYLOAD_REMOVAL_PASSWORD_PLURAL_FORMAT</key>
+	<string>Profile Removal Password</string>
+	<key>PAYLOAD_REMOVAL_PASSWORD_SINGULAR_FORMAT</key>
+	<string>Profile Removal Password</string>
+	<key>PAYLOAD_UNKNOWN_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Unknown Payloads</string>
+	<key>PAYLOAD_UNKNOWN_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Unknown Payload</string>
+	<key>PKCS12_CERTIFICATE_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Identity Certificates</string>
+	<key>PKCS12_CERTIFICATE_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Identity Certificate</string>
+	<key>PRINCIPAL_NAME_TITLE</key>
+	<string>Enter Principal Name</string>
+	<key>PROGRESS_ENROLLING_CERTIFICATE</key>
+	<string>Enrolling Certificate</string>
+	<key>PROGRESS_GENERATING_KEY</key>
+	<string>Generating Key</string>
+	<key>REQUESTED_BY_PROFILE_P_ID</key>
+	<string>Requested by the “%@” profile</string>
+	<key>REQUIRED_BY_PROFILE_P_ID</key>
+	<string>Required by the “%@” profile</string>
+	<key>ROAMING_FETCH</key>
+	<string>background fetch while roaming</string>
+	<key>SAFARI</key>
+	<string>Safari</string>
+	<key>SCEP_CHALLENGE_P_NAME</key>
+	<string>Enter the enrollment challenge for “%@”</string>
+	<key>SCEP_CHALLENGE_TITLE</key>
+	<string>SCEP Enrollment Challenge</string>
+	<key>SCEP_ENROLLMENT_REQUEST_PLURAL_FORMAT</key>
+	<string>SCEP Enrollment Requests</string>
+	<key>SCEP_ENROLLMENT_REQUEST_SINGULAR_FORMAT</key>
+	<string>SCEP Enrollment Request</string>
+	<key>SCREEN_SHOT</key>
+	<string>screen capture</string>
+	<key>SENDER_NAME_DESCRIPTION_P_ACCOUNT</key>
+	<string>Enter your full name for the email account “%@”</string>
+	<key>SENDER_NAME_PROMPT_TITLE</key>
+	<string>Enter Full Name</string>
+	<key>SET_PASSCODE</key>
+	<string>Set Passcode</string>
+	<key>SINGLE_APP_</key>
+	<string>Single App Mode Payloads</string>
+	<key>SINGLE_APP_LABEL</key>
+	<string>App Allowed:</string>
+	<key>SINGLE_APP_SINGULAR</key>
+	<string>Single App Mode</string>
+	<key>SINGLE_APP_UNKNOWN</key>
+	<string>Unknown app</string>
+	<key>SINGLE_DOMAIN_NAME</key>
+	<string>Domain: %@</string>
+	<key>SSO_</key>
+	<string>Single Sign On accounts</string>
+	<key>SSO_SINGULAR</key>
+	<string>Single Sign On account</string>
+	<key>SSO_TITLE</key>
+	<string>Account:</string>
+	<key>SUBCAL_ACCOUNT_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Calendar Subscriptions</string>
+	<key>SUBCAL_ACCOUNT_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Calendar Subscription</string>
+	<key>SUBCAL_SERVER_NAME</key>
+	<string>Server:</string>
+	<key>SUBCAL_USERNAME</key>
+	<string>User Name:</string>
+	<key>TV_SHOW_RATING</key>
+	<string>TV show rating</string>
+	<key>USERNAME</key>
+	<string>Username:</string>
+	<key>USERNAME_PROMPT_DESCRIPTION</key>
+	<string>Enter your username for the account.</string>
+	<key>USERNAME_PROMPT_TITLE</key>
+	<string>Enter Username</string>
+	<key>VOICE_DIALING</key>
+	<string>voice dialing</string>
+	<key>VPN_PASSWORD_ACCOUNT_PROMPT_DESCRIPTION</key>
+	<string>Enter your password for the VPN account “%@”</string>
+	<key>VPN_PASSWORD_PROMPT_DESCRIPTION</key>
+	<string>Enter your password for the VPN profile “%@”</string>
+	<key>VPN_PIN_PROMPT_DESCRIPTION</key>
+	<string>Enter your PIN for the VPN profile “%@”</string>
+	<key>VPN_PIN_PROMPT_TITLE</key>
+	<string>Enter PIN</string>
+	<key>VPN_PROXY_PASSWORD_ACCOUNT_PROMPT_DESCRIPTION</key>
+	<string>Enter your password for the VPN proxy account “%@”</string>
+	<key>VPN_PROXY_PASSWORD_PROMPT_DESCRIPTION</key>
+	<string>Enter your proxy password for the VPN profile “%@”</string>
+	<key>VPN_PROXY_USERNAME_PROMPT_DESCRIPTION</key>
+	<string>Enter your proxy username for the VPN profile “%@”</string>
+	<key>VPN_SETTINGS_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>VPN Settings</string>
+	<key>VPN_SETTINGS_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>VPN Settings</string>
+	<key>VPN_SHARED_SECRET_PROMPT_DESCRIPTION</key>
+	<string>Enter the shared secret for the VPN profile “%@”</string>
+	<key>VPN_SHARED_SECRET_PROMPT_TITLE</key>
+	<string>Enter Shared Secret</string>
+	<key>VPN_USERNAME_PROMPT_DESCRIPTION</key>
+	<string>Enter your username for the VPN profile “%@”</string>
+	<key>WAPI_IDENTITY_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>WAPI Identity Certificates</string>
+	<key>WAPI_IDENTITY_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>WAPI Identity Certificate</string>
+	<key>WEBCLIP_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Web Clips</string>
+	<key>WEBCLIP_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Web Clip</string>
+	<key>WEBCLIP_HEADING</key>
+	<string>Web Clip</string>
+	<key>WEBCLIP_LABEL</key>
+	<string>Label:</string>
+	<key>WEBCLIP_URL</key>
+	<string>URL:</string>
+	<key>WEB_FILTER_</key>
+	<string>Web Content Filters</string>
+	<key>WEB_FILTER_DESC_1</key>
+	<string>Filters:</string>
+	<key>WEB_FILTER_DESC_AUTOFILTER</key>
+	<string>Automatic filter</string>
+	<key>WEB_FILTER_DESC_BLACKLIST</key>
+	<string>Blacklist</string>
+	<key>WEB_FILTER_DESC_NONE</key>
+	<string>None</string>
+	<key>WEB_FILTER_DESC_WHITELIST</key>
+	<string>Whitelist</string>
+	<key>WEB_FILTER_SEPARATOR</key>
+	<string>, </string>
+	<key>WEB_FILTER_SINGULAR</key>
+	<string>Web Content Filter</string>
+	<key>WEB_FILTER_TITLE</key>
+	<string>Web content filter</string>
+	<key>WIFI_NETWORK_DESCRIPTION_PLURAL_FORMAT</key>
+	<string>Wi-Fi Networks</string>
+	<key>WIFI_NETWORK_DESCRIPTION_PLURAL_FORMAT_CH</key>
+	<string>WLAN Configurations</string>
+	<key>WIFI_NETWORK_DESCRIPTION_SINGULAR_FORMAT</key>
+	<string>Wi-Fi Network</string>
+	<key>WIFI_NETWORK_DESCRIPTION_SINGULAR_FORMAT_CH</key>
+	<string>WLAN Configuration</string>
+	<key>WIFI_PASSWORD_ACCOUNT_PROMPT_DESCRIPTION</key>
+	<string>Enter your password for the Wi-Fi account “%@”</string>
+	<key>WIFI_PASSWORD_ACCOUNT_PROMPT_DESCRIPTION_CH</key>
+	<string>Enter your password for the WLAN configuration “%@”</string>
+	<key>WIFI_PASSWORD_PROMPT_DESCRIPTION</key>
+	<string>Enter your password for the Wi-Fi network “%@”</string>
+	<key>WIFI_PASSWORD_PROMPT_DESCRIPTION_CH</key>
+	<string>Enter your password for the WLAN “%@”</string>
+	<key>WIFI_USERNAME_PROMPT_DESCRIPTION</key>
+	<string>Enter your username for the Wi-Fi network “%@”</string>
+	<key>WIFI_USERNAME_PROMPT_DESCRIPTION_CH</key>
+	<string>Enter your username for the WLAN “%@”</string>
+</dict>
+</plist>

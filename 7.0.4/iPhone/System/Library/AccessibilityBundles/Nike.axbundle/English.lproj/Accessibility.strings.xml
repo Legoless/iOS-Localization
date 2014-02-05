@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.name</key>
+	<string>Nike + iPod</string>
+	<key>next.button</key>
+	<string>Next</string>
+	<key>previous.button</key>
+	<string>Previous</string>
+</dict>
+</plist>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT_BUTTON_TITLE</key>
+	<string>Accept</string>
+	<key>AirDrop</key>
+	<string>AirDrop</string>
+	<key>AirPort</key>
+	<string>AirPort</string>
+	<key>AirPort Base Station</key>
+	<string>AirPort Base Station</string>
+	<key>AirPort Disk</key>
+	<string>AirPort Disk</string>
+	<key>AirPort Extreme</key>
+	<string>AirPort Extreme</string>
+	<key>All...</key>
+	<string>All…</string>
+	<key>Anonymous</key>
+	<string>Anonymous</string>
+	<key>Apple TV</key>
+	<string>Apple TV</string>
+	<key>Applications</key>
+	<string>Applications</string>
+	<key>Authentication Failed</key>
+	<string>The Apple ID certificate for “%@” is invalid. The transfer has been canceled.</string>
+	<key>CANCEL_BUTTON_TITLE</key>
+	<string>Cancel</string>
+	<key>CONTACTS_ONLY_BUTTON_TITLE</key>
+	<string>Contacts Only</string>
+	<key>DECLINED_TEXT</key>
+	<string>Declined</string>
+	<key>DECLINE_BUTTON_TITLE</key>
+	<string>Decline</string>
+	<key>DEVICE_CANCELED_TEXT</key>
+	<string>AirDrop from “%@” Was Canceled</string>
+	<key>DISCOVERABLE_ACTION_SHEET_TITLE</key>
+	<string>You can make yourself discoverable to everyone or only people in your contacts.</string>
+	<key>Domain</key>
+	<string>Domain</string>
+	<key>Drop Folder</key>
+	<string>Drop Folder</string>
+	<key>EVERYONE_BUTTON_TITLE</key>
+	<string>Everyone</string>
+	<key>FAILED_TEXT</key>
+	<string>Failed</string>
+	<key>FILE_DEVICE_SENDING_REQUIRES_APP_TEXT</key>
+	<string>“%1$@” would like to share a file that requires an app from the App Store.</string>
+	<key>FILE_PERSON_SENDING_REQUIRES_APP_TEXT</key>
+	<string>%1$@ would like to share a file that requires an app from the App Store.</string>
+	<key>File Not Readable</key>
+	<string>The transfer failed because you don’t have permission to read “%@”.</string>
+	<key>Folder</key>
+	<string>Folder</string>
+	<key>GET_APP_BUTTON_TITLE</key>
+	<string>Get App</string>
+	<key>Guest</key>
+	<string>Guest</string>
+	<key>Invalid File</key>
+	<string>The transfer failed because you tried to send an invalid file.</string>
+	<key>LINK_DEVICE_SENDING_REQUIRES_APP_TEXT</key>
+	<string>“%1$@” would like to share a link that requires an app from the App Store.</string>
+	<key>LINK_PERSON_SENDING_REQUIRES_APP_TEXT</key>
+	<string>%1$@ would like to share a link that requires an app from the App Store.</string>
+	<key>Library</key>
+	<string>Library</string>
+	<key>Mac</key>
+	<string>Mac</string>
+	<key>My AirPort Extreme</key>
+	<string>My AirPort Extreme</string>
+	<key>My Apple TV</key>
+	<string>My Apple TV</string>
+	<key>My Mac</key>
+	<string>My Mac</string>
+	<key>My PC</key>
+	<string>My PC</string>
+	<key>My Time Capsule</key>
+	<string>My Time Capsule</string>
+	<key>My iPad</key>
+	<string>My iPad</string>
+	<key>My iPhone</key>
+	<string>My iPhone</string>
+	<key>My iPod</key>
+	<string>My iPod</string>
+	<key>NO_APPLE_ID_ACCOUNT_ALERT_TEXT</key>
+	<string>You must sign in to iCloud to be discoverable by contacts only.</string>
+	<key>Neighborhood</key>
+	<string>Neighborhood</string>
+	<key>Network</key>
+	<string>Network</string>
+	<key>No Files</key>
+	<string>The transfer failed because there were no valid files to send.</string>
+	<key>Not Enough Space</key>
+	<string>The transfer failed because there wasn’t enough free space.</string>
+	<key>OFF_BUTTON_TITLE</key>
+	<string>Off</string>
+	<key>OK_BUTTON_TITLE</key>
+	<string>OK</string>
+	<key>OPEN_BUTTON_TITLE</key>
+	<string>Open</string>
+	<key>OPEN_SETTINGS_BUTTON_TITLE</key>
+	<string>Settings</string>
+	<key>OPEN_WITH_APP_TEXT</key>
+	<string>Open with...</string>
+	<key>PC</key>
+	<string>PC</string>
+	<key>PERSON_CANCELED_TEXT</key>
+	<string>AirDrop from %@ Was Canceled</string>
+	<key>Person</key>
+	<string>Person</string>
+	<key>RECEIVER_RESET_TEXT</key>
+	<string>AirDrop transfers failed.</string>
+	<key>Remote Disc</key>
+	<string>Remote Disc</string>
+	<key>SENDER_DEFAULT_HELP_TEXT</key>
+	<string>Share instantly with people nearby. If they do not appear automatically, ask them to open Control Center and turn on AirDrop.</string>
+	<key>SENDER_SHEET_INSTRUCTIONS_TITLE</key>
+	<string>Tap to share with AirDrop</string>
+	<key>SENDER_WIFI_BLUETOOTH_HELP_TEXT</key>
+	<string>Tap to turn on Wi-Fi and Bluetooth to share with people via AirDrop.</string>
+	<key>SENDER_WLAN_BLUETOOTH_HELP_TEXT</key>
+	<string>Tap to turn on WLAN and Bluetooth to share with people via AirDrop.</string>
+	<key>SENDING_TEXT</key>
+	<string>Sending</string>
+	<key>SENT_TEXT</key>
+	<string>Sent</string>
+	<key>SHARED</key>
+	<string>SHARED</string>
+	<key>Server</key>
+	<string>Server</string>
+	<key>Servers</key>
+	<string>Servers</string>
+	<key>Sharepoint</key>
+	<string>Sharepoint</string>
+	<key>System Sleep</key>
+	<string>The transfer failed because your Mac went to sleep.</string>
+	<key>TRANSFER_FROM_DEVICE_APP_LINK_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you an app in the App Store.</string>
+	<key>TRANSFER_FROM_DEVICE_APP_LINK_TEXT</key>
+	<string>“%1$@” would like to show you an app in the App Store.</string>
+	<key>TRANSFER_FROM_DEVICE_APP_LINK_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you “%2$@” in the App Store.</string>
+	<key>TRANSFER_FROM_DEVICE_APP_LINK_WITH_TITLE_TEXT</key>
+	<string>“%1$@” would like to show you “%2$@” in the App Store.</string>
+	<key>TRANSFER_FROM_DEVICE_CONTACT_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a contact card.</string>
+	<key>TRANSFER_FROM_DEVICE_CONTACT_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld contact cards.</string>
+	<key>TRANSFER_FROM_DEVICE_CONTACT_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld contact cards.</string>
+	<key>TRANSFER_FROM_DEVICE_CONTACT_TEXT</key>
+	<string>“%1$@” would like to share a contact card.</string>
+	<key>TRANSFER_FROM_DEVICE_FAILED_TEXT</key>
+	<string>AirDrop from “%@” Failed</string>
+	<key>TRANSFER_FROM_DEVICE_GENERIC_FILE_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld files.</string>
+	<key>TRANSFER_FROM_DEVICE_GENERIC_FILE_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld files.</string>
+	<key>TRANSFER_FROM_DEVICE_GENERIC_FILE_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_GENERIC_FILE_WITH_TITLE_TEXT</key>
+	<string>“%1$@” would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_GENERIC_LINK_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld links.</string>
+	<key>TRANSFER_FROM_DEVICE_GENERIC_LINK_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld links.</string>
+	<key>TRANSFER_FROM_DEVICE_GENERIC_LINK_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_GENERIC_LINK_WITH_TITLE_TEXT</key>
+	<string>“%1$@” would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_ILIFE_ITEM_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld “%3$@” item.</string>
+	<key>TRANSFER_FROM_DEVICE_ILIFE_ITEM_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld “%3$@” items.</string>
+	<key>TRANSFER_FROM_DEVICE_ILIFE_ITEM_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld “%3$@” items.</string>
+	<key>TRANSFER_FROM_DEVICE_ILIFE_ITEM_TEXT</key>
+	<string>“%1$@” would like to share %2$ld “%3$@” item.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_RADIO_STATION_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing an iTunes Radio Station.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_RADIO_STATION_TEXT</key>
+	<string>“%1$@” would like to share an iTunes Radio Station.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_RADIO_STATION_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_RADIO_STATION_WITH_TITLE_TEXT</key>
+	<string>“%1$@” would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_AUDIOBOOK_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you an audiobook in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_AUDIOBOOK_TEXT</key>
+	<string>“%1$@” would like to show you an audiobook in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_IBOOK_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you an iBook in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_IBOOK_TEXT</key>
+	<string>“%1$@” would like to show you an iBook in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing an iTunes Store link.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_ITUNES_U_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you an iTunes U resource in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_ITUNES_U_TEXT</key>
+	<string>“%1$@” would like to show you an iTunes U resource in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_MOVIE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you a movie in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_MOVIE_TEXT</key>
+	<string>“%1$@” would like to show you a movie in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_MUSIC_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you some music in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_MUSIC_TEXT</key>
+	<string>“%1$@” would like to show you some music in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_PODCAST_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you a podcast in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_PODCAST_TEXT</key>
+	<string>“%1$@” would like to show you a podcast in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_RINGTONE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you a ringtone in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_RINGTONE_TEXT</key>
+	<string>“%1$@” would like to show you a ringtone in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_TEXT</key>
+	<string>“%1$@” would like to share an iTunes Store link.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_TV_SHOW_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” would like to show you a TV show in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_ITUNES_STORE_LINK_TV_SHOW_TEXT</key>
+	<string>“%1$@” would like to show you a TV show in the iTunes Store.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_CURRENT_LOCATION_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a location.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_CURRENT_LOCATION_TEXT</key>
+	<string>“%1$@” would like to share a location.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_DIRECTIONS_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing directions.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_DIRECTIONS_TEXT</key>
+	<string>“%1$@” would like to share directions.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_DROPPED_PIN_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a dropped pin.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_DROPPED_PIN_TEXT</key>
+	<string>“%1$@” would like to share a dropped pin.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a Maps link.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld Maps links.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld Maps links.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_POI_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_POI_TEXT</key>
+	<string>“%1$@” would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_MAPS_LINK_TEXT</key>
+	<string>“%1$@” would like to share a Maps link.</string>
+	<key>TRANSFER_FROM_DEVICE_NOTE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a note.</string>
+	<key>TRANSFER_FROM_DEVICE_NOTE_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld notes.</string>
+	<key>TRANSFER_FROM_DEVICE_NOTE_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld notes.</string>
+	<key>TRANSFER_FROM_DEVICE_NOTE_TEXT</key>
+	<string>“%1$@” would like to share a note.</string>
+	<key>TRANSFER_FROM_DEVICE_PASS_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a Passbook pass.</string>
+	<key>TRANSFER_FROM_DEVICE_PASS_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld Passbook passes.</string>
+	<key>TRANSFER_FROM_DEVICE_PASS_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld Passbook passes.</string>
+	<key>TRANSFER_FROM_DEVICE_PASS_TEXT</key>
+	<string>“%1$@” would like to share a Passbook pass.</string>
+	<key>TRANSFER_FROM_DEVICE_PASS_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing “%2$@” Passbook pass.</string>
+	<key>TRANSFER_FROM_DEVICE_PASS_WITH_TITLE_TEXT</key>
+	<string>“%1$@” would like to share “%2$@” Passbook pass.</string>
+	<key>TRANSFER_FROM_DEVICE_PDF_FILE_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld PDF files.</string>
+	<key>TRANSFER_FROM_DEVICE_PDF_FILE_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld PDF files.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a photo.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld photos.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld photos.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_PLURAL_VIDEO_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld photos and a video.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_PLURAL_VIDEO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld photos and %3$ld videos.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_PLURAL_VIDEO_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld photos and %3$ld videos.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_PLURAL_VIDEO_TEXT</key>
+	<string>“%1$@” would like to share %2$ld photos and a video.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_TEXT</key>
+	<string>“%1$@” would like to share a photo.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_VIDEO_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a photo and a video.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_VIDEO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a photo and %2$ld videos.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_VIDEO_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share a photo and %2$ld videos.</string>
+	<key>TRANSFER_FROM_DEVICE_PHOTO_VIDEO_TEXT</key>
+	<string>“%1$@” would like to share a photo and a video.</string>
+	<key>TRANSFER_FROM_DEVICE_VIDEO_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a video.</string>
+	<key>TRANSFER_FROM_DEVICE_VIDEO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld videos.</string>
+	<key>TRANSFER_FROM_DEVICE_VIDEO_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld videos.</string>
+	<key>TRANSFER_FROM_DEVICE_VIDEO_TEXT</key>
+	<string>“%1$@” would like to share a video.</string>
+	<key>TRANSFER_FROM_DEVICE_VOICE_MEMO_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a voice memo.</string>
+	<key>TRANSFER_FROM_DEVICE_VOICE_MEMO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld voice memos.</string>
+	<key>TRANSFER_FROM_DEVICE_VOICE_MEMO_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld voice memos.</string>
+	<key>TRANSFER_FROM_DEVICE_VOICE_MEMO_TEXT</key>
+	<string>“%1$@” would like to share a voice memo.</string>
+	<key>TRANSFER_FROM_DEVICE_VOICE_MEMO_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_VOICE_MEMO_WITH_TITLE_TEXT</key>
+	<string>“%1$@” would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_WEBSITE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing a website.</string>
+	<key>TRANSFER_FROM_DEVICE_WEBSITE_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing %2$ld websites.</string>
+	<key>TRANSFER_FROM_DEVICE_WEBSITE_PLURAL_TEXT</key>
+	<string>“%1$@” would like to share %2$ld websites.</string>
+	<key>TRANSFER_FROM_DEVICE_WEBSITE_TEXT</key>
+	<string>“%1$@” would like to share a website.</string>
+	<key>TRANSFER_FROM_DEVICE_WEBSITE_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>“%1$@” is sharing the website “%2$@”.</string>
+	<key>TRANSFER_FROM_DEVICE_WEBSITE_WITH_TITLE_TEXT</key>
+	<string>“%1$@” would like to share the website “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_APP_LINK_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you an app in the App Store.</string>
+	<key>TRANSFER_FROM_PERSON_APP_LINK_TEXT</key>
+	<string>%1$@ would like to show you an app in the App Store.</string>
+	<key>TRANSFER_FROM_PERSON_APP_LINK_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you “%2$@” in the App Store.</string>
+	<key>TRANSFER_FROM_PERSON_APP_LINK_WITH_TITLE_TEXT</key>
+	<string>%1$@ would like to show you “%2$@” in the App Store.</string>
+	<key>TRANSFER_FROM_PERSON_CONTACT_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a contact card.</string>
+	<key>TRANSFER_FROM_PERSON_CONTACT_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld contact cards.</string>
+	<key>TRANSFER_FROM_PERSON_CONTACT_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld contact cards.</string>
+	<key>TRANSFER_FROM_PERSON_CONTACT_TEXT</key>
+	<string>%1$@ would like to share a contact card.</string>
+	<key>TRANSFER_FROM_PERSON_FAILED_TEXT</key>
+	<string>AirDrop from %@ Failed</string>
+	<key>TRANSFER_FROM_PERSON_GENERIC_FILE_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld files.</string>
+	<key>TRANSFER_FROM_PERSON_GENERIC_FILE_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld files.</string>
+	<key>TRANSFER_FROM_PERSON_GENERIC_FILE_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_GENERIC_FILE_WITH_TITLE_TEXT</key>
+	<string>%1$@ would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_GENERIC_LINK_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld links.</string>
+	<key>TRANSFER_FROM_PERSON_GENERIC_LINK_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld links.</string>
+	<key>TRANSFER_FROM_PERSON_GENERIC_LINK_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_GENERIC_LINK_WITH_TITLE_TEXT</key>
+	<string>%1$@ would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_ILIFE_ITEM_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld “%3$@” item.</string>
+	<key>TRANSFER_FROM_PERSON_ILIFE_ITEM_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld “%3$@” items.</string>
+	<key>TRANSFER_FROM_PERSON_ILIFE_ITEM_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld “%3$@” items.</string>
+	<key>TRANSFER_FROM_PERSON_ILIFE_ITEM_TEXT</key>
+	<string>%1$@ would like to share %2$ld “%3$@” item.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_RADIO_STATION_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing an iTunes Radio Station.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_RADIO_STATION_TEXT</key>
+	<string>%1$@ would like to share an iTunes Radio Station.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_RADIO_STATION_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_RADIO_STATION_WITH_TITLE_TEXT</key>
+	<string>%1$@ would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_AUDIOBOOK_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you an audiobook in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_AUDIOBOOK_TEXT</key>
+	<string>%1$@ would like to show you an audiobook in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_IBOOK_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you an iBook in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_IBOOK_TEXT</key>
+	<string>%1$@ would like to show you an iBook in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing an iTunes Store link.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_ITUNES_U_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you an iTunes U resource in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_ITUNES_U_TEXT</key>
+	<string>%1$@ would like to show you an iTunes U resource in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_MOVIE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you a movie in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_MOVIE_TEXT</key>
+	<string>%1$@ would like to show you a movie in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_MUSIC_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you some music in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_MUSIC_TEXT</key>
+	<string>%1$@ would like to show you some music in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_PODCAST_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you a podcast in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_PODCAST_TEXT</key>
+	<string>%1$@ would like to show you a podcast in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_RINGTONE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you a ringtone in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_RINGTONE_TEXT</key>
+	<string>%1$@ would like to show you a ringtone in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_TEXT</key>
+	<string>%1$@ would like to share an iTunes Store link.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_TV_SHOW_IN_PROGRESS_TEXT</key>
+	<string>%1$@ would like to show you a TV show in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_ITUNES_STORE_LINK_TV_SHOW_TEXT</key>
+	<string>%1$@ would like to show you a TV show in the iTunes Store.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_CURRENT_LOCATION_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a location.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_CURRENT_LOCATION_TEXT</key>
+	<string>%1$@ would like to share a location.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_DIRECTIONS_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing directions.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_DIRECTIONS_TEXT</key>
+	<string>%1$@ would like to share directions.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_DROPPED_PIN_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a dropped pin.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_DROPPED_PIN_TEXT</key>
+	<string>%1$@ would like to share a dropped pin.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a Maps link.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld Maps links.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld Maps links.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_POI_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing “%2$@” with you</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_POI_TEXT</key>
+	<string>%1$@ would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_MAPS_LINK_TEXT</key>
+	<string>%1$@ would like to share a Maps link.</string>
+	<key>TRANSFER_FROM_PERSON_NOTE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a note.</string>
+	<key>TRANSFER_FROM_PERSON_NOTE_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld notes.</string>
+	<key>TRANSFER_FROM_PERSON_NOTE_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld notes.</string>
+	<key>TRANSFER_FROM_PERSON_NOTE_TEXT</key>
+	<string>%1$@ would like to share a note.</string>
+	<key>TRANSFER_FROM_PERSON_PASS_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a Passbook pass.</string>
+	<key>TRANSFER_FROM_PERSON_PASS_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld Passbook passes.</string>
+	<key>TRANSFER_FROM_PERSON_PASS_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld Passbook passes.</string>
+	<key>TRANSFER_FROM_PERSON_PASS_TEXT</key>
+	<string>%1$@ would like to share a Passbook pass.</string>
+	<key>TRANSFER_FROM_PERSON_PASS_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing “%2$@” Passbook pass.</string>
+	<key>TRANSFER_FROM_PERSON_PASS_WITH_TITLE_TEXT</key>
+	<string>%1$@ would like to share “%2$@” Passbook pass.</string>
+	<key>TRANSFER_FROM_PERSON_PDF_FILE_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld PDF files.</string>
+	<key>TRANSFER_FROM_PERSON_PDF_FILE_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld PDF files.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a photo.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld photos.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld photos.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_PLURAL_VIDEO_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld photos and a video.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_PLURAL_VIDEO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld photos and %3$ld videos.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_PLURAL_VIDEO_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld photos and %3$ld videos.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_PLURAL_VIDEO_TEXT</key>
+	<string>%1$@ would like to share %2$ld photos and a video.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_TEXT</key>
+	<string>%1$@ would like to share a photo.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_VIDEO_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a photo and a video.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_VIDEO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a photo and %2$ld videos.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_VIDEO_PLURAL_TEXT</key>
+	<string>%1$@ would like to share a photo and %2$ld videos.</string>
+	<key>TRANSFER_FROM_PERSON_PHOTO_VIDEO_TEXT</key>
+	<string>%1$@ would like to share a photo and a video.</string>
+	<key>TRANSFER_FROM_PERSON_VIDEO_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a video.</string>
+	<key>TRANSFER_FROM_PERSON_VIDEO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld videos.</string>
+	<key>TRANSFER_FROM_PERSON_VIDEO_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld videos.</string>
+	<key>TRANSFER_FROM_PERSON_VIDEO_TEXT</key>
+	<string>%1$@ would like to share a video.</string>
+	<key>TRANSFER_FROM_PERSON_VOICE_MEMO_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a voice memo.</string>
+	<key>TRANSFER_FROM_PERSON_VOICE_MEMO_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld voice memos.</string>
+	<key>TRANSFER_FROM_PERSON_VOICE_MEMO_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld voice memos.</string>
+	<key>TRANSFER_FROM_PERSON_VOICE_MEMO_TEXT</key>
+	<string>%1$@ would like to share a voice memo.</string>
+	<key>TRANSFER_FROM_PERSON_VOICE_MEMO_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_VOICE_MEMO_WITH_TITLE_TEXT</key>
+	<string>%1$@ would like to share “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_WEBSITE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing a website.</string>
+	<key>TRANSFER_FROM_PERSON_WEBSITE_PLURAL_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing %2$ld websites.</string>
+	<key>TRANSFER_FROM_PERSON_WEBSITE_PLURAL_TEXT</key>
+	<string>%1$@ would like to share %2$ld websites.</string>
+	<key>TRANSFER_FROM_PERSON_WEBSITE_TEXT</key>
+	<string>%1$@ would like to share a website.</string>
+	<key>TRANSFER_FROM_PERSON_WEBSITE_WITH_TITLE_IN_PROGRESS_TEXT</key>
+	<string>%1$@ is sharing the website “%2$@”.</string>
+	<key>TRANSFER_FROM_PERSON_WEBSITE_WITH_TITLE_TEXT</key>
+	<string>%1$@ would like to share the website “%2$@”.</string>
+	<key>TRANSFER_TO_DEVICE_MIXED_TYPES_TEXT</key>
+	<string>“%@” cannot receive all of these items at the same time.</string>
+	<key>TRANSFER_TO_DEVICE_NO_PASSBOOK_TEXT</key>
+	<string>“%@” cannot accept passes.</string>
+	<key>TRANSFER_TO_PERSON_MIXED_TYPES_TEXT</key>
+	<string>%@ cannot receive all of these items at the same time.</string>
+	<key>TRANSFER_TO_PERSON_NO_PASSBOOK_TEXT</key>
+	<string>%@ cannot accept passes.</string>
+	<key>Time Capsule</key>
+	<string>Time Capsule</string>
+	<key>Transfer Failed 1</key>
+	<string>Transfer failed.  Try again.</string>
+	<key>Transfer Failed 2</key>
+	<string>The transfer failed.  Please try again.</string>
+	<key>Unknown</key>
+	<string>Unknown</string>
+	<key>User</key>
+	<string>User</string>
+	<key>VIEW_BUTTON_TITLE</key>
+	<string>View</string>
+	<key>Volume</key>
+	<string>Volume</string>
+	<key>WAITING_TEXT</key>
+	<string>Waiting…</string>
+	<key>Wireless Disabled</key>
+	<string>The transfer failed because Wi-Fi was turned off.</string>
+	<key>Workgroup</key>
+	<string>Workgroup</string>
+	<key>Zone</key>
+	<string>Zone</string>
+	<key>iPad</key>
+	<string>iPad</string>
+	<key>iPhone</key>
+	<string>iPhone</string>
+	<key>iPod</key>
+	<string>iPod</string>
+</dict>
+</plist>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10th</key>
+	<string>10th</string>
+	<key>11th</key>
+	<string>11th</string>
+	<key>12th</key>
+	<string>12th</string>
+	<key>13th</key>
+	<string>13th</string>
+	<key>14th</key>
+	<string>14th</string>
+	<key>15th</key>
+	<string>15th</string>
+	<key>16th</key>
+	<string>16th</string>
+	<key>17th</key>
+	<string>17th</string>
+	<key>18th</key>
+	<string>18th</string>
+	<key>19th</key>
+	<string>19th</string>
+	<key>1st</key>
+	<string>1st</string>
+	<key>20th</key>
+	<string>20th</string>
+	<key>21st</key>
+	<string>21st</string>
+	<key>22nd</key>
+	<string>22nd</string>
+	<key>23rd</key>
+	<string>23rd</string>
+	<key>24th</key>
+	<string>24th</string>
+	<key>25th</key>
+	<string>25th</string>
+	<key>26th</key>
+	<string>26th</string>
+	<key>27th</key>
+	<string>27th</string>
+	<key>28th</key>
+	<string>28th</string>
+	<key>29th</key>
+	<string>29th</string>
+	<key>2nd</key>
+	<string>2nd</string>
+	<key>30th</key>
+	<string>30th</string>
+	<key>31st</key>
+	<string>31st</string>
+	<key>3rd</key>
+	<string>3rd</string>
+	<key>4th</key>
+	<string>4th</string>
+	<key>5th</key>
+	<string>5th</string>
+	<key>6th</key>
+	<string>6th</string>
+	<key>7th</key>
+	<string>7th</string>
+	<key>8th</key>
+	<string>8th</string>
+	<key>9th</key>
+	<string>9th</string>
+	<key>CUSTOM_BYDAY_ITEM_FORMAT</key>
+	<string>%@ %@</string>
+	<key>CUSTOM_DAILY_INTERVAL_FORMAT</key>
+	<string>Every %u days</string>
+	<key>CUSTOM_MONTHLY_BYDAY_FORMAT</key>
+	<string>Every month on the %@</string>
+	<key>CUSTOM_MONTHLY_BYDAY_INTERVAL_FORMAT</key>
+	<string>Every %u months on the %@</string>
+	<key>CUSTOM_MONTHLY_BYMONTHDAY_FORMAT</key>
+	<string>Every month, each %@</string>
+	<key>CUSTOM_MONTHLY_BYMONTHDAY_INTERVAL_FORMAT</key>
+	<string>Every %u months, each %@</string>
+	<key>CUSTOM_MONTHLY_INTERVAL_FORMAT</key>
+	<string>Every %u months</string>
+	<key>CUSTOM_MONTHLY_LASTDAY_FORMAT</key>
+	<string>Every month on the last day</string>
+	<key>CUSTOM_MONTHLY_LASTDAY_INTERVAL_FORMAT</key>
+	<string>Every %u months on the last day</string>
+	<key>CUSTOM_MONTHLY_SKIPPINGSHORTMONTHS_FORMAT</key>
+	<string>Every month that has %u days</string>
+	<key>CUSTOM_MONTHLY_SKIPPINGSHORTMONTHS_INTERVAL_FORMAT</key>
+	<string>Every %u months that have %u days</string>
+	<key>CUSTOM_WEEKLY_DAYS_FORMAT</key>
+	<string>Every week on %@</string>
+	<key>CUSTOM_WEEKLY_DAYS_INTERVAL_FORMAT</key>
+	<string>Every %u weeks on %@</string>
+	<key>CUSTOM_WEEKLY_INTERVAL_FORMAT</key>
+	<string>Every %u weeks</string>
+	<key>CUSTOM_WEEKLY_WEEKDAYS</key>
+	<string>Weekdays</string>
+	<key>CUSTOM_WEEKLY_WEEKENDS</key>
+	<string>Weekends</string>
+	<key>CUSTOM_YEARLY_BYDAY_FORMAT</key>
+	<string>Every year on the %@ of %@</string>
+	<key>CUSTOM_YEARLY_BYDAY_INTERVAL_FORMAT</key>
+	<string>Every %u years on the %@ of %@</string>
+	<key>CUSTOM_YEARLY_BYMONTH_FORMAT</key>
+	<string>Every year in %@</string>
+	<key>CUSTOM_YEARLY_BYMONTH_INTERVAL_FORMAT</key>
+	<string>Every %u years in %@</string>
+	<key>CUSTOM_YEARLY_INTERVAL_FORMAT</key>
+	<string>Every %u years</string>
+	<key>FIRST</key>
+	<string>first</string>
+	<key>FOURTH</key>
+	<string>fourth</string>
+	<key>LAST</key>
+	<string>last</string>
+	<key>LAST_LIST_ITEM</key>
+	<string>, and %@</string>
+	<key>LAST_SECOND_LIST_ITEM</key>
+	<string> and %@</string>
+	<key>SECOND</key>
+	<string>second</string>
+	<key>THIRD</key>
+	<string>third</string>
+</dict>
+</plist>

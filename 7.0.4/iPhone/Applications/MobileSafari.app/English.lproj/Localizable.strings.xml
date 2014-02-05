@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> &amp; %d more…</key>
+	<string> &amp; %d more…</string>
+	<key>%@ Search</key>
+	<string>%@ Search</string>
+	<key>%@ matches</key>
+	<string>%@ matches</string>
+	<key>%@ of %@ matches</key>
+	<string>%@ of %@ matches</string>
+	<key>%d bookmarks</key>
+	<string>%d bookmarks</string>
+	<key>(%@ match)</key>
+	<string>(%@ match)</string>
+	<key>(%@ matches)</key>
+	<string>(%@ matches)</string>
+	<key>(1 match)</key>
+	<string>(1 match)</string>
+	<key>(no matches)</key>
+	<string>(no matches)</string>
+	<key>(no title)</key>
+	<string>(no title)</string>
+	<key>1 bookmark</key>
+	<string>1 bookmark</string>
+	<key>1 match</key>
+	<string>1 match</string>
+	<key>100+</key>
+	<string>100+</string>
+	<key>100+ matches</key>
+	<string>100+ matches</string>
+	<key>Accept</key>
+	<string>Accept</string>
+	<key>Add</key>
+	<string>Add</string>
+	<key>Add Bookmark</key>
+	<string>Bookmark</string>
+	<key>Add to Home</key>
+	<string>Add to Home</string>
+	<key>Add to Home Screen</key>
+	<string>Add to
+Home Screen</string>
+	<key>Add to Reading List (Activity panel)</key>
+	<string>Add to
+Reading List</string>
+	<key>Add to Reading List (Long press)</key>
+	<string>Add to Reading List</string>
+	<key>Address</key>
+	<string>Address</string>
+	<key>Allow</key>
+	<string>Allow</string>
+	<key>An icon will be added to your home screen so you can quickly access this website.</key>
+	<string>An icon will be added to your home screen so you can quickly access this website.</string>
+	<key>Are you sure you want to submit this form again?</key>
+	<string>Are you sure you want to submit this form again?</string>
+	<key>Back/Forward Controller Title</key>
+	<string>History</string>
+	<key>Baidu</key>
+	<string>Baidu</string>
+	<key>Bing</key>
+	<string>Bing</string>
+	<key>Block</key>
+	<string>Block</string>
+	<key>Bookmark picker (title)</key>
+	<string>Add Bookmark</string>
+	<key>Bookmark title delimiter</key>
+	<string>, </string>
+	<key>Bookmarks added to your Favorites folder will appear here</key>
+	<string>Bookmarks added to your Favorites folder will appear here</string>
+	<key>Bookmarks and History</key>
+	<string>Bookmarks and History</string>
+	<key>Bookmarks are being synced. Please add the bookmark once syncing has completed.</key>
+	<string>Bookmarks are being synced. Please add the bookmark once syncing has completed.</string>
+	<key>Bookmarks are being synced. Please edit the bookmarks once syncing has completed.</key>
+	<string>Bookmarks are being synced. Please edit the bookmarks once syncing has completed.</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Cancel (action sheet)</key>
+	<string>Cancel</string>
+	<key>Cancel (alert sheet bookmarks)</key>
+	<string>Cancel</string>
+	<key>Cancel (alert sheet)</key>
+	<string>Cancel</string>
+	<key>Cancel (bookmarks)</key>
+	<string>Cancel</string>
+	<key>Cancel Button</key>
+	<string>Cancel</string>
+	<key>Cannot Add Page</key>
+	<string>Cannot Add Page</string>
+	<key>Cannot Install Profile</key>
+	<string>Cannot Install Profile</string>
+	<key>Cannot Open Page</key>
+	<string>Cannot Open Page</string>
+	<key>Cannot Open Pop-Up</key>
+	<string>Cannot Open Pop-Up</string>
+	<key>Cannot Run Script</key>
+	<string>Cannot Run Script</string>
+	<key>Certificate Error</key>
+	<string>Certificate Error</string>
+	<key>Clear</key>
+	<string>Clear</string>
+	<key>Clear History (alert sheet bookmarks)</key>
+	<string>Clear History</string>
+	<key>Close All Button</key>
+	<string>Close All</string>
+	<key>Close All Tabs Private Browsing Off Message (iPad)</key>
+	<string>Would you like to close your existing tabs before turning off Private Browsing? Open tabs will no longer be private.</string>
+	<key>Close All Tabs Private Browsing Off Message (iPhone)</key>
+	<string>Would you like to close your existing pages before turning off Private Browsing? Open pages will no longer be private.</string>
+	<key>Close All Tabs Private Browsing On Message (iPad)</key>
+	<string>Would you like to close your existing tabs before turning on Private Browsing?</string>
+	<key>Close All Tabs Private Browsing On Message (iPhone)</key>
+	<string>Would you like to close your existing pages before turning on Private Browsing?</string>
+	<key>Close All Tabs Prompt (iPad)</key>
+	<string>Close All Tabs?</string>
+	<key>Close All Tabs Prompt (iPhone)</key>
+	<string>Close All Pages?</string>
+	<key>Close this Page</key>
+	<string>Close this Page</string>
+	<key>Connecting...</key>
+	<string>Connecting...</string>
+	<key>Continue</key>
+	<string>Continue</string>
+	<key>DONE_BOOKMARKS</key>
+	<string>Done</string>
+	<key>DONE_FIND_ON_PAGE</key>
+	<string>Done</string>
+	<key>DONE_ON_IPHONE_READER</key>
+	<string>Done</string>
+	<key>DONE_PAGE_PICKER</key>
+	<string>Done</string>
+	<key>Data Roaming is turned off. You can enable Data Roaming in the Cellular Data section of Settings.</key>
+	<string>Data Roaming is turned off. You can enable Data Roaming in the Cellular Data section of Settings.</string>
+	<key>Disable Private Browsing</key>
+	<string>Disable Private Browsing</string>
+	<key>Dismiss</key>
+	<string>Dismiss</string>
+	<key>Do you want to change your search engine to %@?</key>
+	<string>Do you want to change your search engine to %@?</string>
+	<key>Download Failed</key>
+	<string>Download Failed</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Edit Address</key>
+	<string>Edit Address</string>
+	<key>Edit Bookmark</key>
+	<string>Edit Bookmark</string>
+	<key>Edit Folder</key>
+	<string>Edit Folder</string>
+	<key>Edit Title</key>
+	<string>Edit Title</string>
+	<key>Enable Private Browsing</key>
+	<string>Enable Private Browsing</string>
+	<key>FIND_ON_THIS_PAGE_FORMAT</key>
+	<string>Find “%@”</string>
+	<key>Favorites</key>
+	<string>Favorites</string>
+	<key>Feature not enabled for this demo.</key>
+	<string>Feature not enabled for this demo.</string>
+	<key>Find in Document</key>
+	<string>Find in Document</string>
+	<key>Find on Page</key>
+	<string>Find on Page</string>
+	<key>Finding...</key>
+	<string>Finding…</string>
+	<key>For detailed information about problems found on this site, or a portion of this site, visit the Google Safe Browsing diagnostic page for %@.</key>
+	<string>For detailed information about problems found on this site, or a portion of this site, visit the Google Safe Browsing diagnostic page for %@.</string>
+	<key>Go Back</key>
+	<string>Go Back</string>
+	<key>Google</key>
+	<string>Google</string>
+	<key>History (bookmark proxy)</key>
+	<string>History</string>
+	<key>IPAD_USER_GUIDE_TITLE</key>
+	<string>iPad User Guide</string>
+	<key>IPHONE_QUICK_START_TITLE</key>
+	<string>iPhone Quick Start</string>
+	<key>IPHONE_USER_GUIDE_TITLE</key>
+	<string>iPhone User Guide</string>
+	<key>IPOD_TOUCH_USER_GUIDE_TITLE</key>
+	<string>iPod touch User Guide</string>
+	<key>Ignore this Warning</key>
+	<string>Ignore this Warning</string>
+	<key>In This Document %@</key>
+	<string>In This Document %@</string>
+	<key>Keep All Button</key>
+	<string>Keep All</string>
+	<key>Learn more about phishing scams</key>
+	<string>Learn more about phishing scams</string>
+	<key>Links shared by your contacts from select social networks will appear here.</key>
+	<string>Links shared by your contacts from select social networks will appear here.</string>
+	<key>Loading</key>
+	<string>Loading</string>
+	<key>Location (bookmark folder)</key>
+	<string>Location</string>
+	<key>Log In</key>
+	<string>Log In</string>
+	<key>Log into this secure website.</key>
+	<string>Log into this secure website.</string>
+	<key>Maps Auto Complete</key>
+	<string>Show “%@” in Maps</string>
+	<key>More Bookmarks</key>
+	<string>More Bookmarks</string>
+	<key>More than %@ matches</key>
+	<string>More than %@ matches</string>
+	<key>Multiple service providers identified this site as appearing to contain malware. For detailed information about problems found on this site, or a portion of this site, visit:</key>
+	<string>Multiple service providers identified this site as appearing to contain malware. For detailed information about problems found on this site, or a portion of this site, visit:</string>
+	<key>Multiple service providers reported this site as a “phishing” website. To learn more visit:</key>
+	<string>Multiple service providers reported this site as a “phishing” website. To learn more visit:</string>
+	<key>My Account</key>
+	<string>My Account</string>
+	<key>Name</key>
+	<string>Name</string>
+	<key>New Folder</key>
+	<string>New Folder</string>
+	<key>New Page</key>
+	<string>New Page</string>
+	<key>New page</key>
+	<string>New Page</string>
+	<key>No File Exists</key>
+	<string>No File Exists</string>
+	<key>No Internet Connection Error Not iPad</key>
+	<string>Safari cannot open the page because your %@ is not connected to the Internet.</string>
+	<key>No Internet Connection Error iPad</key>
+	<string>Safari cannot open the page “%@” because your %@ is not connected to the Internet.</string>
+	<key>No Permission</key>
+	<string>No Permission</string>
+	<key>No Shared Links</key>
+	<string>No Shared Links</string>
+	<key>No content</key>
+	<string>No content</string>
+	<key>No date</key>
+	<string>No date</string>
+	<key>No file exists at the address “%@”.</key>
+	<string>No file exists at the address “%@”.</string>
+	<key>No iCloud Tabs</key>
+	<string>No iCloud Tabs</string>
+	<key>No matches</key>
+	<string>No matches</string>
+	<key>No title</key>
+	<string>No title</string>
+	<key>Not available for offline reading</key>
+	<string>Not available for offline reading</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>On This Page %@</key>
+	<string>On This Page %@</string>
+	<key>Open Link in Background Page</key>
+	<string>Open in Background</string>
+	<key>Open Link in New Page</key>
+	<string>Open in New Page</string>
+	<key>Open Link in New Tab</key>
+	<string>Open in New Tab</string>
+	<key>Open in “%@”</key>
+	<string>Open in “%@”</string>
+	<key>Open in...</key>
+	<string>Open in...</string>
+	<key>Open on %@</key>
+	<string>Open on %@</string>
+	<key>Open this page in “%@”?</key>
+	<string>Open this page in “%@”?</string>
+	<key>Password</key>
+	<string>Password</string>
+	<key>Password will be sent in the clear.</key>
+	<string>Password will be sent in the clear.</string>
+	<key>Password will be sent securely.</key>
+	<string>Password will be sent securely.</string>
+	<key>Pick Folder</key>
+	<string>Choose a Folder</string>
+	<key>Possible Phishing Site</key>
+	<string>Possible Phishing Site</string>
+	<key>Print</key>
+	<string>Print</string>
+	<key>Print “%@”</key>
+	<string>Print “%@”</string>
+	<key>Private</key>
+	<string>Private</string>
+	<key>Private Browsing</key>
+	<string>Private Browsing</string>
+	<key>Reader</key>
+	<string>Reader</string>
+	<key>Reading List Is Empty</key>
+	<string>Reading List Is Empty</string>
+	<key>Reading List lets you collect webpages and links to read later. Tap the Share button to add the current page.</key>
+	<string>Reading List lets you collect webpages and links to read later. Tap the Share button to add the current page.</string>
+	<key>Recently Closed Tabs</key>
+	<string>Recently Closed Tabs</string>
+	<key>Report an error</key>
+	<string>Report an error</string>
+	<key>Report an error to:</key>
+	<string>Report an error to:</string>
+	<key>Retweeted by %@</key>
+	<string>Retweeted by %@</string>
+	<key>SHARE_ON_IPHONE_READER</key>
+	<string>Share</string>
+	<key>Safari Can Create a Secure Password for You</key>
+	<string>Safari Can Create a Secure Password for You</string>
+	<key>Safari cannot download this file.</key>
+	<string>Safari cannot download this file.</string>
+	<key>Safari cannot open the page because it cannot redirect to locations starting with “%@:”.</key>
+	<string>Safari cannot open the page because it cannot redirect to locations starting with “%@:”.</string>
+	<key>Safari cannot open the page because it could not connect to the server.</key>
+	<string>Safari cannot open the page because it could not connect to the server.</string>
+	<key>Safari cannot open the page because it could not establish a secure connection to the server.</key>
+	<string>Safari cannot open the page because it could not establish a secure connection to the server.</string>
+	<key>Safari cannot open the page because it could not load any data.</key>
+	<string>Safari cannot open the page because it could not load any data.</string>
+	<key>Safari cannot open the page because it is a local file.</key>
+	<string>Safari cannot open the page because it is a local file.</string>
+	<key>Safari cannot open the page because it is not available for offline reading.</key>
+	<string>Safari cannot open the page because it is not available for offline reading.</string>
+	<key>Safari cannot open the page because it is too large.</key>
+	<string>Safari cannot open the page because it is too large.</string>
+	<key>Safari cannot open the page because the address is invalid.</key>
+	<string>Safari cannot open the page because the address is invalid.</string>
+	<key>Safari cannot open the page because the network connection was lost.</key>
+	<string>Safari cannot open the page because the network connection was lost.</string>
+	<key>Safari cannot open the page because the network connection was reset. The server may be busy.</key>
+	<string>Safari cannot open the page because the network connection was reset. The server may be busy.</string>
+	<key>Safari cannot open the page because the page does not exist.</key>
+	<string>Safari cannot open the page because the page does not exist.</string>
+	<key>Safari cannot open the page because the page is invalid.</key>
+	<string>Safari cannot open the page because the page is invalid.</string>
+	<key>Safari cannot open the page because the server cannot be found.</key>
+	<string>Safari cannot open the page because the server cannot be found.</string>
+	<key>Safari cannot open the page because too many redirects occurred.</key>
+	<string>Safari cannot open the page because too many redirects occurred.</string>
+	<key>Safari cannot open the page.
+
+The error was: “%@”.</key>
+	<string>Safari cannot open the page.
+
+The error was: “%@”.</string>
+	<key>Safari cannot run the script because JavaScript is not allowed to be used this way.</key>
+	<string>Safari cannot run the script because JavaScript is not allowed to be used this way.</string>
+	<key>Safari could not add this page to the Home screen because an error occurred.</key>
+	<string>Safari could not add this page to the Home screen because an error occurred.</string>
+	<key>Safari could not install a profile due to an unknown error.</key>
+	<string>Safari could not install a profile due to an unknown error.</string>
+	<key>Safari could not open a pop-up because there are too many pages open.</key>
+	<string>Safari could not open a pop-up because there are too many pages open.</string>
+	<key>Safari could not open the page because the server stopped responding.</key>
+	<string>Safari could not open the page because the server stopped responding.</string>
+	<key>Save (bookmarks)</key>
+	<string>Save</string>
+	<key>Saving for offline reading...</key>
+	<string>Saving for offline reading…</string>
+	<key>Search %@</key>
+	<string>Search %@</string>
+	<key>Search or enter an address</key>
+	<string>Search or enter an address</string>
+	<key>Secure Website</key>
+	<string>Secure Website</string>
+	<key>Select a certificate</key>
+	<string>Select a certificate</string>
+	<key>Shared Links</key>
+	<string>Shared Links</string>
+	<key>Show All (Reading List Filter Button)</key>
+	<string>Show All</string>
+	<key>Show Unread (Reading List Filter Button)</key>
+	<string>Show Unread</string>
+	<key>Sign in to iCloud to view the open tabs on your other devices.</key>
+	<string>Sign in to iCloud to view the open tabs on your other devices.</string>
+	<key>Submit</key>
+	<string>Submit</string>
+	<key>Suggest Password</key>
+	<string>Suggest Password</string>
+	<key>Suggested Sites</key>
+	<string>Suggested Sites</string>
+	<key>Suspected Malware Site</key>
+	<string>Suspected Malware Site</string>
+	<key>Suspected Phishing Site</key>
+	<string>Suspected Phishing Site</string>
+	<key>Tap Continue to select your certificate.</key>
+	<string>Tap Continue to select your certificate.</string>
+	<key>Tap Suggest Password to generate a password. It will be saved in your iCloud Keychain so it is available for AutoFill on all your devices.</key>
+	<string>Tap Suggest Password to generate a password. It will be saved in your iCloud Keychain so it is available for AutoFill on all your devices.</string>
+	<key>The required certificate is not installed.</key>
+	<string>The required certificate is not installed.</string>
+	<key>The web page did not finish loading. Do you want to continue printing?</key>
+	<string>The web page did not finish loading. Do you want to continue printing?</string>
+	<key>The website did not accept the certificate.</key>
+	<string>The website did not accept the certificate.</string>
+	<key>The website you are visiting appears to contain malware. Malware is malicious software that may harm your computer or otherwise operate without your consent. Your computer can be infected just by browsing to a site with malware, without any further action on your part.</key>
+	<string>The website you are visiting appears to contain malware. Malware is malicious software that may harm your computer or otherwise operate without your consent. Your computer can be infected just by browsing to a site with malware, without any further action on your part.</string>
+	<key>The website you are visiting has a user name or password in its address. This may be a “phishing” website. These websites are designed to trick you into disclosing personal or financial information, usually by creating a copy of a legitimate website, such as a bank.</key>
+	<string>The website you are visiting has a user name or password in its address. This may be a “phishing” website. These websites are designed to trick you into disclosing personal or financial information, usually by creating a copy of a legitimate website, such as a bank.</string>
+	<key>The website you are visiting has been reported as a “phishing” website. These websites are designed to trick you into disclosing personal or financial information, usually by creating a copy of a legitimate website, such as a bank.</key>
+	<string>The website you are visiting has been reported as a “phishing” website. These websites are designed to trick you into disclosing personal or financial information, usually by creating a copy of a legitimate website, such as a bank.</string>
+	<key>There was an error sending the message.</key>
+	<string>There was an error sending the message.</string>
+	<key>This form is not secure. Are you sure you want to submit it?</key>
+	<string>This form is not secure. Are you sure you want to submit it?</string>
+	<key>This is a link to an RSS feed. Would you like to search the App Store for apps that can display RSS feeds?</key>
+	<string>This is a link to an RSS feed. Would you like to search the App Store for apps that can display RSS feeds?</string>
+	<key>This site is attempting to open a pop-up window</key>
+	<string>This site is attempting to open a pop-up window</string>
+	<key>This website requires a certificate</key>
+	<string>This website requires a certificate</string>
+	<key>Title</key>
+	<string>Title</string>
+	<key>Top Hit</key>
+	<string>Top Hit</string>
+	<key>Top Hits</key>
+	<string>Top Hits</string>
+	<key>Tweet</key>
+	<string>Tweet</string>
+	<key>Typing</key>
+	<string>Typing</string>
+	<key>UP NEXT:</key>
+	<string>UP NEXT:</string>
+	<key>Untitled</key>
+	<string>Untitled</string>
+	<key>Untitled (WebClip default title)</key>
+	<string>Untitled</string>
+	<key>Warning: Visiting this site may harm your computer</key>
+	<string>Warning: Visiting this site may harm your computer</string>
+	<key>Yahoo!</key>
+	<string>Yahoo!</string>
+	<key>Yandex</key>
+	<string>Yandex</string>
+	<key>You do not have permission to view “%@”.</key>
+	<string>You do not have permission to view “%@”.</string>
+	<key>http://www.apple.com/startpage/</key>
+	<string>http://www.apple.com/startpage/</string>
+	<key>iCloud Tabs</key>
+	<string>iCloud Tabs</string>
+	<key>iCloud automatically shows all the open tabs on your other devices.</key>
+	<string>iCloud automatically shows all the open tabs on your other devices.</string>
+	<key>retweeted by %@</key>
+	<string>retweeted by %@</string>
+	<key>unknown error</key>
+	<string>unknown error</string>
+</dict>
+</plist>

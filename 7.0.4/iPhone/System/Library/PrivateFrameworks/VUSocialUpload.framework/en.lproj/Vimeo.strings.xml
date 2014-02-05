@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_DESCRIPTION</key>
+	<string>ADD DESCRIPTION</string>
+	<key>ADD_TAGS</key>
+	<string>ADD TAGS</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>DETAILS</key>
+	<string>Details</string>
+	<key>NO_VIMEO_ACCOUNT_MESSAGE</key>
+	<string>There are no Vimeo accounts configured. You can add a Vimeo account in Settings.</string>
+	<key>NO_VIMEO_ACCOUNT_TITLE</key>
+	<string>No Vimeo Account</string>
+	<key>PRVACY_LEVEL</key>
+	<string>PRIVACY</string>
+	<key>PRVACY_LEVEL_PRIVATE</key>
+	<string>Private</string>
+	<key>PRVACY_LEVEL_PUBLIC</key>
+	<string>Public</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>VIDEO_SIZE</key>
+	<string>VIDEO SIZE</string>
+	<key>VIDEO_SIZE_LARGE</key>
+	<string>Large (HD)</string>
+	<key>VIDEO_SIZE_LARGE_FORMAT</key>
+	<string>Large (HD) (%@)</string>
+	<key>VIDEO_SIZE_MEDIUM</key>
+	<string>Medium</string>
+	<key>VIDEO_SIZE_MEDIUM_FORMAT</key>
+	<string>Medium (%@)</string>
+	<key>VIDEO_SIZE_SMALL</key>
+	<string>Small</string>
+	<key>VIDEO_SIZE_SMALL_FORMAT</key>
+	<string>Small (%@)</string>
+	<key>VIMEO</key>
+	<string>Vimeo</string>
+</dict>
+</plist>

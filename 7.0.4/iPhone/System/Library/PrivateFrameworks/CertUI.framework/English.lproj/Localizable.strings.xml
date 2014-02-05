@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT</key>
+	<string>Accept</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CERTIFICATE</key>
+	<string>Certificate</string>
+	<key>CERT_INFO_TITLE</key>
+	<string>Certificate for “%@”</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>DETAILS</key>
+	<string>Details</string>
+	<key>UNTRUSTED_CERT_MESSAGE</key>
+	<string>%@ cannot verify the identity of “%@”. Would you like to continue anyway?</string>
+	<key>UNTRUSTED_CERT_MESSAGE_NO_ACCEPT</key>
+	<string>%@ cannot verify the identity of “%@”.</string>
+	<key>UNTRUSTED_CERT_TITLE</key>
+	<string>Cannot Verify Server Identity</string>
+</dict>
+</plist>

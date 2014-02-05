@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ (%g, %g, %g)</key>
+	<string>%@ (%g, %g, %g)</string>
+	<key>%@ (%g\U00B0, %g\U00B0, %g)</key>
+	<string>%@ (%g°, %g°, %g)</string>
+	<key>%@ (%g\U00B0, %g\U00B0, %gm)</key>
+	<string>%@ (%g°, %g°, %gm)</string>
+	<key>%@ (%gm, %gm, %gm)</key>
+	<string>%@ (%gm, %gm, %gm)</string>
+	<key>Ambisonic W</key>
+	<string>Ambisonic W</string>
+	<key>Ambisonic X</key>
+	<string>Ambisonic X</string>
+	<key>Ambisonic Y</key>
+	<string>Ambisonic Y</string>
+	<key>Ambisonic Z</key>
+	<string>Ambisonic Z</string>
+	<key>Center</key>
+	<string>Center</string>
+	<key>Center Surround</key>
+	<string>Center Surround</string>
+	<key>Center Surround Direct</key>
+	<string>Center Surround Direct</string>
+	<key>Channel</key>
+	<string>Channel</string>
+	<key>Channels</key>
+	<string>Channels</string>
+	<key>Click Track</key>
+	<string>Click Track</string>
+	<key>Dialog Centric Mix</key>
+	<string>Dialog Centric Mix</string>
+	<key>Discrete</key>
+	<string>Discrete</string>
+	<key>Foreign Language</key>
+	<string>Foreign Language</string>
+	<key>Haptic</key>
+	<string>Haptic</string>
+	<key>Headphones Left</key>
+	<string>Headphones Left</string>
+	<key>Headphones Right</key>
+	<string>Headphones Right</string>
+	<key>Hearing Impaired</key>
+	<string>Hearing Impaired</string>
+	<key>LFE Screen</key>
+	<string>LFE Screen</string>
+	<key>LFE2</key>
+	<string>LFE2</string>
+	<key>Left</key>
+	<string>Left</string>
+	<key>Left Center</key>
+	<string>Left Center</string>
+	<key>Left Surround</key>
+	<string>Left Surround</string>
+	<key>Left Surround Direct</key>
+	<string>Left Surround Direct</string>
+	<key>Left Total</key>
+	<string>Left Total</string>
+	<key>Left Wide</key>
+	<string>Left Wide</string>
+	<key>Mid</key>
+	<string>Mid</string>
+	<key>Mono</key>
+	<string>Mono</string>
+	<key>Narration</key>
+	<string>Narration</string>
+	<key>Rear Surround Left</key>
+	<string>Rear Surround Left</string>
+	<key>Rear Surround Right</key>
+	<string>Rear Surround Right</string>
+	<key>Right</key>
+	<string>Right</string>
+	<key>Right Center</key>
+	<string>Right Center</string>
+	<key>Right Surround</key>
+	<string>Right Surround</string>
+	<key>Right Surround Direct</key>
+	<string>Right Surround Direct</string>
+	<key>Right Total</key>
+	<string>Right Total</string>
+	<key>Right Wide</key>
+	<string>Right Wide</string>
+	<key>Side</key>
+	<string>Side</string>
+	<key>Top Back Center</key>
+	<string>Top Back Center</string>
+	<key>Top Back Left</key>
+	<string>Top Back Left</string>
+	<key>Top Back Right</key>
+	<string>Top Back Right</string>
+	<key>Top Center Surround</key>
+	<string>Top Center Surround</string>
+	<key>Unknown</key>
+	<string>Unknown</string>
+	<key>Unused</key>
+	<string>Unused</string>
+	<key>Vertical Height Center</key>
+	<string>Vertical Height Center</string>
+	<key>Vertical Height Left</key>
+	<string>Vertical Height Left</string>
+	<key>Vertical Height Right</key>
+	<string>Vertical Height Right</string>
+	<key>X</key>
+	<string>X</string>
+	<key>Y</key>
+	<string>Y</string>
+</dict>
+</plist>

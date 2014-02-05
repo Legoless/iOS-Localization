@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CALL_FAILED</key>
+	<string>Call Failed</string>
+	<key>kCTErrorCallBarred</key>
+	<string>Call Barred</string>
+	<key>kCTErrorCallRejected</key>
+	<string>Call Rejected</string>
+	<key>kCTErrorInvalidNumberFormat</key>
+	<string>Invalid Number Format</string>
+	<key>kCTErrorNoUserResponding</key>
+	<string>No User Responding</string>
+	<key>kCTErrorNumberChanged</key>
+	<string>Number Changed</string>
+	<key>kCTErrorOperatorDeterminedBarring</key>
+	<string>Operator Determined Barring</string>
+	<key>kCTErrorRadioFailure</key>
+	<string>Radio Failure</string>
+	<key>kCTErrorUnassignedNumber</key>
+	<string>Unassigned Number</string>
+	<key>kCTErrorUserBusy</key>
+	<string>User Busy</string>
+	<key>kCTNoError</key>
+	<string>No Error</string>
+	<key>kCTUnknownError</key>
+	<string>Unknown Error</string>
+</dict>
+</plist>

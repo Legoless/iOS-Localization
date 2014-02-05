@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2010 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.mdv.65536</key>
+	<string>Router</string>
+	<key>com.apple.scrod.braille.driver.mdv.65539</key>
+	<string>Status Router</string>
+	<key>com.apple.scrod.braille.driver.mdv.65793</key>
+	<string>F1</string>
+	<key>com.apple.scrod.braille.driver.mdv.66049</key>
+	<string>F2</string>
+	<key>com.apple.scrod.braille.driver.mdv.66305</key>
+	<string>F3</string>
+	<key>com.apple.scrod.braille.driver.mdv.66561</key>
+	<string>F4</string>
+	<key>com.apple.scrod.braille.driver.mdv.66817</key>
+	<string>F5</string>
+	<key>com.apple.scrod.braille.driver.mdv.67073</key>
+	<string>F6</string>
+	<key>com.apple.scrod.braille.driver.mdv.67329</key>
+	<string>F7</string>
+	<key>com.apple.scrod.braille.driver.mdv.67585</key>
+	<string>F8</string>
+	<key>com.apple.scrod.braille.driver.mdv.67841</key>
+	<string>F9</string>
+	<key>com.apple.scrod.braille.driver.mdv.68097</key>
+	<string>F0</string>
+	<key>com.apple.scrod.braille.driver.mdv.68353</key>
+	<string>Left</string>
+	<key>com.apple.scrod.braille.driver.mdv.68609</key>
+	<string>Up</string>
+	<key>com.apple.scrod.braille.driver.mdv.68865</key>
+	<string>Right</string>
+	<key>com.apple.scrod.braille.driver.mdv.69121</key>
+	<string>Down</string>
+	<key>com.apple.scrod.braille.driver.mdv.81665</key>
+	<string>Shift</string>
+	<key>com.apple.scrod.braille.driver.mdv.mb408l.40</key>
+	<string>MDV MB408L</string>
+</dict>
+</plist>

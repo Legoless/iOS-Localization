@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATTENDEE_LIST_THREE_OR_MORE_END_FORMAT</key>
+	<string>%@ and %@</string>
+	<key>ATTENDEE_LIST_THREE_OR_MORE_MIDDLE_FORMAT</key>
+	<string>%@, %@</string>
+	<key>ATTENDEE_LIST_THREE_OR_MORE_START_FORMAT</key>
+	<string>%@, %@</string>
+	<key>ATTENDEE_LIST_TWO_ITEM_FORMAT</key>
+	<string>%@ and %@</string>
+	<key>CALENDAR</key>
+	<string>Calendar</string>
+	<key>TITLE_WITH_PARTICIPANT</key>
+	<string>%1$@ with %2$@</string>
+	<key>WEEKDAY_MONTH_FORMAT</key>
+	<string>%@, %@</string>
+</dict>
+</plist>

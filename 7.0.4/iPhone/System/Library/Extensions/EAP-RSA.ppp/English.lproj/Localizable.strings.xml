@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A new PIN is required! Please enter your new PIN containing %d to %d characters.</key>
+	<string>A new PIN is required! Please enter your new PIN containing %d to %d characters.</string>
+	<key>A new PIN is required! Please enter your new PIN containing %d to %d digits.</key>
+	<string>A new PIN is required! Please enter your new PIN containing %d to %d digits.</string>
+	<key>A new PIN is required! Please enter your new PIN.</key>
+	<string>A new PIN is required! Please enter your new PIN.</string>
+	<key>A new PIN is required! Your new PIN will be displayed for 10 seconds.</key>
+	<string>A new PIN is required! Your new PIN will be displayed for 10 seconds.</string>
+	<key>Authentication denied.</key>
+	<string>Authentication denied.</string>
+	<key>Authentication successful!</key>
+	<string>Authentication successful!</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Confirm:</key>
+	<string>Confirm:</string>
+	<key>Next Tokencode:</key>
+	<string>Next Tokencode:</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSCODE:</key>
+	<string>PASSCODE:</string>
+	<key>PIN:</key>
+	<string>PIN:</string>
+	<key>Please enter a new PIN.</key>
+	<string>Please enter a new PIN.</string>
+	<key>Please enter the next code displayed by your token.</key>
+	<string>Please enter the next code displayed by your token.</string>
+	<key>Please enter your identification.</key>
+	<string>Please enter your identification.</string>
+	<key>Please enter your passcode.</key>
+	<string>Please enter your passcode.</string>
+	<key>RSA SecurID Authentication</key>
+	<string>RSA SecurID Authentication</string>
+	<key>The PIN you entered is invalid.</key>
+	<string>The PIN you entered is invalid.</string>
+	<key>User Name:</key>
+	<string>User Name:</string>
+</dict>
+</plist>

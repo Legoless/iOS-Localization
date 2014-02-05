@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANNOT_REUSE_PASSCODE</key>
+	<string>Enter a different passcode. Cannot re-use the same passcode.</string>
+	<key>CHANGE_PASSCODE</key>
+	<string>Change Passcode</string>
+	<key>CONFIRMATION_FAILURE</key>
+	<string>Passcodes did not match. Try again.</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>FAILURE</key>
+	<string>%@ Failed Passcode Attempt</string>
+	<key>FAILURES</key>
+	<string>%@ Failed Passcode Attempts</string>
+	<key>MULTIPLE_MINUTES_TO_UNBLOCK</key>
+	<string>Try again in %@ minutes</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OK_LAST_STEP</key>
+	<string>Save</string>
+	<key>ONE_MINUTE_TO_UNBLOCK</key>
+	<string>Try again in %@ minute</string>
+	<key>PASSCODE_OFF</key>
+	<string>Turn Passcode Off</string>
+	<key>PASSCODE_ON</key>
+	<string>Turn Passcode On</string>
+	<key>PASSCODE_REQ</key>
+	<string>Require Passcode</string>
+	<key>PMCHANGE</key>
+	<string>Change Passcode</string>
+	<key>PMCHANGE_1_PROMPT</key>
+	<string>Enter your old passcode</string>
+	<key>PMCHANGE_2_PROMPT</key>
+	<string>Enter your new passcode</string>
+	<key>PMCHANGE_3_PROMPT</key>
+	<string>Re-enter your new passcode</string>
+	<key>PMENTER</key>
+	<string>Enter Passcode</string>
+	<key>PMENTER_1_PROMPT</key>
+	<string>Enter your passcode</string>
+	<key>PMREMOVE</key>
+	<string>Turn off Passcode</string>
+	<key>PMREMOVE_1_PROMPT</key>
+	<string>Enter your passcode</string>
+	<key>PMSET</key>
+	<string>Set Passcode</string>
+	<key>PMSET_1_PROMPT</key>
+	<string>Enter a passcode</string>
+	<key>PMSET_2_PROMPT</key>
+	<string>Re-enter your passcode</string>
+	<key>Passcode Lock</key>
+	<string>Passcode Lock</string>
+	<key>SMS_PREVIEW</key>
+	<string>Show SMS Preview</string>
+	<key>UNACCEPTABLE_PIN_1</key>
+	<string>Unacceptable Passcode</string>
+	<key>UNACCEPTABLE_PIN_2</key>
+	<string>Your passcode must be complicated.</string>
+	<key>WRONG_1</key>
+	<string>Wrong passcode</string>
+	<key>WRONG_2</key>
+	<string>Try again</string>
+</dict>
+</plist>

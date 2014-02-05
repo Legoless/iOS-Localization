@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_FORMAT</key>
+	<string>Account: %@</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SIGN_IN_ADDRESS_BOOK_INFO</key>
+	<string>Download your Facebook friends to the Contacts app and keep their information up to date.</string>
+	<key>SIGN_IN_APPS_INFO</key>
+	<string>Enable apps to work with your Facebook account, with your permission.</string>
+	<key>SIGN_IN_CALENDAR_INFO</key>
+	<string>Download your Facebook events to the Calendar app and keep them up to date.</string>
+	<key>SIGN_IN_INFO_FOOTER_PARAGRAPH_ONE</key>
+	<string>In Settings you can disable Contacts and Calendar syncing, and disallow an app on this device from accessing your Facebook account.</string>
+	<key>SIGN_IN_INFO_FOOTER_PARAGRAPH_THREE</key>
+	<string>• Approve or deny the request.
+• Review Facebook's description of what information the app is requesting.
+• Control who can see Facebook posts by the app.</string>
+	<key>SIGN_IN_INFO_FOOTER_PARAGRAPH_TWO</key>
+	<string>In addition, when each app asks for permission to use your account, you can:</string>
+	<key>SIGN_IN_INFO_HEADER</key>
+	<string>Signing into Facebook will:</string>
+	<key>SIGN_IN_PHOTOS_INFO</key>
+	<string>Allow you to post status updates, photos, and other content to Facebook.</string>
+	<key>VERIFICATION_FAILED</key>
+	<string>Verification Failed</string>
+	<key>VERIFIED</key>
+	<string>Verified</string>
+	<key>VERIFYING</key>
+	<string>Verifying</string>
+</dict>
+</plist>

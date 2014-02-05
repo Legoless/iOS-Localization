@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ (%d hours)</key>
+	<string>%@ (%d Hours)</string>
+	<key>%@ day</key>
+	<string>%@ Day</string>
+	<key>%@ days</key>
+	<string>%@ Days</string>
+	<key>%@ hour</key>
+	<string>%@ Hour</string>
+	<key>%@ hours</key>
+	<string>%@ Hours</string>
+	<key>%@ min</key>
+	<string>%@ Min.</string>
+	<key>%@ minute</key>
+	<string>%@ Minute</string>
+	<key>%@ minutes</key>
+	<string>%@ Minutes</string>
+	<key>%@, %@</key>
+	<string>%@, %@</string>
+	<key>%@, %@, %@</key>
+	<string>%@, %@, %@</string>
+	<key>0 days</key>
+	<string>%@ Days</string>
+	<key>0 hours</key>
+	<string>%@ Hours</string>
+	<key>0 minutes</key>
+	<string>%@ Minutes</string>
+	<key>ACCESSORIES</key>
+	<string>Accessories</string>
+	<key>ACCESSORY</key>
+	<string>Accessory</string>
+	<key>AIRPLANE_MODE_PHONE</key>
+	<string>Airplane Mode</string>
+	<key>APPLICATIONS</key>
+	<string>Applications</string>
+	<key>Apps</key>
+	<string>Apps</string>
+	<key>BTMACAddress</key>
+	<string>Bluetooth</string>
+	<key>CARRIER_VERSION</key>
+	<string>Carrier</string>
+	<key>CARRIER_VERSION_FORMAT</key>
+	<string>%@ %@</string>
+	<key>CONNECT</key>
+	<string>Connect</string>
+	<key>CellularDataAddress</key>
+	<string>Cellular Data Number</string>
+	<key>DATE</key>
+	<string>Date</string>
+	<key>DAYS_LONG</key>
+	<string>Days</string>
+	<key>DISCONNECT</key>
+	<string>Disconnect</string>
+	<key>ERASING</key>
+	<string>Erasing</string>
+	<key>FIND_APP_FOR_ACCESSORY</key>
+	<string>Find App for Accessory</string>
+	<key>FIRMWAREREVISION</key>
+	<string>Firmware Version</string>
+	<key>FromIPhoto</key>
+	<string>From iPhoto</string>
+	<key>General</key>
+	<string>General</string>
+	<key>HARDWAREREVISION</key>
+	<string>Hardware Version</string>
+	<key>HOUR</key>
+	<string>hour</string>
+	<key>HOURS</key>
+	<string>hours</string>
+	<key>HOURS_LONG</key>
+	<string>Hours</string>
+	<key>ICCID</key>
+	<string>ICCID</string>
+	<key>LEGAL</key>
+	<string>Legal Notices</string>
+	<key>LEGAL_AND_REGULATORY</key>
+	<string>Legal</string>
+	<key>LICENSE</key>
+	<string>License</string>
+	<key>LINE</key>
+	<string>Line</string>
+	<key>LOADING</key>
+	<string>Loading…</string>
+	<key>LOADING_APPLICATIONS</key>
+	<string>Loading Applications…</string>
+	<key>MACAddress</key>
+	<string>Wi-Fi Address</string>
+	<key>MACAddress_WLAN</key>
+	<string>WLAN Address</string>
+	<key>MANUFACTURER</key>
+	<string>Manufacturer</string>
+	<key>MINUTE</key>
+	<string>minute</string>
+	<key>MINUTES</key>
+	<string>minutes</string>
+	<key>MINUTES_LONG</key>
+	<string>Minutes</string>
+	<key>MODELNUMBER</key>
+	<string>Model Number</string>
+	<key>ModemIMEI</key>
+	<string>IMEI</string>
+	<key>ModemVersion</key>
+	<string>Modem Firmware</string>
+	<key>N/A</key>
+	<string>N/A</string>
+	<key>NETWORK</key>
+	<string>Network</string>
+	<key>NO</key>
+	<string>No</string>
+	<key>NO_NETWORK</key>
+	<string>Not Available</string>
+	<key>NO_SIM</key>
+	<string>No SIM</string>
+	<key>NowPlaying</key>
+	<string>Now Playing</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>On</key>
+	<string>On</string>
+	<key>PHOTOS</key>
+	<string>Photos</string>
+	<key>PROBLEM_REPORTING</key>
+	<string>Diagnostics &amp; Usage</string>
+	<key>Phone</key>
+	<string>Phone</string>
+	<key>ProductBuildVersion</key>
+	<string>Build</string>
+	<key>ProductCopyright</key>
+	<string>©</string>
+	<key>ProductModel</key>
+	<string>Model</string>
+	<key>ProductName</key>
+	<string>Product</string>
+	<key>ProductVersion</key>
+	<string>Version</string>
+	<key>REGISTRATION_CAUSE_CODE_2</key>
+	<string>SIM not provisioned.</string>
+	<key>REGISTRATION_CAUSE_CODE_3</key>
+	<string>SIM not allowed.</string>
+	<key>REGISTRATION_CAUSE_CODE_6</key>
+	<string>Phone not allowed.</string>
+	<key>REGULATORY</key>
+	<string>Regulatory</string>
+	<key>RESETTING</key>
+	<string>Resetting</string>
+	<key>RF_EXPOSURE</key>
+	<string>RF Exposure</string>
+	<key>SERIALNUMBER</key>
+	<string>Serial Number</string>
+	<key>SET_DATE_TITLE</key>
+	<string>Date &amp; Time</string>
+	<key>SONGS</key>
+	<string>Songs</string>
+	<key>SerialNumber</key>
+	<string>Serial Number</string>
+	<key>TIME</key>
+	<string>Time</string>
+	<key>TRUST_STORE</key>
+	<string>Trust Store</string>
+	<key>Text Messages</key>
+	<string>Text Messages</string>
+	<key>UNKNOWN_NUMBER</key>
+	<string>Unknown</string>
+	<key>User Data Available</key>
+	<string>Available</string>
+	<key>User Data Capacity</key>
+	<string>Capacity</string>
+	<key>VIDEOS</key>
+	<string>Videos</string>
+	<key>WARRANTY</key>
+	<string>Warranty</string>
+	<key>YES</key>
+	<string>Yes</string>
+</dict>
+</plist>

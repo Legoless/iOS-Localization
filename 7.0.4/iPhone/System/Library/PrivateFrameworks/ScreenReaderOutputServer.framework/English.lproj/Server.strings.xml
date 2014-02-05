@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canPanLeft</key>
+	<string>left pannable</string>
+	<key>canPanRight</key>
+	<string>right pannable</string>
+	<key>checked</key>
+	<string>(x)</string>
+	<key>currentAnnouncementUnread</key>
+	<string>current unread</string>
+	<key>noAnnouncements</key>
+	<string>No announcements</string>
+	<key>unchecked</key>
+	<string>( )</string>
+	<key>unreadAnnouncements</key>
+	<string>unread announcements</string>
+</dict>
+</plist>

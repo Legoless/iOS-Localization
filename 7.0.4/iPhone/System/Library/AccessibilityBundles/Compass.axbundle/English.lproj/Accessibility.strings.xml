@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.name</key>
+	<string>Compass</string>
+	<key>compass.usage.hint</key>
+	<string>Hold the device flat for accurate bearings.</string>
+	<key>level.face.up</key>
+	<string>Face-Up Level</string>
+	<key>level.horizontal</key>
+	<string>Horizontal Level</string>
+	<key>level.vertical</key>
+	<string>Vertical Level</string>
+	<key>page.control.format.text</key>
+	<string>%1$@ of %2$@</string>
+	<key>page.title.compass</key>
+	<string>Compass</string>
+	<key>page.title.level</key>
+	<string>Level</string>
+</dict>
+</plist>

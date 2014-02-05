@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>My SoftBank_MYACCOUNTURLTITLE</key>
+	<string>My SoftBank</string>
+	<key>留守番電話 OFF_SERVICE_NAME</key>
+	<string>Voicemail OFF</string>
+	<key>留守番電話 ON_SERVICE_NAME</key>
+	<string>Voicemail ON</string>
+	<key>留守番電話設定（ガイダンスへ接続）_SERVICE_NAME</key>
+	<string>Set up Voicemail</string>
+</dict>
+</plist>

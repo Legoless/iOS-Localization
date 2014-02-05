@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Connection error: internal</key>
+	<string>Connection error: internal</string>
+	<key>Connection error: internal (%08X).</key>
+	<string>Connection error: internal (%08X).</string>
+	<key>Connection error: system (%d).</key>
+	<string>Connection error: system (%d).</string>
+	<key>Connection error: system error</key>
+	<string>Connection error: system error</string>
+	<key>Connection timed out.</key>
+	<string>Connection timed out.</string>
+	<key>Connection to peer already in progress after initially succeeding.</key>
+	<string>Connection to peer already in progress after initially succeeding.</string>
+	<key>Failed while not pending.</key>
+	<string>Failed while not pending.</string>
+	<key>Failed while pending incoming invitation.</key>
+	<string>Failed while pending incoming invitation.</string>
+	<key>Failed while pending outgoing invitation.</key>
+	<string>Failed while pending outgoing invitation.</string>
+	<key>Found in progress after success.</key>
+	<string>Found in progress after success.</string>
+	<key>Incoming invitation timed out.</key>
+	<string>Incoming invitation timed out.</string>
+	<key>Invitation timed out.</key>
+	<string>Invitation timed out.</string>
+	<key>Outgoing invitation timed out before TCP.</key>
+	<string>Outgoing invitation timed out before TCP.</string>
+	<key>Outgoing invitation timed out.</key>
+	<string>Outgoing invitation timed out.</string>
+	<key>Remote cancelled.</key>
+	<string>Remote cancelled.</string>
+	<key>Remote declined.</key>
+	<string>Remote declined.</string>
+	<key>The invited peer has cancelled the connection.</key>
+	<string>The invited peer has cancelled the connection.</string>
+	<key>The invited peer has declined the connection.</key>
+	<string>The invited peer has declined the connection.</string>
+	<key>Unknown connection timed out.</key>
+	<string>Unknown connection timed out.</string>
+	<key>Unknown disconnect.</key>
+	<string>Unknown disconnect.</string>
+</dict>
+</plist>

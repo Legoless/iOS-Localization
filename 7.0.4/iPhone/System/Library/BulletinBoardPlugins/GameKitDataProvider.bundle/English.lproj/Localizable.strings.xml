@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FRIENDS</key>
+	<string>Friends</string>
+	<key>GAMES</key>
+	<string>Games</string>
+	<key>PLAY</key>
+	<string>play</string>
+	<key>SLIDE_TO_PLAY</key>
+	<string>slide to play</string>
+	<key>SLIDE_TO_VIEW</key>
+	<string>slide to view</string>
+	<key>VIEW</key>
+	<string>view</string>
+</dict>
+</plist>

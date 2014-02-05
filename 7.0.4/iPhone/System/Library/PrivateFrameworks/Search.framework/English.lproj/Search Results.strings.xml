@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DOMAIN_APPLICATION</key>
+	<string>Applications</string>
+	<key>DOMAIN_AUDIOBOOK</key>
+	<string>Audiobooks</string>
+	<key>DOMAIN_EVENT</key>
+	<string>Events</string>
+	<key>DOMAIN_MESSAGE</key>
+	<string>Mail</string>
+	<key>DOMAIN_MUSIC</key>
+	<string>Music</string>
+	<key>DOMAIN_NOTE</key>
+	<string>Notes</string>
+	<key>DOMAIN_PERSON</key>
+	<string>Contacts</string>
+	<key>DOMAIN_PODCAST</key>
+	<string>Podcasts</string>
+	<key>DOMAIN_REMINDER</key>
+	<string>Reminders</string>
+	<key>DOMAIN_TOPHITS</key>
+	<string>Top Hits</string>
+	<key>DOMAIN_VIDEO</key>
+	<string>Videos</string>
+	<key>DOMAIN_VOICEMEMO</key>
+	<string>Voice Memos</string>
+	<key>SPOTLIGHT_SEARCH</key>
+	<string>Spotlight Search</string>
+	<key>SPOTLIGHT_SEARCH_TITLE</key>
+	<string>Spotlight Search</string>
+</dict>
+</plist>

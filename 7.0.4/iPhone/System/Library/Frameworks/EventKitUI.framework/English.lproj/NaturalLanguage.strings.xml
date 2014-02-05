@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUSY_DAY_TOMORROW_VARIANT_1</key>
+	<string>It looks like you have a busy day tomorrow.</string>
+	<key>BUSY_DAY_TOMORROW_VARIANT_2</key>
+	<string>It looks busy tomorrow.</string>
+	<key>BUSY_DAY_TOMORROW_VARIANT_3</key>
+	<string>There’s a lot going on tomorrow.</string>
+	<key>CRAZY_BUSY_WITH_INVITATIONS</key>
+	<string>You have accepted %@ meetings at %@.</string>
+	<key>CRZAZY_BUSY</key>
+	<string>You have %@ %@ scheduled for %@.</string>
+	<key>DOUBLE_BOOKED_INVITATIONS</key>
+	<string>You have accepted two meetings at %@.</string>
+	<key>DOUBLE_BOOKED_VARIANT_1</key>
+	<string>You have two %@ scheduled for %@.</string>
+	<key>DOUBLE_BOOKED_VARIANT_2</key>
+	<string>Your calendar is double-booked at %@.</string>
+	<key>EARLY_START_TOMORROW</key>
+	<string>Your day starts early tomorrow.</string>
+	<key>EVENTS_WITHOUT_ATTENDEES</key>
+	<string>items</string>
+	<key>EVENTS_WITH_ATTENDEES</key>
+	<string>meetings</string>
+	<key>EVENT_IS_NOW</key>
+	<string>beginning now</string>
+	<key>EVENT_IS_NOW_BEGINNING_OF_SENTENCE</key>
+	<string>Beginning now</string>
+	<key>EVENT_WITH_MANY_ATTENDEES_FIRST_OF_DAY</key>
+	<string>Your first meeting %@ is with %@ and %@ others%@.</string>
+	<key>EVENT_WITH_MANY_ATTENDEES_NEXT_UP</key>
+	<string>You have a meeting %@ with %@ and %@ others%@.</string>
+	<key>EVENT_WITH_NO_ATTENDEES_FIRST_OF_DAY</key>
+	<string>The first thing on your calendar today is “%@”, %@.</string>
+	<key>EVENT_WITH_NO_ATTENDEES_NEXT_UP</key>
+	<string>“%@” is next up on your calendar, %@.</string>
+	<key>EVENT_WITH_NO_ATTENDEES_PAST</key>
+	<string>“%@” is currently in progress, %@.</string>
+	<key>EVENT_WITH_ONE_ATTENDEE_VARIANT_1</key>
+	<string>You’re scheduled to meet with %@ %@%@.</string>
+	<key>EVENT_WITH_ONE_ATTENDEE_VARIANT_2</key>
+	<string>You are meeting with %@ %@%@.</string>
+	<key>EVENT_WITH_ONE_ATTENDEE_VARIANT_3</key>
+	<string>%@, you are meeting with %@%@.</string>
+	<key>EVENT_WITH_TWO_ATTENDEES_FIRST_OF_DAY</key>
+	<string>Your first meeting %@ is with %@ and %@%@.</string>
+	<key>EVENT_WITH_TWO_ATTENDEES_NEXT_UP</key>
+	<string>You have a meeting %@ with %@ and %@%@.</string>
+	<key>FREE_AFTERNOON</key>
+	<string>Your calendar looks clear in the afternoon.</string>
+	<key>FREE_MORNING</key>
+	<string>Your calendar looks clear in the morning.</string>
+	<key>GENERAL_LOCATION</key>
+	<string> (%@)</string>
+	<key>HAPPY_BIRTHDAY_MESSAGE</key>
+	<string>Happy birthday, %@.</string>
+	<key>MANY_ALL_DAY_EVENTS_FOR_TOMORROW</key>
+	<string>There are %@ all-day events scheduled.</string>
+	<key>MANY_BIRTHDAYS_MESSAGE</key>
+	<string>%@, %@, and %@ others have birthdays today.</string>
+	<key>MANY_BIRTHDAYS_MESSAGE_USER_INCLUDED</key>
+	<string>Happy birthday, %@. %@, %@, and %@ others also have birthdays today.</string>
+	<key>MANY_EVENTS_FOR_TOMORROW</key>
+	<string>There are %@ events scheduled, and the first one starts at %@.</string>
+	<key>MINUTES_AFTER_EVENT</key>
+	<string>that started %@ minutes ago</string>
+	<key>MINUTES_AFTER_EVENT_FOLLOWING_COMMA</key>
+	<string>it started %@ minutes ago</string>
+	<key>MINUTES_AFTER_EVENT_ONE_ATTENDEE</key>
+	<string>that started %@ minutes ago</string>
+	<key>MINUTES_TO_NEXT_EVENT</key>
+	<string>in %@ minutes</string>
+	<key>MINUTES_TO_NEXT_EVENT_BEGINNING_OF_SENTENCE</key>
+	<string>In %@ minutes</string>
+	<key>NO_EVENTS_FOR_TOMORROW</key>
+	<string>You have no events scheduled for tomorrow.</string>
+	<key>ONE_ALL_DAY_EVENT_FOR_TOMORROW</key>
+	<string>There is one all-day event scheduled.</string>
+	<key>ONE_BIRTHDAY_MESSAGE</key>
+	<string>Today is %@’s birthday.</string>
+	<key>ONE_BIRTHDAY_MESSAGE_USER_INCLUDED</key>
+	<string>Happy birthday, %@. Today is also %@’s birthday.</string>
+	<key>ONE_EVENT_FOR_TOMORROW</key>
+	<string>There is one event scheduled for %@.</string>
+	<key>ONE_MINUTE_TO_NEXT_EVENT</key>
+	<string>in one minute</string>
+	<key>ONE_MINUTE_TO_NEXT_EVENT_BEGINNING_OF_SENTENCE</key>
+	<string>In one minute</string>
+	<key>POI_LOCATION</key>
+	<string> at %@</string>
+	<key>ROOM_LOCATION</key>
+	<string> in %@</string>
+	<key>THREE_BIRTHDAYS_MESSAGE</key>
+	<string>%@, %@, and %@ share a birthday today.</string>
+	<key>THREE_BIRTHDAYS_MESSAGE_USER_INCLUDED</key>
+	<string>Happy birthday, %@. %@, %@, and %@ also share a birthday today.</string>
+	<key>TIME_OF_EVENT_THAT_HAS_STARTED_ALREADY</key>
+	<string>at %@</string>
+	<key>TIME_OF_EVENT_THAT_HAS_STARTED_ALREADY_BEGINNING_OF_SENTENCE</key>
+	<string>At %@</string>
+	<key>TIME_OF_EVENT_THAT_HAS_STARTED_ALREADY_SINGULAR</key>
+	<string>at %@</string>
+	<key>TIME_OF_NEXT_EVENT</key>
+	<string>at %@</string>
+	<key>TIME_OF_NEXT_EVENT_BEGINNING_OF_SENTENCE</key>
+	<string>At %@</string>
+	<key>TIME_OF_NEXT_EVENT_BEGINNING_OF_SENTENCE_SINGULAR</key>
+	<string>At %@</string>
+	<key>TIME_OF_NEXT_EVENT_SINGULAR</key>
+	<string>at %@</string>
+	<key>TRIPLE_BOOKED_INVITATIONS</key>
+	<string>You have accepted three meetings at %@.</string>
+	<key>TRIPLE_BOOKED_VARIANT_1</key>
+	<string>You have three %@ scheduled for %@.</string>
+	<key>TRIPLE_BOOKED_VARIANT_2</key>
+	<string>Your calendar is triple-booked at %@.</string>
+	<key>TWO_BIRTHDAYS_MESSAGE</key>
+	<string>Today is %@’s and %@’s birthday.</string>
+	<key>TWO_BIRTHDAYS_MESSAGE_USER_INCLUDED</key>
+	<string>Happy birthday, %@. Today is also %@’s and %@’s birthday.</string>
+</dict>
+</plist>

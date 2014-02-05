@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_EVENT</key>
+	<string>Add Event</string>
+	<key>ADD_EVENT_PROMPT</key>
+	<string>Set the details for this event.</string>
+	<key>ADD_INVITEES_NAV_TITLE</key>
+	<string>Add Invitees</string>
+	<key>ADD_INVITEES_PROMPT</key>
+	<string>Add invitees to this Event.</string>
+	<key>ADD_TO_CALENDAR</key>
+	<string>Add To Calendar</string>
+	<key>ALERT_TIME</key>
+	<string>Alert Time</string>
+	<key>ALL_DAY_SWITCH_TITLE</key>
+	<string>All-day</string>
+	<key>BIWEEKLY_DETAIL</key>
+	<string>Every 2 Weeks</string>
+	<key>CALENDAR_DISAMBIGUATION_FORMAT</key>
+	<string>%@ (%@)</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_DIRTY_ALERT_TITLE</key>
+	<string>This event has been edited.</string>
+	<key>CANCEL_DIRTY_CANCEL</key>
+	<string>Cancel Edit</string>
+	<key>CANCEL_DIRTY_REVIEW</key>
+	<string>Review Edit</string>
+	<key>CANNOT_REPEAT_EVENT</key>
+	<string>Cannot Repeat Event</string>
+	<key>CANNOT_SAVE_EVENT</key>
+	<string>Cannot Save Event</string>
+	<key>DAILY_DETAIL</key>
+	<string>Every Day</string>
+	<key>DATE_DETAIL_NAV_TITLE</key>
+	<string>Start &amp; End</string>
+	<key>DEFAULT_EVENT_TITLE</key>
+	<string>New Event</string>
+	<key>DELETE</key>
+	<string>Delete</string>
+	<key>DELETE_EVENT</key>
+	<string>Delete Event</string>
+	<key>DELETE_FUTURE</key>
+	<string>Delete All Future Events</string>
+	<key>DELETE_ONE</key>
+	<string>Delete This Event Only</string>
+	<key>DELETE_RECURRING_ALERT_TITLE</key>
+	<string>This is a repeating event.</string>
+	<key>DETACH_ALERT_TITLE</key>
+	<string>This is a repeating event.</string>
+	<key>DETACH_ALL</key>
+	<string>Save for all events</string>
+	<key>DETACH_FUTURE</key>
+	<string>Save for future events</string>
+	<key>DETACH_ONE</key>
+	<string>Save for this event only</string>
+	<key>EDIT_EVENT</key>
+	<string>Edit</string>
+	<key>ENDS</key>
+	<string>Ends</string>
+	<key>END_REPEAT</key>
+	<string>End Repeat</string>
+	<key>END_REPEAT_NAV_TITLE</key>
+	<string>End Repeat</string>
+	<key>FLOATING</key>
+	<string>Floating</string>
+	<key>INVALID_ATTENDEE_ADDRESS_ALERT_BODY_FORMAT</key>
+	<string>"%@" does not appear to be a valid email address.</string>
+	<key>INVALID_ATTENDEE_ADDRESS_ALERT_TITLE</key>
+	<string>Cannot Send Invitation</string>
+	<key>LOCATION_PLACEHOLDER</key>
+	<string>Location</string>
+	<key>MONTHLY_DETAIL</key>
+	<string>Every Month</string>
+	<key>NEVER_DETAIL</key>
+	<string>Never</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>RECURRENCE_DETAIL_NAV_TITLE</key>
+	<string>Repeat</string>
+	<key>REPEAT</key>
+	<string>Repeat</string>
+	<key>REPEAT_FOREVER</key>
+	<string>Repeat Forever</string>
+	<key>REPEAT_UNTIL</key>
+	<string>On Date</string>
+	<key>STARTS</key>
+	<string>Starts</string>
+	<key>TIME_ZONE</key>
+	<string>Time Zone</string>
+	<key>TIME_ZONE_CHOOSER_PROMPT</key>
+	<string>Type a city name.</string>
+	<key>TITLE_DETAIL_NAV_TITLE</key>
+	<string>Title &amp; Location</string>
+	<key>TITLE_PLACEHOLDER</key>
+	<string>Title</string>
+	<key>WEEKLY_DETAIL</key>
+	<string>Every Week</string>
+	<key>YEARLY_DETAIL</key>
+	<string>Every Year</string>
+</dict>
+</plist>

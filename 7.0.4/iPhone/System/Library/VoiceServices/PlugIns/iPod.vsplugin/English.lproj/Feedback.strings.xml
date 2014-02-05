@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ENABLING_SHUFFLE</key>
+	<string>shuffle on</string>
+	<key>GENIUS</key>
+	<string>playing genius playlist</string>
+	<key>GENIUS_NOT_AVAILABLE</key>
+	<string>genius not available</string>
+	<key>GENIUS_TITLE_ARTIST_SPOKEN_FORMAT</key>
+	<string>playing genius playlist based on %@ by %@</string>
+	<key>GENIUS_TITLE_SPOKEN_FORMAT</key>
+	<string>playing genius playlist based on %@</string>
+	<key>IDENTIFY_SONG_TITLE_AND_ARTIST</key>
+	<string>now playing %@ by %@</string>
+	<key>MUSIC_ALREADY_PLAYING</key>
+	<string>Music is already playing.</string>
+	<key>NO_MUSIC</key>
+	<string>No music.</string>
+	<key>NO_MUSIC_PLAYING</key>
+	<string>No music is playing.</string>
+	<key>SELECT_ALBUM_ARTIST_SPOKEN_FORMAT</key>
+	<string>playing album %@ by %@</string>
+	<key>SELECT_ALBUM_SPOKEN_FORMAT</key>
+	<string>playing album %@</string>
+	<key>SELECT_ARTIST_SPOKEN_FORMAT</key>
+	<string>playing songs by %@</string>
+	<key>SELECT_PLAYLIST_SPOKEN_FORMAT</key>
+	<string>playing playlist %@</string>
+	<key>START_PLAYING_MUSIC_CONFIRMATION</key>
+	<string>No music is playing.  Do you want to play music now?</string>
+	<key>UNKNOWN_ARTIST</key>
+	<string>unknown artist</string>
+	<key>UNKNOWN_TITLE</key>
+	<string>untitled song</string>
+</dict>
+</plist>

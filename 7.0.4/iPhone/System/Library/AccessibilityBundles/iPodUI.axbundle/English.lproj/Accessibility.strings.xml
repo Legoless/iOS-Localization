@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add.button</key>
+	<string>Add</string>
+	<key>add.playlistbutton</key>
+	<string>Add playlist</string>
+	<key>album.artist.cell.format</key>
+	<string>%1$@: %2$@</string>
+	<key>album.artwork</key>
+	<string>Album art</string>
+	<key>album.artwork.hide.controls.hint.ipad</key>
+	<string>Double tap to hide controls</string>
+	<key>album.artwork.hide.controls.hint.iphone</key>
+	<string>Double tap to hide additional controls</string>
+	<key>album.artwork.show.controls.hint.ipad</key>
+	<string>Double tap to show controls</string>
+	<key>album.artwork.show.controls.hint.iphone</key>
+	<string>Double tap to show additional controls</string>
+	<key>back.button</key>
+	<string>Back</string>
+	<key>begin.genius.playback.hint</key>
+	<string>Double tap to begin playlist playback</string>
+	<key>button.nowplaying.text</key>
+	<string>Now playing</string>
+	<key>cover.flow.item.hint</key>
+	<string>Swipe left or right with three fingers to view more</string>
+	<key>coverflow.button</key>
+	<string>Coverflow mode</string>
+	<key>coverflow.hint</key>
+	<string>Shows the tracks</string>
+	<key>coverflow.page.summary</key>
+	<string>Showing cover %1$@ of %2$@</string>
+	<key>download.more</key>
+	<string>Download more content from iTunes</string>
+	<key>duration</key>
+	<string>Duration: </string>
+	<key>flipper.button.now.playing</key>
+	<string>Play view</string>
+	<key>flipper.button.track.list</key>
+	<string>Album tracks</string>
+	<key>genius.button</key>
+	<string>Genius</string>
+	<key>genius.icon</key>
+	<string>Genius track</string>
+	<key>grid.view.button</key>
+	<string>Grid mode</string>
+	<key>icloud.item</key>
+	<string>On iCloud</string>
+	<key>media.airdate</key>
+	<string>Original air date</string>
+	<key>media.duration</key>
+	<string>Duration</string>
+	<key>media.type.movie</key>
+	<string>Movie</string>
+	<key>media.type.music.video</key>
+	<string>Music video</string>
+	<key>media.type.tvshow</key>
+	<string>TV Show</string>
+	<key>media.type.video.podcast</key>
+	<string>Video podcast</string>
+	<key>now.playing.table.cell.format</key>
+	<string>Track %1$@, %2$@, %3$@</string>
+	<key>partiallyPlayed.icon</key>
+	<string>Partially played</string>
+	<key>partiallyplayedContents.icon</key>
+	<string>Contains partially played items</string>
+	<key>pause.button</key>
+	<string>Pause</string>
+	<key>play.button</key>
+	<string>Play</string>
+	<key>playing.icon</key>
+	<string>Currently playing</string>
+	<key>progress.circle.view</key>
+	<string>Progress</string>
+	<key>purchase.album.button</key>
+	<string>Purchase album in iTunes</string>
+	<key>purchase.soundtrack.button</key>
+	<string>Purchase soundtrack in iTunes</string>
+	<key>rewind.30.button</key>
+	<string>Rewind 30 seconds</string>
+	<key>sharing.button</key>
+	<string>Home Sharing</string>
+	<key>shuffle.button</key>
+	<string>Shuffle</string>
+	<key>source.list</key>
+	<string>Library</string>
+	<key>starRating.label</key>
+	<string>Rating</string>
+	<key>tracklist.button</key>
+	<string>Track list</string>
+	<key>unplayed.icon</key>
+	<string>Unplayed</string>
+	<key>unplayedContents.icon</key>
+	<string>Contains unplayed items</string>
+	<key>updating.icloud</key>
+	<string>Loading music from iCloud…</string>
+	<key>video.item</key>
+	<string>Video</string>
+</dict>
+</plist>

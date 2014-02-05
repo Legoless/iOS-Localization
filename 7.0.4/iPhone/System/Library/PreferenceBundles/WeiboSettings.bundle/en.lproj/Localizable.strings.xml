@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNTS</key>
+	<string>Accounts</string>
+	<key>ACCOUNTS_REGISTERED</key>
+	<string>So far you have registered %d.</string>
+	<key>ACCOUNT_ALREADY_EXISTS_IPAD</key>
+	<string>This Sina Weibo account has already been added to your iPad.</string>
+	<key>ACCOUNT_ALREADY_EXISTS_IPHONE</key>
+	<string>This Sina Weibo account has already been added to your iPhone.</string>
+	<key>ACCOUNT_ALREADY_EXISTS_IPOD</key>
+	<string>This Sina Weibo account has already been added to your iPod touch.</string>
+	<key>ACCOUNT_ALREADY_EXISTS_TITLE</key>
+	<string>“%1$@” is Already Added</string>
+	<key>ACCOUNT_CREATION_ERROR_FORMAT_EMAIL</key>
+	<string>This email is invalid.</string>
+	<key>ACCOUNT_CREATION_ERROR_GENERIC</key>
+	<string>There was an error creating the account.</string>
+	<key>ACCOUNT_CREATION_ERROR_INVALID_PASSWORD</key>
+	<string>Your password must contain only numbers, letters, and punctuation.</string>
+	<key>ACCOUNT_CREATION_ERROR_LENGTH_PASSWORD</key>
+	<string>Your password must be between 6 and 16 characters in length.</string>
+	<key>ACCOUNT_CREATION_ERROR_LENGTH_SCREEN_NAME</key>
+	<string>Your nickname must be 4 to 30 characters in length.</string>
+	<key>ACCOUNT_CREATION_ERROR_UNIQUENESS_EMAIL</key>
+	<string>This email is already in use.</string>
+	<key>ACCOUNT_CREATION_ERROR_UNIQUENESS_SCREEN_NAME</key>
+	<string>This nickname is already in use or contains invalid characters.</string>
+	<key>ACCOUNT_ID</key>
+	<string>Sina Weibo ID</string>
+	<key>ACCOUNT_INFO</key>
+	<string>Account</string>
+	<key>ACCOUNT_SCREENNAME</key>
+	<string>Nickname</string>
+	<key>ACTIVATE_WEIBO_MESSAGE</key>
+	<string>You will receive an activation email shortly. Your account must be activated within 30 days.</string>
+	<key>ACTIVATE_WEIBO_TITLE</key>
+	<string>Activation Required</string>
+	<key>ADD_ACCOUNT</key>
+	<string>Add Account</string>
+	<key>ADD_EXISTING_ACCOUNT</key>
+	<string>Add Account…</string>
+	<key>ALLOW</key>
+	<string>Allow These Apps to Use Your Account</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANCEL_UPDATE</key>
+	<string>Cancel Update</string>
+	<key>CREATED</key>
+	<string>Created Account</string>
+	<key>CREATE_NEW_ACCOUNT</key>
+	<string>Create New Account</string>
+	<key>CREATING</key>
+	<string>Creating Account</string>
+	<key>DELETE_ACCOUNT</key>
+	<string>Delete Account</string>
+	<key>DELETE_ACCOUNT_BUTTON_IPAD</key>
+	<string>Delete</string>
+	<key>DELETE_ACCOUNT_BUTTON_IPHONE</key>
+	<string>Delete Account</string>
+	<key>DELETE_WEIBO_ACCOUNT_MESSAGE_IPAD</key>
+	<string>Do you want to delete this Sina Weibo account from your iPad?</string>
+	<key>DELETE_WEIBO_ACCOUNT_MESSAGE_IPHONE</key>
+	<string>Do you want to delete this Sina Weibo account from your iPhone?</string>
+	<key>DELETE_WEIBO_ACCOUNT_MESSAGE_IPOD</key>
+	<string>Do you want to delete this Sina Weibo account from your iPod touch?</string>
+	<key>DISPLAYNAME</key>
+	<string>Description</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>DOWNLOAD_WEIBO_MESSAGE</key>
+	<string>Would you like to install the free Sina Weibo app?</string>
+	<key>DOWNLOAD_WEIBO_TITLE</key>
+	<string>Install Sina Weibo</string>
+	<key>EMAIL_EXAMPLE</key>
+	<string>name@example.com</string>
+	<key>EXAMPLE_DISPLAYNAME</key>
+	<string>Sina Weibo</string>
+	<key>FEMALE</key>
+	<string>Female</string>
+	<key>FULL_NAME_FORMAT</key>
+	<string>%1$@ %2$@</string>
+	<key>GENDER</key>
+	<string>Gender</string>
+	<key>GENDER_DISCLOSURE</key>
+	<string>This information is being collected on behalf of Sina Weibo.</string>
+	<key>GENERIC_ERROR</key>
+	<string>There was an error creating the account</string>
+	<key>INSTALL</key>
+	<string>Install</string>
+	<key>INVALID_EMAIL_MESSAGE</key>
+	<string>Please enter a valid email address.</string>
+	<key>INVALID_EMAIL_TITLE</key>
+	<string>Invalid Email Address</string>
+	<key>INVALID_SCREENNAME_MESSAGE</key>
+	<string>Your nickname must contain only letters and numbers.</string>
+	<key>INVALID_SCREENNAME_TITLE</key>
+	<string>Invalid Nickname</string>
+	<key>LATER</key>
+	<string>Later</string>
+	<key>LEARN_MORE_LINK</key>
+	<string>Learn More about Sina Weibo</string>
+	<key>LEGAL_FOOTER_TERMS_OF_SERVICE</key>
+	<string></string>
+	<key>LEGAL_FOOTER_TERMS_OF_SERVICE_LINK</key>
+	<string>http://corp.sina.com.cn/eng/sina_item_eng.htm</string>
+	<key>LEGAL_FOOTER_TEXT</key>
+	<string>By tapping ‘Sign Up’ above, you are agreeing to the Sina Weibo Terms of Service.</string>
+	<key>LEGAL_FOOTER_VIEW_TERMS_OF_SERVICE</key>
+	<string>View the Terms of Service</string>
+	<key>LOCATION_DISCLAIMER</key>
+	<string>You can include your approximate location in individual weibos.</string>
+	<key>LOCATION_TITLE</key>
+	<string>Location Tagging</string>
+	<key>MALE</key>
+	<string>Male</string>
+	<key>MAX_ACCOUNT_REGISTRATIONS_IPAD</key>
+	<string>You may register up to 3 new accounts from your iPad. </string>
+	<key>MAX_ACCOUNT_REGISTRATIONS_IPHONE</key>
+	<string>You may register up to 3 new accounts from your iPhone. </string>
+	<key>MAX_ACCOUNT_REGISTRATIONS_IPOD</key>
+	<string>You may register up to 3 new accounts from your iPod touch. </string>
+	<key>NEW_ACCOUNT</key>
+	<string>New Account</string>
+	<key>NEXT</key>
+	<string>Next</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PASSWORD_LONG_MESSAGE</key>
+	<string>Your password cannot contain more than 16 characters.</string>
+	<key>PASSWORD_LONG_TITLE</key>
+	<string>Password Too Long</string>
+	<key>PASSWORD_MISMATCH_MESSAGE</key>
+	<string>Password verification does not match the password you entered.</string>
+	<key>PASSWORD_MISMATCH_TITLE</key>
+	<string>Password Mismatch</string>
+	<key>PASSWORD_SHORT_MESSAGE</key>
+	<string>Your password must be at least 6 characters.</string>
+	<key>PASSWORD_SHORT_TITLE</key>
+	<string>Password Too Short</string>
+	<key>PASSWORD_SIMPLE_MESSAGE</key>
+	<string>Your password is too weak and may be easily guessed.</string>
+	<key>PASSWORD_SIMPLE_TITLE</key>
+	<string>Password Too Weak</string>
+	<key>REQUIRED</key>
+	<string>Required</string>
+	<key>SCREENNAME_LONG_MESSAGE</key>
+	<string>Your nickname must be less than 30 characters.</string>
+	<key>SCREENNAME_LONG_TITLE</key>
+	<string>Nickname Too Long</string>
+	<key>SERVER_ERROR_TITLE</key>
+	<string>Error Creating Account</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SIGN_IN_ERROR_MESSAGE_GENERIC</key>
+	<string>Could not communicate with the server.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_NO_CONNECTION</key>
+	<string>There is no connection to the internet.</string>
+	<key>SIGN_IN_ERROR_MESSAGE_PASSWORD</key>
+	<string>The user name or password is incorrect.</string>
+	<key>SIGN_IN_ERROR_OK</key>
+	<string>OK</string>
+	<key>SIGN_IN_ERROR_TITLE</key>
+	<string>Error Signing In</string>
+	<key>SIGN_IN_INSTRUCTIONS</key>
+	<string>You may use your phone number or email address to sign in.</string>
+	<key>SIGN_UP</key>
+	<string>Sign Up</string>
+	<key>SIGN_UP_BUTTON</key>
+	<string>Sign Up</string>
+	<key>SINACORP</key>
+	<string>Sina Corp.</string>
+	<key>SINA_WEIBO</key>
+	<string>Sina Weibo</string>
+	<key>UPDATED_CONTACT</key>
+	<string>%@ Contact Updated</string>
+	<key>UPDATED_CONTACTS</key>
+	<string>%@ Contacts Updated</string>
+	<key>UPDATE_CONTACTS</key>
+	<string>Update Contacts</string>
+	<key>UPDATE_CONTACTS_ERROR_MESSAGE_GENERIC</key>
+	<string>Couldn’t connect to Sina Weibo. Try again later.</string>
+	<key>UPDATE_CONTACTS_ERROR_TITLE</key>
+	<string>Couldn’t Update Contacts</string>
+	<key>UPDATE_CONTACTS_EXPLANATION</key>
+	<string>Sina Weibo will use email addresses and phone numbers from your contacts to add Sina Weibo nicknames and photos to your contact cards.</string>
+	<key>UPDATE_ERROR_TITLE</key>
+	<string>“%@”</string>
+	<key>UPDATING_CONTACTS</key>
+	<string>Updating Contacts</string>
+	<key>VERIFY</key>
+	<string>Verify</string>
+	<key>VERIFYING</key>
+	<string>Verifying</string>
+	<key>VERIFY_EXAMPLE</key>
+	<string>Retype password</string>
+	<key>WEIBOAPP</key>
+	<string>Sina Weibo</string>
+	<key>WEIBOINSTALLED</key>
+	<string>INSTALLED</string>
+	<key>WEIBOINSTALLNOW</key>
+	<string>INSTALL</string>
+	<key>WEIBO_ACCOUNT_INFO</key>
+	<string>Sina Weibo Account Information</string>
+	<key>WEIBO_DESCRIPTION</key>
+	<string>Sina Weibo is a simple communication service that uses 140-character messages.</string>
+</dict>
+</plist>

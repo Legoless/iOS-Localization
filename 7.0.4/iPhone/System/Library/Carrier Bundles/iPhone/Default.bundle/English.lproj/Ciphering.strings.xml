@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CIPHERING_BODY</key>
+	<string>The cellular network you are using is not encrypted.  This call can be intercepted by unauthorized listeners.</string>
+	<key>CIPHERING_BUTTON_END_CALLS</key>
+	<string>End Call</string>
+	<key>CIPHERING_BUTTON_IGNORE</key>
+	<string>Ignore</string>
+	<key>CIPHERING_TITLE</key>
+	<string>Unsecured Call</string>
+</dict>
+</plist>

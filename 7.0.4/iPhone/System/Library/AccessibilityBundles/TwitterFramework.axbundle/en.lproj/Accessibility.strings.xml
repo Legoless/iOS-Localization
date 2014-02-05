@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attached.image</key>
+	<string>Preview</string>
+	<key>cancel.add.location</key>
+	<string>Remove location from tweet</string>
+	<key>chars.left.count</key>
+	<string>Characters remaining</string>
+	<key>current.location</key>
+	<string>Current location</string>
+	<key>location.active</key>
+	<string>Location active</string>
+	<key>location.inactive</key>
+	<string>Location inactive</string>
+	<key>mention.sheet.appeared</key>
+	<string>Mention list visible</string>
+	<key>mention.sheet.hint</key>
+	<string>Select a username from the list below.</string>
+	<key>twitter.textfield</key>
+	<string>Tweet</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>album.count</key>
+	<string>%@ items</string>
+	<key>app.name.photos</key>
+	<string>Photos</string>
+	<key>rotate.toolbar.button</key>
+	<string>Rotate</string>
+	<key>select.photo.hint</key>
+	<string>Double tap to select</string>
+</dict>
+</plist>

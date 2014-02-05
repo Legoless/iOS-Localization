@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ Results</key>
+	<string>%@ Results</string>
+	<key>%@ Review</key>
+	<string>%@ Review</string>
+	<key>%@ Reviews</key>
+	<string>%@ Reviews</string>
+	<key>Exactly one km</key>
+	<string>km</string>
+	<key>Exactly one mile</key>
+	<string>mi</string>
+	<key>Less than one km</key>
+	<string>km</string>
+	<key>Less than one mile</key>
+	<string>mi</string>
+	<key>More than one km</key>
+	<string>km</string>
+	<key>More than one mile</key>
+	<string>mi</string>
+	<key>Near %@</key>
+	<string>Near %@</string>
+	<key>Nearby</key>
+	<string>Nearby</string>
+	<key>No Reviews</key>
+	<string>No Reviews</string>
+	<key>Reviews on %@</key>
+	<string>Reviews on %@</string>
+</dict>
+</plist>

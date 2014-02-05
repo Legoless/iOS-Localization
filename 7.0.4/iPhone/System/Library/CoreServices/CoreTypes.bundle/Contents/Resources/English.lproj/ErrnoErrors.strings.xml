@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Address already in use</key>
+	<string>Address already in use</string>
+	<key>Address family not supported by protocol family</key>
+	<string>Address family not supported by protocol family</string>
+	<key>Argument list too long</key>
+	<string>Argument list too long</string>
+	<key>Attribute not found</key>
+	<string>Attribute not found</string>
+	<key>Authentication error</key>
+	<string>Authentication error</string>
+	<key>Bad CPU type in executable</key>
+	<string>Bad CPU type in executable</string>
+	<key>Bad address</key>
+	<string>Bad address</string>
+	<key>Bad executable (or shared library)</key>
+	<string>Bad executable (or shared library)</string>
+	<key>Bad file descriptor</key>
+	<string>Bad file descriptor</string>
+	<key>Bad message</key>
+	<string>Bad message</string>
+	<key>Bad procedure for program</key>
+	<string>Bad procedure for program</string>
+	<key>Block device required</key>
+	<string>Block device required</string>
+	<key>Broken pipe</key>
+	<string>Broken pipe</string>
+	<key>Can't assign requested address</key>
+	<string>Can't assign requested address</string>
+	<key>Can't send after socket shutdown</key>
+	<string>Can't send after socket shutdown</string>
+	<key>Cannot allocate memory</key>
+	<string>Cannot allocate memory</string>
+	<key>Connection refused</key>
+	<string>Connection refused</string>
+	<key>Connection reset by peer</key>
+	<string>Connection reset by peer</string>
+	<key>Cross-device link</key>
+	<string>Cross-device link</string>
+	<key>Destination address required</key>
+	<string>Destination address required</string>
+	<key>Device error</key>
+	<string>Device error</string>
+	<key>Device not configured</key>
+	<string>Device not configured</string>
+	<key>Device power is off</key>
+	<string>Device power is off</string>
+	<key>Directory not empty</key>
+	<string>Directory not empty</string>
+	<key>Disc quota exceeded</key>
+	<string>Disc quota exceeded</string>
+	<key>EMULTIHOP (Reserved)</key>
+	<string>EMULTIHOP (Reserved)</string>
+	<key>ENOLINK (Reserved)</key>
+	<string>ENOLINK (Reserved)</string>
+	<key>Exec format error</key>
+	<string>Exec format error</string>
+	<key>File exists</key>
+	<string>File exists</string>
+	<key>File name too long</key>
+	<string>File name too long</string>
+	<key>File too large</key>
+	<string>File too large</string>
+	<key>Function not implemented</key>
+	<string>Function not implemented</string>
+	<key>Host is down</key>
+	<string>Host is down</string>
+	<key>Identifier removed</key>
+	<string>Identifier removed</string>
+	<key>Illegal byte sequence</key>
+	<string>Illegal byte sequence</string>
+	<key>Illegal seek</key>
+	<string>Illegal seek</string>
+	<key>Inappropriate file type or format</key>
+	<string>Inappropriate file type or format</string>
+	<key>Inappropriate ioctl for device</key>
+	<string>Inappropriate ioctl for device</string>
+	<key>Input/output error</key>
+	<string>Input/output error</string>
+	<key>Interface output queue is full</key>
+	<string>Interface output queue is full</string>
+	<key>Interrupted system call</key>
+	<string>Interrupted system call</string>
+	<key>Invalid argument</key>
+	<string>Invalid argument</string>
+	<key>Is a directory</key>
+	<string>Is a directory</string>
+	<key>Malformed Mach-o file</key>
+	<string>Malformed Mach-o file</string>
+	<key>Message too long</key>
+	<string>Message too long</string>
+	<key>Need authenticator</key>
+	<string>Need authenticator</string>
+	<key>Network dropped connection on reset</key>
+	<string>Network dropped connection on reset</string>
+	<key>Network is down</key>
+	<string>Network is down</string>
+	<key>Network is unreachable</key>
+	<string>Network is unreachable</string>
+	<key>No STREAM resources</key>
+	<string>No STREAM resources</string>
+	<key>No buffer space available</key>
+	<string>No buffer space available</string>
+	<key>No child processes</key>
+	<string>No child processes</string>
+	<key>No locks available</key>
+	<string>No locks available</string>
+	<key>No message available on STREAM</key>
+	<string>No message available on STREAM</string>
+	<key>No message of desired type</key>
+	<string>No message of desired type</string>
+	<key>No route to host</key>
+	<string>No route to host</string>
+	<key>No space left on device</key>
+	<string>No space left on device</string>
+	<key>No such file or directory</key>
+	<string>No such file or directory</string>
+	<key>No such process</key>
+	<string>No such process</string>
+	<key>Not a STREAM</key>
+	<string>Not a STREAM</string>
+	<key>Not a directory</key>
+	<string>Not a directory</string>
+	<key>Numerical argument out of domain</key>
+	<string>Numerical argument out of domain</string>
+	<key>Operation already in progress</key>
+	<string>Operation already in progress</string>
+	<key>Operation canceled</key>
+	<string>Operation canceled</string>
+	<key>Operation not permitted</key>
+	<string>Operation not permitted</string>
+	<key>Operation not supported</key>
+	<string>Operation not supported</string>
+	<key>Operation not supported by device</key>
+	<string>Operation not supported by device</string>
+	<key>Operation not supported on socket</key>
+	<string>Operation not supported on socket</string>
+	<key>Operation now in progress</key>
+	<string>Operation now in progress</string>
+	<key>Operation timed out</key>
+	<string>Operation timed out</string>
+	<key>Permission denied</key>
+	<string>Permission denied</string>
+	<key>Policy not found</key>
+	<string>Policy not found</string>
+	<key>Previous owner died</key>
+	<string>Previous owner died</string>
+	<key>Program version wrong</key>
+	<string>Program version wrong</string>
+	<key>Protocol error</key>
+	<string>Protocol error</string>
+	<key>Protocol family not supported</key>
+	<string>Protocol family not supported</string>
+	<key>Protocol not available</key>
+	<string>Protocol not available</string>
+	<key>Protocol not supported</key>
+	<string>Protocol not supported</string>
+	<key>Protocol wrong type for socket</key>
+	<string>Protocol wrong type for socket</string>
+	<key>RPC prog. not avail</key>
+	<string>RPC prog. not avail</string>
+	<key>RPC struct is bad</key>
+	<string>RPC struct is bad</string>
+	<key>RPC version wrong</key>
+	<string>RPC version wrong</string>
+	<key>Read-only file system</key>
+	<string>Read-only file system</string>
+	<key>Resource busy</key>
+	<string>Resource busy</string>
+	<key>Resource deadlock avoided</key>
+	<string>Resource deadlock avoided</string>
+	<key>Resource temporarily unavailable</key>
+	<string>Resource temporarily unavailable</string>
+	<key>Result too large</key>
+	<string>Result too large</string>
+	<key>STREAM ioctl timeout</key>
+	<string>STREAM ioctl timeout</string>
+	<key>Shared library version mismatch</key>
+	<string>Shared library version mismatch</string>
+	<key>Socket is already connected</key>
+	<string>Socket is already connected</string>
+	<key>Socket is not connected</key>
+	<string>Socket is not connected</string>
+	<key>Socket operation on non-socket</key>
+	<string>Socket operation on non-socket</string>
+	<key>Socket type not supported</key>
+	<string>Socket type not supported</string>
+	<key>Software caused connection abort</key>
+	<string>Software caused connection abort</string>
+	<key>Stale NFS file handle</key>
+	<string>Stale NFS file handle</string>
+	<key>State not recoverable</key>
+	<string>State not recoverable</string>
+	<key>Text file busy</key>
+	<string>Text file busy</string>
+	<key>Too many levels of remote in path</key>
+	<string>Too many levels of remote in path</string>
+	<key>Too many levels of symbolic links</key>
+	<string>Too many levels of symbolic links</string>
+	<key>Too many links</key>
+	<string>Too many links</string>
+	<key>Too many open files</key>
+	<string>Too many open files</string>
+	<key>Too many open files in system</key>
+	<string>Too many open files in system</string>
+	<key>Too many processes</key>
+	<string>Too many processes</string>
+	<key>Too many references: can't splice</key>
+	<string>Too many references: can't splice</string>
+	<key>Too many users</key>
+	<string>Too many users</string>
+	<key>Undefined error: 0</key>
+	<string>Undefined error: 0</string>
+	<key>Value too large to be stored in data type</key>
+	<string>Value too large to be stored in data type</string>
+	<key>error %1$#x</key>
+	<string>error %1$#x</string>
+	<key>error %1$d</key>
+	<string>error %1$d</string>
+</dict>
+</plist>

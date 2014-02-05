@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2010-2012 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.65536</key>
+	<string>Router Row</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.65537</key>
+	<string>Left Nav Rocker Up</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.65539</key>
+	<string>Status Router Row</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.65793</key>
+	<string>Left Nav Rocker Down</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.66305</key>
+	<string>Right Nav Rocker Up</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.66561</key>
+	<string>Right Nav Rocker Down</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.66817</key>
+	<string>Left Mode Button</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.67073</key>
+	<string>Right Mode Button</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.67329</key>
+	<string>Left Panning</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.67585</key>
+	<string>Right Panning</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.67841</key>
+	<string>Left Selector</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.68097</key>
+	<string>Right Selector</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.68353</key>
+	<string>Left Rocker Up</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.68609</key>
+	<string>Left Rocker Down</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.68865</key>
+	<string>Right Rocker Up</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.69121</key>
+	<string>Right Rocker Down</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.2.14.blue</key>
+	<string>Freedom Scientific Focus 80 Blue</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue</key>
+	<string>Freedom Scientific Focus 40 Blue</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65536</key>
+	<string>Router Row 1</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65537</key>
+	<string>Left Whiz Wheel Up</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65539</key>
+	<string>Status Router Row 1</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65552</key>
+	<string>Router Row 2</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65555</key>
+	<string>Status Router Row 2</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65793</key>
+	<string>Left Whiz Wheel Down</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.66305</key>
+	<string>Right Whiz Wheel Up</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.66561</key>
+	<string>Right Whiz Wheel Down</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.66817</key>
+	<string>Left Whiz Wheel Press</string>
+	<key>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.67073</key>
+	<string>Right Whiz Wheel Press</string>
+</dict>
+</plist>

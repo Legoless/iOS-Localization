@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1_ALBUM_IMAGE</key>
+	<string>1 Photo</string>
+	<key>1_ALBUM_OTHER</key>
+	<string>1 Item</string>
+	<key>1_ALBUM_VIDEO</key>
+	<string>1 Video</string>
+	<key>ADD_BUTTON</key>
+	<string>Add</string>
+	<key>ADD_ITEMS_PICKER_PROMPT_0</key>
+	<string>Add photos to “%@”.</string>
+	<key>ADD_ITEMS_PICKER_PROMPT_1_ITEM</key>
+	<string>Add %@ item to “%@”.</string>
+	<key>ADD_ITEMS_PICKER_PROMPT_1_PHOTO</key>
+	<string>Add %@ photo to “%@”.</string>
+	<key>ADD_ITEMS_PICKER_PROMPT_1_VIDEO</key>
+	<string>Add %@ video to “%@”.</string>
+	<key>ADD_ITEMS_PICKER_PROMPT_n_ITEM</key>
+	<string>Add %@ items to “%@”.</string>
+	<key>ADD_ITEMS_PICKER_PROMPT_n_PHOTO</key>
+	<string>Add %@ photos to “%@”.</string>
+	<key>ADD_ITEMS_PICKER_PROMPT_n_VIDEO</key>
+	<string>Add %@ videos to “%@”.</string>
+	<key>ADD_PHOTOS_BUTTON</key>
+	<string>Add Photos</string>
+	<key>ADD_RED_EYE_CORRECTION</key>
+	<string>Add Red-Eye Correction</string>
+	<key>ADD_TO_ALBUM</key>
+	<string>Add to Album</string>
+	<key>ADD_TO_BUTTON</key>
+	<string>Add To</string>
+	<key>ADD_TO_ELLIPSIS_BUTTON</key>
+	<string>Add To…</string>
+	<key>ADD_TO_EXISTING_ALBUM</key>
+	<string>Add to Existing Album</string>
+	<key>ADD_TO_NEW_ALBUM</key>
+	<string>Add to New Album</string>
+	<key>AEAF_LOCK_TEXT</key>
+	<string>AE/AF LOCK</string>
+	<key>AE_LOCK_TEXT</key>
+	<string>AE LOCK</string>
+	<key>AF_LOCK_TEXT</key>
+	<string>AF LOCK</string>
+	<key>AIRTUNES_PASSWORD_ALERT_MESSAGE_FORMAT</key>
+	<string>Enter the password for “%@”</string>
+	<key>AIRTUNES_PASSWORD_ALERT_TITLE</key>
+	<string>AirPlay Password</string>
+	<key>AIR_PLAY</key>
+	<string>AirPlay</string>
+	<key>AIR_PLAY_MOVIE_MESSAGE_FORMAT</key>
+	<string>This movie is now playing on “%@”.</string>
+	<key>AIR_PLAY_SLIDESHOW_MESSAGE_FORMAT</key>
+	<string>This slideshow is now playing on “%@”.</string>
+	<key>ALBUMS</key>
+	<string>Albums</string>
+	<key>ALBUMS_TAB</key>
+	<string>Albums</string>
+	<key>ALBUM_IMAGE_COUNT_FORMAT</key>
+	<string>%@ Photos</string>
+	<key>ALBUM_ITEMS_COUNT_FORMAT</key>
+	<string>%@, %@</string>
+	<key>ALBUM_OTHER_COUNT_FORMAT</key>
+	<string>%@ Items</string>
+	<key>ALBUM_THREE_TYPES_LABEL_COMMAS</key>
+	<string>%@, %@, %@</string>
+	<key>ALBUM_THREE_TYPES_LABEL_CONJUNCTION</key>
+	<string>%@, %@, and %@</string>
+	<key>ALBUM_TWO_TYPES_LABEL_COMMAS</key>
+	<string>%@, %@</string>
+	<key>ALBUM_TWO_TYPES_LABEL_CONJUNCTION</key>
+	<string>%@ and %@</string>
+	<key>ALBUM_VIDEO_COUNT_FORMAT</key>
+	<string>%@ Videos</string>
+	<key>ALBUM_ZERO_TYPES_LABEL</key>
+	<string>No Items</string>
+	<key>APPLY_CROP_TITLE</key>
+	<string>Crop</string>
+	<key>APPLY_EFFECTS_TITLE</key>
+	<string>Choose Filter</string>
+	<key>APPLY_RED_EYE_TITLE</key>
+	<string>Apply</string>
+	<key>APPROXIMATE_SIZE</key>
+	<string>(≈%@)</string>
+	<key>ASSIGN_TO_CONTACT</key>
+	<string>Assign to Contact</string>
+	<key>AUDIO_FILENAME</key>
+	<string>audio</string>
+	<key>AUTO_ENHANCE_OFF_MESSAGE</key>
+	<string>Auto-Enhance Off</string>
+	<key>AUTO_ENHANCE_ON_MESSAGE</key>
+	<string>Auto-Enhance On</string>
+	<key>CAMERA_ALBUM_SEGMENT_ALL</key>
+	<string>All</string>
+	<key>CAMERA_ALBUM_SEGMENT_PHOTOS</key>
+	<string>Photos</string>
+	<key>CAMERA_ALBUM_SEGMENT_VIDEO</key>
+	<string>Videos</string>
+	<key>CAMERA_APPLY_CUSTOM_KERNING</key>
+	<string>YES</string>
+	<key>CAMERA_DEVICE_TYPE</key>
+	<string>Camera</string>
+	<key>CAMERA_IMPORT_DOWNLOAD_FAILED</key>
+	<string>Failed to download photo.</string>
+	<key>CAMERA_IMPORT_IMPORT_FAILED</key>
+	<string>Failed to import photo.</string>
+	<key>CAMERA_LOADING</key>
+	<string>Loading…</string>
+	<key>CAMERA_ROLL_LOCKED_iPad</key>
+	<string>Your iPad is locked.</string>
+	<key>CAMERA_ROLL_LOCKED_iPad Simulator</key>
+	<string>Your iPad is locked.</string>
+	<key>CAMERA_ROLL_LOCKED_iPhone</key>
+	<string>Your iPhone is locked.</string>
+	<key>CAMERA_ROLL_LOCKED_iPhone Simulator</key>
+	<string>Your iPhone is locked.</string>
+	<key>CAMERA_ROLL_LOCKED_iPod touch</key>
+	<string>Your iPod is locked.</string>
+	<key>CAMERA_SUPPORTS_VERTICAL_TEXT</key>
+	<string>NO</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CAPTURING</key>
+	<string>Capturing</string>
+	<key>CHOOSE_PHOTO_BUTTON</key>
+	<string>Choose</string>
+	<key>CHOOSE_PHOTO_TITLE</key>
+	<string>Choose Photo</string>
+	<key>CHOOSE_VIDEO_TITLE</key>
+	<string>Choose Video</string>
+	<key>CLOSE</key>
+	<string>Close</string>
+	<key>COMPLETING_UPLOAD</key>
+	<string>Completing Upload…</string>
+	<key>COMPRESSING_VIDEO</key>
+	<string>Compressing Video…</string>
+	<key>CONSTRAIN_TITLE</key>
+	<string>Aspect</string>
+	<key>CONSTRAIN_TITLE_IPAD</key>
+	<string>Aspect Ratio</string>
+	<key>CONTACT_PHOTO_SUBTITLE</key>
+	<string>Move and Scale</string>
+	<key>CONTACT_PHOTO_TITLE_FORMAT</key>
+	<string>This is what it will look like when “%@” calls.</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>COPY_BUTTON</key>
+	<string>Copy</string>
+	<key>COPY_BUTTON_FORMAT</key>
+	<string>Copy (%d)</string>
+	<key>COULD_NOT_LOAD_MOVIE_ERROR_FMT</key>
+	<string>%@</string>
+	<key>CREATE_ALBUM_ALERT_MESSAGE</key>
+	<string>Enter a name for this album.</string>
+	<key>CREATE_ALBUM_ALERT_TITLE</key>
+	<string>New Album</string>
+	<key>CREATE_ALBUM_SAVE_BUTTON_TITLE</key>
+	<string>Save</string>
+	<key>CREATE_ALBUM_TITLE_PLACEHOLDER</key>
+	<string>Title</string>
+	<key>CROP</key>
+	<string>Crop</string>
+	<key>CROP_ACTION</key>
+	<string>Crop Photo</string>
+	<key>CROP_OVERLAY_SUBTITLE</key>
+	<string></string>
+	<key>CROP_OVERLAY_TITLE</key>
+	<string>Move and Scale</string>
+	<key>CROP_PHOTO_TITLE</key>
+	<string>Crop Photo</string>
+	<key>CROP_STRAIGHTEN_TITLE</key>
+	<string>Crop and Straighten</string>
+	<key>CUBE</key>
+	<string>Cube</string>
+	<key>Classic</key>
+	<string>Classic</string>
+	<key>DELETE_ALBUM_CONFIRMATION_ALERT_BUTTON_TITLE</key>
+	<string>Delete</string>
+	<key>DELETE_ALBUM_CONFIRMATION_ALERT_TITLE</key>
+	<string>Delete “%@”</string>
+	<key>DELETE_ALBUM_CONFIRMATION_MESSAGE_0</key>
+	<string>Are you sure you want to delete the album “%@”?</string>
+	<key>DELETE_ALBUM_CONFIRMATION_MESSAGE_1</key>
+	<string>Are you sure you want to delete the album “%@”? The photos will not be deleted.</string>
+	<key>DELETE_ALBUM_CONFIRMATION_MESSAGE_n</key>
+	<string>Are you sure you want to delete the album “%@”? The photos will not be deleted.</string>
+	<key>DELETE_ALBUM_CONFIRMATION_SHEET_BUTTON_TITLE</key>
+	<string>Delete Album</string>
+	<key>DELETE_ALL</key>
+	<string>Delete All</string>
+	<key>DELETE_ALL_INCLUDING_ALBUM</key>
+	<string>Delete All</string>
+	<key>DELETE_BUTTON</key>
+	<string>Delete</string>
+	<key>DELETE_BUTTON_FORMAT</key>
+	<string>Delete (%d)</string>
+	<key>DELETE_BUTTON_TITLE_ITEM</key>
+	<string>Delete Item</string>
+	<key>DELETE_BUTTON_TITLE_ITEMS</key>
+	<string>Delete %@ Items</string>
+	<key>DELETE_BUTTON_TITLE_PHOTO</key>
+	<string>Delete Photo</string>
+	<key>DELETE_BUTTON_TITLE_PHOTOS</key>
+	<string>Delete %@ Photos</string>
+	<key>DELETE_BUTTON_TITLE_VIDEO</key>
+	<string>Delete Video</string>
+	<key>DELETE_BUTTON_TITLE_VIDEOS</key>
+	<string>Delete %@ Videos</string>
+	<key>DELETE_CONF_TITLE</key>
+	<string>Only items directly imported to iPad can be deleted.</string>
+	<key>DELETE_SELECTED</key>
+	<string>Delete Selected</string>
+	<key>DELETE_WARNING_ALBUMS_ITEM</key>
+	<string>This item will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUMS_ITEMS</key>
+	<string>These items will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUMS_PHOTO</key>
+	<string>This photo will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUMS_PHOTOS</key>
+	<string>These photos will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUMS_SOME_ITEMS</key>
+	<string>Some items will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUMS_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUMS_SOME_VIDEOS</key>
+	<string>Some videos will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUMS_VIDEO</key>
+	<string>This video will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUMS_VIDEOS</key>
+	<string>These videos will also be deleted from %@ albums.</string>
+	<key>DELETE_WARNING_ALBUM_ITEM</key>
+	<string>This item will also be deleted from an album.</string>
+	<key>DELETE_WARNING_ALBUM_ITEMS</key>
+	<string>These items will also be deleted from an album.</string>
+	<key>DELETE_WARNING_ALBUM_PHOTO</key>
+	<string>This photo will also be deleted from an album.</string>
+	<key>DELETE_WARNING_ALBUM_PHOTOS</key>
+	<string>These photos will also be deleted from an album.</string>
+	<key>DELETE_WARNING_ALBUM_SOME_ITEMS</key>
+	<string>Some items will also be deleted from an album.</string>
+	<key>DELETE_WARNING_ALBUM_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from an album.</string>
+	<key>DELETE_WARNING_ALBUM_SOME_VIDEOS</key>
+	<string>Some videos will also be deleted from an album.</string>
+	<key>DELETE_WARNING_ALBUM_VIDEO</key>
+	<string>This video will also be deleted from an album.</string>
+	<key>DELETE_WARNING_ALBUM_VIDEOS</key>
+	<string>These videos will also be deleted from an album.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_ITEM</key>
+	<string>This item will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_ITEMS</key>
+	<string>These items will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_PHOTO</key>
+	<string>This photo will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_PHOTOS</key>
+	<string>These photos will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_SOME_ITEMS</key>
+	<string>Some items will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_SOME_VIDEOS</key>
+	<string>Some videos will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_VIDEO</key>
+	<string>This video will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUMS_VIDEOS</key>
+	<string>These videos will also be deleted from %@ albums and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_ITEM</key>
+	<string>This item will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_ITEMS</key>
+	<string>These items will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_PHOTO</key>
+	<string>This photo will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_PHOTOS</key>
+	<string>These photos will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_SOME_ITEMS</key>
+	<string>Some items will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_SOME_VIDEOS</key>
+	<string>Some videos will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_VIDEO</key>
+	<string>This video will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ALBUM_VIDEOS</key>
+	<string>These videos will also be deleted from an album and from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ITEM</key>
+	<string>This item will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_ITEMS</key>
+	<string>These items will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_PHOTO</key>
+	<string>This photo will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_PHOTOS</key>
+	<string>These photos will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_SOME_ITEMS</key>
+	<string>Some items will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_SOME_VIDEOS</key>
+	<string>Some videos will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_VIDEO</key>
+	<string>This video will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_IPHOTO_VIDEOS</key>
+	<string>These videos will also be deleted from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUMS_ITEM</key>
+	<string>This item will also be deleted from Photo Stream on all your devices, and from %@ albums.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUMS_ITEMS</key>
+	<string>These items will also be deleted from Photo Stream on all your devices, and from %@ albums.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUMS_PHOTO</key>
+	<string>This photo will also be deleted from Photo Stream on all your devices, and from %@ albums.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUMS_PHOTOS</key>
+	<string>These photos will also be deleted from Photo Stream on all your devices, and from %@ albums.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUMS_SOME_ITEMS</key>
+	<string>Some items will also be deleted from Photo Stream on all your devices, and from %@ albums.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUMS_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from Photo Stream on all your devices, and from %@ albums.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUM_ITEM</key>
+	<string>This item will also be deleted from Photo Stream on all your devices, and from an album.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUM_ITEMS</key>
+	<string>These items will also be deleted from Photo Stream on all your devices, and from an album.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUM_PHOTO</key>
+	<string>This photo will also be deleted from Photo Stream on all your devices, and from an album.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUM_PHOTOS</key>
+	<string>These photos will also be deleted from Photo Stream on all your devices, and from an album.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUM_SOME_ITEMS</key>
+	<string>Some items will also be deleted from Photo Stream on all your devices, and from an album.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_ALBUM_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from Photo Stream on all your devices, and from an album.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUMS_ITEM</key>
+	<string>This item will also be deleted from Photo Stream on all your devices, from %@ albums, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUMS_ITEMS</key>
+	<string>These items will also be deleted from Photo Stream on all your devices, from %@ albums, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUMS_PHOTO</key>
+	<string>This photo will also be deleted from Photo Stream on all your devices, from %@ albums, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUMS_PHOTOS</key>
+	<string>These photos will also be deleted from Photo Stream on all your devices, from %@ albums, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUMS_SOME_ITEMS</key>
+	<string>Some items will also be deleted from Photo Stream on all your devices, from %@ albums, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUMS_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from Photo Stream on all your devices, from %@ albums, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUM_ITEM</key>
+	<string>This item will also be deleted from Photo Stream on all your devices, from an album, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUM_ITEMS</key>
+	<string>These items will also be deleted from Photo Stream on all your devices, from an album, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUM_PHOTO</key>
+	<string>This photo will also be deleted from Photo Stream on all your devices, from an album, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUM_PHOTOS</key>
+	<string>These photos will also be deleted from Photo Stream on all your devices, from an album, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUM_SOME_ITEMS</key>
+	<string>Some items will also be deleted from Photo Stream on all your devices, from an album, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ALBUM_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from Photo Stream on all your devices, from an album, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ITEM</key>
+	<string>This item will also be deleted from Photo Stream on all your devices, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_ITEMS</key>
+	<string>These items will also be deleted from Photo Stream on all your devices, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_PHOTO</key>
+	<string>This photo will also be deleted from Photo Stream on all your devices, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_PHOTOS</key>
+	<string>These photos will also be deleted from Photo Stream on all your devices, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_SOME_ITEMS</key>
+	<string>Some items will also be deleted from Photo Stream on all your devices, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_IPHOTO_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from Photo Stream on all your devices, and from iPhoto.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_PHOTO</key>
+	<string>This photo will also be deleted from Photo Stream on all your devices.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_PHOTOS</key>
+	<string>These photos will also be deleted from Photo Stream on all your devices.</string>
+	<key>DELETE_WARNING_PHOTOSTREAM_SOME_PHOTOS</key>
+	<string>Some photos will also be deleted from Photo Stream on all your devices.</string>
+	<key>DESELECT_ALL_PHOTOS_BUTTON</key>
+	<string>Deselect All Photos</string>
+	<key>DID_NOT_FIND_RED_EYE_MESSAGE</key>
+	<string>Did not find a red-eye to correct.</string>
+	<key>DISPLAY_ON_TV</key>
+	<string>Display on TV?</string>
+	<key>DISSOLVE</key>
+	<string>Dissolve</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EDIT_PHOTO_TITLE</key>
+	<string>Edit Photo</string>
+	<key>EFFECTS</key>
+	<string>Filters</string>
+	<key>EFFECTS_ACTION</key>
+	<string>Choose Filter</string>
+	<key>EMAIL_BUTTON</key>
+	<string>Email</string>
+	<key>EMAIL_BUTTON_FORMAT</key>
+	<string>Email (%d)</string>
+	<key>EMPTY_ALBUM_CAMERA_AVAILABLE_iPad</key>
+	<string>You can take photos using the camera, sync photos and videos onto your iPad using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_AVAILABLE_iPad Simulator</key>
+	<string>You can take photos using the camera, sync photos and videos onto your iPad using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_AVAILABLE_iPhone</key>
+	<string>You can take photos using the camera, sync photos and videos onto your iPhone using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_AVAILABLE_iPhone Simulator</key>
+	<string>You can take photos using the camera, sync photos and videos onto your iPhone using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_AVAILABLE_iPod touch</key>
+	<string>You can take photos using the camera, sync photos and videos onto your iPod using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_NOT_AVAILABLE_iPad</key>
+	<string>You can sync photos and videos onto your iPad using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_NOT_AVAILABLE_iPad Simulator</key>
+	<string>You can sync photos and videos onto your iPad using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_NOT_AVAILABLE_iPhone</key>
+	<string>You can sync photos and videos onto your iPhone using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_NOT_AVAILABLE_iPhone Simulator</key>
+	<string>You can sync photos and videos onto your iPhone using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_CAMERA_NOT_AVAILABLE_iPod touch</key>
+	<string>You can sync photos and videos onto your iPod using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_AVAILABLE_iPad</key>
+	<string>You can take photos using the camera, or sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_AVAILABLE_iPad Simulator</key>
+	<string>You can take photos using the camera, or sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_AVAILABLE_iPhone</key>
+	<string>You can take photos using the camera, or sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_AVAILABLE_iPhone Simulator</key>
+	<string>You can take photos using the camera, or sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_AVAILABLE_iPod touch</key>
+	<string>You can take photos using the camera, or sync photos and videos onto your iPod using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_NOT_AVAILABLE_iPad</key>
+	<string>You can sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_NOT_AVAILABLE_iPad Simulator</key>
+	<string>You can sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_NOT_AVAILABLE_iPhone</key>
+	<string>You can sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_NOT_AVAILABLE_iPhone Simulator</key>
+	<string>You can sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_CAMERA_NOT_AVAILABLE_iPod touch</key>
+	<string>You can sync photos and videos onto your iPod using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_VIDEO_AVAILABLE_iPad</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_VIDEO_AVAILABLE_iPad Simulator</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPad using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_VIDEO_AVAILABLE_iPhone</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_VIDEO_AVAILABLE_iPhone Simulator</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPhone using iTunes.</string>
+	<key>EMPTY_ALBUM_EMPTY_LIBRARY_VIDEO_AVAILABLE_iPod touch</key>
+	<string>You can take photos and videos using the camera, or sync photos and videos onto your iPod using iTunes.</string>
+	<key>EMPTY_ALBUM_PHOTO_STREAM</key>
+	<string>New photos will be automatically uploaded and sent to all of your iCloud devices when connected to Wi-Fi.</string>
+	<key>EMPTY_ALBUM_VIDEO_AVAILABLE_iPad</key>
+	<string>You can take photos and videos using the camera, sync photos and videos onto your iPad using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_VIDEO_AVAILABLE_iPad Simulator</key>
+	<string>You can take photos and videos using the camera, sync photos and videos onto your iPad using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_VIDEO_AVAILABLE_iPhone</key>
+	<string>You can take photos and videos using the camera, sync photos and videos onto your iPhone using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_VIDEO_AVAILABLE_iPhone Simulator</key>
+	<string>You can take photos and videos using the camera, sync photos and videos onto your iPhone using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_ALBUM_VIDEO_AVAILABLE_iPod touch</key>
+	<string>You can take photos and videos using the camera, sync photos and videos onto your iPod using iTunes, or add photos and videos from other albums and events.</string>
+	<key>EMPTY_CAMERA_ROLL_ALL</key>
+	<string>You can take photos or videos using the camera.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPad</key>
+	<string>Unlock your iPad to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPad Simulator</key>
+	<string>Unlock your iPad to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPhone</key>
+	<string>Unlock your iPhone to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPhone Simulator</key>
+	<string>Unlock your iPhone to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_LOCKED_MESSAGE_iPod touch</key>
+	<string>Unlock your iPod to see all of your photos and videos.</string>
+	<key>EMPTY_CAMERA_ROLL_PHOTOS</key>
+	<string>You can take photos using the camera.</string>
+	<key>EMPTY_CAMERA_ROLL_VIDEOS</key>
+	<string>You can take videos using the camera.</string>
+	<key>EMPTY_PHOTO_STREAM_LIST</key>
+	<string>Add a new shared photo stream to share photos with friends and family</string>
+	<key>ENABLE_PHOTOSTREAM_MESSAGE</key>
+	<string>Photo Sharing must be turned on to join this photo stream.</string>
+	<key>ENABLE_PHOTOSTREAM_TITLE</key>
+	<string>Turn on Photo Sharing</string>
+	<key>ENHANCE</key>
+	<string>Enhance</string>
+	<key>ENHANCE_ACTION</key>
+	<string>Enhance Photo</string>
+	<key>EVENTS_TAB</key>
+	<string>Events</string>
+	<key>FACES_TAB</key>
+	<string>Faces</string>
+	<key>FAILED_PUBLISH_IMAGE</key>
+	<string>Could not publish photo.</string>
+	<key>FAILED_PUBLISH_VIDEO</key>
+	<string>Could not publish video.</string>
+	<key>FILTER_CHROME</key>
+	<string>Chrome</string>
+	<key>FILTER_FADE</key>
+	<string>Fade</string>
+	<key>FILTER_INSTANT</key>
+	<string>Instant</string>
+	<key>FILTER_MONO</key>
+	<string>Mono</string>
+	<key>FILTER_NOIR</key>
+	<string>Noir</string>
+	<key>FILTER_NONE</key>
+	<string>None</string>
+	<key>FILTER_PROCESS</key>
+	<string>Process</string>
+	<key>FILTER_TONAL</key>
+	<string>Tonal</string>
+	<key>FILTER_TRANSFER</key>
+	<string>Transfer</string>
+	<key>FLASH_AUTO</key>
+	<string>Auto</string>
+	<key>FLASH_DISABLED_MESSAGE_iPad</key>
+	<string>The iPad needs to cool down before you can use the flash.</string>
+	<key>FLASH_DISABLED_MESSAGE_iPhone</key>
+	<string>The iPhone needs to cool down before you can use the flash.</string>
+	<key>FLASH_DISABLED_MESSAGE_iPod touch</key>
+	<string>The iPod needs to cool down before you can use the flash.</string>
+	<key>FLASH_DISABLED_TITLE</key>
+	<string>Flash is Disabled</string>
+	<key>FLASH_OFF</key>
+	<string>Off</string>
+	<key>FLASH_ON</key>
+	<string>On</string>
+	<key>FREE_SPACE_MESSAGE</key>
+	<string>Importing requires %@ more space. Select fewer items or make more space available by removing videos, photos, or songs.</string>
+	<key>FREE_SPACE_TITLE</key>
+	<string>Not Enough Space Available</string>
+	<key>Flipup</key>
+	<string>Flip-up</string>
+	<key>FromIPhoto</key>
+	<string>From iPhoto</string>
+	<key>GENERIC_ASPECT_RATIO</key>
+	<string>%1$@ × %2$@</string>
+	<key>GENERIC_COULD_NOT_LOAD_MOVIE</key>
+	<string>Could not load movie</string>
+	<key>GRID_OPTION</key>
+	<string>Grid</string>
+	<key>HDR_ALERT_DISMISS_BUTTON_TITLE</key>
+	<string>Dismiss</string>
+	<key>HDR_ALERT_MESSAGE</key>
+	<string>Both the original and HDR versions of each photo will be saved. You can change this in Settings.</string>
+	<key>HDR_ALERT_SETTINGS_BUTTON_TITLE</key>
+	<string>Settings</string>
+	<key>HDR_ALERT_TITLE</key>
+	<string>HDR Settings</string>
+	<key>HDR_BADGE_TEXT</key>
+	<string>HDR</string>
+	<key>HDR_HDR</key>
+	<string>HDR</string>
+	<key>HDR_HDR_OFF</key>
+	<string>HDR Off</string>
+	<key>HDR_HDR_ON</key>
+	<string>HDR On</string>
+	<key>HDR_OFF</key>
+	<string>Off</string>
+	<key>HDR_ON</key>
+	<string>On</string>
+	<key>HDR_OPTION</key>
+	<string>HDR</string>
+	<key>HolidayMobile</key>
+	<string>Holiday Mobile</string>
+	<key>IGNORE_DUPLICATES</key>
+	<string>Skip Duplicates</string>
+	<key>IMPORT</key>
+	<string>Import</string>
+	<key>IMPORT_ALL</key>
+	<string>Import All</string>
+	<key>IMPORT_ALL_SHORT</key>
+	<string>Import All</string>
+	<key>IMPORT_COMPLETE_TITLE</key>
+	<string>Import Complete</string>
+	<key>IMPORT_DUPS</key>
+	<string>Duplicate Photos</string>
+	<key>IMPORT_DUPS_ALL_MSG</key>
+	<string>All of these photos already exist in your Photo Library.</string>
+	<key>IMPORT_DUPS_MSG</key>
+	<string>Some of these photos already exist in your Photo Library.</string>
+	<key>IMPORT_EMPTY_DEVICE_MESSAGE</key>
+	<string></string>
+	<key>IMPORT_EMPTY_DEVICE_TITLE</key>
+	<string>No photos to import</string>
+	<key>IMPORT_LOADING_STRING</key>
+	<string>Loading…</string>
+	<key>IMPORT_MULTI_ALERT_MESSAGE</key>
+	<string>Photo Stream will upload only one version of each of these items.</string>
+	<key>IMPORT_MULTI_ALERT_TITLE</key>
+	<string>Multiple formats imported</string>
+	<key>IMPORT_SELECTED</key>
+	<string>Import Selected</string>
+	<key>IMPORT_STOPPED_TITLE</key>
+	<string>Import Stopped</string>
+	<key>IMPORT_TAB</key>
+	<string>Import</string>
+	<key>KEEP</key>
+	<string>Keep</string>
+	<key>KEEPORDELETE_MEDIA_Camera</key>
+	<string>Would you like to delete imported media from the attached camera?</string>
+	<key>KEEPORDELETE_MEDIA_FORMAT</key>
+	<string>Would you like to delete imported media from '%@'?</string>
+	<key>KEEPORDELETE_MEDIA_iPad</key>
+	<string>Would you like to delete imported media from the attached iPad?</string>
+	<key>KEEPORDELETE_MEDIA_iPhone</key>
+	<string>Would you like to delete imported media from the attached iPhone?</string>
+	<key>KEEPORDELETE_MEDIA_iPod</key>
+	<string>Would you like to delete imported media from the attached iPod?</string>
+	<key>KEEPORDELETE_PHOTOS_Camera</key>
+	<string>Would you like to delete imported photos from the attached camera?</string>
+	<key>KEEPORDELETE_PHOTOS_FORMAT</key>
+	<string>Would you like to delete imported photos from '%@'?</string>
+	<key>KEEPORDELETE_PHOTOS_iPad</key>
+	<string>Would you like to delete imported photos from the attached iPad?</string>
+	<key>KEEPORDELETE_PHOTOS_iPhone</key>
+	<string>Would you like to delete imported photos from the attached iPhone?</string>
+	<key>KEEPORDELETE_PHOTOS_iPod</key>
+	<string>Would you like to delete imported photos from the attached iPod?</string>
+	<key>KEEPORDELETE_PHOTO_Camera</key>
+	<string>Would you like to delete the imported photo from the attached camera?</string>
+	<key>KEEPORDELETE_PHOTO_FORMAT</key>
+	<string>Would you like to delete the imported photo from '%@'?</string>
+	<key>KEEPORDELETE_PHOTO_iPad</key>
+	<string>Would you like to delete the imported photo from the attached iPad?</string>
+	<key>KEEPORDELETE_PHOTO_iPhone</key>
+	<string>Would you like to delete the imported photo from the attached iPhone?</string>
+	<key>KEEPORDELETE_PHOTO_iPod</key>
+	<string>Would you like to delete the imported photo from the attached iPod?</string>
+	<key>KEEPORDELETE_VIDEOS_Camera</key>
+	<string>Would you like to delete imported videos from the attached camera?</string>
+	<key>KEEPORDELETE_VIDEOS_FORMAT</key>
+	<string>Would you like to delete imported videos from '%@'?</string>
+	<key>KEEPORDELETE_VIDEOS_iPad</key>
+	<string>Would you like to delete imported videos from the attached iPad?</string>
+	<key>KEEPORDELETE_VIDEOS_iPhone</key>
+	<string>Would you like to delete imported videos from the attached iPhone?</string>
+	<key>KEEPORDELETE_VIDEOS_iPod</key>
+	<string>Would you like to delete imported videos from the attached iPod?</string>
+	<key>KEEPORDELETE_VIDEO_Camera</key>
+	<string>Would you like to delete the imported video from the attached camera?</string>
+	<key>KEEPORDELETE_VIDEO_FORMAT</key>
+	<string>Would you like to delete the imported video from '%@'?</string>
+	<key>KEEPORDELETE_VIDEO_iPad</key>
+	<string>Would you like to delete the imported video from the attached iPad?</string>
+	<key>KEEPORDELETE_VIDEO_iPhone</key>
+	<string>Would you like to delete the imported video from the attached iPhone?</string>
+	<key>KEEPORDELETE_VIDEO_iPod</key>
+	<string>Would you like to delete the imported video from the attached iPod?</string>
+	<key>KenBurns</key>
+	<string>Ken Burns</string>
+	<key>LOADING_ALBUMS</key>
+	<string>Loading…</string>
+	<key>LOADING_PHOTO</key>
+	<string>Loading…</string>
+	<key>LOW_DISK_SPACE_ALERT_DONE_TITLE</key>
+	<string>Done</string>
+	<key>LOW_DISK_SPACE_ALERT_SETTINGS_TITLE</key>
+	<string>Settings</string>
+	<key>LOW_DISK_SPACE_NO_SETTINGS_ALERT_DONE_TITLE</key>
+	<string>OK</string>
+	<key>LOW_DISK_SPACE_NO_SETTINGS_PHOTO_BODY</key>
+	<string>There is not enough available storage to take a photo.</string>
+	<key>LOW_DISK_SPACE_NO_SETTINGS_TRIM_BODY</key>
+	<string>There is not enough available storage to trim video.</string>
+	<key>LOW_DISK_SPACE_NO_SETTINGS_VIDEO_BODY</key>
+	<string>There is not enough available storage to record video.</string>
+	<key>LOW_DISK_SPACE_PHOTO_BODY</key>
+	<string>There is not enough available storage to take a photo. You can manage your storage in Settings.</string>
+	<key>LOW_DISK_SPACE_PHOTO_TITLE</key>
+	<string>Cannot Take Photo</string>
+	<key>LOW_DISK_SPACE_TITLE</key>
+	<string>Low Disk Space</string>
+	<key>LOW_DISK_SPACE_TRIM_BODY</key>
+	<string>There is not enough available storage to trim video. You can manage your storage in Settings.</string>
+	<key>LOW_DISK_SPACE_TRIM_TITLE</key>
+	<string>Cannot Trim Video</string>
+	<key>LOW_DISK_SPACE_VIDEO_BODY</key>
+	<string>There is not enough available storage to record video. You can manage your storage in Settings.</string>
+	<key>LOW_DISK_SPACE_VIDEO_TITLE</key>
+	<string>Cannot Record Video</string>
+	<key>MAX_RECORDING_DURATION_REACHED</key>
+	<string>The maximum length for this video has been reached.</string>
+	<key>MAX_RECORDING_FILE_SIZE_REACHED</key>
+	<string>The maximum size for this video has been reached.</string>
+	<key>MEDIA_FAILURE_FORMAT</key>
+	<string>Could not publish “%@”</string>
+	<key>MEDIA_PROGRESS_FORMAT</key>
+	<string>Publishing to %@: %@</string>
+	<key>MEDIA_PROGRESS_NO_TIME_FORMAT</key>
+	<string>Publishing to %@</string>
+	<key>MEDIA_TIME_MINUTES_REMAINING_FORMAT</key>
+	<string>About %d Minutes Remaining…</string>
+	<key>MEDIA_TIME_ONE_MINUTE_REMAINING</key>
+	<string>About 1 Minute Remaining…</string>
+	<key>MEDIA_TIME_ONE_SECOND_REMAINING</key>
+	<string>About 1 Second Remaining…</string>
+	<key>MEDIA_TIME_SECONDS_REMAINING_FORMAT</key>
+	<string>About %d Seconds Remaining…</string>
+	<key>MOVE_BUTTON</key>
+	<string>Add To</string>
+	<key>MOVE_BUTTON_FORMAT</key>
+	<string>Add To (%d)</string>
+	<key>MOVE_TO_EXISTING_ALBUM</key>
+	<string>Move to Existing Album</string>
+	<key>NO_ACCESS</key>
+	<string>No Access</string>
+	<key>NO_EMAIL_ACCOUNT_FOR_PHOTOS</key>
+	<string>To email photos, set up mail account.</string>
+	<key>NO_EMAIL_ACCOUNT_FOR_PHOTOS_OR_VIDEOS</key>
+	<string>To email photos or videos, set up mail account.</string>
+	<key>NO_EMAIL_ACCOUNT_FOR_VIDEOS</key>
+	<string>To email videos, set up mail account.</string>
+	<key>NO_EMAIL_TITLE</key>
+	<string>Email Account</string>
+	<key>NO_MUSIC_SELECTED</key>
+	<string>None</string>
+	<key>NO_PHOTOS</key>
+	<string>No Photos</string>
+	<key>NO_PHOTOS_VIDEOS</key>
+	<string>No Photos or Videos</string>
+	<key>NO_SHARED_PHOTOS</key>
+	<string>No Shared Photos</string>
+	<key>NO_SPACE_MESSAGE_iPad</key>
+	<string>This iPad does not have enough free space to import any photos.</string>
+	<key>NO_SPACE_MESSAGE_iPhone</key>
+	<string>This iPhone does not have enough free space to import any photos.</string>
+	<key>NO_SPACE_MESSAGE_iPod</key>
+	<string>This iPod does not have enough free space to import any photos.</string>
+	<key>NO_VIDEOS</key>
+	<string>No Videos</string>
+	<key>NowPlaying</key>
+	<string>Now Playing</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OK_REPLY</key>
+	<string>OK</string>
+	<key>OPTIONS_BUTTON_TITLE</key>
+	<string>Options</string>
+	<key>OPTIONS_DONE_BUTTON_TITLE</key>
+	<string>Done</string>
+	<key>ORIGAMI</key>
+	<string>Origami</string>
+	<key>ORIGINAL_ASPECT_RATIO</key>
+	<string>Original</string>
+	<key>Off</key>
+	<string>Off</string>
+	<key>Origami</key>
+	<string>Origami</string>
+	<key>PANO</key>
+	<string>PANO</string>
+	<key>PASSWORD_ALERT_PLACEHOLDER</key>
+	<string>Password</string>
+	<key>PHOTO</key>
+	<string>PHOTO</string>
+	<key>PHOTOBROWSER_TOOLBAR_DELETE</key>
+	<string>Delete</string>
+	<key>PHOTOBROWSER_TOOLBAR_MORE</key>
+	<string>More…</string>
+	<key>PHOTOBROWSER_TOOLBAR_SHARE</key>
+	<string>Share</string>
+	<key>PHOTOBROWSER_TOOLBAR_VIDEOPAUSE</key>
+	<string>Pause</string>
+	<key>PHOTOBROWSER_TOOLBAR_VIDEOPLAY</key>
+	<string>Play</string>
+	<key>PHOTOSTREAMS_TAB</key>
+	<string>Shared</string>
+	<key>PHOTOSTREAM_NO_LONGER_SHARED_ERROR_TITLE</key>
+	<string>This photo stream is no longer shared.</string>
+	<key>PHOTOSTREAM_SAVE_TO_CAMERAROLL</key>
+	<string>Save to Camera Roll</string>
+	<key>PHOTOSTREAM_SAVE_TO_SAVEDPHOTOS</key>
+	<string>Save to Saved Photos</string>
+	<key>PHOTOS_PLURAL</key>
+	<string>%@ photos</string>
+	<key>PHOTOS_SINGULAR</key>
+	<string>One photo</string>
+	<key>PHOTOS_TAB</key>
+	<string>Photos</string>
+	<key>PHOTO_FILENAME</key>
+	<string>photo</string>
+	<key>PHOTO_STREAM_UPDATED</key>
+	<string>Updated %@</string>
+	<key>PHOTO_TITLE_FORMAT</key>
+	<string>%1$@ of %2$@</string>
+	<key>PICTURES_REMAINING_FORMAT</key>
+	<string>%d Remaining</string>
+	<key>PLACES_TAB</key>
+	<string>Places</string>
+	<key>PLACE_ALBUM_TITLE_ONLY_PHOTOS_PLURAL</key>
+	<string>%@ Photos</string>
+	<key>PLACE_ALBUM_TITLE_ONLY_PHOTOS_SINGULAR</key>
+	<string>One Photo</string>
+	<key>PLACE_ALBUM_TITLE_ONLY_VIDEOS_PLURAL</key>
+	<string>%@ Videos</string>
+	<key>PLACE_ALBUM_TITLE_ONLY_VIDEOS_SINGULAR</key>
+	<string>One Video</string>
+	<key>PLACE_ALBUM_TITLE_PHOTOS_AND_VIDEOS</key>
+	<string>%@ Items</string>
+	<key>PLAY_MUSIC</key>
+	<string>Play Music</string>
+	<key>PREPARING_VIDEO</key>
+	<string>Preparing Video…</string>
+	<key>PREVIEW</key>
+	<string>Preview</string>
+	<key>PRINT_FILENAME</key>
+	<string>Photo</string>
+	<key>PROGRESS_ALL</key>
+	<string>Syncing…</string>
+	<key>PROGRESS_DOWNLOADING</key>
+	<string>Downloading…</string>
+	<key>PROGRESS_IMPORTING</key>
+	<string>Restoring…</string>
+	<key>PROGRESS_IMPORTING_AND_DOWNLOADING</key>
+	<string>Downloading…</string>
+	<key>PROGRESS_SYNCING</key>
+	<string>Syncing…</string>
+	<key>PROGRESS_SYNCING_AND_DOWNLOADING</key>
+	<string>Syncing…</string>
+	<key>PROGRESS_SYNCING_AND_IMPORTING</key>
+	<string>Syncing…</string>
+	<key>PUBLISHED_IMAGE</key>
+	<string>Photo Published</string>
+	<key>PUBLISHED_MEDIA_FORMAT</key>
+	<string>“%@” Published</string>
+	<key>PUBLISHED_VIDEO</key>
+	<string>Video Published</string>
+	<key>PUBLISH_BUTTON_TITLE</key>
+	<string>Publish</string>
+	<key>PhotoMobile</key>
+	<string>Photo Mobile</string>
+	<key>PhotoWall</key>
+	<string>Photo Wall</string>
+	<key>Places</key>
+	<string>Places</string>
+	<key>RECORDING_STOPPED_TITLE</key>
+	<string>Video Recording Stopped</string>
+	<key>RED_EYE</key>
+	<string>Red-Eye</string>
+	<key>RED_EYE_ACTION</key>
+	<string>Red-Eye Correction</string>
+	<key>RED_EYE_MESSAGE</key>
+	<string>Tap each red-eye. Tap again to undo.</string>
+	<key>RED_EYE_TITLE</key>
+	<string>Remove Red-Eye</string>
+	<key>REMOVE</key>
+	<string>Delete</string>
+	<key>REMOVE_ALL</key>
+	<string>Remove All</string>
+	<key>REMOVE_ALL_INCLUDING_ALBUM</key>
+	<string>Remove All</string>
+	<key>REMOVE_BUTTON</key>
+	<string>Remove</string>
+	<key>REMOVE_BUTTON_FORMAT</key>
+	<string>Remove (%d)</string>
+	<key>REMOVE_CONF_TITLE_ITEM</key>
+	<string>This item will be removed from this album, but will remain in your Photo Library.</string>
+	<key>REMOVE_CONF_TITLE_ITEMS</key>
+	<string>These items will be removed from this album, but will remain in your Photo Library.</string>
+	<key>REMOVE_CONF_TITLE_PHOTO</key>
+	<string>This photo will be removed from this album, but will remain in your Photo Library.</string>
+	<key>REMOVE_CONF_TITLE_PHOTOS</key>
+	<string>These photos will be removed from this album, but will remain in your Photo Library.</string>
+	<key>REMOVE_CONF_TITLE_VIDEO</key>
+	<string>This video will be removed from this album, but will remain in your Photo Library.</string>
+	<key>REMOVE_CONF_TITLE_VIDEOS</key>
+	<string>These videos will be removed from this album, but will remain in your Photo Library.</string>
+	<key>REMOVE_FROM_ALBUM_BUTTON</key>
+	<string>Remove from Album</string>
+	<key>REMOVE_RED_EYE_CORRECTION</key>
+	<string>Remove Red-Eye Correction</string>
+	<key>REPEAT</key>
+	<string>Repeat</string>
+	<key>RESET_TITLE</key>
+	<string>Reset</string>
+	<key>RETAKE</key>
+	<string>Retake</string>
+	<key>REVERT_ORIGINAL_ACTION</key>
+	<string>Revert to Original Photo</string>
+	<key>REVERT_SAVED_ACTION</key>
+	<string>Revert to Saved Photo</string>
+	<key>REVERT_TO_ORIGINAL</key>
+	<string>Revert to Original</string>
+	<key>RIPPLE</key>
+	<string>Ripple</string>
+	<key>ROTATE</key>
+	<string>Rotate</string>
+	<key>ROTATE_ACTION</key>
+	<string>Rotate Photo</string>
+	<key>ROTATE_PHOTO</key>
+	<string>Rotate Photo</string>
+	<key>Reflections</key>
+	<string>Reflections</string>
+	<key>SAVE_ADJUSTMENTS_TITLE</key>
+	<string>Save</string>
+	<key>SAVE_BUTTON</key>
+	<string>Save</string>
+	<key>SAVE_EDITS_MESSAGE</key>
+	<string>Save the edited version of this photo in your Camera Roll.</string>
+	<key>SAVE_EFFECTS_TITLE</key>
+	<string>Apply</string>
+	<key>SAVE_TO_CAMERAROLL_SHEET_BUTTON</key>
+	<string>Save to Camera Roll</string>
+	<key>SAVE_TO_EXISTING_ALBUM</key>
+	<string>Save to Existing Album</string>
+	<key>SAVE_TO_NEW_ALBUM</key>
+	<string>Save to New Album</string>
+	<key>SAVE_TO_SAVEDPHOTOS_SHEET_BUTTON</key>
+	<string>Save to Saved Photos</string>
+	<key>SAVING_HDR</key>
+	<string>Saving HDR</string>
+	<key>SAVING_PHOTO</key>
+	<string>Saving Photo…</string>
+	<key>SAVING_VIDEO</key>
+	<string>Saving Video…</string>
+	<key>SELECTED_ITEM</key>
+	<string>1 Item Selected</string>
+	<key>SELECTED_ITEMS</key>
+	<string>%d Items Selected</string>
+	<key>SELECTED_MUSIC</key>
+	<string>Music</string>
+	<key>SELECTED_PHOTO</key>
+	<string>1 Photo Selected</string>
+	<key>SELECTED_PHOTOS</key>
+	<string>%d Photos Selected</string>
+	<key>SELECTED_VIDEO</key>
+	<string>1 Video Selected</string>
+	<key>SELECTED_VIDEOS</key>
+	<string>%d Videos Selected</string>
+	<key>SELECT_ALL_PHOTOS_BUTTON</key>
+	<string>Select All Photos</string>
+	<key>SELECT_ITEMS</key>
+	<string>Select Items</string>
+	<key>SELECT_PHOTOS</key>
+	<string>Select Photos</string>
+	<key>SELECT_VIDEOS</key>
+	<string>Select Videos</string>
+	<key>SEND_PHOTO_VIA_EMAIL_BUTTON</key>
+	<string>Email Photo</string>
+	<key>SEND_VIA_EMAIL_BUTTON</key>
+	<string>Email</string>
+	<key>SEND_VIDEO_VIA_EMAIL_BUTTON</key>
+	<string>Email Video</string>
+	<key>SETTINGS_BUTTON</key>
+	<string>Settings</string>
+	<key>SETTING_WALLPAPER</key>
+	<string>Setting Wallpaper</string>
+	<key>SET_BOTH</key>
+	<string>Set Both</string>
+	<key>SET_HOME_SCREEN</key>
+	<string>Set Home Screen</string>
+	<key>SET_LOCK_SCREEN</key>
+	<string>Set Lock Screen</string>
+	<key>SET_PHOTO_BUTTON</key>
+	<string>Set Photo</string>
+	<key>SET_SCREENSAVER_BUTTON</key>
+	<string>Set Wallpaper</string>
+	<key>SET_UP_MAIL_ACCOUNT</key>
+	<string>Set Up</string>
+	<key>SET_WALLPAPER_BUTTON</key>
+	<string>Set</string>
+	<key>SHARE_BUTTON</key>
+	<string>Share</string>
+	<key>SHARE_BUTTON_FORMAT</key>
+	<string>Share (%d)</string>
+	<key>SHARING_WAS_INTERRUPTED</key>
+	<string>Sharing was interrupted</string>
+	<key>SHUFFLE</key>
+	<string>Shuffle</string>
+	<key>SIGN_INTO_ICLOUD_MESSAGE</key>
+	<string>You must be signed in to iCloud to join this shared photo stream.</string>
+	<key>SIGN_INTO_ICLOUD_TITLE</key>
+	<string>Sign In to iCloud</string>
+	<key>SLIDESHOW</key>
+	<string>Slideshow</string>
+	<key>SLIDESHOW_SETTINGS_TITLE</key>
+	<string>Slideshow Options</string>
+	<key>SQUARE</key>
+	<string>SQUARE</string>
+	<key>SQUARE_ASPECT_RATIO</key>
+	<string>Square</string>
+	<key>START_SLIDESHOW</key>
+	<string>Start Slideshow</string>
+	<key>STOP_IMPORT</key>
+	<string>Stop Import</string>
+	<key>Scrapbook</key>
+	<string>Scrapbook</string>
+	<key>Shatter</key>
+	<string>Shatter</string>
+	<key>ShiftingTiles</key>
+	<string>Shifting Tiles</string>
+	<key>SlidingPanels</key>
+	<string>Sliding Panels</string>
+	<key>Snapshots</key>
+	<string>Snapshots</string>
+	<key>TAKE_PICTURE</key>
+	<string>Take Picture</string>
+	<key>TELL_A_FRIEND</key>
+	<string>Tell a Friend</string>
+	<key>TEXT_MESSAGE</key>
+	<string>Message</string>
+	<key>TIFFMODEL_IPHONE</key>
+	<string>iPhone</string>
+	<key>TIFFMODEL_IPOD</key>
+	<string>iPod</string>
+	<key>TRANSITION</key>
+	<string>Transition</string>
+	<key>TRANSITIONS</key>
+	<string>Transitions</string>
+	<key>TRIMMING_VIDEO</key>
+	<string>Trimming Video…</string>
+	<key>TRIM_ACTION_TITLE</key>
+	<string>Trim</string>
+	<key>TRIM_ALERT_TITLE</key>
+	<string>Trim Original</string>
+	<key>TRIM_BUTTON_TITLE</key>
+	<string>Trim</string>
+	<key>TRIM_COPY_ALERT_TITLE</key>
+	<string>Save as New Clip</string>
+	<key>TRIM_FOR_EMAIL_TITLE</key>
+	<string>Email</string>
+	<key>TRIM_FOR_PUBLISH_TITLE</key>
+	<string>Publish</string>
+	<key>TRIM_TITLE_IMAGE_PICKER</key>
+	<string>Save</string>
+	<key>TRIM_VIDEO_NAV_TITLE</key>
+	<string>Trim Video</string>
+	<key>TRIM_VIDEO_NAV_TITLE_IMAGE_PICKER</key>
+	<string>Edit Video</string>
+	<key>TUDOU</key>
+	<string>Tudou</string>
+	<key>TVOUT_PLACEHOLDER_SUBTITLE</key>
+	<string>This video is playing on the TV.</string>
+	<key>TVOUT_PLACEHOLDER_TITLE</key>
+	<string>TV Connected</string>
+	<key>TWEET</key>
+	<string>Tweet</string>
+	<key>UNABLE_TO_SUBSCRIBE_ERROR_MESSAGE</key>
+	<string>Photos was unable to subscribe to the shared Photo Stream</string>
+	<key>UNABLE_TO_SUBSCRIBE_ERROR_TITLE</key>
+	<string>Unable to Subscribe</string>
+	<key>UNDO</key>
+	<string>Undo</string>
+	<key>UNLOCK_DEVICE_iPad</key>
+	<string>Unlock iPad to import photos</string>
+	<key>UNLOCK_DEVICE_iPhone</key>
+	<string>Unlock iPhone to import photos</string>
+	<key>UNLOCK_DEVICE_iPod</key>
+	<string>Unlock iPod to import photos</string>
+	<key>USE_AS_WALLPAPER</key>
+	<string>Use as Wallpaper</string>
+	<key>USE_PHOTO</key>
+	<string>Use Photo</string>
+	<key>USE_PHOTO_BUTTON</key>
+	<string>Use Photo</string>
+	<key>USE_PHOTO_BUTTON_TITLE</key>
+	<string>Use</string>
+	<key>USE_VIDEO</key>
+	<string>Use Video</string>
+	<key>VIDEO</key>
+	<string>VIDEO</string>
+	<key>VIDEO_INCOMPATIBLE_ERROR</key>
+	<string>Operation failed because this video is incompatible with this device's saved photos roll.</string>
+	<key>VIDEO_PLAYBACK_FAILED</key>
+	<string>This movie format is not supported.</string>
+	<key>VIDEO_TOO_LONG_ALERT_TITLE</key>
+	<string>Video is Too Long</string>
+	<key>VIDEO_TOO_LONG_BODY</key>
+	<string>Please select a smaller clip from this video.</string>
+	<key>VIDEO_TOO_LONG_CANCEL</key>
+	<string>Cancel</string>
+	<key>VIDEO_TOO_LONG_EMAIL_BODY</key>
+	<string>Would you like to select a smaller clip from this video to email?</string>
+	<key>VIDEO_TOO_LONG_OK</key>
+	<string>OK</string>
+	<key>VIDEO_TOO_LONG_PUBLISH_BODY</key>
+	<string>Would you like to select a smaller clip from this video to publish?</string>
+	<key>VIDEO_TOO_LONG_TITLE</key>
+	<string>Video Too Long to Send</string>
+	<key>VIDEO_TOO_LONG_TITLE_IMAGE_PICKER</key>
+	<string>Video is Too Long</string>
+	<key>VIEW_BUTTON_TITLE_FORMAT</key>
+	<string>View on %@</string>
+	<key>Vintage Prints</key>
+	<string>Vintage Prints</string>
+	<key>WAITING_CORRECTIONS_TITLE</key>
+	<string>Waiting for in‑progress red‑eye corrections to finish…</string>
+	<key>WALLPAPER_OVERLAY_TITLE</key>
+	<string>Move and Scale</string>
+	<key>WALLPAPER_PHOTO_TITLE</key>
+	<string>Wallpaper Preview</string>
+	<key>WIPE</key>
+	<string>Wipe</string>
+	<key>WIPEACROSS</key>
+	<string>Wipe Across</string>
+	<key>WIPEDOWN</key>
+	<string>Wipe Down</string>
+	<key>YOUKU</key>
+	<string>Youku</string>
+	<key>YOUTUBE</key>
+	<string>YouTube</string>
+</dict>
+</plist>

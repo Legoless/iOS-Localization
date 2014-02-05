@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%1$@ (%2$@ of %3$@)</key>
+	<string>%1$@ (%2$@ of %3$@)</string>
+	<key>%1$@ of %2$@</key>
+	<string>%1$@ of %2$@</string>
+	<key>%ld items</key>
+	<string>%ld items</string>
+	<key>1 item</key>
+	<string>1 item</string>
+	<key>Close</key>
+	<string>Close</string>
+	<key>Loading…</key>
+	<string>Loading…</string>
+	<key>No Items</key>
+	<string>No Items</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Show Contents</key>
+	<string>Show Contents</string>
+	<key>The document could not be opened with that password.</key>
+	<string>The document could not be opened with that password.</string>
+	<key>This document is password protected. Please enter the password on your device.</key>
+	<string>This document is password protected. Please enter the password on your device.</string>
+</dict>
+</plist>

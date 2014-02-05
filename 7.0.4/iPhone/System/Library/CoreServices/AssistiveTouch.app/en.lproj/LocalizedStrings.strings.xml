@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCEPT_CANDIDATE</key>
+	<string>Accept Candidate</string>
+	<key>ACTIONS</key>
+	<string>Actions</string>
+	<key>ACTIVATE</key>
+	<string>Activate</string>
+	<key>ADD_IN_SETTINGS</key>
+	<string>New
+Gesture</string>
+	<key>ADD_RECENT</key>
+	<string>Add
+Recent</string>
+	<key>ALT_KEYS</key>
+	<string>Alt Keys</string>
+	<key>AUTOSCROLL</key>
+	<string>Autoscroll</string>
+	<key>BACK</key>
+	<string>Back</string>
+	<key>BACK_TO_GESTURES</key>
+	<string>Back to Gestures</string>
+	<key>CAMERA_FACE_NOT_FOUND</key>
+	<string>Cannot locate your face.</string>
+	<key>CAMERA_FACE_TOO_CLOSE</key>
+	<string>Your face is too close.</string>
+	<key>CAMERA_FACE_TOO_FAR</key>
+	<string>Your face is too far away.</string>
+	<key>CAMERA_NONE</key>
+	<string>Cannot detect your face.</string>
+	<key>CANCEL_LINE_GESTURE</key>
+	<string>Cancel</string>
+	<key>CHOOSE_DRAG_END_POINT</key>
+	<string>Select the destination for dragging.</string>
+	<key>CHOOSE_FLICK_END_POINT</key>
+	<string>Select the place where the flick will end.</string>
+	<key>CHOOSE_HOLD_AND_DRAG_END_POINT</key>
+	<string>Select the destination for dragging.</string>
+	<key>CONFIRM_DRAG</key>
+	<string>Drag</string>
+	<key>CONFIRM_FLICK</key>
+	<string>Flick</string>
+	<key>CONFIRM_HOLD_AND_DRAG</key>
+	<string>Hold and Drag</string>
+	<key>CustomGesturesMenu</key>
+	<string>Saved</string>
+	<key>DECREASE_ZOOM</key>
+	<string>Decrease
+Zoom</string>
+	<key>DECREMENT</key>
+	<string>Decrement</string>
+	<key>DEVICE</key>
+	<string>Device</string>
+	<key>DISMISS_AUTOCORRECTION</key>
+	<string>Dismiss Autocorrect</string>
+	<key>DOUBLE_TAP</key>
+	<string>Double Tap</string>
+	<key>DRAG_AND_DROP</key>
+	<string>Drag</string>
+	<key>DRAWING</key>
+	<string>Freehand</string>
+	<key>Device-Control-Center</key>
+	<string>Control
+Center</string>
+	<key>Device-Multitasking</key>
+	<string>Multi-
+tasking</string>
+	<key>Device-Notification-Center</key>
+	<string>Notification
+Center</string>
+	<key>DockMenuLabel</key>
+	<string>Dock</string>
+	<key>DrawingAutoLift</key>
+	<string>Auto Lift</string>
+	<key>DrawingAutoPress</key>
+	<string>Auto Press</string>
+	<key>DrawingGesture</key>
+	<string>Freehand</string>
+	<key>DrawingLift</key>
+	<string>Lift</string>
+	<key>DrawingPress</key>
+	<string>Touch</string>
+	<key>DrawingRotate90</key>
+	<string>90°</string>
+	<key>EDIT</key>
+	<string>Edit</string>
+	<key>EDIT-COPY</key>
+	<string>Copy</string>
+	<key>EDIT-CUT</key>
+	<string>Cut</string>
+	<key>EDIT-PASTE</key>
+	<string>Paste</string>
+	<key>EDIT-SELECT-ALL</key>
+	<string>Select All</string>
+	<key>EDIT_BACKWARD_CHAR</key>
+	<string>Previous
+Character</string>
+	<key>EDIT_BACKWARD_LINE</key>
+	<string>Previous Line</string>
+	<key>EDIT_BACKWARD_WORD</key>
+	<string>Previous Word</string>
+	<key>EDIT_DISABLE_SELECT</key>
+	<string>Disable
+Selection</string>
+	<key>EDIT_ENABLE_SELECT</key>
+	<string>Enable
+Selection</string>
+	<key>EDIT_FORWARD_CHAR</key>
+	<string>Next
+Character</string>
+	<key>EDIT_FORWARD_LINE</key>
+	<string>Next Line</string>
+	<key>EDIT_FORWARD_WORD</key>
+	<string>Next Word</string>
+	<key>EDIT_SELECT_NONE</key>
+	<string>Select None</string>
+	<key>EDIT_SELECT_WORD</key>
+	<string>Select Word</string>
+	<key>EDIT_SHOW_CALLOUT_BAR</key>
+	<string>Show Edit Bar</string>
+	<key>ESCAPE</key>
+	<string>Escape</string>
+	<key>EXIT</key>
+	<string>Done</string>
+	<key>EXIT_GROUP</key>
+	<string>Exit Group</string>
+	<key>EXIT_MENU</key>
+	<string>Exit Menu</string>
+	<key>FASTER</key>
+	<string>Faster</string>
+	<key>FAVORITES</key>
+	<string>Favorites</string>
+	<key>FLICK_ARBITRARY</key>
+	<string>Custom Flick</string>
+	<key>FLICK_DOWN</key>
+	<string>Flick Down</string>
+	<key>FLICK_LEFT</key>
+	<string>Flick Left</string>
+	<key>FLICK_RIGHT</key>
+	<string>Flick Right</string>
+	<key>FLICK_UP</key>
+	<string>Flick Up</string>
+	<key>FREEHAND_AUTO_LIFT_STATE</key>
+	<string>Auto Lift:
+%@</string>
+	<key>FREEHAND_AUTO_PRESS_STATE</key>
+	<string>Auto Press:
+%@</string>
+	<key>FREEHAND_BACK_TWO_LINES</key>
+	<string>Back to Menu</string>
+	<key>FREEHAND_BENDING</key>
+	<string>Bending</string>
+	<key>FREEHAND_BEND_LEFT_ONE_LINE</key>
+	<string>Bend Left</string>
+	<key>FREEHAND_BEND_LEFT_TWO_LINES</key>
+	<string>Bend
+Left</string>
+	<key>FREEHAND_BEND_ONE_LINE</key>
+	<string>Bend</string>
+	<key>FREEHAND_BEND_RIGHT_ONE_LINE</key>
+	<string>Bend Right</string>
+	<key>FREEHAND_BEND_RIGHT_TWO_LINES</key>
+	<string>Bend
+Right</string>
+	<key>FREEHAND_BEND_TWO_LINES</key>
+	<string>Bend
+Path</string>
+	<key>FREEHAND_MORE_ONE_LINE</key>
+	<string>More</string>
+	<key>FREEHAND_MORE_TWO_LINES</key>
+	<string>More
+Options</string>
+	<key>FREEHAND_MOVE_MENU</key>
+	<string>Move Menu</string>
+	<key>FREEHAND_MOVE_ONE_LINE</key>
+	<string>Move</string>
+	<key>FREEHAND_MOVE_TWO_LINES</key>
+	<string>Move
+Cursor</string>
+	<key>FREEHAND_MOVING</key>
+	<string>Moving</string>
+	<key>FREEHAND_OFF</key>
+	<string>OFF</string>
+	<key>FREEHAND_ON</key>
+	<string>ON</string>
+	<key>FREEHAND_PATH</key>
+	<string>Path</string>
+	<key>FREEHAND_ROTATE_90</key>
+	<string>90 Degree</string>
+	<key>FREEHAND_ROTATE_90_CCW</key>
+	<string>90° Rotate
+CCW</string>
+	<key>FREEHAND_ROTATE_90_CCW_SPOKEN</key>
+	<string>Rotate 90 Degrees Counterclockwise</string>
+	<key>FREEHAND_ROTATE_90_CW</key>
+	<string>90° Rotate
+CW</string>
+	<key>FREEHAND_ROTATE_90_CW_SPOKEN</key>
+	<string>Rotate 90 Degrees Clockwise</string>
+	<key>FREEHAND_ROTATE_CCW_ONE_LINE</key>
+	<string>CCW</string>
+	<key>FREEHAND_ROTATE_CCW_SPOKEN</key>
+	<string>Rotate Counterclockwise</string>
+	<key>FREEHAND_ROTATE_CCW_TWO_LINES</key>
+	<string>Rotate
+CCW</string>
+	<key>FREEHAND_ROTATE_CW_ONE_LINE</key>
+	<string>CW</string>
+	<key>FREEHAND_ROTATE_CW_SPOKEN</key>
+	<string>Rotate Clockwise</string>
+	<key>FREEHAND_ROTATE_CW_TWO_LINES</key>
+	<string>Rotate
+CW</string>
+	<key>FREEHAND_ROTATE_ONE_LINE</key>
+	<string>Rotate</string>
+	<key>FREEHAND_ROTATE_TWO_LINES</key>
+	<string>Rotate
+Path</string>
+	<key>FREEHAND_ROTATING</key>
+	<string>Rotating</string>
+	<key>FREEHAND_STOP_TWO_LINES</key>
+	<string>Stop
+%@</string>
+	<key>FREEHAND_STRAIGHTEN_ONE_LINE</key>
+	<string>Straighten</string>
+	<key>FREEHAND_STRAIGHTEN_TWO_LINES</key>
+	<string>Straighten
+Path</string>
+	<key>FREEHAND_STRAIGHT_ONE_LINE</key>
+	<string>Straight</string>
+	<key>FREEHAND_STRAIGHT_TWO_LINES</key>
+	<string>Straight
+Path</string>
+	<key>FREEHAND_TOUCH</key>
+	<string>Touch</string>
+	<key>FREEHAND_TOUCH_STATE_ONE_LINE</key>
+	<string>Touch: %@</string>
+	<key>FREEHAND_TOUCH_STATE_TWO_LINES</key>
+	<string>Touch:
+%@</string>
+	<key>FingersFormat</key>
+	<string>Fingers (%@)</string>
+	<key>FingersMenu</key>
+	<string>Fingers</string>
+	<key>FlickMenu</key>
+	<string>Flick</string>
+	<key>GESTURES</key>
+	<string>Gestures</string>
+	<key>GROUP</key>
+	<string>Group</string>
+	<key>GROUP_DESCRIPTION</key>
+	<string>%1$@ through %2$@</string>
+	<key>GesturePerformArea</key>
+	<string>Gesture control</string>
+	<key>GoBackGroupHighlightLabel</key>
+	<string>Back</string>
+	<key>HARDWARE_DEVICE_NOT_FOUND</key>
+	<string>Device not found.</string>
+	<key>HARDWARE_NONE</key>
+	<string>Unknown device error.</string>
+	<key>HOLD_AND_DRAG</key>
+	<string>Hold and Drag</string>
+	<key>HOME</key>
+	<string>Home</string>
+	<key>INCREASE_ZOOM</key>
+	<string>Increase
+Zoom</string>
+	<key>INCREMENT</key>
+	<string>Increment</string>
+	<key>KEYBOARD</key>
+	<string>Keyboard</string>
+	<key>LOCK</key>
+	<string>Lock
+Screen</string>
+	<key>MENU</key>
+	<string>Menu</string>
+	<key>MENU_GROUP_ROW</key>
+	<string>Row %@</string>
+	<key>MORE</key>
+	<string>More</string>
+	<key>MULTITASKING</key>
+	<string>Multitasking</string>
+	<key>MUTE</key>
+	<string>Mute</string>
+	<key>MadeForIphone_HardwareSwitch_MoveToNextItem</key>
+	<string>Next</string>
+	<key>MadeForIphone_HardwareSwitch_Select</key>
+	<string>Select</string>
+	<key>NextPageLabel_Spoken</key>
+	<string>Next Page</string>
+	<key>ORIENTATION</key>
+	<string>Rotate
+Screen</string>
+	<key>ORIENTATION-LANDSCAPE-LEFT</key>
+	<string>Left</string>
+	<key>ORIENTATION-LANDSCAPE-RIGHT</key>
+	<string>Right</string>
+	<key>ORIENTATION-PORTRAIT</key>
+	<string>Portrait</string>
+	<key>ORIENTATION-UPSIDE-DOWN</key>
+	<string>Upside Down</string>
+	<key>ORIENTATION_LOCKED</key>
+	<string>Lock
+Rotation</string>
+	<key>ORIENTATION_UNLOCKED</key>
+	<string>Unlock
+Rotation</string>
+	<key>PAN_DOWN</key>
+	<string>Pan Down</string>
+	<key>PAN_LEFT</key>
+	<string>Pan Left</string>
+	<key>PAN_RIGHT</key>
+	<string>Pan Right</string>
+	<key>PAN_UP</key>
+	<string>Pan Up</string>
+	<key>PAUSE</key>
+	<string>Pause</string>
+	<key>PINCH</key>
+	<string>Pinch</string>
+	<key>PINCH_IN</key>
+	<string>Pinch In</string>
+	<key>PINCH_OUT</key>
+	<string>Pinch Out</string>
+	<key>PanMenu</key>
+	<string>Pan</string>
+	<key>PinchMenu</key>
+	<string>Pinch</string>
+	<key>Position-Bottom</key>
+	<string>Bottom</string>
+	<key>Position-Bottom-Left</key>
+	<string>Bottom Left</string>
+	<key>Position-Bottom-Right</key>
+	<string>Bottom Right</string>
+	<key>Position-Left</key>
+	<string>Left</string>
+	<key>Position-Orig</key>
+	<string>Original</string>
+	<key>Position-Right</key>
+	<string>Right</string>
+	<key>Position-Top</key>
+	<string>Top</string>
+	<key>Position-Top-Left</key>
+	<string>Top Left</string>
+	<key>Position-Top-Right</key>
+	<string>Top Right</string>
+	<key>REDO_LINE_GESTURE</key>
+	<string>Redo</string>
+	<key>REFINE-SELECTION</key>
+	<string>Refine Selection</string>
+	<key>RESUME</key>
+	<string>Resume</string>
+	<key>ROTATE_CLOCKWISE</key>
+	<string>Rotate CW</string>
+	<key>ROTATE_COUNTERCLOCKWISE</key>
+	<string>Rotate CCW</string>
+	<key>SCAT_QUICK_ITEM_DEVICE</key>
+	<string>Device</string>
+	<key>SCAT_QUICK_ITEM_ELEMENT_ACTIONS</key>
+	<string>Actions</string>
+	<key>SCAT_QUICK_ITEM_GESTURES</key>
+	<string>Gestures</string>
+	<key>SCAT_QUICK_ITEM_HOME</key>
+	<string>Home</string>
+	<key>SCAT_QUICK_ITEM_SETTINGS</key>
+	<string>Settings</string>
+	<key>SCAT_QUICK_ITEM_SIRI</key>
+	<string>Siri</string>
+	<key>SCAT_QUICK_ITEM_VOICE_CONTROL</key>
+	<string>Voice Control</string>
+	<key>SCREENSHOT</key>
+	<string>Screenshot</string>
+	<key>SCREEN_INVALID</key>
+	<string>Triple-click the home button to stop Switch Control.</string>
+	<key>SCROLL</key>
+	<string>Scroll</string>
+	<key>SCROLL_TOP</key>
+	<string>Beginning</string>
+	<key>SETTINGS</key>
+	<string>Settings</string>
+	<key>SHAKE</key>
+	<string>Shake</string>
+	<key>SIRI</key>
+	<string>Siri</string>
+	<key>SLOWER</key>
+	<string>Slower</string>
+	<key>STOP</key>
+	<string>Stop</string>
+	<key>Scroll-Auto</key>
+	<string>Auto</string>
+	<key>Scroll-Down</key>
+	<string>Scroll Down</string>
+	<key>Scroll-Left</key>
+	<string>Scroll Left</string>
+	<key>Scroll-Right</key>
+	<string>Scroll Right</string>
+	<key>Scroll-Up</key>
+	<string>Scroll Up</string>
+	<key>Settings-First</key>
+	<string>First</string>
+	<key>Settings-Grouping-Off</key>
+	<string>Group
+Off</string>
+	<key>Settings-Grouping-On</key>
+	<string>Group
+On</string>
+	<key>Settings-Last</key>
+	<string>Last</string>
+	<key>Settings-Move</key>
+	<string>Move
+Menu</string>
+	<key>Settings-Scan-By-Axis</key>
+	<string>Axis</string>
+	<key>Settings-Scan-By-Elements</key>
+	<string>Item
+Mode</string>
+	<key>Settings-Scan-By-Grid</key>
+	<string>Grid</string>
+	<key>Settings-Scan-By-Point</key>
+	<string>Point
+Mode</string>
+	<key>Settings-Scan-Direction</key>
+	<string>Scan
+Order</string>
+	<key>Settings-Slow-Down</key>
+	<string>Slow
+Down</string>
+	<key>Settings-Sound-Off</key>
+	<string>Sound
+Off</string>
+	<key>Settings-Sound-On</key>
+	<string>Sound
+On</string>
+	<key>Settings-Speech-Off</key>
+	<string>Speech
+Off</string>
+	<key>Settings-Speech-On</key>
+	<string>Speech
+On</string>
+	<key>Settings-Speed-Up</key>
+	<string>Speed
+Up</string>
+	<key>TAP</key>
+	<string>Tap</string>
+	<key>TAP_AND_HOLD</key>
+	<string>Tap and Hold</string>
+	<key>TOP</key>
+	<string>Top</string>
+	<key>TRIPLE_CLICK</key>
+	<string>Triple-Click</string>
+	<key>UNMUTE</key>
+	<string>Unmute</string>
+	<key>VOICE_CONTROL</key>
+	<string>Voice Control</string>
+	<key>VOLUME_DOWN</key>
+	<string>Decrease
+Volume</string>
+	<key>VOLUME_DOWN_ASSISTIVE_TOUCH</key>
+	<string>Volume
+Down</string>
+	<key>VOLUME_UP</key>
+	<string>Increase
+Volume</string>
+	<key>VOLUME_UP_ASSISTIVE_TOUCH</key>
+	<string>Volume
+Up</string>
+	<key>ZOOM_IN</key>
+	<string>Zoom In</string>
+	<key>ZOOM_OUT</key>
+	<string>Zoom Out</string>
+	<key>back.button</key>
+	<string>Back</string>
+	<key>empty.favorite.gesture.button</key>
+	<string>Add custom gesture</string>
+	<key>nubbit.hint</key>
+	<string>Double tap to open the menu</string>
+	<key>nubbit.label</key>
+	<string>AssistiveTouch menu</string>
+</dict>
+</plist>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ERROR_ASSET_DOWNLOADER_ORPHANED</key>
+	<string>The photo could not be downloaded.</string>
+	<key>ERROR_ASSET_TRANS_CANCELED</key>
+	<string>The photo sharing operation was canceled.</string>
+	<key>ERROR_ASSET_TRANS_MISSING_MMCS_TOKEN</key>
+	<string>The photo could not be shared because an access token is missing.</string>
+	<key>ERROR_ASSET_TRANS_MISSING_URL</key>
+	<string>The photo could not be shared because a URL is missing.</string>
+	<key>ERROR_ASSET_TRANS_MMCS_TOKEN_TOO_OLD</key>
+	<string>Access to the shared photo must be requested again.</string>
+	<key>ERROR_ASSET_UPLOADER_ORPHANED</key>
+	<string>The photo could not be uploaded.</string>
+	<key>ERROR_CONNECTION_CORE_AUTH_FAILED_ERROR</key>
+	<string>The Photo Stream server has rejected the user’s login credentials.</string>
+	<key>ERROR_CONNECTION_CORE_FAILED_SERVER_ERROR</key>
+	<string>The Photo Stream server reported a server error.</string>
+	<key>ERROR_CONNECTION_CORE_FATAL_P_RESPONSE</key>
+	<string>A network error occurred during communication with the Photo Stream server (%@).</string>
+	<key>ERROR_CONNECTION_CORE_FORBIDDEN_ERROR</key>
+	<string>The Photo Stream server has rejected the user's request.</string>
+	<key>ERROR_CONNECTION_CORE_NO_URL_ERROR</key>
+	<string>A connection to the Photo Stream server could not be made.</string>
+	<key>ERROR_DELETER_ABORTED</key>
+	<string>The Photo Stream deletion has been canceled.</string>
+	<key>ERROR_DELETE_CORE_BAD_FIELD_P_FIELD</key>
+	<string>The Photo Stream deletion response contains an invalid field “%@”.</string>
+	<key>ERROR_GET_CONNECTION_BAD_FILE_HASH_P_NAME</key>
+	<string>A photo in the Photo Stream could not be retrieved.</string>
+	<key>ERROR_GET_CONNECTION_FATAL_P_RESPONSE</key>
+	<string>A network error occurred while retrieving subscription information from Photo Stream server (%@).</string>
+	<key>ERROR_GET_CONNECTION_INVALID_FIELD_P_NAME</key>
+	<string>The Photo Stream server has returned an invalid response for the subscription field “%@”.</string>
+	<key>ERROR_GET_CONNECTION_INVALID_STREAMS_RESPONSE</key>
+	<string>The Photo Stream server has returned an invalid response during a subscription update.</string>
+	<key>ERROR_GET_CONNECTION_MISSING_CHUNK</key>
+	<string>A data file is missing from the Photo Stream.</string>
+	<key>ERROR_GET_CORE_CONNECTION_BAD_CHUNK_TYPE</key>
+	<string>The Photo Stream server returned a response with an invalid data block.</string>
+	<key>ERROR_GET_CORE_CONNECTION_BAD_FIELD_P_FIELD</key>
+	<string>The Photo Stream response contains an invalid field “%@”.</string>
+	<key>ERROR_GET_CORE_CONNECTION_BAD_PART_TYPE</key>
+	<string>The Photo Stream server returned a response block of the wrong type.</string>
+	<key>ERROR_GET_CORE_CONNECTION_BAD_STATE</key>
+	<string>The Photo Stream could not be processed.</string>
+	<key>ERROR_GET_CORE_CONNECTION_BLOCK_SHORT</key>
+	<string>The Photo Stream server returned a block that is too short.</string>
+	<key>ERROR_GET_CORE_CONNECTION_FATAL_P_RESPONSE</key>
+	<string>A network error occurred while retrieving photos from the Photo Stream server (%@).</string>
+	<key>ERROR_GET_CORE_CONNECTION_INCOMPLETE</key>
+	<string>The Photo Stream server returned an incomplete response.</string>
+	<key>ERROR_GET_CORE_CONNECTION_INVALID_CHUNK_SIZE</key>
+	<string>The Photo Stream server returned a response with an invalid size.</string>
+	<key>ERROR_GET_CORE_CONNECTION_SERVER_ERROR</key>
+	<string>The Photo Stream server reported a server error.</string>
+	<key>ERROR_MODEL_CANNOT_SET_MULTIPLECONTRIBUTORS</key>
+	<string>The Shared Photo Stream could not be set to allow multiple contributors</string>
+	<key>ERROR_MODEL_CANNOT_SET_PUBLIC</key>
+	<string>The Shared Photo Stream could not be made public</string>
+	<key>ERROR_MODEL_CANNOT_UNSET_MULTIPLECONTRIBUTORS</key>
+	<string>The Shared Photo Stream could not be set to not allow multiple contributors</string>
+	<key>ERROR_MODEL_CANNOT_UNSET_PUBLIC</key>
+	<string>The Shared Photo Stream could not be made non-public</string>
+	<key>ERROR_MODEL_INVALID_ALBUM</key>
+	<string>The Shared Photo Stream for the photo could not be found.</string>
+	<key>ERROR_MODEL_INVALID_COMMENT</key>
+	<string>The comment could not be found.</string>
+	<key>ERROR_MODEL_INVALID_INVITATION</key>
+	<string>The invitation could not be accepted.</string>
+	<key>ERROR_MSAS_PROT_BAD_FIELD</key>
+	<string>The Shared Photo Streams server returned an invalid field.</string>
+	<key>ERROR_MSAS_PROT_BAD_FIELD_P_FIELD</key>
+	<string>The Shared Photo Streams server returned an invalid field “%@”.</string>
+	<key>ERROR_MSAS_PROT_CANNOT_CONTINUE</key>
+	<string>The Shared Photo Streams operation could not be completed.</string>
+	<key>ERROR_MSAS_PROT_CANNOT_CREATE_ALBUM</key>
+	<string>The Shared Photo Stream “%@” could not be created.</string>
+	<key>ERROR_MSAS_PROT_CANNOT_ENCODE</key>
+	<string>The Shared Photo Streams operation cannot be sent to the server.</string>
+	<key>ERROR_MSAS_PROT_COLL_ALREADY_EXISTS</key>
+	<string>The photo already exists in the Shared Photo Stream.</string>
+	<key>ERROR_MSAS_PROT_COLL_IGNORED</key>
+	<string>The Shared Photo Streams server did not respond to the upload request.</string>
+	<key>ERROR_MSAS_PROT_COLL_REJECTED</key>
+	<string>The photo could not be shared.</string>
+	<key>ERROR_MSAS_PROT_COMMENT_NO_INDEX</key>
+	<string>The Shared Photo Streams server could not assign a position for the comment.</string>
+	<key>ERROR_MSAS_PROT_HTTP_ERROR_P_CODE</key>
+	<string>The Shared Photo Streams server returned an error (%@).</string>
+	<key>ERROR_MSAS_PROT_LIMIT_ALBUMS_P_COUNT</key>
+	<string>You may not create more than %@ Shared Photo Streams.</string>
+	<key>ERROR_MSAS_PROT_LIMIT_BANDWIDTH</key>
+	<string>Server bandwidth limit exceeded, please try again later.</string>
+	<key>ERROR_MSAS_PROT_LIMIT_COMMENTS_P_COUNT</key>
+	<string>A photo may not have more than %@ comments.</string>
+	<key>ERROR_MSAS_PROT_LIMIT_COMMENT_LENGTH</key>
+	<string>The comment is too long.</string>
+	<key>ERROR_MSAS_PROT_LIMIT_INVITATIONS_P_COUNT</key>
+	<string>You may not invite more than %@ subscribers per day to Shared Photo Streams.</string>
+	<key>ERROR_MSAS_PROT_LIMIT_PHOTOS_P_COUNT</key>
+	<string>You may not share more than %@ photos in a Shared Photo Stream.</string>
+	<key>ERROR_MSAS_PROT_LIMIT_SUBSCRIBERS_P_COUNT</key>
+	<string>You may not invite more than %@ subscribers to one Shared Photo Stream.</string>
+	<key>ERROR_MSAS_PROT_LIMIT_SUBSCRIPTIONS_P_COUNT</key>
+	<string>You may not subscribe to more than %@ Shared Photo Streams.</string>
+	<key>ERROR_MSAS_PROT_MISMATCHED_COLLECTION</key>
+	<string>The Shared Photo Streams server returned a mismatched photo identifier.</string>
+	<key>ERROR_MSAS_PROT_NOT_REAUTHED</key>
+	<string>The Shared Photo Streams server did not allow the photo to be downloaded.</string>
+	<key>ERROR_MSAS_PROT_SHUTTING_DOWN</key>
+	<string>Shared Photo Streams is shutting down.</string>
+	<key>ERROR_MSAS_PROT_STOPPING</key>
+	<string>Shared Photo Streams is pausing.</string>
+	<key>ERROR_MSAS_PROT_VISITOR_AUTH_FAILURE</key>
+	<string>The Shared Photo Stream subscription needs to be reauthorized.</string>
+	<key>ERROR_MSAS_SUB_MISSING_FIELD_P_FIELD</key>
+	<string>The response to the Shared Photo Stream request is missing the field “%@”.</string>
+	<key>ERROR_MSAS_SUB_NO_METADATA</key>
+	<string>The Shared Photo Streams server did not provide any information for the photo.</string>
+	<key>ERROR_PUBLISHER_ABORTED</key>
+	<string>The Shared Photo Stream upload has been canceled.</string>
+	<key>ERROR_PUBLISHER_ASSET_REJECTED</key>
+	<string>The photo has been rejected for uploading.</string>
+	<key>ERROR_PUBLISHER_ASSET_TOO_LARGE</key>
+	<string>The photo file is too large.</string>
+	<key>ERROR_PUBLISHER_CANNOT_COMPUTE_HASH</key>
+	<string>The photo file cannot be queued for uploading.</string>
+	<key>ERROR_PUBLISHER_CANNOT_GET_FD</key>
+	<string>The photo file is invalid.</string>
+	<key>ERROR_PUBLISHER_MISSING</key>
+	<string>The publisher is missing</string>
+	<key>ERROR_PUBLISHER_MISSING_HASH</key>
+	<string>The photo file is missing information needed for uploading.</string>
+	<key>ERROR_PUBLISHER_SEND_QUEUE_MISMATCH</key>
+	<string>Found mismatch between expecting sending queue count and actual count</string>
+	<key>ERROR_PUBLISHER_UTI_REJECTED_P_UTI</key>
+	<string>The Shared Photo Streams server cannot accept files of type “%@”.</string>
+	<key>ERROR_PUBLISH_STORAGE_CANNOT_PUBLISH</key>
+	<string>The photo file cannot be published.</string>
+	<key>ERROR_PUBLISH_STORAGE_CANNOT_QUEUE</key>
+	<string>The photo file cannot be queued for upload.</string>
+	<key>ERROR_PUBLISH_STORAGE_NEED_RESUBMISSION</key>
+	<string>The photo file was changed before it could be uploaded.</string>
+	<key>ERROR_PUT_CONNECTION_CANNOT_PARSE</key>
+	<string>The Photo Stream server response could not be understood.</string>
+	<key>ERROR_PUT_CONNECTION_FATAL_P_RESPONSE</key>
+	<string>A network error occurred while publishing photos to the Photo Stream server (%@).</string>
+	<key>ERROR_PUT_CONNECTION_INVALID_ASSET_HASH</key>
+	<string>The Photo Stream server response did not include the correct upload authorization.</string>
+	<key>ERROR_PUT_CONNECTION_INVALID_STORAGE_URL</key>
+	<string>The Photo Stream server response did not include a valid storage URL.</string>
+	<key>ERROR_PUT_CONNECTION_INVALID_STREAMS_RESPONSE</key>
+	<string>The Photo Stream server has returned an invalid response during publication.</string>
+	<key>ERROR_PUT_CONNECTION_MISSING_ASSET_FIELD_P_FIELD</key>
+	<string>A photo is missing the parameter “%@”.</string>
+	<key>ERROR_PUT_CORE_CONNECTION_FATAL_P_RESPONSE</key>
+	<string>A network error occurred while publishing photos to the Photo Stream server (%@).</string>
+	<key>ERROR_PUT_CORE_CONNECTION_SERVER_ERROR</key>
+	<string>The Photo Stream server reported a server error.</string>
+	<key>ERROR_SHARE_CORE_CONNECTION_SERVER_ERROR</key>
+	<string>The Photo Stream server reported a server error.</string>
+	<key>ERROR_SHARING_BAD_FIELD_P_FIELD</key>
+	<string>The Shared Photo Stream sharing status contains an invalid field “%@”.</string>
+	<key>ERROR_SHARING_INVALID_PUSH_FIELD_P_FIELD</key>
+	<string>The invitation contains an invalid field “%@”.</string>
+	<key>ERROR_SHARING_INVALID_TYPE</key>
+	<string>The Shared Photo Streams server reported a sharing status of the wrong type.</string>
+	<key>ERROR_STATE_ALBUM_STATE_CTAG_MISSING</key>
+	<string>The Shared Photo Stream state could not be set.</string>
+	<key>ERROR_STATE_CANCELED</key>
+	<string>The Shared Photo Streams operation was canceled.</string>
+	<key>ERROR_STATE_CANNOT_REQUEUE_AFTER_URL</key>
+	<string>The Shared Photo Stream operation is missing an album.</string>
+	<key>ERROR_STATE_PHOTO_NOT_IN_MODEL</key>
+	<string>The photo is no longer in the Shared Photo Stream.</string>
+	<key>ERROR_STATE_PHOTO_REJECTED</key>
+	<string>The photo was not uploaded to Shared Photo Streams.</string>
+	<key>ERROR_STATE_STOPPED</key>
+	<string>The Shared Photo Streams operation was stopped.</string>
+	<key>ERROR_SUBSCRIBER_ABORTED</key>
+	<string>The Shared Photo Stream subscription check has been canceled.</string>
+	<key>ERROR_SUBSCRIBER_ASSET_BAD_SIGNATURE</key>
+	<string>The photo file has a bad file identifier.</string>
+	<key>ERROR_SUBSCRIBER_ASSET_INVALID</key>
+	<string>The photo file is invalid.</string>
+	<key>ERROR_SUBSCRIBER_BAD_TOKEN</key>
+	<string>The photo access token has expired.</string>
+	<key>ERROR_SUBSCRIBER_CANNOT_GET_ASSET</key>
+	<string>The photo file cannot be downloaded.</string>
+	<key>ERROR_SUBSCRIBER_CANNOT_GET_VIDEO</key>
+	<string>The video file cannot be downloaded.</string>
+	<key>ERROR_SUBSCRIBER_CANNOT_RETRIEVE</key>
+	<string>The photo file cannot be downloaded.</string>
+	<key>ERROR_SUBSCRIBER_NOT_AUTH</key>
+	<string>The photo file cannot be accessed.</string>
+	<key>INV_SHARE_BOTH_WAYS_P_EMAIL</key>
+	<string>Would you like to see the photos in %1$@’s Photo Stream and let them see your Photo Stream?</string>
+	<key>INV_SHARE_BOTH_WAYS_P_NAME_P_EMAIL_P_FNAME</key>
+	<string>Would you like to see the photos in %1$@’s (%2$@) Photo Stream and let %3$@ see your Photo Stream?</string>
+	<key>INV_SHARE_OUR_STREAM_P_EMAIL</key>
+	<string>Would you like to let %1$@ see your Photo Stream?</string>
+	<key>INV_SHARE_OUR_STREAM_P_NAME_P_EMAIL</key>
+	<string>Would you like to let %1$@ (%2$@) see your Photo Stream?</string>
+	<key>INV_SHARE_THEIR_STREAM_P_EMAIL</key>
+	<string>Would you like to see the photos in %1$@’s Photo Stream?</string>
+	<key>INV_SHARE_THEIR_STREAM_P_NAME_P_EMAIL</key>
+	<string>Would you like to see the photos in %1$@’s (%2$@) Photo Stream?</string>
+	<key>INV_TITLE</key>
+	<string>Share Photo Streams</string>
+	<key>Model.error.invalidACLGUID_GUID</key>
+	<string>The access control GUID “%@” could not be found.</string>
+	<key>Model.error.invalidAssetCollectionGUID_GUID</key>
+	<string>The photo GUID “%@” could not be found.</string>
+	<key>Model.error.invalidInvitationGUID_GUID</key>
+	<string>The invitation GUID “%@” could not be found.</string>
+	<key>Model.error.protocol</key>
+	<string>An error was found while communicating with the Shared Photo Streams server.</string>
+	<key>SERVER_CONFIG_INVALID</key>
+	<string>The Photo Stream configuration returned by the server is invalid.</string>
+	<key>UPDATE_PHOTO_STREAM_TITLE</key>
+	<string>Photo Stream</string>
+	<key>UPDATE_STOPPED_SHARING_BOTH_WAYS_P_NAME</key>
+	<string>%1$@ has stopped sharing Photo Streams with you.</string>
+	<key>UPDATE_STOPPED_SHARING_OUR_STREAM_P_NAME</key>
+	<string>%1$@ has stopped viewing the photos in your stream.</string>
+	<key>UPDATE_STOPPED_SHARING_THEIR_STREAM_P_NAME</key>
+	<string>%1$@ has stopped sharing photos with you.</string>
+</dict>
+</plist>

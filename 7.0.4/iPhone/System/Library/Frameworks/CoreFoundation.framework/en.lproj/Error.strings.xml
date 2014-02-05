@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BundleErr3584</key>
+	<string>The bundle “%@” couldn’t be loaded because its executable isn’t loadable.</string>
+	<key>BundleErr3584-C</key>
+	<string>The bundle’s executable isn’t loadable.</string>
+	<key>BundleErr3584-R</key>
+	<string>Try reinstalling the bundle.</string>
+	<key>BundleErr3585</key>
+	<string>The bundle “%@” couldn’t be loaded because it doesn’t contain a version for the current architecture.</string>
+	<key>BundleErr3585-C</key>
+	<string>The bundle doesn’t contain a version for the current architecture.</string>
+	<key>BundleErr3585-R</key>
+	<string>Try installing a universal version of the bundle.</string>
+	<key>BundleErr3586</key>
+	<string>The bundle “%@” couldn’t be loaded because it isn’t compatible with the current application.</string>
+	<key>BundleErr3586-C</key>
+	<string>The bundle isn’t compatible with this application.</string>
+	<key>BundleErr3586-R</key>
+	<string>Try installing a newer version of the bundle.</string>
+	<key>BundleErr3587</key>
+	<string>The bundle “%@” couldn’t be loaded because it is damaged or missing necessary resources.</string>
+	<key>BundleErr3587-C</key>
+	<string>The bundle is damaged or missing necessary resources.</string>
+	<key>BundleErr3587-R</key>
+	<string>Try reinstalling the bundle.</string>
+	<key>BundleErr3588</key>
+	<string>The bundle “%@” couldn’t be loaded.</string>
+	<key>BundleErr3588-C</key>
+	<string>The bundle couldn’t be loaded.</string>
+	<key>BundleErr3588-R</key>
+	<string>Try reinstalling the bundle.</string>
+	<key>BundleErr4</key>
+	<string>The bundle “%@” couldn’t be loaded because its executable couldn’t be located.</string>
+	<key>BundleErr4-C</key>
+	<string>The bundle’s executable couldn’t be located.</string>
+	<key>BundleErr4-R</key>
+	<string>Try reinstalling the bundle.</string>
+	<key>NSCocoaErrorDomain</key>
+	<string>Cocoa</string>
+	<key>NSCoreFoundationErrorDomain</key>
+	<string>Core Foundation</string>
+	<key>NSMachErrorDomain</key>
+	<string>Mach</string>
+	<key>NSOSStatusErrorDomain</key>
+	<string>OSStatus</string>
+	<key>NSPOSIXErrorDomain</key>
+	<string>POSIX</string>
+	<key>The operation couldn\U2019t be completed. %@</key>
+	<string>The operation couldn’t be completed. %@</string>
+	<key>The operation couldn\U2019t be completed. (%@ error %ld - %@)</key>
+	<string>The operation couldn’t be completed. (%1$@ error %2$ld - %3$@)</string>
+	<key>The operation couldn\U2019t be completed. (%@ error %ld.)</key>
+	<string>The operation couldn’t be completed. (%1$@ error %2$ld.)</string>
+</dict>
+</plist>

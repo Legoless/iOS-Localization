@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AccessorySetupTitle</key>
+	<string>Accessory Setup</string>
+	<key>AddToAnotherNetwork</key>
+	<string>Add to Another Network</string>
+	<key>AddToDifferentNetwork</key>
+	<string>Add to a Different Network</string>
+	<key>AddToExistingNetwork</key>
+	<string>Add to an Existing Network</string>
+	<key>AddToFooter</key>
+	<string>Set up this AirPort base station to join or extend an existing Wi-Fi network.</string>
+	<key>AddToFooter.AirPortExpress</key>
+	<string>Set up this AirPort Express to join or extend an existing Wi-Fi network.</string>
+	<key>AddToFooter.AirPortExtreme</key>
+	<string>Set up this AirPort Extreme to join or extend an existing Wi-Fi network.</string>
+	<key>AddToFooter.TimeCapsule</key>
+	<string>Set up this AirPort Time Capsule to join or extend an existing Wi-Fi network.</string>
+	<key>AdminPasswordSectionTitle</key>
+	<string>Base Station Password</string>
+	<key>AdminPasswordSectionTitle.Airplay</key>
+	<string>Device Password</string>
+	<key>AirPlayPasswordPlaceholder</key>
+	<string>Optional</string>
+	<key>AirPlayPasswordSectionTitle</key>
+	<string>Speaker Password</string>
+	<key>AirPlaySetupTitle</key>
+	<string>AirPlay Setup</string>
+	<key>AirPlayVerifyPlaceholder</key>
+	<string>Verify Password</string>
+	<key>AirPortSetupTitle</key>
+	<string>AirPort Setup</string>
+	<key>AskToGetAirPortUtility</key>
+	<string>Managing networks requires AirPort Utility.
+
+Would you like to download it from the App Store?</string>
+	<key>AskUserToSelect</key>
+	<string>Select the base station whose networks you would like to extend.</string>
+	<key>AskUserToSelectOne</key>
+	<string>Select the base station whose network you would like to extend.</string>
+	<key>AttachAsClient</key>
+	<string>Attach as a Client</string>
+	<key>AudioPluginDetectedOK</key>
+	<string>Your %@ is now connected properly and is ready to continue setup.</string>
+	<key>AudioPort</key>
+	<string>Audio jack</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired</key>
+	<string>Extend this Network</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.Complete</key>
+	<string>“%@” is now extending your network using Ethernet.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.Complete.AirPortExpress</key>
+	<string>This AirPort Express is now extending “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.Complete.AirPortExtreme</key>
+	<string>This AirPort Extreme is now extending “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.Complete.TimeCapsule</key>
+	<string>This AirPort Time Capsule is now extending “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.InProcess</key>
+	<string>Setting up this base station to extend “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to extend “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to extend “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to extend “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWired.Specific</key>
+	<string>Extend this Network Using Ethernet</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless</key>
+	<string>Extend this Network</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.Complete</key>
+	<string>“%@” is now wirelessly extending your network.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.Complete.AirPortExpress</key>
+	<string>AirPort Express is now wirelessly extending “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.Complete.AirPortExtreme</key>
+	<string>AirPort Extreme is now wirelessly extending “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.Complete.TimeCapsule</key>
+	<string>AirPort Time Capsule is now wirelessly extending “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.InProcess</key>
+	<string>Setting up this base station to wirelessly extend “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to wirelessly extend “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to wirelessly extend “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to wirelessly extend “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseBaseWireless.Specific</key>
+	<string>Extend this Network Using Wi-Fi</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin</key>
+	<string>Join a Network</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.Complete</key>
+	<string>This base station joined “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.Complete.AirPlay</key>
+	<string>This AirPlay speaker joined “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.Complete.AirPortExpress</key>
+	<string>This AirPort Express joined “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.Complete.AirPortExtreme</key>
+	<string>This AirPort Extreme joined “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.Complete.MFiAccessory</key>
+	<string>This accessory joined “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.Complete.TimeCapsule</key>
+	<string>This AirPort Time Capsule joined “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.InProcess</key>
+	<string>Setting up this base station to join “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.InProcess.AirPlay</key>
+	<string>Setting up this AirPlay speaker to join “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to join “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to join “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.InProcess.MFiAccessory</key>
+	<string>Setting up this accessory to join “%@”.</string>
+	<key>BSSetupRecommend_AskUserChooseNetworkToJoin.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to join “%@”.</string>
+	<key>BSSetupRecommend_OfferCreate</key>
+	<string>Create a New Network</string>
+	<key>BSSetupRecommend_OfferCreate.Complete</key>
+	<string>“%@” is now available.</string>
+	<key>BSSetupRecommend_OfferCreate.InProcess</key>
+	<string>Setting up this base station to create a network.</string>
+	<key>BSSetupRecommend_OfferCreate.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to create a network.</string>
+	<key>BSSetupRecommend_OfferCreate.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to create a network.</string>
+	<key>BSSetupRecommend_OfferCreate.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to create a network.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet</key>
+	<string>Extend this Network</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.Complete</key>
+	<string>“%@” is now extending your network using Ethernet.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.Complete.AirPortExpress</key>
+	<string>This AirPort Express is now extending “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.Complete.AirPortExtreme</key>
+	<string>This AirPort Extreme is now extending “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.Complete.TimeCapsule</key>
+	<string>This AirPort Time Capsule is now extending “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.InProcess</key>
+	<string>Setting up this base station to extend “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to extend “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to extend “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to extend “%@” using Ethernet.</string>
+	<key>BSSetupRecommend_OfferExtendOverEthernet.Specific</key>
+	<string>Extend this Network Using Ethernet</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly</key>
+	<string>Extend this Network</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.Complete</key>
+	<string>“%@” is now wirelessly extending your network.</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.Complete.AirPortExpress</key>
+	<string>AirPort Express is now wirelessly extending “%@”.</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.Complete.AirPortExtreme</key>
+	<string>AirPort Extreme is now wirelessly extending “%@”.</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.Complete.TimeCapsule</key>
+	<string>AirPort Time Capsule is now wirelessly extending “%@”.</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.InProcess</key>
+	<string>Setting up this base station to wirelessly extend “%@”.</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to wirelessly extend “%@”.</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to wirelessly extend “%@”.</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to wirelessly extend “%@”.</string>
+	<key>BSSetupRecommend_OfferExtendWirelessly.Specific</key>
+	<string>Extend this Network Using Wi-Fi</string>
+	<key>BSSetupRecommend_OfferJoinNetwork</key>
+	<string>Join a Network</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.Complete</key>
+	<string>This base station joined “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.Complete.AirPlay</key>
+	<string>This AirPlay speaker joined “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.Complete.AirPortExpress</key>
+	<string>This AirPort Express joined “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.Complete.AirPortExtreme</key>
+	<string>This AirPort Extreme joined “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.Complete.MFiAccessory</key>
+	<string>This accessory joined “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.Complete.TimeCapsule</key>
+	<string>This AirPort Time Capsule joined “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.InProcess</key>
+	<string>Setting up this base station to join “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.InProcess.AirPlay</key>
+	<string>Setting up this AirPlay speaker to join “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to join “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to join “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.InProcess.MFiAccessory</key>
+	<string>Setting up this accessory to join “%@”.</string>
+	<key>BSSetupRecommend_OfferJoinNetwork.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to join “%@”.</string>
+	<key>BSSetupRecommend_OfferReplace</key>
+	<string>Replace a Device</string>
+	<key>BSSetupRecommend_OfferReplace.Complete</key>
+	<string>This base station has now replaced “%@”.</string>
+	<key>BSSetupRecommend_OfferReplace.Complete.AirPortExpress</key>
+	<string>This AirPort Express has now replaced “%@”.</string>
+	<key>BSSetupRecommend_OfferReplace.Complete.AirPortExtreme</key>
+	<string>This AirPort Extreme has now replaced “%@”.</string>
+	<key>BSSetupRecommend_OfferReplace.Complete.TimeCapsule</key>
+	<string>This AirPort Time Capsule has now replaced “%@”.</string>
+	<key>BSSetupRecommend_OfferReplace.InProcess</key>
+	<string>Setting up this base station to replace “%@”.</string>
+	<key>BSSetupRecommend_OfferReplace.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to replace “%@”.</string>
+	<key>BSSetupRecommend_OfferReplace.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to replace “%@”.</string>
+	<key>BSSetupRecommend_OfferReplace.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to replace “%@”.</string>
+	<key>BSSetupRecommend_OfferReplaceAndReconfigSourceAsDWDS</key>
+	<string>Replace an Existing Device</string>
+	<key>BSSetupRecommend_OfferReplaceAndReconfigSourceAsSTA</key>
+	<string>Replace an Existing Device</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration</key>
+	<string>Replace a Device</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration.Complete</key>
+	<string>“%@” is now set up.</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration.Complete.AirPortExpress</key>
+	<string>This AirPort Express is now set up.</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration.Complete.AirPortExtreme</key>
+	<string>This AirPort Extreme is now set up.</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration.Complete.TimeCapsule</key>
+	<string>This AirPort Time Capsule is now set up.</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration.InProcess</key>
+	<string>Setting up this base station with the selected configuration settings.</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express with the selected configuration settings.</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme with the selected configuration settings.</string>
+	<key>BSSetupRecommend_OfferReplaceConfiguration.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule with the selected configuration settings.</string>
+	<key>BSSetupRecommend_OfferReplaceSourceIsUnconfigurable</key>
+	<string>Create a New Network</string>
+	<key>BSSetupRecommend_OfferReplaceSourceIsUnconfigurable.Complete</key>
+	<string>“%@” is now available.</string>
+	<key>BSSetupRecommend_OfferReplaceSourceIsUnconfigurable.InProcess</key>
+	<string>Setting up this base station to create a network.</string>
+	<key>BSSetupRecommend_OfferReplaceSourceIsUnconfigurable.InProcess.AirPortExpress</key>
+	<string>Setting up this AirPort Express to create a network.</string>
+	<key>BSSetupRecommend_OfferReplaceSourceIsUnconfigurable.InProcess.AirPortExtreme</key>
+	<string>Setting up this AirPort Extreme to create a network.</string>
+	<key>BSSetupRecommend_OfferReplaceSourceIsUnconfigurable.InProcess.TimeCapsule</key>
+	<string>Setting up this AirPort Time Capsule to create a network.</string>
+	<key>BSSetupRecommend_OfferRestore</key>
+	<string>Restore to Previous Settings</string>
+	<key>BSSetupRecommend_OfferRestore.Complete</key>
+	<string>“%@” is restored to previous settings.</string>
+	<key>BSSetupRecommend_OfferRestore.Complete.AirPortExpress</key>
+	<string>This AirPort Express is restored to previous settings.</string>
+	<key>BSSetupRecommend_OfferRestore.Complete.AirPortExtreme</key>
+	<string>This AirPort Extreme is restored to previous settings.</string>
+	<key>BSSetupRecommend_OfferRestore.Complete.TimeCapsule</key>
+	<string>This AirPort Time Capsule is restored to previous settings.</string>
+	<key>BSSetupRecommend_OfferRestore.InProcess</key>
+	<string>Restoring this base station to its previous settings.</string>
+	<key>BSSetupRecommend_OfferRestore.InProcess.AirPortExpress</key>
+	<string>Restoring this AirPort Express to its previous settings.</string>
+	<key>BSSetupRecommend_OfferRestore.InProcess.AirPortExtreme</key>
+	<string>Restoring this AirPort Extreme to its previous settings.</string>
+	<key>BSSetupRecommend_OfferRestore.InProcess.TimeCapsule</key>
+	<string>Restoring this AirPort Time Capsule to its previous settings.</string>
+	<key>BasePasswordExplanation</key>
+	<string>The password is required to change settings on this device.</string>
+	<key>BasePasswordLabel</key>
+	<string>Base Station Password</string>
+	<key>BasePasswordLabel.AirPortExpress</key>
+	<string>AirPort Express Password</string>
+	<key>BasePasswordLabel.AirPortExtreme</key>
+	<string>AirPort Extreme Password</string>
+	<key>BasePasswordLabel.TimeCapsule</key>
+	<string>AirPort Time Capsule Password</string>
+	<key>BasePasswordUsedForDisks</key>
+	<string>The base station password will be used to secure disks.</string>
+	<key>BaseStationTooNew</key>
+	<string>This device is too new and cannot be set up.</string>
+	<key>BaseStationTooNew.AirPlay</key>
+	<string>This AirPlay speaker is too new and cannot be set up.</string>
+	<key>BaseStationTooNew.AirPortExpress</key>
+	<string>This AirPort Express is too new and cannot be set up.</string>
+	<key>BaseStationTooNew.AirPortExtreme</key>
+	<string>This AirPort Extreme is too new and cannot be set up.</string>
+	<key>BaseStationTooNew.MFiAccessory</key>
+	<string>This accessory is too new and cannot be set up.</string>
+	<key>BaseStationTooNew.TimeCapsule</key>
+	<string>This AirPort Time Capsule is too new and cannot be set up.</string>
+	<key>BroadbandDeviceOrLAN</key>
+	<string>Broadband device or LAN</string>
+	<key>CanRestoreToCreateNetwork</key>
+	<string>This base station can be restored to the previous network.</string>
+	<key>CanRestoreToCreateNetwork.AirPortExpress</key>
+	<string>This AirPort Express can be restored to the previous network.</string>
+	<key>CanRestoreToCreateNetwork.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to the previous network.</string>
+	<key>CanRestoreToCreateNetwork.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to the previous network.</string>
+	<key>CanRestoreToCreateNetworkSpecific</key>
+	<string>This base station can be restored to the previous network “%@”.</string>
+	<key>CanRestoreToCreateNetworkSpecific.AirPortExpress</key>
+	<string>This AirPort Express can be restored to the previous network “%@”.</string>
+	<key>CanRestoreToCreateNetworkSpecific.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to the previous network “%@”.</string>
+	<key>CanRestoreToCreateNetworkSpecific.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to the previous network “%@”.</string>
+	<key>CanRestoreToExtendNetwork</key>
+	<string>This base station can be restored to extend its previous network.</string>
+	<key>CanRestoreToExtendNetwork.AirPortExpress</key>
+	<string>This AirPort Express can be restored to extend its previous network.</string>
+	<key>CanRestoreToExtendNetwork.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to extend its previous network.</string>
+	<key>CanRestoreToExtendNetwork.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to extend its previous network.</string>
+	<key>CanRestoreToExtendNetworkSpecific</key>
+	<string>This base station can be restored to extend its previous network “%@”.</string>
+	<key>CanRestoreToExtendNetworkSpecific.AirPortExpress</key>
+	<string>This AirPort Express can be restored to extend its previous network “%@”.</string>
+	<key>CanRestoreToExtendNetworkSpecific.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to extend its previous network “%@”.</string>
+	<key>CanRestoreToExtendNetworkSpecific.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to extend its previous network “%@”.</string>
+	<key>CanRestoreToJoinNetwork</key>
+	<string>This base station can be restored to join its previous network.</string>
+	<key>CanRestoreToJoinNetwork.AirPortExpress</key>
+	<string>This AirPort Express can be restored to join its previous network.</string>
+	<key>CanRestoreToJoinNetwork.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to join its previous network.</string>
+	<key>CanRestoreToJoinNetwork.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to join its previous network.</string>
+	<key>CanRestoreToJoinNetworkSpecific</key>
+	<string>This base station can be restored to join its previous network “%@”.</string>
+	<key>CanRestoreToJoinNetworkSpecific.AirPortExpress</key>
+	<string>This AirPort Express can be restored to join its previous network “%@”.</string>
+	<key>CanRestoreToJoinNetworkSpecific.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to join its previous network “%@”.</string>
+	<key>CanRestoreToJoinNetworkSpecific.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to join its previous network “%@”.</string>
+	<key>CanRestoreToWirelessDisabled</key>
+	<string>This base station can be restored to disable Wi-Fi support.</string>
+	<key>CanRestoreToWirelessDisabled.AirPortExpress</key>
+	<string>This AirPort Express can be restored to disable Wi-Fi support.</string>
+	<key>CanRestoreToWirelessDisabled.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to disable Wi-Fi support.</string>
+	<key>CanRestoreToWirelessDisabled.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to disable Wi-Fi support.</string>
+	<key>CannotRecommendRestoreCantFindWiFi</key>
+	<string>This is not recommended because that network cannot be found.</string>
+	<key>CannotRecommendRestoreDHCPRangeConflict</key>
+	<string>This can be restored to its previous settings but this is not recommended because it would have a DHCP range conflict.</string>
+	<key>CannotRecommendRestoreDHCPRangeConflict.AirPortExpress</key>
+	<string>This AirPort Express can be restored to its previous settings but this is not recommended because it would have a DHCP range conflict.</string>
+	<key>CannotRecommendRestoreDHCPRangeConflict.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to its previous settings but this is not recommended because it would have a DHCP range conflict.</string>
+	<key>CannotRecommendRestoreDHCPRangeConflict.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to its previous settings but this is not recommended because it would have a DHCP range conflict.</string>
+	<key>CannotRecommendRestoreDisabledNoWanLink</key>
+	<string>This can be restored to its previous settings but this is not recommended because it would disable Wi-Fi support and there’s no Ethernet link.</string>
+	<key>CannotRecommendRestoreDisabledNoWanLink.AirPortExpress</key>
+	<string>This AirPort Express can be restored to its previous settings but this is not recommended because it would disable Wi-Fi support and there’s no Ethernet link.</string>
+	<key>CannotRecommendRestoreDisabledNoWanLink.AirPortExtreme</key>
+	<string>This AirPort Extreme can be restored to its previous settings but this is not recommended because it would disable Wi-Fi support and there’s no Ethernet link.</string>
+	<key>CannotRecommendRestoreDisabledNoWanLink.TimeCapsule</key>
+	<string>This AirPort Time Capsule can be restored to its previous settings but this is not recommended because it would disable Wi-Fi support and there’s no Ethernet link.</string>
+	<key>CantFindNetworksToJoin</key>
+	<string>No compatible networks were found that %@ can join.</string>
+	<key>CantPickNamedBasesToExtend</key>
+	<string>The %1$@ named “%2$@” can be set up to extend one of the base stations named “%3$@”.</string>
+	<key>CantPickNamedBasesToJoin</key>
+	<string>The %1$@ named “%2$@” can be set up to join one of the networks named “%3$@”.</string>
+	<key>CantPickOneOfManyBasesToExtend</key>
+	<string>The %1$@ named “%2$@” can be set up to extend one of the base stations on the network.</string>
+	<key>CheckingOutYourNetwork</key>
+	<string>Gathering data about your network…</string>
+	<key>ClientToNetwork</key>
+	<string>Be a Client of Existing Network</string>
+	<key>CommaListConjunction</key>
+	<string> %@ </string>
+	<key>CommaListSeparator</key>
+	<string>, </string>
+	<key>Conjunction_And</key>
+	<string>and</string>
+	<key>Conjunction_Or</key>
+	<string>or</string>
+	<key>ConnectionVerificationMessage1</key>
+	<string>This %@ cannot connect to the Internet because there is no Ethernet cable connected.</string>
+	<key>ConnectionVerificationMessage2</key>
+	<string>This %@ cannot connect to the Internet because there is a problem with your broadband modem or network.</string>
+	<key>ContinueAnyway</key>
+	<string>Continue Anyway</string>
+	<key>ContinueWithoutAudioCable</key>
+	<string>You may also continue without an audio connection.</string>
+	<key>ContinueWithoutInternet</key>
+	<string>You may also continue without an Internet connection.</string>
+	<key>CreateFooter</key>
+	<string>Set up this AirPort base station to create a new Wi-Fi network.</string>
+	<key>CreateFooter.AirPortExpress</key>
+	<string>Set up this AirPort Express to create a new Wi-Fi network.</string>
+	<key>CreateFooter.AirPortExtreme</key>
+	<string>Set up this AirPort Extreme to create a new Wi-Fi network.</string>
+	<key>CreateFooter.TimeCapsule</key>
+	<string>Set up this AirPort Time Capsule to create a new Wi-Fi network.</string>
+	<key>CreatePasswordPlaceholder</key>
+	<string>Create Password</string>
+	<key>CustomBaseName</key>
+	<string>Device</string>
+	<key>CustomBaseName.Airplay</key>
+	<string>Speaker Name</string>
+	<key>CustomBaseName.MFiAccessory</key>
+	<string>Accessory Name</string>
+	<key>CustomBaseNamePlaceholder</key>
+	<string>Enter Name</string>
+	<key>CustomWiFiName</key>
+	<string>Network</string>
+	<key>CustomWiFiNamePlaceholder</key>
+	<string>Enter Name</string>
+	<key>DiskPasswordLabel</key>
+	<string>Disk Password</string>
+	<key>DiskPasswordSectionTitle</key>
+	<string>Disk Password</string>
+	<key>DiskSharingSectionHeading</key>
+	<string>Disk Sharing</string>
+	<key>EthernetPort</key>
+	<string>Ethernet port</string>
+	<key>EthernetWANPort</key>
+	<string>Ethernet WAN port</string>
+	<key>ExtendDescription</key>
+	<string>Extending a Wi-Fi network can increase the range of a network but can affect overall network performance.</string>
+	<key>ExtendFooter</key>
+	<string>Set up this AirPort base station to extend the range of an existing Wi-Fi network.</string>
+	<key>ExtendFooter.AirPortExpress</key>
+	<string>Set up this AirPort Express to extend the range of an existing Wi-Fi network.</string>
+	<key>ExtendFooter.AirPortExtreme</key>
+	<string>Set up this AirPort Extreme to extend the range of an existing Wi-Fi network.</string>
+	<key>ExtendFooter.TimeCapsule</key>
+	<string>Set up this AirPort Time Capsule to extend the range of an existing Wi-Fi network.</string>
+	<key>ExtendThisNetwork</key>
+	<string>Extend this Network</string>
+	<key>FileSharingLabel</key>
+	<string>File Sharing</string>
+	<key>FileSharingState.off</key>
+	<string>Off</string>
+	<key>FileSharingState.on</key>
+	<string>On</string>
+	<key>GuestNetPasswordLabel</key>
+	<string>Guest Network Password</string>
+	<key>InternetNoWorkie</key>
+	<string>This base station cannot access the Internet.</string>
+	<key>InternetNoWorkie.AirPortExpress</key>
+	<string>This AirPort Express cannot access the Internet.</string>
+	<key>InternetNoWorkie.AirPortExtreme</key>
+	<string>This AirPort Extreme cannot access the Internet.</string>
+	<key>InternetNoWorkie.TimeCapsule</key>
+	<string>This AirPort Time Capsule cannot access the Internet.</string>
+	<key>JoinFooter</key>
+	<string>Set up this AirPort base station to join another Wi-Fi network without extending its range.</string>
+	<key>JoinFooter.AirPortExpress</key>
+	<string>Set up this AirPort Express to join another Wi-Fi network without extending its range.</string>
+	<key>JoinFooter.AirPortExtreme</key>
+	<string>Set up this AirPort Extreme to join another Wi-Fi network without extending its range.</string>
+	<key>JoinFooter.TimeCapsule</key>
+	<string>Set up this AirPort Time Capsule to join another Wi-Fi network without extending its range.</string>
+	<key>JoinThisNetwork</key>
+	<string>Join this Network</string>
+	<key>JoinWithEthernetDescription</key>
+	<string>Devices plugged into this AirPort base station will have access to your Wi-Fi network.</string>
+	<key>JoinWithEthernetDescription.AirPortExpress</key>
+	<string>Devices plugged into this AirPort Express will have access to your Wi-Fi network.</string>
+	<key>JoinWithEthernetDescription.AirPortExtreme</key>
+	<string>Devices plugged into this AirPort Extreme will have access to your Wi-Fi network.</string>
+	<key>JoinWithEthernetDescription.TimeCapsule</key>
+	<string>Devices plugged into this AirPort Time Capsule will have access to your Wi-Fi network.</string>
+	<key>KeychainBasePasswordRemember.message</key>
+	<string>Remember the password for this device?</string>
+	<key>KeychainBasePasswordRemember.title</key>
+	<string>Save password</string>
+	<key>LetMeChoose</key>
+	<string>Do Something Different</string>
+	<key>MoreChoices</key>
+	<string>More Choices</string>
+	<key>MoreChoicesEllipsis</key>
+	<string>More Choices…</string>
+	<key>MoreOptions</key>
+	<string>More Options</string>
+	<key>MoreOptionsEllipsis</key>
+	<string>More Options…</string>
+	<key>NoAudioConnection</key>
+	<string>This device can connect to an audio system.</string>
+	<key>NoAudioConnection.AirPlay</key>
+	<string>This AirPlay speaker can connect to an audio system.</string>
+	<key>NoAudioConnection.AirPortExpress</key>
+	<string>This AirPort Express can connect to an audio system.</string>
+	<key>NoInternet1</key>
+	<string>Cycle the power on your DSL or cable modem by turning it off for a few minutes then turning it back on. If the device has a battery, you may need to disconnect it to completely reset the device.</string>
+	<key>NoInternet1.1</key>
+	<string>Some ISPs recommend you unplug the modem’s power cord. This is required if the modem does not have a power button.</string>
+	<key>NoInternet2</key>
+	<string>If the modem has a reset button, try it before unplugging the power cord. If you are unsure how to perform a complete reset, check with your ISP.</string>
+	<key>NoInternet3</key>
+	<string>Contact your ISP if you can’t resolve this problem.</string>
+	<key>NoInternetConnection</key>
+	<string>No Internet Connection</string>
+	<key>OtherChoices</key>
+	<string>Other Choices</string>
+	<key>OtherChoicesEllipsis</key>
+	<string>Other Choices…</string>
+	<key>OtherOptions</key>
+	<string>Other Options</string>
+	<key>OtherOptionsEllipsis</key>
+	<string>Other Options…</string>
+	<key>OtherSetupChoices</key>
+	<string>Other Setup Choices</string>
+	<key>OtherSetupChoicesEllipsis</key>
+	<string>Other Setup Choices…</string>
+	<key>OtherSetupOptions</key>
+	<string>Other Setup Options</string>
+	<key>OtherSetupOptionsEllipsis</key>
+	<string>Other Setup Options…</string>
+	<key>PPPoEAccountInformation</key>
+	<string>PPPoE Account Information</string>
+	<key>PPPoESetupInfo</key>
+	<string>Provide the PPPoE connection information you received from your ISP.</string>
+	<key>PPPoETest_AuthFailed</key>
+	<string>The PPPoE username or password is not correct.</string>
+	<key>PPPoETest_NoService</key>
+	<string>The PPPoE settings are not correct.</string>
+	<key>PasswordLabel</key>
+	<string>Password</string>
+	<key>PasswordPlaceholder</key>
+	<string>Enter Password</string>
+	<key>PasswordsDontMatch</key>
+	<string>The password and verify values don’t match.</string>
+	<key>PlugInAudioCable</key>
+	<string>Plug one end of an audio cable into your audio system and the other end into the audio jack of this device.</string>
+	<key>PlugInWANCableForInternet</key>
+	<string>Plug one end of an Ethernet cable into your broadband device or LAN and the other end into the WAN port of this base station.</string>
+	<key>PrimarySetupRecommendation_Create</key>
+	<string>This base station will create a network.</string>
+	<key>PrimarySetupRecommendation_Create.AirPortExpress</key>
+	<string>This AirPort Express will create a network.</string>
+	<key>PrimarySetupRecommendation_Create.AirPortExtreme</key>
+	<string>This AirPort Extreme will create a network.</string>
+	<key>PrimarySetupRecommendation_Create.TimeCapsule</key>
+	<string>This AirPort Time Capsule will create a network.</string>
+	<key>PrimarySetupRecommendation_Extend</key>
+	<string>This base station will extend your network.</string>
+	<key>PrimarySetupRecommendation_Extend.AirPortExpress</key>
+	<string>This AirPort Express will extend your network.</string>
+	<key>PrimarySetupRecommendation_Extend.AirPortExtreme</key>
+	<string>This AirPort Extreme will extend your network.</string>
+	<key>PrimarySetupRecommendation_Extend.TimeCapsule</key>
+	<string>This AirPort Time Capsule will extend your network.</string>
+	<key>PrimarySetupRecommendation_ExtendEthernet</key>
+	<string>This base station will extend your network using Ethernet.</string>
+	<key>PrimarySetupRecommendation_ExtendEthernet.AirPortExpress</key>
+	<string>This AirPort Express will extend your network using Ethernet.</string>
+	<key>PrimarySetupRecommendation_ExtendEthernet.AirPortExtreme</key>
+	<string>This AirPort Extreme will extend your network using Ethernet.</string>
+	<key>PrimarySetupRecommendation_ExtendEthernet.TimeCapsule</key>
+	<string>This AirPort Time Capsule will extend your network using Ethernet.</string>
+	<key>PrimarySetupRecommendation_ExtendWireless</key>
+	<string>This base station will wirelessly extend your network.</string>
+	<key>PrimarySetupRecommendation_ExtendWireless.AirPortExpress</key>
+	<string>This AirPort Express will wirelessly extend your network.</string>
+	<key>PrimarySetupRecommendation_ExtendWireless.AirPortExtreme</key>
+	<string>This AirPort Extreme will wirelessly extend your network.</string>
+	<key>PrimarySetupRecommendation_ExtendWireless.Specific</key>
+	<string>This base station will wirelessly extend “%@”.</string>
+	<key>PrimarySetupRecommendation_ExtendWireless.Specific.AirPortExpress</key>
+	<string>This AirPort Express will wirelessly extend “%@”.</string>
+	<key>PrimarySetupRecommendation_ExtendWireless.Specific.AirPortExtreme</key>
+	<string>This AirPort Extreme will wirelessly extend “%@”.</string>
+	<key>PrimarySetupRecommendation_ExtendWireless.Specific.TimeCapsule</key>
+	<string>This AirPort Time Capsule will wirelessly extend “%@”.</string>
+	<key>PrimarySetupRecommendation_ExtendWireless.TimeCapsule</key>
+	<string>This AirPort Time Capsule will wirelessly extend your network.</string>
+	<key>PrimarySetupRecommendation_Join</key>
+	<string>This base station will be set up to join your network.</string>
+	<key>PrimarySetupRecommendation_Join.AirPortExpress</key>
+	<string>This AirPort Express will be set up to join your network.</string>
+	<key>PrimarySetupRecommendation_Join.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to join your network.</string>
+	<key>PrimarySetupRecommendation_Join.Specific</key>
+	<string>This base station will be set up to join “%@”.</string>
+	<key>PrimarySetupRecommendation_Join.Specific.AirPlay</key>
+	<string>This AirPlay speaker will be set up to join “%@”.</string>
+	<key>PrimarySetupRecommendation_Join.Specific.AirPortExpress</key>
+	<string>This AirPort Express will be set up to join “%@”.</string>
+	<key>PrimarySetupRecommendation_Join.Specific.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to join “%@”.</string>
+	<key>PrimarySetupRecommendation_Join.Specific.MFiAccessory</key>
+	<string>This accessory will be set up to join “%@”.</string>
+	<key>PrimarySetupRecommendation_Join.Specific.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to join “%@”.</string>
+	<key>PrimarySetupRecommendation_Join.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to join your network.</string>
+	<key>PrimarySetupRecommendation_Replace</key>
+	<string>This base station will be set up to replace “%@”.</string>
+	<key>PrimarySetupRecommendation_Replace.AirPortExpress</key>
+	<string>This AirPort Express will be set up to replace “%@”.</string>
+	<key>PrimarySetupRecommendation_Replace.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to replace “%@”.</string>
+	<key>PrimarySetupRecommendation_Replace.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to replace “%@”.</string>
+	<key>RecommendedInParens</key>
+	<string>(Recommended)</string>
+	<key>ReplaceBaseRecommendOption.Extend</key>
+	<string>The base station named “%1$@” will be set up to extend my %2$@.</string>
+	<key>ReplaceBaseRecommendOption.Join</key>
+	<string>The base station named “%1$@” will be set up to join the network named “%2$@”.</string>
+	<key>ReplaceBaseRecommendOption.Restore</key>
+	<string>The base station named “%@” will be restored to default settings.</string>
+	<key>ReplaceBaseRecommendOption.Unconfigurable</key>
+	<string> </string>
+	<key>ReplaceBaseStepByStepOption.Extend</key>
+	<string>Extend this %@ with an existing base station.</string>
+	<key>ReplaceBaseStepByStepOption.Join</key>
+	<string>Set up an existing base station to join the network named “%@”.</string>
+	<key>ReplaceBaseStepByStepOption.Restore</key>
+	<string>Restore this existing base station to default settings.</string>
+	<key>ReplaceFooter</key>
+	<string>Replace an existing device with this AirPort base station. If the existing device is an AirPort base station, its settings will be automatically migrated to this AirPort base station.</string>
+	<key>ReplaceFooter.AirPortExpress</key>
+	<string>Replace an existing device with this AirPort Express. If the existing device is an AirPort base station, its settings will be automatically migrated to this AirPort Express.</string>
+	<key>ReplaceFooter.AirPortExtreme</key>
+	<string>Replace an existing device with this AirPort Extreme. If the existing device is an AirPort base station, its settings will be automatically migrated to this AirPort Extreme.</string>
+	<key>ReplaceFooter.TimeCapsule</key>
+	<string>Replace an existing device with this AirPort Time Capsule. If the existing device is an AirPort Base Station, its settings will be automatically migrated to this AirPort Time Capsule.</string>
+	<key>RequiredPlaceholder</key>
+	<string>Required</string>
+	<key>RestoreFooter</key>
+	<string>This base station has been reset. Restore its previous settings.</string>
+	<key>RestoreFooter.AirPortExpress</key>
+	<string>This AirPort Express has been reset. Restore its previous settings.</string>
+	<key>RestoreFooter.AirPortExtreme</key>
+	<string>This AirPort Extreme has been reset. Restore its previous settings.</string>
+	<key>RestoreFooter.TimeCapsule</key>
+	<string>This AirPort Time Capsule has been reset. Restore its previous settings.</string>
+	<key>ReviewSettings</key>
+	<string>Review Settings</string>
+	<key>SetupCompleteTitle</key>
+	<string>Setup Complete</string>
+	<key>ShowOtherNetworksEllipsis</key>
+	<string>Show Other Networks…</string>
+	<key>SinglePasswordExplanation.off</key>
+	<string>Different passwords will be used for your network and base station passwords.</string>
+	<key>SinglePasswordExplanation.on</key>
+	<string>A single password will be used for your network and base station passwords.</string>
+	<key>SinglePasswordExplanationWithDisk.off</key>
+	<string>Different passwords will be used for your network, base station and disk passwords.</string>
+	<key>SinglePasswordExplanationWithDisk.on</key>
+	<string>A single password will be used for your network, base station and disk passwords.</string>
+	<key>SpeakersOrAudioSystem</key>
+	<string>Speakers or Audio System</string>
+	<key>StepByStepChoice_CreateExtendReplace.SectionTitle.AirPortExpress</key>
+	<string>Use this AirPort Express to:</string>
+	<key>StepByStepChoice_CreateExtendReplace.SectionTitle.AirPortExtreme</key>
+	<string>Use this AirPort Extreme to:</string>
+	<key>StepByStepChoice_CreateExtendReplace.SectionTitle.TimeCapsule</key>
+	<string>Use this AirPort Time Capsule to:</string>
+	<key>StepByStepChoice_Create_Config.UsingDifferentDiskPasswordLabel</key>
+	<string>Disk Password</string>
+	<key>StepByStepChoice_Create_Config.UsingSinglePasswordLabel</key>
+	<string>Single Password</string>
+	<key>StepByStepChoice_Create_Guest.GuestNetSwitchLabel</key>
+	<string>Guest Network</string>
+	<key>StepByStepChoice_Create_Guest.GuestNetWPASwitchLabel</key>
+	<string>Secure this Network</string>
+	<key>StepByStepChoice_Create_Guest.GuestNetworkInfo</key>
+	<string>This base station can create a guest Wi-Fi network.</string>
+	<key>StepByStepChoice_Create_Guest.GuestNetworkInfo.AirPortExpress</key>
+	<string>This AirPort Express can create a guest Wi-Fi network.</string>
+	<key>StepByStepChoice_Create_Guest.GuestNetworkInfo.AirPortExtreme</key>
+	<string>This AirPort Extreme can create a guest Wi-Fi network.</string>
+	<key>StepByStepChoice_Create_Guest.GuestNetworkInfo.TimeCapsule</key>
+	<string>This AirPort Time Capsule can create a guest Wi-Fi network.</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless.EthernetLabel</key>
+	<string>Ethernet</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless.SectionTitle</key>
+	<string>Connect to this Network Using:</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless.WiFiLabel</key>
+	<string>Wi-Fi</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless_Ethernet</key>
+	<string>I want the base station to connect to my current network using an Ethernet cable</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless_Ethernet.AirPortExpress</key>
+	<string>I want AirPort Express to connect to my current network using an Ethernet cable</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless_Ethernet.AirPortExtreme</key>
+	<string>I want AirPort Extreme to connect to my current network using an Ethernet cable</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless_Ethernet.TimeCapsule</key>
+	<string>I want AirPort Time Capsule to connect to my current network using an Ethernet cable</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless_WiFi</key>
+	<string>I want the base station to connect to my current network using Wi-Fi</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless_WiFi.AirPortExpress</key>
+	<string>I want AirPort Express to connect to my current network using Wi-Fi</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless_WiFi.AirPortExtreme</key>
+	<string>I want AirPort Extreme to connect to my current network using Wi-Fi</string>
+	<key>StepByStepChoice_ExtendWiredOrWireless_WiFi.TimeCapsule</key>
+	<string>I want AirPort Time Capsule to connect to my current network using Wi-Fi</string>
+	<key>StepByStepStatus_CreateExtendReplace</key>
+	<string>What do you want to do with this base station?</string>
+	<key>StepByStepStatus_CreateExtendReplace.AirPortExpress</key>
+	<string>What do you want to do with this AirPort Express?</string>
+	<key>StepByStepStatus_CreateExtendReplace.AirPortExtreme</key>
+	<string>What do you want to do with this AirPort Extreme?</string>
+	<key>StepByStepStatus_CreateExtendReplace.TimeCapsule</key>
+	<string>What do you want to do with this AirPort Time Capsule?</string>
+	<key>StepByStepStatus_ExtendWired</key>
+	<string>This Apple base station will be set up to extend “%@”.</string>
+	<key>StepByStepStatus_ExtendWired.AirPortExpress</key>
+	<string>This AirPort Express will be set up to extend “%@”.</string>
+	<key>StepByStepStatus_ExtendWired.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to extend “%@”.</string>
+	<key>StepByStepStatus_ExtendWired.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to extend “%@”.</string>
+	<key>StepByStepStatus_ExtendWiredNetworkChoice.ChooseABaseStation</key>
+	<string>Choose a Base Station</string>
+	<key>StepByStepStatus_ExtendWiredNetworkConnections.PlugInWANCable</key>
+	<string>Plug one end of an Ethernet cable into your router or base station and the other end into the WAN port of this base station.</string>
+	<key>StepByStepStatus_ExtendWiredOrWireless</key>
+	<string>How do you want this base station to connect to your current network?</string>
+	<key>StepByStepStatus_ExtendWiredOrWireless.AirPortExpress</key>
+	<string>How do you want AirPort Express to connect to your current network?</string>
+	<key>StepByStepStatus_ExtendWiredOrWireless.AirPortExtreme</key>
+	<string>How do you want AirPort Extreme to connect to your current network?</string>
+	<key>StepByStepStatus_ExtendWiredOrWireless.TimeCapsule</key>
+	<string>How do you want AirPort Time Capsule to connect to your current network?</string>
+	<key>StepByStepStatus_ExtendWireless</key>
+	<string>This base station will be set up to extend “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.2</key>
+	<string>This base station will be set up to extend “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.2.AirPortExpress</key>
+	<string>This AirPort Express will be set up to extend “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.2.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to extend “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.2.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to extend “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.3</key>
+	<string>This base station will be set up to extend “%@”, “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.3.AirPortExpress</key>
+	<string>This AirPort Express will be set up to extend “%@”, “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.3.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to extend “%@”, “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.3.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to extend “%@”, “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.4</key>
+	<string>This base station will be set up to extend “%@”, “%@”, “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.4.AirPortExpress</key>
+	<string>This AirPort Express will be set up to extend “%@”, “%@”, “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.4.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to extend “%@”, “%@”, “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.4.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to extend “%@”, “%@”, “%@” and “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.AirPortExpress</key>
+	<string>This AirPort Express will be set up to extend “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to extend “%@”.</string>
+	<key>StepByStepStatus_ExtendWireless.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to extend “%@”.</string>
+	<key>StepByStepStatus_ExtendWirelessNetworkChoice</key>
+	<string>Which network do you want this base station to connect to?</string>
+	<key>StepByStepStatus_ExtendWirelessNetworkChoice.AirPortExpress</key>
+	<string>Which network do you want this AirPort Express to connect to?</string>
+	<key>StepByStepStatus_ExtendWirelessNetworkChoice.AirPortExtreme</key>
+	<string>Which network do you want this AirPort Extreme to connect to?</string>
+	<key>StepByStepStatus_ExtendWirelessNetworkChoice.ChooseABaseStation</key>
+	<string>Choose a Base Station</string>
+	<key>StepByStepStatus_ExtendWirelessNetworkChoice.ChooseANetwork</key>
+	<string>Choose a Network</string>
+	<key>StepByStepStatus_ExtendWirelessNetworkChoice.NetworkToConnectTo</key>
+	<string>Connect to</string>
+	<key>StepByStepStatus_ExtendWirelessNetworkChoice.NetworkToExtend</key>
+	<string>Network to Extend</string>
+	<key>StepByStepStatus_ExtendWirelessNetworkChoice.TimeCapsule</key>
+	<string>Which network do you want this AirPort Time Capsule to connect to?</string>
+	<key>StepByStepStatus_ExtendWireless_Config.DeviceToExtend</key>
+	<string>Device to Extend</string>
+	<key>StepByStepStatus_ExtendWireless_Config.DeviceToJoin</key>
+	<string>Device to Join</string>
+	<key>StepByStepStatus_Join</key>
+	<string>This base station will be set up to join your network.</string>
+	<key>StepByStepStatus_Join.AirPortExpress</key>
+	<string>This AirPort Express will be set up to join your network.</string>
+	<key>StepByStepStatus_Join.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to join your network.</string>
+	<key>StepByStepStatus_Join.ChooseANetwork</key>
+	<string>Choose a Network</string>
+	<key>StepByStepStatus_Join.ChosenNetwork</key>
+	<string>Network</string>
+	<key>StepByStepStatus_Join.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to join your network.</string>
+	<key>StepByStepStatus_ReplaceBaseStation</key>
+	<string>This base station will be set up to replace “%@”.</string>
+	<key>StepByStepStatus_ReplaceBaseStation.AirPortExpress</key>
+	<string>This AirPort Express will be set up to replace “%@”.</string>
+	<key>StepByStepStatus_ReplaceBaseStation.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up to replace “%@”.</string>
+	<key>StepByStepStatus_ReplaceBaseStation.ChooseABaseStation</key>
+	<string>Choose a Base Station</string>
+	<key>StepByStepStatus_ReplaceBaseStation.ChosenBaseStation</key>
+	<string>Device to Replace</string>
+	<key>StepByStepStatus_ReplaceBaseStation.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up to replace “%@”.</string>
+	<key>StepByStepStatus_ReplaceChoice</key>
+	<string>What do you want this base station to replace?</string>
+	<key>StepByStepStatus_ReplaceChoice.AirPortExpress</key>
+	<string>What do you want AirPort Express to replace?</string>
+	<key>StepByStepStatus_ReplaceChoice.AirPortExtreme</key>
+	<string>What do you want AirPort Extreme to replace?</string>
+	<key>StepByStepStatus_ReplaceChoice.TimeCapsule</key>
+	<string>What do you want AirPort Time Capsule to replace?</string>
+	<key>StepByStepStatus_ReplaceConfiguration</key>
+	<string>This base station will be set up using the settings file for “%@”.</string>
+	<key>StepByStepStatus_ReplaceConfiguration.AirPortExpress</key>
+	<string>This AirPort Express will be set up using the settings file for “%@”.</string>
+	<key>StepByStepStatus_ReplaceConfiguration.AirPortExtreme</key>
+	<string>This AirPort Extreme will be set up using the settings file for “%@”.</string>
+	<key>StepByStepStatus_ReplaceConfiguration.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be set up using the settings file for “%@”.</string>
+	<key>StepByStepStatus_ReplaceNetworkChoice</key>
+	<string>Which network contains the base station this base station will replace?</string>
+	<key>StepByStepStatus_ReplaceNetworkChoice.AirPortExpress</key>
+	<string>Which network contains the base station this AirPort Express will replace?</string>
+	<key>StepByStepStatus_ReplaceNetworkChoice.AirPortExtreme</key>
+	<string>Which network contains the base station this AirPort Extreme will replace?</string>
+	<key>StepByStepStatus_ReplaceNetworkChoice.ChooseANetwork</key>
+	<string>Choose a Network</string>
+	<key>StepByStepStatus_ReplaceNetworkChoice.ChosenNetwork</key>
+	<string>Network</string>
+	<key>StepByStepStatus_ReplaceNetworkChoice.TimeCapsule</key>
+	<string>Which network contains the base station this AirPort Time Capsule will replace?</string>
+	<key>StepByStepStatus_ReplaceOtherConnections.PlugInWANCable</key>
+	<string>Move the Ethernet cable from the Internet port of your existing router and plug it into the WAN port of this base station.</string>
+	<key>StepByStepStatus_ReplaceOtherConnections.SourceDevice</key>
+	<string>Non-Apple router</string>
+	<key>StepByStepStatus_Restore</key>
+	<string>This base station will be restored to its previous settings.</string>
+	<key>StepByStepStatus_Restore.AirPortExpress</key>
+	<string>This AirPort Express will be restored to its previous settings.</string>
+	<key>StepByStepStatus_Restore.AirPortExtreme</key>
+	<string>This AirPort Extreme will be restored to its previous settings.</string>
+	<key>StepByStepStatus_Restore.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be restored to its previous settings.</string>
+	<key>SwapAllCables</key>
+	<string>Move all the cables from your %1$@ named “%2$@” to your %3$@.</string>
+	<key>SwapAllCablesDetectedOK</key>
+	<string>Your %@ is now connected properly and is ready to continue setup.</string>
+	<key>SwapCablesWaiting</key>
+	<string>Waiting for cables to be moved…</string>
+	<key>SwapContinueWithoutSwapAll</key>
+	<string>You may also continue without moving any cables.</string>
+	<key>SwapContinueWithoutSwapOne</key>
+	<string>You may also continue without moving the cable.</string>
+	<key>SwapEthernetCables</key>
+	<string>Move the Ethernet cables from your %1$@ named “%2$@” to your %3$@.</string>
+	<key>SwapEthernetCablesDetectedOK</key>
+	<string>Your %@ is now connected properly and is ready to continue setup.</string>
+	<key>SwapUSBCableDetectedOK</key>
+	<string>Your %@ is now connected properly and is ready to continue setup.</string>
+	<key>SwapUSBCables</key>
+	<string>Move the USB cable plugged into your %1$@ named “%2$@” to your %3$@.</string>
+	<key>SwapWANCable</key>
+	<string>Move the Ethernet cable plugged into the WAN port of your %1$@ named “%2$@” to your %3$@.</string>
+	<key>SwapWANCableDetectedOK</key>
+	<string>Your %@ is now connected properly and is ready to continue setup.</string>
+	<key>TextEntryNameTooLong</key>
+	<string>This name is too long.</string>
+	<key>TextEntryNameTooShort</key>
+	<string>This name is too short.</string>
+	<key>TextEntryNotAppropriate</key>
+	<string>This value is not valid.</string>
+	<key>TextEntryPasswordTooLong</key>
+	<string>This password is too long.</string>
+	<key>TextEntryPasswordTooShort</key>
+	<string>This password is too short.</string>
+	<key>TextEntryTooLong</key>
+	<string>This value is too long.</string>
+	<key>TextEntryTooShort</key>
+	<string>This value is too short.</string>
+	<key>TextualSentenceConcatenator</key>
+	<string>%1$@ %2$@</string>
+	<key>TextualSentenceConcatenator2NewLines</key>
+	<string>%1$@
+
+%2$@</string>
+	<key>ToInternet</key>
+	<string>To Internet</string>
+	<key>USBPort</key>
+	<string>USB port</string>
+	<key>UseAirPortUtilityFor80211g</key>
+	<string>The %1$@ named “%2$@” cannot be set up by this software. Go to apple.com/support/airport for more information.</string>
+	<key>VerifyLabel</key>
+	<string>Verify</string>
+	<key>VerifyPlaceholder</key>
+	<string>Verify Password</string>
+	<key>WANPluginSuccess</key>
+	<string>Ethernet link detected.</string>
+	<key>WaitingForAudioPlugin</key>
+	<string>Waiting for an audio cable to be plugged in…</string>
+	<key>WaitingForInternetAccess</key>
+	<string>Waiting for Internet access…</string>
+	<key>WaitingForWANPlugin</key>
+	<string>Waiting for an Ethernet cable to be plugged in…</string>
+	<key>WiFiNameLabel</key>
+	<string>Network Name</string>
+	<key>WiFiPasswordLabel</key>
+	<string>Network Password</string>
+	<key>WiFiPasswordRequirement</key>
+	<string>Password must be at least 8 characters.</string>
+	<key>WiFiPasswordSectionTitle</key>
+	<string>Network Password</string>
+	<key>WillRestoreToCreateNetwork</key>
+	<string>This base station will be restored to restore its previous network.</string>
+	<key>WillRestoreToCreateNetwork.AirPortExpress</key>
+	<string>This AirPort Express will be restored to restore its previous network.</string>
+	<key>WillRestoreToCreateNetwork.AirPortExtreme</key>
+	<string>This AirPort Extreme will be restored to restore its previous network.</string>
+	<key>WillRestoreToCreateNetwork.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be restored to restore its previous network.</string>
+	<key>WillRestoreToCreateNetworkSpecific</key>
+	<string>This base station will restore its previous network “%@”.</string>
+	<key>WillRestoreToCreateNetworkSpecific.AirPortExpress</key>
+	<string>This AirPort Express will restore its previous network “%@”.</string>
+	<key>WillRestoreToCreateNetworkSpecific.AirPortExtreme</key>
+	<string>This AirPort Extreme will restore its previous network “%@”.</string>
+	<key>WillRestoreToCreateNetworkSpecific.TimeCapsule</key>
+	<string>This AirPort Time Capsule will restore its previous network “%@”.</string>
+	<key>WillRestoreToExtendNetwork</key>
+	<string>This base station will be restored to extend its previous network.</string>
+	<key>WillRestoreToExtendNetwork.AirPortExpress</key>
+	<string>This AirPort Express will be restored to extend its previous network.</string>
+	<key>WillRestoreToExtendNetwork.AirPortExtreme</key>
+	<string>This AirPort Extreme will be restored to extend its previous network.</string>
+	<key>WillRestoreToExtendNetwork.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be restored to extend its previous network.</string>
+	<key>WillRestoreToExtendNetworkSpecific</key>
+	<string>This base station will extend its previous network “%@”.</string>
+	<key>WillRestoreToExtendNetworkSpecific.AirPortExpress</key>
+	<string>This AirPort Express will extend its previous network “%@”.</string>
+	<key>WillRestoreToExtendNetworkSpecific.AirPortExtreme</key>
+	<string>This AirPort Extreme will extend its previous network “%@”.</string>
+	<key>WillRestoreToExtendNetworkSpecific.TimeCapsule</key>
+	<string>This AirPort Time Capsule will extend its previous network “%@”.</string>
+	<key>WillRestoreToJoinNetwork</key>
+	<string>This base station will be restored to join its previous network.</string>
+	<key>WillRestoreToJoinNetwork.AirPortExpress</key>
+	<string>This AirPort Express will be restored to join its previous network.</string>
+	<key>WillRestoreToJoinNetwork.AirPortExtreme</key>
+	<string>This AirPort Extreme will be restored to join its previous network.</string>
+	<key>WillRestoreToJoinNetwork.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be restored to join its previous network.</string>
+	<key>WillRestoreToJoinNetworkSpecific</key>
+	<string>This base station will join its previous network “%@”.</string>
+	<key>WillRestoreToJoinNetworkSpecific.AirPortExpress</key>
+	<string>This AirPort Express will join its previous network “%@”.</string>
+	<key>WillRestoreToJoinNetworkSpecific.AirPortExtreme</key>
+	<string>This AirPort Extreme will join its previous network “%@”.</string>
+	<key>WillRestoreToJoinNetworkSpecific.TimeCapsule</key>
+	<string>This AirPort Time Capsule will join its previous network “%@”.</string>
+	<key>WillRestoreToWirelessDisabled</key>
+	<string>This base station will be restored to disable Wi-Fi support.</string>
+	<key>WillRestoreToWirelessDisabled.AirPortExpress</key>
+	<string>This AirPort Express will be restored to disable Wi-Fi support.</string>
+	<key>WillRestoreToWirelessDisabled.AirPortExtreme</key>
+	<string>This AirPort Extreme will be restored to disable Wi-Fi support.</string>
+	<key>WillRestoreToWirelessDisabled.TimeCapsule</key>
+	<string>This AirPort Time Capsule will be restored to disable Wi-Fi support.</string>
+	<key>kAskUserChooseBaseStation_Top</key>
+	<string>Which base station would you like to extend?</string>
+	<key>kAskUserChooseNetwork_Top</key>
+	<string>Which base station would you like to set up?</string>
+	<key>kAskUserForBasePassword</key>
+	<string>Enter the password for “%@”.</string>
+	<key>kAskUserForNetworkPassword</key>
+	<string>Enter the network password for “%@”</string>
+	<key>kAskUserSwitchNetwork_Cancel</key>
+	<string>Don’t Switch</string>
+	<key>kAskUserSwitchNetwork_NoName</key>
+	<string>This application must join a different network.</string>
+	<key>kAskUserSwitchNetwork_Ok</key>
+	<string>Switch</string>
+	<key>kAskUserSwitchNetwork_Prompt</key>
+	<string>Switch networks?</string>
+	<key>kAskUserSwitchNetwork_Warning</key>
+	<string>Switching networks may interrupt your connection to the Internet.</string>
+	<key>kAskUserSwitchNetwork_WithName</key>
+	<string>This application must join “%@”</string>
+	<key>kAskUserWarning_NoBaseStationsFound</key>
+	<string>No base stations were found on the selected network. Choose a different network or go back.</string>
+	<key>kAskUserWarning_NoBaseStationsFound_OnEthernet</key>
+	<string>No base stations were found on the network. Choose a different option or go back.</string>
+	<key>kAskUserWarning_NoBaseStationsFound_OnNetwork</key>
+	<string>No base stations were found on “%@”. Choose a different network or go back.</string>
+	<key>kAskUserWarning_Prompt</key>
+	<string>No base stations found</string>
+	<key>kBack</key>
+	<string>Back</string>
+	<key>kCancel</key>
+	<string>Cancel</string>
+	<key>kCancelingServicesString</key>
+	<string>Canceling…</string>
+	<key>kCreateNetworkLabel</key>
+	<string>Create a New Network</string>
+	<key>kDone</key>
+	<string>Done</string>
+	<key>kDontSave</key>
+	<string>Don’t Save</string>
+	<key>kExtendANetworkLabel</key>
+	<string>Join an Existing Network</string>
+	<key>kIntializingServicesString</key>
+	<string>Preparing…</string>
+	<key>kNext</key>
+	<string>Next</string>
+	<key>kOK</key>
+	<string>OK</string>
+	<key>kOtherOptions</key>
+	<string>Other Options</string>
+	<key>kPerformingWiFiScanString</key>
+	<string>Looking for Wi-Fi networks…</string>
+	<key>kProgress_BaseReady</key>
+	<string>The settings for “%@” have been updated</string>
+	<key>kProgress_Browsing</key>
+	<string>Looking for base stations…</string>
+	<key>kProgress_CheckInternetConnection</key>
+	<string>Checking the Internet connection…</string>
+	<key>kProgress_ExaminingNewBaseStation</key>
+	<string>Examining the base station…</string>
+	<key>kProgress_ExaminingOtherBaseStations</key>
+	<string>Examining base stations on your network…</string>
+	<key>kProgress_ExaminingRestoreProfile</key>
+	<string>Reading previous settings…</string>
+	<key>kProgress_NetworkJoin</key>
+	<string>Joining %@…</string>
+	<key>kProgress_NetworkSearch</key>
+	<string>Looking for “%@”…</string>
+	<key>kProgress_NothingNewFoundError</key>
+	<string>Cannot find any base stations that need to be set up. Make sure a base station is plugged in and in range.</string>
+	<key>kProgress_PluginConnection</key>
+	<string>Verifying connections…</string>
+	<key>kProgress_ReadSettings</key>
+	<string>Reading settings on “%@”…</string>
+	<key>kProgress_RestartingBase</key>
+	<string>Restarting %@…</string>
+	<key>kProgress_Start</key>
+	<string>Starting update</string>
+	<key>kProgress_VerifyConnection</key>
+	<string>Verifying network connections…</string>
+	<key>kProgress_VerifyConnection_Specific</key>
+	<string>Verifying network connections to “%@”…</string>
+	<key>kProgress_WaitingForBase</key>
+	<string>Waiting for %@…</string>
+	<key>kProgress_WriteSettings</key>
+	<string>Updating settings on “%@”…</string>
+	<key>kReplaceABaseStationLabel</key>
+	<string>Replace a Device</string>
+	<key>kReplaceBaseStationLabel</key>
+	<string>An AirPort Base Station</string>
+	<key>kReplaceConfigurationLabel</key>
+	<string>A Device that is Turned Off</string>
+	<key>kReplaceOtherLabel</key>
+	<string>A Non-Apple Router</string>
+	<key>kRestorePreviousConfig</key>
+	<string>Restore Previous Settings</string>
+	<key>kRestoreSettings</key>
+	<string>Restore Settings</string>
+	<key>kSave</key>
+	<string>Save</string>
+	<key>kSetup_SetupRecommendationErrorCanceled</key>
+	<string>The AirPort assistant was canceled.</string>
+	<key>kSetup_SetupRecommendationErrorGeneric</key>
+	<string>An unexpected error occurred. Try again.</string>
+	<key>kStepByStepReplace_Menu_Other</key>
+	<string>Other configuration…</string>
+	<key>title_HidePasswords</key>
+	<string>Hide Passwords</string>
+	<key>title_ShowPasswords</key>
+	<string>Show Passwords</string>
+</dict>
+</plist>

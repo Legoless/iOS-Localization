@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>download.attachment.hint</key>
+	<string>Downloads the attachment.</string>
+	<key>download.attachment.inprogress.hint</key>
+	<string>Download in progress.</string>
+	<key>view.attachment.hint</key>
+	<string>Views the attachment.</string>
+</dict>
+</plist>

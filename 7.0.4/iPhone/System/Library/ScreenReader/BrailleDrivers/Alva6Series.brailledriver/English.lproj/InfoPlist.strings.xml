@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2007-2011 Apple Inc. All Rights Reserved.</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.65536</key>
+	<string>Router Row 1</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.65537</key>
+	<string>Thumb 1</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.65539</key>
+	<string>Status Router Row 1</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.65552</key>
+	<string>Router Row 2</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.65555</key>
+	<string>Status Router Row 2</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.65793</key>
+	<string>Thumb 2</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.66049</key>
+	<string>Thumb 3</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.66305</key>
+	<string>Thumb 4</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.66561</key>
+	<string>Thumb 5</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.66817</key>
+	<string>eTouch 1</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.67073</key>
+	<string>eTouch 2</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.67329</key>
+	<string>eTouch 3</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.67585</key>
+	<string>eTouch 4</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.67841</key>
+	<string>Smartpad 1</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.68097</key>
+	<string>Smartpad 2</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.68353</key>
+	<string>Smartpad Left</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.68609</key>
+	<string>Smartpad Enter</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.68865</key>
+	<string>Smartpad Up</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.69121</key>
+	<string>Smartpad Down</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.69377</key>
+	<string>Smartpad Right</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.69633</key>
+	<string>Smartpad 3</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.69889</key>
+	<string>Smartpad 4</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.70145</key>
+	<string>Thumb 6</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.70401</key>
+	<string>Thumb 7</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.70657</key>
+	<string>Thumb 8</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.70913</key>
+	<string>Thumb 9</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.71169</key>
+	<string>Thumb 10</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.71425</key>
+	<string>Left Smartpad 1</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.71681</key>
+	<string>Left Smartpad 2</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.71937</key>
+	<string>Left Smartpad Left</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.72193</key>
+	<string>Left Smartpad Enter</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.72449</key>
+	<string>Left Smartpad Up</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.72705</key>
+	<string>Left Smartpad Down</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.72961</key>
+	<string>Left Smartpad Right</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.73217</key>
+	<string>Left Smartpad 3</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.73473</key>
+	<string>Left Smartpad 4</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.73729</key>
+	<string>Right Smartpad 1</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.73985</key>
+	<string>Right Smartpad 2</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.74241</key>
+	<string>Right Smartpad Left</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.74497</key>
+	<string>Right Smartpad Enter</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.74753</key>
+	<string>Right Smartpad Up</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.75009</key>
+	<string>Right Smartpad Down</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.75265</key>
+	<string>Right Smartpad Right</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.75521</key>
+	<string>Right Smartpad 3</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.75777</key>
+	<string>Right Smartpad 4</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.BC640</key>
+	<string>Alva BC640</string>
+	<key>com.apple.scrod.braille.driver.alva.6.series.BC680</key>
+	<string>Alva BC680</string>
+</dict>
+</plist>

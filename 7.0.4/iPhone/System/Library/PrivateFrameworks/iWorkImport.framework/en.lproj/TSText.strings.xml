@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ (%@)</key>
+	<string>%1$@ (%2$@)</string>
+	<key>%@ Columns</key>
+	<string>%@ Columns</string>
+	<key>%@ pt Margin</key>
+	<string>%@ pt Margin</string>
+	<key>%@…</key>
+	<string>%@…</string>
+	<key>%d fonts are missing. Your text might look different.</key>
+	<string>%d fonts are missing. Your text might look different.</string>
+	<key>-</key>
+	<string>-</string>
+	<key>-----</key>
+	<string>-----</string>
+	<key>.</key>
+	<string>.</string>
+	<key>.....</key>
+	<string>.....</string>
+	<key>1 Column</key>
+	<string>1 Column</string>
+	<key>1 font is missing. Your text might look different.</key>
+	<string>1 font is missing. Your text might look different.</string>
+	<key>Accept changes</key>
+	<string>Accept changes</string>
+	<key>Add Comment</key>
+	<string>Add Comment</string>
+	<key>Add Highlight</key>
+	<string>Add Highlight</string>
+	<key>Add Link</key>
+	<string>Add Link</string>
+	<key>Added Text</key>
+	<string>Added Text</string>
+	<key>Added: %@</key>
+	<string>Added: %@</string>
+	<key>Align text to the bottom of a table cell, text box, or shape.</key>
+	<string>Align text to the bottom of a table cell, text box, or shape.</string>
+	<key>Align text to the left and numbers to the right in a table cell.</key>
+	<string>Align text to the left and numbers to the right in a table cell.</string>
+	<key>Align text to the left.</key>
+	<string>Align text to the left.</string>
+	<key>Align text to the middle of a table cell, text box, or shape.</key>
+	<string>Align text to the middle of a table cell, text box, or shape.</string>
+	<key>Align text to the right.</key>
+	<string>Align text to the right.</string>
+	<key>Align text to the top of a table cell, text box, or shape.</key>
+	<string>Align text to the top of a table cell, text box, or shape.</string>
+	<key>Arabic</key>
+	<string>Arabic</string>
+	<key>Arabic Abjad</key>
+	<string>Arabic Abjad</string>
+	<key>Arabic Alpha</key>
+	<string>Arabic Alpha</string>
+	<key>Attachment</key>
+	<string>Attachment</string>
+	<key>Attachments</key>
+	<string>Attachments</string>
+	<key>Back</key>
+	<string>Back</string>
+	<key>Bibliography</key>
+	<string>Bibliography</string>
+	<key>By Bullet</key>
+	<string>By Bullet</string>
+	<key>By Bullet Group</key>
+	<string>By Bullet Group</string>
+	<key>By Highlighted Bullet</key>
+	<string>By Highlighted Bullet</string>
+	<key>By Highlighted Paragraph</key>
+	<string>By Highlighted Paragraph</string>
+	<key>By Paragraph</key>
+	<string>By Paragraph</string>
+	<key>By Paragraph Group</key>
+	<string>By Paragraph Group</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Center</key>
+	<string>Center</string>
+	<key>Center Tab</key>
+	<string>Center Tab</string>
+	<key>Center text.</key>
+	<string>Center text.</string>
+	<key>Change Back to “%@”</key>
+	<string>Change Back to “%@”</string>
+	<key>Change text</key>
+	<string>Change text</string>
+	<key>Character style</key>
+	<string>Character style</string>
+	<key>Chinese Financial Numerals - Simp.</key>
+	<string>Chinese Financial Numerals - Simp.</string>
+	<key>Chinese Financial Numerals - Trad.</key>
+	<string>Chinese Financial Numerals - Trad.</string>
+	<key>Chinese Numerals - Simp.</key>
+	<string>Chinese Numerals - Simp.</string>
+	<key>Chinese Numerals - Trad.</key>
+	<string>Chinese Numerals - Trad.</string>
+	<key>Circled Numbers</key>
+	<string>Circled Numbers</string>
+	<key>Color</key>
+	<string>Color</string>
+	<key>Column Break</key>
+	<string>Column Break</string>
+	<key>Column Breaks</key>
+	<string>Column Breaks</string>
+	<key>Comment</key>
+	<string>Comment</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Copy Style</key>
+	<string>Copy Style</string>
+	<key>Create Style</key>
+	<string>Create Style</string>
+	<key>Cut</key>
+	<string>Cut</string>
+	<key>Date &amp; Time</key>
+	<string>Date &amp; Time</string>
+	<key>Decimal</key>
+	<string>Decimal</string>
+	<key>Decimal Tab</key>
+	<string>Decimal Tab</string>
+	<key>Decrease Indent</key>
+	<string>Decrease Indent</string>
+	<key>Decrease the indent level of selected text.</key>
+	<string>Decrease the indent level of selected text.</string>
+	<key>Define</key>
+	<string>Define</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete Style</key>
+	<string>Delete Style</string>
+	<key>Deleted: %@</key>
+	<string>Deleted: %@</string>
+	<key>Display</key>
+	<string>Display</string>
+	<key>Duration</key>
+	<string>Duration</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Edit Link</key>
+	<string>Edit Link</string>
+	<key>Edit Link Settings</key>
+	<string>Edit Link Settings</string>
+	<key>Email</key>
+	<string>Email</string>
+	<key>Extra Large</key>
+	<string>Extra Large</string>
+	<key>Font</key>
+	<string>Font</string>
+	<key>Fonts</key>
+	<string>Fonts</string>
+	<key>Format text</key>
+	<string>Format text</string>
+	<key>Free Form</key>
+	<string>Free Form</string>
+	<key>Generating table of contents…</key>
+	<string>Generating table of contents…</string>
+	<key>Guide</key>
+	<string>Guide</string>
+	<key>Guide Text</key>
+	<string>Guide Text</string>
+	<key>Header &amp; Footer</key>
+	<string>Header &amp; Footer</string>
+	<key>Hebrew Alpha</key>
+	<string>Hebrew Alpha</string>
+	<key>Hebrew Biblical</key>
+	<string>Hebrew Biblical</string>
+	<key>Hide Spelling and Grammar</key>
+	<string>Hide Spelling and Grammar</string>
+	<key>Hide Substitutions</key>
+	<string>Hide Substitutions</string>
+	<key>Highlight</key>
+	<string>Highlight</string>
+	<key>Hiragana</key>
+	<string>Hiragana</string>
+	<key>Horizontal</key>
+	<string>Horizontal</string>
+	<key>IPadLayout</key>
+	<string>Layout</string>
+	<key>IPadToday</key>
+	<string>Today</string>
+	<key>IPhoneLayout</key>
+	<string>Layout</string>
+	<key>IPhoneToday</key>
+	<string>Today</string>
+	<key>Ignore Grammar</key>
+	<string>Ignore Grammar</string>
+	<key>Ignore Spelling</key>
+	<string>Ignore Spelling</string>
+	<key>Increase Indent</key>
+	<string>Increase Indent</string>
+	<key>Increase the indent level of selected text.</key>
+	<string>Increase the indent level of selected text.</string>
+	<key>Insert</key>
+	<string>Insert</string>
+	<key>Insert anchor attachment</key>
+	<string>Insert anchor attachment</string>
+	<key>Insert attachment</key>
+	<string>Insert attachment</string>
+	<key>Justify text (align to the left and the right).</key>
+	<string>Justify text (align to the left and the right).</string>
+	<key>Kanji</key>
+	<string>Kanji</string>
+	<key>Katakana</key>
+	<string>Katakana</string>
+	<key>Katakana Iroha</key>
+	<string>Katakana Iroha</string>
+	<key>Korean</key>
+	<string>Korean</string>
+	<key>Large</key>
+	<string>Large</string>
+	<key>Layout Break</key>
+	<string>Layout Break</string>
+	<key>Layout Breaks</key>
+	<string>Layout Breaks</string>
+	<key>Learn Spelling</key>
+	<string>Learn Spelling</string>
+	<key>Left</key>
+	<string>Left</string>
+	<key>Left Tab</key>
+	<string>Left Tab</string>
+	<key>Line Break</key>
+	<string>Line Break</string>
+	<key>Line Breaks</key>
+	<string>Line Breaks</string>
+	<key>Line Spacing</key>
+	<string>Line Spacing</string>
+	<key>Link</key>
+	<string>Link</string>
+	<key>Link Settings</key>
+	<string>Link Settings</string>
+	<key>List</key>
+	<string>List</string>
+	<key>List Style</key>
+	<string>List Style</string>
+	<key>Look Up “%@”</key>
+	<string>Look Up “%@”</string>
+	<key>Make Link</key>
+	<string>Make Link</string>
+	<key>Make text bold.</key>
+	<string>Make text bold.</string>
+	<key>Make text italic.</key>
+	<string>Make text italic.</string>
+	<key>Mark text with boten emphasis.</key>
+	<string>Mark text with boten emphasis.</string>
+	<key>Mark text with sesame emphasis.</key>
+	<string>Mark text with sesame emphasis.</string>
+	<key>Mark text with wavy underline emphasis.</key>
+	<string>Mark text with wavy underline emphasis.</string>
+	<key>Medium</key>
+	<string>Medium</string>
+	<key>New Message</key>
+	<string>New Message</string>
+	<key>No Guesses Found</key>
+	<string>No Guesses Found</string>
+	<key>No Replacements Found</key>
+	<string>No Replacements Found</string>
+	<key>No Suggestions</key>
+	<string>No Suggestions</string>
+	<key>Non Breaking Space</key>
+	<string>Non Breaking Space</string>
+	<key>Non Breaking Spaces</key>
+	<string>Non Breaking Spaces</string>
+	<key>None</key>
+	<string>None</string>
+	<key>Now</key>
+	<string>Now</string>
+	<key>Open</key>
+	<string>Open</string>
+	<key>Page Break</key>
+	<string>Page Break</string>
+	<key>Page Breaks</key>
+	<string>Page Breaks</string>
+	<key>Paragraph BiDi Direction</key>
+	<string>Paragraph BiDi Direction</string>
+	<key>Paragraph Break</key>
+	<string>Paragraph Break</string>
+	<key>Paragraph Breaks</key>
+	<string>Paragraph Breaks</string>
+	<key>Paragraph Level</key>
+	<string>Paragraph Level</string>
+	<key>Paragraph Style</key>
+	<string>Paragraph Style</string>
+	<key>Paragraph style</key>
+	<string>Paragraph style</string>
+	<key>Paste</key>
+	<string>Paste</string>
+	<key>Paste Style</key>
+	<string>Paste Style</string>
+	<key>Paste into text</key>
+	<string>Paste into text</string>
+	<key>Pasting\U2026</key>
+	<string>Pasting…</string>
+	<key>Phonetic Guide</key>
+	<string>Phonetic Guide</string>
+	<key>Phonetic Guide Text...</key>
+	<string>Phonetic Guide Text...</string>
+	<key>Phonetics</key>
+	<string>Phonetics</string>
+	<key>Pinyin</key>
+	<string>Pinyin</string>
+	<key>Placeholder text</key>
+	<string>Placeholder text</string>
+	<key>Reject changes</key>
+	<string>Reject changes</string>
+	<key>Remove</key>
+	<string>Remove</string>
+	<key>Remove Comment</key>
+	<string>Remove Comment</string>
+	<key>Remove Comment and Highlight</key>
+	<string>Remove Comment and Highlight</string>
+	<key>Remove Guide</key>
+	<string>Remove Guide</string>
+	<key>Remove Highlight</key>
+	<string>Remove Highlight</string>
+	<key>Remove Link</key>
+	<string>Remove Link</string>
+	<key>Remove Phonetic Guide Text</key>
+	<string>Remove Phonetic Guide Text</string>
+	<key>Rename Style</key>
+	<string>Rename Style</string>
+	<key>Reorder Style</key>
+	<string>Reorder Style</string>
+	<key>Replace all</key>
+	<string>Replace all</string>
+	<key>Replace styles</key>
+	<string>Replace styles</string>
+	<key>Replace...</key>
+	<string>Replace...</string>
+	<key>Reverse Column Direction</key>
+	<string>Reverse Column Direction</string>
+	<key>Revert paragraph styles</key>
+	<string>Revert paragraph styles</string>
+	<key>Right</key>
+	<string>Right</string>
+	<key>Right Tab</key>
+	<string>Right Tab</string>
+	<key>Romaji</key>
+	<string>Romaji</string>
+	<key>SUM</key>
+	<string>SUM</string>
+	<key>Section Break</key>
+	<string>Section Break</string>
+	<key>Section Breaks</key>
+	<string>Section Breaks</string>
+	<key>Set List Start Number</key>
+	<string>Set List Start Number</string>
+	<key>Show Spelling and Grammar</key>
+	<string>Show Spelling and Grammar</string>
+	<key>Show Substitutions</key>
+	<string>Show Substitutions</string>
+	<key>Show advanced options.</key>
+	<string>Show advanced options.</string>
+	<key>Size</key>
+	<string>Size</string>
+	<key>Small</key>
+	<string>Small</string>
+	<key>Space</key>
+	<string>Space</string>
+	<key>Spaces</key>
+	<string>Spaces</string>
+	<key>Strikethrough text.</key>
+	<string>Strikethrough text.</string>
+	<key>Style</key>
+	<string>Style</string>
+	<key>Style...</key>
+	<string>Style...</string>
+	<key>Tab</key>
+	<string>Tab</string>
+	<key>Table of Contents</key>
+	<string>Table of Contents</string>
+	<key>Tabs</key>
+	<string>Tabs</string>
+	<key>Text</key>
+	<string>Text</string>
+	<key>Text Alignment</key>
+	<string>Text Alignment</string>
+	<key>Text Color</key>
+	<string>Text Color</string>
+	<key>Text Direction</key>
+	<string>Text Direction</string>
+	<key>Text Options</key>
+	<string>Text Options</string>
+	<key>Text Size</key>
+	<string>Text Size</string>
+	<key>The font %@ is missing. Your text might look different.</key>
+	<string>The font %@ is missing. Your text might look different.</string>
+	<key>The font %@ isn’t available on iOS. It was replaced with %@.</key>
+	<string>The font %1$@ isn’t available on iOS. It was replaced with %2$@.</string>
+	<key>The table of contents is empty because you aren't using the paragraph styles set to appear in it.</key>
+	<string>The table of contents is empty because you aren't using the paragraph styles set to appear in it.</string>
+	<key>The table of contents is empty because you haven't selected paragraph styles to appear in it.</key>
+	<string>The table of contents is empty because you haven't selected paragraph styles to appear in it.</string>
+	<key>Tiny</key>
+	<string>Tiny</string>
+	<key>To</key>
+	<string>To</string>
+	<key>Underline text.</key>
+	<string>Underline text.</string>
+	<key>Unlearn Spelling</key>
+	<string>Unlearn Spelling</string>
+	<key>Update All Date Time Fields</key>
+	<string>Update All Date Time Fields</string>
+	<key>Update Style</key>
+	<string>Update Style</string>
+	<key>Vertical</key>
+	<string>Vertical</string>
+	<key>Webpage</key>
+	<string>Webpage</string>
+	<key>Wrap Text in Cell</key>
+	<string>Wrap Text in Cell</string>
+	<key>Zhuyin</key>
+	<string>Zhuyin</string>
+	<key>\U201Cabc\U201D</key>
+	<string>“abc”</string>
+	<key>_</key>
+	<string>_</string>
+	<key>_____</key>
+	<string>_____</string>
+	<key>advanced options</key>
+	<string>advanced options</string>
+	<key>bold</key>
+	<string>bold</string>
+	<key>boten</key>
+	<string>boten</string>
+	<key>bottom</key>
+	<string>bottom</string>
+	<key>centered</key>
+	<string>centered</string>
+	<key>direction</key>
+	<string>direction</string>
+	<key>functions</key>
+	<string>functions</string>
+	<key>http://www.apple.com</key>
+	<string>http://www.apple.com</string>
+	<key>italic</key>
+	<string>italic</string>
+	<key>justified</key>
+	<string>justified</string>
+	<key>left</key>
+	<string>left</string>
+	<key>middle</key>
+	<string>middle</string>
+	<key>natural</key>
+	<string>natural</string>
+	<key>new</key>
+	<string>new</string>
+	<key>next</key>
+	<string>next</string>
+	<key>next </key>
+	<string>next </string>
+	<key>pt</key>
+	<string>pt</string>
+	<key>right</key>
+	<string>right</string>
+	<key>sesame</key>
+	<string>sesame</string>
+	<key>strikethrough</key>
+	<string>strikethrough</string>
+	<key>t/f</key>
+	<string>t/f</string>
+	<key>top</key>
+	<string>top</string>
+	<key>true/false</key>
+	<string>true/false</string>
+	<key>underline</key>
+	<string>underline</string>
+	<key>wavy underline</key>
+	<string>wavy underline</string>
+	<key>←</key>
+	<string>←</string>
+	<key>→</key>
+	<string>→</string>
+	<key>→→→</key>
+	<string>→→→</string>
+</dict>
+</plist>

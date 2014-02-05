@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADJUST_GRIP</key>
+	<string>Adjust Your Grip</string>
+	<key>CANCELED</key>
+	<string>Canceled</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>DEMO_FINGER</key>
+	<string>Your fingerprint will not be saved.</string>
+	<key>DEMO_TUTOR</key>
+	<string>Scan your finger. In this demo, your fingerprint data will not be saved.</string>
+	<key>DONT_MOVE_MUCH</key>
+	<string>Don’t move your finger too much between scans.</string>
+	<key>ENROLL_FAILED</key>
+	<string>This fingerprint cannot be read.</string>
+	<key>ENROLL_FAILED_PROMPT</key>
+	<string>Unable to Read
+This Fingerprint</string>
+	<key>ENROLL_FAILED_TITLE</key>
+	<string>Try Using a Different Finger</string>
+	<key>ERROR</key>
+	<string>Error</string>
+	<key>FAILED</key>
+	<string>Failed</string>
+	<key>FINGER_CAN_BE_USED</key>
+	<string>Touch ID is ready. Your print can be used for unlocking your iPhone.</string>
+	<key>FINGER_MOVED</key>
+	<string>Finger Moved</string>
+	<key>KEEP_FINGER</key>
+	<string>Don't lift until you feel a vibration.</string>
+	<key>KEEP_FINGER_TITLE</key>
+	<string>Keep Finger on Home Button</string>
+	<key>KEEP_GOING</key>
+	<string>Keep going to capture the edges of your print.</string>
+	<key>LIFT_AND_REST</key>
+	<string>Lift and rest the edge of your finger on the Home button repeatedly.</string>
+	<key>LIFT_AND_REST_LONGER</key>
+	<string>Lift and rest your finger on the Home button repeatedly.</string>
+	<key>LIFT_YOUR_FINGER</key>
+	<string>Lift Your Finger</string>
+	<key>MESA_IS_READY</key>
+	<string>Complete</string>
+	<key>MOVE_FINGER</key>
+	<string>Move your finger slightly between scans.</string>
+	<key>MOVE_FINGER_TITLE</key>
+	<string>Move Finger</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PLACE_YOUR_FINGER</key>
+	<string>Place Your Finger</string>
+	<key>REST_NOT_CLICK</key>
+	<string>Rest your finger on the Home button until you feel a vibration without clicking it.</string>
+	<key>SCAN_FINGER_HOME</key>
+	<string>Start by placing your finger or thumb on the Home button.</string>
+	<key>SENSOR_IS_READY</key>
+	<string>Touch ID is ready.</string>
+	<key>SET_UP_MESA</key>
+	<string>Place Your Finger</string>
+	<key>START</key>
+	<string>Start</string>
+	<key>TIMEOUT</key>
+	<string>Try Again</string>
+	<key>TOUCH_AND_COVER</key>
+	<string>Touch the Home button to enroll your fingerprint. Make sure to cover the ring and that your finger is dry.</string>
+	<key>TRY_AGAIN</key>
+	<string>Sorry, the operation was not successful. Please go back and try again.</string>
+	<key>YOU_CLICKED</key>
+	<string>Oops, You Clicked</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>move.buy.hint</key>
+	<string>Select a movie time</string>
+	<key>move.time.hint</key>
+	<string>Double tap to select</string>
+	<key>movie.rating</key>
+	<string>Rated %@</string>
+	<key>movie.rating.freshness</key>
+	<string>%@ fresh on Rotten Tomatoes</string>
+	<key>movie.rating.freshness.hint</key>
+	<string>Double tap to see reviews</string>
+	<key>movie.times</key>
+	<string>Playing at: %@</string>
+	<key>movie.trailer.label</key>
+	<string>Watch trailer</string>
+</dict>
+</plist>

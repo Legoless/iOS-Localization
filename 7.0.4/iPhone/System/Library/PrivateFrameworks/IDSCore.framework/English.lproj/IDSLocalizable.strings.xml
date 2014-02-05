@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ and %@</key>
+	<string>%@ and %@</string>
+	<key>%@, and %@</key>
+	<string>%@, and %@</string>
+	<key>Add %@ for %@</key>
+	<string>Add %@ for %@</string>
+	<key>Add \U201C%@\U201D for %@</key>
+	<string>Add “%@” for %@</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Do you want to add %@ to %@?</key>
+	<string>Do you want to add %@ to %@?</string>
+	<key>Do you want to add \U201C%@\U201D to %@?</key>
+	<string>Do you want to add “%@” to %@?</string>
+	<key>Email Address Added to \U201C%@\U201D</key>
+	<string>Email Address Added to “%@”</string>
+	<key>Email Addresses Added to \U201C%@\U201D</key>
+	<string>Email Addresses Added to “%@”</string>
+	<key>FaceTime</key>
+	<string>FaceTime</string>
+	<key>FaceTime Activation</key>
+	<string>FaceTime Activation</string>
+	<key>FaceTime and iMessage Activation</key>
+	<string>FaceTime and iMessage Activation</string>
+	<key>No</key>
+	<string>No</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Phone Number Added to \U201C%@\U201D</key>
+	<string>Phone Number Added to “%@”</string>
+	<key>The password for this Apple ID needs to be updated.</key>
+	<string>The password for this Apple ID needs to be updated.</string>
+	<key>The provided Apple ID needs some additional information in order to proceed.</key>
+	<string>The provided Apple ID needs some additional information in order to proceed.</string>
+	<key>This email address was recently added to your Apple ID \U201C%@\U201D on \U201C%@\U201D.</key>
+	<string>This email address was recently added to your Apple ID “%@” on “%@”.</string>
+	<key>This email address was recently added to your Apple ID \U201C%@\U201D.</key>
+	<string>This email address was recently added to your Apple ID “%@”.</string>
+	<key>This phone number was associated with the Apple ID \U201C%@\U201D on \U201C%@\U201D.</key>
+	<string>This phone number was associated with the Apple ID “%@” on “%@”.</string>
+	<key>This phone number was associated with the Apple ID \U201C%@\U201D.</key>
+	<string>This phone number was associated with the Apple ID “%@”.</string>
+	<key>Yes</key>
+	<string>Yes</string>
+	<key>Your carrier may charge for SMS messages used to activate FaceTime and iMessage.</key>
+	<string>Your carrier may charge for SMS messages used to activate FaceTime and iMessage.</string>
+	<key>Your carrier may charge for SMS messages used to activate FaceTime.</key>
+	<string>Your carrier may charge for SMS messages used to activate FaceTime.</string>
+	<key>Your carrier may charge for SMS messages used to activate iMessage.</key>
+	<string>Your carrier may charge for SMS messages used to activate iMessage.</string>
+	<key>\U201C</key>
+	<string>“</string>
+	<key>\U201C%@\U201D is now using %@ for %@.</key>
+	<string>“%@” is now using %@ for %@.</string>
+	<key>\U201D</key>
+	<string>”</string>
+	<key>iCloud</key>
+	<string>iCloud</string>
+	<key>iMessage</key>
+	<string>iMessage</string>
+	<key>iMessage Activation</key>
+	<string>iMessage Activation</string>
+</dict>
+</plist>

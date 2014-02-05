@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUDIENCE</key>
+	<string>Audience</string>
+	<key>CHOOSE_PHOTO_SET</key>
+	<string>Choose Photo Set</string>
+	<key>FAMILY</key>
+	<string>Family</string>
+	<key>FLICKR</key>
+	<string>Flickr</string>
+	<key>FRIENDS</key>
+	<string>Friends</string>
+	<key>LOCATION</key>
+	<string>Location</string>
+	<key>NO_FLICKR_ACCOUNT_MESSAGE</key>
+	<string>There are no Flickr accounts
+configured. You can add a Flickr account in Settings.</string>
+	<key>NO_FLICKR_ACCOUNT_TITLE</key>
+	<string>No Flickr Account</string>
+	<key>NO_SET</key>
+	<string>None</string>
+	<key>ONLY_ME</key>
+	<string>Only Me</string>
+	<key>PHOTOSET</key>
+	<string>Photo Set</string>
+	<key>PUBLIC</key>
+	<string>Public</string>
+</dict>
+</plist>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>base.sub.superscript.formatter</key>
+	<string>%1$@ base %2$@</string>
+	<key>base.sub.superscript.with.next.child.formatter</key>
+	<string>%1$@ of %2$@</string>
+	<key>binomial.coefficient.formatter</key>
+	<string>%1$@ choose %2$@</string>
+	<key>cube.root.formatter</key>
+	<string>cube root of %@, end of root</string>
+	<key>empty.content</key>
+	<string>blank</string>
+	<key>function.cos</key>
+	<string>cosine</string>
+	<key>function.exp</key>
+	<string>exponential function</string>
+	<key>function.lg</key>
+	<string>log</string>
+	<key>function.lim</key>
+	<string>limit from</string>
+	<key>function.ln</key>
+	<string>natural log</string>
+	<key>function.log</key>
+	<string>log</string>
+	<key>function.sin</key>
+	<string>sine</string>
+	<key>function.tan</key>
+	<string>tangent</string>
+	<key>generic.over.formula.formatter</key>
+	<string>%1$@ over %2$@</string>
+	<key>generic.over.under.formula.formatter</key>
+	<string>%1$@ over %2$@, with %3$@ underneath</string>
+	<key>generic.subscript.formatter</key>
+	<string>subscript %@</string>
+	<key>generic.superscript.formatter</key>
+	<string>superscript %@</string>
+	<key>generic.under.formula.formatter</key>
+	<string>%1$@, with %2$@ underneath</string>
+	<key>math.column.formatter</key>
+	<string>Column %@</string>
+	<key>math.fraction.formatter</key>
+	<string>fraction start, %1$@ over %2$@, end of fraction</string>
+	<key>math.fraction.with.long.numerator.formatter</key>
+	<string>fraction start, %1$@, over %2$@, end of fraction</string>
+	<key>math.long.division.formatter</key>
+	<string>divisor %1$@, remainder %2$@</string>
+	<key>math.row.and.column.formatter</key>
+	<string>Row %1$@, Column %2$@</string>
+	<key>math.row.column.with.content.formatter</key>
+	<string>%1$@, %2$@</string>
+	<key>math.row.formatter</key>
+	<string>Row %@</string>
+	<key>math.table.formatter</key>
+	<string>Table start, %@, table end</string>
+	<key>nth.root.formatter</key>
+	<string>%1$@ root of %2$@, end of root</string>
+	<key>operator.degrees</key>
+	<string>degrees</string>
+	<key>operator.negative</key>
+	<string>negative</string>
+	<key>raised.to.power.formatter</key>
+	<string>%1$@ to the %2$@</string>
+	<key>raised.to.power.with.long.base.formatter</key>
+	<string>%1$@, to the %2$@</string>
+	<key>range.sub.superscript.formatter</key>
+	<string>%1$@, from %2$@ to %3$@</string>
+	<key>range.sub.superscript.with.next.child.formatter</key>
+	<string>%1$@, of %2$@</string>
+	<key>row.summary.formatter</key>
+	<string>%@ terms</string>
+	<key>segment.base.firstchild.prefix</key>
+	<string></string>
+	<key>segment.base.firstchild.suffix</key>
+	<string></string>
+	<key>segment.base.secondchild.prefix</key>
+	<string>of </string>
+	<key>segment.base.secondchild.suffix</key>
+	<string></string>
+	<key>segment.base.subscript.prefix</key>
+	<string>base </string>
+	<key>segment.base.subscript.suffix</key>
+	<string></string>
+	<key>segment.binomial.coefficient.denominator.prefix</key>
+	<string>choose </string>
+	<key>segment.binomial.coefficient.denominator.suffix</key>
+	<string></string>
+	<key>segment.binomial.coefficient.numerator.prefix</key>
+	<string></string>
+	<key>segment.binomial.coefficient.numerator.suffix</key>
+	<string></string>
+	<key>segment.cube.root.index</key>
+	<string>cube root of</string>
+	<key>segment.denominator.prefix</key>
+	<string>over </string>
+	<key>segment.denominator.suffix</key>
+	<string>, end of fraction</string>
+	<key>segment.nth.root.index.prefix</key>
+	<string></string>
+	<key>segment.nth.root.index.suffix</key>
+	<string> root of</string>
+	<key>segment.numerator.prefix</key>
+	<string>fraction start, </string>
+	<key>segment.numerator.suffix</key>
+	<string></string>
+	<key>segment.over.prefix</key>
+	<string></string>
+	<key>segment.over.suffix</key>
+	<string> over</string>
+	<key>segment.radicand.prefix</key>
+	<string></string>
+	<key>segment.radicand.suffix</key>
+	<string>, end of root</string>
+	<key>segment.raised.to.power.prefix</key>
+	<string>to the </string>
+	<key>segment.raised.to.power.suffix</key>
+	<string></string>
+	<key>segment.range.firstchild.prefix</key>
+	<string></string>
+	<key>segment.range.firstchild.suffix</key>
+	<string></string>
+	<key>segment.range.secondchild.prefix</key>
+	<string>of </string>
+	<key>segment.range.secondchild.suffix</key>
+	<string></string>
+	<key>segment.range.subscript.prefix</key>
+	<string>from </string>
+	<key>segment.range.subscript.suffix</key>
+	<string></string>
+	<key>segment.range.superscript.prefix</key>
+	<string>to </string>
+	<key>segment.range.superscript.suffix</key>
+	<string></string>
+	<key>segment.square.root.index</key>
+	<string>square root of</string>
+	<key>segment.subscript.prefix</key>
+	<string>subscript </string>
+	<key>segment.subscript.suffix</key>
+	<string></string>
+	<key>segment.superscript.cubed</key>
+	<string>cubed</string>
+	<key>segment.superscript.prefix</key>
+	<string>superscript </string>
+	<key>segment.superscript.squared</key>
+	<string>squared</string>
+	<key>segment.superscript.suffix</key>
+	<string></string>
+	<key>segment.table.column.prefix.formatter</key>
+	<string>Column %@, </string>
+	<key>segment.table.column.suffix.formatter</key>
+	<string></string>
+	<key>segment.table.prefix</key>
+	<string>Table start, </string>
+	<key>segment.table.row.column.prefix.formatter</key>
+	<string>Row %1$@, Column %2$@, </string>
+	<key>segment.table.row.column.suffix.formatter</key>
+	<string></string>
+	<key>segment.table.row.prefix.formatter</key>
+	<string>Row %@, </string>
+	<key>segment.table.row.suffix.formatter</key>
+	<string></string>
+	<key>segment.table.suffix</key>
+	<string>, table end</string>
+	<key>segment.under.prefix</key>
+	<string>with </string>
+	<key>segment.under.suffix</key>
+	<string> underneath</string>
+	<key>square.root.formatter</key>
+	<string>square root of %@, end of root</string>
+	<key>superscript.cubed.formatter</key>
+	<string>%@ cubed</string>
+	<key>superscript.cubed.with.long.base.formatter</key>
+	<string>%@, cubed</string>
+	<key>superscript.squared.formatter</key>
+	<string>%@ squared</string>
+	<key>superscript.squared.with.long.base.formatter</key>
+	<string>%@, squared</string>
+	<key>table.summary.multiple.formatter</key>
+	<string>%@ tables</string>
+	<key>table.summary.single</key>
+	<string>1 table</string>
+</dict>
+</plist>

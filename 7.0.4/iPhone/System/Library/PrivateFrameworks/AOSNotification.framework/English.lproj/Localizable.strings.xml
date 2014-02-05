@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTIVATION_UNLOCK_FAIL_IPAD_TEXT</key>
+	<string>Activation Lock cannot be turned off at this time because this iPad is still being registered with iCloud. Try turning off Activation Lock again later.</string>
+	<key>ACTIVATION_UNLOCK_FAIL_IPHONE_TEXT</key>
+	<string>Activation Lock cannot be turned off at this time because this iPhone is still being registered with iCloud. Try turning off Activation Lock again later.</string>
+	<key>ACTIVATION_UNLOCK_FAIL_IPOD_TEXT</key>
+	<string>Activation Lock cannot be turned off at this time because this iPod is still being registered with iCloud. Try turning off Activation Lock again later.</string>
+	<key>ACTIVATION_UNLOCK_FAIL_OK_BUTTON</key>
+	<string>OK</string>
+	<key>ACTIVATION_UNLOCK_FAIL_TITLE</key>
+	<string>Cannot Turn Off Activation Lock</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_GENERIC_ERROR_IPAD_TEXT</key>
+	<string>There was a problem deregistering this iPad with iCloud. Try deleting your account again.</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_GENERIC_ERROR_IPAD_TITLE</key>
+	<string>Cannot Delete iCloud Account</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_GENERIC_ERROR_IPHONE_TEXT</key>
+	<string>There was a problem deregistering this iPhone with iCloud. Try deleting your account again.</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_GENERIC_ERROR_IPHONE_TITLE</key>
+	<string>Cannot Delete iCloud Account</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_GENERIC_ERROR_IPOD_TEXT</key>
+	<string>There was a problem deregistering this iPod with iCloud. Try deleting your account again.</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_GENERIC_ERROR_IPOD_TITLE</key>
+	<string>Cannot Delete iCloud Account</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_GENERIC_ERROR_OK_BUTTON</key>
+	<string>OK</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_NETWORK_ERROR_IPAD_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPad and delete your iCloud account.</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_NETWORK_ERROR_IPAD_TITLE</key>
+	<string>Cannot Delete iCloud Account</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_NETWORK_ERROR_IPHONE_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPhone and delete your iCloud account.</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_NETWORK_ERROR_IPHONE_TITLE</key>
+	<string>Cannot Delete iCloud Account</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_NETWORK_ERROR_IPOD_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPod and delete your iCloud account.</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_NETWORK_ERROR_IPOD_TITLE</key>
+	<string>Cannot Delete iCloud Account</string>
+	<key>FMIP_DELETE_ICLOUD_ACCOUNT_FAILED_NETWORK_ERROR_OK_BUTTON</key>
+	<string>OK</string>
+	<key>FMIP_ERASE_ALL_FAILED_GENERIC_ERROR_IPAD_TEXT</key>
+	<string>There was a problem deregistering this iPad with iCloud. Try erasing this iPad again.</string>
+	<key>FMIP_ERASE_ALL_FAILED_GENERIC_ERROR_IPAD_TITLE</key>
+	<string>Cannot Erase iPad</string>
+	<key>FMIP_ERASE_ALL_FAILED_GENERIC_ERROR_IPHONE_TEXT</key>
+	<string>There was a problem deregistering this iPhone with iCloud. Try erasing this iPhone again.</string>
+	<key>FMIP_ERASE_ALL_FAILED_GENERIC_ERROR_IPHONE_TITLE</key>
+	<string>Cannot Erase iPhone</string>
+	<key>FMIP_ERASE_ALL_FAILED_GENERIC_ERROR_IPOD_TEXT</key>
+	<string>There was a problem deregistering this iPod with iCloud. Try erasing this iPod again.</string>
+	<key>FMIP_ERASE_ALL_FAILED_GENERIC_ERROR_IPOD_TITLE</key>
+	<string>Cannot Erase iPod</string>
+	<key>FMIP_ERASE_ALL_FAILED_GENERIC_ERROR_OK_BUTTON</key>
+	<string>OK</string>
+	<key>FMIP_ERASE_ALL_FAILED_NETWORK_ERROR_IPAD_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPad and erase this iPad.</string>
+	<key>FMIP_ERASE_ALL_FAILED_NETWORK_ERROR_IPAD_TITLE</key>
+	<string>Cannot Erase iPad</string>
+	<key>FMIP_ERASE_ALL_FAILED_NETWORK_ERROR_IPHONE_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPhone and erase this iPhone.</string>
+	<key>FMIP_ERASE_ALL_FAILED_NETWORK_ERROR_IPHONE_TITLE</key>
+	<string>Cannot Erase iPhone</string>
+	<key>FMIP_ERASE_ALL_FAILED_NETWORK_ERROR_IPOD_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPod and erase this iPod.</string>
+	<key>FMIP_ERASE_ALL_FAILED_NETWORK_ERROR_IPOD_TITLE</key>
+	<string>Cannot Erase iPod</string>
+	<key>FMIP_ERASE_ALL_FAILED_NETWORK_ERROR_OK_BUTTON</key>
+	<string>OK</string>
+	<key>FMIP_TURN_OFF_FAILED_GENERIC_ERROR_IPAD_TEXT</key>
+	<string>There was a problem deregistering this iPad with iCloud. Try turning Find My iPad off again.</string>
+	<key>FMIP_TURN_OFF_FAILED_GENERIC_ERROR_IPAD_TITLE</key>
+	<string>Cannot Turn Off Find My iPad</string>
+	<key>FMIP_TURN_OFF_FAILED_GENERIC_ERROR_IPHONE_TEXT</key>
+	<string>There was a problem deregistering this iPhone with iCloud. Try turning Find My iPhone off again.</string>
+	<key>FMIP_TURN_OFF_FAILED_GENERIC_ERROR_IPHONE_TITLE</key>
+	<string>Cannot Turn Off Find My iPhone</string>
+	<key>FMIP_TURN_OFF_FAILED_GENERIC_ERROR_IPOD_TEXT</key>
+	<string>There was a problem deregistering this iPod with iCloud. Try turning Find My iPod off again.</string>
+	<key>FMIP_TURN_OFF_FAILED_GENERIC_ERROR_IPOD_TITLE</key>
+	<string>Cannot Turn Off Find My iPod</string>
+	<key>FMIP_TURN_OFF_FAILED_GENERIC_ERROR_OK_BUTTON</key>
+	<string>OK</string>
+	<key>FMIP_TURN_OFF_FAILED_NETWORK_ERROR_IPAD_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPad.</string>
+	<key>FMIP_TURN_OFF_FAILED_NETWORK_ERROR_IPAD_TITLE</key>
+	<string>Cannot Turn Off Find My iPad</string>
+	<key>FMIP_TURN_OFF_FAILED_NETWORK_ERROR_IPHONE_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPhone.</string>
+	<key>FMIP_TURN_OFF_FAILED_NETWORK_ERROR_IPHONE_TITLE</key>
+	<string>Cannot Turn Off Find My iPhone</string>
+	<key>FMIP_TURN_OFF_FAILED_NETWORK_ERROR_IPOD_TEXT</key>
+	<string>An Internet connection is required to turn off Find My iPod.</string>
+	<key>FMIP_TURN_OFF_FAILED_NETWORK_ERROR_IPOD_TITLE</key>
+	<string>Cannot Turn Off Find My iPod</string>
+	<key>FMIP_TURN_OFF_FAILED_NETWORK_ERROR_OK_BUTTON</key>
+	<string>OK</string>
+</dict>
+</plist>

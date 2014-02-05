@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ day</key>
+	<string>%@ day</string>
+	<key>%@ days</key>
+	<string>%@ days</string>
+	<key>%@ hour</key>
+	<string>%@ hour</string>
+	<key>%@ hours</key>
+	<string>%@ hours</string>
+	<key>%@ minute</key>
+	<string>%@ minute</string>
+	<key>%@ minutes</key>
+	<string>%@ minutes</string>
+	<key>%@ second</key>
+	<string>%@ second</string>
+	<key>%@ seconds</key>
+	<string>%@ seconds</string>
+</dict>
+</plist>

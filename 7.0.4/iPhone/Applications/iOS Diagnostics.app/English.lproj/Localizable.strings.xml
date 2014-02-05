@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONNECTION_ERROR</key>
+	<string>Cannot connect to server. Please make sure you are connected to the Internet and try again.</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>EXTENDED_TEST</key>
+	<string>Extended Test</string>
+	<key>INVALID_TICKET_ERROR</key>
+	<string>The ticket number was not found. Verify the number and try again.</string>
+	<key>LOADING</key>
+	<string>Loading...</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PLEASE_ENABLE_WIFI</key>
+	<string>Using Extended Test requires turning on Wi-Fi.</string>
+	<key>PLEASE_ENABLE_WLAN</key>
+	<string>Using Extended Test requires turning on WLAN.</string>
+	<key>PRIVACY_INFORMATION</key>
+	<string>By tapping “Quick Test” you agree that Apple may collect diagnostic data from this device, including the device serial number, device name and daily count of call attempts. The data collected will be used by Apple and its partners to troubleshoot issues with your device and to improve our products and services. For information on Apple’s Privacy Policy, see &lt;a href="http://www.apple.com/legal/privacy"&gt;http://www.apple.com/legal/privacy&lt;/a&gt;.</string>
+	<key>PRIVACY_INFORMATION_EXTENDED</key>
+	<string>By tapping “Quick Test” or “Extended Test” you agree that Apple may collect diagnostic data from this device, including the device serial number, device name and daily count of call attempts. If you tap “Extended Test”, then you agree that Apple may collect additional information, including app usage data and call duration. The data collected will be used by Apple and its partners to troubleshoot issues with your device and to improve our products and services. For information on Apple’s Privacy Policy, see &lt;a href="http://www.apple.com/legal/privacy"&gt;http://www.apple.com/legal/privacy&lt;/a&gt;.</string>
+	<key>RECEIVED_TODAY</key>
+	<string>Received Today</string>
+	<key>SEND</key>
+	<string>Send</string>
+	<key>SENDING_TO_APPLE</key>
+	<string>Sending...</string>
+	<key>STANDARD_TEST</key>
+	<string>Quick Test</string>
+	<key>TICKET_NUMBER</key>
+	<string>Ticket Number</string>
+	<key>TICKET_PLACEHOLDER</key>
+	<string>Required</string>
+</dict>
+</plist>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ - %@</key>
+	<string>%1$@ - %2$@</string>
+	<key>%@, %@</key>
+	<string>%1$@, %2$@</string>
+	<key>%ld Actors</key>
+	<string>%ld Actors</string>
+	<key>%ld Codecs</key>
+	<string>%ld Codecs</string>
+	<key>%ld Directors</key>
+	<string>%ld Directors</string>
+	<key>%ld Producers</key>
+	<string>%ld Producers</string>
+	<key>%ld Screenwriters</key>
+	<string>%ld Screenwriters</string>
+	<key>, </key>
+	<string>, </string>
+	<key>Actor</key>
+	<string>Actor</string>
+	<key>Actors</key>
+	<string>Actors</string>
+	<key>Are you sure you want to delete
+“%@”?</key>
+	<string>Are you sure you want to delete
+“%@”?</string>
+	<key>Are you sure you want to delete
+“%@”?
+If you delete this rented movie, you will need to rent it again in order to watch it.</key>
+	<string>Are you sure you want to delete
+“%@”?
+If you delete this rented movie, you will need to rent it again in order to watch it.</string>
+	<key>COMPLETE_MY_SEASON</key>
+	<string>Complete My Season</string>
+	<key>COMPLETE_MY_SEASON_FORMAT</key>
+	<string>Complete My Season %@</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Chapter %@</key>
+	<string>Chapter %@</string>
+	<key>Chapters</key>
+	<string>Chapters</string>
+	<key>Codec</key>
+	<string>Codec</string>
+	<key>Codecs</key>
+	<string>Codecs</string>
+	<key>Could not load movie</key>
+	<string>Could not load movie</string>
+	<key>Could not load video</key>
+	<string>Could not load video</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete Video?</key>
+	<string>Delete Video?</string>
+	<key>Details</key>
+	<string>Details</string>
+	<key>Dimensions</key>
+	<string>Dimensions</string>
+	<key>Director</key>
+	<string>Director</string>
+	<key>Directors</key>
+	<string>Directors</string>
+	<key>Do you want to play this rented movie?</key>
+	<string>Do you want to play this rented movie?</string>
+	<key>Episode %@</key>
+	<string>Episode %@</string>
+	<key>Episodes</key>
+	<string>Episodes</string>
+	<key>Exp. in %ldd</key>
+	<string>Exp. in %ldd</string>
+	<key>Exp. in %ldh</key>
+	<string>Exp. in %ldh</string>
+	<key>Exp. in %ldm</key>
+	<string>Exp. in %ldm</string>
+	<key>Expired</key>
+	<string>Expired</string>
+	<key>Expires in %ld day</key>
+	<string>Expires in %ld day</string>
+	<key>Expires in %ld days</key>
+	<string>Expires in %ld days</string>
+	<key>Expires in %ld hour</key>
+	<string>Expires in %ld hour</string>
+	<key>Expires in %ld hours</key>
+	<string>Expires in %ld hours</string>
+	<key>Expires in %ld minute</key>
+	<string>Expires in %ld minute</string>
+	<key>Expires in %ld minutes</key>
+	<string>Expires in %ld minutes</string>
+	<key>Genre</key>
+	<string>Genre</string>
+	<key>Get More Episodes…</key>
+	<string>Get More Episodes…</string>
+	<key>HD</key>
+	<string>HD</string>
+	<key>Home Videos</key>
+	<string>Home Videos</string>
+	<key>Home Videos</key>
+	<string>Home Videos</string>
+	<key>It will expire %ld day after you start watching it.</key>
+	<string>It will expire %ld day after you start watching it.</string>
+	<key>It will expire %ld days after you start watching it.</key>
+	<string>It will expire %ld days after you start watching it.</string>
+	<key>It will expire %ld hour after you start watching it.</key>
+	<string>It will expire %ld hour after you start watching it.</string>
+	<key>It will expire %ld hours after you start watching it.</key>
+	<string>It will expire %ld hours after you start watching it.</string>
+	<key>It will expire %ld minute after you start watching it.</key>
+	<string>It will expire %ld minute after you start watching it.</string>
+	<key>It will expire %ld minutes after you start watching it.</key>
+	<string>It will expire %ld minutes after you start watching it.</string>
+	<key>Length</key>
+	<string>Length</string>
+	<key>Loading…</key>
+	<string>Loading…</string>
+	<key>Movies</key>
+	<string>Movies</string>
+	<key>Music Videos</key>
+	<string>Music Videos</string>
+	<key>Music Videos</key>
+	<string>Music Videos</string>
+	<key>No Content</key>
+	<string>No Content</string>
+	<key>No Season</key>
+	<string>No Season</string>
+	<key>No related items</key>
+	<string>No related items</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Plot Summary</key>
+	<string>Plot Summary</string>
+	<key>Producer</key>
+	<string>Producer</string>
+	<key>Producers</key>
+	<string>Producers</string>
+	<key>REGULAR_PRICE_FORMAT</key>
+	<string>Regular Price %@</string>
+	<key>Read More</key>
+	<string>Read More</string>
+	<key>Related</key>
+	<string>Related</string>
+	<key>Released</key>
+	<string>Released</string>
+	<key>Rentals</key>
+	<string>Rentals</string>
+	<key>Rented Movie Will Expire</key>
+	<string>Rented Movie Will Expire</string>
+	<key>Retry</key>
+	<string>Retry</string>
+	<key>Run Time</key>
+	<string>Run Time</string>
+	<key>SHOW_COMPLETE_SEASON</key>
+	<string>Show Complete Season</string>
+	<key>Screenwriter</key>
+	<string>Screenwriter</string>
+	<key>Screenwriters</key>
+	<string>Screenwriters</string>
+	<key>Shared</key>
+	<string>Shared</string>
+	<key>Size</key>
+	<string>Size</string>
+	<key>Store</key>
+	<string>Store</string>
+	<key>Studio</key>
+	<string>Studio</string>
+	<key>TV Shows</key>
+	<string>TV Shows</string>
+	<key>There seems to be a problem downloading your video.</key>
+	<string>There seems to be a problem downloading your video.</string>
+	<key>This movie will expire very soon. If you stop watching after it expires, you will have to rent it again.</key>
+	<string>This movie will expire very soon. If you stop watching after it expires, you will have to rent it again.</string>
+	<key>Unable to turn on Home Sharing</key>
+	<string>Unable to turn on Home Sharing</string>
+	<key>X_EPISODES_TOTAL</key>
+	<string>%@ More Episodes</string>
+	<key>You can download videos from the iTunes Store.</key>
+	<string>You can download videos from the iTunes Store.</string>
+	<key>You have %lu day to watch “%@” and then it will be deleted</key>
+	<string>You have %1$lu day to watch “%2$@” and then it will be deleted</string>
+	<key>You have %lu days to watch “%@” and then it will be deleted</key>
+	<string>You have %1$lu days to watch “%2$@” and then it will be deleted</string>
+	<key>You have %lu hour to watch “%@” and then it will be deleted</key>
+	<string>You have %1$lu hour to watch “%2$@” and then it will be deleted</string>
+	<key>You have %lu hours to watch “%@” and then it will be deleted</key>
+	<string>You have %1$lu hours to watch “%2$@” and then it will be deleted</string>
+	<key>You have %lu minute to watch “%@” and then it will be deleted</key>
+	<string>You have %1$lu minute to watch “%2$@” and then it will be deleted</string>
+	<key>You have %lu minutes to watch “%@” and then it will be deleted</key>
+	<string>You have %1$lu minutes to watch “%2$@” and then it will be deleted</string>
+	<key>Your rental period for “%@” has expired</key>
+	<string>Your rental period for “%@” has expired</string>
+</dict>
+</plist>

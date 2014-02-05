@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TRUST_DIALOG_ALLOW_TRUST</key>
+	<string>Trust</string>
+	<key>TRUST_DIALOG_DENY_TRUST</key>
+	<string>Don’t Trust</string>
+	<key>TRUST_DIALOG_HEADER</key>
+	<string>Trust This Computer?</string>
+	<key>TRUST_DIALOG_MESSAGE</key>
+	<string>Your settings and data will be accessible from this computer when connected.</string>
+	<key>TRUST_FAILED_HEADER</key>
+	<string>Trust This Computer?</string>
+	<key>TRUST_FAILED_TEXT</key>
+	<string>Unlock this device and then reconnect it to this computer to create a trusted connection.</string>
+</dict>
+</plist>

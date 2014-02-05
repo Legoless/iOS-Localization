@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_ACCESS_MESSAGE</key>
+	<string>“%1$@” Would Like Access to %2$@ Accounts</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CONTINUE</key>
+	<string>Continue</string>
+	<key>DONT_ALLOW</key>
+	<string>Don’t Allow</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>VERIFICATION_REQUIRED_MESSAGE_FORMAT</key>
+	<string>Log into your %@ account “%@”.</string>
+	<key>VERIFICATION_REQUIRED_TITLE</key>
+	<string>Verification Required</string>
+</dict>
+</plist>

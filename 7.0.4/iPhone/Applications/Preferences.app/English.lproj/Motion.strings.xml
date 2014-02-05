@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MOTION</key>
+	<string>Motion Activity</string>
+	<key>OSCAR_FOOTER</key>
+	<string>Apps that have requested access to your motion activity will appear here.</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accessory</key>
+	<string>Accessory</string>
+	<key>Accessory Update Available</key>
+	<string>Accessory Update Available</string>
+	<key>Later</key>
+	<string>Later</string>
+	<key>Percent Complete</key>
+	<string>%d%% Complete</string>
+	<key>Preparing…</key>
+	<string>Preparing…</string>
+	<key>Update</key>
+	<string>Update</string>
+	<key>Update Optional Prompt</key>
+	<string>Would you like to update “%@”?</string>
+	<key>Updating Title Format</key>
+	<string>Updating “%@”</string>
+</dict>
+</plist>

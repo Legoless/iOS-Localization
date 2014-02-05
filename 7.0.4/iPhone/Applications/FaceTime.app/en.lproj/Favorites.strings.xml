@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD</key>
+	<string>Add</string>
+	<key>CHOOSE_CONTACT_TO_ADD</key>
+	<string>Choose a contact to add to Favorites</string>
+	<key>CHOOSE_NUMBER_TO_ADD</key>
+	<string>Choose a phone number to add to Favorites</string>
+	<key>DONE</key>
+	<string>Done|Edit</string>
+	<key>EDIT</key>
+	<string>Edit|Done</string>
+	<key>FACETIME_FAVORITES</key>
+	<string>FaceTime Favorites</string>
+	<key>NO_FAVORITES</key>
+	<string>No Favorites</string>
+	<key>REMOVE</key>
+	<string>Remove</string>
+	<key>SELECT_CANCEL</key>
+	<string>Cancel</string>
+	<key>SELECT_FACETIME</key>
+	<string>FaceTime</string>
+	<key>SELECT_FACETIME_AUDIO</key>
+	<string>FaceTime Audio</string>
+	<key>SELECT_FAVORITES_TYPE</key>
+	<string>Add %@ to Favorites as:</string>
+	<key>SELECT_VOICE_CALL</key>
+	<string>Voice Call</string>
+</dict>
+</plist>

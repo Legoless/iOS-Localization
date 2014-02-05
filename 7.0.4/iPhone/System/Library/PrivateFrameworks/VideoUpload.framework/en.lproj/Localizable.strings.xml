@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACCOUNT_BLANK</key>
+	<string>Account</string>
+	<key>ACCOUNT_NAME_FORMAT</key>
+	<string>Account: %@</string>
+	<key>AUTHENTICATION_FAILED_BODY</key>
+	<string>The username or password you entered is incorrect.</string>
+	<key>AUTHENTICATION_FAILED_TITLE</key>
+	<string>Authentication Failed</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CATEGORY</key>
+	<string>Category</string>
+	<key>DESCRIPTION</key>
+	<string>Description</string>
+	<key>EMAIL_ADDRESS</key>
+	<string>Email</string>
+	<key>HD</key>
+	<string>HD</string>
+	<key>MORE_INFO</key>
+	<string>More Info Required</string>
+	<key>NEW_TAG</key>
+	<string>New Tag</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OK_BUTTON</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PUBLISH</key>
+	<string>Publish</string>
+	<key>PUBLISH_VIDEO</key>
+	<string>Publish Video</string>
+	<key>REQUIRES_WIFI</key>
+	<string>(Requires Wi-Fi)</string>
+	<key>REQUIRES_WLAN</key>
+	<string>(Requires WLAN)</string>
+	<key>SIGN_IN</key>
+	<string>Sign In</string>
+	<key>SIGN_OUT</key>
+	<string>Sign Out</string>
+	<key>SIZE_FORMAT_PARENS</key>
+	<string>(~%@)</string>
+	<key>STANDARD_DEFINITION</key>
+	<string>Standard Definition</string>
+	<key>TAGS</key>
+	<string>Tags</string>
+	<key>TERMS_OF_USE</key>
+	<string>Terms of Use</string>
+	<key>TITLE</key>
+	<string>Title</string>
+	<key>USERNAME</key>
+	<string>Username</string>
+</dict>
+</plist>

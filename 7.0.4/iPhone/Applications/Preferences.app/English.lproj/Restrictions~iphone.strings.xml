@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>12+</key>
+	<string>12+</string>
+	<key>17+</key>
+	<string>17+</string>
+	<key>4+</key>
+	<string>4+</string>
+	<key>9+</key>
+	<string>9+</string>
+	<key>ACCOUNTS</key>
+	<string>Accounts</string>
+	<key>ACCOUNTS_EXPLANATION</key>
+	<string>Disallowing changes prevents adding, removing, or modifying accounts in Mail, Contacts, Calendars.</string>
+	<key>ADD_FRIENDS</key>
+	<string>Adding Friends</string>
+	<key>ADVERTISING</key>
+	<string>Advertising</string>
+	<key>ADVERTISING_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below.</string>
+	<key>AD_TRACKING</key>
+	<string>Limit Ad Tracking</string>
+	<key>AIRDROP</key>
+	<string>AirDrop</string>
+	<key>ALL</key>
+	<string>All</string>
+	<key>ALLOW</key>
+	<string>Allow:</string>
+	<key>ALLOW_CHANGES</key>
+	<string>Allow Changes:</string>
+	<key>ALLOW_CHANGES_VALUE</key>
+	<string>Allow Changes</string>
+	<key>ALLOW_CONTENT</key>
+	<string>Allowed Content:</string>
+	<key>ALL_ALLOWED</key>
+	<string>All</string>
+	<key>APPS_ALLOW_ALL</key>
+	<string>Allow All Apps</string>
+	<key>APPS_CONTENT</key>
+	<string>Apps</string>
+	<key>APPS_DISALLOW_ALL</key>
+	<string>Don’t Allow Apps</string>
+	<key>APPS_HEADER_TEXT</key>
+	<string>Allow Apps Rated</string>
+	<key>APP_INSTALL</key>
+	<string>Installing Apps</string>
+	<key>APP_PURCHASES</key>
+	<string>In-App Purchases</string>
+	<key>APP_UNINSTALL</key>
+	<string>Deleting Apps</string>
+	<key>BACKGROUND_APP_REFRESH</key>
+	<string>Background App Refresh</string>
+	<key>BT_PERIPHERAL</key>
+	<string>Bluetooth Sharing</string>
+	<key>BT_PERIPHERAL_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below. New apps will be prevented from sharing data via Bluetooth when you’re not using them.</string>
+	<key>CALENDARS</key>
+	<string>Calendars</string>
+	<key>CALENDARS_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using your calendars.</string>
+	<key>CAMERA</key>
+	<string>Camera</string>
+	<key>CAMERA_OFF_WARNING</key>
+	<string>By turning off Camera, you will turn off FaceTime.</string>
+	<key>CAR_DISPLAY</key>
+	<string>Car Display</string>
+	<key>CELLULAR_DATA</key>
+	<string>Cellular Data Use</string>
+	<key>CONFIRMATION_FAILURE</key>
+	<string>Passcodes did not match. Try again.</string>
+	<key>CONTACTS</key>
+	<string>Contacts</string>
+	<key>CONTACTS_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using your contacts.</string>
+	<key>COUNTRY_CODE_DEFAULT</key>
+	<string>us</string>
+	<key>COUNTRY_CONTENT</key>
+	<string>Ratings For</string>
+	<key>DELETE_PHOTOS</key>
+	<string>Editing &amp; Deleting Photos</string>
+	<key>DISABLE</key>
+	<string>Disable Restrictions</string>
+	<key>DISABLE_PIN</key>
+	<string>Disable Restrictions PIN</string>
+	<key>DONT_ALLOW_CHANGES_VALUE</key>
+	<string>Don’t Allow Changes</string>
+	<key>ENABLE</key>
+	<string>Enable Restrictions</string>
+	<key>ENABLE_PIN</key>
+	<string>Enable Restrictions PIN</string>
+	<key>ENTER_PIN</key>
+	<string>Enter Code</string>
+	<key>EXPLICIT_ALLOWED</key>
+	<string>Explicit</string>
+	<key>EXPLICIT_CONTENT_IAP_DISABLE</key>
+	<string>disable</string>
+	<key>EXPLICIT_CONTENT_IAP_ENABLE</key>
+	<string>enable</string>
+	<key>EXPLICIT_CONTENT_IAP_MESSAGE</key>
+	<string>Disconnect any accessories before changing this setting</string>
+	<key>EXPLICIT_CONTENT_IAP_WARNING_FORMAT</key>
+	<string>Cannot %@ explicit content</string>
+	<key>EXPLICIT_DISALLOWED</key>
+	<string>Clean</string>
+	<key>EXPLICIT_LANGUAGE</key>
+	<string>Explicit Language</string>
+	<key>FACEBOOK</key>
+	<string>Facebook</string>
+	<key>FACEBOOK_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using your Facebook account.</string>
+	<key>GAMECENTER</key>
+	<string>Game Center</string>
+	<key>GAMECENTER_CONTENT</key>
+	<string>Game Center:</string>
+	<key>IBOOKS</key>
+	<string>iBooks Store</string>
+	<key>IBOOKS_EXPLICIT</key>
+	<string>Books</string>
+	<key>IBOOKS_EXPLICIT_FOOTER</key>
+	<string>Allow sampling, downloading, and reading of Books with Explicit Sexual Content.</string>
+	<key>IBOOKS_EXPLICIT_SWITCH</key>
+	<string>Explicit Sexual Content</string>
+	<key>IBOOKS_EXPLICIT_TITLE</key>
+	<string>Allow Books Rated</string>
+	<key>ITUNES</key>
+	<string>iTunes Store</string>
+	<key>ITUNES_OFF_WARNING</key>
+	<string>By turning off iTunes, you will turn off Ping.</string>
+	<key>LOCATION</key>
+	<string>Location Services</string>
+	<key>LOCATION_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using location services.</string>
+	<key>MANAGED</key>
+	<string>Restrictions are currently set by a configuration profile and cannot be changed.</string>
+	<key>MEDIA_DELETION</key>
+	<string>Deleting Music &amp; Videos</string>
+	<key>MICROPHONE</key>
+	<string>Microphone</string>
+	<key>MICROPHONE_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below. New apps will be prevented from accessing the Microphone.</string>
+	<key>MOVIES_ALLOW_ALL</key>
+	<string>Allow All Movies</string>
+	<key>MOVIES_CONTENT</key>
+	<string>Movies</string>
+	<key>MOVIES_DISALLOW_ALL</key>
+	<string>Don’t Allow Movies</string>
+	<key>MOVIES_HEADER_TEXT</key>
+	<string>Allow Movies Rated</string>
+	<key>MULTIPLAYER</key>
+	<string>Multiplayer Games</string>
+	<key>MULTIPLE_MINUTES_TO_UNBLOCK</key>
+	<string>Try again in %@ minutes</string>
+	<key>MUSIC_CONTENT</key>
+	<string>Music &amp; Podcasts</string>
+	<key>MUSIC_EXPLICIT_CONTENT</key>
+	<string>Explicit Content</string>
+	<key>MUSIC_FOOTER_TEXT_ALLOW</key>
+	<string>Allow Playback of Music, Music Videos and Podcasts containing Explicit Content.</string>
+	<key>MUSIC_HEADER_TEXT</key>
+	<string>Allow Music &amp; Podcasts Rated</string>
+	<key>MUSIC_iTUNES_U_CONTENT</key>
+	<string>Music, Podcasts &amp; iTunes U</string>
+	<key>MUSIC_iTUNES_U_FOOTER_TEXT_ALLOW</key>
+	<string>Allow Playback of Music, Music Videos, Podcasts and iTunes U media containing Explicit Content.</string>
+	<key>MUSIC_iTUNES_U_HEADER_TEXT</key>
+	<string>Music, Podcasts &amp; iTunes U media Rated:</string>
+	<key>NONE_ALLOWED</key>
+	<string>None</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ONE_MINUTE_TO_UNBLOCK</key>
+	<string>Try again in %@ minute</string>
+	<key>PASSWORD_ENTRY_DEFAULT</key>
+	<string>%@ minutes</string>
+	<key>PASSWORD_ENTRY_EXPLANATION</key>
+	<string>Require password for purchases.</string>
+	<key>PASSWORD_ENTRY_IMMEDIATELY</key>
+	<string>Immediately</string>
+	<key>PHOTOS</key>
+	<string>Photos</string>
+	<key>PHOTOS_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using your photos.</string>
+	<key>PMCHANGE</key>
+	<string>Change Passcode</string>
+	<key>PMENTER</key>
+	<string>Enter Passcode</string>
+	<key>PMENTER_1_PROMPT</key>
+	<string>Enter your Restrictions Passcode</string>
+	<key>PMREMOVE</key>
+	<string>Turn off Passcode</string>
+	<key>PMREMOVE_1_PROMPT</key>
+	<string>Enter your Restrictions Passcode</string>
+	<key>PMSET</key>
+	<string>Set Passcode</string>
+	<key>PMSET_1_PROMPT</key>
+	<string>Enter a Restrictions Passcode</string>
+	<key>PMSET_2_PROMPT</key>
+	<string>Re-enter your Restrictions Passcode</string>
+	<key>PRIVACY</key>
+	<string>Privacy:</string>
+	<key>PURCHASES_PASSWORD_ENTRY</key>
+	<string>Require Password</string>
+	<key>REMINDERS</key>
+	<string>Reminders</string>
+	<key>REMINDERS_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using your reminders.</string>
+	<key>RESTRICTED</key>
+	<string>Restricted</string>
+	<key>RESTRICTIONS</key>
+	<string>Restrictions</string>
+	<key>SAFARI</key>
+	<string>Safari</string>
+	<key>SET_PIN</key>
+	<string>Set Code</string>
+	<key>SINAWEIBO</key>
+	<string>Sina Weibo</string>
+	<key>SINAWEIBO_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using your Sina Weibo account.</string>
+	<key>SIRI</key>
+	<string>Siri</string>
+	<key>TENCENTWEIBO</key>
+	<string>Tencent Weibo</string>
+	<key>TENCENTWEIBO_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using your Tencent Weibo account.</string>
+	<key>TV_ALLOW_ALL</key>
+	<string>Allow All TV Shows</string>
+	<key>TV_CONTENT</key>
+	<string>TV Shows</string>
+	<key>TV_DISALLOW_ALL</key>
+	<string>Don’t Allow TV Shows</string>
+	<key>TV_HEADER_TEXT</key>
+	<string>Allow TV Shows Rated</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>TWITTER_EXPLANATION</key>
+	<string>Disallowing changes locks the settings shown below and prevents new apps from using your Twitter account.</string>
+	<key>USER_GENERATED_CONTENT</key>
+	<string>Web Search Content</string>
+	<key>USER_GENERATED_FOOTER</key>
+	<string>Allow Siri to search content from Wikipedia, Bing, and Twitter.</string>
+	<key>VC_ON_WARNING</key>
+	<string>By turning on FaceTime, you will turn on Camera.</string>
+	<key>VIDEOCONFERENCING</key>
+	<string>FaceTime</string>
+	<key>VOLUME_LIMIT</key>
+	<string>Volume Limit</string>
+	<key>WEB_CONTENT</key>
+	<string>Websites</string>
+	<key>WRONG_1</key>
+	<string>Wrong Restrictions Passcode</string>
+	<key>WRONG_2</key>
+	<string>Try again</string>
+	<key>ru</key>
+	<string>Russia</string>
+</dict>
+</plist>

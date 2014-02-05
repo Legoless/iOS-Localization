@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>account.selector.hint</key>
+	<string>Double-tap to change accounts</string>
+	<key>account.selector.label</key>
+	<string>Selected account</string>
+	<key>attached.image</key>
+	<string>Preview</string>
+	<key>current.location</key>
+	<string>Current location</string>
+	<key>facebook.albums.label</key>
+	<string>Albums</string>
+	<key>facebook.audience.hint</key>
+	<string>Double tap to change privacy settings for this post</string>
+	<key>facebook.audience.label</key>
+	<string>Audience</string>
+	<key>location.active</key>
+	<string>Location active</string>
+	<key>location.cancel</key>
+	<string>Remove location</string>
+	<key>location.inactive</key>
+	<string>Location inactive</string>
+	<key>mention.sheet.appeared</key>
+	<string>Mention list visible</string>
+	<key>mention.sheet.hint</key>
+	<string>Select a username from the list below</string>
+	<key>post.composition</key>
+	<string>Message</string>
+	<key>tweet.characters.left</key>
+	<string>Characters remaining</string>
+	<key>tweet.text</key>
+	<string>Tweet</string>
+</dict>
+</plist>

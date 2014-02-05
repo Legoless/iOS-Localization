@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CALL_BACK</key>
+	<string>Call Back</string>
+	<key>CALL_BACK_FORMAT</key>
+	<string>Call back %@</string>
+	<key>CALL_DECLINED</key>
+	<string>call declined</string>
+	<key>CALL_FAILURE</key>
+	<string>Call Failure</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CHANGE_NOW</key>
+	<string>Change</string>
+	<key>CUSTOM</key>
+	<string>Custom…</string>
+	<key>DISMISS_ALERT</key>
+	<string>Dismiss</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>ENTER_PASSWORD_DESCRIPTION</key>
+	<string>Enter voicemail password</string>
+	<key>ENTER_PASSWORD_TITLE</key>
+	<string>Password Incorrect</string>
+	<key>ERROR</key>
+	<string>Error</string>
+	<key>FACETIME_AUDIO_LABEL</key>
+	<string>FaceTime Audio</string>
+	<key>FACETIME_DECLINED</key>
+	<string>FaceTime declined</string>
+	<key>FACETIME_FORMAT</key>
+	<string>FaceTime %@</string>
+	<key>IN_1_HOUR</key>
+	<string>In 1 hour</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>PASSWORD</key>
+	<string>Password</string>
+	<key>PASSWORD_EXPIRED_DESCRIPTION</key>
+	<string>You must change your password to retrieve messages.</string>
+	<key>PASSWORD_EXPIRED_TITLE</key>
+	<string>Voicemail Password Expired</string>
+	<key>PASSWORD_PROMPT_PLACEHOLDER</key>
+	<string>password</string>
+	<key>PASSWORD_RESET_CALL_BUTTON_TITLE</key>
+	<string>Call</string>
+	<key>PASSWORD_RESET_INFO</key>
+	<string>If you forgot your password, call %@ for assistance.</string>
+	<key>REMINDED_IN_AN_HOUR</key>
+	<string>You Will Be Reminded in 1 Hour</string>
+	<key>REMINDER_FAILED_NO_LOCATION_BASED_REMINDERS</key>
+	<string>The reminder could not be created, because your calendar account does not support location-based reminders.</string>
+	<key>REMINDER_FAILED_TRY_LATER</key>
+	<string>The reminder could not be created.  Please try again later.</string>
+	<key>REMIND_ME_LATER</key>
+	<string>Remind Me Later</string>
+	<key>REPLY_WITH_MESSAGE</key>
+	<string>Reply with Message</string>
+	<key>SLIDE_TO_CALL_BACK</key>
+	<string>slide to call back</string>
+	<key>SLIDE_TO_CALL_BACK_SHORT</key>
+	<string>call back</string>
+	<key>SOMEWHERE</key>
+	<string>Somewhere</string>
+	<key>TURN_ON_LOCATIONS</key>
+	<string>To create reminders based on your location, turn on location services for “Reminders” in Settings.</string>
+	<key>WHEN_I_GET_HOME</key>
+	<string>When I get home</string>
+	<key>WHEN_I_GET_TO_WORK</key>
+	<string>When I get to work</string>
+	<key>WHEN_I_LEAVE</key>
+	<string>When I leave</string>
+</dict>
+</plist>

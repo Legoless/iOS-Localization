@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AX_APP_SCREENSHOT</key>
+	<string>App Screenshot</string>
+	<key>AX_CLOSE_BUTTON</key>
+	<string>Delete</string>
+	<key>AX_INTEREST_AREA_COUNT_PLURAL</key>
+	<string>%@ areas</string>
+	<key>AX_INTEREST_AREA_COUNT_SINGULAR</key>
+	<string>%@ area</string>
+	<key>AX_RESIZE_BOTTOM_LEFT</key>
+	<string>Bottom Left</string>
+	<key>AX_RESIZE_BOTTOM_RIGHT</key>
+	<string>Bottom Right</string>
+	<key>AX_RESIZE_KNOB</key>
+	<string>Resize</string>
+	<key>AX_RESIZE_KNOB_HINT</key>
+	<string>Double tap and hold, then drag to adjust region</string>
+	<key>AX_RESIZE_TOP_LEFT</key>
+	<string>Top Left</string>
+	<key>AX_RESIZE_TOP_RIGHT</key>
+	<string>Top Right</string>
+	<key>CANCEL</key>
+	<string>Cancel</string>
+	<key>CANNOT_REUSE_PASSCODE</key>
+	<string>Cannot Reuse Passcode</string>
+	<key>CONFIRMATION_FAILURE</key>
+	<string>Passcodes did not match</string>
+	<key>DEVICE_IS_RESTRICTED</key>
+	<string>Guided Access app unavailable. Please contact your administrator</string>
+	<key>DONE</key>
+	<string>Done</string>
+	<key>END</key>
+	<string>End</string>
+	<key>GUIDED_ACCESS_TITLE</key>
+	<string>Guided Access</string>
+	<key>HARDWARE_FEATURE_LOCK</key>
+	<string>Sleep/Wake Button</string>
+	<key>HARDWARE_FEATURE_VOLUME</key>
+	<string>Volume Buttons</string>
+	<key>HELP_GENERAL</key>
+	<string>Guided Access restricts system features and touch interaction.</string>
+	<key>HELP_INTEREST_AREA</key>
+	<string>Circle areas on the screen you would like to disable.</string>
+	<key>INCOMING_FACETIME_CALL_SUBTITLE</key>
+	<string>would like FaceTime…</string>
+	<key>INCOMING_PHONE_CALL_SUBTITLE</key>
+	<string>phone</string>
+	<key>OPTIONS</key>
+	<string>Options</string>
+	<key>OPTIONS_FEATURE</key>
+	<string>%@ Options</string>
+	<key>OPTIONS_FEATURE_HARDWARE</key>
+	<string>Hardware Buttons</string>
+	<key>PINCODE_TITLE_CONFIRM</key>
+	<string>Confirm Passcode</string>
+	<key>PINCODE_TITLE_LOCKED</key>
+	<string>Enter Passcode</string>
+	<key>PINCODE_TITLE_SETUP</key>
+	<string>Set Passcode</string>
+	<key>RESUME</key>
+	<string>Resume</string>
+	<key>SESSION_ENDED</key>
+	<string>Guided Access Ended</string>
+	<key>SESSION_RUNNING_NOTE</key>
+	<string>Guided Access is enabled.
+Triple-click the home button to exit.</string>
+	<key>SESSION_STARTED</key>
+	<string>Guided Access Started</string>
+	<key>START</key>
+	<string>Start</string>
+	<key>SYS_FEATURE_MOTION</key>
+	<string>Motion</string>
+	<key>SYS_FEATURE_TOUCH</key>
+	<string>Touch</string>
+	<key>USER_LOCKED_OUT_VIA_CANCEL</key>
+	<string>Passcode entry disabled.
+You may try again after %@ seconds.</string>
+	<key>USER_LOCKED_OUT_VIA_FAIL</key>
+	<string>Incorrect passcode.
+You may try again after %@ seconds.</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUTTON_LABEL</key>
+	<string>OK</string>
+	<key>MOUNT_FAILURE_BODY</key>
+	<string>Cannot read the connected storage media.</string>
+	<key>MOUNT_FAILURE_TITLE</key>
+	<string>Contents not Available</string>
+	<key>POWER_HUNGRY_FAILURE_BODY</key>
+	<string>%@: The connected device requires too much power.</string>
+	<key>POWER_HUNGRY_FAILURE_TITLE</key>
+	<string>Cannot Use Device</string>
+	<key>UNKNOWN_DEVICE</key>
+	<string>Device</string>
+	<key>UNSUPPORTED_FAILURE_BODY</key>
+	<string>%@: The connected device is not supported.</string>
+	<key>UNSUPPORTED_FAILURE_TITLE</key>
+	<string>Cannot Use Device</string>
+	<key>VERIFICATION_FAILURE_BODY</key>
+	<string>Cannot read the connected storage media.</string>
+	<key>VERIFICATION_FAILURE_TITLE</key>
+	<string>Contents not Available</string>
+</dict>
+</plist>

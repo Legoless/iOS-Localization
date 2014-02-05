@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AX_IS_CANCELED</key>
+	<string>Is canceled</string>
+	<key>add.event.tablecells.hint</key>
+	<string>Double tap to edit</string>
+	<key>all.day.event</key>
+	<string>All day</string>
+	<key>all.day.multiple.days</key>
+	<string>All day from %@, to %@</string>
+	<key>began.end.time.adjust</key>
+	<string>Moving event end to: %@</string>
+	<key>began.start.time.adjust</key>
+	<string>Moving event start to: %@</string>
+	<key>began.time.adjust</key>
+	<string>Moving event on: %@</string>
+	<key>busy.level.2</key>
+	<string>Somewhat busy</string>
+	<key>busy.level.3</key>
+	<string>Moderately busy</string>
+	<key>busy.level.4</key>
+	<string>Busy</string>
+	<key>busy.level.5</key>
+	<string>Very busy</string>
+	<key>busy.level.6</key>
+	<string>Extremely busy</string>
+	<key>canceled.time.adjust</key>
+	<string>Canceled moving event</string>
+	<key>canceled.time.adjust.for.new.event</key>
+	<string>Canceled creating new event</string>
+	<key>date.scrubber.label</key>
+	<string>Date chooser</string>
+	<key>day.grid.scroll.status</key>
+	<string>%@ to %@</string>
+	<key>day.switch.cell.hint</key>
+	<string>Double tap to toggle day chooser</string>
+	<key>ended.end.time.adjust</key>
+	<string>Event end moved to: %@</string>
+	<key>ended.start.time.adjust</key>
+	<string>Event start moved to: %@</string>
+	<key>ended.time.adjust</key>
+	<string>Event moved to: %@</string>
+	<key>event.birthday</key>
+	<string>Birthday</string>
+	<key>event.cancelled</key>
+	<string>Event cancelled</string>
+	<key>event.declined</key>
+	<string>Event declined</string>
+	<key>event.duration</key>
+	<string>from %@ to %@</string>
+	<key>event.facebook</key>
+	<string>Facebook event</string>
+	<key>event.needsreply</key>
+	<string>Event needs reply</string>
+	<key>event.source.facebook</key>
+	<string>From Facebook</string>
+	<key>event.tentative</key>
+	<string>Tentative event</string>
+	<key>handles</key>
+	<string>Handles</string>
+	<key>in.progress</key>
+	<string>In Progress</string>
+	<key>invalid.end.date</key>
+	<string>Invalid because the end date must be after the start date</string>
+	<key>left.arrow.label</key>
+	<string>Previous</string>
+	<key>location.switch.cell.hint</key>
+	<string>Double tap to toggle location chooser</string>
+	<key>occurrence.gestures.hint</key>
+	<string>Double tap and hold, then move or use handles in rotor to adjust start and end times</string>
+	<key>occurrence.gestures.hint.all.day</key>
+	<string>Double tap and hold, then move to adjust start and end time</string>
+	<key>off.switch.cell</key>
+	<string>Off</string>
+	<key>on.switch.cell</key>
+	<string>On</string>
+	<key>resize.handle.end.hint</key>
+	<string>Double tap and hold, then move down to alter the end time.</string>
+	<key>resize.handle.end.label</key>
+	<string>Event end handle</string>
+	<key>resize.handle.start.hint</key>
+	<string>Double tap and hold, then move up to alter the start time.</string>
+	<key>resize.handle.start.label</key>
+	<string>Event start handle</string>
+	<key>right.arrow.label</key>
+	<string>Next</string>
+	<key>today</key>
+	<string>Today</string>
+</dict>
+</plist>

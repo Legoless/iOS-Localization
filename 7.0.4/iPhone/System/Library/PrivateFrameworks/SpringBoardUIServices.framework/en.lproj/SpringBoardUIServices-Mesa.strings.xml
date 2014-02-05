@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MESA_NEEDS_PASSCODE</key>
+	<string>Enter Passcode to Enable Touch ID</string>
+	<key>MESA_NEEDS_PASSCODE_BIO_EXPIRED</key>
+	<string>Passcode Required After 48 Hours</string>
+	<key>MESA_NEEDS_PASSCODE_BIO_LOCKOUT</key>
+	<string>Enter Passcode: Unrecognized Print</string>
+	<key>MESA_NEEDS_PASSCODE_REBOOT</key>
+	<string>Passcode Required After Restarting</string>
+</dict>
+</plist>

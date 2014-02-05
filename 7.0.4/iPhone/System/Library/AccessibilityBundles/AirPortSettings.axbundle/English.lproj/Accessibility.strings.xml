@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>personalhotspot.network</key>
+	<string>personal hotspot</string>
+	<key>secure.network</key>
+	<string>secure</string>
+	<key>select.to.join</key>
+	<string>Double tap to join the network.</string>
+	<key>wifi.strength</key>
+	<string>Signal strength %@</string>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> — %@ remaining</key>
+	<string> — %@ remaining</string>
+	<key>%@ %@ file\U2026</key>
+	<string>%1$@ %2$@ file…</string>
+	<key>%@ %@ files\U2026</key>
+	<string>%1$@ %2$@ files…</string>
+	<key>%@ \U201C%@\U201D\U2026</key>
+	<string>%1$@ “%2$@”…</string>
+	<key>%@ completed</key>
+	<string>%@ completed</string>
+	<key>%@ files\U2026</key>
+	<string>%@ files…</string>
+	<key>%@ of %@</key>
+	<string>%1$@ of %2$@</string>
+	<key>%@ of %@ (%@)</key>
+	<string>%1$@ of %2$@ (%3$@)</string>
+	<key>%@ of %@ file</key>
+	<string>%1$@ of %2$@ file</string>
+	<key>%@ of %@ files</key>
+	<string>%1$@ of %2$@ files</string>
+	<key>%@ remaining (%@)</key>
+	<string>%1$@ remaining (%2$@)</string>
+	<key>%@/sec</key>
+	<string>%@/sec</string>
+	<key>About %@ remaining</key>
+	<string>About %@ remaining</string>
+	<key>Copying</key>
+	<string>Copying</string>
+	<key>Decompressing</key>
+	<string>Decompressing</string>
+	<key>Downloading</key>
+	<string>Downloading</string>
+	<key>Processing</key>
+	<string>Processing</string>
+	<key>Receiving</key>
+	<string>Receiving</string>
+</dict>
+</plist>

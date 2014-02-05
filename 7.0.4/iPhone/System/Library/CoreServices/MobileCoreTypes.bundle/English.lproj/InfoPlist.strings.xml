@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>.Mac Neighborhood</key>
+	<string>.Mac Neighborhood</string>
+	<key>3GPP movie</key>
+	<string>3GPP movie</string>
+	<key>3GPP2 movie</key>
+	<string>3GPP2 movie</string>
+	<key>AAC audio</key>
+	<string>AAC audio</string>
+	<key>AC-3 audio</key>
+	<string>AC-3 audio</string>
+	<key>AFP Internet Location</key>
+	<string>AFP Internet Location</string>
+	<key>AFP Server</key>
+	<string>AFP Server</string>
+	<key>AFP internet location</key>
+	<string>AFP internet location</string>
+	<key>AIFF audio</key>
+	<string>AIFF audio</string>
+	<key>AIFF-C audio</key>
+	<string>AIFF-C audio</string>
+	<key>AU audio</key>
+	<string>AU audio</string>
+	<key>AVCHD Collection</key>
+	<string>AVCHD Collection</string>
+	<key>AVI movie</key>
+	<string>AVI movie</string>
+	<key>Action Games</key>
+	<string>Action Games</string>
+	<key>Ada source code</key>
+	<string>Ada source code</string>
+	<key>Adaptive Multi-rate audio</key>
+	<string>Adaptive Multi-rate audio</string>
+	<key>Adobe Acrobat Forms Document (FDF)</key>
+	<string>Adobe Acrobat Forms Document (FDF)</string>
+	<key>Adobe Acrobat Forms Document (XFDF)</key>
+	<string>Adobe Acrobat Forms Document (XFDF)</string>
+	<key>Adobe DRM Activation Key (EDN)</key>
+	<string>Adobe DRM Activation Key (EDN)</string>
+	<key>Adobe Digital Editions (ETD)</key>
+	<string>Adobe Digital Editions (ETD)</string>
+	<key>Adobe Illustrator document</key>
+	<string>Adobe Illustrator document</string>
+	<key>Adobe Photoshop document</key>
+	<string>Adobe Photoshop document</string>
+	<key>Advanced Authoring Format</key>
+	<string>Advanced Authoring Format</string>
+	<key>Adventure Games</key>
+	<string>Adventure Games</string>
+	<key>AirPort Extreme</key>
+	<string>AirPort Extreme</string>
+	<key>Alert Caution</key>
+	<string>Alert Caution</string>
+	<key>Alert Caution Badge</key>
+	<string>Alert Caution Badge</string>
+	<key>Alert Note</key>
+	<string>Alert Note</string>
+	<key>Alert Stop</key>
+	<string>Alert Stop</string>
+	<key>Alias Badge</key>
+	<string>Alias Badge</string>
+	<key>Apple CoreAudio format</key>
+	<string>Apple CoreAudio format</string>
+	<key>Apple Logo</key>
+	<string>Apple Logo</string>
+	<key>Apple MPEG-4 audio</key>
+	<string>Apple MPEG-4 audio</string>
+	<key>Apple MPEG-4 movie</key>
+	<string>Apple MPEG-4 movie</string>
+	<key>Apple Menu</key>
+	<string>Apple Menu</string>
+	<key>Apple Menu Folder</key>
+	<string>Apple Menu Folder</string>
+	<key>Apple Script Badge</key>
+	<string>Apple Script Badge</string>
+	<key>Apple TV</key>
+	<string>Apple TV</string>
+	<key>Apple Wireless Device</key>
+	<string>Apple Wireless Device</string>
+	<key>Apple icon image</key>
+	<string>Apple icon image</string>
+	<key>AppleScript</key>
+	<string>AppleScript</string>
+	<key>AppleScript text</key>
+	<string>AppleScript text</string>
+	<key>AppleSingle archive</key>
+	<string>AppleSingle archive</string>
+	<key>AppleTalk</key>
+	<string>AppleTalk</string>
+	<key>AppleTalk Zone</key>
+	<string>AppleTalk Zone</string>
+	<key>Application</key>
+	<string>Application</string>
+	<key>Application Support Folder</key>
+	<string>Application Support Folder</string>
+	<key>Applications Folder</key>
+	<string>Applications Folder</string>
+	<key>Arcade Games</key>
+	<string>Arcade Games</string>
+	<key>Assistants Folder</key>
+	<string>Assistants Folder</string>
+	<key>Audible.com audio</key>
+	<string>Audible.com audio</string>
+	<key>Audiovisual Collection</key>
+	<string>Audiovisual Collection</string>
+	<key>BD Video Disc</key>
+	<string>BD Video Disc</string>
+	<key>BOM-compatible archive</key>
+	<string>BOM-compatible archive</string>
+	<key>BOM-generated compressed CPIO archive</key>
+	<string>BOM-generated compressed CPIO archive</string>
+	<key>Backward Arrow</key>
+	<string>Backward Arrow</string>
+	<key>Board Games</key>
+	<string>Board Games</string>
+	<key>Bourne-Again Shell script</key>
+	<string>Bourne-Again Shell script</string>
+	<key>Bundle</key>
+	<string>Bundle</string>
+	<key>Burn</key>
+	<string>Burn</string>
+	<key>Burn Folder</key>
+	<string>Burn Folder</string>
+	<key>Business</key>
+	<string>Business</string>
+	<key>Bzip2 archive</key>
+	<string>Bzip2 archive</string>
+	<key>Bzip2 compressed tar archive</key>
+	<string>Bzip2 compressed tar archive</string>
+	<key>C Shell script</key>
+	<string>C Shell script</string>
+	<key>C header code</key>
+	<string>C header code</string>
+	<key>C source code</key>
+	<string>C source code</string>
+	<key>C++ Inline Header</key>
+	<string>C++ Inline Header</string>
+	<key>C++ header code</key>
+	<string>C++ header code</string>
+	<key>C++ source code</key>
+	<string>C++ source code</string>
+	<key>CDAudioVolume</key>
+	<string>CDAudioVolume</string>
+	<key>CFBundleName</key>
+	<string>CoreTypes</string>
+	<key>CPIO archive</key>
+	<string>CPIO archive</string>
+	<key>Card Games</key>
+	<string>Card Games</string>
+	<key>Casino Games</key>
+	<string>Casino Games</string>
+	<key>Classic System Folder</key>
+	<string>Classic System Folder</string>
+	<key>Clipping</key>
+	<string>Clipping</string>
+	<key>Color</key>
+	<string>Color</string>
+	<key>ColorSync Folder</key>
+	<string>ColorSync Folder</string>
+	<key>ColorSync profile</key>
+	<string>ColorSync profile</string>
+	<key>Component</key>
+	<string>Component</string>
+	<key>Computer</key>
+	<string>Computer</string>
+	<key>Connect To</key>
+	<string>Connect To</string>
+	<key>Contextual Menu Items Folder</key>
+	<string>Contextual Menu Items Folder</string>
+	<key>Control Panel Folder</key>
+	<string>Control Panel Folder</string>
+	<key>Customize Toolbar</key>
+	<string>Customize Toolbar</string>
+	<key>DICOM</key>
+	<string>DICOM</string>
+	<key>DV movie</key>
+	<string>DV movie</string>
+	<key>DVD Video Disc</key>
+	<string>DVD Video Disc</string>
+	<key>Data-fork font suitcase</key>
+	<string>Data-fork font suitcase</string>
+	<key>Delete Alias</key>
+	<string>Delete Alias</string>
+	<key>Delete Toolbar</key>
+	<string>Delete Toolbar</string>
+	<key>Desktop Folder</key>
+	<string>Desktop Folder</string>
+	<key>Developer Folder</key>
+	<string>Developer Folder</string>
+	<key>Developer Tools</key>
+	<string>Developer Tools</string>
+	<key>Device</key>
+	<string>Device</string>
+	<key>Dice Games</key>
+	<string>Dice Games</string>
+	<key>Digital Asset Exchange (DAE)</key>
+	<string>Digital Asset Exchange (DAE)</string>
+	<key>Disabled Control Panel Folder</key>
+	<string>Disabled Control Panel Folder</string>
+	<key>Disabled Extensions Folder</key>
+	<string>Disabled Extensions Folder</string>
+	<key>Disabled Shutdown Items Folder</key>
+	<string>Disabled Shutdown Items Folder</string>
+	<key>Disabled Startup Items Folder</key>
+	<string>Disabled Startup Items Folder</string>
+	<key>Disabled System Extension Folder</key>
+	<string>Disabled System Extension Folder</string>
+	<key>Disconnected File Server</key>
+	<string>Disconnected File Server</string>
+	<key>Document</key>
+	<string>Document</string>
+	<key>Documents Folder</key>
+	<string>Documents Folder</string>
+	<key>Drop Folder</key>
+	<string>Drop Folder</string>
+	<key>Dylan source code</key>
+	<string>Dylan source code</string>
+	<key>Edition File</key>
+	<string>Edition File</string>
+	<key>Education</key>
+	<string>Education</string>
+	<key>Educational Games</key>
+	<string>Educational Games</string>
+	<key>Eject Media</key>
+	<string>Eject Media</string>
+	<key>Encapsulated PostScript</key>
+	<string>Encapsulated PostScript</string>
+	<key>Entertainment</key>
+	<string>Entertainment</string>
+	<key>Erasing</key>
+	<string>Erasing</string>
+	<key>Executable Binary</key>
+	<string>Executable Binary</string>
+	<key>FLC animation</key>
+	<string>FLC animation</string>
+	<key>FTP Internet Location</key>
+	<string>FTP Internet Location</string>
+	<key>FTP Server</key>
+	<string>FTP Server</string>
+	<key>FTP internet location</key>
+	<string>FTP internet location</string>
+	<key>Family Games</key>
+	<string>Family Games</string>
+	<key>Favorite Items</key>
+	<string>Favorite Items</string>
+	<key>File Internet Location</key>
+	<string>File Internet Location</string>
+	<key>File Server</key>
+	<string>File Server</string>
+	<key>File Vault</key>
+	<string>FileVault</string>
+	<key>Finance</key>
+	<string>Finance</string>
+	<key>Finder</key>
+	<string>Finder</string>
+	<key>Flash video</key>
+	<string>Flash video</string>
+	<key>FlashPix image</key>
+	<string>FlashPix image</string>
+	<key>Folder</key>
+	<string>Folder</string>
+	<key>Font suitcase</key>
+	<string>Font suitcase</string>
+	<key>Fonts Folder</key>
+	<string>Fonts Folder</string>
+	<key>Fortran source code</key>
+	<string>Fortran source code</string>
+	<key>Forward Arrow</key>
+	<string>Forward Arrow</string>
+	<key>Full Trash</key>
+	<string>Full Trash</string>
+	<key>GZip archive</key>
+	<string>GZip archive</string>
+	<key>Games</key>
+	<string>Games</string>
+	<key>Graphics Interchange Format (GIF)</key>
+	<string>Graphics Interchange Format (GIF)</string>
+	<key>Graphics n Design</key>
+	<string>Graphics &amp; Design</string>
+	<key>Grid</key>
+	<string>Grid</string>
+	<key>Group</key>
+	<string>Group</string>
+	<key>Group Folder</key>
+	<string>Group Folder</string>
+	<key>Guest User</key>
+	<string>Guest User</string>
+	<key>HTML text</key>
+	<string>HTML text</string>
+	<key>HTTP Internet Location</key>
+	<string>HTTP Internet Location</string>
+	<key>HTTP Server</key>
+	<string>HTTP Server</string>
+	<key>Healthcare n Fitness</key>
+	<string>Healthcare &amp; Fitness</string>
+	<key>Help Folder</key>
+	<string>Help Folder</string>
+	<key>Help document</key>
+	<string>Help document</string>
+	<key>Home Folder</key>
+	<string>Home Folder</string>
+	<key>ICS File</key>
+	<string>ICS File</string>
+	<key>IPFileServer</key>
+	<string>IPFileServer</string>
+	<key>Icon Set</key>
+	<string>Icon Set</string>
+	<key>Installer package</key>
+	<string>Installer package</string>
+	<key>Installer package archive</key>
+	<string>Installer package archive</string>
+	<key>Internet Folder</key>
+	<string>Internet Folder</string>
+	<key>Internet Location</key>
+	<string>Internet Location</string>
+	<key>Internet PlugIn Folder</key>
+	<string>Internet PlugIn Folder</string>
+	<key>Internet Setup Assistant (INSS)</key>
+	<string>Internet Setup Assistant (INSS)</string>
+	<key>J2 fax</key>
+	<string>J2 fax</string>
+	<key>JPEG 2000 image</key>
+	<string>JPEG 2000 image</string>
+	<key>JPEG image</key>
+	<string>JPEG image</string>
+	<key>JSON</key>
+	<string>JSON</string>
+	<key>Java source code</key>
+	<string>Java source code</string>
+	<key>JavaScript source code</key>
+	<string>JavaScript source code</string>
+	<key>Keep Arranged</key>
+	<string>Keep Arranged</string>
+	<key>Kernel Extension</key>
+	<string>Kernel Extension</string>
+	<key>Keynote document</key>
+	<string>Keynote document</string>
+	<key>Keynote theme</key>
+	<string>Keynote theme</string>
+	<key>Kids Games</key>
+	<string>Kids Games</string>
+	<key>Korn Shell script</key>
+	<string>Korn Shell script</string>
+	<key>Lex source code</key>
+	<string>Lex source code</string>
+	<key>Library Folder</key>
+	<string>Library Folder</string>
+	<key>Lifestyle</key>
+	<string>Lifestyle</string>
+	<key>Locales Folder</key>
+	<string>Locales Folder</string>
+	<key>Locked</key>
+	<string>Locked</string>
+	<key>Locked Badge</key>
+	<string>Locked Badge</string>
+	<key>M3U Playlist</key>
+	<string>M3U Playlist</string>
+	<key>MIDI audio</key>
+	<string>MIDI audio</string>
+	<key>MIME type</key>
+	<string>MIME type</string>
+	<key>MINC Image</key>
+	<string>MINC Image</string>
+	<key>MP2 audio</key>
+	<string>MP2 audio</string>
+	<key>MP3 audio</key>
+	<string>MP3 audio</string>
+	<key>MPEG movie</key>
+	<string>MPEG movie</string>
+	<key>MPEG-2 Transport Stream</key>
+	<string>MPEG-2 Transport Stream</string>
+	<key>MPEG-2 video</key>
+	<string>MPEG-2 video</string>
+	<key>MPEG-4 audio</key>
+	<string>MPEG-4 audio</string>
+	<key>MPEG-4 movie</key>
+	<string>MPEG-4 movie</string>
+	<key>Mac</key>
+	<string>Mac</string>
+	<key>Mac Pro</key>
+	<string>Mac Pro</string>
+	<key>Mac mini</key>
+	<string>Mac mini</string>
+	<key>MacBook</key>
+	<string>MacBook</string>
+	<key>MacBook Air</key>
+	<string>MacBook Air</string>
+	<key>MacBook Pro</key>
+	<string>MacBook Pro</string>
+	<key>MacPaint image</key>
+	<string>MacPaint image</string>
+	<key>Magnifying Glass</key>
+	<string>Magnifying Glass</string>
+	<key>Mail Internet Location</key>
+	<string>Mail Internet Location</string>
+	<key>Medical</key>
+	<string>Medical</string>
+	<key>Microsoft Excel 2007 spreadsheet (macros enabled)</key>
+	<string>Microsoft Excel 2007 spreadsheet (macros enabled)</string>
+	<key>Microsoft Excel 97-2004 template</key>
+	<string>Microsoft Excel 97-2004 template</string>
+	<key>Microsoft Excel 97-2004 worksheet</key>
+	<string>Microsoft Excel 97-2004 worksheet</string>
+	<key>Microsoft Excel 97-2004 workspace</key>
+	<string>Microsoft Excel 97-2004 workspace</string>
+	<key>Microsoft Excel add-in</key>
+	<string>Microsoft Excel add-in</string>
+	<key>Microsoft PowerPoint 97-2004 presentation</key>
+	<string>Microsoft PowerPoint 97-2004 presentation</string>
+	<key>Microsoft PowerPoint 97-2004 slide show</key>
+	<string>Microsoft PowerPoint 97-2004 slide show</string>
+	<key>Microsoft PowerPoint 97-2004 template</key>
+	<string>Microsoft PowerPoint 97-2004 template</string>
+	<key>Microsoft Word 2003 XML document</key>
+	<string>Microsoft Word 2003 XML document</string>
+	<key>Microsoft Word 97 - 2004 document</key>
+	<string>Microsoft Word 97 - 2004 document</string>
+	<key>Microsoft Word 97 - 2004 template</key>
+	<string>Microsoft Word 97 - 2004 template</string>
+	<key>Mig definition source code</key>
+	<string>Mig definition source code</string>
+	<key>Mounted Badge</key>
+	<string>Mounted Badge</string>
+	<key>Mounted Folder</key>
+	<string>Mounted Folder</string>
+	<key>Movie Folder</key>
+	<string>Movie Folder</string>
+	<key>Multiple Picture Object image</key>
+	<string>Multiple Picture Object image</string>
+	<key>Music</key>
+	<string>Music</string>
+	<key>Music Folder</key>
+	<string>Music Folder</string>
+	<key>Music Games</key>
+	<string>Music Games</string>
+	<key>NIfTI-1</key>
+	<string>NIfTI-1</string>
+	<key>NSPasteboard type</key>
+	<string>NSPasteboard type</string>
+	<key>NetBootVolume</key>
+	<string>NetBootVolume</string>
+	<key>Network</key>
+	<string>Network</string>
+	<key>News</key>
+	<string>News</string>
+	<key>News Internet Location</key>
+	<string>News Internet Location</string>
+	<key>No Files</key>
+	<string>No Files</string>
+	<key>No Folder</key>
+	<string>No Folder</string>
+	<key>No Write</key>
+	<string>No Write</string>
+	<key>Notifications</key>
+	<string>Notifications</string>
+	<key>Numbers document</key>
+	<string>Numbers document</string>
+	<key>Numbers template</key>
+	<string>Numbers template</string>
+	<key>Objective-C source code</key>
+	<string>Objective-C source code</string>
+	<key>Objective-C++ source code</key>
+	<string>Objective-C++ source code</string>
+	<key>Office Open XML</key>
+	<string>Office Open XML</string>
+	<key>Office Open XML presentation</key>
+	<string>Office Open XML presentation</string>
+	<key>Office Open XML presentation (macros enabled)</key>
+	<string>Office Open XML presentation (macros enabled)</string>
+	<key>Office Open XML presentation template</key>
+	<string>Office Open XML presentation template</string>
+	<key>Office Open XML presentation template (macros enabled)</key>
+	<string>Office Open XML presentation template (macros enabled)</string>
+	<key>Office Open XML slide show</key>
+	<string>Office Open XML slide show</string>
+	<key>Office Open XML slide show (macros enabled)</key>
+	<string>Office Open XML slide show (macros enabled)</string>
+	<key>Office Open XML spreadsheet</key>
+	<string>Office Open XML spreadsheet</string>
+	<key>Office Open XML spreadsheet (macro enabled)</key>
+	<string>Office Open XML spreadsheet (macro enabled)</string>
+	<key>Office Open XML spreadsheet template</key>
+	<string>Office Open XML spreadsheet template</string>
+	<key>Office Open XML spreadsheet template (macro enabled)</key>
+	<string>Office Open XML spreadsheet template (macro enabled)</string>
+	<key>Office Open XML word processing document</key>
+	<string>Office Open XML word processing document</string>
+	<key>Office Open XML word processing document (macro enabled)</key>
+	<string>Office Open XML word processing document (macro enabled)</string>
+	<key>Office Open XML word processing template</key>
+	<string>Office Open XML word processing template</string>
+	<key>Office Open XML word processing template (macro enabled)</key>
+	<string>Office Open XML word processing template (macro enabled)</string>
+	<key>Open Document</key>
+	<string>Open Document</string>
+	<key>Open Document HTML template</key>
+	<string>Open Document HTML template</string>
+	<key>Open Document chart</key>
+	<string>Open Document chart</string>
+	<key>Open Document chart template</key>
+	<string>Open Document chart template</string>
+	<key>Open Document database</key>
+	<string>Open Document database</string>
+	<key>Open Document formula</key>
+	<string>Open Document formula</string>
+	<key>Open Document formula template</key>
+	<string>Open Document formula template</string>
+	<key>Open Document graphics</key>
+	<string>Open Document graphics</string>
+	<key>Open Document graphics template</key>
+	<string>Open Document graphics template</string>
+	<key>Open Document image</key>
+	<string>Open Document image</string>
+	<key>Open Document image template</key>
+	<string>Open Document image template</string>
+	<key>Open Document presentation</key>
+	<string>Open Document presentation</string>
+	<key>Open Document presentation template</key>
+	<string>Open Document presentation template</string>
+	<key>Open Document spreadsheet</key>
+	<string>Open Document spreadsheet</string>
+	<key>Open Document spreadsheet template</key>
+	<string>Open Document spreadsheet template</string>
+	<key>Open Document text</key>
+	<string>Open Document text</string>
+	<key>Open Document text master</key>
+	<string>Open Document text master</string>
+	<key>Open Document text template</key>
+	<string>Open Document text template</string>
+	<key>Open Folder</key>
+	<string>Open Folder</string>
+	<key>Open Media Framework interchange format</key>
+	<string>Open Media Framework interchange format</string>
+	<key>OpenEXR image</key>
+	<string>OpenEXR image</string>
+	<key>OpenOffice.org 1.0 Drawing</key>
+	<string>OpenOffice.org 1.0 Drawing</string>
+	<key>OpenOffice.org 1.0 Drawing Template</key>
+	<string>OpenOffice.org 1.0 Drawing Template</string>
+	<key>OpenOffice.org 1.0 Formula</key>
+	<string>OpenOffice.org 1.0 Formula</string>
+	<key>OpenOffice.org 1.0 Master</key>
+	<string>OpenOffice.org 1.0 Master</string>
+	<key>OpenOffice.org 1.0 Presentation</key>
+	<string>OpenOffice.org 1.0 Presentation</string>
+	<key>OpenOffice.org 1.0 Presentation Template</key>
+	<string>OpenOffice.org 1.0 Presentation Template</string>
+	<key>OpenOffice.org 1.0 Spreadsheet</key>
+	<string>OpenOffice.org 1.0 Spreadsheet</string>
+	<key>OpenOffice.org 1.0 Spreadsheet Template</key>
+	<string>OpenOffice.org 1.0 Spreadsheet Template</string>
+	<key>OpenOffice.org 1.0 Text</key>
+	<string>OpenOffice.org 1.0 Text</string>
+	<key>OpenOffice.org 1.0 Text Template</key>
+	<string>OpenOffice.org 1.0 Text Template</string>
+	<key>OpenType font</key>
+	<string>OpenType® font</string>
+	<key>Owned Folder</key>
+	<string>Owned Folder</string>
+	<key>Owner</key>
+	<string>Owner</string>
+	<key>PC</key>
+	<string>PC</string>
+	<key>PHP script</key>
+	<string>PHP script</string>
+	<key>PKZip archive</key>
+	<string>PKZip archive</string>
+	<key>PLS Playlist</key>
+	<string>PLS Playlist</string>
+	<key>Pages document</key>
+	<string>Pages document</string>
+	<key>Pages template</key>
+	<string>Pages template</string>
+	<key>Pascal source code</key>
+	<string>Pascal source code</string>
+	<key>Pass</key>
+	<string>Pass</string>
+	<key>Perl script</key>
+	<string>Perl script</string>
+	<key>Photography</key>
+	<string>Photography</string>
+	<key>Picture Clipping</key>
+	<string>Picture Clipping</string>
+	<key>Pictures Folder</key>
+	<string>Pictures Folder</string>
+	<key>Plug-in</key>
+	<string>Plug-in</string>
+	<key>PlugInKit plug-in</key>
+	<string>PlugInKit plug-in</string>
+	<key>Portable Document Format (PDF)</key>
+	<string>Portable Document Format (PDF)</string>
+	<key>Portable Network Graphics image</key>
+	<string>Portable Network Graphics image</string>
+	<key>PostScript</key>
+	<string>PostScript</string>
+	<key>PostScript OpenType font</key>
+	<string>PostScript® OpenType® font</string>
+	<key>PostScript Type 1 outline font</key>
+	<string>PostScript® Type 1 outline font</string>
+	<key>PostScript font</key>
+	<string>PostScript® font</string>
+	<key>Power Mac</key>
+	<string>Power Mac</string>
+	<key>Power Mac G4</key>
+	<string>Power Mac G4</string>
+	<key>Power Mac G5</key>
+	<string>Power Mac G5</string>
+	<key>PowerBook G4</key>
+	<string>PowerBook G4</string>
+	<key>Preferences Document</key>
+	<string>Preferences Document</string>
+	<key>Preferences Folder</key>
+	<string>Preferences Folder</string>
+	<key>Print Monitor Folder</key>
+	<string>Print Monitor Folder</string>
+	<key>Printer Description Folder</key>
+	<string>Printer Description Folder</string>
+	<key>Printer Driver Folder</key>
+	<string>Printer Driver Folder</string>
+	<key>Private Folder</key>
+	<string>Private Folder</string>
+	<key>Productivity</key>
+	<string>Productivity</string>
+	<key>Promised file URL</key>
+	<string>Promised file URL</string>
+	<key>Promised file content type</key>
+	<string>Promised file content type</string>
+	<key>Protected Application Folder</key>
+	<string>Protected Application Folder</string>
+	<key>Protected System Folder</key>
+	<string>Protected System Folder</string>
+	<key>Public Folder</key>
+	<string>Public Folder</string>
+	<key>Puzzle Games</key>
+	<string>Puzzle Games</string>
+	<key>Python script</key>
+	<string>Python script</string>
+	<key>Question Mark</key>
+	<string>Question Mark</string>
+	<key>QuickDraw picture</key>
+	<string>QuickDraw picture</string>
+	<key>QuickLook preview generator</key>
+	<string>QuickLook preview generator</string>
+	<key>QuickTime image</key>
+	<string>QuickTime image</string>
+	<key>QuickTime movie</key>
+	<string>QuickTime movie</string>
+	<key>RAM Disk</key>
+	<string>RAM Disk</string>
+	<key>RSS web feed</key>
+	<string>RSS web feed</string>
+	<key>Racing Games</key>
+	<string>Racing Games</string>
+	<key>Read-Only Folder</key>
+	<string>Read-Only Folder</string>
+	<key>RealMedia</key>
+	<string>RealMedia</string>
+	<key>RealMedia Audio</key>
+	<string>RealMedia Audio</string>
+	<key>RealMedia Variable Bitrate</key>
+	<string>RealMedia Variable Bitrate</string>
+	<key>Recent Applications Folder</key>
+	<string>Recent Applications Folder</string>
+	<key>Recent Documents Folder</key>
+	<string>Recent Documents Folder</string>
+	<key>Recent Items</key>
+	<string>Recent Items</string>
+	<key>Recent Servers Folder</key>
+	<string>Recent Servers Folder</string>
+	<key>Reference</key>
+	<string>Reference</string>
+	<key>Rez source code</key>
+	<string>Rez source code</string>
+	<key>Right Container Arrow</key>
+	<string>Right Container Arrow</string>
+	<key>Ringtone</key>
+	<string>Ringtone</string>
+	<key>Role Playing Games</key>
+	<string>Role Playing Games</string>
+	<key>Ruby script</key>
+	<string>Ruby script</string>
+	<key>Screen Saver</key>
+	<string>Screen Saver</string>
+	<key>Screen Slide Saver</key>
+	<string>Screen Slide Saver</string>
+	<key>Scripting Additions Folder</key>
+	<string>Scripting Additions Folder</string>
+	<key>Scripts Folder</key>
+	<string>Scripts Folder</string>
+	<key>Service</key>
+	<string>Service</string>
+	<key>Shared Badge</key>
+	<string>Shared Badge</string>
+	<key>Shared Folder</key>
+	<string>Shared Folder</string>
+	<key>Shared Library</key>
+	<string>Shared Library</string>
+	<key>Sharing Privs Not Applicable</key>
+	<string>Sharing Privs Not Applicable</string>
+	<key>Sharing Privs Read/Write</key>
+	<string>Sharing Privs Read/Write</string>
+	<key>Sharing Privs ReadOnly</key>
+	<string>Sharing Privs ReadOnly</string>
+	<key>Sharing Privs Unknown</key>
+	<string>Sharing Privs Unknown</string>
+	<key>Sharing Privs Writable</key>
+	<string>Sharing Privs Writable</string>
+	<key>Shortcut</key>
+	<string>Shortcut</string>
+	<key>Silicon Graphics image</key>
+	<string>Silicon Graphics image</string>
+	<key>Simulation Games</key>
+	<string>Simulation Games</string>
+	<key>Sites Folder</key>
+	<string>Sites Folder</string>
+	<key>Smart Folder</key>
+	<string>Smart Folder</string>
+	<key>Social Networking</key>
+	<string>Social Networking</string>
+	<key>Sort Ascending</key>
+	<string>Sort Ascending</string>
+	<key>Sort Descending</key>
+	<string>Sort Descending</string>
+	<key>Sound Clipping</key>
+	<string>Sound Clipping</string>
+	<key>Sound Designer II audio</key>
+	<string>Sound Designer II audio</string>
+	<key>SoundFont audio</key>
+	<string>SoundFont audio</string>
+	<key>Sports</key>
+	<string>Sports</string>
+	<key>Sports Games</key>
+	<string>Sports Games</string>
+	<key>Spotlight importer</key>
+	<string>Spotlight importer</string>
+	<key>Spreadsheet</key>
+	<string>Spreadsheet</string>
+	<key>Startup Folder</key>
+	<string>Startup Folder</string>
+	<key>Stationery</key>
+	<string>Stationery</string>
+	<key>Status Bar CD ROM</key>
+	<string>Status Bar CD ROM</string>
+	<key>Status Bar Trash</key>
+	<string>Status Bar Trash</string>
+	<key>Strategy Games</key>
+	<string>Strategy Games</string>
+	<key>StuffIt X archive</key>
+	<string>StuffIt X archive</string>
+	<key>StuffIt X index</key>
+	<string>StuffIt X index</string>
+	<key>StuffIt archive</key>
+	<string>StuffIt archive</string>
+	<key>StuffIt archive family</key>
+	<string>StuffIt archive family</string>
+	<key>System Folder</key>
+	<string>System Folder</string>
+	<key>System Menu Extra</key>
+	<string>System Menu Extra</string>
+	<key>System Preference pane</key>
+	<string>System Preference pane</string>
+	<key>TGA image</key>
+	<string>TGA image</string>
+	<key>TIFF image</key>
+	<string>TIFF image</string>
+	<key>Tenex C Shell script</key>
+	<string>Tenex C Shell script</string>
+	<key>Text Clipping</key>
+	<string>Text Clipping</string>
+	<key>Text Encodings Folder</key>
+	<string>Text Encodings Folder</string>
+	<key>Themes Folder</key>
+	<string>Themes Folder</string>
+	<key>Time Capsule</key>
+	<string>Time Capsule</string>
+	<key>Toolbar Applications Folder</key>
+	<string>Toolbar Applications Folder</string>
+	<key>Toolbar Documents Folder</key>
+	<string>Toolbar Documents Folder</string>
+	<key>Toolbar Favorites</key>
+	<string>Toolbar Favorites</string>
+	<key>Toolbar Home</key>
+	<string>Toolbar Home</string>
+	<key>Toolbar Movie Folder</key>
+	<string>Toolbar Movie Folder</string>
+	<key>Toolbar Music Folder</key>
+	<string>Toolbar Music Folder</string>
+	<key>Toolbar Pictures Folder</key>
+	<string>Toolbar Pictures Folder</string>
+	<key>Toolbar Public Folder</key>
+	<string>Toolbar Public Folder</string>
+	<key>Trash</key>
+	<string>Trash</string>
+	<key>Travel</key>
+	<string>Travel</string>
+	<key>Trivia Games</key>
+	<string>Trivia Games</string>
+	<key>TrueType OpenType font</key>
+	<string>TrueType® OpenType® font</string>
+	<key>TrueType collection</key>
+	<string>TrueType® collection</string>
+	<key>TrueType collection font</key>
+	<string>TrueType® collection font</string>
+	<key>TrueType datafork font</key>
+	<string>TrueType® datafork font</string>
+	<key>TrueType font</key>
+	<string>TrueType® font</string>
+	<key>URL</key>
+	<string>URL</string>
+	<key>URL name</key>
+	<string>URL name</string>
+	<key>UUEncoded archive</key>
+	<string>UUEncoded archive</string>
+	<key>Unknown Object</key>
+	<string>Unknown Object</string>
+	<key>Unlocked</key>
+	<string>Unlocked</string>
+	<key>User</key>
+	<string>User</string>
+	<key>User iDisk</key>
+	<string>User iDisk</string>
+	<key>Users Folder</key>
+	<string>Users Folder</string>
+	<key>Utilities</key>
+	<string>Utilities</string>
+	<key>VCS File</key>
+	<string>VCS File</string>
+	<key>VNC Internet Location</key>
+	<string>VNC Internet Location</string>
+	<key>Video</key>
+	<string>Video</string>
+	<key>Waveform audio</key>
+	<string>Waveform audio</string>
+	<key>Weather</key>
+	<string>Weather</string>
+	<key>Window</key>
+	<string>Window</string>
+	<key>Windows bitmap image</key>
+	<string>Windows bitmap image</string>
+	<key>Windows icon image</key>
+	<string>Windows icon image</string>
+	<key>Word Games</key>
+	<string>Word Games</string>
+	<key>X bitmap image</key>
+	<string>X bitmap image</string>
+	<key>XAR Archive</key>
+	<string>XAR Archive</string>
+	<key>XHTML</key>
+	<string>XHTML</string>
+	<key>XIP Secure Archive</key>
+	<string>XIP Secure Archive</string>
+	<key>XML Form (XFD)</key>
+	<string>XML Form (XFD)</string>
+	<key>XML property list</key>
+	<string>XML property list</string>
+	<key>XML text</key>
+	<string>XML text</string>
+	<key>XPC Service</key>
+	<string>XPC Service</string>
+	<key>Xserve</key>
+	<string>Xserve</string>
+	<key>Xserve G5</key>
+	<string>Xserve G5</string>
+	<key>Yacc source code</key>
+	<string>Yacc source code</string>
+	<key>Z Shell script</key>
+	<string>Z Shell script</string>
+	<key>Z archive</key>
+	<string>Z archive</string>
+	<key>Zip archive</key>
+	<string>Zip archive</string>
+	<key>alias</key>
+	<string>alias</string>
+	<key>alias data</key>
+	<string>alias data</string>
+	<key>application</key>
+	<string>application</string>
+	<key>assembly source code</key>
+	<string>assembly source code</string>
+	<key>audio</key>
+	<string>audio</string>
+	<key>audio unit preset</key>
+	<string>audio unit preset</string>
+	<key>audiovisual content</key>
+	<string>audiovisual content</string>
+	<key>binary property list</key>
+	<string>binary property list</string>
+	<key>bookmark</key>
+	<string>bookmark</string>
+	<key>bundle</key>
+	<string>bundle</string>
+	<key>calendar event</key>
+	<string>calendar event</string>
+	<key>certificate (X.509)</key>
+	<string>certificate (X.509)</string>
+	<key>clipping</key>
+	<string>clipping</string>
+	<key>comma-separated values</key>
+	<string>comma-separated values</string>
+	<key>contact information</key>
+	<string>contact information</string>
+	<key>content</key>
+	<string>content</string>
+	<key>data</key>
+	<string>data</string>
+	<key>database</key>
+	<string>database</string>
+	<key>delimited text values</key>
+	<string>delimited text values</string>
+	<key>directory</key>
+	<string>directory</string>
+	<key>disk image</key>
+	<string>disk image</string>
+	<key>downloadable sound</key>
+	<string>downloadable sound</string>
+	<key>eFax fax</key>
+	<string>eFax fax</string>
+	<key>electronic publication (ePub)</key>
+	<string>electronic publication (ePub)</string>
+	<key>fax</key>
+	<string>fax</string>
+	<key>file URL</key>
+	<string>file URL</string>
+	<key>file archive</key>
+	<string>file archive</string>
+	<key>file internet location</key>
+	<string>file internet location</string>
+	<key>file name extension</key>
+	<string>file name extension</string>
+	<key>folder</key>
+	<string>folder</string>
+	<key>font</key>
+	<string>font</string>
+	<key>font suitcase</key>
+	<string>font suitcase</string>
+	<key>four-character code</key>
+	<string>four-character code</string>
+	<key>framework</key>
+	<string>framework</string>
+	<key>iDisk</key>
+	<string>iDisk</string>
+	<key>iMac</key>
+	<string>iMac</string>
+	<key>iPhone</key>
+	<string>iPhone</string>
+	<key>iPhone 3G</key>
+	<string>iPhone 3G</string>
+	<key>iPod touch</key>
+	<string>iPod touch</string>
+	<key>iTunes store URL</key>
+	<string>iTunes store URL</string>
+	<key>image</key>
+	<string>image</string>
+	<key>internet location</key>
+	<string>internet location</string>
+	<key>item</key>
+	<string>item</string>
+	<key>localized PDF</key>
+	<string>localized PDF</string>
+	<key>mail internet location</key>
+	<string>mail internet location</string>
+	<key>message</key>
+	<string>message</string>
+	<key>mobile configuration</key>
+	<string>mobile configuration</string>
+	<key>mobile provision</key>
+	<string>mobile provision</string>
+	<key>mount point</key>
+	<string>mount point</string>
+	<key>movie</key>
+	<string>movie</string>
+	<key>neighborhood</key>
+	<string>neighborhood</string>
+	<key>news internet location</key>
+	<string>news internet location</string>
+	<key>package</key>
+	<string>package</string>
+	<key>patch file</key>
+	<string>patch file</string>
+	<key>personal information exchange (PKCS#12)</key>
+	<string>personal information exchange (PKCS#12)</string>
+	<key>picture clipping</key>
+	<string>picture clipping</string>
+	<key>plug-in</key>
+	<string>plug-in</string>
+	<key>precompiled C header</key>
+	<string>precompiled C header</string>
+	<key>precompiled C++ header</key>
+	<string>precompiled C++ header</string>
+	<key>preprocessed C source code</key>
+	<string>preprocessed C source code</string>
+	<key>preprocessed C++ source code</key>
+	<string>preprocessed C++ source code</string>
+	<key>preprocessed Objective-C source code</key>
+	<string>preprocessed Objective-C source code</string>
+	<key>preprocessed Objective-C++ source code</key>
+	<string>preprocessed Objective-C++ source code</string>
+	<key>preprocessed source code</key>
+	<string>preprocessed source code</string>
+	<key>presentation</key>
+	<string>presentation</string>
+	<key>property list</key>
+	<string>property list</string>
+	<key>protected MPEG-4 audio</key>
+	<string>protected MPEG-4 audio</string>
+	<key>protected MPEG-4 movie</key>
+	<string>protected MPEG-4 movie</string>
+	<key>resolvable</key>
+	<string>resolvable</string>
+	<key>rich text (RTF)</key>
+	<string>rich text (RTF)</string>
+	<key>rich text with attachments (RTFD)</key>
+	<string>rich text with attachments (RTFD)</string>
+	<key>rich text with attachments (RTFD) data</key>
+	<string>rich text with attachments (RTFD) data</string>
+	<key>scalable vector graphics (SVG)</key>
+	<string>scalable vector graphics (SVG)</string>
+	<key>script</key>
+	<string>script</string>
+	<key>sharepoint</key>
+	<string>sharepoint</string>
+	<key>shell script</key>
+	<string>shell script</string>
+	<key>source code</key>
+	<string>source code</string>
+	<key>symbol export list</key>
+	<string>symbol export list</string>
+	<key>symbolic link</key>
+	<string>symbolic link</string>
+	<key>tab-separated values</key>
+	<string>tab-separated values</string>
+	<key>text</key>
+	<string>text</string>
+	<key>text clipping</key>
+	<string>text clipping</string>
+	<key>text with multimedia</key>
+	<string>text with multimedia</string>
+	<key>uLaw audio</key>
+	<string>µLaw audio</string>
+	<key>video</key>
+	<string>video</string>
+	<key>volume</key>
+	<string>volume</string>
+	<key>web archive</key>
+	<string>web archive</string>
+	<key>web internet location</key>
+	<string>web internet location</string>
+	<key>writing</key>
+	<string>writing</string>
+</dict>
+</plist>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CANNOT_CONNECT</key>
+	<string>Cannot connect</string>
+	<key>CANNOT_CONNECT_TO_HOST</key>
+	<string>Cannot connect to %@</string>
+	<key>CANNOT_LOGIN_TITLE</key>
+	<string>Could Not Sign In</string>
+	<key>CONFIRM_MANIFEST_CANCEL</key>
+	<string>Cancel</string>
+	<key>CONFIRM_MANIFEST_DOWNLOADS</key>
+	<string>%@ would like to install %d applications</string>
+	<key>CONFIRM_MANIFEST_DOWNLOAD_GENERIC</key>
+	<string>%@ would like to install 1 application</string>
+	<key>CONFIRM_MANIFEST_DOWNLOAD_SPECIFIC</key>
+	<string>%@ would like to install “%@”</string>
+	<key>CONFIRM_MANIFEST_INSTALL</key>
+	<string>Install</string>
+	<key>DEFAULT_ERROR_TITLE</key>
+	<string>Cannot connect to iTunes Store</string>
+	<key>DOWNLOAD_MANIFEST_ERROR_FORMAT</key>
+	<string>Cannot connect to %@</string>
+	<key>HARDWARE_INCOMPATIBLE_ERROR_BODY_IPAD</key>
+	<string>This application is not compatible with this iPad.</string>
+	<key>HARDWARE_INCOMPATIBLE_ERROR_BODY_IPHONE</key>
+	<string>This application is not compatible with this iPhone.</string>
+	<key>HARDWARE_INCOMPATIBLE_ERROR_BODY_IPOD</key>
+	<string>This application is not compatible with this iPod.</string>
+	<key>HARDWARE_INCOMPATIBLE_ERROR_TITLE</key>
+	<string>Not Compatible</string>
+	<key>INCOMPATIBLE_DEVICE_ERROR_BODY</key>
+	<string>This application requires %@ %@ or later.</string>
+	<key>INCOMPATIBLE_DEVICE_ERROR_BODY_GENERIC</key>
+	<string>This application requires an %@ update.</string>
+	<key>INCOMPATIBLE_DEVICE_ERROR_TITLE</key>
+	<string>Update Required</string>
+	<key>ITEM_TOO_BIG_FOR_NETWORK_BODY</key>
+	<string>Connect to a Wi-Fi network or use iTunes on your computer to download this item.</string>
+	<key>ITEM_TOO_BIG_FOR_NETWORK_BODY_NO_ITUNES</key>
+	<string>Connect to a Wi-Fi network to download this item.</string>
+	<key>ITEM_TOO_BIG_FOR_NETWORK_BODY_NO_ITUNES_PLURAL</key>
+	<string>Connect to a Wi-Fi network to download these items.</string>
+	<key>ITEM_TOO_BIG_FOR_NETWORK_BODY_NO_WIFI</key>
+	<string>Use iTunes on your computer to download this item.</string>
+	<key>ITEM_TOO_BIG_FOR_NETWORK_BODY_NO_WIFI_PLURAL</key>
+	<string>Use iTunes on your computer to download these items.</string>
+	<key>ITEM_TOO_BIG_FOR_NETWORK_BODY_PLURAL</key>
+	<string>Connect to a Wi-Fi network or use iTunes on your computer to download these items.</string>
+	<key>ITEM_TOO_BIG_FOR_NETWORK_TITLE</key>
+	<string>Item Over %@</string>
+	<key>ITEM_TOO_BIG_FOR_NETWORK_TITLE_PLURAL</key>
+	<string>Items Over %@</string>
+	<key>NOT_ENOUGH_SPACE_PLURAL</key>
+	<string>There is not enough available storage to download these items.  You can manage your storage in Settings.</string>
+	<key>NOT_ENOUGH_SPACE_SETTINGS</key>
+	<string>Settings</string>
+	<key>NOT_ENOUGH_SPACE_SINGULAR</key>
+	<string>There is not enough available storage to download this item.  You can manage your storage in Settings.</string>
+	<key>NOT_ENOUGH_SPACE_SPECIFIC</key>
+	<string>There is not enough available storage to download “%@”.  You can manage your storage in Settings.</string>
+	<key>NOT_ENOUGH_SPACE_SPECIFIC_PLURAL</key>
+	<string>There is not enough available storage to download “%@” and %d other items.  You can manage your storage in Settings.</string>
+	<key>NOT_ENOUGH_SPACE_SPECIFIC_PLUS_ONE</key>
+	<string>There is not enough available storage to download “%@” and 1 other item.  You can manage your storage in Settings.</string>
+	<key>NOT_ENOUGH_SPACE_TITLE</key>
+	<string>Cannot Download</string>
+	<key>POLICY_BLOCKED_STATUS_CONNECT_TO_WIFI</key>
+	<string>Connect to Wi-Fi to download “%@”.</string>
+	<key>POLICY_BLOCKED_STATUS_CONNECT_TO_WIFI_ANON</key>
+	<string>Connect to Wi-Fi to continue downloading.</string>
+	<key>POLICY_BLOCKED_STATUS_CONNECT_TO_WLAN</key>
+	<string>Connect to a WLAN network to download “%@”.</string>
+	<key>POLICY_BLOCKED_STATUS_CONNECT_TO_WLAN_ANON</key>
+	<string>Connect to a WLAN network to continue downloading.</string>
+	<key>STALE_AUTO_UPDATES_BODY_ONE</key>
+	<string>An update for “%@” has been pending for %@ days. Download the update now over cellular? Additional fees may apply.</string>
+	<key>STALE_AUTO_UPDATES_BODY_ONE_ANON</key>
+	<string>An update has been pending for %@ days. Download the update now over cellular? Additional fees may apply.</string>
+	<key>STALE_AUTO_UPDATES_BODY_PLURAL</key>
+	<string>%@ updates have been pending for %@ days. Download the updates now over cellular? Additional fees may apply.</string>
+	<key>STALE_AUTO_UPDATES_CANCEL</key>
+	<string>Ignore</string>
+	<key>STALE_AUTO_UPDATES_OK_ONE</key>
+	<string>Download</string>
+	<key>STALE_AUTO_UPDATES_OK_PLURAL</key>
+	<string>Download</string>
+	<key>STALE_AUTO_UPDATES_TITLE</key>
+	<string>App Store</string>
+	<key>TOO_BIG_FOR_NETWORK_BODY</key>
+	<string>Connect to a Wi-Fi network or use iTunes on your computer to download this application.</string>
+	<key>TOO_BIG_FOR_NETWORK_BODY_NO_ITUNES</key>
+	<string>Connect to a Wi-Fi network to download this application.</string>
+	<key>TOO_BIG_FOR_NETWORK_BODY_NO_ITUNES_PLURAL</key>
+	<string>Connect to a Wi-Fi network to download these applications.</string>
+	<key>TOO_BIG_FOR_NETWORK_BODY_NO_WIFI</key>
+	<string>Use iTunes on your computer to download this application.</string>
+	<key>TOO_BIG_FOR_NETWORK_BODY_NO_WIFI_PLURAL</key>
+	<string>Use iTunes on your computer to download these applications.</string>
+	<key>TOO_BIG_FOR_NETWORK_BODY_PLURAL</key>
+	<string>Connect to a Wi-Fi network or use iTunes on your computer to download these applications.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC</key>
+	<string>Connect to a Wi-Fi network or use iTunes on your computer to download “%@”.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC_NO_ITUNES</key>
+	<string>Connect to a Wi-Fi network to download “%@”.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC_NO_ITUNES_PLURAL</key>
+	<string>Connect to a Wi-Fi network to download “%@” and %d other items.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC_NO_ITUNES_PLUS_ONE</key>
+	<string>Connect to a Wi-Fi network to download “%@” and 1 other item.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC_NO_WIFI</key>
+	<string>Use iTunes on your computer to download “%@”.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC_NO_WIFI_PLURAL</key>
+	<string>Use iTunes on your computer to download “%@” and %d other items.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC_NO_WIFI_PLUS_ONE</key>
+	<string>Use iTunes on your computer to download “%@” and 1 other item.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC_PLURAL</key>
+	<string>Connect to a Wi-Fi network or use iTunes on your computer to download “%@” and %d other items.</string>
+	<key>TOO_BIG_FOR_NETWORK_SPECIFIC_PLUS_ONE</key>
+	<string>Connect to a Wi-Fi network or use iTunes on your computer to download “%@” and 1 other item.</string>
+	<key>TOO_BIG_FOR_NETWORK_TITLE</key>
+	<string>Application Over %@</string>
+	<key>TOO_BIG_FOR_NETWORK_TITLE_PLURAL</key>
+	<string>Applications Over %@</string>
+	<key>UPDATE_NOTIFICATION_ONE</key>
+	<string>“%@” was updated</string>
+	<key>UPDATE_NOTIFICATION_ONE_ANON</key>
+	<string>One app was updated</string>
+	<key>UPDATE_NOTIFICATION_PLURAL</key>
+	<string>“%@” and %d other apps were updated</string>
+	<key>UPDATE_NOTIFICATION_PLURAL_ANON</key>
+	<string>%d apps were updated</string>
+	<key>UPDATE_NOTIFICATION_TITLE</key>
+	<string>App Store</string>
+	<key>UPDATE_NOTIFICATION_TWO</key>
+	<string>“%@” and “%@” were updated</string>
+	<key>UPDATE_NOTIFICATION_TWO_ANON</key>
+	<string>“%@” and one other app were updated</string>
+</dict>
+</plist>

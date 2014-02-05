@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> pt</key>
+	<string> pt</string>
+	<key>%@</key>
+	<string>%@</string>
+	<key>%@  l: %@</key>
+	<string>%1$@  l: %2$@</string>
+	<key>%@ files couldn\U2019t be inserted.</key>
+	<string>%@ files couldn’t be inserted.</string>
+	<key>%@ items couldn\U2019t be inserted.</key>
+	<string>%@ items couldn’t be inserted.</string>
+	<key>%@ movies couldn\U2019t be updated.</key>
+	<string>%@ movies couldn’t be updated.</string>
+	<key>%@ objects use this style.</key>
+	<string>%@ objects use this style.</string>
+	<key>%@_L:%d_&gt;</key>
+	<string>%1$@_L:%2$d_&gt;</string>
+	<key>%i\U00B0</key>
+	<string>%i°</string>
+	<key>%zu%%</key>
+	<string>%zu%%</string>
+	<key>1 object uses this style.</key>
+	<string>1 object uses this style.</string>
+	<key>Above and Below</key>
+	<string>Above and Below</string>
+	<key>Accept</key>
+	<string>Accept</string>
+	<key>Add Connection Line</key>
+	<string>Add Connection Line</string>
+	<key>Add a comment.</key>
+	<string>Add a comment.</string>
+	<key>Align Objects</key>
+	<string>Align Objects</string>
+	<key>All at Once</key>
+	<string>All at Once</string>
+	<key>All media files are at their optimal size.</key>
+	<string>All media files are at their optimal size.</string>
+	<key>Around</key>
+	<string>Around</string>
+	<key>Arrowhead</key>
+	<string>Arrowhead</string>
+	<key>Arrowhead Options</key>
+	<string>Arrowhead Options</string>
+	<key>Arrowheads</key>
+	<string>Arrowheads</string>
+	<key>Audio</key>
+	<string>Audio</string>
+	<key>Automatic</key>
+	<string>Automatic</string>
+	<key>Border</key>
+	<string>Border</string>
+	<key>Border Color</key>
+	<string>Border Color</string>
+	<key>Bottom</key>
+	<string>Bottom</string>
+	<key>Bring to Front</key>
+	<string>Bring to Front</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Center</key>
+	<string>Center</string>
+	<key>Center Resize</key>
+	<string>Center Resize</string>
+	<key>Change Border Color</key>
+	<string>Change Border Color</string>
+	<key>Change Border Pattern</key>
+	<string>Change Border Pattern</string>
+	<key>Change Border Width</key>
+	<string>Change Border Width</string>
+	<key>Change Connection Line Type</key>
+	<string>Change Connection Line Type</string>
+	<key>Circle: %@</key>
+	<string>Circle: %@</string>
+	<key>Click to draw straight lines. Drag to draw curved lines.
+To close a shape, click the first point. To leave a shape open, press Return.</key>
+	<string>Click to draw straight lines. Drag to draw curved lines.
+To close a shape, click the first point. To leave a shape open, press Return.</string>
+	<key>Close Path</key>
+	<string>Close Path</string>
+	<key>Color</key>
+	<string>Color</string>
+	<key>Comment</key>
+	<string>Comment</string>
+	<key>Connect</key>
+	<string>Connect</string>
+	<key>Connection</key>
+	<string>Connection</string>
+	<key>Copy</key>
+	<string>Copy</string>
+	<key>Corner</key>
+	<string>Corner</string>
+	<key>Curve</key>
+	<string>Curve</string>
+	<key>Cut</key>
+	<string>Cut</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Diagonal</key>
+	<string>Diagonal</string>
+	<key>Diagonal %d pt</key>
+	<string>Diagonal %d pt</string>
+	<key>Distribute Objects</key>
+	<string>Distribute Objects</string>
+	<key>Divide Path</key>
+	<string>Divide Path</string>
+	<key>Do you want to optimize these movies for iOS?</key>
+	<string>Do you want to optimize these movies for iOS?</string>
+	<key>Do you want to optimize this movie for iOS?</key>
+	<string>Do you want to optimize this movie for iOS?</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Double-click points to toggle between straight and curved lines.
+Drag a midpoint to divide a line and add a new point.</key>
+	<string>Double-click points to toggle between straight and curved lines.
+Drag a midpoint to divide a line and add a new point.</string>
+	<key>Duplicate</key>
+	<string>Duplicate</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Edit Mask</key>
+	<string>Edit Mask</string>
+	<key>Edit Media</key>
+	<string>Edit Media</string>
+	<key>Effects</key>
+	<string>Effects</string>
+	<key>Evenly</key>
+	<string>Evenly</string>
+	<key>Extra Space</key>
+	<string>Extra Space</string>
+	<key>File size will be reduced by about %@</key>
+	<string>File size will be reduced by about %@</string>
+	<key>File size will be reduced by changing image resolution and deleting unused parts of movies and audio.</key>
+	<string>File size will be reduced by changing image resolution and deleting unused parts of movies and audio.</string>
+	<key>Fill</key>
+	<string>Fill</string>
+	<key>Group</key>
+	<string>Group</string>
+	<key>Horizontal</key>
+	<string>Horizontal</string>
+	<key>Horizontal %d pt</key>
+	<string>Horizontal %d pt</string>
+	<key>Horizontally</key>
+	<string>Horizontally</string>
+	<key>IPad Arrange</key>
+	<string>Arrange</string>
+	<key>IPadFlip Horizontally</key>
+	<string>Flip Horizontally</string>
+	<key>IPadFlip Vertically</key>
+	<string>Flip Vertically</string>
+	<key>IPhone Arrange</key>
+	<string>Arrange</string>
+	<key>IPhoneFlip Horizontally</key>
+	<string>Flip Horizontally</string>
+	<key>IPhoneFlip Vertically</key>
+	<string>Flip Vertically</string>
+	<key>Image</key>
+	<string>Image</string>
+	<key>Inline with Text</key>
+	<string>Inline with Text</string>
+	<key>Insert</key>
+	<string>Insert</string>
+	<key>Insert children</key>
+	<string>Insert children</string>
+	<key>Instant Alpha</key>
+	<string>Instant Alpha</string>
+	<key>Join</key>
+	<string>Join</string>
+	<key>Left</key>
+	<string>Left</string>
+	<key>Line</key>
+	<string>Line</string>
+	<key>Line Color</key>
+	<string>Line Color</string>
+	<key>Lock</key>
+	<string>Lock</string>
+	<key>Loop</key>
+	<string>Loop</string>
+	<key>Loop Back &amp; Forth</key>
+	<string>Loop Back &amp; Forth</string>
+	<key>Make Bézier Point</key>
+	<string>Make Bézier Point</string>
+	<key>Make Sharp Point</key>
+	<string>Make Sharp Point</string>
+	<key>Make Smooth Point</key>
+	<string>Make Smooth Point</string>
+	<key>Mask With Selection</key>
+	<string>Mask With Selection</string>
+	<key>Mask With Shape</key>
+	<string>Mask With Shape</string>
+	<key>Mask with Shape</key>
+	<string>Mask with Shape</string>
+	<key>Match Size</key>
+	<string>Match Size</string>
+	<key>Middle</key>
+	<string>Middle</string>
+	<key>Move to Back/Front</key>
+	<string>Move to Back/Front</string>
+	<key>Move with Text</key>
+	<string>Move with Text</string>
+	<key>Movie</key>
+	<string>Movie</string>
+	<key>Never optimize movies on import</key>
+	<string>Never optimize movies on import</string>
+	<key>No Fill</key>
+	<string>No Fill</string>
+	<key>None</key>
+	<string>None</string>
+	<key>NoneArrowhead</key>
+	<string>None</string>
+	<key>NoneLooping</key>
+	<string>None</string>
+	<key>Not Now</key>
+	<string>Not Now</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Opacity</key>
+	<string>Opacity</string>
+	<key>Optimize</key>
+	<string>Optimize</string>
+	<key>Optimizing ensures playback on iOS devices.</key>
+	<string>Optimizing ensures playback on iOS devices.</string>
+	<key>Outset</key>
+	<string>Outset</string>
+	<key>Oval</key>
+	<string>Oval</string>
+	<key>Paste</key>
+	<string>Paste</string>
+	<key>Points: %d</key>
+	<string>Points: %d</string>
+	<key>Radius: %d pt</key>
+	<string>Radius: %d pt</string>
+	<key>Radius: %d%%</key>
+	<string>Radius: %d%%</string>
+	<key>Reduce</key>
+	<string>Reduce</string>
+	<key>Reducing file size...</key>
+	<string>Reducing file size...</string>
+	<key>Reflection</key>
+	<string>Reflection</string>
+	<key>Reject</key>
+	<string>Reject</string>
+	<key>Remove Instant Alpha</key>
+	<string>Remove Instant Alpha</string>
+	<key>Remove children</key>
+	<string>Remove children</string>
+	<key>Reorder children</key>
+	<string>Reorder children</string>
+	<key>Repeat</key>
+	<string>Repeat</string>
+	<key>Replace</key>
+	<string>Replace</string>
+	<key>Replace Image...</key>
+	<string>Replace Image...</string>
+	<key>Replace Media</key>
+	<string>Replace Media</string>
+	<key>Replace Media With Image</key>
+	<string>Replace Media With Image</string>
+	<key>Replace Media With Movie</key>
+	<string>Replace Media With Movie</string>
+	<key>Replace Media…</key>
+	<string>Replace Media…</string>
+	<key>Replacing Media\U2026</key>
+	<string>Replacing Media…</string>
+	<key>Reset Mask</key>
+	<string>Reset Mask</string>
+	<key>Right</key>
+	<string>Right</string>
+	<key>Scale</key>
+	<string>Scale</string>
+	<key>Send to Back</key>
+	<string>Send to Back</string>
+	<key>Set the space between the object and the text around it.</key>
+	<string>Set the space between the object and the text around it.</string>
+	<key>Setting movie poster frame\U2026</key>
+	<string>Setting movie poster frame…</string>
+	<key>Shadow</key>
+	<string>Shadow</string>
+	<key>Sharp</key>
+	<string>Sharp</string>
+	<key>Show Next %@</key>
+	<string>Show Next %@</string>
+	<key>Show Previous %@</key>
+	<string>Show Previous %@</string>
+	<key>Sides: %d</key>
+	<string>Sides: %d</string>
+	<key>Smooth</key>
+	<string>Smooth</string>
+	<key>Square: %@</key>
+	<string>Square: %@</string>
+	<key>Straight</key>
+	<string>Straight</string>
+	<key>Style</key>
+	<string>Style</string>
+	<key>Style Options</key>
+	<string>Style Options</string>
+	<key>Text wrap</key>
+	<string>Text wrap</string>
+	<key>The file couldn\U2019t be converted into a compatible format.</key>
+	<string>The file couldn’t be converted into a compatible format.</string>
+	<key>The image \U201C%@\U201D couldn\U2019t be inserted.</key>
+	<string>The image “%@” couldn’t be inserted.</string>
+	<key>The image couldn\U2019t be inserted.</key>
+	<string>The image couldn’t be inserted.</string>
+	<key>The media file \U201C%@\U201D is copy protected. You don't have permission to use it in Keynote.</key>
+	<string>The media file “%@” is copy protected. You don't have permission to use it in Keynote.</string>
+	<key>The media file \U201C%@\U201D is copy protected. You don't have permission to use it in Numbers.</key>
+	<string>The media file “%@” is copy protected. You don't have permission to use it in Numbers.</string>
+	<key>The media file \U201C%@\U201D is copy protected. You don't have permission to use it in Pages.</key>
+	<string>The media file “%@” is copy protected. You don't have permission to use it in Pages.</string>
+	<key>The movie \U201C%@\U201D couldn\U2019t be inserted.</key>
+	<string>The movie “%@” couldn’t be inserted.</string>
+	<key>The movie \U201C%@\U201D couldn\U2019t be optimized.</key>
+	<string>The movie “%@” couldn’t be optimized.</string>
+	<key>The movie can\U2019t be played on this device.</key>
+	<string>The movie can’t be played on this device.</string>
+	<key>The movie couldn\U2019t be inserted.</key>
+	<string>The movie couldn’t be inserted.</string>
+	<key>The movie doesn\U2019t contain audio or video.</key>
+	<string>The movie doesn’t contain audio or video.</string>
+	<key>The movie file couldn\U2019t be converted into a compatible format.</key>
+	<string>The movie file couldn’t be converted into a compatible format.</string>
+	<key>The movie file format is unrecognized.</key>
+	<string>The movie file format is unrecognized.</string>
+	<key>This document\U2019s file size can\U2019t be reduced.</key>
+	<string>This document’s file size can’t be reduced.</string>
+	<key>This image is of an unsupported type.</key>
+	<string>This image is of an unsupported type.</string>
+	<key>This image is too large to insert.</key>
+	<string>This image is too large to insert.</string>
+	<key>This movie can\U2019t be added.</key>
+	<string>This movie can’t be added.</string>
+	<key>This presentation\U2019s file size can\U2019t be reduced.</key>
+	<string>This presentation’s file size can’t be reduced.</string>
+	<key>This spreadsheet\U2019s file size can\U2019t be reduced.</key>
+	<string>This spreadsheet’s file size can’t be reduced.</string>
+	<key>Top</key>
+	<string>Top</string>
+	<key>Type a name to use in comments and tracked changes.</key>
+	<string>Type a name to use in comments and tracked changes.</string>
+	<key>Ungroup</key>
+	<string>Ungroup</string>
+	<key>Unlock</key>
+	<string>Unlock</string>
+	<key>Updating movie time\U2026</key>
+	<string>Updating movie time…</string>
+	<key>Vertical</key>
+	<string>Vertical</string>
+	<key>Vertical %d pt</key>
+	<string>Vertical %d pt</string>
+	<key>Vertically</key>
+	<string>Vertically</string>
+	<key>Width</key>
+	<string>Width</string>
+	<key>Wrap</key>
+	<string>Wrap</string>
+	<key>pt</key>
+	<string>pt</string>
+	<key>w: %@    h: %@</key>
+	<string>w: %1$@    h: %2$@</string>
+	<key>w: %@  h: %@</key>
+	<string>w: %1$@  h: %2$@</string>
+	<key>x: %@  y: %@</key>
+	<string>x: %1$@  y: %2$@</string>
+	<key>x: %@ %@</key>
+	<string>x: %1$@ %2$@</string>
+	<key>y: %@ %@</key>
+	<string>y: %1$@ %2$@</string>
+</dict>
+</plist>

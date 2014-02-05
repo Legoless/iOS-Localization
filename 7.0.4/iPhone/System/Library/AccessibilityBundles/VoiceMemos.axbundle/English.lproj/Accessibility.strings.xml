@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app.name</key>
+	<string>Voice Memos</string>
+	<key>audio.devices.button</key>
+	<string>Select audio device</string>
+	<key>audio.devices.button.hint</key>
+	<string>Select a device for sound output</string>
+	<key>current.position.slider</key>
+	<string>Current position</string>
+	<key>paused.status</key>
+	<string>Paused</string>
+	<key>play.pause.hint</key>
+	<string>Plays the voice memo</string>
+	<key>playback.elapsedtime.scrubber</key>
+	<string>Memo playback position</string>
+	<key>playing.status</key>
+	<string>Playing</string>
+	<key>saved.recordings.table</key>
+	<string>Saved memos</string>
+	<key>show.recordings.button</key>
+	<string>Show Recordings</string>
+	<key>stop.recordings.button</key>
+	<string>Stop</string>
+	<key>trim.beginning.slider</key>
+	<string>Trim beginning</string>
+	<key>trim.end.slider</key>
+	<string>Trim end</string>
+	<key>trim.pause.button</key>
+	<string>Pause</string>
+	<key>trim.play.button</key>
+	<string>Play</string>
+	<key>voice.memo.detail.hint</key>
+	<string>Activate to edit</string>
+	<key>voice.memo.title</key>
+	<string>Memo title</string>
+	<key>vu.meter</key>
+	<string>VU meter</string>
+</dict>
+</plist>

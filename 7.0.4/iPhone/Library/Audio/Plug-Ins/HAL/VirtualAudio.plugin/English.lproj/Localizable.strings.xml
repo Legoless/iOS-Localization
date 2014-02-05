@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mcal</key>
+	<string>All</string>
+	<key>mcbk</key>
+	<string>Back</string>
+	<key>mcbt</key>
+	<string>Bottom</string>
+	<key>mcfr</key>
+	<string>Front</string>
+	<key>mclf</key>
+	<string>Left</string>
+	<key>mcrt</key>
+	<string>Right</string>
+	<key>mctp</key>
+	<string>Top</string>
+	<key>pdsp</key>
+	<string>Dock Connector</string>
+	<key>phac</key>
+	<string>Hearing Aid Boost</string>
+	<key>phdm</key>
+	<string>Dock Connector</string>
+	<key>phpB</key>
+	<string>Bluetooth Audio</string>
+	<key>phpb</key>
+	<string>Bluetooth Audio</string>
+	<key>phpw</key>
+	<string>Headphones</string>
+	<key>pleo</key>
+	<string>Bluetooth Audio</string>
+	<key>plou</key>
+	<string>Dock Connector</string>
+	<key>pmbi</key>
+	<string>Microphone</string>
+	<key>pmbt</key>
+	<string>Bluetooth Audio</string>
+	<key>pmwi</key>
+	<string>Headphones</string>
+	<key>pnul</key>
+	<string>Null</string>
+	<key>prec</key>
+	<string>iPhone</string>
+	<key>pspf</key>
+	<string>S/PDIF</string>
+	<key>pspk</key>
+	<string>Speaker</string>
+	<key>psta</key>
+	<string>Car Display</string>
+	<key>psti</key>
+	<string>Car Display</string>
+	<key>psto</key>
+	<string>Car Display</string>
+	<key>ptti</key>
+	<string>TTY</string>
+	<key>ptto</key>
+	<string>TTY</string>
+	<key>pusi</key>
+	<string>Dock Connector</string>
+	<key>puso</key>
+	<string>Dock Connector</string>
+	<key>specific-pdsp</key>
+	<string>HDMI</string>
+	<key>specific-phdm</key>
+	<string>HDMI</string>
+	<key>specific-plou</key>
+	<string>Line Out</string>
+	<key>specific-pmwi</key>
+	<string>Headset Microphone</string>
+	<key>specific-prec</key>
+	<string>Receiver</string>
+	<key>specific-pspf</key>
+	<string>S/PDIF</string>
+	<key>specific-pusi</key>
+	<string>USB In</string>
+	<key>specific-puso</key>
+	<string>USB Out</string>
+</dict>
+</plist>

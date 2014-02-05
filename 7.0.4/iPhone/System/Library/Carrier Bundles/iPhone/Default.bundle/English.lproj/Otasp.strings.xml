@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Call disallowed</key>
+	<string>This number is not allowed</string>
+	<key>Dismiss</key>
+	<string>Dismiss</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Service Update Complete</key>
+	<string>Service Update Complete</string>
+	<key>Service Update Failed</key>
+	<string>Service Update Failed</string>
+	<key>Starting Service Update</key>
+	<string>Starting Service Update</string>
+</dict>
+</plist>

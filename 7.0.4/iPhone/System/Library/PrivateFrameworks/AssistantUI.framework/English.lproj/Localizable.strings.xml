@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FEET_ABBREVIATION</key>
+	<string>ft</string>
+	<key>INSTALL_APP_BUTTON_TITLE</key>
+	<string>Install %@</string>
+	<key>KILOMETERS_ABBREVIATION</key>
+	<string>km</string>
+	<key>LESS_THAN_ONE_DAY_HOURS_FORMAT</key>
+	<string>%@ HOURS AGO</string>
+	<key>LESS_THAN_ONE_HOUR_MINUTES_FORMAT</key>
+	<string>%@ MINUTES AGO</string>
+	<key>LESS_THAN_ONE_MINUTE_AGO</key>
+	<string>LESS THAN 1 MINUTE AGO</string>
+	<key>METERS_ABBREVIATION</key>
+	<string>m</string>
+	<key>MILES_ABBREVIATION</key>
+	<string>mi</string>
+	<key>PUNCHOUT_APP_NOT_AVAILABLE_IN_STOREFRONT</key>
+	<string>I'm sorry… the %@ app isn't available in your local App Store.</string>
+	<key>PUNCHOUT_FAILURE_FOR_APP</key>
+	<string>I can’t do that… you don’t have the %@ app installed.</string>
+	<key>SPEAKABLE_PUNCHOUT_APP_NOT_AVAILABLE_IN_STOREFRONT</key>
+	<string>I'm sorry…@{tts#\pause=500\} the %@ app isn't available in your local App Store.</string>
+	<key>SPEAKABLE_PUNCHOUT_FAILURE_FOR_APP</key>
+	<string>I can’t do that…@{tts#\pause=500\} you don’t have the %@ app installed.</string>
+</dict>
+</plist>
