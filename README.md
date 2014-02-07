@@ -16,7 +16,7 @@ Progress:
 | Settings      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | App Store     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Calendar      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Calculator    | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Calculator    | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Camera        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Clock         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Compass       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
@@ -49,6 +49,14 @@ Search for correct .deb file in Trunk directory for your device and version.
 
 Cydia Releases
 ----------------
+
+Application
+================
+The project includes a manager application for OS X, designed to work with Transifex API. It can be run on every Mac, running OS X Mavericks.
+
+Scripts
+================
+Bash scripts are included that use TX-Client (Transifex Client) to upload source resources to Transifex. They should be used for new iOS versions.
 
 License
 ================
