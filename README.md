@@ -34,10 +34,10 @@ Progress:
 | Photos        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Reminders     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Safari        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Stocks        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Stocks        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Videos        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Voice Memos   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Weather       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Weather       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 
 
 Installation
