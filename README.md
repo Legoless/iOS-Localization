@@ -45,7 +45,7 @@ Installation
 
 Manual
 ----------------
-Search for correct .deb file in Trunk directory for your device and version.
+Search for correct .deb file in Trunk directory for your device and version and copy it to device. Run .deb package in your package manager to install the translation.
 
 Cydia Releases
 ----------------
