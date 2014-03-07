@@ -19,12 +19,11 @@ Progress:
 | Calendar      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Calculator    | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Camera        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
-| Clock         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Compass       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Contacts      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Cydia         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Facetime      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
-| Game Center   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Game Center   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | iTunes        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Mail          | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Music         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
@@ -35,10 +34,10 @@ Progress:
 | Photos        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Preferences   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **56%**       |
 | Reminders     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
-| Safari        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Safari        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **40%**       |
 | Stocks        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
-| Videos        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Voice Memos   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Videos        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
+| Voice Memos   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **50%**       |
 | Weather       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 
 
