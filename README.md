@@ -13,26 +13,28 @@ Progress:
 | Component     |  Version      |  Devices      |  Language     |  Status       |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Core OS       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
+| Private       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **23%**       |
 | Settings      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
-| App Store     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| App Store     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Calendar      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Calculator    | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
-| Camera        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Camera        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Clock         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Compass       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Compass       | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Contacts      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Cydia         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Facetime      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Cydia         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
+| Facetime      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Game Center   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | iTunes        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Mail          | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Music         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Music         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Maps          | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Newsstand     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Notes         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Passbook      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Photos        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Reminders     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| Preferences   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **56%**       |
+| Reminders     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Safari        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Stocks        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Videos        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
