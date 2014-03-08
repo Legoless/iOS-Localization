@@ -24,7 +24,7 @@ Progress:
 | Cydia         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Facetime      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Game Center   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
-| iTunes        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
+| iTunes        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **34%**        |
 | Mail          | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Music         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Maps          | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
