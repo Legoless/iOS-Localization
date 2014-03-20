@@ -32,7 +32,7 @@ Progress:
 | Notes         | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Passbook      | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
 | Photos        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **0%**        |
-| Preferences   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **56%**       |
+| Preferences   | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **76%**       |
 | Reminders     | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
 | Safari        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **40%**       |
 | Stocks        | **7.0.4**     | iPhone        | Slovenščina (sl_SI)  | **100%**      |
