@@ -50,6 +50,7 @@ Search for correct .deb file in Trunk directory for your device and version and 
 
 Cydia Releases
 ----------------
+There are packages released on Cydia which you can install from their repository.
 
 Application
 ================
